@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CovidDrugs" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CovidDrugs</book-part-id>
+      <title-group>
+        <title>Covid-19 Drugs</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Corticosteroids" document-type="chapter">Corticosteroids</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="CovidMonoclonals" document-type="chapter">Covid-19 Monoclonal Antibodies: <underline>Monoclonal Antibodies to SARS-CoV-2</underline></related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CovidDrugs.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">In late 2019 a severe outbreak of acute respiratory illness was first identified in Wuhan, China and was shown to be due to a novel coronavirus, the Severe Acute Respiratory Syndrome associated Coronavirus-2 (SARS-CoV-2). The infection rapidly spread globally, causing severe morbidity and mortality worldwide. Within a year of its recognition as a global pandemic, more than 100 million persons had been infected with SARS-CoV-2 and more than 2 million had died of the resulting pneumonia and systemic illness, referred to has COVID-19. Antiviral therapies as well as immunomodulatory treatments evolved quickly, and preventive approaches were attempted, including use of convalescent serum, immune globulins, and monoclonal antibodies. Most importantly, innovative vaccines were developed, several of which have been granted emergency use authorization (EUA) in the United States and abroad. Hepatotoxicity has not been a major problem with most agents used in therapy of COVID-19, but instances of acute liver injury have been reported. Confounding the situation, it is also clear that patients with severe COVID-19 often have liver test abnormalities and some may have significant liver injury seemingly caused by the acute coronavirus infection itself.</p>
+        <p content-type="pubmed-excerpt">The therapy of COVID-19 includes oral and parenterally administered agents, antiviral drugs, immunomodulatory medications, anticytokines, monoclonal antibodies and miscellaneous agents. Many of the agents are conventional medications, initially approved for other medical conditions and repurposed to treat COVID-19. Prevention of COVID-19 was initially attempted using public health measures, as well as pre- and post-exposure antiviral therapies but was ultimately more reliably achieved by vaccination. Vaccines effective in preventing COVID-19 were developed rapidly and approved for use by the FDA in the United States under emergency use authorization. Use of convalescent plasma, immune globulins and monoclonal antibodies have also been assessed as means of prevention with promising but only partial efficacy. Most recently, specific, direct-acting antiviral agents have been developed with potent activity against SARS-CoV-2 in vitro and in vivo. These agents were found to be effective if administered soon after onset of infection, most reliably if given with 5 days of onset of symptoms or first identification of infection.</p>
+        <p content-type="pubmed-excerpt">Hepatotoxicity is rare with most medications used to treat COVID-19, but can occur. Most medications are given for a short time only, and the symptoms and signs of the SARS-CoV-2 infection overshadow the mild and transient liver injury that arises with some of the medications used to treat or manage COVID-19. Furthermore, instances of acute hepatitis and bile duct injury and loss have been reported in patients with severe COVID-19 in which medications did not appear to play a role.</p>
+        <p>Repurposed drugs that have been applied to treatment of COVID-19 include chloroquine and hydroxychloroquine, azithromycin, ivermectin, fluvoxamine colchicine, interferon beta and lopinavir/ritonavir. Despite early enthusiasm and some in vitro and animal model data supporting use of these agents, none of them has been shown to improve symptoms or signs, shorten the duration of illness, prevent complications or decrease mortality. Most of these agents have been implicated in rare cases of drug induced liver disease, but no specific instances of clinically apparent liver injury have been convincingly shown in case reports, case series or clinical trials of these agents being used as therapy of COVID-19.</p>
+        <p>Specific antiviral agents for SARS-CoV-2 are still being developed. As of the start of 2022, three direct acting antivirals have received Emergency Use Authorization (EUA) as therapy for COVID-19. All three agents &#x02013; molnupiravir, nirmatrelvir (Paxlovid) and remdesivir &#x02013; have potent activity against SARS-CoV-2 in cell culture and in animal models of COVID-19. They are particularly potent when administered early after exposure in ameliorating the subsequent severity of infection. In randomized controlled trials in humans with early COVID-19 who were at high risk for complications, all three agents were found to reduce the rate of subsequent hospitalization and death. While remdesivir requires intravenous administration (once daily for 3 days), molnupiravir and Paxlovid are administered orally (typically twice daily for 5 days). Only remdesivir has received full approval for use in COVID-19 infection, but the indication for this approval was for use in hospitalized patients with severe COVID-19 pneumonia and need for supplementary oxygen. In one large, randomized controlled trial, remdesivir was reported to shorten the time to recovery in hospitalized patients with severe COVID-19 pneumonia needing supplementary oxygen. This effect was not confirmed in other controlled trials, but remdesivir has become the standard of care in patients with life-threatening COVID-19.</p>
+        <p>Analysis of cytokines and inflammatory pathways during severe COVID-19 pneumonia suggested that robust dysregulated inflammatory responses play a role in disease severity and organ failure. Accordingly, anticytokines have been assessed as adjunctive therapies for the hyperinflammatory features of severe COVID-19 infection. Agents that have shown promising effects for treating COVID-19 infection include IL-6 inhibitors such as sarilumab and tocilizumab and small molecule inhibitors of JAK kinases, including baricitinib and ruxolitinib. Some of these agents have received provisional emergency use authorization. Interestingly, dexamethasone has been assessed in clinical trials and shown convincing evidence of reducing morbidity and mortality in patients with severe COVID-19 pneumonia and respiratory failure. Its usefulness in patients with earlier or less severe pulmonary compromise is not clear, and it is now recommended only for patients requiring high-flow oxygen or mechanical ventilation or in high risk patients with hypoxia requiring supplemental inhaled oxygen.</p>
+        <p>Several human monoclonal antibodies directed to the receptor binding domain of the spike protein of the SARS-CoV-2 virus have been developed and assessed in patients with COVID-19 infection. EUA has been granted to four such biologic products which are now recommended to be used in combination, namely, bamlanivimab with etesevimab and casirivimab with imdevimab, in nonhospitalized patients with early stages of COVID-19 infection. These monoclonal antibodies have also been used in attempts to prevent SARS-CoV-2 infection after known exposure (postexposure prophylaxis) and appear to be partially effective.</p>
+        <p>Most trials of therapy of COVID-19 infection employ an ordinal scale to assess clinical status and improvement (Table below). This scale is also used to define sequential phases of the clinical syndrome and to define indications for when to start specific therapies. Whether the patient is at high risk for complications (older age, obesity, diabetes, cardiovascular disease, arterial hypertension, immune suppression, other co-morbidities) is also used to recommend therapy, usually to expand indications. Thus, monoclonal antibodies are recommended for patients in categories 1 and 2, particularly if they are in a high risk group. Remdesivir appears to have its main effects in patients in categories 5 and 6 but is also recommended in patients in category 4 who are at high risk of complications. The combination of remdesivir and baricitinib has been found to have significant benefit largely in patients in categories 5 to 7 and while dexamethasone demonstrated its major effects in patients in categories 6 and 7.</p>
+        <sec id="CovidDrugs.Table">
+          <title>Table</title>
+          <table-wrap id="CovidDrugs.T.ordinal_scale_for_grading_d" orientation="portrait" position="anchor">
+            <caption>
+              <p>Ordinal Scale for Grading Disease Severity and Responses to Therapy of COVID-19</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>1</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Not hospitalized, no limitations on activities</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>2</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Not hospitalized, limitation on activities and/or requiring home oxygen</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>3</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Hospitalized, not requiring supplemental oxygen &#x02013; no longer requires ongoing medical care</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>4</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Hospitalized, not requiring supplemental oxygen &#x02013; requiring ongoing medical care</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>5</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Hospitalized, requiring supplemental oxygen</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>6</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Hospitalized, on non-invasive ventilation or high flow oxygen devices</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>7</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Hospitalized, on mechanical ventilation or ECMO</p>
+</td>
+                </tr>
+                <tr>
+                  <td valign="middle" align="center" scope="row" rowspan="1" colspan="1">
+<p>8</p>
+</td>
+                  <td valign="middle" align="left" rowspan="1" colspan="1">
+<p>Death</p>
+</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>Research on prevention and treatment of SARS-CoV-2 infection is proceeding rapidly and new studies are published weekly making it difficult to provide up-to-date information and recommendations. Data on hepatotoxicity of the agents used to treated COVID-19, however, are sparse, and the hepatic adverse events during therapies are not always well described and not always clearly attributable to a specific medication. The typical patient with severe COVID-19 pneumonia will be receiving a dozen or more medications, a proportion of which are capable of causing hepatotoxicity. Nevertheless, serious hepatic adverse reactions or deaths from hepatic failure are rare except as a part of end-stage, multiorgan failure. Even in patients with preexisting liver disease, fatalities from COVID-19 are usually due to respiratory rather than hepatic failure.</p>
+          <p>Perhaps most important in control and management of SARS-CoV-2 infection is vaccination, and several highly effective and safe vaccines have been developed and are now being used widely. In the United States, three COVID-19 vaccines have been granted emergency use authorization for use and a fourth may be approved shortly. Other vaccines have been produced in Russia and in China have been found effective in trials in those countries and are now being widely used abroad.</p>
+          <p>COVID-19 vaccines have not been definitively linked to instances of liver injury, either in the form of serum enzyme elevations or clinically apparent liver injury. Recently, however, two somewhat distinctive syndromes with liver injury have been described. The first syndrome is referred to as vaccine-induced thrombotic thrombocytopenia (VITT) and has been identified in rare subjects (~1 per million overall) receiving adenoviral vector-based vaccines. This syndrome arises 1 to 3 weeks after initial vaccination, most frequently in younger subjects (less than 55 years of age) and in women, and is characterized clinically by thrombotic events in unusual sites (brain and splanchnic venous system) accompanied by thrombocytopenia and antibodies to platelet factor-4. Thrombotic events can include portal vein thrombosis and be associated with liver test abnormalities. The second syndrome is an acute hepatitis arising within 1 to 4 weeks of vaccination (usually the initial dose). Patients present with fatigue, nausea, dark urine and jaundice and laboratory tests generally show features suggestive of acute hepatitis with autoimmune features, such as autoantibodies (ANA, SMA) and elevations in serum immunoglobin levels. Liver histology generally shows a lobular hepatitis and portal inflammation with lymphocytes and plasma cells, features typical of autoimmune hepatitis. Importantly, the liver injury responds promptly to corticosteroid therapy. In most cases, the disease resolves and the corticosteroids can eventually be discontinued without recurrence of injury. The cause of this syndrome remains unknown, and one possibility is that the autoimmune hepatitis is spontaneous, coincidental and unrelated to vaccination.</p>
+          <p>Background information and discussion of hepatotoxicity of the major agents used to prevent and treat COVID-19 are provided in individual chapters. It is important to stress that LiverTox focuses on the hepatic effects of drugs and biologics and should not be used as guidance for use of these agents, such as for specific indications, drug dosing and regimens.</p>
+          <p>Important sites with current information on COVID-19, COVID vaccines and treatment guidelines are given below.</p>
+          <p>
+<bold>NIH Treatment Guidelines on management of COVID-19.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.covid19treatmentguidelines.nih.gov/overview/">https://www.covid19treatmentguidelines.nih.gov/overview/</ext-link>
+</p>
+          <p>
+<bold>European Medicines Agency on management of COVID-19.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-latest-updates">https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-latest-updates</ext-link>
+</p>
+          <p>
+<bold>FDA Summary on COVID-19 Vaccines.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines">https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines</ext-link>
+</p>
+          <p>
+<bold>CDC Directives on COVID-19.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">https://www.cdc.gov/coronavirus/2019-ncov/index.html</ext-link>
+</p>
+          <p>
+<bold>WHO Therapeutics/Vaccines and COVID-19.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.who.int/teams/health-care-readiness/covid-19/therapeutics">https://www.who.int/teams/health-care-readiness/covid-19/therapeutics</ext-link>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines</ext-link>
+</p>
+          <p>The following links are to individual chapters in LiverTox.</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Favipiravir, <related-object link-type="booklink" source-id="livertox" document-id="Molnupiravir" document-type="chapter">Molnupiravir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Paxlovid" document-type="chapter">Paxlovid</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Remdesivir" document-type="chapter">Remdesivir</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Immunomodulatory Agents</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Janus Kinase (JAK) Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="chapter">Baricitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="chapter">Ruxolitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tofacitinib" document-type="chapter">Tofacitinib</related-object></p>
+                </list-item>
+                <list-item>
+                  <p>Monoclonal Antibodies to IL-6: <related-object link-type="booklink" source-id="livertox" document-id="Sarilumab" document-type="chapter">Sarilumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tocilizumab" document-type="chapter">Tocilizumab</related-object></p>
+                </list-item>
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Corticosteroids" document-type="chapter">Corticosteroids</related-object>: Cortisol, Dexamethasone, Methylprednisolone</p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="CovidMonoclonals" document-type="chapter">Monoclonal Antibodies to SARS-CoV-2</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Bamlanivimab, Casirivimab, Etesevimab, Imdevimab, Sotrovimab</p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="CovidVaccines" document-type="chapter">COVID-19 Vaccines</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><italic toggle="yes">mRNA</italic><italic toggle="yes">:</italic> BNT162b2 [Pfizer-BioNTech], mRNA-1273 [Moderna]</p>
+                </list-item>
+                <list-item>
+                  <p><italic toggle="yes">Adenovirus Vector:</italic> ChAdOx1-S [AstraZeneca, Oxford]; Ad26.COV2.S [Johnson and Johnson, Janssen], Sputnik-V-Gam &#x02013; COVID Vac Ad5+Ad26 [Gamleaya]</p>
+                </list-item>
+                <list-item>
+                  <p><italic toggle="yes">Recombinant Nanoparticles:</italic> NVX-CoV2373 [Novavax]</p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Miscellaneous Agents</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Azithromycin" document-type="chapter">Azithromycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Chloroquine" document-type="chapter">Chloroquine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Corticosteroids" document-type="chapter">Dexamethasone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluvoxamine" document-type="chapter">Fluvoxamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Hydroxychloroquine" document-type="chapter">Hydroxychloroquine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ivermectin" document-type="chapter">Ivermectin</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="CovidDrugs.ANNOTATED_SELECTED_BIBLIOGRAP">
+        <title>ANNOTATED SELECTED BIBLIOGRAPHY</title>
+        <p>References updated: 25 January 2022</p>
+        <ref-list id="CovidDrugs.ANNOTATED_SELECTED_BIBLIOGRAP.reflist0">
+          <ref id="CovidDrugs.REF.zhu.2020.727">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>
+              <article-title>China novel coronavirus investigating and research team. A novel coronavirus from patients with pneumonia in China, 2019.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>727</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In December 2019, a cluster of patients with severe pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China, and was found to be due to a novel coronavirus).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31978945</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.guan.2020.1708">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guan</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Ni</surname><given-names>ZY</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>WH</given-names></name>
+<name name-style="western"><surname>Ou</surname><given-names>CQ</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>JX</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>L</given-names></name>
+<etal/>
+<collab>China Medical Treatment Expert Group for COVID-19</collab>
+</person-group>
+              <article-title>Clinical characteristics of coronavirus disease 2019 in China.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1708</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1099 patients hospitalized with COVID-19 at 552 hospitals in China through January 2020, the median age was 47 years, 42% were women, 2.4% were admitted to an ICU, 1.4% died and ALT elevations arose in 4.1%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32109013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.cao.2020.1787">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cao</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Ruan</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1787</fpage>
+              <lpage>99</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 199 patients with confirmed COVID-19 pneumonia treated with lopinavir/ritonavir or with standard care, there were differences in mortality rate [19% vs 25%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32187464</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.adams.2020.820">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Adams</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>WL</given-names></name>
+<name name-style="western"><surname>Sobieraj</surname><given-names>DM</given-names></name>
+</person-group>
+              <article-title>Myth busters: dietary supplements and COVID-19.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2020</year>
+              <volume>54</volume>
+              <fpage>820</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the evidence on the efficacy and safety of various dietary supplements that are popularly used to prevent or treat symptoms of COVID-19, none of which have been shown to be beneficial).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32396382</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.boulware.2020.517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boulware</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Pullen</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Bangdiwala</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Pastick</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Lofgren</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Okafor</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Skipper</surname><given-names>CP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized trial of hydroxychloroquine as postexposure prophylaxis for COVID-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>517</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 821 patients with exposure to COVID-19 treated with oral hydroxychloroquine or placebo for 5 days, rates of new illness compatible with COVID-19 were similar in the two groups [14% vs 12%], while adverse events were more frequent with hydroxychloroquine [40% vs 17%]; ALT elevations were not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32492293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.beigel.2020.1813">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Beigel</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Tomashek</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Dodd</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Zingman</surname><given-names>BS</given-names></name>
+<name name-style="western"><surname>Kalil</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Hohmann</surname><given-names>E</given-names></name>
+<etal/>
+<collab>ACTT-1 Study Group Members</collab>
+</person-group>
+              <article-title>Remdesivir for the treatment of COVID-19 &#x02013; final report.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1813</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Final report of a randomized, placebo-controlled trial of remdesivir infusions for 10 days in 1062 adults hospitalized with COVID-19 pneumonia found treatment resulted in more rapid recovery time [10 vs 15 days] and slightly lower mortality at 29 days [11.4% vs 15.2%], while adverse events were less frequent with the active drug including serious adverse events [24% vs 32%], and elevations in serum ALT [2.3% vs 4.7%], AST [3.4% vs 6.4%] and bilirubin [1.7% vs 3.1%]; no mention of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32445440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.horby.2021.693">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Horby</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Emberson</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Mafham</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bell</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Linsell</surname><given-names>L</given-names></name>
+<etal/>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+              <article-title>Dexamethasone in hospitalized patients with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>693</fpage>
+              <lpage>704</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 6425 hospitalized patients with COVID 19 enrolled in a large multicenter pragmatic trial, the 28 day mortality was lower among those who received dexamethasone [6 mg daily for up to 10 days] versus those receiving usual care alone [22.9% vs 25.7%], the decrease in mortality being seen in those on mechanical ventilation [29.3% vs 41.4%] or receiving oxygen [23.3% vs 26.2%], but not on those receiving no respiratory support [17.8% vs 14%]; there were no serious hepatic adverse events or deaths from liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32678530</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.hundt.2020.1169">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hundt</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ciarleglio</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Nathanson</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>JK</given-names></name>
+</person-group>
+              <article-title>Abnormal liver tests in COVID-19: A retrospective observational cohort study of 1827 patients in a major U.S. hospital network.</article-title>
+              <source>Hepatology</source>
+              <year>2020</year>
+              <volume>72</volume>
+              <issue>4</issue>
+              <fpage>1169</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1877 patients hospitalized with SARS-CoV-2 infection, serum ALT levels were elevated before hospitalization in 19%, at admission in 42% and at peak during hospitalization in 62%, with 21% being greater than 5 times ULN; elevations correlated with disease severity and its risk factors, male sex, older age, higher BMI and diabetes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32725890</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.horby.2020.2030">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Horby</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mafham</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Linsell</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bell</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Staplin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Emberson</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Wiselka</surname><given-names>M</given-names></name>
+<etal/>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+              <article-title>Effect of hydroxychloroquine in hospitalized patients with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>2030</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1561 patients randomized to receive hydroxychloroquine vs 3155 randomized to standard care, the mortality rate was similar in the two groups [27% vs 25%] but the duration of hospitalization was longer with hydroxychloroquine [16 vs 13 days], while cardiovascular toxicity was not increased with the active drug, there was no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33031652</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.recovery_collaborative_group.2020.1345">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+              <article-title>Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.</article-title>
+              <source>Lancet</source>
+              <year>2020</year>
+              <volume>396</volume>
+              <issue>10259</issue>
+              <fpage>1345</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 5040 adults hospitalized with COVID-19, treatment with lopinavir/ritonavir [400/100 mg once daily for ten days] had no effect on 28-day mortality rate in comparison to controls [23% vs 22%], duration of hospitalization [11 days vs 11 days] or risk of progressing to mechanical ventilation; one serious adverse event occurred that was attributed to lopinavir/ritonavir &#x02013; an ALT elevation without jaundice that resolved upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33031764</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.marjot.2021.567">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marjot</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Moon</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Cook</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Abd-Elsalam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Aloman</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Armstrong</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Pose</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Outcomes following SARS-CoV-2 infection in patients with chronic liver disease: An international registry study.</article-title>
+              <source>J Hepatol</source>
+              <year>2021</year>
+              <volume>74</volume>
+              <fpage>567</fpage>
+              <lpage>77</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 745 patients enrolled in an international registry of patients with preexisting chronic liver disease who developed SARS-CoV-2 infection, the mortality rate was 32% in 386 with cirrhosis, increasing with Child&#x02019;s-Pugh stages [A 19%, B 35%, C 51%], compared to 8% in 359 without cirrhosis, and 2% in a control group without liver disease; patients with cirrhosis often had acute hepatic decompensation [46%] compared to only 1% in those without cirrhosis; the causes of the 123 deaths in patients with cirrhosis were respiratory failure in 71% and liver failure in 19%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33035628</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.melquist.2020.e22818">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Melquist</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Estepp</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Aleksandrovich</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Beiseker</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hamedani</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Bassett</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>COVID-19 presenting as fulminant hepatic failure: A case report.</article-title>
+              <source>Medicine (Baltimore)</source>
+              <year>2020</year>
+              <volume>99</volume>
+              <elocation-id>e22818</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old woman with SLE previously on hydroxychloroquine and mycophenolate, having stopped because of pregnancy and breast feeding, developed COVID-19 infection with mild cough and acute liver failure [ALT 278 U/L Alk P 200 U/L, bilirubin 7.0 mg/dL, INR 1.5 rising to 4.9] accompanied by hepatic encephalopathy, but then improved after restarting hydroxychloroquine and methylprednisolone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33120805</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.satarker.2021.489">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Satarker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tom</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Shaji</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Alosious</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Luvis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nampoothiri</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>JAK-STAT pathway inhibition and their implications in COVID-19 therapy.</article-title>
+              <source>Postgrad Med.</source>
+              <year>2021</year>
+              <volume>133</volume>
+              <issue>5</issue>
+              <fpage>489</fpage>
+              <lpage>507</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action and pleomorphic activities of Janus kinase inhibitors and their possible role in treating severe COVID-19 infection which is often accompanied by high levels of proinflammatory cytokines [cytokine storm] with listing of ongoing trials).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33245005</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.kalil.2021.795">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kalil</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Patterson</surname><given-names>TF</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Tomashek</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Wolfe</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Ghazaryan</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Marconi</surname><given-names>VC</given-names></name>
+<etal/>
+<collab>ACTT-2 Study Group Members</collab>
+</person-group>
+              <article-title>Baricitinib plus remdesivir for hospitalized adults with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>795</fpage>
+              <lpage>807</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1033 patients hospitalized with COVID-19 pneumonia treated with remdesivir in combination with either baricitinib or placebo for up to 14 days, the median time to recovery was faster with baricitinib than placebo [6 vs 7 days] and adverse event rates were lower, serum aminotransferase elevations arising in 1.8% vs 3.1% and to above 5 times ULN in only one baricitinib treated patient).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33306283</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.hamulka.2020.54">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hamulka</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jeruszka-Bielak</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>G&#x000f3;rnicka</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Drywie&#x00144;</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Zielinska-Pukos</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Dietary supplements during COVID-19 outbreak. Results of Google trends analysis supported by PLifeCOVID-19 online studies.</article-title>
+              <source>Nutrients</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <fpage>54</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of Google searches and online studies during 2020 and the SARS-CoV-2 pandemic found an increased interest in and accompanying use of several dietary supplements including vitamin C, vitamin D, zinc, omega 3 fatty acids, garlic and turmeric despite the fact that none has been shown to help prevent or treat COVID-19).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33375422</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.calabrese.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Calabrese</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Calabrese</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Baricitinib and dexamethasone for hospitalized patients with COVID-19.</article-title>
+              <source>Cleve Clin J Med.</source>
+              <year>2021</year>
+              <month>Feb</month>
+              <day>1</day>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary on the controlled trials of remdesivir, dexamethasone and baricitinib for moderate-to-severe COVID-19 pneumonia mentions that the observed effects of baricitinib when combined with remdesivir have been modest [a one day shortening of recovery time], and there have been no trials comparing baricitinib and dexamethasone which appears to have a major effect on outcome of severe COVID-19 pneumonia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33526440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.recovery_collaborative_group.2021.605">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+              <article-title>Azithromycin in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.</article-title>
+              <source>Lancet</source>
+              <year>2021</year>
+              <volume>397</volume>
+              <issue>10274</issue>
+              <fpage>605</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2582 hospitalized patients with COVID-19 pneumonia randomized to receive azithromycin [500 mg daily for 10 days] vs 5181 given usual care, the mortality rate in the two groups was identical [22%] and duration of hospitalization similar [10 vs 11 days]; only one serious adverse event was reported due to azithromycin: a self-limited case of pseudomembranous colitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33545096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.principle_trial_collaborative_group.2021.1063">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>PRINCIPLE Trial Collaborative Group</collab>
+</person-group>
+              <article-title>Azithromycin for community treatment of suspected COVID-19 in people at increased risk of an adverse clinical course in the UK (PRINCIPLE): a randomised, controlled, open-label, adaptive platform trial.</article-title>
+              <source>Lancet</source>
+              <year>2021</year>
+              <volume>397</volume>
+              <issue>10279</issue>
+              <fpage>1063</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In an adaptive UK-based study with a randomized trial of azithromycin [500 mg daily for 3 days] or usual care in patients with suspected COVID-19 who were above the age of 65 years [or above the age of 50 with comorbidities], the rates of recovery by 28 days were similar in the two groups [80% vs 77%], and there were no deaths and few adverse events that could be related to azithromycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33676597</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.marjot.2021.348">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marjot</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Webb</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Barritt</surname><given-names>AS</given-names><suffix>4th</suffix></name>
+<name name-style="western"><surname>Moon</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Stamataki</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Barnes</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>COVID-19 and liver disease: mechanistic and clinical perspectives.</article-title>
+              <source>Nat Rev Gastroenterol Hepatol</source>
+              <year>2021</year>
+              <volume>18</volume>
+              <fpage>348</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotrophism of SARS-CoV-2, the frequency and nature of liver injury in patients with COVID-19, and the excess morbidity and mortality of COVID-19 in patients with preexisting liver disease, cirrhosis or liver transplant).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33692570</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.solaymanidodaran.2021.107522">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Solaymani-Dodaran</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ghanei</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bagheri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Qazvini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vahedi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hassan Saadat</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Amin Setarehdan</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of favipiravir in moderate to severe SARS-CoV-2 pneumonia.</article-title>
+              <source>Int Immunopharmacol</source>
+              <year>2021</year>
+              <volume>95</volume>
+              <elocation-id>107522</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 373 adults hospitalized with COVID-19 pneumonia treated with favipiravir or lopinavir/ritonavir for 7 days combined with standard care [hydroxychloroquine], the duration of hospitalization [7 vs 6 days], need for ICU care [16% vs 14%] and 28 day mortality [14% vs 12%] were the same in the two groups; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33735712</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.axfors.2021.2349">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Axfors</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schmitt</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Janiaud</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Van't Hooft</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Abd-Elsalam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Abdo</surname><given-names>EF</given-names></name>
+<name name-style="western"><surname>Abella</surname><given-names>BS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19 from an international collaborative meta-analysis of randomized trials.</article-title>
+              <source>Nat Commun</source>
+              <year>2021</year>
+              <volume>12</volume>
+              <issue>1</issue>
+              <fpage>2349</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a metaanalysis of 14 published and 14 unpublished clinical trials, including 26 of hydroxychloroquine [10,319 patients] and 4 of chloroquine [307 patients] as therapy of COVID-19, hydroxychloroquine was associated with an excess mortality and chloroquine with no benefit; there was no separate analysis of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33859192</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.pan.2021.497">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pan</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Peto</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Henao-Restrepo</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Preziosi</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Sathiyamoorthy</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Abdool Karim</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Alejandria</surname><given-names>MM</given-names></name>
+<etal/>
+<collab>WHO Solidarity Trial Consortium</collab>
+</person-group>
+              <article-title>Repurposed antiviral drugs for Covid-19 &#x02013; interim WHO Solidarity Trial results.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>497</fpage>
+              <lpage>511</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 11,300 hospitalized adults with COVID-19 enrolled in randomized controlled trials of four repurposed drugs vs standard of care, none of the 4 agents resulted in reduced mortality rates compared to controls: remdesivir 11% versus 11.2%; hydroxychloroquine 11% vs 9.3%; lopinavir/ritonavir 10.6% vs 10.6%; and interferon beta 11.9% vs 10.5%; and there were no deaths attributed to hepatic disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33264556</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.schultz.2021.2124">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schultz</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>S&#x000f8;rvoll</surname><given-names>IH</given-names></name>
+<name name-style="western"><surname>Michelsen</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Munthe</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Lund-Johansen</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ahlen</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Wiedmann</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Thrombosis and thrombocytopenia after ChAdOx1 nCoV-19 vaccination.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <issue>22</issue>
+              <fpage>2124</fpage>
+              <lpage>2130</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 5 health care workers [4 women, 1 man; ages 32 to 54 years] who developed thromboses in unusual sites [brain, splanchnic bed] and thrombocytopenia 7-10 days after receipt of initial dose of ChAdOx1 vaccine [Astra-Zeneca], all of whom had high levels of antibodies to platelet factor 4 [PF4]- polyanion complexes, 3 of whom died, others seeming to respond to IVIG and prednisolone, referring to the syndrome as vaccine induced thrombotic thrombocytopenia [VITT]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33835768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.greinacher.2021.2092">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Greinacher</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Thiele</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Warkentin</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Weisser</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kyrle</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Eichinger</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Thrombotic thrombocytopenia after ChAdOx1 nCov-19 vaccination.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <issue>22</issue>
+              <fpage>2092</fpage>
+              <lpage>2101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 11 patients [9 women, 2 men, ages 22 to 49 years] who developed thrombotic events in unusual sites [9 cerebral, 3 splanchnic] with symptomatic presentation 5-16 days after an initial dose of ChAdOx1 COVID-19 vaccine, 6 of whom died due to cerebral complications, all having antibodies to platelet factor 4 [PF4]-polyanion complexes independent of heparin and with evidence of platelet activation and thrombocytopenia; patient one developed portal vein thrombosis and had elevations in serum ALT [peak 167 U/L], GGT [110 U/L] and LDH [337 U/L], but bilirubin not reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33835769</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.cines.2021.2254">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cines</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Bussel</surname><given-names>JB</given-names></name>
+</person-group>
+              <article-title>SARS-CoV-2 vaccine-induced immune thrombotic thrombocytopenia.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <issue>23</issue>
+              <fpage>2254</fpage>
+              <lpage>2256</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Schultz [2021] and Greinacher [2021] summarizing the clinical and laboratory features, possible pathogenesis and management of vaccine-induced thrombotic thrombocytopenia [VITT] apparently triggered by receipt of adenovirus-based COVID-19 vaccines).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33861524</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.kumar.2021.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kumar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dowling</surname><given-names>WE</given-names></name>
+<name name-style="western"><surname>Rom&#x000e1;n</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Chaudhari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gurry</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Le</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Tollefson</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Status report on COVID-19 vaccines development.</article-title>
+              <source>Curr Infect Dis Rep</source>
+              <year>2021</year>
+              <volume>23</volume>
+              <fpage>9</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the status of COVID-19 vaccines, over 300 of which are under development and at least 6 approved for emergency use including mRNA-based candidates [7 in clinical trials and 2 approved], DNA based [6 being tested], protein-based [at least 20 in clinical trials but none approved as yet], and viral vector-based [15 in clinical trials and 4 approved]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33867863</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF27">
+            <element-citation publication-type="journal">
+              <article-title>An EUA for sotrovimab for treatment of COVID-19.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1627</issue>
+              <fpage>97</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of sotrovimab shortly after its approval for treatment of outpatients diagnosed with COVID-19 who were at high risk for complications, mentions mild complications of rash [2%] and diarrhea [1%], but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34181630</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF28">
+            <element-citation publication-type="journal">
+              <article-title>Monoclonal antibodies to COVID-19.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <issue>1642</issue>
+              <fpage>16</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise report that the monoclonal antibody combinations of casirivimab with imdevirmab [REGEN-COV] and bamlanivimab with etesevimab have little activity against the Omicron variant of SARS-CoV-2 and should not be used, the only monoclonal antibody with activity against the currently predominant virus being sotrovimab).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF.gottlieb.2022.305">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gottlieb</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Vaca</surname><given-names>CE</given-names></name>
+<name name-style="western"><surname>Paredes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mera</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Webb</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Perez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Oguchi</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>GS-US-540-9012 (PINETREE) Investigators. Early remdesivir to prevent progression to severe Covid-19 in outpatients.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2022</year>
+              <volume>386</volume>
+              <fpage>305</fpage>
+              <lpage>315</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 562 non-hospitalized adults with symptomatic COVID-19 and at high risk for complications who were treated with remdesivir [200 mg day 1, 100 mg days 2 and 3] or placebo intravenously once daily, subsequent hospitalization for COVID 19 occurred in 2 remdesivir- vs 15 placebo-treated participants [0.7% vs 5.3%: 87% decline] and none died by day 28; while overall adverse event rates were similar in the 2 arms, the remdesivir treated patients had fewer severe adverse events; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34937145</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidDrugs.REF30">
+            <element-citation publication-type="journal">
+              <article-title>COVID-19 updates.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <issue>5046</issue>
+              <fpage>1</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of EUA of remdesivir for prevention of progression of COVID-19 in outpatient adults and children [12 years or above] with symptomatic SARS-CoV-2 infection and who are within 7 days of onset and at high risk of complications; mentions that hypersensitivity reactions can occur, but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

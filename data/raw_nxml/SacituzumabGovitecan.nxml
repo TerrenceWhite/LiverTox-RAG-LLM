@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="SacituzumabGovitecan" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">SacituzumabGovitecan</book-part-id>
+      <title-group>
+        <title>Sacituzumab Govitecan</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>11</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ruxolitinib" document-type="chapter">Ruxolitinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Sacubitril" document-type="chapter">Sacubitril-Valsartan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="SacituzumabGovitecan.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="SacituzumabGovitecan.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Sacituzumab govitecan is a humanized monoclonal antibody conjugate which is used in the therapy of refractory, locally advanced or metastatic breast and urothelial cancer. Sacituzumab govitecan has been linked to transient mild-to-moderate serum enzyme elevations during therapy but has not been implicated in cases of liver injury with jaundice.</p>
+        </sec>
+        <sec id="SacituzumabGovitecan.Background">
+          <title>Background</title>
+          <p>Sacituzumab (sak&#x0201d; i tooz&#x02019; ue mab) govitecan (go vit&#x02019; e kan) is a humanized monoclonal antibody to the trophoblast-cell surface antigen (Trop-2), a glycoprotein that is highly expressed in various forms of cancer, including breast and urothelial cancer. The monoclonal antibody is conjugated by a linker segment to govitecan, a cytotoxic topoisomerase 1 inhibitor. When sacituzumab govitecan binds to Trop-2 on the surface of cancer cells, it is internalized, and the govitecan is released by the action of lysosomal enzymes which cleave the short linker molecule that joins the antibody and the cytotoxic molecule. The intracellular govitecan causes single-stranded DNA breaks that lead to apoptotic cell death of the dividing cancer cells. This monoclonal antibody conjugate has been shown to be effective in inducing remissions in adults with refractory, locally advanced or metastatic breast and urothelial cancers that express Trop-2. Sacituzumab govitecan was given accelerated approval for treatment of adults with refractory or relapsed advanced or metastatic forms of triple-negative breast cancer in the United States in 2020. Subsequently, indications have been extended to include refractory, locally advanced or metastatic urothelial cancer in 2021 and some forms of refractory, advanced or metastatic hormone receptor positive breast cancer in 2023. Sacituzumab govitecan is available as powder for reconstitution in single dose vials of 180 mg under the brand name Trodelvy. The typical recommended dose regimen is 10 mg/kg administered by intravenous infusion on days 1 and 8 of continuous 21-day cycles to be continued until disease progression or unacceptable toxicity. Premedication before each infusion for prevention of infusion reactions and nausea is recommended. Side effects are common and may include infusion reactions, neutropenia, anemia, nausea and vomiting, diarrhea, constipation, anorexia, abdominal pain, weakness, fatigue, headache, alopecia, fever, pruritus, and rash. Less common, but potentially serious side effects included severe hypersensitivity reactions, myelosuppression, febrile neutropenia, severe nausea and vomiting, and embryo-fetal toxicity. Sacituzumab govitecan should be administered only by physicians and health care providers with training and expertise in cancer chemotherapy and management of its potential adverse effects.</p>
+        </sec>
+        <sec id="SacituzumabGovitecan.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In publications of the registration trials of sacituzumab govitecan, serum aminotransferase elevations arose in 11% to 35% of treated patients but were above 5 times the upper limit of normal (ULN) in only 1% to 2%, and no patient developed clinically apparent liver injury attributed to therapy. The conjugated govitecan is an active metabolite of irinotecan which is a well-known cause of hepatic steatosis and liver injury, but cases were rarely clinically apparent. Since its approval and more widespread use, there have been no published instances of clinically apparent liver injury attributed to sacituzumab govitecan in the literature, although reports of liver injury uncertain reliability and severity have been received by the FDA.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically significant liver injury).</p>
+        </sec>
+        <sec id="SacituzumabGovitecan.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations during sacituzumab govitecan therapy is not known, but it is likely due to direct toxicity of the govitecan conjugate rather than the monoclonal antibody. It is not known whether the serum enzyme elevations are accompanied by hepatic steatosis.</p>
+        </sec>
+        <sec id="SacituzumabGovitecan.Outcome_and_Managem">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur during sacituzumab govitecan therapy are generally transient, mild and asymptomatic and rarely require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal, if detected, should lead to more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels. Elevations above 20 times the ULN or any elevation accompanied by jaundice or symptoms should lead to prompt permanent discontinuation.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Monoclonal Antibody Conjugates: Ado-Trastuzumab Emtansine, Benlantamab Mafodotin, Brentuximab Vedotin, Enfortumab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Tisotumab Vedotin, Trastuzumab Deruxtecan</p>
+        </sec>
+      </sec>
+      <sec id="SacituzumabGovitecan.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Sacituzumab Govitecan &#x02013; Trodelvy&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Sacituzumab%20Govitecan">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="SacituzumabGovitecan.CHEMICAL_FORMULA_AN">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="SacituzumabGovitecan.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_SacituzumabGovitecan.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_SacituzumabGovitecan.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_SacituzumabGovitecan.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_SacituzumabGovitecan.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_SacituzumabGovitecan.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Sacituzumab Govitecan</td>
+                <td headers="hd_h_SacituzumabGovitecan.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Sacituzumab-govitecan">1491917-83-9</ext-link>
+</td>
+                <td headers="hd_h_SacituzumabGovitecan.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_SacituzumabGovitecan.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="SacituzumabGovitecan.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 November 2023</p>
+        <ref-list id="SacituzumabGovitecan.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="SacituzumabGovitecan.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761115Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761115Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline review of sacituzumab govitecan mentions that the most common side effects were diarrhea and neutropenia and that ALT elevations above 5 times ULN in 1.5% of patients in the safety population of 408 exposed patients; no discussion of serious hepatoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.bardia.2017.2141">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bardia</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mayer</surname>
+<given-names>IA</given-names></string-name>, <string-name name-style="western"><surname>Diamond</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Moroose</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Isakoff</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Starodub</surname>
+<given-names>AN</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>NC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of anti-trop-2 antibody drug conjugate sacituzumab govitecan (IMMU-132) in heavily pretreated patients with metastatic triple-negative breast cancer.</article-title>
+<source>J Clin Oncol.</source>
+<year>2017</year>;<volume>35</volume>:<fpage>2141</fpage>-<lpage>2148</lpage>.<annotation><p><italic toggle="yes">(Among 69 adults with refractory or relapsed, metastatic triple-negative breast cancer treated with sacituzumab govitecan, the objective response rate was 30%, all responders having moderate to strong Trop-2 expression in cancer cells; side effects were not listed except for severe diarrhea [24%] and febrile neutropenia [7%]).</italic></p></annotation><pub-id pub-id-type="pmid">28291390</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.bardia.2019.741">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bardia</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mayer</surname>
+<given-names>IA</given-names></string-name>, <string-name name-style="western"><surname>Vahdat</surname>
+<given-names>LT</given-names></string-name>, <string-name name-style="western"><surname>Tolaney</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Isakoff</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Diamond</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>O'Shaughnessy</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sacituzumab govitecan-hziy in refractory metastatic triple-negative breast cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>380</volume>:<fpage>741</fpage>-<lpage>751</lpage>.<annotation><p><italic toggle="yes">(Among 108 adults with refractory metastatic triple negative breast cancer treated with sacituzumab govitecan, the objective response rate was 33% and overall survival 13 months, while the most common adverse events were nausea, diarrhea, fatigue, neutropenia, and anemia, and serious adverse events occurred in 32% leading to dose adjustments in 44%, discontinuations in 3%, and death in 4% of treated patients; ALT elevations occurred in 14% and were above 5 times ULN in 1% ).</italic></p></annotation><pub-id pub-id-type="pmid">30786188</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.joubert.2020.245">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Joubert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Beck</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dumontet</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Denevault-Sabourin</surname>
+<given-names>C.</given-names></string-name>
+<article-title>Antibody-drug conjugates: the last decade.</article-title>
+<source>Pharmaceuticals (Basel)</source>. <year>2020</year>;<volume>13</volume>:<fpage>245</fpage>.<annotation><p><italic toggle="yes">(Review of the development, structure, efficacy, adverse event rates and approval of vector-based chemotherapy using selective delivery by a monoclonal antibody and cancer cell injury by a conjugated cellular toxin [payload] including nine that are FDA approved and six others in pivotal trials).</italic></p></annotation><pub-id pub-id-type="pmid">32937862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF6">
+            <mixed-citation publication-type="journal"><article-title>Sacituzumab govitecan (Trodelvy) for metastatic triple-negative breast cancer.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>:<fpage>e25</fpage>-<lpage>e27</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of sacituzumab govitecan shortly after its approval for use in breast cancer in the US mentioned the boxed warning in its product label for life-threatening neutropenia [9%] and severe diarrhea; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33757114</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.rugo.2023.1423">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rugo</surname>
+<given-names>HS</given-names></string-name>, <string-name name-style="western"><surname>Bardia</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Marm&#x000e9;</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Cort&#x000e9;s</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Schmid</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Loirat</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Tr&#x000e9;dan</surname>
+<given-names>O</given-names></string-name>, <etal>et al.</etal>
+<article-title>Overall survival with sacituzumab govitecan in hormone receptor-positive and human epidermal growth factor receptor 2-negative metastatic breast cancer (TROPiCS-02): a randomised, open-label, multicentre, phase 3 trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>(<issue>10411</issue>):<fpage>1423</fpage>-<lpage>1433</lpage>.<annotation><p><italic toggle="yes">(Among 543 patients with refractory locally advanced or metastatic triple negative breast cancer treated with sacituzumab govitecan vs standard chemotherapy, median overall survival was 24% vs 11 months while adverse events were consistent with previous studies and &#x0201c;manageable&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">37633306</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF8">
+            <mixed-citation publication-type="journal"><article-title>In brief: A new breast cancer indication for sacituzumab govitecan (Trodelvy).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e43</fpage>-<lpage>e44</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, and safety of sacituzumab govitecan shortly after its expanded approval for treatment of breast cancer to endocrine-resistant, locally advanced or metastatic hormone receptor [HR]-positive, human epidermal growth factor receptor 2 [HER2]-negative breast cancer; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36877286</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.tagawa.2021.2474">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tagawa</surname>
+<given-names>ST</given-names></string-name>, <string-name name-style="western"><surname>Balar</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Petrylak</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Kalebasty</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Loriot</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Fl&#x000e9;chon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jain</surname>
+<given-names>RK</given-names></string-name>, <etal>et al.</etal>
+<article-title>TROPHY-U-01: a phase II open-label study of sacituzumab govitecan in patients with metastatic urothelial carcinoma progressing after platinum-based chemotherapy and checkpoint inhibitors.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>2474</fpage>-<lpage>2485</lpage>.<annotation><p><italic toggle="yes">(Among 113 patients with refractory, locally advanced or metastatic urothelial cancer treated with sacituzumab govitecan, the objective response rate was 27% and the adverse event rate was 98%, and common side effects included diarrhea, nausea, fatigue, alopecia, neutropenia, decreased appetite, anemia and leukopenia, which led to dose reductions in 39%, interruptions in 45%, and discontinuations in 6%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33929895</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="SacituzumabGovitecan.REF.sun.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sun</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>J.</given-names></string-name>
+<article-title>A pharmacovigilance study on drug-induced liver injury associated with antibody-drug conjugates (ADCs) based on the Food and Drug Administration Adverse Event Reporting System.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>
+<month>Oct</month>
+<day>29</day>:<fpage>1</fpage>-<lpage>12</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Analysis of the FDA reporting system [FAERS] for cases of drug induced liver injury submitted between 2004 and 2022, found 17,784 reports, 504 [3%] attributed to antibody-drug conjugates, 202 from the US, the implicated agents being gemtuzumab ozogamicin [n=98], brentuximab vedotin [n=37], trastuzumab emtansine [n=25], enfortumab vedotin [n=16], inotuzumab ozogamicin [n=15], transtuzumab deruxtecan [n=8], and polatuzumab vedotin [3]; while there were no reports of liver injury attributed to sacituzumab govitecan from the US, there were 10 from other countries including France).</italic></p></annotation><pub-id pub-id-type="pmid">37898875</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="SacituzumabGovitecan.OTHER_REFERENCE_LIN">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Sacituzumab+AND+Govitecan+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Sacituzumab Govitecan: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Sacituzumab%20Govitecan">Trials on Sacituzumab Govitecan: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

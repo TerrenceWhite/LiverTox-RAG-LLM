@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Atezolizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Atezolizumab</book-part-id>
+      <title-group>
+        <title>Atezolizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Atenolol" document-type="chapter">Atenolol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Atogepant" document-type="chapter">Atogepant</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Atezolizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Atezolizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Atezolizumab is a humanized monoclonal antibody to programmed death-ligand 1 (PD-L1), which acts as a checkpoint inhibitor and is used in the immunotherapy of several forms of advanced or metastatic cancer. Atezolizumab like other checkpoint inhibitors has major side effects and particularly immune related conditions, including acute hepatocellular and cholestatic liver injury that can be serious and even life threatening.</p>
+        </sec>
+        <sec id="Atezolizumab.Background">
+          <title>Background</title>
+          <p>Atezolizumab (a" te zoe liz' ue mab) is a humanized monoclonal immunoglobulin G1 antibody to the programmed cell death ligand 1 (PD-L1) which has distinctive immunomodulatory activity and is used as a checkpoint inhibitor in cancer immunotherapy. The programmed cell death receptor 1 (PD-1) is an important checkpoint protein that is expressed on activated T and B cells. Binding of the ligand to PD-1 activates programmed cell death pathways that terminate or down regulate cytotoxic T cell responses. Monoclonal antibody binding to the PD-L1 by atezolizumab prevents its engagement with the PD receptor and subsequent induction of the cellular pathways that down regulate T cell responses. Inhibition of this pathway allows for a continued activation and proliferation of cytotoxic T cells and proinflammatory cytokines. The enhancement of cytotoxic reactivity may play a beneficial role in cancer immunotherapy by breaking immunological tolerance to cancer cell neoantigens. Atezolizumab has been shown to improve response rates and survival in several forms of advanced and metastatic cancer and was approved for use in the United States in 2016, the fourth monoclonal antibody checkpoint inhibitor introduced into cancer immunotherapy, the others being ipilimumab (anti-CTLA-4: 2011), pembrolizumab (anti-PD-1: 2014), and nivolumab (anti-PD-1: 2015). Clinical indications of atezolizumab now include advanced forms of urothelial carcinoma, non-small cell lung cancer (NSCLC), small cell lung cancer (SCLC), hepatocellular carcinoma (HCC), and melanoma. Atezolizumab is available in solution for injection in single use vials of 840 mg in 14 mL and 1200 mg in 20 mL (both 60 mg/mL) under the brand name Tecentriq. The dose and timing of injections varies by indication; typical regimens are 840 mg every 2 weeks, 1200 mg every 3 weeks or 1680 mg every 4 weeks until disease progression or unacceptable toxicity.</p>
+          <p>As with most checkpoint inhibitors, side effects of atezolizumab are common and can include fatigue, headache, musculoskeletal pain, arthralgia, abdominal pain, diarrhea, nausea, vomiting, decreased appetite, weight loss, fever, cough, dyspnea, pruritus, and rash. Importantly, as a result of the immune enhancement, between 15% and 25% of treated patients develop immune related side effects. These reactions are high grade in 10% of patients and can include enterocolitis, dermatitis, endocrinopathy, pneumonitis, neuropathy, nephritis and hepatitis. Most of these reactions respond to discontinuation and immunosuppressive therapy, but some have resulted in fatalities and some have required permanent discontinuation of the checkpoint inhibitor and long term immunosuppressive therapy. Baseline screening and regular monitoring for these adverse events during atezolizumab therapy is recommended. Early recognition and prompt management of side effects is an integral component of proper use of checkpoint inhibitors. Checkpoint inhibitors should be used only by health care professionals with training in immunotherapy and experience in the management of the side effects of immunomodulatory agents. Other rare but potentially severe adverse effects of atezolizumab include infusion reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Atezolizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration controlled trials of atezolizumab in various forms of metastatic cancer, serum aminotransferase elevations occurred in 20% to 30% of patients but were generally transient, mild and not associated with symptoms or jaundice. These rates of serum enzyme elevations are similar to those with other forms of chemotherapy for advanced malignancies. Serum ALT elevations above 5 times the upper limit of normal (ULN) occurred in 1% to 4% of patients and generally led to temporary or permanent discontinuation. Importantly, in 1% to 2% of patients the serum enzyme elevations evolved into clinically apparent immune mediated liver injury. The onset of injury was usually after 2 to 4 cycles or 1 to 3 months after starting treatment. The pattern of enzyme elevation was usually hepatocellular but was sometimes mixed and even cholestatic. Liver histology usually demonstrated a pan-lobular hepatitis with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, compatible with an immune mediated hepatic injury. More severe forms of hepatitis can demonstrate centrilobular (zone 3) necrosis. Despite features of immune mediated liver injury, autoantibodies are generally not present and immunoglobulin levels are normal. Because of the serious nature of the liver injury, monitoring with routine liver tests (including alkaline phosphatase) is recommended for patients who receive checkpoint inhibitor therapy. Treatment with corticosteroids generally results in a rapid improvement, allowing for their discontinuation within 1 to 2 months. In some instances, however, the clinical and biochemical response is inadequate, calling for addition of a second immunosuppressive agent such as azathioprine or mycophenolate mofetil. Restarting atezolizumab or another checkpoint inhibitor after resolution of the hepatic injury is sometimes possible, but can result in recurrence of injury and has not been shown to improve outcome of the cancer chemotherapy.</p>
+          <p>A proportion of patients receiving atezolizumab develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct wall, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with corticosteroids may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of the smaller, intrahepatic portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC).</p>
+          <p>The effects of PD-L1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with atezolizumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury and probable cause of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Atezolizumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to atezolizumab is likely to be immunologically mediated and is usually at least partially responsive to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.</p>
+        </sec>
+        <sec id="Atezolizumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving atezolizumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN, and discontinuing treatment for values above 8 times the ULN in patients without preexisting abnormalities or tumor involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days.</p>
+          <p>Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, infliximab or tacrolimus) and prolonged immunosuppression may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had an immune related cholangiopathy resistant to immunosuppressive therapy. Restarting atezolizumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors (ipilimumab or anti-PD-1 inhibitors) is more likely to be tolerated. However, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Atezolizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Atezolizumab &#x02013; Tecentriq&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Atezolizumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Atezolizumab.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Atezolizumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Atezolizumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Atezolizumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Atezolizumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Atezolizumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Atezolizumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Atezolizumab</td>
+                <td headers="hd_h_Atezolizumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377483935">1380723-44-3</ext-link>
+</td>
+                <td headers="hd_h_Atezolizumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Atezolizumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Atezolizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 June 2022</p>
+        <p>Abbreviations used: CPI, checkpoint inhibitor; CTLA-4, cytotoxic T lymphocyte associated antigen 4; HCC, hepatocellular carcinoma; irAE, immune related adverse event; PD-1, programmed cell death receptor 1; PD-L1, programmed cell death receptor ligand-1; NSCLC, non-small cell lung cancer; SCLC, small cell lung cancer.</p>
+        <ref-list id="Atezolizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Atezolizumab.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.reuben.2013">
+            <mixed-citation publication-type="book">Reuben A. Biological immunosuppressives. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 580-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; mentions that "the biological immunosuppressants are largely free from hepatotoxicity, except for the TNF alpha antagonists"; checkpoint inhibitors such as atezolizumab were not specifically discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&#x00026;ApplNo=761034">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&#x00026;ApplNo=761034</ext-link><annotation><p><italic toggle="yes">(FDA website with current and previous product labels and the 2016 initial FDA medical review of the New Drug Application for atezolizumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.phan.2003.8372">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Phan</surname><given-names>GQ</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Sherry</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Hwu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Topalian</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Schwartzentruber</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Restifo</surname><given-names>NP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cancer regression and autoimmunity induced by cytotoxic T lymphocyte-associated antigen 4 blockade in patients with metastatic melanoma.</article-title>
+              <source>Proc Natl Acad Sci U S A</source>
+              <year>2003</year>
+              <volume>100</volume>
+              <fpage>8372</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Initial study of checkpoint inhibitor [anti-CTLA-4] therapy in 14 patients with melanoma, 6 of whom developed clinically apparent immune adverse reactions including one with hepatitis arising after the third infusion [ALT 6820 U/L], resolving over the ensuing 4 months with corticosteroid therapy: Case 1, Ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12826605</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.di_giacomo.2010.499">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Di Giacomo</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Biagioli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Maio</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>The emerging toxicity profiles of anti-CTLA-4 antibodies across clinical indications.</article-title>
+              <source>Semin Oncol</source>
+              <year>2010</year>
+              <volume>37</volume>
+              <fpage>499</fpage>
+              <lpage>507</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of immune related adverse events including hepatitis associated with ipilimumab therapy; recommends stopping therapy for grade 3 toxicity [ALT &#x0003e;5 times ULN] and initiating corticosteroids for at least 30 days).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21074065</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.robert.2011.2517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bondarenko</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>O'Day</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Garbe</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lebbe</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ipilimumab plus dacarbazine for previously untreated metastatic melanoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2011</year>
+              <volume>364</volume>
+              <fpage>2517</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Control trial of ipilimumab and dacarbazine vs dacarbazine alone in 502 patients with metastatic melanoma found ALT elevations in 33% on the combination vs 6% on dacarbazine alone, and ALT values above 5 times ULN in 16% vs 0.7%, but no deaths were due to liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21639810</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.kleiner.2012.2233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Berman</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>2233</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical and histological features of 5 patients with liver injury due to ipilimumab; 3 men and 2 women, ages 43 to 76 years, arising after 2 to 4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1, Ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22434096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.weber.2012.2691">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>K&#x000e4;hler</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Hauschild</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Management of immune-related adverse events and kinetics of response with ipilimumab.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>2691</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the immune related adverse events associated with ipilimumab therapy and their management mentions that hepatotoxicity occurs in 3-9% of patients usually with asymptomatic increases in ALT and bilirubin, but some with symptoms; authors recommend use of high doses of corticosteroids for 2 days followed by tapering doses to at least 30 days; multiple courses may be necessary and ipilimumab should not be restarted).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22614989</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.weber.2013.1675">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Dummer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>de Pril</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Lebb&#x000e9;</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+</person-group>
+              <article-title>MDX010-20 Investigators. Patterns of onset and resolution of immune-related adverse events of special interest with ipilimumab: detailed safety analysis from a phase 3 trial in patients with advanced melanoma.</article-title>
+              <source>Cancer</source>
+              <year>2013</year>
+              <volume>119</volume>
+              <fpage>1675</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In clinical trials of ipilimumab in 676 patients with melanoma, immune related adverse events occurred in ~60% of patients arising 3-9 weeks after starting and often mild, but severe in 12% and fatal in 1%, including one case of acute liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23400564</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.fecher.2013.733">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fecher</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Agarwala</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+</person-group>
+              <article-title>Ipilimumab and its toxicities: a multidisciplinary approach.</article-title>
+              <source>Oncologist</source>
+              <year>2013</year>
+              <volume>18</volume>
+              <fpage>733</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Thorough review of side effects of ipilimumab therapy of melanoma states that common adverse events include fatigue, nausea, vomiting, diarrhea, fever, headache, dizziness, rash and pruritus occurring in 70-88% of patients and that hepatotoxicity occurs in 2-9% that can be self-limited, but also can be severe and require corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23774827</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.mcdermott.2013.2694">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McDermott</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Haanen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Lorigan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>O'Day</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>MDX010-20 Investigators. Efficacy and safety of ipilimumab in metastatic melanoma patients surviving more than 2 years following treatment in a phase III trial (MDX010-20).</article-title>
+              <source>Ann Oncol</source>
+              <year>2013</year>
+              <volume>24</volume>
+              <fpage>2694</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 676 patients with melanoma enrolled in the phase III trial of ipilimumab, 94 [20%] survived for 2 years and 42 [16%] for 3 years; late onset immune related adverse events occurred in 11 patients [14%], but were usually mild and none were hepatic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23942774</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.powles.2014.558">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Powles</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Eder</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Fine</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Braiteh</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Loriot</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Cruz</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bellmunt</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>MPDL3280A (anti-PD-L1) treatment leads to clinical activity in metastatic bladder cancer.</article-title>
+              <source>Nature</source>
+              <year>2014</year>
+              <volume>515</volume>
+              <issue>7528</issue>
+              <fpage>558</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 68 patients with metastatic bladder cancer treated with atezolizumab, the objective response rate was 26% and was higher in patients whose tumors stained strongly positive for PD-L1 [43%] than not [11%]; adverse events included transient AST elevations in 3%, but levels were less than 5 times ULN in all).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25428503</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.algazi.2016.3344">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Algazi</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Shoushtari</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Munhoz</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Eroglu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Piulats</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Ott</surname><given-names>PA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical outcomes in metastatic uveal melanoma treated with PD-1 and PD-L1 antibodies.</article-title>
+              <source>Cancer</source>
+              <year>2016</year>
+              <volume>122</volume>
+              <fpage>3344</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 58 patients with metastatic ocular melanoma treated with various monoclonal checkpoint inhibitors, the objective response rate was only 3%, well below rates in non-uveal melanoma; only 1 patient had ALT elevations, but they were less than 5 times ULN and there were no hepatic severe adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27533448</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.mizugaki.2016.596">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mizugaki</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yamamoto</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Murakami</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kenmotsu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fujiwara</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ishida</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kawakami</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase I dose-finding study of monotherapy with atezolizumab, an engineered immunoglobulin monoclonal antibody targeting PD-L1, in Japanese patients with advanced solid tumors.</article-title>
+              <source>Invest New Drugs</source>
+              <year>2016</year>
+              <volume>34</volume>
+              <fpage>596</fpage>
+              <lpage>603</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 6 patients with advanced solid cancers treated with atezolizumab [10-20 mg/kg every 3 weeks], adverse events were generally mild and ALT elevations occurred in only 2 patients, both with levels less than 3 times ULN and not requiring drug discontinuation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27363843</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.rosenberg.2016.1909">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rosenberg</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Hoffman-Censits</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Powles</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>van der Heijden</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Balar</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Necchi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dawson</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Atezolizumab in patients with locally advanced and metastatic urothelial carcinoma who have progressed following treatment with platinum-based chemotherapy: a single-arm, multicentre, phase 2 trial.</article-title>
+              <source>Lancet</source>
+              <year>2016</year>
+              <volume>387</volume>
+              <issue>10031</issue>
+              <fpage>1909</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 315 patients with refractory metastatic bladder cancer treated with atezolizumab [1200 mg every 3 weeks], the objective response rate was 15% and adverse events included fatigue [30%], nausea [14%], anorexia [12%], pruritus [10%], fever [9%], diarrhea [8%] and rash [7%], while immune mediated events occurred in 23 [7%] including AST elevations in 10 [3%] which were above 5 times ULN in 2 [&#x0003c;1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26952546</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.fehrenbacher.2016.1837">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fehrenbacher</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Spira</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ballinger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kowanetz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Vansteenkiste</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mazieres</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>K</given-names></name>
+<etal/>
+<collab>POPLAR Study Group</collab>
+</person-group>
+              <article-title>Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial.</article-title>
+              <source>Lancet</source>
+              <year>2016</year>
+              <volume>387</volume>
+              <issue>10030</issue>
+              <fpage>1837</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 277 patients with refractory NSCLC treated with atezolizumab or docetaxel every 3 weeks, overall survival was 12.6 vs 9.7 months, but adverse events were more common with docetaxel; 6 atezolizumab-treated patients [4%] had ALT elevations above 5 times ULN and one had mild "hepatitis").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26970723</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.mcdermott.2016.833">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McDermott</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Sosman</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Sznol</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Massard</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Hamid</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Powderly</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Atezolizumab, an anti-programmed death-ligand 1 antibody, in metastatic renal cell carcinoma: long-term safety, clinical activity, and immune correlates from a phase Ia study.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2016</year>
+              <volume>34</volume>
+              <fpage>833</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 70 patients with metastatic renal cell cancer treated with atezolizumab every 3 weeks for 1 year, the objective response rate was 15%; ALT elevations above 5 times ULN occurred in 1 patient only, and immune mediated adverse events occurred in 30 [43%], 6 of whom required corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26755520</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.abdelrahman.2017.218">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abdel-Rahman</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Helbling</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Petrausch</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Giryes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mehrabi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;b</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Treatment-related death in cancer patients treated with immune checkpoint inhibitors: a systematic review and meta-analysis.</article-title>
+              <source>Clin Oncol (R Coll Radiol)</source>
+              <year>2017</year>
+              <volume>29</volume>
+              <fpage>218</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 18 trials of checkpoint inhibitors found a lower rate of treatment related deaths from anti-PD-1/-PD-L1 than for anti-CTLA-4 inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27894673</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.karamchandani.2018.665">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Karamchandani</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Chetty</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Immune checkpoint inhibitor-induced gastrointestinal and hepatic injury: pathologists' perspective.</article-title>
+              <source>J Clin Pathol.</source>
+              <year>2018</year>
+              <volume>71</volume>
+              <fpage>665</fpage>
+              <lpage>671</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the gastrointestinal and hepatic pathology of checkpoint inhibitor induced immune adverse events, with acute hepatitis and acute cholangitis patterns found on liver biopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29703758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.postow.2018.158">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Postow</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Sidlow</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hellmann</surname><given-names>MD</given-names></name>
+</person-group>
+              <article-title>Immune-related adverse events associated with immune checkpoint blockade.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2018</year>
+              <volume>378</volume>
+              <fpage>158</fpage>
+              <lpage>168</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, outcomes, pathogenesis and therapy of immune related adverse events of checkpoint inhibitor therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29320654</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.de_martin.2018.1181">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>De Martin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Michot</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Papouin</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Champiat</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mateus</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lambotte</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Roche</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Characterization of liver injury induced by cancer immunotherapy using immune checkpoint inhibitors.</article-title>
+              <source>J Hepatol.</source>
+              <year>2018</year>
+              <volume>68</volume>
+              <fpage>1181</fpage>
+              <lpage>1190</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 536 patients treated with checkpoint inhibitors, 19 [3.5%] were referred to a liver service for high grade hepatitis and 16 underwent liver biopsy; ages 33 to 84 years, 56% female, injury arising after 1-36 [median=5] weeks and 1-36 [median=2] doses, presenting with fever in 38%, rash in 31%, ALT 266 to 3137 [460] U/L, Alk P 54 to 768 [309] U/L, bilirubin 0.4 to 19 [1.1] mg/dL, enzyme pattern most commonly being mixed, 10 patients treated with corticosteroids and 6 resolving spontaneously and no deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29427729</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.abusbeih.2019.118">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Ge</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Bhutani</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Alasadi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jazaeri</surname><given-names>AA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Case series of cancer patients who developed cholecystitis related to immune checkpoint inhibitor treatment.</article-title>
+              <source>J Immunother Cancer.</source>
+              <year>2019</year>
+              <volume>7</volume>
+              <fpage>118</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4253 patients treated with checkpoint inhibitors at the MD Anderson Cancer Center between 2010 and 2018, 25 [0.6%] developed acalculous cholecystitis attributed to the immunotherapy most frequently with anti-CTLA-4 agents alone [1.6%], than anti-PD-1/PD-L1 [0.4%] and combination [0.9%], mean age of patients was 60 years, 60% male, 64% white, median peak ALT 55 U/L, bilirubin 1.4 mg/dL, 20% underwent cholecystectomy, all recovered, 10 [40%] restarted therapy, all without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31053161</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.vozy.2019.112">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vozy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>De Martin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Lebrun-Vignes</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Moslehi</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Salem</surname><given-names>JE</given-names></name>
+</person-group>
+              <article-title>Increased reporting of fatal hepatitis associated with immune checkpoint inhibitors.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2019</year>
+              <volume>123</volume>
+              <fpage>112</fpage>
+              <lpage>115</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the VigiBase registry of adverse drug reactions through September 2018 identified 531 cases of immune related hepatitis, 85% due to CPIs alone with an increase in fatality rate over time, being 14% between 2011 to 2016 and 34% in 2017-2018, time to onset median of 42 days, arising after 1-4 courses [median 2] and with concurrent other organ immune related injury in 31%, usually thyroid or skin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31678768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.onoyama.2020.353">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Onoyama</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Takeda</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yamashita</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hamamoto</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Sakamoto</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Koda</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kawata</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Programmed cell death-1 inhibitor-related sclerosing cholangitis: a systematic review.</article-title>
+              <source>World J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>26</volume>
+              <fpage>353</fpage>
+              <lpage>365</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of literature on secondary sclerosing cholangitis due to anti-PD-1/PD-L1 therapy identified 31 cases with male:female ratio of 2:1, median age 67 [range 43-89] years, arising after a median of 5.5 [range 1 to 27] cycles of nivolumab [19], pembrolizumab [10], avelumab [1], or durvalumab [1], with median bilirubin 0.8 [0.3-15.9] mg/dL, ALT 125 [31-1536] U/L, AST 129 [49-961] U/L, Alk P 1543 [237-5066] U/L, GGT 452 [114-2094] U/L, cholangiography demonstrating biliary dilation without obstruction [77%], hypertrophy of the extrahepatic biliary tree [90%], and biliary strictures [30%] and biopsy demonstrating CD8+ infiltrates around bile ducts, and adequate response to corticosteroids in only 11%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31988594</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.zen.2020.470">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>YY</given-names></name>
+<name name-style="western"><surname>Jeng</surname><given-names>YM</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>HW</given-names></name>
+<name name-style="western"><surname>Yeh</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Immune-related adverse reactions in the hepatobiliary system: second-generation check-point inhibitors highlight diverse histological changes.</article-title>
+              <source>Histopathology.</source>
+              <year>2020</year>
+              <volume>76</volume>
+              <fpage>470</fpage>
+              <lpage>480</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 10 cases of second generation checkpoint inhibitor induced immune liver injury mentions 3 patterns, hepatocellular, cholestatic and granulomatous injury, the cholestatic form often with a delayed latency and poor response to corticosteroids, histologic findings of inflammation and scarring of bile duct epithelium, found most frequently with pembrolizumab and atezolizumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31550390</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.tsukita.2020.22">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tsukita</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Miyauchi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Fukudo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sasaki</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ichinose</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Immunotherapy-related hepatitis and thrombocytopaenia induced by the very low dose of only 90&#x000a0;mg of atezolizumab.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2020</year>
+              <volume>133</volume>
+              <fpage>22</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old woman with NSCLC developed bradycardia during an initial infusion of atezolizumab which was discontinued [total dose 90 mg] but she then developed fatigue 15 days later with liver abnormalities and thrombocytopenia [bilirubin not given, ALT 130 U/L, Alk P 768 U/L, platelets 38,000/&#x000b5;L], which responded promptly to prednisolone with normal ALT and platelets in follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32422505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.vitale.2020.1047">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vitale</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Lamberti</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Comito</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Di Nunno</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Massari</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Morelli</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Ardizzoni</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Anti-programmed cell death-1 and anti-programmed cell death ligand-1 immune-related liver diseases: from clinical pivotal studies to real-life experience.</article-title>
+              <source>Expert Opin Biol Ther.</source>
+              <year>2020</year>
+              <volume>20</volume>
+              <fpage>1047</fpage>
+              <lpage>1059</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatic complications of anti-PD-1 and anti-PD-L1 checkpoint inhibitors that includes immune mediated hepatitis [typically panlobular inflammation and injury], small and large duct cholangitis [similar to primary biliary and sclerosing cholangitis], immune mediated cholecystitis, nodular regenerative hyperplasia and vanishing bile duct syndrome).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32425081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.miller.2020.251">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miller</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Styskel</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Nogueras Gonzalez</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Blechacz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical characteristics and adverse impact of hepatotoxicity due to immune checkpoint inhibitors.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>251</fpage>
+              <lpage>261</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 5762 recipients of checkpoint inhibitor therapy of cancer at the MD Anderson Cancer Center between 2010 and 2018, 433 [8%] developed ALT levels and 100 had levels above 5 times ULN [2%), the rate being 8% with combination therapy, 1.7% with anti-CTLA agents and 1.1% with PD-1 and PD-L1 blockers, the abnormalities arising after a median of 59 days; all had the checkpoint inhibitor therapy held, 67 received corticosteroids [for a median of 43 days], 3 with mycophenolate, and 31 were rechallenged after resolution of the hepatitis, of whom 8 [26%] had a recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31789632</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.kitagataya.2020.1782">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kitagataya</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Suda</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Nagashima</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Katsurada</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yamamoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kimura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Maehara</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Prevalence, clinical course, and predictive factors of immune checkpoint inhibitor monotherapy-associated hepatitis in Japan.</article-title>
+              <source>J Gastroenterol Hepatol.</source>
+              <year>2020</year>
+              <volume>35</volume>
+              <fpage>1782</fpage>
+              <lpage>1788</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 202 patients with cancer treated with checkpoint inhibitors at a single referral center in Japan, 17 [8.5%] developed immune related hepatitis which was severe in 8 [4.5%] often requiring corticosteroids, 2 receiving mycophenolate as well, but none died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32187734</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.ruggiero.2020.830">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ruggiero</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fraenza</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Scavone</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>di Mauro</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Piscitelli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mascolo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immune checkpoint inhibitors and immune-related adverse drug reactions: data from Italian Pharmacovigilance Database.</article-title>
+              <source>Front Pharmacol.</source>
+              <year>2020</year>
+              <volume>11</volume>
+              <fpage>830</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2088 safety reports of check point inhibitors enrolled in an Italian pharmacovigilance registry, 801 were immune related including gastrointestinal [33%], skin [17%] and liver [2.7%] due to nivolumab [70%], pembrolizumab [11%], ipilimumab [15%], atezolizumab [4%] and avelumab [&#x0003c;1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32581796</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.cho.2021.16">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cho</surname><given-names>YA</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Youn</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Gwak</surname><given-names>HS</given-names></name>
+</person-group>
+              <article-title>Analysis of risk factors for hepatotoxicity induced by immune checkpoint Inhibitors.</article-title>
+              <source>J Immunother.</source>
+              <year>2021</year>
+              <volume>44</volume>
+              <fpage>16</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 194 patients with cancer treated with checkpoint inhibitors at two Korean referral centers, 125 [64%] developed liver test abnormalities, more frequently in younger patients vs older [30-50 years - 80% vs 50-70 years - 72%, and &#x0003e;70 years - 50%] and in men than women [68% vs 58%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33290362</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.fujii.2020.1083">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fujii</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ozato</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mizukawa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nasu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kawai</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fujioka</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Yoshioka</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A rare case of immunotherapy-induced cholangitis and gastritis.</article-title>
+              <source>Clin J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <fpage>1083</fpage>
+              <lpage>1090</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old Japanese man with undifferential carcinoma of unknown source who developed refractory biliary disease after 2 months of therapy with atezolizumab and ramucirumab with thickened walls of gallbladder and dilation of bile ducts without obstruction, endoscopic biopsy of bile duct epithelium showing inflammation with CD8+ lymphocytic infiltrates [ALT 45 U/L, Alk P 1295 U/L, bilirubin not given], with ultimate recovery with corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32886336</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.mizuno.2020.653">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mizuno</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ito</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ishigami</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ishizu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kuzuya</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Honda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kawashima</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real world data of liver injury induced by immune checkpoint inhibitors in Japanese patients with advanced malignancies.</article-title>
+              <source>J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>55</volume>
+              <fpage>653</fpage>
+              <lpage>661</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 546 patients with advanced malignancies treated with checkpoint inhibitors at two Japanese referral centers between 2014 and 2019, high grade, immune mediated liver injury occurred in 29 [5%], mean age 69 years, 73% male, mean onset 52 [range 1-273] days, after 3 [1-15] doses of ipilimumab [6%], nivolumab [54%], pembrolizumab [30%], atezolizumab [6%], durvalumab [2.4%], combination [1.3%], presenting with hepatocellular [21%], cholestatic [59%] or mixed [21%] enzyme elevations, 4 with cholangitis and biliary dilatation without obstruction, only 1 case fatal; predictive factors for injury included ipilimumab [hazard ratio 4.2]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32124082</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.nabeshima.2021.100270">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nabeshima</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yamasaki</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Matsumoto</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Takaki</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nishi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kawamoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Taniwaki</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Atezolizumab-induced sclerosing cholangitis in a patient with lung cancer: a case report.</article-title>
+              <source>Cancer Treat Res Commun.</source>
+              <year>2021</year>
+              <volume>26</volume>
+              <elocation-id>100270</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(77 year old Japanese woman with advanced adenocarcinoma of the lung developed nausea after 13 cycles of atezolizumab [bilirubin 2.6 mg/dL, ALT 193 UL, Alk P 2837], liver biopsy resembling sclerosing cholangitis with minimal response to ursodiol and marked response to prednisone although Alk P remained elevated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33338849</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.honma.2021.1847">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Honma</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Shibata</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gohda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Matsumiya</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kumamoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Miyama</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Morino</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Rapid progression of liver fibrosis Induced by acute liver injury due to immune-related adverse events of atezolizumab.</article-title>
+              <source>Intern Med.</source>
+              <year>2021</year>
+              <volume>60</volume>
+              <fpage>1847</fpage>
+              <lpage>1853</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old Japanese woman with advanced lung cancer developed liver injury after 3 monthly cycles of atezolizumab and bevacizumab with carboplatin and paclitaxel [bilirubin 0.6 mg/dL, ALT 208 U/L, Alk P 1075 U/L, INR 1.12], biopsy showing a panlobular hepatitis, treated with ursodiol with partial effect [bilirubin 3.2 mg/dL, ALT ~180 U/L, Alk P ~850 U/L], with second biopsy showing bridging fibrosis; addition of prednisolone resulted in further but incomplete biochemical improvement).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33456046</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.wong.2021.1274">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Yip</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Tse</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Lui</surname><given-names>RN</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatitis flare during immunotherapy in patients with current or past hepatitis B virus infection.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2021</year>
+              <volume>116</volume>
+              <fpage>1274</fpage>
+              <lpage>1283</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 990 patients in Hong Kong with advanced malignancies treated with checkpoint inhibitors between 2014 and 2019 [397 HBsAg positive, 482 with anti-HBc or anti-HBs, 111 negative for both at baseline], 39% of HBsAg-positive vs 30% of HBsAg-negative patients developed ALT elevations during therapy, but only two cases [both HBsAg positive and on prophylaxis] were due to HBV reactivation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33560651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.mustafayev.2022">
+            <mixed-citation publication-type="other">Mustafayev K, Torres H. Hepatitis B virus and hepatitis C virus reactivation in cancer patients receiving novel anticancer therapies. Clin Microbiol Infect. 2022 Mar 10:S1198-743X(22)00119-7.<annotation><p><italic toggle="yes">(Review of the literature on reactivation of HBV and HCV in patients on &#x0201c;novel&#x0201d; anticancer therapy concludes that reactivation can occur with checkpoint inhibitor therapy but largely among HBsAg positive patients and only rarely in patients with resolved hepatitis B).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.yoo.2022.898">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yoo</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Shim</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Yoo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of hepatitis B virus reactivation in patients treated with immunotherapy for anti-cancer treatment.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>898</fpage>
+              <lpage>907</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3,465 patients with advanced malignancies treated with checkpoint inhibitors between 2015 and 2020 at a single referral center in Korean, 511 [15%] were HBsAg positive at baseline, reactivation of HBV occurred in 5 of 511 [1%] HBsAg positive vs none of 2,954 HBsAg negative patients, arising in 2 of 464 [0.4%] patients given prophylaxis [both having stopped antivirals] vs 3 of 47 not given prophylaxis [6.4%]; reactivation arising after 3-141 weeks [median 54 weeks] of nivolumab [n=2], pembrolizumab [n=2] or ipilimumab and nivolumab [n=1] treatment, ALT peak 53 to 1768 IU/mL, HBV DNA 6,100 to 3.9 million IU/mL, resolving with 2 to 6 weeks of starting antiviral therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34182151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.tzadok.2022.5090200">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tzadok</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Aouizerate</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shibolet</surname><given-names>O</given-names></name>
+</person-group>
+              <article-title>Acute liver failure following a single dose of atezolizumab, as assessed for causality using the updated RUCAM.</article-title>
+              <source>Case Rep Gastrointest Med.</source>
+              <year>2022</year>
+              <volume>2022</volume>
+              <elocation-id>5090200</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old man with refractory, locally invasive adenocarcinoma of lung developed weakness and pain 2 weeks after an initial dose of atezolizumab [bilirubin 0.3 mg/dL, ALT 485 rising to 2124 U/L, Alk P 253 U/L, creatinine 2.8, INR 1.32 rising to 2.91], with progressive lactic acidosis and hepatic failure, biopsy showing severe zone 3 necrosis and slight inflammation and sinusoidal dilation but no fibrosis, dying within 5 days of presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35368450</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Atezolizumab.REF.kotha.2022.446">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kotha</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Berry</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Diagnostic, therapeutic and prognostic challenges in a jaundiced patient treated with a checkpoint inhibitor.</article-title>
+              <source>Clin J Gastroenterol.</source>
+              <year>2022</year>
+              <volume>15</volume>
+              <fpage>446</fpage>
+              <lpage>450</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(42 year old man with metastatic NSCLC on treatment with maintenance atezolizumab developed jaundice, diffuse biliary dilatation without obstruction, and ascites [bilirubin 10.0 rising to 16.4 mg/dL, ALT 603 U/L, Alk P 889 U/L], biopsy showing marked cholestasis with little inflammation and malignant cells in hepatic vessels suggestive of malignant rather than checkpoint induced cholangiopathy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35152370</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Atezolizumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Atezolizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Atezolizumab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Atezolizumab">Trials on Atezolizumab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

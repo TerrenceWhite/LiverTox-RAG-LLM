@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tucatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tucatinib</book-part-id>
+      <title-group>
+        <title>Tucatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trospium" document-type="chapter">Trospium</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="TNFAntagonists" document-type="chapter">Tumor Necrosis Factor Antagonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tucatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tucatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tucatinib is tyrosine kinase inhibitor that targets the human epidermal growth factor receptor 2 (HER2) and is used in combination with other antineoplastic agents in the treatment of refractory, advanced or metastatic HER2 positive breast and colorectal cancer. Serum aminotransferase elevations are common during therapy with tucatinib, but it has not been linked to episodes of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Tucatinib.Background">
+          <title>Background</title>
+          <p>Tucatinib (too ka&#x02019; ti nib) is an orally available small molecule inhibitor of the human epidermal growth factor receptor 2 (HER2), a tyrosine kinase that is overexpressed in some cancers and leads to excessive cell growth and proliferation. HER2 is an oncogenic driver found overexpressed in 15% to 20% of cases of breast cancer and more rarely in other solid tumors such as colorectal cancer. In a large randomized, double-blind placebo controlled trial, the addition of tucatinib to trastuzumab and capecitabine was found to induce objective responses in 60% of patients with refractory metastatic or advanced unresectable HER2 positive breast cancer, including patients with brain metastases. Tucatinib combined with trastuzumab and capecitabine was granted accelerated approval in the United States in 2020 for adults with advanced or metastatic HER2 positive breast cancer after failure of prior anti-HER2-based regimens. Tucatinib unlike monoclonal antibodies penetrates the blood-brain barrier, perhaps accounting for its efficacy in treating brain metastases refractory to monoclonal antibody based anti-HER2 therapies. In 2023, indications for tucatinib were extended to refractory HER2 positive advanced unresectable metastatic colorectal cancers in combination with trastuzumab alone. Tucatinib is available in tablets of 50 and 150 mg under the brand name Tukysa. The recommended dose is 300 mg orally twice daily until disease progression or unacceptable toxicity. Side effects are common and arise in almost all patients treated with tucatinib combined with trastuzumab and capecitabine and lead to dose modification or interruptions in at least 20% of treated patients and permanent discontinuation in 6%. Common side effects include diarrhea, palmar-plantar erythrodysesthesia (hand-foot syndrome), nausea and vomiting, abdominal pain, fatigue, myalgia, arthralgia, cough, dyspnea, fever, lymphopenia, anemia, and aminotransferase elevations. Uncommon but potentially severe adverse events include severe diarrhea, hepatotoxicity, and embryo-fetal toxicity. Of course, some of the toxicity associated with tucatinib therapy may be due to the concurrent use of trastuzumab and capecitabine.</p>
+        </sec>
+        <sec id="Tucatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of tucatinib in combination with trastuzumab and capecitabine in patients with metastatic and unresectable HER2 positive breast cancer, liver test abnormalities were frequent although usually self-limited and mild. Some degree of ALT elevations arose in 46% of those receiving tucatinib vs 27% treated with trastuzumab and capecitabine alone. Peak ALT levels rose to above 5 times the upper limit of normal (ULN) in 8% of the tucatinib treated subjects but in less than 1% of controls receiving trastuzumab and capecitabine alone. In a controlled trial enrolling 612 patients with breast cancer, 9 tucatinib treated patients developed ALT elevations and hyperbilirubinemia. Upon further evaluation, however, none of these cases of suspected significant liver injury were considered due to tucatinib, all patients having other possible reasons for liver injury and jaundice. There were no cases of tucatinib-associated liver failure or hepatotoxicity leading to death in any of the prelicensure studies. The product label for tucatinib recommends monitoring for routine liver tests before and every 3 weeks during therapy, and as clinically indicated.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tucatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from tucatinib is unknown, but the pattern of abnormalities suggests direct liver injury. Tucatinib is metabolized in the liver via the cytochrome P450 system, largely CYP 2C8 and 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce these CYP enzyme reactivities. Tucatinib is also an inhibitor CYP 3A4 and P-glycoprotein and can increase the toxicity of drugs that are substrates for these enzymes and transporters.</p>
+        </sec>
+        <sec id="Tucatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for tucatinib recommends monitoring for routine liver tests before and every 3 weeks during treatment. Serum aminotransferase elevations above 5 times ULN or bilirubin above 3 times ULN should lead to dose reduction or temporary cessation of tucatinib therapy and careful monitoring. If serum aminotransferase levels and bilirubin improve to normal or near normal levels, tucatinib can be restarted at a lower dose. In patients with ALT elevations above 20 times ULN or any aminotransferase elevations with jaundice or symptoms of liver injury, tucatinib should be promptly discontinued and not restarted. Cross sensitivity to liver injury is uncommon among the antineoplastic, small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of tucatinib with other antineoplastic tyrosine kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tucatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tucatinib &#x02013; Tukysa&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tucatinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tucatinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tucatinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tucatinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tucatinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Tucatinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tucatinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tucatinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tucatinib</td>
+                <td headers="hd_h_Tucatinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://223370214">937263-43-9</ext-link>
+</td>
+                <td headers="hd_h_Tucatinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C26-H24-N8-O2</td>
+                <td headers="hd_h_Tucatinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="223370214" document-id-type="sid" document-type="summary" object-id="223370214" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tucatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 09 September 2023</p>
+        <p>Abbreviations: HER2, human epidermal growth factor receptor 2.</p>
+        <ref-list id="Tucatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tucatinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss tucatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213411Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213411Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of tucatinib given in combination with trastuzumab and capecitabine (T+C) as therapy of metastatic refractory HER2+ breast cancer; states that median overall survival was longer with tucatinib+T+C than with placebo+T+C controls [22 vs 17 months] and adverse event rates were similar in both groups but hepatic events [the combination of ALT, AST, and bilirubin abnormalities] occurred in 39% on tucatinib vs 23% in controls, and 9 subjects had both ALT elevations and jaundice, but none were considered due to therapy as other causes were found so that there were no cases of hepatotoxicity leading to liver failure or death).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.murthy.2018.880">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Murthy</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Borges</surname>
+<given-names>VF</given-names></string-name>, <string-name name-style="western"><surname>Conlin</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Chaves</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Chamberlain</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gray</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Vo</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tucatinib with capecitabine and trastuzumab in advanced HER2-positive metastatic breast cancer with and without brain metastases: a non-randomised, open-label, phase 1b study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2018</year>;<volume>19</volume>:<fpage>880</fpage>-<lpage>888</lpage>.<annotation><p><italic toggle="yes">(Among 60 patients with advanced HER2+ metastatic breast cancer treated with tucatinib with either trastuzumab [T] or capecitabine [C] or both [TC], the objective response rate was 61% with tucatinib+TC compared to 40% with tucatinib+T and 83% with tucatinib+C, while adverse events included diarrhea [67%], hand-foot syndrome [44%], fatigue [38%] and ALT elevations [12%], but there were no instances of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">29804905</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.murthy.2020.597">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Murthy</surname>
+<given-names>RK</given-names></string-name>, <string-name name-style="western"><surname>Loi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Okines</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Paplomata</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Hamilton</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Hurvitz</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Lin</surname>
+<given-names>NU</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tucatinib, trastuzumab, and capecitabine for HER2-positive metastatic breast cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>382</volume>:<fpage>597</fpage>-<lpage>609</lpage>.<annotation><p><italic toggle="yes">(Among 612 patients with refractory, HER2+ metastatic breast cancer enrolled in a randomized controlled trial of addition of tucatinib vs placebo to the combination of trastuzumab and capecitabine, the overall survival at 2 years was 45% vs 27% with responses in brain metastases; adverse events were common in both groups [99% vs 97%], but more frequent with tucatinib were diarrhea [81% vs 53%], hand-foot syndrome [63% vs 53%], and ALT elevations [20% vs 7%], particularly values above 5 times ULN [5% vs 0.5%] and one patient developed ALT elevations [134 U/L] with jaundice [bilirubin 2.6 mg/dL] but recovered with dose reduction and was able to continue therapy without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">31825569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF7">
+            <mixed-citation publication-type="journal"><article-title>Two drugs for advanced HER2-positive breast cancer (Enhertu and Tukysa).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2020</year>;<volume>62</volume>:<fpage>182</fpage>-<lpage>184</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, adverse effects, and costs of tucatinib shortly after its approval as therapy with trastuzumab and capecitabine for refractory, advanced HER2+ breast cancer, mentions that it can cause severe hepatotoxicity and routine liver tests should be monitored before and every 3 weeks during treatment).</italic></p></annotation><pub-id pub-id-type="pmid">33429416</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.shah.2021.1220">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shah</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wedam</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Fiero</surname>
+<given-names>MH</given-names></string-name>, <string-name name-style="western"><surname>Xia</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Fan</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: tucatinib for the treatment of patients with advanced or metastatic HER2-positive breast cancer.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2021</year>;<volume>27</volume>:<fpage>1220</fpage>-<lpage>1226</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on efficacy and safety of tucatinib that supported its approval as therapy of refractory, advanced or metastatic HER2+ breast cancer mentions that hepatotoxicity was a safety signal of concern and while tucatinib therapy was associated with a high rate of abnormal ALT, AST and bilirubin levels, there were no cases of confirmed clinically apparent drug induced liver injury or liver failure that could be attributed to tucatinib therapy).</italic></p></annotation><pub-id pub-id-type="pmid">33055172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.curigliano.2022.321">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Curigliano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Mueller</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Borges</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Hamilton</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Hurvitz</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Loi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Murthy</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tucatinib versus placebo added to trastuzumab and capecitabine for patients with pretreated HER2+ metastatic breast cancer with and without brain metastases (HER2CLIMB): final overall survival analysis.</article-title>
+<source>Ann Oncol.</source>
+<year>2022</year>;<volume>33</volume>:<fpage>321</fpage>-<lpage>329</lpage>.<annotation><p><italic toggle="yes">(Final results from the pivotal randomized controlled trial of tucatinib vs placebo added to trastuzumab and capecitabine in 612 adults with refractory HER+ metastatic breast cancer [Murthy 2020] reported an overall survival at 2 years of 24.7 vs 19.2 months and that &#x0201c;rates of liver laboratory abnormalities and diarrhea did not increase with additional follow up&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">34954044</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF.strickler.2023.496">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Strickler</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Cercek</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Siena</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Andr&#x000e9;</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Ng</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Van Cutsem</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>; <collab>MOUNTAINEER investigators</collab>. <article-title>Tucatinib plus trastuzumab for chemotherapy-refractory, HER2-positive, RAS wild-type unresectable or metastatic colorectal cancer (MOUNTAINEER): a multicentre, open-label, phase 2 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2023</year>;<volume>24</volume>:<fpage>496</fpage>-<lpage>508</lpage>.<annotation><p><italic toggle="yes">(Among 84 patients with refractory, unresectable or metastatic HER2+ colorectal cancer treated with tucatinib and trastuzumab, the objective response rate was 38%, while 95% developed at least one adverse event including ALT elevations in 5 patients [6%] which were above 5 times ULN in 3 [4%], but there were no episodes of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">37142372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tucatinib.REF11">
+            <mixed-citation publication-type="journal"><article-title>In brief: A second indication for tucatinib (Tukysa).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e37</fpage>-<lpage>e38</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, adverse effects, and costs of tucatinib shortly after its approval as therapy with trastuzumab for HER2+ advanced colorectal cancer, mentions that &#x0201c;severe hepatotoxicity can occur&#x0201d; and routine liver tests should be monitored during treatment).</italic></p></annotation><pub-id pub-id-type="pmid">36877245</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tucatinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tucatinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tucatinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tucatinib">Trials on Tucatinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

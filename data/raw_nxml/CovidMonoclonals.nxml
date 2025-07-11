@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CovidMonoclonals" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CovidMonoclonals</book-part-id>
+      <title-group>
+        <title>Covid-19 Monoclonal Antibodies</title>
+        <subtitle>
+<underline>Monoclonal Antibodies to SARS-CoV-2</underline>
+</subtitle>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>4</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CovidDrugs" document-type="chapter">Covid-19 Drugs</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="CovidVaccines" document-type="chapter">Covid-19 Vaccines</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CovidMonoclonals.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="CovidMonoclonals.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>The severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2) is a novel coronavirus that arose in late 2019 and led to a worldwide pandemic of respiratory illness (COVID-19) and, within the first year of its recognition, led to more than 100 million infections and at least 2 million deaths worldwide. SARS-CoV-2 is a large, single-stranded RNA virus which encodes four structural proteins: spike (S), membrane (M), envelop (E) and nucleocapsid (N). The virus binds to the angiotensin-converting enzyme 2 (ACE2) protein on the surface of cells, the binding region on the surface of the virus being the spike protein. Upon binding, the spike protein undergoes structural rearrangement, losing a protein subunit and inserting a fusion peptide into the host cell membrane through which the virus RNA is inserted. Antibodies to the SARS-CoV-2 spike protein have been shown to be neutralizing, to block fusion and insertion of the viral RNA and to prevent infection. Vaccines for COVID-19 have focused on inducing antibodies to the spike protein. In addition, monoclonal antibodies to the receptor binding domain of the SARS-CoV-2 spike protein have been developed and shown to neutralize virus in vitro and in vivo in animal models when given before or at the time of exposure to the virus. Controlled trials of these monoclonal antibodies have demonstrated their ability to lessen the severity of COVID-19 infection when given early in the course of infection in patients with high risk of progressive disease. Trials in patients exposed but not yet infected with SARS-CoV-2 have shown there efficacy in preventing infection and disease in high risk individuals (at least for some monoclonal antibody combinations). At the same time, these monoclonal antibodies which are given intravenously or by subcutaneous injection are well tolerated. There is no evidence that any of the anti-SARS-CoV-2 monoclonal antibodies cause serum enzyme elevations or clinically apparent liver injury.</p>
+        </sec>
+        <sec id="CovidMonoclonals.Background">
+          <title>Background</title>
+          <p>Monoclonal antibodies to the spike protein of the SARS-CoV-2 virus have been developed and several have been shown to have neutralizing activity in vitro in cell culture as well as in vivo in animal models of COVID-19 infection. In clinical trials, administration of one or more of these monoclonal antibodies have been associated with a decrease in disease progression, particularly if given early in the course of illness in persons at high risk of disease progression. By the end of 2021, 5 monoclonal antibodies have been given Emergency Use Authorization (EUA) in the United States, but the changing frequency of circulating variants of SARS-CoV-2 has changed the generalizability of their efficacy. Four of the monoclonal antibodies are recommended to be given only in combination: bamlanivimab (LY-CoV555) and etesevimab (LY-CoV016); or casirivimab (REGN10933) and imdevimab (REGN10987), the combination known as REGN-COV2. However, both of these combination regimens are now rarely used because of their lack of neutralizing activity against the Omicron variant of SARS-CoV-2, which became the major circulating variant in the United States and much of the world by early 2022. The fifth monoclonal antibody to receive EUA in the United States was sotrovimab (VIR-7831). Unlike the other monoclonal antibodies given EUA, sotrovimab appears to bind to the Spike protein but rather than preventing its binding to the ACE-2 receptor, prevents the subsequent activity of the virus to insertion of a fusion protein and inject viral RNA into the cell. While apparently effective against the initial Omicron variant of SARS-CoV-2, sotrovimab had little or no activity against the Omicron BA.2 sub-variant and its authorization was subsequently withdrawn.</p>
+          <p>Current indications for use of monoclonal antibodies to SARS-CoV-2 are for nonhospitalized adults with confirmed COVID-19 infection, but without need for supplemental oxygen who are at high risk for complications. These therapies should be administered as soon as possible and at most 10 days after onset of symptoms or diagnosis. In patients with more advanced infection, the monoclonal antibodies had little or no effect on clinical outcome and may be harmful. While some regimens of monoclonal antibodies have shown efficacy in post-exposure prophylaxis (in high risk subjects with known close exposure to a case of COVID-19), not all have been evaluated in this situation. Most monoclonal antibodies to SARS-CoV-2 are given as a single intravenous infusion and require administration in a clinical setting where there is experience in administering intravenous infusions and in managing allergic reactions. The dosage and regimen of administration should be carefully followed. Recommendations and guidelines on management of COVID-19 change frequently. Current guidelines with information on indications and doses of monoclonal antibodies to SARS-CoV-2 are provided by the following frequently updated websites.</p>
+          <p>
+<bold>NIH Treatment Guidelines on management of COVID-19.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.covid19treatmentguidelines.nih.gov/overview/">https://www.covid19treatmentguidelines.nih.gov/overview/</ext-link>
+</p>
+          <p>
+<bold>European Medicines Agency on management of COVID-19.</bold>
+</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-latest-updates">https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-latest-updates</ext-link>
+</p>
+        </sec>
+        <sec id="CovidMonoclonals.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In trials of monoclonal antibodies to the COVID-19 spike protein there have been no reports of ALT elevations or hepatotoxicity. Side effects may include rash and diarrhea and, in rare instances, hypersensitivity reactions.</p>
+          <p>Likelihood score, all five monoclonal anti-SARs-CoV-2 antibodies: E (unlikely causes of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="CovidMonoclonals.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Monoclonal antibodies have no specific hepatic metabolism and are broken down in cells to amino acids. The mechanism by which they might cause liver injury is unknown.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Antiviral Agents</p>
+        </sec>
+      </sec>
+      <sec id="CovidMonoclonals.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Bamlanivimab&#x000ae; (LY-CoV555)</p>
+        <p>Etesevimab&#x000ae; (LY-CoV016)</p>
+        <p>Casirivimab&#x000ae; (REGN10933)</p>
+        <p>Imdevimab&#x000ae; (REGN10987)</p>
+        <p>Sotrovimab&#x000ae; (VIR-7831)</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Monoclonal Antibodies</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Bamlanivimab">COMPLETE LABELING</ext-link> &#x02013; Bamlanivimab</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Etesevimab">COMPLETE LABELING</ext-link> &#x02013; Etesevimab</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Casirivimab">COMPLETE LABELING</ext-link> &#x02013; REGN-COV2<sup>TM</sup> (Casirivimab with Imdevimab)</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Sotrovimab">COMPLETE LABELING</ext-link> &#x02013; Sotrovimab</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="CovidMonoclonals.CHEMICAL_FORMULA_AND_ST">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="CovidMonoclonals.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_CovidMonoclonals.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_CovidMonoclonals.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_CovidMonoclonals.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_CovidMonoclonals.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bamlanivimab</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2423943-37-5</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Etesevimab</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2423948-94-9</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Casirivimab</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2415933-42-3</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Imdevimab</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2415933-40-1</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Sotrovimab</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2423014-07-5</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_CovidMonoclonals.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="CovidMonoclonals.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 31 January 2022</p>
+        <ref-list id="CovidMonoclonals.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="CovidMonoclonals.REF.chen.2021.229">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Nirula</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Heller</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Gottlieb</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Boscia</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Huhn</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>BLAZE-1 Investigators. SARS-CoV-2 neutralizing antibody LY-CoV555 in outpatients with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>229</fpage>
+              <lpage>37</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 452 patients with mild or moderate COVID-19 treated with a single iv infusion of bamlanivimab [LY-CoV555: 700, 2800 or 7000 mg] or placebo, there was more rapid resolution of symptoms and fewer COVID-19 related hospitalizations [1.6% vs 6.3%] in those receiving monoclonal antibody, while adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33113295</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.weinreich.2021.238">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weinreich</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Sivapalasingam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Norton</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ali</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bhore</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Musser</surname><given-names>BJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Trial Investigators. REGN-COV2, a neutralizing antibody cocktail, in outpatients with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>238</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 275 nonhospitalized patients with COVID-19 treated with a single iv infusion of REGN-COV2 [equal doses of casirivimab and imdevimab, 2.4 or 8.0 gm] or placebo, there were fewer subsequent COVID-19 related medically-attended visits [3% vs 6%] in those receiving monoclonal antibody, while adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33332778</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF3">
+            <element-citation publication-type="journal">
+              <article-title>An EUA for bamlanivimab &#x02013; a monoclonal antibody for COVID-19.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <fpage>185</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of monotherapy with bamlanivimab in patients with mild-to-moderate COVID-19 who are at high risk of progressing to more severe disease shortly after its emergency use authorization by the FDA on November 9, 2020; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33443490</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF4">
+            <element-citation publication-type="journal">
+              <article-title>An EUA for casirivimab and imdevimab for COVID-19.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1614</issue>
+              <fpage>201</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of the combination of casirivimab and imdevimab for patients with mild-to-moderate COVID-19 [age 12 years or above; weight at least 40 kg] at high risk of progressing to more severe disease shortly after its emergency use authorization on November 9 2020; mentions that infusion reactions occur and one case of anaphylaxis has been reported; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33451174</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF5">
+            <mixed-citation publication-type="other">ACTIV-3/TICO LY-CoV555 Study Group, Lundgren JD, Grund B, Barkauskas CE, Holland TL, Gottlieb RL, Sandkovsky U, Brown SM, et al. A neutralizing monoclonal antibody for hospitalized patients with Covid-19. N Engl J Med 2021; 384: 905-14.<annotation><p><italic toggle="yes">(Among 314 adult patients hospitalized with COVID-19 without end-organ failure treated with intravenous bamlanivimab [LY-CoV555: 7000 mg] or placebo, time to recovery and rates of deterioration and death were similar in the two groups as were adverse event rates; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.gottlieb.2021.632">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gottlieb</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Nirula</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Boscia</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Heller</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Huhn</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effect of bamlanivimab as monotherapy or in combination with etesevimab on viral load in patients with mild to moderate COVID-19: a randomized clinical trial.</article-title>
+              <source>JAMA</source>
+              <year>2021</year>
+              <volume>325</volume>
+              <fpage>632</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 577 patients treated with a single infusion of bamlanivimab alone [700, 2800 or 7000 mg] or combined with etesevimab [2800 and 2800 mg], or placebo, the change in viral levels by day 11 was significant only for the combination, while subsequent emergency room visits or hospitalizations were less with monotherapy [1% to 2%] and combination therapy [1%] vs placebo [5.8%], while adverse event rates were similar in the two groups, immediate hypersensitivity reactions occurring in 2% vs 0.6%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33475701</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.rizk.2021.593">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rizk</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Forthal</surname><given-names>DN</given-names></name>
+<name name-style="western"><surname>Kalantar-Zadeh</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mehra</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Lavie</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Rizk</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Pfeiffer</surname><given-names>JP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Expanded Access Programs, compassionate drug use, and Emergency Use Authorizations during the COVID-19 pandemic.</article-title>
+              <source>Drug Discov Today</source>
+              <year>2021</year>
+              <volume>26</volume>
+              <fpage>593</fpage>
+              <lpage>603</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the FDA Expanded Assess Program [EAP: for ruxolitinib and convalescent plasma] and Emergency Use Authorization [for hydroxychloroquine and chloroquine, convalescent plasma, remdesivir, baricitinib, bamlanivimab, casirivimab, and imdevimab] during 2020 in response to the COVID-19 pandemic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33253920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.focosi.2021.e2231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Focosi</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Maggi</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Neutralising antibody escape of SARS-CoV-2 spike protein: risk assessment for antibody-based Covid-19 therapeutics and vaccines.</article-title>
+              <source>Rev Med Virol.</source>
+              <year>2021</year>
+              <volume>31</volume>
+              <issue>6</issue>
+              <elocation-id>e2231</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the antibody escape mutations in the spike protein of SARS-CoV-2 [including the so-called UK -B.1.1.7, South African -B.1.351 &#x02013; and Brazilian -P.1- strains] and their clinical significance in regard to efficacy of COVID vaccines and monoclonal antibodies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33724631</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF9">
+            <element-citation publication-type="journal">
+              <article-title>An EUA for bamlanivimab and etesevimab for COVID-19.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1621</issue>
+              <fpage>49</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and availability of the combination of bamlanivimab and etesevimab administered together for patients with mild-to-moderate COVID-19 who are 12 years old or more [weighing at least 40 kg] and at high risk of progressive disease mentions that hypersensitivity reactions have occurred with bamlanivimab therapy; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33830966</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.hoffmann.2021.2384">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hoffmann</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Arora</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gro&#x000df;</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Seidel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>H&#x000f6;rnich</surname><given-names>BF</given-names></name>
+<name name-style="western"><surname>Hahn</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Kr&#x000fc;ger</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>SARS-CoV-2 variants B.1.351 and P.1 escape from neutralizing antibodies.</article-title>
+              <source>Cell</source>
+              <year>2021</year>
+              <volume>184</volume>
+              <fpage>2384</fpage>
+              <lpage>2393.e12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using a pseudotyped VSV model of SARS-CoV-2 entry, casirivimab/imdevimab and bamlanivimab blocked entry of standard strains and the mutant B.1.1.7 [UK] strains, but casirivimab and bamlanivimab alone were minimally effective against the B.1.351 [South African] and P.1 [Brazilian] variants).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33794143</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.jones.2021">
+            <mixed-citation publication-type="other">Jones BE, Brown-Augsburger PL, Corbett KS, Westendorf K, Davies J, Cujec TP, Wiethoff CM, et al. The neutralizing antibody, LY-CoV555, protects against SARS-CoV-2 infection in nonhuman primates. Sci Transl Med. 2021;13(593):eabf1906.<annotation><p><italic toggle="yes">(In a Cynomolgus macaque [rhesus monkey] model of SARS-CoV-2 infection, preadministration of bamlanivimab reduced viral replication in both upper and lower respiratory tract).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.hurt.2021.628">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hurt</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Wheatley</surname><given-names>AK</given-names></name>
+</person-group>
+              <article-title>Neutralizing antibody therapeutics for COVID-19.</article-title>
+              <source>Viruses</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <issue>4</issue>
+              <fpage>628</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the efficacy and safety of monoclonal antibodies to SARS-CoV-2 spike protein as therapy of patients with early COVID-19 infection and as postexposure prophylaxis mentions early results of ongoing trials suggesting that administration of monoclonal antibodies reduced subsequent clinically apparent infections by 80-100% without serious adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33916927</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.kumar.2022.24">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kumar</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Stosor</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Moore</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Achenbach</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ison</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Angarone</surname><given-names>MP</given-names></name>
+</person-group>
+              <article-title>Real-world experience of bamlanivimab for coronavirus disease 2019 (COVID-19): A case-control study.</article-title>
+              <source>Clin Infect Dis.</source>
+              <year>2022</year>
+              <volume>74</volume>
+              <issue>1</issue>
+              <fpage>24</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 303 nonhospitalized high risk patients or medical care personnel with symptomatic COVID-19 infection referred for bamlanivimab therapy, hospitalization rates were lower in the 218 who received the monoclonal antibody [7.3%] than in the 185 who did not [20%] as were rates of ICU admission [0.9% vs 2.7%] and death [0.5% vs 2.2%], and there were no serious adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33846730</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF14">
+            <element-citation publication-type="journal">
+              <article-title>An EUA for sotrovimab for treatment of COVID-19.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1627</issue>
+              <fpage>97</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of sotrovimab shortly after its approval for treatment of outpatients diagnosed with COVID-19 who were at high risk for complications, mentions mild complications of rash [2%] and diarrhea [1%], but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34181630</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF15">
+            <element-citation publication-type="journal">
+              <article-title>Bamlanivimab and etesevimab for post-exposure prophylaxis of COVID-19.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1635</issue>
+              <fpage>163</fpage>
+              <lpage>164</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of the combination of bamlanivimab and etesevimab as post-exposure prophylaxis against hospitalization or death in persons at high risk of complications of COVID-19 who had an exposure to a patient with known infection, shortly after the expansion of indications for these monoclonal antibodies; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35050242</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.gupta.2021.1941">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gupta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gonzalez-Rojas</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Juarez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Crespo Casal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moya</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Falci</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Sarkis</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>COMET-ICE Investigators. Early treatment for Covid-19 with SARS-CoV-2 neutralizing antibody sotrovimab.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>385</volume>
+              <fpage>1941</fpage>
+              <lpage>1950</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 583 adults with symptomatic COVID-19 treated with sotrovimab or placebo as a single intravenous infusion within 5 days of onset, hospitalization or death occurred in 7% of placebo vs 1% of monoclonal antibody recipients; while adverse event rates were similar, severe event rates were less with therapy, none of which were liver related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34706189</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.cdc.2021.1731">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>CDC</collab>
+</person-group>
+              <article-title>COVID-19 Response Team. SARS-CoV-2 B.1.1.529 (Omicron) Variant &#x02013; United States, December 1-8, 2021.</article-title>
+              <source>MMWR Morb Mortal Wkly Rep.</source>
+              <year>2021</year>
+              <volume>70</volume>
+              <issue>50</issue>
+              <fpage>1731</fpage>
+              <lpage>1734</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Mentions that the first report of Omicron [Variant of Concern: B.1.1.529] related COVID-19 was from South Africa in late November 2021, and the first case in the US on December 1, 2021; yet 43 cases from 21 states were identified by December 8<sup>th,</sup> most cases being clinically mild and many occurring in fully vaccinated and even boosted individuals).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34914670</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF18">
+            <mixed-citation publication-type="other">ACTIV-3/Therapeutics for Inpatients with COVID-19 (TICO) Study Group. Efficacy and safety of two neutralising monoclonal antibody therapies, sotrovimab and BRII-196 plus BRII-198, for adults hospitalised with COVID-19 (TICO): a randomised controlled trial. Lancet Infect Dis. 2021:S1473-3099(21)00751-9.<annotation><p><italic toggle="yes">(Among 584 adults hospitalized with COVID-19 pneumonia treated with sotrovimab, a mixture of two experimental anti-SARS-CoV-2 monoclonal antibodies, or placebo, there were no differences in rates of serious complications or death [7% with placebo, 9% with 2 monoclonals, 8% with sotrovimab], and there were no liver related serious adverse events).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.cameroni.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cameroni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Bowen</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Rosen</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Saliba</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zepeda</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Culap</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Pinto</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Broadly neutralizing antibodies overcome SARS-CoV-2 Omicron antigenic shift.</article-title>
+              <source>Nature.</source>
+              <year>2021</year>
+              <month>Dec</month>
+              <day>23</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(The Omicron variant of SARS-CoV-2 encodes a 37 amino acid substitution in the spike protein and is resistant to most monoclonal antibodies in use except for sotrovimab, which binds to the spike protein outside of the receptor binding motif which is the target recognized by most other monoclonals).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35016195</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF.johnson.2022.132">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Johnson</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Amin</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Ali</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Hoots</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Cadwell</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Arora</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Avoundjian</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>COVID-19 Incidence and death rates among unvaccinated and fully vaccinated adults with and without booster doses during periods of Delta and Omicron variant emergence &#x02013; 25 U.S. jurisdictions, April 4-December 25, 2021.</article-title>
+              <source>MMWR Morb Mortal Wkly Rep.</source>
+              <year>2022</year>
+              <volume>71</volume>
+              <fpage>132</fpage>
+              <lpage>138</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Infection and death rates in the US among vaccinated and unvaccinated adults during 2021 demonstrated an increase in COVID-19 cases due to the Omicron variant [to 75% in late December] and a markedly lower mortality rate among vaccinees, particularly those who received a booster dose).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35085223</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidMonoclonals.REF21">
+            <element-citation publication-type="journal">
+              <article-title>Monoclonal antibodies to COVID-19.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <issue>1642</issue>
+              <fpage>16</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise report that the monoclonal antibody combinations of casirivimab with imdevirmab [REGEN-COV] and bamlanivimab with etesevimab have little activity against the Omicron variant of SARS-CoV-2 and should not be used, the only monoclonal antibody with activity against the currently predominant virus being sotrovimab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35139286</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="CovidMonoclonals.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Bamlanivimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Bamlanivimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bamlanivimab">Trials on Bamlanivimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>3</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Etesevimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Etesevimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>4</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Etesevimab">Trials on Etesevimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>5</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Casirivimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Casirivimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>6</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Casirivimab">Trials on Casirivimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>7</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Imdevimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Imdevimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>8</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Imdevimab">Trials on Imdevimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>9</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Sotrovimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Sotrovimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>10</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Sotrovimab">Trials on Sotrovimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

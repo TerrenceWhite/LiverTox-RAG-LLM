@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pacritinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pacritinib</book-part-id>
+      <title-group>
+        <title>Pacritinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>12</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Paclitaxel" document-type="chapter">Paclitaxel</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Palbociclib" document-type="chapter">Palbociclib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pacritinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pacritinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pacritinib is a small molecule Janus kinase inhibitor that is used in the treatment of intermediate or high risk, primary or secondary myelofibrosis. Pacritinib is associated with transient and usually mild elevations in serum aminotransferase during therapy but has not been linked instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Pacritinib.Background">
+          <title>Background</title>
+          <p>Pacritinib (pak ri&#x02019; ti nib) is an orally available, small molecular inhibitor of Janus kinase subtype 2 (JAK2) and the FLT3 tyrosine kinase that is used to treat symptomatic or advanced forms of myelofibrosis, a cancerous or pre-cancerous condition marked by scarring and progressive bone marrow failure with splenomegaly, anemia, neutropenia, and thrombocytopenia. JAK2 is a non-receptor tyrosine kinase that is a critical component of pathways that lead to production and secretion of hematologic growth factors and inflammatory cytokines. These pathways are important in hematologic cell differentiation and proliferation, cytokine-production, and inflammatory reactions. Mutations in JAK genes are frequent in patients with myelofibrosis. Inhibition of these kinases can result in antiproliferative effects in malignant cells. Pacritinib has been shown to improve symptoms, cause shrinkage of spleen size and decrease circulating cytokine levels in patients with myelofibrosis independent of the known presence of Janus kinase mutations. Pacritinib was approved for use in the United States in 2023 for therapy of intermediate and high-risk, primary or secondary myelofibrosis with a platelet count of less than 20,000/&#x000b5;L. Pacritinib is available in capsules of 100 mg under the brand name Vonjo. The recommended initial dose is 200 mg (2 capsules) twice daily. Dose adjustments for possible drug-drug interactions and for adverse reactions are recommended. Common side effects include myelosuppression, anemia, thrombocytopenia, fatigue, diarrhea, bruising, dizziness, dyspnea, headache and peripheral edema. Less common but potentially severe adverse events include hemorrhage, severe diarrhea, and worsening thrombocytopenia. All small molecule JAK inhibitors have safety labeling for increased risk of major cardiovascular adverse events, increased mortality, venous and arterial thrombosis, secondary malignancies, and increased risk of infection.</p>
+        </sec>
+        <sec id="Pacritinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the published preregistration clinical trials of pacritinib, rates of serum ALT elevations were not provided, and no mention of ALT elevations are given in the product label or FDA review of efficacy and safety for its approval. Nevertheless, rates of ALT or AST elevations in several small clinical trials were said to be 15%, with 6% being above 5 times the upper limit of normal (ULN). Since its approval and more widespread clinical use, there have been no reports of serum enzyme or bilirubin elevations or instances of clinically apparent liver injury associated with the use of pacritinib, but it has been clinically available for a short time only.</p>
+          <p>Likelihood score: E* (unproven, but possible cause of clinically apparent liver injury including reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Pacritinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Pacritinib therapy has not been clearly linked to serum enzyme elevations or instances of clinically apparent liver injury. It is metabolized in the liver largely through CYP 3A4 and is potentially susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity. Because of its effects on intracellular signaling involved in immune responses and potential myelosupression, pacritinib (and other JAK inhibitors) may be capable of increasing hepatitis B viral replication, which might result in clinically apparent reactivation of hepatitis B.</p>
+        </sec>
+        <sec id="Pacritinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Pacritinib has not been clearly linked to serum aminotransferase elevations and routine monitoring of liver tests is not recommended in the product label. However, serum ALT and AST elevations occur with most JAK kinase inhibitors. If detected, serum aminotransferase elevations above 5 times ULN should lead to dose reduction or temporary cessation until levels fall into the normal or near normal range or an unrelated cause for the liver test abnormalities is found. ALT or AST elevations above 20 times ULN or any elevations accompanied by jaundice or symptoms should lead to prompt discontinuation. Because of the possibility of reactivation of hepatitis B, it is appropriate to screen patients for hepatitis B markers before starting pacritinib and, if HBsAg or anti-HBc are present, providing antiviral prophylaxis or monitoring for reactivation during therapy. There does not appear to be cross reactivity in risk for hepatic injury among the various Janus kinase inhibitors, but few instances have been studied.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Janus Kinase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Abrocitinib" document-type="book-part">Abrocitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="book-part">Baricitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Deucravacitinib" document-type="book-part">Deucravacitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fedratinib" document-type="book-part">Fedratinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Momelotinib" document-type="book-part">Momelotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ritlecitinib" document-type="book-part">Ritlecitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="book-part">Ruxolitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tofacitinib" document-type="book-part">Tofacitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Upadacitinib" document-type="book-part">Upadacitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pacritinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Pacritinib &#x02013; Vonjo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Pacritinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pacritinib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pacritinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pacritinib.Tc_1_1_1_1" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pacritinib.Tc_1_1_1_2" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Pacritinib.Tc_1_1_1_3" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pacritinib.Tc_1_1_1_4" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pacritinib.Tc_1_1_1_1" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" scope="row" rowspan="1" colspan="1">Pacritinib</td>
+                <td headers="hd_h_Pacritinib.Tc_1_1_1_2" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://162108696">937272-79-2</ext-link>
+</td>
+                <td headers="hd_h_Pacritinib.Tc_1_1_1_3" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">C28-H32-N4-O3</td>
+                <td headers="hd_h_Pacritinib.Tc_1_1_1_4" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="162108696" document-id-type="sid" document-type="summary" object-id="162108696" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pacritinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 December 2023</p>
+        <p>Abbreviations: JAK, Janus kinase; STAT, signal transducer activator of transcription.</p>
+        <ref-list id="Pacritinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pacritinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase inhibitors such as pacritinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not pacritinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/208712Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/208712Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA review of data on efficacy and safety submitted in support of approval of pacritinib as therapy of myelofibrosis does not provide information of ALT or AST elevations and states that there was no case of serum ALT or AST elevations accompanied by jaundice in the momelotinib treated safety cohort).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.beauverd.2015.2381">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Beauverd</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>McLornan</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Harrison</surname>
+<given-names>CN</given-names></string-name>. <article-title>Pacritinib: a new agent for the management of myelofibrosis?</article-title>
+<source>Expert Opin Pharmacother</source>. <year>2015</year>;<volume>16</volume>(<issue>15</issue>):<fpage>2381</fpage>&#x02013;<lpage>2390</lpage>.<annotation><p><italic toggle="yes">(Review of the clinical and molecular features of myelofibrosis focusing upon somatic gene mutations and constitutive activation of the Janus kinase [JAK]-signal transducer activator of transcription [STAT] pathways in its pathogenesis which led to the use of JAK1 and JAK2 inhibitors in its management).</italic></p></annotation><pub-id pub-id-type="pmid">26389774</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.komrokji.2015.2649">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Komrokji</surname>
+<given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Seymour</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Roberts</surname>
+<given-names>AW</given-names></string-name>, <string-name name-style="western"><surname>Wadleigh</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>To</surname>
+<given-names>LB</given-names></string-name>, <string-name name-style="western"><surname>Scherber</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Turba</surname>
+<given-names>E</given-names></string-name>, <etal>et al</etal>. <article-title>Results of a phase 2 study of pacritinib (SB1518), a JAK2/JAK2(V617F) inhibitor, in patients with myelofibrosis</article-title>. <source>Blood</source>. <year>2015</year>;<volume>125</volume>:<fpage>2649</fpage>&#x02013;<lpage>2655</lpage>.<annotation><p><italic toggle="yes">(Among 35 patients with refractory myelofibrosis treated with pacritinib for 6 months, 31% had a clinical response [decrease in splenomegaly] and adverse events included diarrhea [77%], nausea [46%], fatigue [32%], vomiting [31%], abdominal pain [26%], and AST elevations [14% overall, above 5 times ULN in 6%]; no mention of clinically apparent liver injury or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">25762180</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.mesa.2017.e225">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mesa</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Vannucchi</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Mead</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Egyed</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Szoke</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Suvorov</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jakucs</surname>
+<given-names>J</given-names></string-name>, <etal>et al</etal>. <article-title>Pacritinib versus best available therapy for the treatment of myelofibrosis irrespective of baseline cytopenias (PERSIST-1): an international, randomised, phase 3 trial</article-title>. <source>Lancet Haematol</source>. <year>2017</year>;<volume>4</volume>:<fpage>e225</fpage>&#x02013;<lpage>e236</lpage>.<annotation><p><italic toggle="yes">(Among 327 patients with myelofibrosis treated with pacritinib vs &#x0201c;best available therapy&#x0201d; followed for a median of 23 months, response rates were 19% vs 5% and adverse events rates for anemia and thrombocytopenia were similar in the 2 groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28336242</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.mascarenhas.2018.652">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mascarenhas</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hoffman</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Talpaz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gerds</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Szoke</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal>. <article-title>Pacritinib vs best available therapy, including ruxolitinib, in patients With myelofibrosis: a randomized clinical trial</article-title>. <source>JAMA Oncol</source>. <year>2018</year>;<volume>4</volume>:<fpage>652</fpage>&#x02013;<lpage>659</lpage>.<annotation><p><italic toggle="yes">(Among 311 patients with myelofibrosis and thrombocytopenia treated with pacritinib [200 or 400 mg daily] or best available therapy, response rates after 24 weeks were higher with pacritinib [18% vs 3%] while adverse events were more frequent including diarrhea [48% and 67% vs 15%]; no mention of ALT elevations or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">29522138</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.mascarenhas.2018.1369">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mascarenhas</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Virtgaym</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Stal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Blacklock</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Gerds</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Mesa</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Ganly</surname>
+<given-names>P</given-names></string-name>, <etal>et al</etal>. <article-title>Outcomes of patients with myelofibrosis treated with compassionate use pacritinib: a sponsor-independent international study</article-title>. <source>Ann Hematol</source>. <year>2018</year>;<volume>97</volume>:<fpage>1369</fpage>&#x02013;<lpage>1374</lpage>.<annotation><p><italic toggle="yes">(Among 33 patients with myelofibrosis who had benefitted from pacritinib therapy in a controlled trial that was halted because of a clinical hold who were then restarted and treated for up to 9 more months, there was modest improvements in splenomegaly and 19 patients remained on therapy long term; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29616317</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.gerds.2020.5825">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gerds</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Savona</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Scott</surname>
+<given-names>BL</given-names></string-name>, <string-name name-style="western"><surname>Talpaz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Egyed</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Harrison</surname>
+<given-names>CN</given-names></string-name>, <string-name name-style="western"><surname>Yacoub</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal>. <article-title>Determining the recommended dose of pacritinib: results from the PAC203 dose-finding trial in advanced myelofibrosis</article-title>. <source>Blood Adv</source>. <year>2020</year>;<volume>4</volume>:<fpage>5825</fpage>&#x02013;<lpage>5835</lpage>.<annotation><p><italic toggle="yes">(Among 161 patients with refractory myelofibrosis treated with pacritinib [100, 200 or 400 mg daily], response rates at 24 weeks were low [0% vs 1.8% vs 9.3%] and adverse events were more frequent with the higher doses including diarrhea [19% vs 21% vs 30%], nausea [23% vs 20% vs 28%], abdominal pain [17% vs 11% vs 24%], and fatigue [17% vs 24% vs 24%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33232476</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.tremblay.2020.5929">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tremblay</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Mesa</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Scott</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Buckley</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Roman-Torres</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Verstovsek</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mascarenhas</surname>
+<given-names>J</given-names></string-name>. <article-title>Pacritinib demonstrates spleen volume reduction in patients with myelofibrosis independent of JAK2V617F allele burden</article-title>. <source>Blood Adv</source>. <year>2020</year>;<volume>4</volume>:<fpage>5929</fpage>&#x02013;<lpage>5935</lpage>.<annotation><p><italic toggle="yes">(Review of the safety and efficacy of pacritinib as therapy of myelofibrosis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33275766</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.raghuvanshi.2022.893">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Raghuvanshi</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Bharate</surname>
+<given-names>SB</given-names></string-name>. <article-title>Recent developments in the use of kinase inhibitors for management of viral infections</article-title>. <source>J Med Chem</source>. <year>2022</year>;<volume>65</volume>:<fpage>893</fpage>&#x02013;<lpage>921</lpage>.<annotation><p><italic toggle="yes">(Review of the kinase inhibitors approved for use in the US, their mechanisms of action and possible role in inhibiting viral replication).</italic></p></annotation><pub-id pub-id-type="pmid">33539089</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.verstovsek.2022.1599">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Verstovsek</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mesa</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Talpaz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kiladjian</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Harrison</surname>
+<given-names>CN</given-names></string-name>, <string-name name-style="western"><surname>Oh</surname>
+<given-names>ST</given-names></string-name>, <string-name name-style="western"><surname>Vannucchi</surname>
+<given-names>AM</given-names></string-name>, <etal>et al</etal>. <article-title>Retrospective analysis of pacritinib in patients with myelofibrosis and severe thrombocytopenia</article-title>. <source>Haematologica</source>. <year>2022</year>;<volume>107</volume>:<fpage>1599</fpage>&#x02013;<lpage>1607</lpage>.<annotation><p><italic toggle="yes">(Among 189 patients with refractory myelofibrosis and severe thrombocytopenia who were treated with pacritinib or best available therapy, clinical responses were more frequent with pacritinib [23% vs 2%] as were adverse events including diarrhea [61% vs 16%], fatigue [14% vs 11%] and nausea [30% vs 12%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34551507</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pacritinib.REF.cafardi.2022.e2242918">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cafardi</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Miller</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Terebelo</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Tewell</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Benzaquen</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Egan</surname>
+<given-names>P</given-names></string-name>, <etal>et al</etal>. <article-title>Efficacy and safety of pacritinib vs placebo for patients With severe COVID-19: a phase 2 randomized clinical trial</article-title>. <source>JAMA Netw Open</source>. <year>2022</year>;<volume>5</volume>:<elocation-id>e2242918</elocation-id>.<annotation><p><italic toggle="yes">(Among 200 patients hospitalized with severe COVID-19 infection treated with pacritinib or placebo for 14 days, need for mechanical ventilation or extracorporeal oxygenation or death were similar in the two groups [17.2% vs 22.8%] as were adverse event rates [78% vs 80%] and ALT elevations [15% vs 17%].</italic></p></annotation><pub-id pub-id-type="pmid">36469321</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pacritinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pacritinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pacritinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pacritinib">Trials on Pacritinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

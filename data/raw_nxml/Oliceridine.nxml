@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Oliceridine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Oliceridine</book-part-id>
+      <title-group>
+        <title>Oliceridine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Olaratumab" document-type="chapter">Olaratumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Olmesartan" document-type="chapter">Olmesartan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Oliceridine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Oliceridine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Oliceridine is an intravenously administered, synthetic opioid that is used to treat moderate-to-severe pain not responsive to nonsteroidal antiinflammatory agents. Oliceridine is associated with a low rate of serum aminotransferase elevations during therapy but has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Oliceridine.Background">
+          <title>Background</title>
+          <p>Oliceridine (oh&#x0201d; li ser&#x02019; i deen) is an intravenously administered, synthetic opioid approved for use in moderate-to-severe acute pain in adults after surgery or painful procedures. Oliceridine is an agonist of the &#x003bc;-opioid receptor with a potency similar to that of morphine, but with post-receptor actions that are biased to G protein signaling and with less &#x003b2;-arrestin2 recruitment and receptor internalization. This bias in &#x003bc;-opioid receptor agonism was associated with fewer adverse effects in animal models, but this selectivity has been less well shown in humans. In several controlled trials, intravenous oliceridine was shown to be superior to placebo in controlling postoperative pain, but responses were numerically less than with morphine. Oliceridine was approved in the United States in 2020 for management of adults with acute pain severe enough to require intravenous opioid analgesia. Oliceridine is available in 1 and 2 mg single dose vials (1 mg/mL) and as a 30 mg single patient use vial of 30 mL (1 mg/mL) for patient-controlled analgesia. The common adverse events of oliceridine are similar to other opiates and include nausea, vomiting, headache, dizziness, constipations, pruritus, and respiratory depression with hypoxia. The gastrointestinal adverse events appear to be less frequent and milder with oliceridine than with morphine. Severe adverse events include serious, life threatening or fatal respiratory depression particularly in patients with chronic pulmonary disease, the elderly, debilitated patients, and those on other CNS depressants. High doses of oliceridine may cause prolongation of the QTc interval and dosing should be limited to less than 27 mg daily. Oliceridine, like other opioid drugs, has a boxed warning for addiction, abuse, and misuse. Use of oliceridine during pregnancy may cause fetal harm and can result in neonatal opioid withdrawal syndrome.</p>
+        </sec>
+        <sec id="Oliceridine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum ALT elevations developed in 1% to 3% of patients receiving oliceridine and in a similar proportion (2.4%) receiving morphine after abdominal surgery. However, the aminotransferase elevations were not associated with jaundice and were usually considered unrelated to therapy. Since approval of oliceridine, there have been no published reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Oliceridine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Oliceridine like other opioid analgesics has not been associated with significant liver injury. The reasons for its lack of hepatotoxicity may relate to the short duration of therapy and the low doses used. Oliceridine is metabolized in the liver predominantly by cytochrome P450 enzymes (CYP 2D6 and 3A4).</p>
+        </sec>
+        <sec id="Oliceridine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for oliceridine does not recommend screening or monitoring for routine liver tests before or during therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Opioids" document-type="book-part">Opioids, Opioid Antagonists</related-object></p>
+          <p>Other Drugs in this Class: <related-object link-type="booklink" source-id="livertox" document-id="FentanylAndAnalogues" document-type="book-part">Alfentanil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="FentanylAndAnalogues" document-type="book-part">Fentanyl</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Morphine" document-type="book-part">Morphine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="FentanylAndAnalogues" document-type="book-part">Remifentanil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="FentanylAndAnalogues" document-type="book-part">Sufentanil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Oliceridine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Oliceridine &#x02013; Olinvyk&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Opioids</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Oliceridine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Oliceridine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Oliceridine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Oliceridine.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Oliceridine.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Oliceridine.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Oliceridine.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Oliceridine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Oliceridine</td>
+                <td headers="hd_h_Oliceridine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252163523">1401028-24-7</ext-link>
+</td>
+                <td headers="hd_h_Oliceridine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C22-H30-N2-O2-S</td>
+                <td headers="hd_h_Oliceridine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="252163523" document-id-type="sid" document-type="summary" object-id="252163523" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Oliceridine.BIBLIOGRAPHY">
+        <title>BIBLIOGRAPHY</title>
+        <p>References updated: 05 July 2024</p>
+        <p>Abbreviations: ULN, upper limit of normal range.</p>
+        <ref-list id="Oliceridine.BIBLIOGRAPHY.reflist0">
+          <ref id="Oliceridine.REF.fda.2020">
+            <mixed-citation publication-type="journal"><collab>FDA</collab>. <source>Integrated Review.</source>
+<year>2020</year>.</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF2">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/210730Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/210730Orig1s000MultidisciplineR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(FDA Integrated review of the data on oliceridine safety and efficacy submitted in support of its application for approval as therapy of acute moderate-to-severe pain in adults mentions that ALT elevations occurred at similar rates with oliceridine as morphine, were not associated with jaundice, and were judged to be unrelated to therapy).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF.chen.2013.8019">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chen</surname>
+<given-names>XT</given-names></string-name>, <string-name name-style="western"><surname>Pitis</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Yuan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Gotchev</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Cowan</surname>
+<given-names>CL</given-names></string-name>, <string-name name-style="western"><surname>Rominger</surname>
+<given-names>DH</given-names></string-name>, <etal>et al.</etal>
+<article-title>Structure-activity relationships and discovery of a G protein biased &#x003bc; opioid receptor ligand, [(3-methoxythiophe n-2-yl)methyl]({2-[(9R)-9-(pyridin-2-yl)-6-oxaspiro-[4.5]decan-9-yl]ethyl})amine (TRV130), for the treatment of acute severe pain.</article-title>
+<source>J Med Chem.</source>
+<year>2013</year>;<volume>56</volume>:<fpage>8019</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(History of development of oliceridine based upon structure activity relationships to G protein biased &#x003bc; opioid receptor agonism).</italic></p></annotation><pub-id pub-id-type="pmid">24063433</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF.wadman.2017.847">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wadman</surname>
+<given-names>M.</given-names></string-name>
+<article-title>'Biased' opioids could yield safer pain relief.</article-title>
+<source>Science.</source>
+<year>2017</year>;<volume>358</volume>(<issue>6365</issue>):<fpage>847</fpage>-<lpage>848</lpage>.<annotation><p><italic toggle="yes">(Commentary on the concept that biased opioids might be found with similar potency and analgesic effect but with less adverse events such as gastrointestinal symptoms and respiratory depression).</italic></p></annotation><pub-id pub-id-type="pmid">29146784</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF.viscusi.2019.927">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Viscusi</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Skobieranda</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Soergel</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Cook</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Burt</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Singla</surname>
+<given-names>N</given-names></string-name>. <article-title>APOLLO-1: a randomized placebo and active-controlled phase III study investigating oliceridine (TRV130), a G protein-biased ligand at the &#x000b5;-opioid receptor, for management of moderate-to-severe acute pain following bunionectomy.</article-title>
+<source>J Pain Res.</source>
+<year>2019</year>;<volume>12</volume>:<fpage>927</fpage>-<lpage>943</lpage>.<annotation><p><italic toggle="yes">(Among 389 patients with moderate-to-severe pain after bunionectomy treated with a loading dose followed by patient-controlled analgesia, response rates were 50-66% with 3 doses of oliceridine, vs 71% with morphine, and 15% with placebo with no clinically meaning differences between the active treatment regimens in&#x02026;clinical chemistry parameters&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">30881102</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF.singla.2019.715">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Singla</surname>
+<given-names>NK</given-names></string-name>, <string-name name-style="western"><surname>Skobieranda</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Soergel</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Salamea</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Burt</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Demitrack</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Viscusi</surname>
+<given-names>ER</given-names></string-name>. <article-title>APOLLO-2: A randomized, placebo and active-controlled phase III study investigating oliceridine (TRV130), a G protein-biased ligand at the &#x003bc;-opioid receptor, for management of moderate to severe acute pain following abdominoplasty.</article-title>
+<source>Pain Pract.</source>
+<year>2019</year>;<volume>19</volume>:<fpage>715</fpage>-<lpage>731</lpage>.<annotation><p><italic toggle="yes">(Among 401 patients undergoing abdominoplasty who received oliceridine vs morphine or placebo for management of postoperative pain, response rates were 62-76% with 3 doses of oliceridine, vs 78% with morphine, and 46% with placebo, while respiratory depression and headache were similar with the two opioids, gastrointestinal adverse events of nausea and vomiting were somewhat less with oliceridine; transient ALT elevations arose in 3% vs 2.4% but there were no hepatic severe adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">31162798</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF.bergese.2019.3113">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bergese</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Brzezinski</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hammer</surname>
+<given-names>GB</given-names></string-name>, <string-name name-style="western"><surname>Beard</surname>
+<given-names>TL</given-names></string-name>, <string-name name-style="western"><surname>Pan</surname>
+<given-names>PH</given-names></string-name>, <string-name name-style="western"><surname>Mace</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Berkowitz</surname>
+<given-names>RD</given-names></string-name>, <etal>et al.</etal>
+<article-title>ATHENA: A phase 3, open-label study of the safety and effectiveness of oliceridine (TRV130), a G-protein selective agonist at the &#x000b5;-opioid receptor, in patients with moderate to severe acute pain requiring parenteral opioid therapy.</article-title>
+<source>J Pain Res.</source>
+<year>2019</year>;<volume>12</volume>:<fpage>3113</fpage>-<lpage>3126</lpage>.<annotation><p><italic toggle="yes">(Among 768 patients with moderate-to-severe pain of varying causes [94% surgery related] treated with oliceridine with an initial 1-2 mg bolus followed by patient-controlled analgesia, there was a rapid reduction in pain that was maintained with continued therapy and adverse events were mostly mild-to-moderate, 20 had at least one elevation in liver test results, but none were jaundiced, all resolved, and all were considered unrelated to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">31814753</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF.markham.2020.1739">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Oliceridine: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1739</fpage>-<lpage>1744</lpage>.<annotation><p><italic toggle="yes">(Review of the structure and mechanism of action, history of development, pharmacology, clinical efficacy, and safety of oliceridine; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33025536</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF9">
+            <mixed-citation publication-type="journal"><article-title>Oliceridine (Olinvyk) - a new opioid for severe pain.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>:<fpage>37</fpage>-<lpage>39</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of oliceridine shortly after its approval for use in the US, mentions that it has a side effect profile similar to that of other opiates but may have fewer gastrointestinal side effects than morphine, but also had a lower rate of response than morphine and higher average cost; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33755654</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Oliceridine.REF10">
+            <mixed-citation publication-type="journal"><article-title>Opioids for pain.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2022</year>;<volume>64</volume>:<fpage>193</fpage>-<lpage>200</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of opioids in use for treatment of moderate-to-severe acute pain mentions that &#x0201c;oliceridine appears to cause less GI toxicity than morphine, but its maximum daily dose is limited by a risk of QT-interval prolongation, and it is expensive&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">36541938</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Oliceridine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Oliceridine+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Oliceridine: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Oliceridine">Trials on Oliceridine: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

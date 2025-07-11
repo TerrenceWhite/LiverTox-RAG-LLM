@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Alprazolam" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Alprazolam</book-part-id>
+      <title-group>
+        <title>Alprazolam</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="five-ARIs" document-type="chapter">Alpha Reductase Inhibitors</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Altretamine" document-type="chapter">Altretamine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Alprazolam.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Alprazolam.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Alprazolam is an orally available benzodiazepine used predominantly for therapy of anxiety. As with most benzodiazepines, alprazolam t has not been associated with serum aminotransferase or alkaline phosphatase elevations during therapy, and clinically apparent liver injury from alprazolam has been reported but is very rare.</p>
+        </sec>
+        <sec id="Alprazolam.Background">
+          <title>Background</title>
+          <p>Alprazolam (al pra' zoe lam) is a benzodiazepine that is widely used in the therapy of anxiety and panic disorder. The antianxiety (anxiolytic) activity of the benzodiazepines is mediated by their ability to enhance gamma-aminobutyric acid (GABA) mediated inhibition of synaptic transmission through binding to the GABA A receptor. Alprazolam was approved in the United States in 1981, and is currently the most commonly used oral benzodiazepine, with more than 16 million prescriptions filled yearly. Current indications are for anxiety and panic disorders. Alprazolam is available in multiple generic forms and under several brand names such as Xanax and Niravam in tablets of 0.25, 0.5, 1 and 2 mg, as well as in orally disintegrating tablets in similar concentrations and as an oral solution [1 mg/mL] for pediatric use. Extended release forms are available in tablets of 0.25, 0.5, 1, and 2 mg. The recommended initial dose for adults is 0.5 mg three times daily, increasing as needed to a maximum dose of 4 mg daily in divided doses. Higher doses are used for panic disorder. The most common side effects of alprazolam are dose related and include drowsiness, lethargy, ataxia, dysarthria and dizziness. Tolerance develops to these side effects, but tolerance may also develop to the anxiolytic effects. Alprazolam like all oral benzodiazepines has a boxed warning in its product label stressing (<xref ref-type="bibr" rid="Alprazolam.REF.1">1</xref>) the risks of severe sedation and potentially fatal respiratory depression when combined with opiates, (2) with prolonged use, the risks of abuse, misuse, and addiction which can lead to overdose and death, and (3) with continued use, the risks of physical and psychological dependence and severe potentially life-threatening withdrawal symptoms if discontinued suddenly. Benzodiazepines are all categorized as Schedule IV controlled substances, having potential for dependence, tolerance, and abuse.</p>
+        </sec>
+        <sec id="Alprazolam.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Alprazolam, like other benzodiazepines, is rarely associated with serum ALT or alkaline phosphatase elevations, and clinically apparent liver injury from alprazolam is extremely rare, considering the frequency of its use. There have been a few case reports of acute liver injury from alprazolam, and recurrence on reexposure has been reported. In alprazolam-related cases of acute liver injury, the latency has been within a few weeks and the typical pattern of liver enzyme elevations has been cholestatic or mixed (Case 1). The injury was usually mild-to-moderate in severity and self-limited in course. Fever and rash have not been described nor has autoantibody formation. Similar rare cases of self-limited, mild-to-moderate, cholestatic liver injury have been reported with other benzodiazepines including chlordiazepoxide, clonazepam, diazepam, flurazepam, lorazepam, and triazolam.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Alprazolam.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Alprazolam is metabolized by the liver via the cytochrome P450 system, predominantly by CYP 3A4. Concurrent use of CYP 3A4 inhibitors, such as cimetidine or ketaconazole, can cause an increase in alprazolam plasma levels. The liver injury from the benzodiazepines is probably due to a rarely produced intermediate metabolite.</p>
+        </sec>
+        <sec id="Alprazolam.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The case reports of hepatic injury due to benzodiazepines were followed by prompt and complete recovery upon stopping the medication, without evidence of residual or chronic injury. No cases of acute liver failure or chronic liver injury due to alprazolam have been described. There is little information about cross reactivity with other benzodiazepines, but some degree of cross sensitivity should be assumed, and patients with clinically apparent liver injury due to alprazolam should be monitored if they are switched to related agents.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="BenzodiazepineDrugs" document-type="chapter">Benzodiazepines</related-object>, Antianxiety Agents</p>
+        </sec>
+      </sec>
+      <sec id="Alprazolam.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Alprazolam.Case_1_Mild_acute_liver_injur">
+          <title>Case 1. Mild acute liver injury due to alprazolam.(<xref ref-type="bibr" rid="Alprazolam.REF.1">1</xref>)</title>
+          <p>A 32 year old woman with a long history of panic attacks developed fatigue and abdominal pain 2 weeks after starting alprazolam (1 mg daily increasing to 8 mg daily), and she became jaundiced one week later. She had no history of liver disease and was known to have had normal serum liver tests before starting alprazolam. On examination, she was jaundiced but had no fever or rash. Laboratory results showed elevations in serum enzymes and bilirubin (Table). Tests for hepatitis A and B and for mononucleosis were negative. Alprazolam was stopped and diazepam (which she had received in the past) substituted. She improved rapidly and all tests were normal when she was seen one month after stopping alprazolam.</p>
+        </sec>
+        <sec id="Alprazolam.Key_Points">
+          <title>Key Points</title>
+          <table-wrap id="Alprazolam.Tc" orientation="portrait" position="anchor">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <th id="hd_b_Alprazolam.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                  <td headers="hd_b_Alprazolam.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Alprazolam (8 mg daily)</td>
+                </tr>
+                <tr>
+                  <th id="hd_b_Alprazolam.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                  <td headers="hd_b_Alprazolam.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Cholestatic (R=1.8)</td>
+                </tr>
+                <tr>
+                  <th id="hd_b_Alprazolam.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                  <td headers="hd_b_Alprazolam.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">2+ (jaundiced)</td>
+                </tr>
+                <tr>
+                  <th id="hd_b_Alprazolam.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                  <td headers="hd_b_Alprazolam.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">2 weeks to symptoms, 3 weeks to jaundice</td>
+                </tr>
+                <tr>
+                  <th id="hd_b_Alprazolam.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                  <td headers="hd_b_Alprazolam.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete in one month</td>
+                </tr>
+                <tr>
+                  <th id="hd_b_Alprazolam.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                  <td headers="hd_b_Alprazolam.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Alprazolam.Laboratory_Values">
+          <title>Laboratory Values</title>
+          <table-wrap id="Alprazolam.Td" orientation="portrait" position="anchor">
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_Alprazolam.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                  <th id="hd_h_Alprazolam.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                  <th id="hd_h_Alprazolam.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                  <th id="hd_h_Alprazolam.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                  <th id="hd_h_Alprazolam.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                  <th id="hd_h_Alprazolam.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">156</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">241</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.6</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Albumin 4.0 g/dL</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 days</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">124</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">187</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.8</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_1 hd_h_Alprazolam.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;95</bold>
+</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                  <td headers="hd_h_Alprazolam.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Alprazolam.Comment">
+          <title>Comment</title>
+          <p>A convincing case of alprazolam induced liver injury characterized by a mild cholestatic hepatitis arising 2 to 3 weeks after starting the medication and resolving rapidly with stopping. There were no signs of hypersensitivity. Interestingly, she tolerated other benzodiazepines without problems, indicating lack of cross sensitivity to the injury.</p>
+        </sec>
+      </sec>
+      <sec id="Alprazolam.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Alprazolam &#x02013; Generic, Niravam&#x000ae;, Xanax&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Benzodiazepines</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Alprazolam">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Alprazolam.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Alprazolam.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Alprazolam.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Alprazolam.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Alprazolam.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Alprazolam.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Alprazolam.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Alprazolam</td>
+                <td headers="hd_h_Alprazolam.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134997022">28981-97-7</ext-link>
+</td>
+                <td headers="hd_h_Alprazolam.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H13-Cl-N4</td>
+                <td headers="hd_h_Alprazolam.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134997022" document-id-type="sid" document-type="summary" object-id="134997022" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Alprazolam.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Alprazolam.CITED_REFERENCES.reflist0">
+          <ref id="Alprazolam.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Judd</surname><given-names>FK</given-names></name>
+<name name-style="western"><surname>Norman</surname><given-names>TR</given-names></name>
+<name name-style="western"><surname>Marriott</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>Burrows</surname><given-names>GD</given-names></name>
+</person-group>
+              <article-title>A case of alprazolam-related hepatitis.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1986</year>
+              <volume>143</volume>
+              <fpage>388</fpage>
+              <lpage>9</lpage>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Alprazolam.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 22 June 2023</p>
+        <ref-list id="Alprazolam.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Alprazolam.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Benzodiazepines. Psychotropic and anticonvulsant agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 491-3.<annotation><p><italic toggle="yes">(Expert review of benzodiazepines and liver injury published in 1999; mentions rare instances of cholestatic hepatitis have been reported due to alprazolam, chlordiazepoxide, diazepam, flurazepam, and triazolam, and hepatocellular injury with clorazepate and clotiazepam, but no reports of hepatic injury with lorazepam, oxazepam or temazepam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alprazolam.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Anxiolytic agents. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 455.<annotation><p><italic toggle="yes">(Review of sedative induced liver injury mentions that rare instances of acute liver injury [usually cholestatic] have been reported with alprazolam, bentazepam, clotiazepam, chlordiazepoxide, diazepam, flurazepam and triazolam; a hepatitis-like pattern has been reported with clonazepam and clorazepate).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alprazolam.REF.mihic.2018">
+            <mixed-citation publication-type="book">Mihic SJ, Mayfield J, Harris RA. Hypnotics and sedatives. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 339-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alprazolam.REF.roybyrne.1983.786">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roy-Byrne</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Vittone</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Uhde</surname><given-names>TW</given-names></name>
+</person-group>
+              <article-title>Alprazolam-related hepatotoxicity.</article-title>
+              <source>Lancet.</source>
+              <year>1983</year>
+              <volume>2</volume>
+              <fpage>786</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Patient was found to have elevated ALT [96 U/L] 2 weeks after starting alprazolam, with prompt resolution upon stopping; rechallenge led to asymptomatic rise of ALT [28 to 70 U/L] within 9 days).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.davion.1985.117">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Davion</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Capron-Chivrac</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Andrejak</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Capron</surname><given-names>JP</given-names></name>
+</person-group>
+              <comment>[Hepatitis due to antiepileptic agents]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1985</year>
+              <volume>9</volume>
+              <fpage>117</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of anticonvulsants; among benzodiazepines, cases of cholestatic hepatitis have been linked to chlordiazepoxide and diazepam, but liver injury from this class of drugs is exceptionally rare).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3920108</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.judd.1986.388">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Judd</surname><given-names>FK</given-names></name>
+<name name-style="western"><surname>Norman</surname><given-names>TR</given-names></name>
+<name name-style="western"><surname>Marriott</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>Burrows</surname><given-names>GD</given-names></name>
+</person-group>
+              <article-title>A case of alprazolam-related hepatitis.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1986</year>
+              <volume>143</volume>
+              <fpage>388</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(32 year old woman had onset of lethargy 2 weeks after starting alprazolam followed by jaundice [bilirubin 2.6 mg/dL, AST 156 U/L, Alk P 241 U/L], resolving within 4 weeks of switching to diazepam: Case 1).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.noyes.1988.423">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Noyes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>DuPont</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Pecknold</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Rifkin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rubin</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Swinson</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Ballenger</surname><given-names>JC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Alprazolam in panic disorder and agoraphobia: results from a multicenter trial.</article-title>
+              <source>Arch Gen Psychiatry</source>
+              <year>1988</year>
+              <volume>45</volume>
+              <fpage>423</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of alprazolam vs placebo in 525 patients with panic disorder; side effects were sedation, ataxia, fatigue, slurred speech, amnesia, and increased appetite; 2 patients on alprazolam developed liver disease, one with jaundice at 4 weeks resolving quickly on stopping and a second with abnormal laboratory values that returned to normal with lowering the dose; details not given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3358644</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.lewis.1999.433">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lewis</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Zimmerman</surname><given-names>HJ</given-names></name>
+</person-group>
+              <article-title>Drug- and chemical-induced cholestasis.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>1999</year>
+              <volume>3</volume>
+              <fpage>433</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced cholestatic syndromes, listing many causes including chlordiazepoxide and flurazepam; &#x0201c;Benzodiazepines may cause cholestatic injury, although this is rare&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11291233</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.gilmart_n.2005.461">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gil-Mart&#x000ed;n</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>S&#x000e1;ez-Royuela</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Arias</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Angulo</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Nogal</surname><given-names>B</given-names></name>
+</person-group>
+              <comment>[Hepatic fibrosis after antidepressant treatment]</comment>
+              <source>Rev Esp Enferm Dig</source>
+              <year>2005</year>
+              <volume>97</volume>
+              <fpage>461</fpage>
+              <lpage>2</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case report of patient developing fatigue, pruritus and jaundice after 1-2 months of therapy with sertraline, alprazolam and clorazepate, resolving with stopping sertraline, but with minor ALT elevations and biopsy showing mild bridging fibrosis 4 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16048430</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.sabat_.2007.1401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sabat&#x000e9;</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ib&#x000e1;&#x000f1;ez</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vidal</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Buti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Xiol</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Mas</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury associated with the use of drugs: a multicentre population survey.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>1401</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 20 were attributed to benzodiazepines including 5 for clorazepate, 5 alprazolam, 6 lorazepam and 4 diazepam, but compared to controls, the relative risk of injury was increased only for clorazepate [8.3 and frequency 3.4 per 100,000 person-year exposures]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17539979</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were attributed to a benzodiazepine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.bj_rnsson.2008.281">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with antiepileptic drugs.</article-title>
+              <source>Acta Neurol Scand</source>
+              <year>2008</year>
+              <volume>118</volume>
+              <fpage>281</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of all anticonvulsants focusing upon phenytoin, valproate, carbamazepine; &#x0201c;Furthermore, hepatoxicity has not been convincingly shown to be associated with the use of benzodiazepines&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18341684</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to a benzodiazepine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF15">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for insomnia.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2012</year>
+              <volume>10</volume>
+              <issue>119</issue>
+              <fpage>57</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for therapy of insomnia mentions that benzodiazepines are controlled substances and, when used for sleep, may impair next day performance).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22777275</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population-based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to alprazolam or any other benzodiazepine, despite the fact that more than 1 million prescriptions for alprazolam are filled yearly).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to a benzodiazepine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>1352.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to alprazolam or any other benzodiazepine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alprazolam.REF19">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for anxiety disorders.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1578</issue>
+              <fpage>121</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of drugs for anxiety including benzodiazepines summaries mechanism of action, clinical efficacy, safety, and costs; comments that benzodiazepines such as alprazolam can provide immediate relief of anxiety symptoms, but long term therapy can cause tolerance and dependence, and sudden withdrawal can cause severe and even life-threatening symptoms; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31386647</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Alprazolam.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Alprazolam/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Alprazolam: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Alprazolam">Trials on Alprazolam: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

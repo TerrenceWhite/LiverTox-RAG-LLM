@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Zavegepant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Zavegepant</book-part-id>
+      <title-group>
+        <title>Zavegepant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>1</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Zanubrutinib" document-type="chapter">Zanubrutinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Zepatier" document-type="chapter">Zepatier</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Zavegepant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Zavegepant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Zavegepant is a small molecule inhibitor of the calcitonin gene-related peptide (CGRP) receptor that blocks the action of CGRP, a potent vasodilator believed to play a role in migraine headaches. Zavegepant is provided as a nasal spray and is approved for treatment of acute migraine attacks. In clinical trials, zavegepant was generally well tolerated with only rare instances of transient serum aminotransferase elevations during therapy and with no reported instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Zavegepant.Background">
+          <title>Background</title>
+          <p>Zavegepant (za ve&#x02019; je pant) is a small molecule inhibitor of the receptor for the calcitonin gene-related peptide (CGRP), which is believed to play a role in the pathogenesis of migraine headaches. CGRP is a potent vasodilator and pain-signaling neurotransmitter that is found throughout the central and peripheral nervous system but is particularly common in trigeminal ganglia. Levels of CGRP in the blood are elevated during episodes of migraine headache, and administration of the peptide can induce migraines in susceptible patients. For this reason, approaches to inhibition of CGRP signaling were developed as potential therapies for migraine, both as preventive therapies to decrease the rate of migraine as well as for treatment of acute attacks. Several monoclonal antibodies that block CGRP or its receptor are approved for use in prevention of migraines and three orally available, small molecule inhibitors of the CGRP receptor (the &#x0201c;gepants&#x0201d;: rimegepant, ubrogepant, and atogepant) are available for treatment or prevention of acute migraine. In contrast, zavegepant is provided in solution as a nasal spray for treatment of acute migraine attacks. In a large randomized, placebo-controlled trial, zavegepant given as a single nasal spray of 10 mg was found to increase the rate of being free from headache pain 2 hours after dosing (24% compared to 15% with placebo). Zavegepant nasal spray was approved for treatment of acute migraine in the United States in 2023 and is available in solution as a nasal spray that delivers 10 mg of Zavegepant under the brand name Zavzpret. The recommended dose is a single nasal spray as soon as possible after onset of migraine with the option to repeat daily and not to exceed 10 mg during any 24-hour period. It is not recommended for prevention of migraine attacks. Zavegepant can be safely given in patients receiving preventive therapy with monoclonal antibodies to CGRP or its receptor. Zavegepant is generally well tolerated with side effects of dysgeusia, nausea, vomiting, and nasal discomfort that are generally transient and mild-to-moderate in severity. Severe adverse events are rare; however, instances of hypersensitivity reactions have been reported.</p>
+        </sec>
+        <sec id="Zavegepant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration, controlled trials of zavegepant in several thousand patients, mild-to-moderate serum aminotransferase elevations arose in a small percentage of patients (1% to 2%) and overall rates were not different from those in placebo recipients. In the controlled trials and subsequently with general use, there have been no reports of clinically apparent liver injury attributed to zavegepant. In contrast, telcagepant, the initial oral CGRP receptor antagonist evaluated as therapy for migraine headaches, was abandoned during development because of several instances of clinically apparent liver injury in recipients that was characterized by marked elevations in serum aminotransferase levels and symptoms of fatigue, nausea and abdominal discomfort arising within 2 to 4 weeks of starting therapy. Such events rapidly resolved with prompt stopping of therapy. Similar episodes have not been reported with zavegepant.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Zavegepant.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Possible mechanisms of liver injury due to zavegepant are not known. It is metabolized in the liver largely by CYP 3A4 and is susceptible to drug-drug interactions with agents that induce or inhibit this microsomal enzyme. Lower doses should be used in patients receiving CYP 3A4 inhibitors.</p>
+        </sec>
+        <sec id="Zavegepant.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MigraineHeadacheAgen" document-type="book-part">Migraine Headache Agents</related-object></p>
+          <p>Other Small Molecule Inhibitors of CGRP Receptors: <related-object link-type="booklink" source-id="livertox" document-id="Atogepant" document-type="book-part">Atogepant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rimegepant" document-type="book-part">Rimegepant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ubrogepant" document-type="book-part">Ubrogepant</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Zavegepant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Zavegepant &#x02013; Zavzpret&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Migraine Headache Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Zavegepant">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Zavegepant.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Zavegepant.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Zavegepant.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Zavegepant.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Zavegepant.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Zavegepant.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Zavegepant.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Zavegepant</td>
+                <td headers="hd_h_Zavegepant.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://376228940">1337918-83-8</ext-link>
+</td>
+                <td headers="hd_h_Zavegepant.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C36-H46-N8-O3</td>
+                <td headers="hd_h_Zavegepant.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="376228940" document-id-type="sid" document-type="summary" object-id="376228940" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Zavegepant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 January 2025</p>
+        <p>Abbreviations: CGRP, calcitonin gene-related peptide.</p>
+        <ref-list id="Zavegepant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Zavegepant.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of CGRP receptor antagonists).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF2">
+            <mixed-citation publication-type="web">FDA. Clinical Review. 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216386Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216386Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA clinical scientific review of the zavegepant application reports that ALT elevations arose in 0.1% of 1023 patients treated with intranasal zavegepant vs 0.1% of 1056 placebo recipients, although higher rates were observed with repeat dosing indicating that rare instance of liver injury might arise with overuse).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.ho.2014.958">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ho</surname>
+<given-names>TW</given-names></string-name>, <string-name name-style="western"><surname>Connor</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Pearlman</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Koppenhaver</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Fan</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Lines</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized controlled trial of the CGRP receptor antagonist telcagepant for migraine prevention.</article-title>
+<source>Neurology</source>
+<year>2014</year>; <volume>83</volume>: <fpage>958</fpage>-<lpage>66</lpage>.<annotation><p><italic toggle="yes">(Among 660 patients with migraine enrolled in a controlled trial of telcagepant [140 or 280 mg] vs placebo twice daily for 12 weeks, 13 patients on telcagepant developed ALT elevations above 3 times ULN, generally between weeks 4 and 6 of treatment, and in two instances rising to 33 and 39 times ULN accompanied by symptoms but not jaundice leading to prompt discontinuation and to early termination of the trial because of the risk of significant hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25107879</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.tfelthansen.2019.113">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tfelt-Hansen</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Loder</surname>
+<given-names>E.</given-names></string-name>
+<article-title>The Emperor's new gepants: are the effects of the new oral CGRP antagonists clinically meaningful?</article-title>
+<source>Headache</source>
+<year>2019</year>; <volume>59</volume>: <fpage>113</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Commentary on the relative efficacy of two oral CGRP receptor antagonists, ubrogepant and rimegepant, which show only modest efficacy in acute migraine [therapeutic gain of 5-8%] and only when compared to placebo as compared to well-known effective therapies such as aspirin and other nonsteroidal antiinflammatory agents [8-14%] and the triptans [16-32%]).</italic></p></annotation><pub-id pub-id-type="pmid">30451300</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.robbins.2021.1874">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Robbins</surname>
+<given-names>MS</given-names></string-name>. <article-title>Diagnosis and management of headache: a review.</article-title>
+<source>JAMA</source>
+<year>2021</year>; <volume>325</volume>: <fpage>1874</fpage>-<lpage>85</lpage>.<annotation><p><italic toggle="yes">(Review of the diagnosis and management of headache including use of calcitonin gene-related peptide antagonists for acute migraine attacks which has uncommon side effects of dry mouth and dizziness; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33974014</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.croop.2022.1153">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Madonia</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Thiry</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Forshaw</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Murphy</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Coric</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>
+<article-title>Zavegepant nasal spray for the acute treatment of migraine: A Phase 2/3 double-blind, randomized, placebo-controlled, dose-ranging trial.</article-title>
+<source>Headache.</source>
+<year>2022</year>;<volume>62</volume>:<fpage>1153</fpage>-<lpage>1163</lpage>.<annotation><p><italic toggle="yes">(Among 1588 patients with an acute attack of migraine treated with zavegepant nasal spray [5, 10, or 20 mg] vs placebo, rates of being pain free 2 hours after administration was higher with 10 mg and 20 mg of zavegepant [22.5% and 23.1%] than placebo [15.5%], while adverse events included dysgeusia [13-16% vs 3.5%], nausea [2.7-4.1% vs 0.5%], and nasal discomfort [1.3-5.2% vs 0.2%], and there was &#x0201c;no signal of hepatotoxicity&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">36239038</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.woodhead.2022.108">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Woodhead</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Siler</surname>
+<given-names>SQ</given-names></string-name>, <string-name name-style="western"><surname>Howell</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>C</given-names></string-name>. <article-title>Comparing the liver safety profiles of 4 next-generation CGRP receptor antagonists to the hepatotoxic CGRP inhibitor telcagepant using quantitative systems toxicology modeling.</article-title>
+<source>Toxicol Sci.</source>
+<year>2022</year>;<volume>188</volume>:<fpage>108</fpage>-<lpage>116</lpage>.<annotation><p><italic toggle="yes">(Mechanistic simulation of hepatotoxicity indicated that telcagepant had multiple potential adverse effects on liver function compared to the more recently developed CGRP antagonists, rimegepant, ubrogepant, atogepant, and zavegepant).</italic></p></annotation><pub-id pub-id-type="pmid">35556143</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.lipton.2023.209">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Madonia</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Forshaw</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Lovegren</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mosher</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety, tolerability, and efficacy of zavegepant 10 mg nasal spray for the acute treatment of migraine in the USA: a phase 3, double-blind, randomised, placebo-controlled multicentre trial.</article-title>
+<source>Lancet Neurol.</source>
+<year>2023</year>;<volume>22</volume>:<fpage>209</fpage>-<lpage>217</lpage>.<annotation><p><italic toggle="yes">(Among 1269 adults with an acute attack of migraine treated with zavegepant [10 mg] or placebo, rates of being pain free 2 hours after administration were 24% vs 15%, and adverse event rates for dysgeusia was 21% vs 5%, nasal discomfort 4% vs 1%, nausea 3% vs 1%, and &#x0201c;hepatic-related&#x0201d; discontinuations &#x0003c;1% vs 1%, although no participant developed ALT or AST elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">36804093</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.dhillon.2023.825">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Zavegepant: First approval.</article-title>
+<source>Drugs.</source>
+<year>2023</year>;<volume>83</volume>:<fpage>825</fpage>-<lpage>831</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of zavegepant shortly after its approval as therapy of acute migraine headache mentions side effects of taste disorders, nasal discomfort, nausea, and vomiting, and that ALT or AST elevations arose in 2.6% of patients treated in a long term, open label study but there have been no reports of ALT or AST elevations with jaundice or clinically apparent liver injury associated with therapy).</italic></p></annotation><pub-id pub-id-type="pmid">37227596</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF10">
+            <mixed-citation publication-type="journal"><article-title>Drugs for migraine.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>89</fpage>-<lpage>96</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the relative clinical efficacy, safety, and costs of drugs to treat and to prevent migraine headaches, states that systemic adverse effects are uncommon with use of oral CGRP receptor antagonists, but that nausea and somnolence can occur; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37266987</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF11">
+            <mixed-citation publication-type="journal"><article-title>Zavegepant (Zavzpret) for acute treatment of migraine.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>116</fpage>-<lpage>118</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of zavegepant mentions adverse events of dysgeusia, nausea, nasal discomfort, and vomiting as well as hypersensitivity reactions [facial swelling, urticaria], but does not mention ALT elevations or hepatoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37460143</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Zavegepant.REF.mullin.2024.3331024241259456">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mullin</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Mosher</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Fullerton</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Madonia</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>. <article-title>Long-term safety of zavegepant nasal spray for the acute treatment of migraine: A phase 2/3 open-label study.</article-title>
+<source>Cephalalgia.</source>
+<year>2024</year>;<volume>44</volume>: <elocation-id>3331024241259456</elocation-id>.<annotation><p><italic toggle="yes">(Among 603 adults with episodic migraine treated with zavegepant nasal spray [10 mg] for acute episodes of migraine for up to one year, 15 [2.6%] developed ALT or AST elevations above 3 times ULN, 8 of whom [1.3%] discontinued therapy, but none developed jaundice or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">39210835</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Zavegepant.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Zavegepant+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Zavegepant: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Zavegepant">Trials on Zavegepant: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lovastatin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lovastatin</book-part-id>
+      <title-group>
+        <title>Lovastatin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>12</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Losartan" document-type="chapter">Losartan</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="LMW-Heparins" document-type="chapter">Low Molecular Weight Heparins</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lovastatin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lovastatin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lovastatin is a commonly used cholesterol lowering agent (statin) that is associated with mild, asymptomatic and self-limited serum aminotransferase elevations during therapy and rarely with clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Lovastatin.Background">
+          <title>Background</title>
+          <p>Lovastatin (loe" va stat' in) is an orally available inhibitor of hepatic 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the major rate-limiting enzyme in cholesterol synthesis. Like other members of its class (the &#x0201c;statins&#x0201d;), lovastatin lowers total serum cholesterol and low density lipoprotein (LDL) concentrations, thereby reducing the risk of atherosclerosis and its complications &#x02013; myocardial infarction and stroke. Lovastatin is indicated for treatment of hypercholesterolemia in persons at high risk for coronary, cerebrovascular and peripheral artery disease. It is also indicated for prevention of cardiovascular disease and to decrease the risk of progression in patients with known coronary artery disease. Lovastatin is available in tablets of 10, 20, and 40 mg in generic forms and under the brand name Mevacor. Extended release forms (Altoprev) and fixed combinations with niacin (Advicor) are also available. The recommended adult dose is 10 to 80 mg daily in single or two divided doses based upon tolerability and lipid levels. Lovastatin was approved for use in the United States in 1987, the first of this class of drugs to be commercially available. Lovastatin is a widely prescribed drug with more than 7 million prescriptions filled yearly. Common side effects include muscle cramps, headache, joint aches, abdominal pain, nausea, and weakness, symptoms that occur with all of the currently available statins. Rare but potentially severe adverse events include liver injury, myopathy, rhabdomyolysis, and immune-mediated necrotizing myopathy.</p>
+        </sec>
+        <sec id="Lovastatin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Lovastatin therapy is associated with mild, asymptomatic and usually transient serum aminotransferase elevations. In summary analyses of large scale studies with prospective monitoring, ALT elevations above normal occurred in 3% to 5% of patients, but were above 3 times the upper limit of normal (ULN) in only 0.4% compared to 0.1% of placebo recipients. These elevations were more common with higher doses of lovastatin, being greater than 3 times ULN in 0.1% of patients receiving 20 mg daily, 0.9% with 40 mg and 1.5% with 80 mg daily. Most of these elevations were self-limited and did not require dose modification, although discontinuation is recommended for any elevation above 10 times and for persistent elevations above 5 times the ULN. Lovastatin is also associated with frank, clinically apparent hepatic injury, but cases are rare. The onset of clinical injury ranges from a few weeks to several years. The pattern of injury is typically cholestatic, but can be hepatocellular. Rash, fever and eosinophilia are uncommon as are autoimmune features. The injury usually resolves rapidly upon stopping lovastatin, but instances of fatal acute liver failure and of prolonged cholestasis have been reported (Case 1).</p>
+          <p>The traditional Chinese medication known as red yeast rice which is used to treat hyperlipidemia has been shown to contain monacolin K, a natural component that is chemically identical to lovastatin, perhaps explaining its efficacy in reducing cholesterol levels. Red yeast rice has also been implicated in cases of acute liver injury and myopathies that are similar to those linked to lovastatin. In some instances cross-sensitivity to hepatic injury has been shown between red yeast rice products and lovastatin.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Lovastatin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of hepatic injury from lovastatin is unknown. Lovastatin is largely metabolized in the liver (via CYP 3A4) and metabolites are excreted in bile. Lovastatin is susceptible to drug-drug interactions and strong inhibitors of CYP 3A4 can result in higher plasma lovastatin levels which increases the risk of muscle and liver injury. The mild, self-limited ALT elevations are likely due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation. The idiosyncratic, clinically apparent liver injury associated with lovastatin is probably immunologically mediated.</p>
+        </sec>
+        <sec id="Lovastatin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for lovastatin recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The ALT elevations that occur with lovastatin therapy usually resolve spontaneously within a few weeks even without discontinuation. The product label for lovastatin mentions rare cases of acute liver failure due to lovastatin, some of which were fatal. There have not been fatal instances of acute liver injury attributable to lovastatin in the published literature. In the average case, recovery is expected within 1 to 2 months of stopping lovastatin, but instances of prolonged cholestasis and some degree of vanishing bile duct syndrome have been reported. In view of the wide scale use of lovastatin, clinically apparent and severe liver injury is extraordinarily rare. Recurrence of injury with rechallenge has been reported and should be avoided. Switching therapy to another statin after lovastatin induced injury is apparently safe, but few instances have been reported, and it should be done with careful monitoring for recurrence.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Lipid-LoweringAgents" document-type="chapter">Antilipemic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="Statins" document-type="chapter">Statins</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Atorvastatin" document-type="chapter">Atorvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ezetimibe" document-type="chapter">Ezetimibe [used in combination]</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluvastatin" document-type="chapter">Fluvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pitavastatin" document-type="chapter">Pitavastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pravastatin" document-type="chapter">Pravastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rosuvastatin" document-type="chapter">Rosuvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Simvastatin" document-type="chapter">Simvastatin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lovastatin.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Lovastatin.Case_1_Cholestatic_hepatitis">
+          <title>Case 1. Cholestatic hepatitis due to lovastatin therapy.(<xref ref-type="bibr" rid="Lovastatin.REF.1">1</xref>)</title>
+          <p>A 40 year old man developed fatigue, dark urine, jaundice and itching approximately 11 weeks after starting lovastatin (20 mg daily). He had no previous history of liver disease and drank little alcohol. He had a past history of kidney stones, hyperlipidemia and hypertension, and his other medications included allopurinol (100 mg daily) and the combination of hydrochlorothiazide and amiloride. Liver tests had been normal in the past. When he was finally seen and evaluated, 17 weeks after starting therapy, laboratory tests showed a mixed pattern of serum enzyme elevations. Tests for hepatitis A and B and for autoantibodies were negative. An ultrasound of the abdomen showed evidence suggestive of bile duct dilatation, but ERCP was normal. Lovastatin was stopped and he improved symptomatically. Liver tests had improved but were not completely normal six months later.</p>
+          <sec id="Lovastatin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Lovastatin.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Lovastatin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Lovastatin.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Lovastatin (20 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Lovastatin.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Lovastatin.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Mixed (R=4.7)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Lovastatin.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Lovastatin.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Lovastatin.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Lovastatin.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">11 weeks to symptoms</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Lovastatin.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Lovastatin.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Lovastatin.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Lovastatin.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Allopurinol, hydrochlorothiazide, amiloride</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Lovastatin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Lovastatin.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">77</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Lovastatin started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">64</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">17 weeks</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">381</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">277</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Lovastatin stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">19 weeks</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">337</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">381</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">21 weeks</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">6.5</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">229</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">133</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.9</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">112</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_1 hd_h_Lovastatin.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;120</bold>
+</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Lovastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Lovastatin.TF.d.1">
+                  <label>* </label>
+                  <p>Some values estimated from Figure 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Lovastatin.Comment">
+            <title>Comment</title>
+            <p>The patient had symptoms of a cholestatic hepatitis with prominence of jaundice and itching. There was a delay in stopping lovastatin and the cholestatic hepatitis was prolonged. At the time of this report, lovastatin had been available for only approximately a year, and 3 cases of jaundice possibly related to lovastatin had already been reported to the Food and Drug Administration (MedWatch).</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Lovastatin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Lovastatin &#x02013; Generic, Altoprev&#x000ae;, Mevacor&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antilipemic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=lovastatin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Lovastatin.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lovastatin.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Lovastatin.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lovastatin.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Lovastatin.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lovastatin.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lovastatin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lovastatin</td>
+                <td headers="hd_h_Lovastatin.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135011132">75330-75-5</ext-link>
+</td>
+                <td headers="hd_h_Lovastatin.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C24-H36-O5</td>
+                <td headers="hd_h_Lovastatin.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135011132" document-id-type="sid" document-type="summary" object-id="135011132" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+<bold>CITED REFERENCE</bold>
+</p>
+        <ref-list id="Lovastatin.CHEMICAL_FORMULA_AND_STRUCTUR.reflist0">
+          <ref id="Lovastatin.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McQueen</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Cholestatic jaundice associated with lovastatin (Mevacor) therapy.</article-title>
+              <source>Can Med Assoc J</source>
+              <year>1990</year>
+              <volume>142</volume>
+              <fpage>841</fpage>
+              <lpage>2</lpage>
+              <pub-id pub-id-type="pmid">2322916</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Lovastatin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 December 2021</p>
+        <p>Abbreviations used: ANA, antinuclear antibody; HDL, high density lipoprotein; LDL, low density lipoprotein; OD, odds ratio.</p>
+        <ref-list id="Lovastatin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lovastatin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the statins have dose related hepatic effects in guinea pigs and rabbits, and transient elevations in aminotransferases occur in 1-5% of humans treated; several cases of clinically apparent liver injury from lovastatin and simvastatin have been published).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lovastatin.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic medications. Lipid lowering agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 519-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering agents; asymptomatic elevations in aminotransferases are common in patients receiving statins, but clinically significant hepatotoxicity is rare).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lovastatin.REF.gurgle.2018">
+            <mixed-citation publication-type="book">Gurgle H, Blumenthal DK. Drug therapy for dyslipidemias. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 605-618.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; &#x0201c;Serious hepatotoxicity is rare and unpredictable, with a rate of about 1 case per million person-years of use.&#x0201d; Multiple academic societies and the FDA recommend testing all patients for routine liver tests before starting statins but monitoring or retesting only if symptoms arise).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lovastatin.REF.stein.1988.281">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stein</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Lamkin</surname><given-names>GE</given-names></name>
+<name name-style="western"><surname>Bewley</surname><given-names>DZ</given-names></name>
+</person-group>
+              <article-title>Lovastatin alone and in combination for treatment of primary hypercholesterolemia.</article-title>
+              <source>Prog Clin Biol Res</source>
+              <year>1988</year>
+              <volume>255</volume>
+              <fpage>281</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial comparing lovastatin to niacin in 80 patients, one lovastatin treated patient had transient ALT elevation &#x0003e;3 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3340642</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.the_lovastatin_study_group_iii.1988.359">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>The Lovastatin Study Group III</collab>
+</person-group>
+              <article-title>A multicenter comparison of lovastatin and cholestyramine therapy for severe primary hypercholesterolemia.</article-title>
+              <source>JAMA</source>
+              <year>1988</year>
+              <volume>260</volume>
+              <fpage>359</fpage>
+              <lpage>66</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of lovastatin [20 or 40 mg/day] vs cholestyramine [16 g/day] for 12 weeks in 264 patients with hypercholesterolemia; ALT levels increased more frequently in cholestyramine treated patients, and ALT levels &#x0003e;2 times ULN occurred in 9% of cholestyramine vs 1% of lovastatin treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2898027</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.tobert.1988.28j">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tobert</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Efficacy and long-term adverse effect pattern of lovastatin.</article-title>
+              <source>Am J Cardiol</source>
+              <year>1988</year>
+              <volume>63</volume>
+              <fpage>28J</fpage>
+              <lpage>34J</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Long term safety study of 744 patients receiving lovastatin, 9 [1.2%] developed raised serum enzymes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3055921</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.mantell.1990.11b">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mantell</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Burke</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Staggers</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Extended clinical safety profile of lovastatin.</article-title>
+              <source>Am J Cardiol.</source>
+              <year>1990</year>
+              <volume>66</volume>
+              <fpage>11B</fpage>
+              <lpage>15B</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety data on lovastatin from extensions of prelicensure clinical trials and the first year of postmarketing adverse event reporting; in clinical trials in 744 patients, rates of ALT elevations &#x0003e;3 times ULN were 0.1% on placebo vs 0.1% on 20 mg, 0.7% on 40 mg, and 1.5% on 80 mg of lovastatin daily; 49 cases of liver toxicity reported to MedWatch, but most could not be verified and most resolved spontaneously, but two positive rechallenges and two deaths from liver disease, although they were considered not drug related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2206031</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bilheimer.1990.58">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bilheimer</surname><given-names>DW</given-names></name>
+</person-group>
+              <article-title>Long-term clinical tolerance of lovastatin and simvastatin.</article-title>
+              <source>Cardiology</source>
+              <year>1990</year>
+              <volume>77</volume>
+              <supplement>Suppl 4</supplement>
+              <fpage>58</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review; serum enzyme elevations occur in 1.3% of lovastatin treated patients, reversible upon discontinuation of drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2073673</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.mcqueen.1990.841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McQueen</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Cholestatic jaundice associated with lovastatin (Mevacor) therapy.</article-title>
+              <source>Can Med Assoc J</source>
+              <year>1990</year>
+              <volume>142</volume>
+              <fpage>841</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old man developed jaundice 11 weeks after starting lovastatin [peak bilirubin 6.5 mg/dL, ALT 381 U/L, Alk P 381 U/L], resolving, but not completely, within 6 months of stopping: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2322916</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.geddes.1990.13">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Geddes</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Cholestatic jaundice associated with lovastatin (Mevacor) therapy.</article-title>
+              <source>Can Med Assoc J</source>
+              <year>1990</year>
+              <volume>143</volume>
+              <fpage>13</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old woman developed jaundice 13 months after starting lovastatin [bilirubin 1.8 mg/dL, AST 177 U/L, Alk P 351 U/L], resolving within 4 weeks of stopping, but also exposed to cloxacillin 2 weeks before onset of jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2357675</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.spreckelsen.1991.739">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spreckelsen</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Kirchoff</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Haake</surname><given-names>H.</given-names></name>
+</person-group>
+              <article-title>[Cholestatic jaundice during lovastatin medication] (German).</article-title>
+              <source>Dtsch Med Wochenschr</source>
+              <year>1991</year>
+              <volume>116</volume>
+              <fpage>739</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old man developed jaundice 8 weeks after starting lovastatin [bilirubin 6.2 mg/dL, ALT 341 U/L, Alk P 389 U/L], resolving within 2 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2026107</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bradford.1991.43">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bradford</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>Shear</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Chremos</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Dujovne</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Downton</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Franklin</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Gould</surname><given-names>AL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Expanded clinical evaluation of lovastatin (EXCEL) study results. I. Efficacy in modifying lipoproteins and adverse events profile of 8245 patients with moderate hypercholesterolemia.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1991</year>
+              <volume>151</volume>
+              <fpage>43</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Large, randomized controlled trial of 3 doses of lovastatin vs placebo in 8245 patients; serum ALT or AST elevations &#x0003e;3 times ULN occurred in 0.1% on placebo, 0.1% on 20 mg, 0.9% on 40 mg, and 1.5% on 80 mg of lovastatin daily).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1985608</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.raveh.1992.101">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raveh</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Arnon</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Israeli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Eisenberg</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Lovastatin-induced hepatitis.</article-title>
+              <source>Isr J Med Sci.</source>
+              <year>1992</year>
+              <volume>28</volume>
+              <fpage>101</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old woman developed enzyme elevations and marked pruritus 7 months after starting lovastatin [bilirubin 0.7 mg/dL, ALT 296 U/L, Alk P 626 U/L], with prompt disappearance of symptoms, but slow improvement in abnormal liver tests upon stopping lovastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1559791</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.the_lovastatin_pravastatin_study_group.1993.810">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>The Lovastatin Pravastatin Study Group</collab>
+</person-group>
+              <article-title>A multicenter comparative trial of lovastatin and pravastatin in the treatment of hypercholesterolemia.</article-title>
+              <source>Am J Cardiol</source>
+              <year>1993</year>
+              <volume>71</volume>
+              <fpage>810</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of lovastatin [20 to 80 mg] vs pravastatin [10 to 40 mg] daily for 18 weeks in 672 hypercholesterolemic patients; ALT elevations &#x0003e;3 times ULN occurred in 1 lovastatin and 2 pravastatin treated patients; no clinically apparent liver injury mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8456759</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.grimbert.1994.2032">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grimbert</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pessayre</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Degott</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Benhamou</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Acute hepatitis induced by HMG-CoA reductase inhibitor, lovastatin.</article-title>
+              <source>Dig Dis Sci.</source>
+              <year>1994</year>
+              <volume>39</volume>
+              <fpage>2032</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(64 year old man developed jaundice 12 weeks after starting lovastatin [bilirubin 11.7 mg/dL, ALT 8 times and Alk P 1.5 times ULN], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8082513</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.larosa.1994.529">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>LaRosa</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Applegate</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Crouse</surname><given-names>JR</given-names><suffix>3rd</suffix></name>
+<name name-style="western"><surname>Hunninghake</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Grimm</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Knopp</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Eckfeldt</surname><given-names>JH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cholesterol lowering in the elderly: results of the cholesterol reduction in seniors program (CRISP) pilot study.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1994</year>
+              <volume>154</volume>
+              <fpage>529</fpage>
+              <lpage>39</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of lovastatin vs placebo in 431 patients; average ALT levels were identical and constant in all 3 groups during treatment).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8122946</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.furberg.1994.1679">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Furberg</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Adams</surname><given-names>HP</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Applegate</surname><given-names>WB</given-names></name>
+<name name-style="western"><surname>Byington</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Espeland</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Hartwell</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hunninghake</surname><given-names>DB</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effect of lovastatin on early carotid atherosclerosis and cardiovascular events. Asymptomatic carotid artery progression study (ACAPS) research group.</article-title>
+              <source>Circulation</source>
+              <year>1994</year>
+              <volume>90</volume>
+              <fpage>1679</fpage>
+              <lpage>87</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(No comment on liver injury in this double blind randomized controlled clinical trial).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7734010</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bradford.1994.667">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bradford</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>Shear</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Chremos</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Cujovne</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Franklin</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Grillo</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Higgins</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Expanded clinical evaluation of lovastatin (EXCEL) study results. Two year efficacy and safety follow up.</article-title>
+              <source>Am J Cardiol</source>
+              <year>1994</year>
+              <volume>74</volume>
+              <fpage>667</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of lovastatin [20 mg daily] vs placebo in 8245 patients with hypercholesterolemia; confirmed ALT elevations &#x0003e;3 times ULN occurred in only 1 patient on lovastatin during year 2, and no episodes of clinically apparent liver disease; rates of ALT elevations &#x0003e;3 times ULN were 0.1% for placebo and 20 mg, 0.9% for 40 mg, and 1.9% for 80 mg daily).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7942524</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.huchzermeyer.1995.252">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Huchzermeyer</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Munzenmaier</surname><given-names>R.</given-names></name>
+</person-group>
+              <comment>[Lovastatin-induced acute cholestatic hepatitis] [German]</comment>
+              <source>Dtsch Med Wochenschr.</source>
+              <year>1995</year>
+              <volume>120</volume>
+              <fpage>252</fpage>
+              <lpage>6</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old man and 54 year old woman developed cholestatic hepatitis 3 years and 2 months after starting lovastatin [peak bilirubin 15.0 and 9.2 mg/dL, ALT 276 and 384 U/L, Alk P 1227 and 595 U/L], both cases resolving slowly after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7867482</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.gavil_n_carrasco.1996.557">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gavil&#x000e1;n Carrasco</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Berm&#x000fa;dez Recio</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Salgado Ord&#x000f3;&#x000f1;ez</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gonz&#x000e1;lez Santos</surname><given-names>P</given-names></name>
+</person-group>
+              <comment>[Hepatitis due to lovastatin]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>1996</year>
+              <volume>107</volume>
+              <fpage>557</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old with epilepsy on long term phenytoin, phenobarbital and valproate therapy developed jaundice 6 weeks after starting lovastatin [bilirubin 15 mg/dL, ALT 4000 U/L, Alk P 662 U/L], resolving within 2 months of stopping; restarted on phenobarbital and carbamazepine without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8999220</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bruguera.1998.127">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bruguera</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Joya</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rod&#x000e9;s</surname><given-names>J.</given-names></name>
+</person-group>
+              <comment>[Hepatitis associated with treatment with lovastatin. Presentation of 2 cases]</comment>
+              <source>Gastroenterol Hepatol.</source>
+              <year>1998</year>
+              <volume>21</volume>
+              <fpage>127</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two women, ages 57 and 59 years, developed symptomatic but anicteric hepatitis 9 months and 3 years after starting lovastatin [bilirubin 0.8 and 1.3 mg/dL, ALT 244 and 273 U/L, Alk P 845 and 306 U/L], resolving rapidly on stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9607293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.downs.1998.1615">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Downs</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Clearfield</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Weis</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Whitney</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Shapiro</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Beere</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Langendorfer</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Primary prevention of acute coronary events with lovastatin in men and women with average cholesterol levels. Results of AFCAPS/TexCAPS.</article-title>
+              <source>JAMA</source>
+              <year>1998</year>
+              <volume>279</volume>
+              <fpage>1615</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of lovastatin in 9905 patients; AST or ALT elevations &#x0003e;3 times ULN occurred in 0.7% on 20 mg and 0.4% on 40 mg of lovastatin, and 0.3% on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9613910</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.de_denus.2004.584">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Denus</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Spinler</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Peterson</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Statins and liver toxicity: a meta-analysis.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2004</year>
+              <volume>24</volume>
+              <fpage>584</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 13 large controlled trials of statins with at least 48 weeks of therapy in 43,390 patients; overall odds ratio for liver test abnormalities with statins versus placebo was 1.26; lovastatin 1.78; simvastatin 1.06; pravastatin 1.00, and fluvastatin, 3.54).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15162892</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.charles.2005.618">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Charles</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Olson</surname><given-names>KL</given-names></name>
+<name name-style="western"><surname>Sandhoff</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>McClure</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Merenich</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Evaluation of cases of severe statin-induced transaminitis within a large health maintenance organization.</article-title>
+              <source>Am J Med</source>
+              <year>2005</year>
+              <volume>118</volume>
+              <fpage>618</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 23,000 patients on statins in a health plan, 17 had ALT elevation &#x0003e;10 times ULN attributable to statin use; 10 on simvastatin, 5 lovastatin, and 2 atorvastatin; onset 2 days to 4 years after starting; 10 symptomatic; all resolved within 2-8 weeks, except one death; 3 of 7 recurred on rechallenge, 5 of 6 tolerated switching to another statin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15922693</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.tolman.2002.1374">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tolman</surname><given-names>KG</given-names></name>
+</person-group>
+              <article-title>The liver and lovastatin.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2002</year>
+              <volume>89</volume>
+              <fpage>1374</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In premarketing controlled trials of lovastatin, 21% of patients had ALT elevations, but only 1.9% had ALT &#x0003e;3 times ULN and rates were similar to comparator statins).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12062731</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.parra.2003.415">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Parra</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of hypolipidemic drugs.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2003</year>
+              <volume>7</volume>
+              <fpage>415</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review and discussion of individual agents; lovastatin available since 1990 and linked to several case reports of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12879992</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bays.2003.667">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bays</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Dujovne</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>McGovern</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Kashyap</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Hutcheson</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Crouse</surname><given-names>JR</given-names></name>
+<collab>Advicor Versus Other Cholesterol-Modulating Agents Trial Evaluation</collab>
+</person-group>
+              <article-title>Comparison of once-daily, niacin extended-release/lovastatin with standard doses of atorvastatin and simvastatin(the Advicor Versus Other Cholesterol-Modulating Agents Trial Evaluation [ADVOCATE]).</article-title>
+              <source>Am J Cardiol</source>
+              <year>2003</year>
+              <volume>91</volume>
+              <fpage>667</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial comparing lovastatin combined with niacin to atorvastatin or simvastatin alone in 315 patients for 16 weeks; no patient had confirmed ALT elevation &#x0003e;3 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12633795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Pelaez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Ruiz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Mu&#x000f1;oz</surname><given-names>B</given-names></name>
+<etal/>
+<collab>Spanish Group for the Study of Drug-Induced Liver Disease</collab>
+</person-group>
+              <article-title>Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 461 cases of drug induced liver disease 1984 to 2004 in Spanish Registry; 11 cases [2%] were attributed to &#x0201c;statins&#x0201d;, but no specific agent caused more than 4 cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.khorashadi.2006.902">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Khorashadi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hasson</surname><given-names>NK</given-names></name>
+<name name-style="western"><surname>Cheung</surname><given-names>RC</given-names></name>
+</person-group>
+              <article-title>Incidence of statin hepatotoxicity in patients with hepatitis C.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2006</year>
+              <volume>4</volume>
+              <fpage>902</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Electronic record review of rate of ALT elevations in patients with hepatitis C with or without statin therapy and controls on statin therapy found no differences between the three groups [20%, 24% and 17%]; severe abnormalities most frequent in patients with chronic hepatitis C not on statins [6.6% vs 1.2%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16697272</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.silva.2006.26">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Silva</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Swanson</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Gandhi</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Tataronis</surname><given-names>GR</given-names></name>
+</person-group>
+              <article-title>Statin-related adverse events: a meta-analysis.</article-title>
+              <source>Clin Ther</source>
+              <year>2006</year>
+              <volume>28</volume>
+              <fpage>26</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalysis of adverse event rates in 18 placebo controlled trials of six statins in 71,108 patients; ALT elevations &#x0003e;3 times ULN in 1.7% of statin vs 1.4% placebo recipients; event rates highest with atorvastatin, lowest with fluvastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16490577</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.law.2006.52c">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Law</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rudnicka</surname><given-names>AR</given-names></name>
+</person-group>
+              <article-title>Statin safety: a systematic review.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2006</year>
+              <volume>97</volume>
+              <issue>8A</issue>
+              <fpage>52C</fpage>
+              <lpage>60C</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety of statins; 38 cases of acute liver failure attributed to statins were submitted to MedWatch by end of 1999, which gives an estimated rate of 1 per million person years of use; rate of confirmed ALT elevations &#x0003e;3 times ULN is 0.1% with statins and 0.04% with placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16581329</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.dale.2007.706">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dale</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Henyan</surname><given-names>NN</given-names></name>
+<name name-style="western"><surname>Kluger</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Coleman</surname><given-names>CI</given-names></name>
+</person-group>
+              <article-title>Impact of statin dosing intensity on transaminase and creatine kinase.</article-title>
+              <source>Am J Med</source>
+              <year>2007</year>
+              <volume>120</volume>
+              <fpage>706</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalysis of rates of ALT and CPK elevations in nine controlled studies comparing low vs high doses of statins; ALT elevations &#x0003e;3 times ULN occurred in 1.5% of high- and 0.4% of low-intensity statin groups, effect particularly seen with hydrophilic [pravastatin and atorvastatin] compared to lipophilic agents [simvastatin and lovastatin]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17679130</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.alsheikhali.2007.379">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alsheikh-Ali</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Karas</surname><given-names>RH</given-names></name>
+</person-group>
+              <article-title>Safety of lovastatin/extended release niacin compared with lovastatin alone, atorvastatin alone, pravastatin alone, and simvastatin alone (from the United States Food and Drug Administration adverse event reporting system).</article-title>
+              <source>Am J Cardiol</source>
+              <year>2007</year>
+              <volume>99</volume>
+              <fpage>379</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of MedWatch reports of adverse events found no excess in liver related adverse event reports per million prescription due to lovastatin alone [2.3] vs niacin alone [2.5] vs the combination [3.2], but slightly higher rates with atorvastatin [4.5], simvastatin [5.7] and pravastatin [4.9], but data relied upon spontaneous reporting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17261402</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bhardwah.2007.597">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bhardwah</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Lipid-lowering agents that cause drug-induced hepatotoxicity.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2007</year>
+              <volume>11</volume>
+              <fpage>597</fpage>
+              <lpage>613</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of statins; reported rates of ALT or AST elevations &#x0003e;3 times ULN: atorvastatin 0.7%, fluvastatin 1.2%, lovastatin 0.6%, pravastatin 1.4%, rosuvastatin 0% and simvastatin 1.8%. Usually asymptomatic, individual case reports of autoimmune hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17723922</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.alsheikhali.2007.409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alsheikh-Ali</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Maddukuri</surname><given-names>PV</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Karas</surname><given-names>RH</given-names></name>
+</person-group>
+              <article-title>Effect of the magnitude of lipid lowering on risk of elevated liver enzymes, rhabdomyolysis, and cancer: insights from large randomized statin trials.</article-title>
+              <source>J Am Coll Cardiol</source>
+              <year>2007</year>
+              <volume>50</volume>
+              <fpage>409</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of relationship between LDL cholesterol lowering effects and adverse events in 23 statin treatment arms representing 309,506 person years of therapy; positive and graded relationship between statin dose [simvastatin, lovastatin and atorvastatin] and rates of ALT elevations, but no independent relationship to degree of LDL cholesterol decrease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17662392</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.stein.2007.277">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stein</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Goel</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ghavamian</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Hepatitis and rhabdomyolysis in a patient with hormone refractory prostate cancer on ketoconazole and concurrent lovastatin therapy.</article-title>
+              <source>Invest New Drugs</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>277</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(84 year old man on long term lovastatin developed muscle weakness 4 weeks after starting ketoconazole [bilirubin and Alk P normal, ALT 829 U/L, CPK 47,250 U/L], suspected to be rhabdomyolysis caused by effects of ketoconazole on lovastatin pharmacokinetics, resolving in 3 weeks after stopping both).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17216557</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.alsheikhali.2007.379_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alsheikh-Ali</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Karas</surname><given-names>RH</given-names></name>
+</person-group>
+              <article-title>Safety of lovastatin/extended release niacin compared with lovastatin alone, atorvastatin alone, pravastatin alone, and simvastatin alone.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2007</year>
+              <volume>99</volume>
+              <fpage>379</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of MedWatch data base for serious adverse events: rates per million prescriptions were 11.2 for lovastatin/niacin ER; 11.6 niacin ER; 7.7 lovastatin; 19.6 atorvastatin; 22.6 simvastatin; 14.8 pravastatin. Hepatotoxicity [undefined] per million occurred in: 3.6 for lovastatin/ niacin ER; 2.4 niacin ER; 2.2 lovastatin; 4.2 atorvastatin; 5.9 simvastatin; 5.0 pravastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17261402</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.martin.2008.113">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Martin</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Cavanaugh</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Trumbull</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bass</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>F</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Aranda-Michel</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hanaway</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Incidence of adverse events with HMG-CoA reductase inhibitors in liver transplant patients.</article-title>
+              <source>Clin Transplant</source>
+              <year>2008</year>
+              <volume>22</volume>
+              <fpage>113</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective review of adverse events associated with statin and fibrate use in 69 patients with liver transplants; myalgias problematic in 5, myopathy in 1, but none had significant ALT elevations or hepatitis related to medication).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18217912</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug-Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 3 cases were attributed to atorvastatin, 3 to simvastatin/ezetimibe, and one each to pravastatin, fluvastatin, and simvastatin [none attributed to lovastatin], but most cases were mild or not clearly attributable to the statin therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.neuvonen.2008.463">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Neuvonen</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Backman</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Niemi</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Pharmacokinetic comparison of the potential over-the-counter statins simvastatin, lovastatin, fluvastatin and pravastatin.</article-title>
+              <source>Clin Pharmacokinet</source>
+              <year>2008</year>
+              <volume>47</volume>
+              <fpage>463</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of literature on pharmacokinetics of statins; simvastatin and lovastatin are metabolized extensively by the P450 system and levels are affected by inhibitors or inducers of CYP 3A4 [itraconazole, erythromycin, verapamil, diltiazem, cyclosporine], whereas fluvastatin and pravastatin are minimally, if at all, affected).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18563955</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.avins.2008.325">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Avins</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Manos</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Ackerson</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Murphy</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Levin</surname><given-names>TR</given-names></name>
+<name name-style="western"><surname>Watson</surname><given-names>DJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatic effects of lovastatin exposure in patients with liver disease: a retrospective cohort study.</article-title>
+              <source>Drug Saf</source>
+              <year>2008</year>
+              <volume>31</volume>
+              <fpage>325</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of electronic medical records on 93,106 patients, 14% of whom had received lovastatin; compared to controls, patients receiving lovastatin had lower rates of moderate ALT elevations and diagnosis of cirrhosis or liver failure compared to controls who did not receive lovastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18366243</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.roselle.2008.516">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roselle</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ekatan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tzeng</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sapienza</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kocher</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Symptomatic hepatitis associated with the use of herbal red yeast rice.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2008</year>
+              <volume>149</volume>
+              <fpage>516</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(62 year old woman developed fever, nausea and fatigue 4 months after starting red yeast rice extract [ALT 211 U/L, bilirubin and Alk P not given], resolving within several months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18838736</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.grieco.2009.1273">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grieco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Miele</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Pompili</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Biolato</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Vecchio</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Grattagliano</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Acute hepatitis caused by a natural lipid-lowering product: when "alternative" medicine is no "alternative" at all.</article-title>
+              <source>J Hepatol</source>
+              <year>2009</year>
+              <volume>50</volume>
+              <fpage>1273</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(63 year old woman with ALT elevations after 6 months of lovastatin use, developed fatigue 6 months after starting a cholesterol lowering herbal preparation containing red yeast rice extract [bilirubin 1.9 mg/dL, ALT 1760 U/L, Alk P 722 U/L], resolving over the next 6 months, but with persistence of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19398239</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.russo.2009.412">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Scobey</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury associated with statins.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2009</year>
+              <volume>29</volume>
+              <fpage>412</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case reports linked to fluvastatin and atorvastatin and review of literature on statin related hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19826975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.becker.2009.830">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Becker</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>RY</given-names></name>
+<name name-style="western"><surname>Halbert</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>French</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Rader</surname><given-names>DJ</given-names></name>
+</person-group>
+              <article-title>Red yeast rice for dyslipidemia in statin-intolerant patients: a randomized trial.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2009</year>
+              <volume>150</volume>
+              <fpage>830</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of red yeast rice extract vs placebo in 62 patients who had stopped statin therapy because of myalgias, found similar rates of myalgias [7% vs 3%] and no change in ALT or AST levels in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19528562</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.halbert.2010.198">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Halbert</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>French</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>RY</given-names></name>
+<name name-style="western"><surname>Farrar</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Schmitz</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>PD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tolerability of red yeast rice (2,400 mg twice daily) versus pravastatin (20 mg twice daily) in patients with previous statin intolerance.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>198</fpage>
+              <lpage>204</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(43 patients with myalgias due to statin use were treated with pravastatin or red rice extract for 24 weeks; discontinuation due to myalgias occurred in 5% on red yeast rice extract and 9% on pravastatin, and mean ALT levels were similar between the 2 groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20102918</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.gordon.2010.1722">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gordon</surname><given-names>RY</given-names></name>
+<name name-style="western"><surname>Cooperman</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Obermeyer</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Becker</surname><given-names>DJ</given-names></name>
+</person-group>
+              <article-title>Marked variability of monacolin levels in commercial red yeast rice products: buyer beware!</article-title>
+              <source>Arch Intern Med</source>
+              <year>2010</year>
+              <volume>170</volume>
+              <fpage>1722</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 12 red yeast rice extracts commercially available in the US, total monacolin concentrations varied from 0.3-11.1 mg/capsule, monacolin K by 0.1-10.1 mg/capsule, and citrinin [which is nephrotoxic] was present in 4).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20975018</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.hippisleycox.2010.c2197">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hippisley-Cox</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Coupland</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Unintended effects of statins in men and women in England and Wales: population based cohort study using the QResearch database.</article-title>
+              <source>BMJ</source>
+              <year>2010</year>
+              <volume>340</volume>
+              <fpage>c2197</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 225,922 new users of statins in a UK health care database, there was an increased risk of moderate or severe liver dysfunction [ALT &#x0003e;3 times ULN], usually within first 6 months and associated with higher doses of statins; relative risks were highest with fluvastatin [2.53 in women, 1.97 in men] and lowest with pravastatin [0.93 to 1.58]; there were too few persons treated with lovastatin for separate analysis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20488911</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 6 were attributed to statins: 2 atorvastatin, 2 simvastatin [one with ezetimibe] and 2 cerivastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bj_rnsson.2012.374">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jacobsen</surname><given-names>EI</given-names></name>
+<name name-style="western"><surname>Kalaitzakis</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with statins: reports of idiosyncratic liver injury post-marketing.</article-title>
+              <source>J Hepatol</source>
+              <year>2012</year>
+              <volume>56</volume>
+              <fpage>374</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 1988 and 2010, the Swedish registry received 217 adverse event reports possibly related to statins, 124 [57%] being liver related, 73 of which could be evaluated; 2 were fatal and one led to liver transplant; 3 had positive rechallenge; 43 [59%] were hepatocellular, 22 [30%] cholestatic and 8 [11%] mixed; 30 were due to atorvastatin, 28 simvastatin, 11 fluvastatin, 2 pravastatin, and 2 rosuvastatin, arising after 30-248 days; no mention of lovastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21889469</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 2 cases attributed to atorvastatin and 1 to simvastatin, but none to lovastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to statins or lipid lowering agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.russo.2014.679">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Hoofnagle</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Spectrum of statin hepatotoxicity: Experience of the drug-induced liver injury network.</article-title>
+              <source>Hepatology</source>
+              <year>2014</year>
+              <volume>60</volume>
+              <fpage>679</fpage>
+              <lpage>86</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1,188 cases of drug induced liver disease collected in the US between 2004 to 2012, 22 [2%] were attributed to statins, including atorvastatin [8], simvastatin [5], rosuvastatin [4], fluvastatin [2], pravastatin [2] and lovastatin [1]; median age was 60 years and 68% were women; 9 cases were cholestatic and 12 hepatocellular [6 with autoimmune features]; the latency ranged widely, from 1 month to 10 years; only one case was fatal [a man with preexisting cirrhosis presenting with acute-on-chronic liver failure]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24700436</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bays.2014.s47">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bays</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>SA</given-names></name>
+</person-group>
+              <article-title>An assessment by the Statin Liver Safety Task Force: 2014 update.</article-title>
+              <source>J Clin Lipidol</source>
+              <year>2014</year>
+              <volume>8</volume>
+              <issue>3</issue>
+              <supplement>Suppl</supplement>
+              <fpage>S47</fpage>
+              <lpage>57</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the safety of statins including their use in patients with liver disease recommending that liver tests be obtained before therapy, but that routine monitoring is not necessary and that statins can be safety used in patients with nonalcoholic liver disease, and are probably safe in other forms of chronic liver disease and after liver transplantation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24793441</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.ooba.2014.e96919">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ooba</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sato</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wakana</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Orii</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kitamura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kokan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kurata</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A prospective stratified case-cohort study on statins and multiple adverse events in Japan.</article-title>
+              <source>PLoS One</source>
+              <year>2014</year>
+              <volume>9</volume>
+              <elocation-id>e96919</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 6877 patients started on statins between 2008 and 2010, 139 developed an increase in ALT or AST deemed likely due to the drug with no significant differences among those treated with pra-, ator-, flu-, pita- or rosu-vastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24810427</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.macedo.2014.51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Macedo</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Casas</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Adler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Prieto-Merino</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ebrahim</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Unintended effects of statins from observational studies in the general population: systematic review and meta-analysis.</article-title>
+              <source>BMC Med</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <fpage>51</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 90 studies of 48 different "unintended effects" of statins with evidence of an increased risk of myopathy [Odds Ratio: OR=2.6] and raised liver enzymes [OR=1.5]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24655568</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF58">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for lipids.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <issue>137</issue>
+              <fpage>1</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise recommendations on management of hyperlipidemia mentions that 1-2% of patients on high doses of statins develop ALT elevations [above 3 times ULN], but that there is not always cross sensitivity to this side effect and that patients with mild-to-moderate ALT elevations can tolerate statins; no discussion of clinically apparent liver).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24419209</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.perdices.2014.246">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Perdices</surname><given-names>EV</given-names></name>
+<name name-style="western"><surname>Medina-C&#x000e1;liz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hernando</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ortega</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;n-Oca&#x000f1;a</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Pel&#x000e1;ez</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatotoxicity associated with statin use: analysis of the cases included in the Spanish Hepatotoxicity Registry.</article-title>
+              <source>Rev Esp Enferm Dig</source>
+              <year>2014</year>
+              <volume>106</volume>
+              <fpage>246</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 858 cases of drug induced liver injury enrolled in a Spanish Registry between 1994 and 2012, 47 [5.5%] were attributed to statins [16 atorvastatin, 13 simvastatin, 12 fluvastatin, 4 lovastatin and 2 pravastatin], usually with a hepatocellular pattern of injury, 8.5% with autoimmune features, chronic injury in 19%, and no liver related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25075655</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.chen.2014.719">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Hsiao</surname><given-names>FY</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>FL</given-names></name>
+</person-group>
+              <article-title>Statins and the risk of liver injury: a population-based case-control study.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2014</year>
+              <volume>23</volume>
+              <fpage>719</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2165 Taiwanese patients hospitalized for liver injury between 2002 and 2009, use of statins was not more frequent than among 16,600 hospitalized controls, except for use of high doses of rosuvastatin [adjusted odds ratio of 2.29]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24829162</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 31 cases [3.4%] were attributed to statins, including 8 to atorvastatin, 8 simvastatin, 7 rosuvastatin, 4 pravastatin, 2 fluvastatin and 2 lovastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.chang.2015.155">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chang</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Chuang</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>JW</given-names></name>
+</person-group>
+              <article-title>Severe hepatic injury associated with different statins in patients with chronic liver disease: a nationwide population-based cohort study.</article-title>
+              <source>J Gastroenterol Hepatol</source>
+              <year>2015</year>
+              <volume>30</volume>
+              <fpage>155</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 37,929 Taiwanese persons with chronic liver disease started on statin therapy for hyperlipidemia between 2005 and 2009, there were 912 incident cases of hospitalization for liver injury, rates being similar for the 6 different statins used [1.94-2.95 per 100,000 person-days], but higher in those on high doses of atorvastatin [40 or 80 mg daily]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25041076</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.kim.2016.266">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kim</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yim</surname><given-names>HW</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Statin-related aminotransferase elevation according to baseline aminotransferases level in real practice in Korea.</article-title>
+              <source>J Clin Pharm Ther</source>
+              <year>2016</year>
+              <volume>41</volume>
+              <fpage>266</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 21,233 Korean patients starting statin therapy between 2009 and 2013, abnormal ALT or AST values above 3 times ULN were more frequent among those with mild baseline elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27015878</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.wang.2016.823">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wang</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Perng</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>HC</given-names></name>
+</person-group>
+              <article-title>Statin-induced liver injury in an area endemic for hepatitis B virus infection: risk factors and outcome analysis.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2016</year>
+              <volume>82</volume>
+              <fpage>823</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the Taipei Veterans Hospital database from 2008 to 2012 identified 108 patients with statin-associated liver injury [including 28 rosu-, 20 flu-, 17 sim-, 11 pra-, 8 lo-, and 8 pita-vastatin] most of which 75 [69%] were mild and only one fatal [80 year old on rosuvastatin], and there were no differences in disease features or peak enzyme or bilirubin levels between HBsAg positive vs negative subjects [n=16 vs 92]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27197051</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.mazzanti.2017.894">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mazzanti</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Moro</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Raschi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Da Cas</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Menniti-Ippolito</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Adverse reactions to dietary supplements containing red yeast rice: assessment of cases from the Italian surveillance system.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2017</year>
+              <volume>83</volume>
+              <fpage>894</fpage>
+              <lpage>908</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1261 spontaneous adverse event reports made to an Italian surveillance system for natural health products between 2002 and 2015, 55 were for red yeast rice, including 10 for liver injury of which 6 were described as "hepatitis" and required hospitalization, ALT elevations 315 to 3566 U/L, bilirubin normal or minimally elevated, all resolving upon stopping supplements).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28093797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.bj_rnsson.2017.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of statins and other lipid-lowering agents.</article-title>
+              <source>Liver Int</source>
+              <year>2017</year>
+              <volume>37</volume>
+              <fpage>173</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of statins mentions that 12 cases of lovastatin induced liver injury have been published, but none were fatal or had a positive rechallenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27860156</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.giugliano.2017.547">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Giugliano</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Wiviott</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Blazing</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>De Ferrari</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Murphy</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>JA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term safety and efficacy of achieving very low levels of low-density lipoprotein cholesterol: a prespecified analysis of the IMPROVE-IT Trial.</article-title>
+              <source>JAMA Cardiol.</source>
+              <year>2017</year>
+              <volume>2</volume>
+              <fpage>547</fpage>
+              <lpage>555</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 15,281 patients recovering from an acute cardiac syndrome treated with simvastatin [40 mg daily] with or without ezetimibe for up to 6 years, 6.4% achieved very low LDL-cholesterol levels [&#x0003c;30 mg/dL] and subsequently had low rates of cardiovascular events, but also no increase in rates of adverse events from statins such including ALT elevations above 3 times ULN [2.2% vs 1.8-2.1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28291866</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.liang.2018.7092414">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>
+</person-group>
+              <article-title>Effect of stains on LDL reduction and liver safety: a systematic review and meta-analysis.</article-title>
+              <source>Biomed Res Int.</source>
+              <year>2018</year>
+              <volume>2018</volume>
+              <elocation-id>7092414</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a systematic review of 16 controlled trials of statins in 74,078 patients, rates of liver test abnormalities were higher with statin therapy [odds ratio, OR=1.18] but this was significant only for fluvastatin [OR=3.5] and with higher doses [40-80 mg daily] [OD=3.6] and was not significant for statins used at low or moderate doses).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29693013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.yebyo.2019.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yebyo</surname><given-names>HG</given-names></name>
+<name name-style="western"><surname>Aschmann</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Kaufmann</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Puhan</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Comparative effectiveness and safety of statins as a class and of specific statins for primary prevention of cardiovascular disease: A systematic review, meta-analysis, and network meta-analysis of randomized trials with 94,283 participants.</article-title>
+              <source>Am Heart J.</source>
+              <year>2019</year>
+              <volume>210</volume>
+              <fpage>18</fpage>
+              <lpage>28</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalyses of 40 trials of statins that enrolled 94,283 patients followed for a median of 1 year for efficacy and safety reported that statins as a class increased the risk of hepatic dysfunction by 6% with fluvastatin having the highest relative risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30716508</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF70">
+            <element-citation publication-type="journal">
+              <article-title>Lipid-lowering drugs.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1565</issue>
+              <fpage>17</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, relative efficacy, safety and costs of lipid lowering drugs including statins, ezetimibe, PCSK9 inhibitors, bile acid sequestrants, fibric acid derivatives niacin and fish oil, mentions that statin therapy is associated with ALT elevations above 3 times ULN in 1-3% of patients but &#x0201c;whether statins actually cause liver damage is unclear&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30845106</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.simon.2020.3">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Simon</surname><given-names>TG</given-names></name>
+</person-group>
+              <article-title>When less is more: dosing simvastatin in decompensated cirrhosis.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2020</year>
+              <volume>5</volume>
+              <fpage>3</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Pose et al [2020] discusses the possible beneficial effects of statins in patients with cirrhosis and the issue of increased rate of muscle toxicity with 40 vs to 20 mg daily).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31607676</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.hopewell.2020.3336">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hopewell</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Offer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Haynes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bowman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Bulbulia</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Independent risk factors for simvastatin-related myopathy and relevance to different types of muscle symptom.</article-title>
+              <source>Eur Heart J</source>
+              <year>2020</year>
+              <volume>41</volume>
+              <fpage>3336</fpage>
+              <lpage>3342</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a combined analysis of 3 large clinical trials in patients with cardiovascular disease treated with simvastatin for a mean of 3.4 years, 171 of 58,390 participants [0.1%] developed myopathy [muscle pain and CK levels above 10 times ULN], and risk was higher with higher doses, in Asian subjects, women, and persons with higher BMI and multiple comorbidities as well as with SLCO1B1 genotype).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32702748</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.balasubramanian.2021.328">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Balasubramanian</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maideen</surname><given-names>NMP</given-names></name>
+</person-group>
+              <article-title>HMG-CoA reductase inhibitors (statins) and their drug interactions involving CYP enzymes, P-glycoprotein and OATP transporters-an overview.</article-title>
+              <source>Curr Drug Metab.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>328</fpage>
+              <lpage>341</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on drug-drug interactions with statins and their clinical significance mentions that toxicity can be enhanced by inhibitors of CYP3A4 [atorva-, simva- and lova-statin] as well as by inhibitors of P glycoprotein and OATP1B1 [most statins including rosuvastatin] with specific recommendations for the most common inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33459228</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.sung.2021.120">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sung</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Al-Karaghouli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kalainy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Cabrera Garcia</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Abraldes</surname><given-names>JG</given-names></name>
+</person-group>
+              <article-title>A systematic review on pharmacokinetics, cardiovascular outcomes and safety profiles of statins in cirrhosis.</article-title>
+              <source>BMC Gastroenterol.</source>
+              <year>2021</year>
+              <volume>21</volume>
+              <fpage>120</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature suggests that rosuvastatin and pitavastatin pharmacokinetics are unchanged in patients with Child&#x02019;s Class A cirrhosis as opposed to atorvastatin and pravastatin, although unlike rosuvastatin, simvastatin, atorvastatin and pravastatin have been assessed in clinical trials in cirrhotic patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33726685</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.lu.2021.733">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lu</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Seraydarian</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hoffmann</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Medina</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Risch</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Iribarren</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effect of SLCO1B1 T521C on statin-related myotoxicity with use of lovastatin and atorvastatin.</article-title>
+              <source>Clin Pharmacol Ther.</source>
+              <year>2021</year>
+              <volume>110</volume>
+              <fpage>733</fpage>
+              <lpage>740</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 233 patients with statin associated myopathy and 2342 controls selected from an aging cohort with genetic testing, the allele frequency of c.521T&#x0003e;C in SLCO1B1 [rs4149056] was higher in those with myopathy, C allele frequency being 14-15% of controls compared to 17% of atorvastatin [p=0.4], 19% of lovastatin [p&#x0003c;0.001], and 25% of simvastatin [p&#x0003c;0.001] myopathy cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34114646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.cai.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Abel</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Langford</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Monaghan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Aronson</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Stevens</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lay-Flurrie</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Associations between statins and adverse events in primary prevention of cardiovascular disease: systematic review with pairwise, network, and dose-response meta-analyses.</article-title>
+              <source>BMJ</source>
+              <year>2021</year>
+              <volume>374</volume>
+              <issue>n1537</issue>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of placebo controlled trials of statins for cardiovascular disease prevention identified 62 publications with 120,456 patients and found an increased risk of muscle symptoms, liver test abnormalities, renal insufficiency and eye conditions for all 7 statins, but not muscle disorders or diabetes; rosuvastatin having relatively high risk for muscle symptoms and renal abnormalities and also was also associated with eye conditions and diabetes, while atorvastatin and lovastatin had highest risk for liver abnormalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34261627</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lovastatin.REF.karampoor.2021">
+            <mixed-citation publication-type="other">Karampoor S, Hesamizadeh K, Shams Z, Ghafari Novin A, Farahmand M, Zahednasab H, Mirzaei R, et al. The role of lovastatin in the attenuation of COVID-19. Int Immunopharmacol. 2021;101(Pt A):108192.<annotation><p><italic toggle="yes">(Among 284 patients with COVID-19 admitted to the intensive care unit, mortality rates were lower in those receiving 20 mg [n=99] or 40 mg [n=93] of lovastatin daily [0% and 2%] than in 92 controls [4%] while changes in serum aminotransferase levels were similar in all three groups).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Lovastatin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=lovastatin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Lovastatin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=lovastatin">Trials on Lovastatin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

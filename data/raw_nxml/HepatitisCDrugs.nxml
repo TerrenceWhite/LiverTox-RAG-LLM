@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="HepatitisCDrugs" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">HepatitisCDrugs</book-part-id>
+      <title-group>
+        <title>Hepatitis C (HCV) Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>2</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Heparins" document-type="chapter">Heparins</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="HerbalDietarySuppl" document-type="chapter">Herbal and Dietary Supplements</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="HepatitisCDrugs.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The hepatitis C virus (HCV) is a small RNA virus belonging to the family flaviviridae and genus hepacivirus. The virion is approximately 50 nm in diameter and has an outer lipid associated envelop (E1 and E2) and inner nucleocapsid (Core). Within the nucleocapsid is a single molecule of single-stranded RNA of positive polarity approximately 9.5 kilobases in length. The RNA is transcribed into a large polyprotein that is subsequently cleaved into multiple polypeptides, labeled from the 5&#x02019; to 3&#x02019; end: core, envelope 1 and 2, and nonstructural proteins NS2, NS3, NS4 and NS5A and NS5B. The NS3 region encodes a viral helicase and protease. The NS5A region encodes a polypeptide that is essential for production and maintenance of the replicative complex. The NS5B region encodes a viral RNA dependent, RNA polymerase that is essential for replication. The NS3, NS5A and NS5B regions have been targeted with direct acting antiviral agents.</p>
+        <p content-type="pubmed-excerpt">The initial agents used to treat chronic hepatitis C were interferon alfa, peginterferon and ribavirin. The antiviral activity of interferon and peginterferon is based upon their ability to stimulate interferon stimulated genes (ISGs) that have endogenous antiviral activities. Ribavirin is a nucleoside analogue that potentiates the effects of interferon against hepatitis C by as yet undefined mechanisms. Until 2010, the standard therapy of chronic hepatitis C was the combination of peginterferon and ribavirin given for 24 or 48 weeks. This combination led to sustained clearance of HCV and remission in disease in 40% to 50% of patients. Response rates were higher with certain HCV genotypes, so that response rates in patients with genotypes 2 and 3 were as high as 70% to 80%. Importantly, these remissions in disease have been shown to represent cure of the chronic viral infection, in that long term follow up demonstrated lack of HCV replication and resolution of disease activity in over 98% of patients. The shortcomings of peginterferon-ribavirin therapy were significant, most importantly the poor tolerance and side effects of this regimen. Thus, a high proportion of patients was intolerant or had contraindications to treatment. In 2010, three HCV-specific protease inhibitors were approved for use and introduced into practice: boceprevir, telaprevir and simeprevir. All three of these were specific to genotype 1 HCV and had little or no activity against genotypes 2 or 3 or the lesser common genotypes 4, 5 and 6. Triple therapy with peginterferon, ribavirin and a HCV-specific protease inhibitor (boceprevir, telaprevir or simeprevir) increased the response rate in patients with chronic hepatitis C, genotype 1 from 40%-45% to 65%-75%. A persistent difficulty, however, was the continued need to combine these agents with peginterferon and the considerable side effects which were worsened by these protease inhibitors.</p>
+        <p content-type="pubmed-excerpt">An important advance in therapy of hepatitis C came in 2013 with the approval of an HCV specific RNA polymerase inhibitor, sofosbuvir. Sofosbuvir not only increased the response rate when combined with peginterferon and ribavirin, but also allowed for interferon-free treatment when combined with ribavirin, HCV protease inhibitors or a new class of agents that antagonized HCV NS5A activity. In 2014, all-oral HCV specific antiviral regimens were approved that yielded response rates in excess of 95% in patients with genotype 1. Furthermore, successful therapy required only 8 to 12 weeks of treatment in most patients and were extremely well tolerated. These all-oral regimens revolutionized therapy of hepatitis C, allowing treatment of virtually all patients regardless of severity of illness or co-morbid conditions with few side effects and durations of therapy of 8, 12 or 24 weeks. Other all oral regimens, including treatments for the less common genotypes of hepatitis C began to become available in 2015, 2016 and 2017. The several classes of agents that are combined in either a two-, three- or four-drug regimens include HCV RNA polymerase inhibitors (nucleoside and nonnucleoside), HCV NS5A antagonists and the HCV protease inhibitors. Several of these drug combinations have been formulated as single tablet or co-packaged regimens. These combination products made therapy easier to apply, but also resulted in the withdrawal of less successful agents, including boceprevir, telaprevir, daclatasvir, simeprevir and the four-drug combination of ombitasvir, dasabuvir, paritaprevir and ritonavir (Viekira Pak). Most currently used regimens are given for 8 to 12 weeks and yield response rates of 98% or more (Epclusa, Mavyret and Zepatier). Widespread application of these therapies to patients with chronic hepatitis C will likely decrease the morbidity and mortality of this disease and make significant inroads into decreasing the burden of chronic liver disease, cirrhosis, and hepatocellular carcinoma worldwide.</p>
+        <p>The following drug records are discussed individually, or as a class or as a part of combination therapies:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Interferon Based Therapies</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Alpha_Peginterferon" document-type="chapter">Alpha Interferon and Peginterferon</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ribavirin" document-type="chapter">Ribavirin</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>HCV NS5A Inhibitors</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Daclatasvir" document-type="chapter">Daclatasvir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zepatier" document-type="chapter">Elbasvir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Ledipasvir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Ombitasvir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mavyret" document-type="chapter">Pibrentasvir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Velpatasvir</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>HCV NS5B (Polymerase) Inhibitors</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Dasabuvir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Sofosbuvir</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="HCVProteaseInhibitor" document-type="chapter">HCV Protease Inhibitors</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="HCVProteaseInhibitor" document-type="chapter">Asunaprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Boceprevir" document-type="chapter">Boceprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mavyret" document-type="chapter">Glecaprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zepatier" document-type="chapter">Grazoprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Paritaprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Simeprevir" document-type="chapter">Simeprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Telaprevir" document-type="chapter">Telaprevir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Voxilaprevir</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Combination Therapies</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Epclusa</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Harvoni</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mavyret" document-type="chapter">Mavyret</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Technive</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Viekira Pak</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Vosevi</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zepatier" document-type="chapter">Zepatier</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="HepatitisCDrugs.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 February 2022</p>
+        <ref-list id="HepatitisCDrugs.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="HepatitisCDrugs.REF.pawlotsky.2015.s87">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pawlotsky</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Zeuzem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hoofnagle</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>From non-A, non-B hepatitis to hepatitis C virus cure.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>62</volume>
+              <issue>1</issue>
+              <supplement>Suppl</supplement>
+              <fpage>S87</fpage>
+              <lpage>99</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(History of the development of therapy for chronic hepatitis C starting with the discovery of a third form of viral hepatitis, through early days of use of interferon alfa, the addition of ribavirin and development of peginterferon, concluding with the arrival of direct acting antiviral agents which in combination yielded response rates of more than 95% with well tolerated regimens of 8 and 12 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25920094</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.schinazi.2014.69">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schinazi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Halfon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Marcellin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Asselah</surname><given-names>T.</given-names></name>
+</person-group>
+              <article-title>HCV direct-acting antiviral agents: the best interferon-free combinations.</article-title>
+              <source>Liver Int</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>69</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of safety and efficacy of various all-oral regimens for therapy of hepatitis C; does not discuss hepatic decompensation, hepatotoxicity or ALT elevations during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24373081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.european_association_for_study_of_liver.2015.199">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>European Association for Study of Liver</collab>
+</person-group>
+              <article-title>EASL Recommendations on Treatment of Hepatitis C 2015.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>63</volume>
+              <fpage>199</fpage>
+              <lpage>236</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver clinical, academic and research society).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25911336</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.aasldidsa_hcv_guidance_panel.2015.932">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>AASLD/IDSA HCV Guidance Panel</collab>
+</person-group>
+              <article-title>Hepatitis C guidance: AASLD-IDSA recommendations for testing, managing, and treating adults infected with hepatitis C virus.</article-title>
+              <source>Hepatology</source>
+              <year>2015</year>
+              <volume>62</volume>
+              <fpage>932</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the US liver and infectious diseases research and academic societies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26111063</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.aasld">
+            <mixed-citation publication-type="web"><person-group><collab>AASLD</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.hcvguidelines.org/">https://www.hcvguidelines.org/</ext-link><annotation><p><italic toggle="yes">(Web-based and regularly updated guidelines for the antiviral therapy of chronic hepatitis C from the American Association for the Study of Liver Diseases and the Infectious Diseases Society of America).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.feld.2015.2599">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Jacobson</surname><given-names>IM</given-names></name>
+<name name-style="western"><surname>Hezode</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Asselah</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ruane</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Gruener</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Abergel</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Sofosbuvir and velpatasvir for HCV genotype 1, 2, 4, 5 and 6 infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>373</volume>
+              <fpage>2599</fpage>
+              <lpage>607</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 741 patients with chronic hepatitis C, genotype 1, 2, 4, 5, or 6, who were treated with a placebo [n=91] vs a single tablet, fixed combination of sofosbuvir and velpatasvir [n=624] once daily for 12 weeks, SVR rates were 0% vs 99% and serious adverse events occurred in none vs 2% on antiviral therapy, but no patient had a liver related serious adverse event or death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26571066</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.foster.2015.2608">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Foster</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Afdhal</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Brau</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Gane</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Pianko</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lawitz</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Sofosbuvir and velpatasvir for HCV genotype 2 and 3 infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>373</volume>
+              <fpage>2608</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 266 patients with chronic hepatitis C, genotype 2 treated with sofosbuvir and velpatasvir vs ribavirin for 12 weeks, SVR rates were 99% vs 94% and adverse events were similar; among 544 patients with genotype 3 infection treated with sofosbuvir and velpatasvir for 12 weeks vs sofosbuvir and ribavirin for 24 weeks, the SVR rates were 97% vs 82%; adverse events were more frequent with ribavirin and no patient had a liver related serious adverse event or death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26575258</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.curry.2015.2618">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Curry</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>O&#x02019;Leary</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Bzowej</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Muir</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Korenblat</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Fenkel</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lawitz</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Sofosbuvir and velpatasvir for HCV in patients with decompensated cirrhosis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>373</volume>
+              <fpage>2618</fpage>
+              <lpage>28</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 267 patients with chronic hepatitis C and decompensated cirrhosis who were treated with sofosbuvir and velpatasvir for 12 or 24 weeks vs the combination with ribavirin for 12 weeks, SVR rates ranged from 83-94%; serious adverse events occurred in 18%, early discontinuation in 3% and death in 3% [4 from sepsis and 2 liver failure]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26569658</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.bourli_re.2017.2134">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bourli&#x000e8;re</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Flamm</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Cooper</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Ramji</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tong</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ravendhran</surname><given-names>N</given-names></name>
+<etal/>
+<collab>POLARIS-1 and POLARIS-4 Investigators</collab>
+</person-group>
+              <article-title>Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2017</year>
+              <volume>376</volume>
+              <fpage>2134</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 708 patients with chronic hepatitis C and previous therapy direct acting antivirals, SVR rates were 98% for sofosbuvir-velpatasvir-voxilaprevir vs 91% with sofosbuvir-velpatasvir alone and adverse events more frequent with triple therapy included headache, diarrhea and nausea; only one patient had an ALT elevation above 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28564569</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.zeuzem.2018.354">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeuzem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Foster</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Asatryan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gane</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Asselah</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Glecaprevir-pibrentasvir for 8 or 12 weeks in HCV genotype 1 or 3 infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2018</year>
+              <volume>378</volume>
+              <fpage>354</fpage>
+              <lpage>69</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1208 patients with chronic hepatitis C without cirrhosis who were treated with glecaprevir and pibrentasvir for 8 or 12 weeks, SVR rates were 99% with 8 weeks of therapy in genotype 1 and 95% with 8 or 12 weeks of therapy in genotype 3 infected patients and there were no ALT elevations above 5 times ULN, no instances of decompensated liver disease or early termination of therapy for hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29365309</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.brown.2020.441">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brown</surname><given-names>RS</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Buti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rodrigues</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chulanov</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Chuang</surname><given-names>WL</given-names></name>
+<name name-style="western"><surname>Aguilar</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Horv&#x000e1;th</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Glecaprevir/pibrentasvir for 8&#x0202f;weeks in treatment-na&#x000ef;ve patients with chronic HCV genotypes 1-6 and compensated cirrhosis: The EXPEDITION-8 trial.</article-title>
+              <source>J Hepatol.</source>
+              <year>2020</year>
+              <volume>72</volume>
+              <fpage>441</fpage>
+              <lpage>449</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 343 patients with chronic hepatitis C and compensated cirrhosis treated with Mavyret for 8 weeks, the overall SVR rate was 98%, and 46% had adverse events, 2% serious, no patient developed hepatic decompensation, and only one had an isolated single elevation of ALT above 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31682879</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="HepatitisCDrugs.REF.nangia.2020.1222">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nangia</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Vierling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kwo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>DD</given-names></name>
+<name name-style="western"><surname>Klopfer</surname><given-names>SO</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Haber</surname><given-names>BA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and tolerability of elbasvir/grazoprevir in chronic hepatitis C virus therapy: Integrated analysis from clinical trials.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2020</year>
+              <volume>27</volume>
+              <fpage>1222</fpage>
+              <lpage>1233</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1743 adults with chronic hepatitis C treated with elbasvir and grazoprevir for 12 weeks in 12 clinical trials, the overall adverse event rate was 61%, considered drug related in 28%, serious in 2.1%, and resulting in early discontinuation in 0.7%; most common were headache [11%], fatigue [9%], nasopharyngitis [6%], nausea [5%], diarrhea [9%] and ALT elevations [5%], which were above 5 times ULN in 1.5%; adverse event rates were similar in cirrhotic and non-cirrhotic subjects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32594612</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

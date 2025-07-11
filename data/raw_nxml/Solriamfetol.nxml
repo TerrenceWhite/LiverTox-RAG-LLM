@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Solriamfetol" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Solriamfetol</book-part-id>
+      <title-group>
+        <title>Solriamfetol</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Solifenacin" document-type="chapter">Solifenacin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Somapacitan" document-type="chapter">Somapacitan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Solriamfetol.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Solriamfetol.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Solriamfetol is dopamine and norepinephrine reuptake inhibitor that is used in the therapy of excessive daytime sleepiness and cataplexy in patients with narcolepsy. Solriamfetol has not been associated with serum enzyme elevations during therapy or to instances of idiosyncratic acute liver injury.</p>
+        </sec>
+        <sec id="Solriamfetol.Background">
+          <title>Background</title>
+          <p>Solriamfetol (sol&#x0201d;ri am&#x02019; fe tol) is an orally available, small molecule dopamine and norepinephrine reuptake inhibitor (DNRI) that is used to treat excessive daytime sleepiness in adults with narcolepsy or obstructive sleep apnea. Dopamine and norepinephrine are major stimulatory neurotransmitters and inhibition of their synaptic reuptake results in higher levels. Dysregulation of dopaminergic and norepinephrine systems plays at least a partial role in wakefulness and sleep. Narcolepsy is associated with a deficiency in orexin, a major mediator of wakefulness. Modulation of dopamine and norepinephrine signaling by solriamfetol increases wakefulness, independent of orexin and has been shown to improve wakefulness and decrease excessive daytime sleepiness in patients with narcolepsy as well as in patients with obstructive sleep apnea who have difficulty with daytime sleepiness. In several randomized, placebo controlled trials, solriamfetol was found to decrease sleepiness and increase wakefulness scores in the majority of treated subjects. Solriamfetol was approved in the United States in 2019 as therapy for excessive daytime sleepiness associated with narcolepsy and obstructive sleep apnea in adults. Solriamfetol is available tablets of 75 and 150 mg under the brand name Sunosi. The recommended initial dose is 75 mg once daily in adults with narcolepsy and 37.5 mg once daily in obstructive sleep apnea with subsequent titration to a maximum of 150 mg daily. Side effects can include headache, nausea, anxiety, irritability, insomnia, dizziness, palpitations, dry mouth and decreased appetite which are frequent during the titration period but often resolve with maintenance therapy. Nevertheless, up to 10% of patients discontinue therapy because of adverse events. Severe adverse events are rare, but solriamfetol can cause increase in blood pressure and heart rate which should be monitored during therapy. Solriamfetol is a Schedule IV controlled agent, indicating that it has the potential for dependence and abuse.</p>
+        </sec>
+        <sec id="Solriamfetol.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In placebo-controlled trials of solriamfetol in patients with narcolepsy, minor serum aminotransferase elevations occurred in a small proportion of patients during therapy, but the rates of enzyme elevations overall were similar to those in placebo recipients. In preregistration trials, there were no instances of clinically apparent liver injury or serum aminotransferase elevations with jaundice attributable to solriamfetol. Since its approval in 2019, there have been no publications describing clinically apparent liver injury due to solriamfetol.</p>
+          <p>Likelihood score: E (unlikely cause of acute liver injury with jaundice).</p>
+        </sec>
+        <sec id="Solriamfetol.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which solriamfetol might cause liver injury is not known. Its hepatic safety is probably due to the fact that it has little metabolism and is excreted largely unchanged (&#x0003e;95%) in the urine. Solriamfetol has minimal drug-drug interactions.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="CNSStimulants" document-type="chapter">CNS Stimulants</related-object></p>
+          <p>Other Drugs for Narcolepsy: <related-object link-type="booklink" source-id="livertox" document-id="Amphetamines" document-type="chapter">Amphetamines</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Modafinil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Armodafinil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Oxybate" document-type="chapter">Oxybate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pitolisant" document-type="chapter">Pitolisant</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Solriamfetol.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Solriamfetol &#x02013; Sunosi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>CNS Drugs</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Solriamfetol">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Solriamfetol.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Solriamfetol.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Solriamfetol.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Solriamfetol.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Solriamfetol.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Solriamfetol.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Solriamfetol.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Solriamfetol</td>
+                <td headers="hd_h_Solriamfetol.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://328083296">178429-62-4</ext-link>
+</td>
+                <td headers="hd_h_Solriamfetol.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H14-N2-O2</td>
+                <td headers="hd_h_Solriamfetol.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="328083296" document-id-type="sid" document-type="summary" object-id="328083296" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Solriamfetol.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 August 2021</p>
+        <p>Abbreviations: DNRI, dopamine and norepinephrine reuptake inhibitor.</p>
+        <ref-list id="Solriamfetol.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Solriamfetol.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of solriamfetol).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211230Orig1Orig2s000RiskR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211230Orig1Orig2s000RiskR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA multidisciplinary scientific review of the solriamfetol</italic>
+<italic toggle="yes">application for safety and efficacy, which reported that the trials of solriamfetol had no fatalities and no treatment related serious hepatic adverse events).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.strollo.2019.364">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Strollo</surname><given-names>PJ</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Hedner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Collop</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Lorch</surname><given-names>DG</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Chen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Carter</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tones 4 Study Investigators. Solriamfetol for the treatment of excessive sleepiness in OSA: a placebo-controlled randomized withdrawal study.</article-title>
+              <source>Chest</source>
+              <year>2019</year>
+              <volume>155</volume>
+              <fpage>364</fpage>
+              <lpage>374</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 174 adults with obstructive sleep apnea and excessive daytime sleepiness treated with a dose titration of solriamfetol followed by randomization to continue therapy or switch to placebo, there was clinical improvement on drug and relapse upon withdrawal, adverse events occurring largely during the titration phase [total rate of 49% decreasing to 10.2% during maintenance]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30471270</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.thorpy.2019.359">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thorpy</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Shapiro</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Corser</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Emsellem</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Plazzi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized study of solriamfetol for excessive sleepiness in narcolepsy.</article-title>
+              <source>Ann Neurol</source>
+              <year>2019</year>
+              <volume>85</volume>
+              <fpage>359</fpage>
+              <lpage>370</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 231 patients with narcolepsy and excessive daytime sleepiness treated with solriamfetol [75, 150 or 300 mg] or placebo daily for 12 weeks, both higher doses were associated with improvements achieved within 1 week of starting and maintained thereafter, and while adverse events were more frequent with solriamfetol [68% vs 46%] as were discontinuations [5% to 8.5% vs 1.7%], &#x0201c;no drug-related effects were found on clinical laboratory assessments&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30694576</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.markham.2019.785">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Solriamfetol: first global approval.</article-title>
+              <source>Drugs</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>785</fpage>
+              <lpage>790</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of solriamfetol shortly after its approval for use in the US, mentions the most common symptoms but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31062265</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.schweitzer.2019.1421">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schweitzer</surname><given-names>PK</given-names></name>
+<name name-style="western"><surname>Rosenberg</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zammit</surname><given-names>GK</given-names></name>
+<name name-style="western"><surname>Gotfried</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Carter</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>TONES 3 Study Investigators. Solriamfetol for excessive sleepiness in obstructive sleep apnea (TONES 3). A randomized controlled trial.</article-title>
+              <source>Am J Respir Crit Care Med</source>
+              <year>2019</year>
+              <volume>199</volume>
+              <fpage>1421</fpage>
+              <lpage>1431</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 459 adults with obstructive sleep apnea and excessive daytime sleepiness treated with solriamfetol [37.5, 75, 150 or 300 mg daily] or placebo for 12 weeks, sleepiness scores decreased and wakefulness scores increased, and while total adverse events were more common with solriamfetol, severe adverse events were rare [0.8% vs 1.7% in controls] and &#x0201c;laboratory evaluations did not indicate effects of clinical relevance related to solriamfetol&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30521757</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Solriamfetol (Sunosi) for excessive daytime sleepiness.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1579</issue>
+              <fpage>132</fpage>
+              <lpage>134</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and cost of solriamfetol for excess sleepiness associated with narcolepsy and obstructive sleep apnea mentions adverse events of headache, nausea, anorexia, dry mouth, anxiety, and insomnia but does not discuss ALT elevations of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31581157</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.malhotra.2020.zsz220">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Malhotra</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Shapiro</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pepin</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Hedner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ahmed</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Foldvary-Schaefer</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Strollo</surname><given-names>PJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term study of the safety and maintenance of efficacy of solriamfetol (JZP-110) in the treatment of excessive sleepiness in participants with narcolepsy or obstructive sleep apnea.</article-title>
+              <source>Sleep</source>
+              <year>2020</year>
+              <volume>43</volume>
+              <elocation-id>zsz220</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(1 year extension study of solriamfetol in 643 patients who completed participation in 12-week placebo controlled trials found that the effects on excessive sleepiness were maintained, and adverse events being headache [11%], nausea [9%], insomnia [8%], dry mouth [7%], anxiety [7%], and anorexia [5%], with 9% discontinuing therapy because of adverse events; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31691827</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.thorpy.2020.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thorpy</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Recently approved and upcoming treatments for narcolepsy.</article-title>
+              <source>CNS Drugs</source>
+              <year>2020</year>
+              <volume>34</volume>
+              <fpage>9</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, pharmacology, drug-drug interactions, clinical efficacy and safety of newly approved medications for narcolepsy including pitolisant and solriamfetol; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31953791</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Solriamfetol.REF.videnovic.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Videnovic</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Amara</surname><given-names>AW</given-names></name>
+<name name-style="western"><surname>Comella</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schweitzer</surname><given-names>PK</given-names></name>
+<name name-style="western"><surname>Emsellem</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sterkel</surname><given-names>AL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Solriamfetol for Excessive Daytime Sleepiness in Parkinson's Disease: Phase 2 Proof-of-Concept Trial.</article-title>
+              <source>Mov Disord</source>
+              <year>2021</year>
+              <month>Jun</month>
+              <day>30</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 66 patients with Parkinson disease and excessive daytime sleepiness treated with 4 one-week courses of solriamfetol [75, 150, or 300 mg] or placebo once daily, &#x0201c;there were minor or no clinically meaningful changes in&#x02026;clinical laboratory findings&#x0201d;).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Solriamfetol.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Solriamfetol+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Solriamfetol: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Solriamfetol">Trials on Solriamfetol: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Moringa" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Moringa</book-part-id>
+      <title-group>
+        <title>Moringa</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Montelukast" document-type="chapter">Montelukast</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Morphine" document-type="chapter">Morphine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Moringa.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Moringa.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Moringa oleifera is a tree native to India, the leaves, seeds, bark, roots, sap, and flowers of which are consumed as a food and used in traditional medicine. Moringa is well tolerated and has not been linked to elevations in serum enzymes during therapy, but has recently been implicated in a case of acute anicteric hepatitis.</p>
+        </sec>
+        <sec id="Moringa.Background">
+          <title>Background</title>
+          <p>Moringa oleifera is a deciduous tree, native to the Indian subcontinent but cultivated worldwide in tropical and subtropical climates. The leaves, seeds, flowers, and roots of moringa are used widely as a source of food as well as in traditional medicine. Also known as the drumstick tree (for its distinctive pods), the horseradish tree (for its aromatic roots), and the Ben nut oil tree (for its seed oils), Moringa oleifera is widely cultivated as a protein- and vitamin-rich food source and for its potential medicinal activities. Studies in cell culture and animal models suggest that extracts of moringa leaf have a multitude of potential beneficial activities, including antioxidant, antidiabetic, antilipidemic, antihypertensive, antiulcer, anticancer, antimicrobial, antiinflammatory, immunomodulatory, and protective activity for the liver, kidney, heart, lung, and testes. Phytochemical analyses of moringa extracts show the presence of polyphenols, phenolic acids, flavonoids, glycolates and alkaloids. The specific components responsible for the purported medicinal activity of moringa have not been definitely shown but candidates mentioned include kaempferol, myricetin, niazirin, flavonoid, and moringin. Extracts of leaves and seeds of moringa have been purported to have activity in improving energy and boosting the immune system as well as being helpful for asthma, growth, obesity, lactation, diabetes, and hyperlipidemia, but none of these activities have been convincingly demonstrated in clinical studies in humans, and moringa is not approved for any medical condition in the United States. Small, short term clinical trials of moringa leaf extracts have suggested that it lowers fasting blood sugar and improves elevated hemoglobulin A1c and serum cholesterol levels. However, the reported effects in these studies were modest and of unclear clinical benefit. Moringa is available as a dietary supplement in multiple forms including capsules, powders, and solutions typically in concentrations ranging from 100 mg to 1 gram, and the recommended daily doses varies accordingly from 500 mg to 5 or 6 grams. In clinical trials, moringa was reported to be well tolerated with no adverse effects and no changes in routine hematologic and chemistry values including liver tests.</p>
+        </sec>
+        <sec id="Moringa.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In small clinical trials, moringa preparations have not been implicated in causing serum enzyme or bilirubin elevations. Furthermore, until recently there have been no published reports of clinically apparent liver injury attributed to moringa extracts. In multiple large registries and case series of drug and dietary supplement induced liver injury, moringa was not listed as an implicated agent until a recent case series from South America reported on a single case attributed to Morinaga oleifera from Brazil. Details of the case were subsequently published and are shown below as Case 1. Moringa is widely used as a food supplement and appears to be well tolerated so that liver injury from its use must be very rare.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="book-part">Herbal and Dietary Supplements</related-object></p>
+          <p>Other names: Arango, Narango, Indian horseradish, Ben nut oil.</p>
+        </sec>
+      </sec>
+      <sec id="Moringa.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Moringa.Case_1_Acute_anicteric_hepatitis">
+          <title>Case 1. Acute anicteric hepatitis attributed to Moringa oleifera.(<xref ref-type="bibr" rid="Moringa.REF.1">1</xref>)</title>
+          <p>A 60 year old woman with dyslipidemia, gastroesophageal reflux, and hypothyroidism developed fatigue and nausea and was found to have elevations in serum aminotransferase levels one month after starting MAX Moringa Oleifera (4 capsules twice daily) to boost her energy. She had no previous history of liver disease or drug allergies, did not drink alcohol, and had no risk factors for viral hepatitis. Her other medications included levothyroxine for hypothyroidism and ezetimibe for hyperlipidemia. She stopped both the ezetimibe and the Moringa capsules. Blood tests showed ALT 380 U/L, AST 258 U/L, and alkaline phosphatase 128 U/L, all of which had been normal when tested a year before (Table). She was not jaundiced and was not hospitalized. Serum enzymes were near normal two months later and she decided to restart the moringa capsules. Within a month, she redeveloped nausea and fatigue and liver tests had worsened. She denied jaundice, dark urine, itching, rash, and fever. Serum bilirubin was normal (0.6 mg/dL) as was the INR (1.0). Tests for acute hepatitis A, B, C, and E were negative as were serologic tests for EBV and CMV infection. Routine autoantibodies including ANA, SMA and AMA were negative. An abdominal ultrasound was normal without evidence for biliary obstruction or organomegaly. She stopped the moringa and liver tests improved and were normal two months later. The herbal product was labeled as containing Moringa oleifera and vitamin C, but concentrations were not provided.</p>
+          <sec id="Moringa.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Moringa.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Moringa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Moringa.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Moringa oleifera</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Moringa.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Moringa.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=5.0 initially; 10.6 with recurrence)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Moringa.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Moringa.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">Mild (anicteric)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Moringa.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Moringa.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Moringa.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Moringa.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Moringa.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Moringa.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Ezetimibe, levothyroxine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Moringa.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Moringa.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Moringa.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Moringa.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Moringa.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Moringa.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">AST<break/>(U/L)</th>
+                    <th id="hd_h_Moringa.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Moringa.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Moringa.Td_1_1_1_7" valign="top" align="left" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Pre &#x02013; 9 months</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1">Routine testing in previous year</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3 hd_h_Moringa.Td_1_1_1_4 hd_h_Moringa.Td_1_1_1_5 hd_h_Moringa.Td_1_1_1_6 hd_h_Moringa.Td_1_1_1_7" valign="middle" colspan="5" align="center" rowspan="1">Started Moringa oleifera and Ezetimibe</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">380</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">258</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">128</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1">Stopped both drugs, R = 5.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">57</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1">Restarted Moringa</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">1080</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">591</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">186</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1">Stopped Moringa, R = 10.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">1 months</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">71</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">98</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">77</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Moringa.Td_1_1_1_1 hd_h_Moringa.Td_1_1_1_2" valign="middle" colspan="2" align="center" scope="row" rowspan="1">
+<bold>Upper Limit of Normal</bold>
+</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>69</bold>
+</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>46</bold>
+</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>126</bold>
+</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>1.3</bold>
+</td>
+                    <td headers="hd_h_Moringa.Td_1_1_1_7" valign="middle" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Moringa.Comment">
+            <title>Comment</title>
+            <p>Middle aged woman developed serum enzyme elevations a month after starting the combination of ezetimibe for hyperlipidemia and Moringa oleifera for boosting energy and restoring well being. She thought that the moringa was having a beneficial effect but stopped both drugs after developing fatigue and having abnormal liver tests. Two months later her liver tests had improved, and against the advice of her physicians, she restarted moringa. The liver injury recurred with symptoms and more significant elevations in ALT and AST but still without jaundice. Other causes for acute liver injury were appropriately excluded and the liver test abnormalities and symptoms improved after stopping moringa for a second time. Moringa is a widely used food and herbal product and has not been implicated previously in causing drug induced liver injury. This case, however, was reasonably convincing with a well documented recurrence on restarting moringa without the ezetimibe and careful exclusion of other common causes of acute hepatocellular injury. The product was not available for chemical testing for contaminants and confirmation of the presence of moringa. In further follow up more than a year later, her liver enzyme levels remained normal.</p>
+            <p>[Additional information on this case was kindly provided by Dr. Vinicius Nunes].</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Moringa.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Moringa oleifera &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+      </sec>
+      <sec id="Moringa.CHEMICAL_FORMULAS_AND_STRUCTURES">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Moringa.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Moringa.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Moringa.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Moringa.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Moringa.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Moringa.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>Moringin</p>
+</td>
+                <td headers="hd_h_Moringa.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135109230">73255-40-0</ext-link>
+</td>
+                <td headers="hd_h_Moringa.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H17-NO5-S</td>
+                <td headers="hd_h_Moringa.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135109230" document-id-type="sid" document-type="summary" object-id="135109230" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Moringa.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>Myricetin</p>
+</td>
+                <td headers="hd_h_Moringa.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134975926">529-44-2</ext-link>
+</td>
+                <td headers="hd_h_Moringa.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H10-O8</td>
+                <td headers="hd_h_Moringa.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134975926" document-id-type="sid" document-type="summary" object-id="134975926" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Moringa.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Moringa.CITED_REFERENCE.reflist0">
+          <ref id="Moringa.REF.1">
+            <label>1</label>
+            <mixed-citation publication-type="other">Secundino C, Nunes V, Gameleira SdSL, Schinoni MI, Parana R. Hepatic injury induced by Moringa oleifera with rechallenge. On J Complement &#x00026; Alt Med. 2022; 7: OJCAM.2022.07.000665. Not in PubMed.</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Moringa.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 July 2024</p>
+        <p>Abbreviations: DILI, drug-induced liver injury; HDS, herbal and dietary supplements.</p>
+        <ref-list id="Moringa.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Moringa.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal and dietary supplements [HDS] are discussed, but not moringa).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.liu.2007">
+            <mixed-citation publication-type="book">Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements published in 2007; no mention of moringa).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.jacobsson.2009.1039">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jacobsson</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>J&#x000f6;nsson</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Gerd&#x000e9;n</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>H&#x000e4;gg</surname>
+<given-names>S</given-names></string-name>. <article-title>Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2009</year>; <volume>18</volume>: <fpage>1039</fpage>-<lpage>47</lpage>.<annotation><p><italic toggle="yes">(Among 778 spontaneous reports of adverse reactions to herbal and alterative medicines to a national Swedish Registry, no cases were attributed to moringa).</italic></p></annotation><pub-id pub-id-type="pmid">19650152</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.teschke.2012.1543">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Teschke</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wolff</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Frenzel</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Schulze</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Eickhoff</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+<source>Liver Int</source>
+<year>2012</year>; <volume>32</volume>: <fpage>1543</fpage>-<lpage>56</lpage>.<annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbal products identified 185 publications on 60 different herbs, herbal drugs, and supplements but does not list or mention moringa).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.navarro.2013.715">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Seeff</surname>
+<given-names>LB</given-names></string-name>. <article-title>Liver injury induced by herbal complementary and alternative medicine.</article-title>
+<source>Clin Liver Dis</source>
+<year>2013</year>; <volume>17</volume>: <fpage>715</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Review of the epidemiology, regulatory status, diagnosis, pathogenesis and causes of liver injury from herbal products with specific discussion of conjugated linoleic acid, ephedra, germander, green tea, usnic acid, flavocoxid, aloe vera, chaparral, greater celandine, black cohosh, comfrey, kava, skullcap, valerian, noni juice, pennyroyal and traditional herbal remedies; no mention of moringa).</italic></p></annotation><pub-id pub-id-type="pmid">24099027</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.navarro.2014.1399">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Grant</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+<source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>1399</fpage>-<lpage>408</lpage>.<annotation><p><italic toggle="yes">(Among 839 cases of liver injury from drugs and dietary supplements collected in the US between 2004 and 2013, 130 were due to HDS products, including 45 from body building agents [probably anabolic steroids] and 85 from diverse HDS products, but no case was attributed specifically to moringa).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.stohs.2015.796">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stohs</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Hartman</surname>
+<given-names>MJ</given-names></string-name>. <article-title>Review of the safety and efficacy of <italic toggle="yes">Moringa oleifera</italic>.</article-title>
+<source>Phytother Res.</source>
+<year>2015</year>;<volume>29</volume>:<fpage>796</fpage>-<lpage>804</lpage>.<annotation><p><italic toggle="yes">(Summary of the phytochemistry and biologic activities of Moringa oleifera describing results of 5 small clinical studies done in humans demonstrating its safety and beneficial effects on fasting blood glucose, HbA1c, and lipid levels).</italic></p></annotation><pub-id pub-id-type="pmid">25808883</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.stohs.2016.681">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stohs</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Kaats</surname>
+<given-names>GR</given-names></string-name>, <string-name name-style="western"><surname>Preuss</surname>
+<given-names>HG</given-names></string-name>. <article-title>Safety and efficacy of Banaba-Moringa oleifera-green coffee bean extracts and vitamin D3 in a sustained release weight management supplement.</article-title>
+<source>Phytother Res.</source>
+<year>2016</year>;<volume>30</volume>:<fpage>681</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 30 adults with type 2 diabetes treated with a proprietary mixture of banaba, moringa, and green coffee bean extracts for 60 days, there were no adverse side effects, no changes in routine blood chemistry results including ALT and AST, and slight increases in fat free mass with similar decreases in fat mass, but no change in body weight or body mineral density suggesting that the product might be beneficial in weight management).</italic></p></annotation><pub-id pub-id-type="pmid">26871553</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.brown.2017.472">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>AC</given-names></string-name>. <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+<source>Food Chem Toxicol</source>
+<year>2017</year>; <volume>107</volume>: <fpage>472</fpage>-<lpage>501</lpage>.<annotation><p><italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products, does not list or discuss moringa).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.medinacaliz.2018.1495">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Cortes</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gonzalez-Jimenez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Cabello</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Robles-Diaz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sanabria-Cabrera</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Sanjuan-Jimenez</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>; <collab>Spanish DILI Registry</collab>. <article-title>Herbal and dietary supplement-induced liver injuries in the Spanish DILI Registry.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2018</year>;<volume>16</volume>:<fpage>1495</fpage>-<lpage>1502</lpage>.<annotation><p><italic toggle="yes">(Among 856 cases of hepatotoxicity enrolled in the Spanish Drug-Induced Liver Injury Registry between 1994 and 2016, 32 were attributed to herbal products, the most frequent cause being green tea [n=8] and Herbalife products [n=6], no mention of moringa).</italic></p></annotation><pub-id pub-id-type="pmid">29307848</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.gambinoshirley.2018.890">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gambino-Shirley</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Tesfai</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Schwensohn</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Burnett</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Smith</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Wagner</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Eikmeier</surname>
+<given-names>D</given-names></string-name>, <etal>et al.</etal>
+<article-title>Multistate outbreak of Salmonella Virchow infections linked to a powdered meal replacement product-United States, 2015-2016.</article-title>
+<source>Clin Infect Dis.</source>
+<year>2018</year>;<volume>67</volume>:<fpage>890</fpage>-<lpage>896</lpage>.<annotation><p><italic toggle="yes">(Epidemiologic investigation of an outbreak of 35 cases of Salmonella Virchow infections in 24 states in the US implicated a contaminated raw food product made from organic powdered moringa leaf extracts imported from South Africa).</italic></p></annotation><pub-id pub-id-type="pmid">29522200</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.alam.2021.21">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Alam</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Quamri</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Haider</surname>
+<given-names>N</given-names></string-name>. <article-title>Efficacy and safety of Barg-e-Sahajna (<italic toggle="yes">Moringa oleifera</italic> Lam.) in primary hypothyroidism.</article-title>
+<source>Drug Metab Pers Ther.</source>
+<year>2021</year>;<volume>37</volume>:<fpage>21</fpage>-<lpage>26</lpage>.<annotation><p><italic toggle="yes">(Among 8 adults with hypothyroidism treated with Moringa oleifera leaves [5 grams twice daily] for 45 days, serum TSH levels decreased into the normal range while T4 and T3 increased, while &#x0201c;no adverse effect was testimonied&#x0201d; and serum levels of ALT and AST did not change).</italic></p></annotation><pub-id pub-id-type="pmid">34449175</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.grosshagauer.2021.751076">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Grosshagauer</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Pirkwieser</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kraemer</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Somoza</surname>
+<given-names>V</given-names></string-name>. <article-title>The future of moringa foods: a food chemistry perspective.</article-title>
+<source>Front Nutr.</source>
+<year>2021</year>;<volume>8</volume>:<elocation-id>751076</elocation-id>.<annotation><p><italic toggle="yes">(A review of the phytochemistry of Moringa oleifera mentions that the high protein and vitamin content of the plant along with ease of cultivation makes it an attractive food source, but the problems of variation in processing and possibility of contamination in heavy metals and mycotoxins make its safety an important reservation).</italic></p></annotation><pub-id pub-id-type="pmid">34796194</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.ballotin.2021.5490">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ballotin</surname>
+<given-names>VR</given-names></string-name>, <string-name name-style="western"><surname>Bigarella</surname>
+<given-names>LG</given-names></string-name>, <string-name name-style="western"><surname>Brand&#x000e3;o</surname>
+<given-names>ABM</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Soldera</surname>
+<given-names>J</given-names></string-name>. <article-title>Herb-induced liver injury: systematic review and meta-analysis.</article-title>
+<source>World J Clin Cases.</source>
+<year>2021</year>;<volume>9</volume>:<fpage>5490</fpage>-<lpage>5513</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the literature on HDS induced liver injury identified 446 references describing 936 cases due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90], Herbalife products [64], kava kava [62], and greater celandine [48]; moringa is not listed or discussed).</italic></p></annotation><pub-id pub-id-type="pmid">34307603</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.secundino.2022">
+            <mixed-citation publication-type="other">Secundino C, Nunes V, Gameleira SdSL, Schinoni MI, Parana R. Hepatic injury induced by Moringa oleifera with rechallenge. On J Complement &#x00026; Alt Med. 2022; 7: OJCAM.2022.07.000665. Not in PubMed.<annotation><p><italic toggle="yes">(60 year old woman with hyperlipidemia developed elevated liver tests one month after starting moringa oleifera and ezetimibe [ALT 380 U/L, Alk P 128 U/L, bilirubin not done] that improved upon stopping and then recurred one month after restarting [ALT 1080 U/L, Alk P 186 U/L, bilirubin 0.6, INR 1.0], which again improved on stopping: Case 1].</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.bessone.2022.e548">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Hernandez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Parana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Mendizabal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schinoni</surname>
+<given-names>MI</given-names></string-name>, <etal>et al.</etal>
+<article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2022</year>;<volume>20</volume>:<fpage>e548</fpage>-<lpage>e563</lpage>.<annotation><p><italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American Drug-Induced Liver Injury Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5] and garcinia [n=3]; one case was attributed to moringa oleifera).</italic></p></annotation><pub-id pub-id-type="pmid">33434654</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.dzuvor.2022.271">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dzuvor</surname>
+<given-names>CKO</given-names></string-name>, <string-name name-style="western"><surname>Pan</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Amanze</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Amuzu</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Asakiya</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Kubi</surname>
+<given-names>F</given-names></string-name>. <article-title>Bioactive components from <italic toggle="yes">Moringa oleifera</italic> seeds: production, functionalities and applications- a critical review.</article-title>
+<source>Crit Rev Biotechnol.</source>
+<year>2022</year>;<volume>42</volume>:<fpage>271</fpage>-<lpage>293</lpage>.<annotation><p><italic toggle="yes">(Review of the biologic activities of moringa extracts focusing upon ingredients found in the seeds and their potential antimicrobial, anticancer, antiproliferative, antihypertensive, antidiabetic, antilipidemic, and cardioprotective characteristics as well as the use of seed oil in nutrition, fertilizer and biodiesel production, wastewater purification, cosmetics, and skin care products).</italic></p></annotation><pub-id pub-id-type="pmid">34151645</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Moringa.REF.azlan.2022.5765">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Azlan</surname>
+<given-names>UK</given-names></string-name>, <string-name name-style="western"><surname>Mediani</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Rohani</surname>
+<given-names>ER</given-names></string-name>, <string-name name-style="western"><surname>Tong</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Misnan</surname>
+<given-names>NM</given-names></string-name>, <string-name name-style="western"><surname>Jam</surname>
+<given-names>FA</given-names></string-name>, <etal>et al.</etal>
+<article-title>A comprehensive review with updated future perspectives on the ethnomedicinal and pharmacological aspects of <italic toggle="yes">Moringa oleifera</italic>.</article-title>
+<source>Molecules.</source>
+<year>2022</year>;<volume>27</volume>:<fpage>5765</fpage>.<annotation><p><italic toggle="yes">(Review of the phytochemistry, biologic activities, and in vitro, in vivo, and human clinical studies of Moringa oleifera extracts).</italic></p></annotation><pub-id pub-id-type="pmid">36144493</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Moringa.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Moringa+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Moringa: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Moringa">Trials on Moringa: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

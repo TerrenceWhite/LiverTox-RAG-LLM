@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Isatuximab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Isatuximab</book-part-id>
+      <title-group>
+        <title>Isatuximab</title>
+        <subtitle>Short Chapter</subtitle>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>5</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Iron" document-type="chapter">Iron</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Isavuconazonium" document-type="chapter">Isavuconazonium</related-object>
+    </book-part-meta>
+    <body>
+      <p><italic toggle="yes">[Preliminary review chapter based on the FDA Product Labeling and Integrated Review</italic>
+<italic toggle="yes">only.]</italic></p>
+      <sec id="Isatuximab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Isatuximab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Isatuximab is a cytolytic monoclonal antibody to CD38 used in the therapy of multiple myeloma in combination with pomalidomide and dexamethasone. The addition of isatuximab to pomalidomide and dexamethasone increases the rate of severe infections and serious adverse events associated with pomalidomide and dexamethasone alone, but does not increase the rate of serum ALT, AST or bilirubin elevations. Since its more widespread clinical use, isatuximab has not been implicated in cases clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Isatuximab.Background">
+          <title>Background</title>
+          <p>Isatuximab (eye&#x0201d; sa tux&#x02019; i mab) is a cytolytic, chimeric monoclonal antibody to CD38, a cell surface antigen expressed on hematopoietic and tumor cells including multiple myeloma cells. Studies in cell culture and animal models demonstrated that isatuximab was cytotoxic to malignant multiple myeloma cells. In clinical trials in patients with advance multiple myeloma refractory to standard therapies, the addition of isatuximab to pomalidomide and dexamethasone increased progression-free survival (11.5 vs 6.5 months). Isatuximab was approved in the United States in 2020 as therapy for adults with progressive multiple myeloma after having received two prior therapies including lenalidomide and a proteasome inhibitor. Subsequently, the indications were expanded to include isatuximab in combination with carfilzomib (a proteasome inhibitor) and dexamethasone in patients with refractory or relapsed multiple myeloma after 3 prior therapies. Isatuximab is available in single dose vials of 100 mg in 5 mL and 500 mg in 25 mL (both 20 mg/mL) for intravenous infusion. The recommended dose is 10 mg per kg body weight once weekly for 4 weeks followed by every 2 weeks in combination with the other antineoplastic agents until disease progression or unacceptable toxicity. Combination isatuximab therapy of multiple myeloma has many adverse events and the serious adverse event rates are higher with the addition of isatuximab to pomalidomide and dexamethasone (85% vs 54%), and are mostly severe infusion reactions or myelosuppression, including neutropenia, anemia, lymphopenia, and thrombocytopenia. Rare but potentially severe adverse events include secondary malignancies, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Isatuximab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum ALT elevations developed in 36% of patients receiving isatuximab based chemotherapy vs 31% with pomalidomide and dexamethasone alone and were above 5 times the upper limit of normal in 4% vs 3%. Bilirubin elevations were also frequent with both arms, 16% vs 12%. But no patient developed what was considered drug induced liver injury, the liver test abnormalities being attributed to comorbidities and the advanced stage of multiple myeloma. Since its approval and more widescale use, there have been no published cases of clinically apparent liver injury attributed to isatuximab therapy, although its total clinical experience with its use has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury although a potential cause of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Isatuximab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Isatuximab is a monoclonal antibody and is metabolized intracellularly by proteases to short polypeptides and amino acids, which are unlikely to have intrinsic toxicity or to induce immunologically mediated injury. Because it causes some degree of immune suppression, isatuximab may be capable of causing reactivation of hepatitis B virus. Cases of reactivation of varicella virus infection have been reported.</p>
+        </sec>
+        <sec id="Isatuximab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for isatuximab does not recommend monitoring of routine liver tests during therapy, but testing patients before starting therapy is appropriate because of the frequency of comorbidities including liver disease in patients with advanced multiple myeloma. Testing for HBsAg and anti-HBc might also be recommended because of the risk of reactivation. Rise in serum aminotransferase levels during therapy should trigger evaluation for other possible causes. Persistence of unexplained ALT levels above 5 times the ULN or appearance of symptoms of liver injury or jaundice should lead to at least temporary discontinuation and more careful monitoring. Pomalidomide is known to be a rare cause of liver injury, and it might be suspected as the culprit in patients receiving it in combination with isatuximab.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Isatuximab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Isatuximab &#x02013; Sarclisa&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Isatuximab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Isatuximab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Isatuximab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Isatuximab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Isatuximab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Isatuximab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Isatuximab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Isatuximab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">isatuximab</td>
+                <td headers="hd_h_Isatuximab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127523">1461640-62-9</ext-link>
+</td>
+                <td headers="hd_h_Isatuximab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Isatuximab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Isatuximab.BIBLIOGRAPHY">
+        <title>BIBLIOGRAPHY</title>
+        <p>References updated: 14 May 2024</p>
+        <p>Abbreviations: ULN, upper limit of normal range.</p>
+        <p><bold><italic toggle="yes">[Short Chapter</italic></bold>
+<italic toggle="yes">information is based largely on FDA Product Labeling and the FDA Integrated Review accessible from the FDA website</italic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm"><italic toggle="yes">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm</italic></ext-link><italic toggle="yes">. All other references have not been fully reviewed and annotated.]</italic></p>
+        <ref-list id="Isatuximab.BIBLIOGRAPHY.reflist0">
+          <ref id="Isatuximab.REF.fda.2020">
+            <mixed-citation publication-type="journal"><collab>FDA</collab>. <source>Integrated Review.</source>
+<year>2020</year>.</mixed-citation>
+          </ref>
+          <ref id="Isatuximab.REF2">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761113Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761113Orig1s000MultidisciplineR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(FDA Integrated review of the data on isatuximab safety and efficacy submitted in support of the application for approval as therapy of multiple myeloma mentions that ALT elevations arose in 36% [4% above 5 times ULN] of patients receiving isatuximab vs 31% [3% above 5 times ULN] with pomalidomide and dexamethasone alone, and there were no serious or fatal liver related adverse events attributable to therapy with isatuximab).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Isatuximab.REF.attal.2019.2096">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Attal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Richardson</surname>
+<given-names>PG</given-names></string-name>, <string-name name-style="western"><surname>Rajkumar</surname>
+<given-names>SV</given-names></string-name>, <string-name name-style="western"><surname>San-Miguel</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Beksac</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Spicka</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Leleu</surname>
+<given-names>X</given-names></string-name>, <etal>et al.</etal>; <collab>ICARIA-MM study group</collab>. <article-title>Isatuximab plus pomalidomide and low-dose dexamethasone versus pomalidomide and low-dose dexamethasone in patients with relapsed and refractory multiple myeloma (ICARIA-MM): a randomised, multicentre, open-label, phase 3 study.</article-title>
+<source>Lancet.</source>
+<year>2019</year>;<volume>394</volume>:<fpage>2096</fpage>-<lpage>2107</lpage>.<pub-id pub-id-type="pmid">31735560</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Isatuximab.REF.delgado.2021.983">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Delgado</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zienowicz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>van Hennik</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Moreau</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gisselbrecht</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Enzmann</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Pignatti</surname>
+<given-names>F</given-names></string-name>. <article-title>EMA review of isatuximab in combination with pomalidomide and dexamethasone for the treatment of adult patients with relapsed and refractory multiple myeloma.</article-title>
+<source>Oncologist.</source>
+<year>2021</year>;<volume>26</volume>:<fpage>983</fpage>-<lpage>987</lpage>.<pub-id pub-id-type="pmid">34213061</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Isatuximab.REF.boissel.2022.1292">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Boissel</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Chevallier</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Doronin</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Griskevicius</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Maschan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>McCloskey</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Rambaldi</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Isatuximab monotherapy in patients with refractory T-acute lymphoblastic leukemia or T-lymphoblastic lymphoma: Phase 2 study.</article-title>
+<source>Cancer Med.</source>
+<year>2022</year>;<volume>11</volume>:<fpage>1292</fpage>-<lpage>1298</lpage>.<pub-id pub-id-type="pmid">35106962</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Isatuximab.REF.goldschmidt.2022.e810">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Goldschmidt</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Mai</surname>
+<given-names>EK</given-names></string-name>, <string-name name-style="western"><surname>Bertsch</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Fenk</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Nievergall</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Tichy</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Besemer</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>; <article-title>German-Speaking Myeloma Multicenter Group (GMMG) HD7 investigators. Addition of isatuximab to lenalidomide, bortezomib, and dexamethasone as induction therapy for newly diagnosed, transplantation-eligible patients with multiple myeloma (GMMG-HD7): part 1 of an open-label, multicentre, randomised, active-controlled, phase 3 trial.</article-title>
+<source>Lancet Haematol.</source>
+<year>2022</year>;<volume>9</volume>(<issue>11</issue>):<fpage>e810</fpage>-<lpage>e821</lpage>.<pub-id pub-id-type="pmid">36328040</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Isatuximab.REF.nadeau_nguyen.2024.198">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nadeau Nguyen</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dores</surname>
+<given-names>GM</given-names></string-name>, <string-name name-style="western"><surname>Nayernama</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jones</surname>
+<given-names>SC</given-names></string-name>. <article-title>Varicella zoster virus reactivation reported with isatuximab use.</article-title>
+<source>J Chemother.</source>
+<year>2024</year>;<volume>36</volume>:<fpage>198</fpage>-<lpage>201</lpage>.<pub-id pub-id-type="pmid">37800850</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Isatuximab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Isatuximab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Isatuximab: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Isatuximab">Trials on Isatuximab: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

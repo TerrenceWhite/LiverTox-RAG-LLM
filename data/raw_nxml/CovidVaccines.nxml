@@ -1,0 +1,2157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CovidVaccines" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CovidVaccines</book-part-id>
+      <title-group>
+        <title>Covid-19 Vaccines</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>10</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CovidMonoclonals" document-type="chapter">Covid-19 Monoclonal Antibodies: <underline>Monoclonal Antibodies to SARS-CoV-2</underline></related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cranberry" document-type="chapter">Cranberry</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CovidVaccines.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="CovidVaccines.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>The Severe Acute Respiratory Syndrome Coronavirus type 2 (SARS-CoV-2) is the cause of the pandemic of coronavirus disease (COVID-19) that was first detected in December 2019 in Wuhan, China and subsequently spread globally. By March 2020, COVID-19 was declared a global pandemic and within a year it accounted for more than 100 million cases and 2 million deaths. Also, within a year of its detection, vaccines against SARS-CoV-2 were developed using several methodologies including mRNA-, adenoviral vector- and recombinant DNA-technology. Several of these vaccines have been evaluated in large, placebo-controlled trials and found to be both safe and effective. Adverse events have been mild-to-moderate local reactions and transient systemic symptoms such as fatigue, nausea and headache. After their release and widespread use, however, individual case reports and small case series of serious adverse events began to appear including thrombotic thrombocytopenia, that sometimes involved portal or hepatic vein thromboses and some degree of liver dysfunction, as well as acute liver injury, that often resembled autoimmune hepatitis. Both of these syndromes are rare and it is not clear whether they are coincidental with or a result of the recent COVID-19 vaccination.</p>
+        </sec>
+        <sec id="CovidVaccines.Background">
+          <title>Background</title>
+          <p>In December 2019, a cluster of cases of severe pneumonia of unknown cause was reported from Wuhan, China that was rapidly shown to be due to a novel coronavirus &#x02013; the Severe Acute Respiratory Syndrome Corona Virus type 2 (SARS-CoV-2), a virus distantly related to the SARS-CoV [1] agent that caused an epidemic of severe viral pneumonia in 2003 and the Middle East Respiratory Syndrome coronavirus (MERS-CoV) that caused an epidemic of acute respiratory illness in the Middle East in 2012. The SARS-CoV-2 agent proved to be highly contagious, rapidly spreading worldwide, causing outbreaks of severe respiratory illness (COVID-19) and being labelled a pandemic within 4 months of its identification. COVID-19 infection appeared to be symptomatic in over 50% of persons, lead to acute hospitalization in 5% to 10%, and death from respiratory and multiorgan failure in 2%. Major efforts were made to quickly develop means for its control, treatment and prevention, including most importantly, vaccines against COVID-19.</p>
+          <p>Three major approaches to vaccine development were rapidly successful: mRNA-, adenovirus vector-, and recombinant DNA-based technologies. All have been found to be effective in preventing infection but particularly in preventing severe illness, breakthrough infections usually being asymptomatic or mild-to-moderate in severity. The first two vaccines approved for use in the United States under an Emergency Use Authorization (EUA) were mRNA vaccines &#x02013; BNT162b2 (Pfizer-BioNTech) and mRNA-1273 (Moderna). Following that, two highly effective adenovirus-based vaccines received emergency use authorization approval in Europe &#x02013; ChAdOx1.nCoV-19 (Oxford-Astra Zeneca) and the United States &#x02013; Ad26.COV2.S (Janssen-Johnson &#x00026; Johnson). A recombinant DNA produced protein vaccine has also been developed and is under clinical evaluation (NVX-CoV2373: Novavax). Furthermore, adenovirus vectored vaccines with reported efficacy have also been developed in Russia (Gam-COVID-Vac, Sputnik-V: ) and China (Ad5 vectored COVID-19 vaccine) where conventional, inactivated viral vaccines have also been produced. COVID-19 vaccines are given by intramuscular injection, and an initial inoculation followed by a second dose 3 to 4 weeks later are recommended for most currently used (see Table below). Booster doses given 6 months after the initial course of two doses are also now being recommended in selected populations. For the Johnson &#x00026; Johnson COVID-19 vaccine, a booster dose may be given 2 months after the initial single dose to individuals 18 years of age and older.</p>
+          <p>The COVID-19 vaccines have been found to be generally safe. Common adverse events are mild-to-moderate in severity and self-limiting in course. Immediate local reactions of pain, redness and swelling are most frequent, occurring in 70% to 80% of vaccinees. Mild-to-moderate systemic reactions after 1 to 3 days are also common, occurring in 20% to 40% of vaccinees, and include fatigue, myalgias, headache, nausea and mental fogginess. In contrast, severe immediate, hypersensitivity reactions are rare, but can occur, for which reason a 15 minute period of observation is required after administration of vaccine to allow for prompt treatment of anaphylactic reactions.</p>
+          <p>Subsequent to the approval, release and widescale use of COVID-19 vaccines, reports of rare but severe adverse events began to appear in individual case reports and small case series. Because these reactions were rare, occurring in 1:100,000 to 1:1,000,000 vaccinated persons and were known to occur spontaneously at low rates, it was difficult to demonstrate that these events were caused or induced by the COVID-19 vaccination rather than arising by chance. Most of the evidence for causality related to the temporal onset of the complication and plausible explanations for the association. Thus, instances of myocarditis, pericarditis, Guillain-Barr&#x000e9; syndrome, Bell&#x02019;s palsy, immune thrombocytopenic purpura, toxic epidermal necrolysis and other syndromes (some associated with minor serum aminotransferase elevations) have been reported arising within days or weeks after vaccination. Yet, in the large controlled trials of the vaccines, these syndromes were not found or they occurred at similar rates with placebo inoculations. In addition, many of these syndromes were found to occur after natural COVID-19 infection, usually at increased rates. Two such syndromes have had clinically apparent hepatic manifestations: (<xref ref-type="bibr" rid="CovidVaccines.REF.1">1</xref>) vaccine induced thrombotic thrombocytopenia, and (2) vaccine induced autoimmune hepatitis-like injury.</p>
+          <p>Rare instances of vaccine induced thrombotic thrombocytopenia (VITT) have been described after receipt of COVID-19 vaccines, particularly the adenovirus-based formulations. VITT is characterized by thrombotic episodes in unusual sites (such as the cerebral and splanchnic venous systems) arising 3 to 16 days after an initial dose of vaccine. The syndrome is marked by evidence of platelet activation, antibodies to platelet factor 4 (PF4)-polyanion complexes, and thrombocytopenia &#x02013; features that are similar to heparin induced thrombotic thrombocytopenia but in the absence of heparin. VITT can be severe and potentially fatal. The frequency of this reaction is estimated to be approximately 1 per million exposures, most commonly in women below the age of 50 years (~7 per million exposures). Instances of severe portal, splenic and mesenteric vein thromboses due to VITT can be accompanied by evidence of mild-to-moderate hepatic injury and dysfunction, typically with serum aminotransferase and alkaline phosphatase elevations without jaundice. The cause of this complication is unknown but may involve induction of platelet activating antibodies due to cross reactivity with antibodies induced by the adenoviral vector or by the modified SARS-CoV-2 spike protein. Importantly, this syndrome appears to respond favorably to intravenous immune globulin (IVIG) infusions and anticoagulation with direct factor IX inhibitors and avoidance of heparin.</p>
+          <p>The second serious hepatic adverse event that has been linked to COVID-19 vaccination is the appearance of acute liver injury typically with autoimmune features shortly after receipt of a first dose of COVID-19 vaccine. The frequency of this syndrome is not well defined but probably averages no more than 1 per million vaccinees. It was reported initially with mRNA-based COVID-19 vaccines, but subsequently with adenovirus vector-formulations as well. The latency to onset is typically short, in some cases jaundice and symptoms arising within a few days of vaccination. The clinical features often resemble autoimmune hepatitis with marked elevations in serum aminotransferase levels, minimal increases in alkaline phosphatase values and presence of high titers of autoantibodies and elevated immunoglobulin G (IgG) levels (Case 1). Also typical is a protracted course of illness with prompt response to corticosteroid therapy. The long term consequences of this syndrome are unclear as most patients were still receiving immunosuppressive agents at the time of the case reports. Somewhat similar rare instances of autoimmune hepatitis have been reported after other viral vaccines, including against influenza A, and hepatitis A and B. Whether these cases represent vaccine induced or spontaneous autoimmune hepatitis arising in susceptible persons who just happened to receive a vaccine remains unclear. It is also unknown whether this syndrome is self-limited in course, as is typical of most cases of drug induced liver injury with autoimmune features, as opposed to a persistent, long lasting liver injury as is typical of spontaneous autoimmune hepatitis.</p>
+          <p>The safety and efficacy of the COVID-19 vaccines in pediatric populations are now under evaluation, but both safety and efficacy appear to be similar in adolescents and children as in adults and COVID-19 vaccines for use in younger cohorts are now being approved. Finally, the long term efficacy of currently available vaccines is only partially known, as is the need for future booster injections, particularly using modifications of current vaccine formulations to broaden their efficacy against new, potentially more infectious, virulent and resistant strains of SARS-CoV-2.</p>
+        </sec>
+        <sec id="CovidVaccines.BNT162b2_Tozinameran_Pfize">
+          <title>BNT162b2, Tozinameran (Pfizer, BioNTech)</title>
+          <p>BNT162b2, which has been given the generic name tozinameran and brand name Comirnaty, is a nucleoside-modified mRNA vaccine that encodes the spike protein of SARS-CoV-2, modified in amino acid sequence to keep it in a stable, pre-fusion configuration which is most likely to induce neutralizing antibody. The vaccine was produced rapidly after publication of the SARS-CoV-2 sequence using already established techniques including encapsulation of the mRNA in lipid nanoparticles that protect the mRNA from degradation by plasma RNAse and allow for its rapid uptake into host cells. Two doses of the vaccine (30 &#x000b5;g in 0.3 mL) are recommended, 3 weeks apart. The vaccine requires storage at ultra-low temperatures (-60<sup>o</sup> to -80<sup>o</sup> C) and, after thawing, no more than 30 days in temporary storage at 2<sup>o</sup> to 8<sup>o</sup> C and thus requires a rigorous cold temperature chain for distribution. In pilot studies, the vaccine was found to be safe and immunogenic. In a large, multinational registration trial in more than 80,000 adults, the vaccine was 57% effective after the initial dose and 95% effective 7 days after the second dose in preventing clinically apparent COVID-19. Studies of large cohorts of adults given the vaccine after its approval demonstrated a similar level of efficacy (greater than 90%) in clinical practice, with similar efficacy rates in all categories of subjects (by age group, gender, race and ethnicity), although slightly lower in patients with multiple comorbidities and immunosuppressed individuals. In studies of cohorts over time, titers of antibody to COVID-19 spike protein were found to decrease, and instances of breakthrough infections were increasingly described. The waning of antibody after vaccination has led to recommendations for booster inoculations 6 months after the two primary inoculations.</p>
+          <p>Importantly, the BNT162b2 mRNA vaccine was also found to be safe. Mild-to-moderate local reactions (pain, redness, swelling) arise in 70% to 80% of patients and are more frequent in younger subjects and with the second injection. Severe hypersensitivity reactions occurred but were rare (~1 per million recipients), usually arising within 15 minutes of the injection and often in persons with a history of anaphylactic reactions to vaccines. Systemic reactions arising 1 to 3 days after vaccination are also frequent but generally mild-to-moderate in severity and transient in course, occurring in 59% to 70% of persons receiving vaccine vs 34% to 47% receiving placebo. Severe adverse events are rare and most occurrences were judged to be unrelated to the vaccine. There were no deaths attributed to the vaccine and no severe hepatic reactions in the preregistration trials. Since FDA&#x02019;s emergency use authorization (EUA) of BNT162b2 in December 2020 and approval in August 2021, however, there have been rare reports of hepatic injury arising within days or weeks of receipt of the vaccine. The liver injury is typically hepatocellular and accompanied by high titers of autoantibodies (such as antinuclear antibody or smooth muscle antibody) and elevations in serum immunoglobulin G (IgG) levels and responding rapidly to corticosteroid therapy, as occurs in spontaneous autoimmune hepatitis (Case 1). This syndrome is rare and it is still unclear whether it is due to COVID-19 vaccine or is a coincidental, chance association with spontaneously occurring autoimmune condition due to the frequency of vaccination during the COVID-19 pandemic.</p>
+          <p>Likelihood score: C (probable, rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="CovidVaccines.mRNA1273_Moderna">
+          <title>mRNA-1273 (Moderna)</title>
+          <p>The Moderna COVID-19 vaccine, known as mRNA-1273, is a nucleoside-modified mRNA vaccine that encodes the spike protein of SARS-CoV-2, modified in amino acid sequence to keep it in a stable, pre-fusion configuration most likely to induce neutralizing antibody. The vaccine was produced rapidly after publication of the SARS-CoV-2 sequence using already established techniques including encapsulation of the mRNA of the SARS-CoV-2 spike protein in lipid nanoparticles that protect the mRNA and allow for its rapid uptake into host cells. Two doses of the vaccine (100 &#x000b5;g in 0.5 mL) are recommended, 4 weeks apart. The vaccine requires storage at low temperatures (between -50&#x000b0;C and -15&#x000b0;C), but is stable for up to 30 days after thawing if kept at 2<sup>o</sup> to 8<sup>o</sup> C and thus requires a minimally demanding cold chain for distribution. In pilot studies, the vaccine was found to be safe and immunogenic. In a large multinational registration trial in more than 30,000 adults, the vaccine was found to be 94% effective 14 days after the second dose in preventing clinically apparent COVID-19. Studies of large cohorts of adults given the vaccine after its approval and widescale use demonstrated similar level of efficacy (92% to 95%) in clinical practice, with similar efficacy rates across categories of patients (by age group, gender, race, and ethnicity). In study of cohorts over time, antibody titers to the COVID-19 spike protein were found to decrease and booster inoculations 6 months after the primary vaccination (perhaps with half of the initial dose) are now recommended.</p>
+          <p>The mRNA-1273 COVID-19 vaccine was also shown to be safe. Mild-to-moderate local reactions (pain, redness, swelling) arise in 84% to 89% of patients, being more frequent in younger subjects and with the second injection. Severe hypersensitivity reactions occur but are rare (~2.5 per million), usually arising within 15 minutes of the injection and most frequently in persons with a history of anaphylactic reactions to vaccines. Systemic reactions arising 1 to 3 days after vaccination are also frequent but generally mild-to-moderate in severity, occurring in 55% to 79% of persons. In contrast, severe adverse events are rare and most occurrences were judged to be unrelated to the vaccine. There were no deaths attributed to the vaccine and no severe hepatic reactions reported in the large, initial randomized controlled trials. Since the emergency use authorization of mRNA-1273 in December 2020, however, several reports of an autoimmune-like acute hepatitis have been reported arising within days or weeks of the mRNA-1273 vaccine. The liver injury is typically hepatocellular and accompanied by high titers of autoantibodies (such as antinuclear antibody and smooth muscle antibody) and elevations in serum immunoglobulin G (IgG) levels, and responds rapidly to corticosteroid therapy as occurs in spontaneous autoimmune hepatitis. This syndrome is rare and it is still unclear whether it is due to the mRNA-1623 vaccine or is a coincidental, chance association with this spontaneously occurring autoimmune condition due to the frequency of vaccination during the COVID-19 pandemic.</p>
+          <p>Likelihood score: C (probable, very rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="CovidVaccines.ChAdOx1_nCoV19_AZD1222_Oxf">
+          <title>ChAdOx1 nCoV-19, AZD1222 (Oxford, AstraZeneca)</title>
+          <p>ChAdOx1 nCoV-19 vaccine, also known as AZD1222 and now known as Vaxzevria, was developed at Oxford University and licensed to AstraZeneca for production, clinical evaluation and distribution. AZD1222 is an adenovirus vector based vaccine against SARS-CoV-2 infection that has been licensed for use in Europe and Asia and is awaiting U.S. approval. The ChAdOx1 nCoV-19 vaccine employs an infectious but nonreplicating adenovirus to deliver the RNA that encodes the SARS-CoV-2 spike protein in infected cells. This vaccine was rapidly produced soon after publication of the SARS-CoV-2 sequence using already established techniques that were used to develop vaccines for Ebola virus infection. The vaccine is given in two injections of 2.5 x 10<sup>8</sup> infectious chimpanzee adenoviruses in 0.5 mL 4 to 12 weeks apart. This form of COVID-19 vaccine can be stored at modestly cold temperatures (2<sup>o</sup> to 8<sup>o</sup> C) for 6 months. For this reason, ChAdOx1 nCoV-19 vaccine promises to be particularly helpful in medical resource limited areas of the world. Pilot studies demonstrated that the ChAdOx1 nCoV-19 vaccine was safe and effectively induced neutralizing antibody in almost all patients after a single inoculation. In large multinational trials it was found to be 67% effective after two doses in preventing clinically apparent COVID-19 and 87% effective in preventing severe COVID-19 illness. The vaccine was also shown to be safe, although mild-to-moderate local reactions (pain, redness, swelling) arose in 64% of patients, and were more frequent in younger subjects and with the second injection. Severe hypersensitivity reactions occurred but were rare (~1 per million recipients), usually arising within 15 minutes of the injection and often in persons with a history of anaphylactic reactions to vaccines. Systemic reactions arising 1 to 3 days after vaccination were also frequent but generally mild-to-moderate in severity occurring in 22% to 54% of persons. However, severe adverse events were rare and most were judged to be unrelated to the vaccine. In these studies there were no hepatic serious adverse reactions and no deaths attributed to vaccine.</p>
+          <p>After approval in Europe, however, instances of a severe syndrome of thromboses in unusual sites (cerebral and splanchnic venous system) were reported. The thromboses were accompanied by evidence of activation of platelets, production of antibodies to platelet factor 4 (PF4)-polyanionic complexes and thrombocytopenia, a syndrome similar to heparin induced thrombotic thrombocytopenia, but in the absence of heparin. More than 200 cases of this syndrome have been reported with an estimated frequency is 1 per 100,000 adult recipients, largely among women below the age of 55 among whom the rate is as high as 9 per 100,000 recipients. Referred to as vaccine induced thrombotic thrombocytopenia (VITT), this syndrome has also been encountered after the Ad26.COV2.S vaccine (Janssen, Johnson &#x00026; Johnson) which was described shortly after its emergency use authorization in the United States. The cause of VITT appears to be the induction of platelet activating antibodies due to production of adenoviral protein-PF4 adducts or molecular mimicry between adenoviral proteins or modified SARS-Co-2 spoke protein and PF4. The thromboses can occur in deep veins in the extremities and in the lungs, sites of typical venous thromboses, but have also been described in unusual sites such as the cerebral venous sinus and splanchnic-portal system. Instances of portal and hepatic vein thromboses have been reported that can be associated with liver test abnormalities and hepatic dysfunction. However, most deaths from VITT have been attributed to intracerebral hemorrhage rather than liver disease or gastrointestinal bleeding. The syndrome appears to respond to therapy with intravenous immune globulin (IVIG), corticosteroids and oral anticoagulants such as the direct factor Xa inhibitors, apixaban or rivaroxaban. Treatment with heparins and coumadin are contraindicated as they appear to exacerbate the problem. Details of the frequency, natural history, specific pathogenesis and management are still under intense study.</p>
+          <p>Similar to the mRNA vaccines, ChAdOx1 has now been associated with rare instances of clinically apparent liver injury arising within days or weeks of the initial or second vaccine injection. The liver injury is typically hepatocellular and accompanied by autoimmune features such as high titers of autoantibodies (such as antinuclear antibody and smooth muscle antibody) and elevations in serum immunoglobulin G (IgG) levels. The liver injury can be protracted but usually responds rapidly to corticosteroid therapy as occurs in spontaneous autoimmune hepatitis. This syndrome is rare and it is still unclear whether it is due to the ChAdOx1 vaccine or is a coincidental, chance association with this spontaneously occurring autoimmune condition due to the frequency of vaccination during the COVID-19 pandemic.</p>
+          <p>Likelihood score: C (probable but rare cause of clinically apparent liver injury resembling autoimmune hepatitis or injury resulting from portal vein thrombosis).</p>
+        </sec>
+        <sec id="CovidVaccines.Ad26_COV2_S_JNJ78436735_Ja">
+          <title>Ad26.COV2.S, JNJ-78436735 (Janssen, Johnson &#x00026; Johnson)</title>
+          <p>The Johnson &#x00026; Johnson COVID-19 vaccine, Ad26.COV2.S, also known as JNJ-78436735, is an adenovirus vector based vaccine against SARS-CoV-2 infection that has been Emergency Use Authorization in the United States on February 27, 2021. The Ad26.COV2.S vaccine employs an infectious but nonreplicating adenovirus to deliver mRNA that encodes the SARS-CoV-2 spike protein to infected cells. This vaccine was rapidly produced soon after publication of the SARS-CoV-2 sequence using already established techniques that were used to develop vaccines for Ebola virus infection. This form of COVID-19 vaccine requires only a single injection and can be kept at modestly cold temperatures of 2<sup>o</sup> to 8<sup>o</sup> C for up to 3 months. For this reason, the Ad26.COV2.S vaccine promises to be particularly helpful in medical resource limited areas of the world. Pilot studies demonstrated that the Ad26.COV2.S vaccine was safe and effectively induced neutralizing antibody in a high proportion of patients after a single inoculation. In large multinational studies the vaccine was found to be to be 66% effective 7 days after a single dose in preventing clinically apparent COVID-19 and was 85% effective in preventing severe COVID-19 illness. In follow-up studies of vaccinated cohorts, however, the titers of antibodies to the SARS-CoV-2 spike protein have been found to decrease over time, which appears to underlie the occurrence of breakthrough infections after vaccination. For this reason, booster inoculations (using any of the approved COVID-19 vaccines) are now recommended for recipients of the Ad26.COV2.S vaccine, at least for individuals in high risk groups.</p>
+          <p>The Ad26.COV2.S vaccine has been shown to be safe. Mild-to-moderate local reactions (pain, redness, swelling) arose in approximately 50% of patients, being more frequent in younger subjects and with the second injection. Severe hypersensitivity reactions occurred but were rare (~1 per million), usually arising within 15 minutes of the injection and often in persons with a history of anaphylactic reactions to vaccines. Systemic reactions arising 1 to 3 days after vaccination were also frequent but generally mild-to-moderate in severity occurring in 30% to 60% of persons. However, severe adverse events were rare and most were judged to be unrelated to the vaccine, although analysis found an excessive of thromboembolic effects in those receiving vaccine, including two cases in young individuals, one with transverse sinus thrombosis.</p>
+          <p>After approval in the United States in February 2021, however, instances of a severe thrombotic events occurring in unusual sites (cerebral and splanchnic venous system) were reported. The thromboses were accompanied by evidence of activation of platelets, production of antibodies to platelet factor 4 (PF4)-polyanionic complexes and thrombocytopenia, a syndrome similar to heparin induced thrombotic thrombocytopenia, but in the absence of heparin. While venous thromboses were most frequent, arterial thromboses were also reported. The syndrome was often severe and multiple fatalities were reported. Referred to as vaccine induced thrombotic thrombocytopenia (VITT), this syndrome has also been encountered after the ChAdOx1 nCoV-19 (AZD1222) vaccine, with more than 200 cases reported from Europe among approximately 20,000,000 recipients of the vaccine. The incidence of clinically apparent VITT appears to be similar after the Johnson &#x00026; Johnson Ad26.COV2.S vaccine having been reported in 12 patients among approximately 7 million vaccinees, with the rate in women below the age of 55 being approximately 1 per 100,000. The cause of VITT appears to be the induction of platelet activating antibodies due to molecular mimicry between adenoviral proteins and PF4 or production of adducts of adenoviral DNA or proteins and PF4. The syndrome appears to respond to therapy with intravenous immune globulin (IVIG), corticosteroids and oral anticoagulants such as the direct factor Xa inhibitors, apixaban and rivaroxaban. Treatment with heparin and coumadin are contraindicated as they appear to exacerbate the problem. Details of the frequency, natural history, specific pathogenesis and management are still under intense study.</p>
+          <p>Thus, Ad26.COV2.S vaccination has not been associated directly with liver test abnormalities or hepatotoxicity or induction of autoimmune hepatitis, but may lead to the rare complication of vaccine induced thrombotic thrombocytopenia which can be associated with portal vein thromboses and liver dysfunction.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury usually due to portal vein thrombosis).</p>
+        </sec>
+        <sec id="CovidVaccines.NVXCoV2373_Novavax">
+          <title>NVX-CoV2373 (Novavax)</title>
+          <p>NVX-CoV2373, also known as Covovax, is a protein subunit vaccine containing recombinant modified SARS-CoV-2 spike glycoprotein in a saponin based matrix adjuvant. The viral vaccine was produced by Novavax using standard recombinant techniques in baculovirus using the viral genome sequence published from China. In pilot studies, NVX-CoV2373 was immunogenic and safe with only mild-to-moderate local and transient systemic adverse reactions. In a large randomized, placebo-controlled trial, the Novavax COVID-19 vaccine was found to be 90% effective in preventing clinically apparent SARS-CoV-2 disease, and adverse event rates were similar to those reported for other COVID-19 vaccines. Thus, overall adverse event rates were higher among NVX-CoV2373 than placebo recipients, but serious adverse event rates were similar and less than 1%. Importantly, the vaccine is stable at temperatures of 2<sup>o</sup> to 8<sup>o</sup> C for several months and would be valuable for distribution in resource limited countries of the world. The Novavax COVID-19 vaccine has yet to receive approval in the United States. There have been no reports of hepatic adverse events attributed to NVX-CoV2373, although the total clinical experience with the vaccine is limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="CovidVaccines.GamCOVIDVac_SputnikV_Gamal">
+          <title>Gam-COVID-Vac, Sputnik-V (Gamaleya National Center, Russia)</title>
+          <p>Gam-COVID-Vac or Sputnik-V is a heterologous adenoviral vector based vaccine against SARS-CoV-2 infection that uses two different adenoviruses (rAd26-S and rAd5-S), both being infectious but nonreplicating human adenoviruses that deliver the RNA that encodes the SARS-CoV-2 spike protein to infected cells. The initial vaccine dose uses the rAd26-S vector and the second the rAd5-S vector, thereby avoiding possible neutralization by antibody responses to the initial adenovirus vector injection. This vaccine was developed at the Gamaleya National Center of Epidemiology and Microbiology in Moscow soon after publication of the SARS-CoV-2 sequence using already established techniques that were used to develop vaccines for Ebola virus infection. In pilot studies, the vaccine was shown to be safe and immunogenic. In a large multicenter trial in 21,977 adults, the Sputnik-V vaccine was found to be 92% effective from the time of the second dose in preventing clinically apparent COVID-19 and 100% effective in preventing severe cases. The vaccine was also safe, although mild-to-moderate local reactions (pain, redness, swelling) arose in 70% to 80% of patients. Systemic reactions such as fever, headache and fatigue arising 1 to 3 days after vaccination were also frequent but generally mild-to-moderate in severity occurring in 30% to 50% of persons. However, severe adverse events were rare and were no more frequent in vaccine vs placebo recipients. There were no deaths attributed to the vaccine and no severe hepatic reactions. Since approval of Sputnik-V in Russia and distribution elsewhere in the world, there have been no reports of severe adverse events or hepatotoxicity associated with its use. While Sputnik-V is an adenoviral vector based vaccine like the AstraZeneca ChAdOx1 nCOV-19 and the Johnson and Johnson Ad26.COV2.S COVID-19 vaccines, it has not been linked to cases of thrombotic thrombocytopenia that has been reported with the other adenoviral vector based COVID vaccines. Thus, liver injury from the Sputnik-V must be rare if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="CovidVaccines.Sinopharm_COVID19_Vaccine">
+          <title>Sinopharm COVID-19 Vaccine (Sinopharm, Beijing) and Corona Vac (Sinovac)</title>
+          <p>At least 5 different COVID-19 vaccines have been developed and approved for use in China including adenovirus vector based vaccines as well as conventional inactivated viral vaccines. For most there is little published on their efficacy and safety. Two of these vaccines (one from Sinopharm and another from Sinovac) have been approved by the World Health Organization as a part of their worldwide COVID-19 vaccination global initiative called COVAX. Central to the Chinese plan to vaccinate the majority of its citizens by 2022 are the Sinopharm, Beijing, and Sinovac Corona Vac vaccines, both of which are conventional inactivated viral vaccines. Results of clinical trials of their safety and efficacy from different areas of the world have claimed efficacy rates ranging from 50% to 91% in preventing symptomatic COVID-19 after two doses. These vaccines are also being used in multiple other countries including Indonesia, Pakistan, Russia, Turkey, Egypt, Jordan, the United Arab Emirates, Morocco, Brazil, Chile, Argentina, Peru and Mexico. The spectrum and frequency of adverse events following the Sinopharm and Sinovac COVID-19 vaccines have not been published, but the means of production would suggest that these vaccines are relatively safe and unlikely to cause liver injury.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="CovidVaccines.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism(s) by which COVID-19 vaccines might cause serum enzyme elevations or clinically apparent liver injury is not known. The breakdown of mRNA and recombinant proteins occurs intracellularly and results in the release of polypeptides, amino acids and nucleic acids none of which should cause hepatic injury. In cases of vaccine induced thrombotic thrombocytopenia, portal and hepatic vein thromboses might induce some degree of hepatic dysfunction, but the thromboses and bleeding elsewhere are likely to overshadow any liver injury. The autoimmune hepatitis that has been described after COVID-19 vaccination has been linked to both mRNA and adenovirus based vaccines. It is unclear whether the autoimmune hepatitis is triggered by the vaccine or is a coincidental occurrence.</p>
+        </sec>
+        <sec id="CovidVaccines.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients who receive COVID-19 vaccines should be encouraged to report any new major symptoms or signs that arise within a month after vaccination. Patients who receive adenoviral vectored vaccines should be informed of the possibility of thrombotic events arising 5 to 16 days after administration (usually with the first dose) and investigated rapidly for the possibility of thrombotic thrombocytopenia.</p>
+        </sec>
+      </sec>
+      <sec id="CovidVaccines.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="CovidVaccines.Case_1_Acute_liver_injury">
+          <title>Case 1. Acute liver injury after COVID-19 vaccination.(<xref ref-type="bibr" rid="CovidVaccines.REF.1">1</xref>)</title>
+          <p>A 35 year old woman developed an acute hepatitis with autoimmune features 1 to 2 weeks after receiving a first dose of the Pfizer BNT162b2 COVID-19 vaccine. She was in general good health and was 3 months postpartum. Approximately one week after receiving the COVID-19 vaccine, she developed pruritus followed by dark urine and then jaundice. She had no history of liver disease and her only medications were labetalol which had been started for gestation hypertension and was continued after delivery. She denied taking other medications including over-the-counter agents and herbal supplements. When seen in an emergency room approximately 13 days after vaccination, she was jaundiced and had mild hepatomegaly. Laboratory testing showed a total bilirubin of 4.8 mg/dL, ALT 2001 U/L, AST 754 U/L, and alkaline phosphatase 170 U/L. Tests for hepatitis A, B and C were negative as were tests for EBV, CMV, HSV1 and 2, and HIV infection. The ANA was strongly positive (1:1280) as were antibodies to double stranded DNA, while SMA, anti-LKM, ANCA and AMA were negative. Abdominal ultrasound was unremarkable, and endoscopic ultrasound showed no evidence of gallstones or biliary obstruction. A liver biopsy showed changes suggestive of autoimmune hepatitis with portal and lobular inflammation, focal necrosis, rosette formation, and marked interface hepatitis with lymphocytes, plasma cells and eosinophils. There was scant fibrosis and no evidence of cirrhosis.</p>
+          <p>Over the first few hospital days, serum bilirubin remained elevated and aminotransferase levels fluctuated, decreasing minimally (Table). Because of the autoantibodies and liver histology suggestive of an autoimmunity, prednisone [20 mg daily] was started. There was prompt improvement and when she was seen as an outpatient several weeks later, she was asymptomatic and liver tests were normal. The dose of prednisone was lowered and then stopped. Six weeks after stopping she remained asymptomatic and liver tests were normal.</p>
+          <sec id="CovidVaccines.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="CovidVaccines.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_CovidVaccines.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_CovidVaccines.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>Pfizer BNT162.b2 COVID-19 vaccine</p>
+</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_CovidVaccines.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_CovidVaccines.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>Hepatocellular (R=38)</p>
+</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_CovidVaccines.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_CovidVaccines.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>3+ (enzyme elevations, jaundice and hospitalization)</p>
+</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_CovidVaccines.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_CovidVaccines.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>7 days to onset of symptoms, 13 days to presentation</p>
+</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_CovidVaccines.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_CovidVaccines.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>Within 2 months, on prednisone</p>
+</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_CovidVaccines.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_CovidVaccines.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>Labetalol (100 mg twice daily) for ~8 months</p>
+</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="CovidVaccines.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="CovidVaccines.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Vaccine</th>
+                    <th id="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Presentation</th>
+                    <th id="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P*<break/>(U/L)</th>
+                    <th id="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin*<break/>(mg/dL)</th>
+                    <th id="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>13 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>0</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>2001</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>170</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>4.8</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Emergency Room</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>14 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>1746</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>183</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>5.7</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Admission, Ultrasound</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>15 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>1629</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>171</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>5.4</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>16 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>3 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>1898</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>181</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>5.9</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Liver Biopsy</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>17 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>4 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>1832</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>178</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>6.8</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>18 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>5 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>1375</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>153</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>6.0</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>19 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>6 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>1462</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>162</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>4.9</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone started, discharge</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>24 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>11 days</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>501</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>127</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>1.6</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone 20 mg/day*</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>2 months</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>6 weeks</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>19</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>63</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.6</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone 15 mg/day*</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>4 months</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>17</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>57</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.6</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone 10 mg/day*</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>6 months</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>16</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>55</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.3</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone 5 mg/day: stopped*</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>8 months</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>13</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>67</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Off of prednisone for 7 weeks*</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_1 hd_h_CovidVaccines.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<p>
+<bold>Normal Values</bold>
+</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>
+<bold>&#x0003c;52</bold>
+</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>
+<bold>&#x0003c;117</bold>
+</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>
+<bold>&#x0003c;1.2</bold>
+</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="CovidVaccines.TF.d.1">
+                  <label>*</label>
+                  <p>Values and prednisone doses provided by Dr. Bril.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="CovidVaccines.Comment">
+            <title>Comment</title>
+            <p>This was the initial case report of acute hepatitis with autoimmune features following and possibly caused by COVID-19 vaccination. After this publication, another dozen instances arising after mRNA- as well as adenovirus vector-based vaccines were soon reported in letters to the editor from around the world. Characteristic of the injury was the marked hepatocellular pattern of enzyme elevations, mild jaundice, presence of autoantibodies in high titer, an accompanying hypergammaglobulinemia, and histologic features of an acute, florid autoimmune hepatitis. Also characteristic was the rapid response to corticosteroid therapy. In this case, a prudent dose of prednisone was used, which was then tapered and ultimately discontinued. In follow up, the patient remained in remission, although further monitoring would be appropriate, as late relapses can occur after stopping immunosuppression in patients with typical spontaneous autoimmune hepatitis. A central question is whether the episode represented vaccine induced liver injury with autoimmune features, or an autoimmune hepatitis triggered by the viral vaccine, or a coincidental occurrence of spontaneous autoimmune hepatitis that happened to become clinically evident shortly after vaccination (and a few months after pregnancy). The clinical features were typical of autoimmune hepatitis. Whether autoimmune hepatitis is triggered by COVID-19 vaccination will require more experience with this complication as well as genetic and immunologic studies aimed at how vaccines stimulate autoimmunity. Thus, features of this syndrome suggest that the pathogenesis is <underline>indirect</underline>, caused by modulation of the immune system rather than direct although idiosyncratic injury to hepatocytes.</p>
+            <p>
+<bold>COVID-19 Vaccines: Status in the United States</bold>
+</p>
+            <table-wrap id="CovidVaccines.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Vaccine<break/>Platform</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Vaccine<break/>Name</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">Manufacturer</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">U.S. Status<break/>Date</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">No.<break/>Shots</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Efficacy</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="left" scope="col" rowspan="1" colspan="1">Likelihood<break/>Score</th>
+                    <th id="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>BNT162b2</p>
+<p>[mRNA]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>Comirnaty</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"><p>Pfizer</p>
+<p>BioNTech</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1"><p>Approved</p>
+<p>Aug 2021</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1"><p>2</p>
+<p>[21 d]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>95%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>C</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1"><p>Ultra-low cold chain</p>
+<p>[-60<sup>o</sup> to -80<sup>o</sup>]</p>
+<p>Autoimmune hepatitis</p></td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>mRNA-1273</p>
+<p>[mRNA]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>CX-024414</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">
+<p>Moderna</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1"><p>EUA</p>
+<p>Dec 2020</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1"><p>2</p>
+<p>[28 d]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>94%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>C</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>Moderate cold chain [-15<sup>o</sup> to 25<sup>o</sup>]. Autoimmune hepatitis</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>Ad26.COV2.S</p>
+<p>[adenoviral vector]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>JNJ-78436735</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">
+<p>Johnson &#x00026; Johnson Janssen</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1"><p>EUA</p>
+<p>Feb 2021</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>1</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>66-72%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>D</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>Thrombotic thrombocytopenia</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>ChAdOx1 nCoV-19</p>
+<p>[adenoviral vector]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"><p>AZD1222</p>
+<p>Vaxzevria</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"><p>AstraZeneca</p>
+<p>Oxford</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>Pending</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1"><p>2</p>
+<p>[28-84 d]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>55-82%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>C</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>Thrombotic thrombocytopenia</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>NVX-CoV2373</p>
+<p>[recombinant protein]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>Covovax</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">
+<p>Novavax</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>Pending</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1"><p>2</p>
+<p>[21 d]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>90%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>E</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>60% effective for B.1.351, Adjuvant</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>Gam-COVID-Vac</p>
+<p>[adenoviral vectors]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>Sputnik V</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"><p>Gamaleya</p>
+<p>Russia</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>None</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1"><p>2</p>
+<p>[21 d]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>92%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>E</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>rAd26-S, rAd5-S</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>Sinopharm</p>
+<p>[inactivated virus]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"><p>Beijing</p>
+<p>Wuhan</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"><p>SInopharm</p>
+<p>China</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>None</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>2</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>78-86%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>E</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>Global distribution</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><p>Sinovac</p>
+<p>[inactivated virus]</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>Corona Vac</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"><p>Sinovac</p>
+<p>China</p></td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>None</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>2</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<p>50-66%</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_7" valign="top" align="center" rowspan="1" colspan="1">
+<p>E</p>
+</td>
+                    <td headers="hd_h_CovidVaccines.Te_1_1_1_8" valign="top" align="left" rowspan="1" colspan="1">
+<p>Global distribution</p>
+</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>Table Updated September 26, 2021</p>
+            <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object></p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="CovidVaccines.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>BNT162b2 &#x02013; Comirnaty&#x000ae;</p>
+        <p>mRNA-1273 &#x02013; Moderna COVID-19 Vaccine&#x000ae;</p>
+        <p>Ad26.COV2.S &#x02013; JNJ-78436735&#x000ae;</p>
+        <p>ChAdOx1 nCoV-19 &#x02013; Vaxzevria&#x000ae;</p>
+        <p>NVX-CoV2373 &#x02013; Covovax&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiviral Vaccines</p>
+      </sec>
+      <sec id="CovidVaccines.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="CovidVaccines.CITED_REFERENCE.reflist0">
+          <ref id="CovidVaccines.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bril</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Al Diffalha</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fettig</surname><given-names>DM</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis developing after coronavirus disease 2019 (COVID-19) vaccine: Causality or casualty?</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <fpage>222</fpage>
+              <lpage>224</lpage>
+              <pub-id pub-id-type="pmid">33862041</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="CovidVaccines.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 October 2021</p>
+        <p>Abbreviation: AMA, antimitochondrial antibody; ANA, antinuclear antibody; EUA, Emergency Use Authorization; IgG, immunoglobulin G; IVIG, intravenous immune globulin; PF-4, platelet factor 4; SMA, smooth muscle antibody; VITT, vaccine induced thrombotic thrombocytopenia.</p>
+        <ref-list id="CovidVaccines.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="CovidVaccines.REF.cdc">
+            <mixed-citation publication-type="web"><person-group><collab>CDC</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/vaccines/covid-19/info-by-product/index.html">https://www.cdc.gov/vaccines/covid-19/info-by-product/index.html</ext-link><annotation><p><italic toggle="yes">(CDC website on COVID-19 vaccines available in the US with links to documents from the FDA summarizing efficacy and safety data that supported the EUAs for the Pfizer, Moderna, and Johnson &#x00026; Johnson COVID-19 vaccines).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.zhu.2020.727">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>
+              <article-title>China novel coronavirus investigating and research team. A novel coronavirus from patients with pneumonia in China, 2019.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>727</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In December 2019, a cluster of patients with severe pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China, and was found to be due to a novel coronavirus).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31978945</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.huang.2020.497">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Huang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</article-title>
+              <source>Lancet</source>
+              <year>2020</year>
+              <volume>395</volume>
+              <issue>10223</issue>
+              <fpage>497</fpage>
+              <lpage>506</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 adults with COVID-19 pneumonia hospitalized in Wuhan China in December 2019-January 2020, 37% had serum AST elevations [62% of those in the ICU and 25% of those not] with concurrent elevations in proinflammatory cytokines [IL1B, IL6, IL2, IFN gamma] and 15% died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31986264</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.guan.2020.1708">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guan</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Ni</surname><given-names>ZY</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>WH</given-names></name>
+<name name-style="western"><surname>Ou</surname><given-names>CQ</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>JX</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>China Medical Treatment Expert Group for Covid-19. Clinical characteristics of coronavirus disease 2019 in China.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1708</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1099 patients hospitalized with COVID-19 at 552 hospitals in China through January 2020, the median age was 47 years, 42% were women, 2.4% were admitted to an ICU, 1.4% died and ALT elevations arose in 4.1%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32109013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.jackson.2020.1920">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jackson</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Anderson</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Rouphael</surname><given-names>NG</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Makhene</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Coler</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>McCullough</surname><given-names>MP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>mRNA-1273 Study Group. An mRNA vaccine against SARS-CoV-2 - preliminary report.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1920</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a phase 1 dose finding study of the mRNA-1273 COVID-19 vaccine, 45 adults [ages 18 to 55 years] were given 2 injections of one of 3 doses of vaccine [25, 100, or 250 &#x000b5;g] 28 days apart, and resultant geometric mean titers of anti-SARS-CoV-2 after the 2<sup>nd</sup> injection were higher with higher doses, but all subjects developed neutralizing antibody and adverse events were more frequent and sometimes severe with the 250 &#x000b5;g dose; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32663912</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.zhu.2020.479">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhu</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Guan</surname><given-names>XH</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>JX</given-names></name>
+</person-group>
+              <article-title>Yet al. Immunogenicity and safety of a recombinant adenovirus type-5-vectored COVID-19 vaccine in healthy adults aged 18 years or older: a randomised, double-blind, placebo-controlled, phase 2 trial.</article-title>
+              <source>Lancet</source>
+              <year>2020</year>
+              <volume>396</volume>
+              <issue>10249</issue>
+              <fpage>479</fpage>
+              <lpage>88</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 508 adults who received one of two doses of Ad5-vectored COVID-19 vaccine or placebo, seroconversion rates at day 28 were 96-97% and there were no serious adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32702299</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.corbett.2020.1544">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Corbett</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Flynn</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Foulds</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Francica</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Boyoglu-Barnum</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Werner</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Flach</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Evaluation of the mRNA-1273 vaccine against SARS-CoV-2 in nonhuman primates.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1544</fpage>
+              <lpage>55</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(24 young rhesus macaques received one of two doses of mRNA-1273 [10 or 100 &#x000b5;g] or control diluent and were challenged with live SARS-CoV-2 4 weeks after the 2<sup>nd</sup> injection when the vaccinated animals had high levels of antibody to the SARS-CoV-2 spike protein, which resulted in active infection and evidence of respiratory disease in controls but either no infection or a mild, subclinical infection with minimal viral RNA detected in the vaccinated animals).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32722908</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.keech.2020.2320">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keech</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Albert</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Reed</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Neal</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Plested</surname><given-names>JS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase 1-2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle vaccine.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>2320</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 131 adults vaccinated with 5 or 25 &#x000b5;g of NVX CoV2373 vaccine with or without adjuvant or placebo, titers of IgG anti-SARS-CoV-2 spike protein were achieved after the second dose of vaccine with adjuvant at levels equivalent to those achieved after natural infection and adverse events were common but mild and transient, mostly local reactions and a few days of system symptoms of fatigue and myalgia; ALT elevations arose in 3 of 108 receiving vaccine and 1 of 23 placebo, but all were transient and less than 3 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32877576</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.anderson.2020.2427">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Anderson</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Rouphael</surname><given-names>NG</given-names></name>
+<name name-style="western"><surname>Widge</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Makhene</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chappell</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>mRNA-1273 Study Group. Safety and immunogenicity of SARS-CoV-2 mRNA-1273 vaccine in older adults.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>2427</fpage>
+              <lpage>38</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 40 adult volunteers ages 56 years and above who received one of two doses [25 or 100 &#x000b5;g] of the mRNA-1273 COVID-19 vaccine, geometric mean titers after the second injection were higher in older subjects [&#x0003e;70 years] and with the higher vaccine dose, but all patients developed neutralizing antibody at levels equal to or above those occurring after natural infection; adverse events were largely transient, mild-to-moderate local pain and systemic symptoms of fatigue, headache, muscle ache and chills lasting 1-5 days; there were no serious adverse events and no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32991794</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.zhang.2021.181">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zeng</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chu</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18-59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial.</article-title>
+              <source>Lancet Infect Dis</source>
+              <year>2021</year>
+              <volume>21</volume>
+              <fpage>181</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 743 adults who received at least one dose of the Corona Vac inactivated COVID-19 vaccine in phase 1 and phase 2 trials, adverse reactions were generally mild and the seroconversion rate after two doses was 97-100%; no mention of hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33217362</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.ramasamy.2021.1979">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ramasamy</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Minassian</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Ewer</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Flaxman</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Folegatti</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Owens</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Voysey</surname><given-names>M</given-names></name>
+<etal/>
+<collab>Oxford COVID Vaccine Trial Group</collab>
+</person-group>
+              <article-title>Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial.</article-title>
+              <source>Lancet</source>
+              <year>2021</year>
+              <volume>396</volume>
+              <issue>10267</issue>
+              <fpage>1979</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 552 adults in 3 age groups [18 to 59, 60 to 70, &#x0003e;70 years] given the ChAdOx1 nCoV-19 vaccine or a control viral vaccine, local and systemic adverse events were more frequent with the COVID-19 vaccine and among the younger age groups, whereas IgG anti-spike antibody, neutralizing antibody and T cell responses were similarly high among all age groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33220855</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.guebrexabier.2020.7892">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guebre-Xabier</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Maciejewski</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lam</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Portnoff</surname><given-names>AD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>NVX-CoV2373 vaccine protects cynomolgus macaque upper and lower airways against SARS-CoV-2 challenge.</article-title>
+              <source>Vaccine</source>
+              <year>2020</year>
+              <volume>38</volume>
+              <fpage>7892</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(The COVID-19 subunit vaccine NVX-CoV2373 with full length recombinant SARS-CoV-2 spike glycoprotein in a saponin based matrix adjuvant in initial and booster doses of 2.5, 5 and 5 &#x000b5;g induced neutralizing antibody in Cynomolgus macaques and protected animals against both infection and disease after viral challenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33139139</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.polack.2020.2603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Polack</surname><given-names>FP</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Kitchin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Absalon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gurtman</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lockhart</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Perez</surname><given-names>JL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>C4591001 Clinical Trial Group. Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>2603</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 43,448 persons receiving the BNT162b2 vaccine or placebo, COVID-19 was diagnosed more than 7 days after the second inoculation in 8 receiving vaccine and 162 placebo for an efficacy of 95%; while adverse events were largely mild-to-moderate in severity and self-limited in course, local pain at the injection site occurred in 71-83% [vs 9-14% with placebo] and systemic effects of fatigue in 47% vs 33%, being more frequent in younger subjects and with the second injection; there were no serious hepatic adverse events and no vaccine related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33301246</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.baden.2021.403">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baden</surname><given-names>LR</given-names></name>
+<name name-style="western"><surname>El Sahly</surname><given-names>HM</given-names></name>
+<name name-style="western"><surname>Essink</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kotloff</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Frey</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Novak</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Diemert</surname><given-names>D</given-names></name>
+<etal/>
+<collab>COVE Study Group</collab>
+</person-group>
+              <article-title>Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>403</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30,420 adults given two injections [4 weeks apart] of the mRNA-1273 vaccine or placebo, COVID-19 illness arose 14 days after the second injection in 11 receiving vaccine vs 185 receiving placebo for an efficacy rate of 94.1% with similar rates across different groups by sex, age, race and ethnicity, while adverse events arose in 84% vs 20% and were more common in younger patients and with the 2<sup>nd</sup> vaccine inoculation, but serious adverse event rates were similar in both groups, and there were no liver related serious adverse events or deaths attributable to vaccine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33378609</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.callaway.2021.17">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Callaway</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mallapaty</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Novavax offers first evidence that COVID vaccines protect people against variants.</article-title>
+              <source>Nature</source>
+              <year>2021</year>
+              <volume>590</volume>
+              <fpage>17</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A commentary reporting results from 2 efficacy trials of the Novavax COVID-19 vaccine, one in 15,000 subjects in the UK and another in 4,400 subjects in South Africa, found the vaccine efficacy to be 86% against the UK variant B.1.1.7 but only 50% effective against the South African variant 501Y.V2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33510489</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF17">
+            <element-citation publication-type="journal">
+              <article-title>FDA authorizes Moderna COVID-19 vaccine.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1616</issue>
+              <fpage>9</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of the Moderna mRNA-1723 COVID-19 vaccine shortly after its EUA on December 18, 2020, mentions that its approval was based on a multinational observer blind trial in 30,420 adults given two doses four weeks apart that was 94% effective overall and 100% effective in preventing severe COVID-19; no mention of hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33512345</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF18">
+            <element-citation publication-type="journal">
+              <article-title>FDA authorizes Pfizer-BioNTech COVID-19 vaccine.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1615</issue>
+              <fpage>1</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of the Pfizer-BioNTech BNT162b2 COVID-19 vaccine shortly after its EUA on December 11, 2020 mentions that its approval was based on a multinational double-blind trial in 43,548 subjects given two doses 3 weeks apart that was 95% effective overall; no mention of hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33646996</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.logunov.2021.671">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Logunov</surname><given-names>DY</given-names></name>
+<name name-style="western"><surname>Dolzhikova</surname><given-names>IV</given-names></name>
+<name name-style="western"><surname>Shcheblyakov</surname><given-names>DV</given-names></name>
+<name name-style="western"><surname>Tukhvatulin</surname><given-names>AI</given-names></name>
+<name name-style="western"><surname>Zubkova</surname><given-names>OV</given-names></name>
+<name name-style="western"><surname>Dzharullaeva</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Kovyrshina</surname><given-names>AV</given-names></name>
+<etal/>
+<collab>Gam-COVID-Vac Vaccine Trial Group</collab>
+</person-group>
+              <article-title>Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia.</article-title>
+              <source>Lancet</source>
+              <year>2021</year>
+              <volume>397</volume>
+              <issue>10275</issue>
+              <fpage>671</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 14,964 adults receiving one of two doses of Gam-COVID-Vac [Sputnik V: rAd26 in first and rAd5 in the second] and 4,902 placebo controls, 16 vaccinated [0.1%] vs 62 controls [1.3%] developed symptomatic COVID-19 illness after the last vaccine dose for an efficacy rate of 92%; most adverse events were mild-to-moderate in severity and of short duration and serious adverse events occurred at a similar rate in vaccine [0.3%] and control [0.4%] recipients, with no serious hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33545094</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.voysey.2021.881">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Voysey</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Costa Clemens</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Madhi</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Weckx</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Folegatti</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Aley</surname><given-names>PK</given-names></name>
+<etal/>
+<collab>Oxford COVID Vaccine Trial Group</collab>
+</person-group>
+              <article-title>Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials.</article-title>
+              <source>Lancet</source>
+              <year>2021</year>
+              <volume>397</volume>
+              <issue>10277</issue>
+              <fpage>881</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a pooled analysis of 4 trials of the ChAdOx1 nCoV-19 vaccine, 17,178 adults received vaccine or control and efficacy measured two weeks after 2<sup>nd</sup> dose was 66.7% with 84/8547 [1%] of vaccinated vs 248/8581 [2.9%] of controls developing symptomatic COVID-19, but none of the vaccinated versus 15 of the controls required hospitalization for COVID; serious adverse event rates were similar in the two groups [0.9% vs 1.1%] and there were no serious hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33617777</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.dagan.2021.1412">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dagan</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Barda</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kepten</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Miron</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Perchik</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Katz</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Hern&#x000e1;n</surname><given-names>MA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>BNT162b2 mRNA Covid-19 vaccine in a nationwide mass vaccination setting.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>1412</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 596,618 recipients of the BNT162b2 Pfizer COVID-19 vaccine and a similar number of unvaccinated controls in Israel, the calculated efficacy after the first dose was 46% and was 92% 7 days after the second dose).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33626250</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.stephenson.2021.1535">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stephenson</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Le Gars</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sadoff</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>de Groot</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Heerwegh</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Truyers</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Atyeo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immunogenicity of the Ad26.COV2.S vaccine for COVID-19.</article-title>
+              <source>JAMA</source>
+              <year>2021</year>
+              <volume>325</volume>
+              <fpage>1535</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pilot study in 25 adults given the AD26.COV2.S Johnson &#x00026; Johnson COVID-19 vaccine in 2 doses 57 days apart found neutralizing antibody developed in all subjects after a single inoculation and T cell response in 84%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33704352</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.boyarsky.2021.1784">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boyarsky</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Werbel</surname><given-names>WA</given-names></name>
+<name name-style="western"><surname>Avery</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Tobian</surname><given-names>AAR</given-names></name>
+<name name-style="western"><surname>Massie</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Segev</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Garonzik-Wang</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Immunogenicity of a single dose of SARS-CoV-2 messenger RNA vaccine in solid organ transplant recipients.</article-title>
+              <source>JAMA</source>
+              <year>2021</year>
+              <volume>325</volume>
+              <fpage>1784</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 658 solid organ transplant recipients who received two doses of an mRNA COVID-19 vaccine, only 54% developed detectable antibody to SARS-CoV-2 spike protein, suggesting low levels of protection in immunosuppressed transplant recipients; no mention of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33720292</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.schultz.2021.2124">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schultz</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>S&#x000f8;rvoll</surname><given-names>IH</given-names></name>
+<name name-style="western"><surname>Michelsen</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Munthe</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Lund-Johansen</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ahlen</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Wiedmann</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Thrombosis and thrombocytopenia after ChAdOx1 nCoV-19 vaccination.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>2124</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 5 health care workers [4 women, 1 man, ages 32 to 54 years] who developed thromboses in unusual sites [brain, splanchnic bed] and thrombocytopenia 7-10 days after receipt of initial dose of ChAdOx1 vaccine [Astra-Zeneca], all of whom had high levels of antibodies to platelet factor 4 [PF4]-polyanionic complexes, 3 of whom died, others seeming to respond to IVIG and prednisolone, referring to the syndrome as vaccine induced thrombotic thrombocytopenia [VITT]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33835768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.greinacher.2021.2092">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Greinacher</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Thiele</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Warkentin</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Weisser</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kyrle</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Eichinger</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Thrombotic thrombocytopenia after ChAdOx1 nCov-19 vaccination.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>2092</fpage>
+              <lpage>2101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 11 patients [9 women, 2 men, ages 22 to 49 years] who developed thrombotic events in unusual sites [9 cerebral, 3 splanchnic] with symptomatic presentation 5-16 days after an initial dose of ChAdOx1 AstraZeneca COVID-19 vaccine, 6 of whom died due to cerebral complications, all having antibodies to platelet factor 4 [PF4]-polyanionic complexes independent of heparin and with evidence of platelet activation and thrombocytopenia; one patient developed portal vein thrombosis and had elevations in serum ALT [peak 167 U/L], GGT [110 U/L] and LDH [337 U/L], but bilirubin not reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33835769</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.cines.2021.2254">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cines</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Bussel</surname><given-names>JB</given-names></name>
+</person-group>
+              <article-title>SARS-CoV-2 vaccine-induced immune thrombotic thrombocytopenia.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>2254</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Schultz [2021] and Greinacher [2021] summarizing the clinical and laboratory features, possible pathogenesis and management of vaccine induced thrombotic thrombocytopenia [VITT] apparently triggered by receipt of adenovirus based COVID-19 vaccines).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33861524</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.kumar.2021.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kumar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dowling</surname><given-names>WE</given-names></name>
+<name name-style="western"><surname>Rom&#x000e1;n</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Chaudhari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gurry</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Le</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Tollefson</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Status report on COVID-19 vaccines development.</article-title>
+              <source>Curr Infect Dis Rep</source>
+              <year>2021</year>
+              <volume>23</volume>
+              <fpage>9</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the status of COVID-19 vaccines, over 300 of which are under development and at least 6 approved for emergency use including mRNA-based candidates [7 in clinical trials and 2 approved], DNA based [6 being tested], protein based [at least 20 in clinical trials but none approved as yet], and viral vector based [15 in clinical trials and 4 approved]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33867863</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.sadoff.2021.2187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sadoff</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gray</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Vandebosch</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>C&#x000e1;rdenas</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Shukarev</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Grinsztejn</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Goepfert</surname><given-names>PA</given-names></name>
+<etal/>
+<collab>ENSEMBLE Study Group</collab>
+</person-group>
+              <article-title>Safety and efficacy of single-dose Ad26.COV2.S vaccine against Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>2187</fpage>
+              <lpage>2201</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a multinational randomized controlled trial of a single injection of the Ad26.COV2.S adenovirus based vaccine, symptomatic COVID-19 illness arose at least 2 weeks after the injection in 116 of 19630 vaccinated subjects [0.6%] vs 348 placebo recipients [1.8%] for a 67% efficacy rate, while vaccine adverse events included injection site pain in 49%, headache 39%, fatigue 38%, myalgia 33% and nausea 14%, and while serious adverse event rates were similar in the two groups [0.4%vs 0.4%], there were an excess of venous thrombotic events after vaccine [11 vs 3 events] and one case of transverse sinus thrombosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33882225</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF29">
+            <element-citation publication-type="journal">
+              <article-title>FDA authorizes Johnson &#x00026; Johnson COVID-19 vaccine.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1620</issue>
+              <fpage>41</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of the Johnson &#x00026; Johnson Ad26.COV2.S COVID-19 vaccine shortly after its EUA on February 27, 2021 mentions that its approval was based on a multinational trial in 44,325 patients given a single dose that was 66% effective overall and 85% effective in preventing severe COVID-19; no mention of hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33976088</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.see.2021.2448">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>See</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Lale</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Woo</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Guh</surname><given-names>AY</given-names></name>
+<name name-style="western"><surname>Shimabukuro</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Streiff</surname><given-names>MB</given-names></name>
+<etal/>
+</person-group>
+              <article-title>US case reports of cerebral venous sinus thrombosis with thrombocytopenia after Ad26.COV2.S vaccination, March 2 to April 21, 2021.</article-title>
+              <source>JAMA</source>
+              <year>2021</year>
+              <volume>325</volume>
+              <fpage>2448</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Vaccine adverse event reports made between February 27 and April 12, 2021 included 12 cases of thrombotic thrombocytopenia arising 6-15 days after receipt of the Ad26.COV2.S Johnson &#x00026; Johnson COVID-19 vaccine among an estimated 7 million recipients, all in women, ages 18 to 60 years presenting with headache, all with antibodies to PF4-polyanionic complexes usually with cerebral sinus thromboses and at least 3 deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33929487</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.bril.2021.222">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bril</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Al Diffalha</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fettig</surname><given-names>DM</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis developing after coronavirus disease 2019 (COVID-19) vaccine: Causality or casualty?</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <fpage>222</fpage>
+              <lpage>224</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old woman developed fatigue followed by jaundice 1-2 weeks after receiving the Moderna COVID-19 mRNA 1273 vaccine [bilirubin 4.8 mg/dL, ALT 2001 U/L, Alk P 170 U/L, ANA 1:1200], with biopsy suggesting autoimmune hepatitis and prompt response to corticosteroid therapy: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33862041</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.berry.2007.2238">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Berry</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Smith-Laing</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Hepatitis A vaccine associated with autoimmune hepatitis.</article-title>
+              <source>World J Gastroenterol.</source>
+              <year>2007</year>
+              <volume>13</volume>
+              <fpage>2238</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old man had an unexplained, self-limited acute hepatitis with full recovery without treatment, but then had a relapse, 10 days after receiving hepatitis A vaccine [bilirubin not given, AST 1684 U/L, INR 1.4], which remained active for 3 months at which time ANA became positive [1:100] and total globulins were elevated [4.7 g/dL], biopsy was compatible with autoimmune hepatitis and liver tests improved rapidly with prednisolone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17465509</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.perumalswami.2009.331">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Perumalswami</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Peng</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Odin</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Vaccination as a triggering event for autoimmune hepatitis.</article-title>
+              <source>Semin Liver Dis.</source>
+              <year>2009</year>
+              <volume>29</volume>
+              <fpage>331</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(31 year old woman developed nausea and dark urine 11 days after hepatitis A and yellow fever vaccination and shortly after returning from a trip to Africa [bilirubin 9.4 mg/dL, ALT 515 U/L, Alk P 162 U/L, ANA negative, IgG 1870 mg/dL], with subsequent worsening and liver biopsy compatible with autoimmune hepatitis and subsequent improvement with prednisone therapy and later stopped but then restarted despite normal liver tests).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19676005</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.van_gemeren.2017.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Gemeren</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>van Wijngaarden</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Doukas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>de Man</surname><given-names>RA</given-names></name>
+</person-group>
+              <article-title>Vaccine-related autoimmune hepatitis: the same disease as idiopathic autoimmune hepatitis? Two clinical reports and review.</article-title>
+              <source>Scand J Gastroenterol.</source>
+              <year>2017</year>
+              <volume>52</volume>
+              <fpage>18</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases of autoimmune hepatitis arising within 2-4 weeks of vaccination against hepatitis A, but with multiple other vaccines, 22 and 28 year old women [initial bilirubin 13 and 10.2 mg/dL, ALT 1751 and 1027 U/L, Alk P 165 U/L and unknown, ANA negative in one, positive in one], biopsies suggesting autoimmune hepatitis and prompt response to prednisone, but relapse on stopping 6 months later, both requiring long term immunosuppressive therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27565372</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.sasaki.2018.e11621">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sasaki</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Suzuki</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ishida</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kakisaka</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Abe</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Sugai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Takikawa</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis following influenza virus vaccination: Two case reports.</article-title>
+              <source>Medicine (Baltimore)</source>
+              <year>2018</year>
+              <volume>97</volume>
+              <elocation-id>e11621</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two women, ages 31 and 49 years, developed liver test abnormalities 11 days and 1 month after influenza vaccination [bilirubin levels not provided, ALT 61 and 280 U/L, Alk P 399 and 320 U/L, ANA positive [both 1:320], IgG 3453 and 1706 mg/dL], biopsies compatible with autoimmune hepatitis and both had improvements with prednisone therapy which was then continued in follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30045302</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.muratori.2019.e95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Muratori</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Serio</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Lalanne</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lenzi</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Development of autoimmune hepatitis after influenza vaccination; trigger or killer?</article-title>
+              <source>Clin Res Hepatol Gastroenterol.</source>
+              <year>2019</year>
+              <volume>43</volume>
+              <fpage>e95</fpage>
+              <lpage>e96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old man developed abdominal pain followed by dark urine within 10 days of influenza vaccination [bilirubin 18.8 mg/dL, ALT 1575 U/L, ANA 1:320, SMA 1:640, IgG 2,334 mg/dL, INR 1.3], biopsy compatible with autoimmune hepatitis and improvement with methylprednisolone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30926201</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.testino.2021">
+            <mixed-citation publication-type="other">Testino G, Pellicano R. Acute on chronic liver failure by SARS-CoV-2 in active alcohol use disorder cirrhotic patient: a case report. Minerva Gastroenterol (Torino). 2021 May 10. Epub ahead of print.<annotation><p><italic toggle="yes">(56 year old man with alcohol related cirrhosis and mild decompensation developed severe COVID-19 pneumonia which progressed to ventilatory failure, the course being accompanied by worsening of the liver disease [bilirubin 2.0 rising to 22.0 mg/dL, ALT 35 to 90 U/L, Alk P 132 to 150 U/L, INR 1.9 to 3.1] and accompanying multiorgan failure and death 14 days after presentation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.umbrello.2021.72">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Umbrello</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brena</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Vercelli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Foa</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Femia</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Podda</surname><given-names>GM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Successful treatment of acute spleno-porto-mesenteric vein thrombosis after ChAdOx1 nCoV-19 vaccine. A case report.</article-title>
+              <source>J Crit Care.</source>
+              <year>2021</year>
+              <volume>65</volume>
+              <fpage>72</fpage>
+              <lpage>75</lpage>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old woman developed abdominal pain 7 days after Astra Zeneca ChAdOx1 COVID-19 vaccine, imaging showing thrombosis of splenic, portal and superior mesenteric veins which was successfully treated with IVIG, argatroban, and direct thrombolysis and balloon angioplasty of the portal vein).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34111682</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.ge.2021">
+            <mixed-citation publication-type="other">Ge J, Pletcher MJ, Lai JC; N3C Consortium. Outcomes of SARS-CoV-2 infection in patients with chronic liver disease and cirrhosis: a national COVID cohort collaborative study. Gastroenterology. 2021:S0016-5085(21)03244-3.<annotation><p><italic toggle="yes">(Analysis of 6.4 million electronic medical records for presence of chronic liver disease, cirrhosis and COVID-19 status, found 30-day mortality was increased in those with COVID-19 positivity both in those without cirrhosis [1.7% vs 0.8%] and even more in those with cirrhosis [8.9% vs 1.7%]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.hines.2021.e242678">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hines</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Olazagasti</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Shams</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Immune thrombocytopenic purpura and acute liver injury after COVID-19 vaccine.</article-title>
+              <source>BMJ Case Rep.</source>
+              <year>2021</year>
+              <volume>14</volume>
+              <issue>7</issue>
+              <elocation-id>e242678</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(26 year old woman developed petechial rash and thrombocytopenia [19,000/&#x000b5;L] 2 weeks after receiving the Moderna mRNA1273 COVID-19 vaccine [bilirubin 1.0 rising to 1.9 mg/dL, ALT 707 rising to 1257 U/L, Alk P 82 U/L], with prompt response of platelet count to corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34330722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF._cal.2021.676">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>&#x000d6;cal</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Stecher</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Wildgruber</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Portal vein thrombosis associated with ChAdOx1 nCov-19 vaccination.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2021</year>
+              <volume>6</volume>
+              <fpage>676</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(41 year old man developed severe headache 11 days after receiving Astra Zeneca ChAdOx1 COVID-19 vaccine, but head CT showed no thrombus, but 4 days later he had onset of severe abdominal pain and CT showed thrombus in portal system with subsequent splenic rupture requiring splenectomy and mechanical aspiration of the thrombus, which resulted in canalization of the portal vein).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34115963</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.rocco.2021.728">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rocco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sgamato</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Compare</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Nardone</surname><given-names>G.</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis following SARS-CoV-2 vaccine: May not be a casuality.</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <fpage>728</fpage>
+              <lpage>729</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(80 year old woman [with a history of Hashimoto&#x02019;s thyroiditis] developed jaundice 1 week after 2nd dose of Pfizer BNT162b2 COVID-19 vaccine [bilirubin 10.5 mg/dL, ALT 1186 U/L, Alk P 243 U/L, ANA 1:160, IgG 3500 mg/dL], biopsy compatible with autoimmune hepatitis and rapid biochemical response to prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34116081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.londo_o.2021">
+            <mixed-citation publication-type="other">Londo&#x000f1;o MC, Gratac&#x000f3;s-Gin&#x000e8;s J, S&#x000e1;ez-Pe&#x000f1;ataro J. Another case of autoimmune hepatitis after SARS-CoV-2 vaccination - still casualty? J Hepatol. 2021 Jun 12:S0168-8278(21)00417-7.<annotation><p><italic toggle="yes">(41 year old woman [with no history of autoimmune diseases] developed persistent abdominal pain after the first dose of Moderna mRNA1273 COVID-19 vaccine and jaundice 7 days after the second dose [bilirubin 2.3 rising to 8.5 mg/dL, ALT 1312 U/L, Alk P 190 U/L, ANA 1:80, IgG 2080 mg/dL], biopsy compatible with autoimmune hepatitis and prompt response to prednisone therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.tan.2021.1250">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tan</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Ang</surname><given-names>TL</given-names></name>
+<name name-style="western"><surname>Kumar</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis following COVID-19 vaccination: True causality or mere association?</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <issue>5</issue>
+              <fpage>1250</fpage>
+              <lpage>1252</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old woman [with no history of autoimmune diseases] developed marked fatigue after the first dose of Moderna mRNA1273 COVID-19 vaccine and jaundice 5 weeks later [bilirubin 6.0 mg/dL, ALT 1701 U/L, Alk P 298 U/L, ANA and SMA positive, IgG 3260 mg/dL], biopsy compatible with autoimmune hepatitis and improvement while on budesonide therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34153398</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.claytonchubb.2021.1249">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Clayton-Chubb</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schneider</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Freeman</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Kemp</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>SK</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis developing after the ChAdOx1 nCoV-19 (Oxford-AstraZeneca) vaccine.</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <issue>5</issue>
+              <fpage>1249</fpage>
+              <lpage>1250</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old asymptomatic man [with no history of autoimmune diseases] found to have abnormal liver tests 26 days after receiving 1st dose of Astra Zeneca ChAdOx1 COVID-19 vaccine [bilirubin 1.0 rising to 2.2 mg/dL, ALT 1774 mg/dL, Alk P 118 U/L, ANA 1:160, IgG 1280 mg/dL], biopsy compatible with autoimmune hepatitis and response to prednisone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34171435</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.rela.2021.102688">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rela</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jothimani</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vij</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rajakumar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rammohan</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Auto-immune hepatitis following COVID vaccination.</article-title>
+              <source>J Autoimmun.</source>
+              <year>2021</year>
+              <volume>123</volume>
+              <elocation-id>102688</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases of jaundice arising 1-2 weeks after receiving Astra Zeneca ChAdOx1 COVID-19 vaccine, 37 year old woman with hypothyroidism and 62 year old man with type 2 diabetes [peak bilirubin 14.9 and 19.2 mg/dL, ALT 1025 and 1094 U/L, ANA 1:80 and negative, INR 2.96 and 4.28], biopsies compatible with autoimmune hepatitis and prompt improvement with prednisone in one patient and progressive liver failure and death in the other).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34225251</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.mcshane.2021.1252">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McShane</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kiat</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Rigby</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Crosbie</surname><given-names>&#x000d3;.</given-names></name>
+</person-group>
+              <article-title>The mRNA COVID-19 vaccine - A rare trigger of autoimmune hepatitis?</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <issue>5</issue>
+              <fpage>1252</fpage>
+              <lpage>1254</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old woman [with no history of autoimmune diseases] developed jaundice 4 days after receiving the first dose of Pfizer BNT262b2 COVID-19 vaccine [bilirubin 15.8 mg/dL, ALT 1067 U/L, Alk P 217 U/L, SMA 1:2560, IgG 2177 mg/dL, INR 1.4], biopsy compatible with autoimmune hepatitis and rapid improvement with prednisolone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34245804</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.ghielmetti.2021.102706">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ghielmetti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schaufelberger</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Mieli-Vergani</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cerny</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dayer</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vergani</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Terziroli Beretta-Piccoli</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Acute autoimmune-like hepatitis with atypical anti-mitochondrial antibody after mRNA COVID-19 vaccination: A novel clinical entity?</article-title>
+              <source>J Autoimmun.</source>
+              <year>2021</year>
+              <volume>123</volume>
+              <elocation-id>102706</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(63 year old man [with no history of autoimmune diseases] developed jaundice 7 days after receiving first dose of Moderna mRNA1273 COVID-19 vaccine [bilirubin 12.0 mg/dL, ALT 1038 U/L, Alk P 192 U/L, ANA 1:640], biopsy compatible with autoimmune hepatitis and prompt response to prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34293683</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.lodato.2021.1254">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lodato</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Larocca</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>D'Errico</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cennamo</surname><given-names>V</given-names></name>
+</person-group>
+              <article-title>An unusual case of acute cholestatic hepatitis after m-RNABNT162b2 (Comirnaty) SARS-CoV-2 vaccine: Coincidence, autoimmunity or drug-related liver injury.</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <issue>5</issue>
+              <fpage>1254</fpage>
+              <lpage>1256</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(43 year old man [with no history of autoimmune diseases] developed itching 2 weeks after first and jaundice 2 days after the second dose of Pfizer BNT162b2 COVID-19 vaccine [bilirubin 17.5 rising to 29.1 mg/dL, ALT 52 U/L, Alk P not given, ANA negative, IgG normal], biopsy compatible with autoimmune hepatitis and slow response to prednisone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34256064</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.vuillelessard.2021.102710">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vuille-Lessard</surname><given-names>&#x000c9;</given-names></name>
+<name name-style="western"><surname>Montani</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bosch</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Semmo</surname><given-names>N.</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis triggered by SARS-CoV-2 vaccination.</article-title>
+              <source>J Autoimmun.</source>
+              <year>2021</year>
+              <volume>123</volume>
+              <elocation-id>102710</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old woman [with a history of Hashimoto&#x02019;s thyroiditis] developed fatigue, weight loss and then dark urine starting 2 days after receiving first dose of Moderna mRNA1273 COVID-19 vaccine [bilirubin 3.8 mg/dL, ALT 579 U/L, Alk P 124 U/L, INR 1.23, ANA 1:1280, SMA 1:1280, IgG 3940 mg/dL], biopsy compatible with autoimmune hepatitis and rapid improvement with prednisone and azathioprine with normal enzymes at 4 weeks and no relapse when immunosuppression was stopped).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34332438</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.ekpanyapong.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ekpanyapong</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bunchorntavakul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>COVID-19 and the liver: Lessons learnt from the East and the West, a year later.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2021</year>
+              <pub-id pub-id-type="doi">10.1111/jvh.13590</pub-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the frequency and pathogenesis of liver manifestations in patients with COVID-19 as well as risks of complications in patients with chronic liver disease, cirrhosis, hepatocellular carcinoma and liver transplant and need for vaccination in these groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34352133</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.fanni.2021.5063">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fanni</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Saba</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Demontis</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Gerosa</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chighine</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nioi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Suri</surname><given-names>JS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Vaccine-induced severe thrombotic thrombocytopenia following COVID-19 vaccination: a report of an autoptic case and review of the literature.</article-title>
+              <source>Eur Rev Med Pharmacol Sci.</source>
+              <year>2021</year>
+              <volume>25</volume>
+              <fpage>5063</fpage>
+              <lpage>5069</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old man developed abdominal pain within 1-2 weeks of receiving the Astra Zeneca ChAdOx1 COVID-19 [platelets 28,000/uL, low fibrinogen, high D-dimer levels], which progressed to multiorgan failure and death within 3 days, autopsy showing major thrombi in the portal and mesenteric veins but microthrombi also in small veins, capillaries and even hepatic sinusoids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34355379</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.bril.2021.1256">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bril</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis developing after coronavirus disease 2019 (COVID-19) vaccine: One or even several swallows do not make a summer.</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <issue>5</issue>
+              <fpage>1256</fpage>
+              <lpage>1257</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of 6 recently published letters describing cases of liver injury after COVID-19 vaccination [mRNA1273 in 3, BNT162b2 in 2 and ChAdOx1 in 1], 4 with first dose and 1 with second, latency 4 to 35 days, bilirubin above 2.5 mg/dL in 4, ALT above 1000 U/L in 5, ANA present in 4, IgG elevations in 3, biopsy suggestive of autoimmune hepatitis and response to corticosteroid therapy in all).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34384822</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.gra_a.2021.e244878">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gra&#x000e7;a</surname><given-names>LL</given-names></name>
+<name name-style="western"><surname>Amaral</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Ser&#x000f4;dio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Costa</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Extensive thrombosis after COVID-19 vaccine: cause or coincidence?</article-title>
+              <source>BMJ Case Rep.</source>
+              <year>2021</year>
+              <volume>14</volume>
+              <elocation-id>e244878</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(62 year old woman developed abdominal pain the day after receiving the first dose of Astra Zeneca ChAdOx1 COVID-19 vaccine with both arterial [hepatic and splenic] and venous thrombosis [inferior vena cava, portal, splenic and mesenteric] with thrombocytosis [788,000/&#x000b5;L] and high levels of D-dimers and mild liver test abnormalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34400433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.mann.2021.e16491">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Sekhon</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sekhon</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Drug-Induced Liver Injury After COVID-19 Vaccine.</article-title>
+              <source>Cureus.</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <elocation-id>e16491</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old woman developed nausea, fever, and jaundice 9 days after receiving the Pfizer BNT162b2 COVID-19 vaccine [bilirubin 6.2 mg/dL, ALT 37 U/L, Alk P 207 U/L], which resolved over the next 3 weeks with no therapy and all values were normal 4 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34430106</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.palla.2021">
+            <mixed-citation publication-type="book">Palla P, Vergadis C, Sakellariou S, Androutsakos T. Letter to the editor: Autoimmune hepatitis after COVID-19 vaccination. A rare adverse effect? Hepatology. 2021 Sep 15. Epub ahead of print.<annotation><p><italic toggle="yes">(40 year old woman was found to have aminotransferase elevations 1 month after completing vaccination with Pfizer BNT262b2 COVID-19 vaccination [bilirubin, ALT and Alk P not given; ANA 1:640, IgG 2400 mg/dL], biopsy compatible with autoimmune hepatitis and prompt improvement on starting prednisone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.dash.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dash</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sirka</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Mishra</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Viswan</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>COVID-19 vaccine-induced Stevens-Johnson syndrome.</article-title>
+              <source>Clin Exp Dermatol.</source>
+              <year>2021</year>
+              <pub-id pub-id-type="doi">10.1111/ced.14784</pub-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old man developed fever, oral ulcers and rash starting 3 days after receiving the first dose of AstraZeneca ChAdOx1 COVID-19 vaccine [liver test results not reported], which responded rapidly to cyclosporine therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34081806</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.bakir.2021.e17215">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bakir</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Almeshal</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Alturki</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Obaid</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Almazroo</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Toxic epidermal necrolysis post COVID-19 vaccination - first reported case.</article-title>
+              <source>Cureus.</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <elocation-id>e17215</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed fever, fatigue, and headaches followed by rash, blisters and oral ulcers starting 1 week after receipt of the Pfizer BNT162b2 COVID-19 vaccine and ultimately involving more than 30% of her body surface area [ALT 90 U/L, bilirubin and alkaline phosphatase not provided], with lesions healing within 21 days of starting therapy including etanercept).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34540442</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.elboraey.2021.e139">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Elboraey</surname><given-names>MO</given-names></name>
+<name name-style="western"><surname>Essa</surname><given-names>EESF</given-names></name>
+</person-group>
+              <article-title>Stevens-Johnson syndrome post second dose of Pfizer COVID-19 vaccine: a case report.</article-title>
+              <source>Oral Surg Oral Med Oral Pathol Oral Radiol.</source>
+              <year>2021</year>
+              <volume>132</volume>
+              <issue>4</issue>
+              <fpage>e139</fpage>
+              <lpage>e142</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Middle aged woman developed fever and fatigue followed by skin rash with bullae and mouth ulcers within 5 days of receiving a second injection of Pfizer BNT162b2 vaccine [liver tests not reported], which resolved with corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34384729</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.asmat.2021.e244223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Asmat</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fayeye</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Alshakaty</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>A rare case of COVID-19 vaccine-induced thrombotic thrombocytopaenia (VITT) involving the veno-splanchnic and pulmonary arterial circulation, from a UK district general hospital.</article-title>
+              <source>BMJ Case Rep.</source>
+              <year>2021</year>
+              <volume>14</volume>
+              <elocation-id>e244223</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old woman developed headaches 5 days after receiving Astra Zeneca ChAdOx1 COVID-19 vaccine [platelets 13,000/&#x000b5;L, ALT 57 U/L, Alk P 138 U/L, bilirubin not given, elevations in D-dimer levels, anti-PF4 positive], but imaging of the brain showed no thromboses; when she later developed abdominal pain, imaging showed evidence of portal and mesenteric vein thromboses and pulmonary emboli, and she improved after receiving IVIG and oral anticoagulants).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34535492</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.thomas.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thomas</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Moreira</surname><given-names>ED</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Kitchin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Absalon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gurtman</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lockhart</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Perez</surname><given-names>JL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>C4591001 Clinical Trial Group. Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine through 6 months.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <month>Sep</month>
+              <day>15</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 44,165 participants [ages 16 years and older] given BNT162b2 COVID-19 vaccine or placebo [initially reported in Pollack 2020], vaccine efficacy at 6 months was 91.3% and had gradually declined over time, while serious adverse events were reported in 1.2% vs 0.7%, but there were no new events attributable to vaccine, no cases of myocarditis or no serious hepatic adverse events).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.el_sahly.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>El Sahly</surname><given-names>HM</given-names></name>
+<name name-style="western"><surname>Baden</surname><given-names>LR</given-names></name>
+<name name-style="western"><surname>Essink</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Doblecki-Lewis</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Anderson</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Campbell</surname><given-names>TB</given-names></name>
+<etal/>
+<collab>COVE Study Group</collab>
+</person-group>
+              <article-title>Efficacy of the mRNA-1273 SARS-CoV-2 vaccine at completion of blinded phase.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <month>Sep</month>
+              <day>22</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30,415 adults [ages 18 and over] given mRNA-1723 COVID-19 vaccine or placebo [initially reported in Baden 2021], vaccine efficacy at a median follow up of 5.3 months was 93.2% , while unsolicited adverse events arose in 42% vs 43%, were serious in 1.8% vs 1.9%, included Bell&#x02019;s palsy in 3 vs 5 subjects [both &#x0003c;0.1%], thrombotic events in 47 vs 43 subjects [both &#x0003c;0.3%], but there were no hepatic serious adverse events and no cases of myocarditis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34551225</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.heath.2021.1172">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Heath</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Galiza</surname><given-names>EP</given-names></name>
+<name name-style="western"><surname>Baxter</surname><given-names>DN</given-names></name>
+<name name-style="western"><surname>Boffito</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Browne</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Burns</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Chadwick</surname><given-names>DR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>2019nCoV-302 Study Group. Safety and efficacy of NVX-CoV2373 Covid-19 vaccine.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>385</volume>
+              <fpage>1172</fpage>
+              <lpage>1183</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 15,187 adults [ages 18 to 84] given the Novavax CoV2373 COVID-19 vaccine or placebo, vaccine efficacy was 89.7%, while local adverse events arose in 46% vs 36% with the first injection and 64% vs 30% with the second, solicited systemic adverse events arose in 58% vs 18% with the first and 80% vs 16% with the second, no patient had anaphylaxis; unsolicited adverse events occurred in 25% vs 21% and were severe in 1.0% vs 0.8%, severe events including one vaccinee with myocarditis and one placebo recipient with &#x0201c;liver injury&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34192426</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.james.2021.402">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>James</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jose</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gafoor</surname><given-names>VA</given-names></name>
+<name name-style="western"><surname>Smita</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Balaram</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Guillain-Barr&#x000e9; syndrome following ChAdOx1 nCoV-19 COVID-19 vaccination: A case series.</article-title>
+              <source>Neurol Clin Neurosci.</source>
+              <year>2021</year>
+              <volume>9</volume>
+              <fpage>402</fpage>
+              <lpage>405</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Report of 3 cases of Guillain-Barr&#x000e9; syndrome arising within 16-18 days of receiving the first dose of AstraZeneca ChAdOx1 COVID-19 vaccine; liver test results were not provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34548920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.falsey.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Falsey</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Sobieszczyk</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Hirsch</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Sproule</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Robb</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Corey</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Neuzil</surname><given-names>KM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>AstraZeneca AZD1222 Clinical Study Group. Phase 3 safety and efficacy of AZD1222 (ChAdOx1 nCoV-19) Covid-19 vaccine.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <month>Sep</month>
+              <day>29</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 34,117 adults receiving the AstraZeneca AZD1222 COVID-19 vaccine or placebo, vaccine efficacy was 74% [disease occurring in 0.4% vs 1.5% of participants], and while total adverse events were more frequent with vaccine [41% vs 30%], serious adverse event rates were similar [both 0.5%] and among the list of serious events arising within 28 days of the injections, there were no instances of thrombotic thrombocytopenia or acute liver injury).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.jara.2021.875">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jara</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Undurraga</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Gonz&#x000e1;lez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Paredes</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Fontecilla</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Jara</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pizarro</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effectiveness of an inactivated SARS-CoV-2 vaccine in Chile.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>385</volume>
+              <fpage>875</fpage>
+              <lpage>884</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a nationwide analysis of Sinovac&#x02019;s inactivated COVID-19 vaccine[Corona Vac] in Chile, among a total population of approximately 10.2 million persons, 10.2 million received two doses of vaccine and 0.5 million received one dose; the vaccine efficacy was 65.9% with two and 15.6% with one dose, adverse reactions were similar to those of other COVID-19 vaccines, no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34233097</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.barda.2021.1078">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Barda</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Dagan</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ben-Shlomo</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kepten</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Waxman</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ohana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hern&#x000e1;n</surname><given-names>MA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of the BNT162b2 mRNA Covid-19 vaccine in a nationwide setting.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>385</volume>
+              <fpage>1078</fpage>
+              <lpage>1090</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 884,825 Israel citizens who received the BNT162b2 mRNA COVID-19 vaccine (Pfizer) and a similar number of controls as well as 173,106 patients with SARS-CoV-2 infection and 173,106 uninfected controls, adverse events that were more frequent within 42 days of vaccination included myocarditis [relative risk = 3.24], lymphadenopathy [2.43], appendicitis [1.40] and herpes zoster infection [1.43], although all but lymphadenopathy was even more frequent with SARS-CoV-2 infection; there was no increase in deep vein or other thromboses, intracerebral bleeding, Bell&#x02019;s palsy, or renal disease after vaccination in comparison to control and higher rates of these after SARS-CoV-2 infection; no mention of ALT elevations or autoimmune hepatitis ).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34432976</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CovidVaccines.REF.shroff.2021">
+            <mixed-citation publication-type="other">Shroff H, Satapathy SK, Crawford JM, Todd NJ, VanWagner LB. Liver injury following SARS-CoV-2 vaccination: A multicenter case series. J Hepatol. 2021:S0168-8278(21)01953-X. Epub ahead of print.<annotation><p><italic toggle="yes">(Prospective US registry of hepatic adverse events following COVID-19 vaccination identified 16 patients who developed liver test abnormalities 5-46 days after the first [n=4] or second [n=12] inoculation of the BNT162b2 mRNA [Pfizer: n=12] or mRNA-1723 [Moderna: n=4] vaccine, of which 13 had a hepatocellular and 3 mixed or cholestatic pattern, 6 with preexisting liver disease, 9 with bilirubin above 2.5 mg/dL but only 3 with bilirubin above 10 mg/dL, 8 treated with corticosteroids, none fatal, and all fully recovered or &#x0201c;recovering&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

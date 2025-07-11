@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="VitaminD" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">VitaminD</book-part-id>
+      <title-group>
+        <title>Vitamin D</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>5</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="VitaminC" document-type="chapter">Vitamin C</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="VitaminE" document-type="chapter">Vitamin E</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="VitaminD.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="VitaminD.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Vitamin D is a fat soluble vitamin important in the regulation of calcium metabolism and bone health and deficiency of which cause rickets, a disease marked by lack of mineralization of bone. Conventional doses of vitamin D are well tolerated without appreciable adverse effects. High doses of vitamin D can be toxic, leading to a constellation of signs and symptoms but not liver injury or jaundice.</p>
+        </sec>
+        <sec id="VitaminD.Background">
+          <title>Background</title>
+          <p>Vitamin D is typically referred to as a fat soluble vitamin, but actually represents two related fat soluble substances cholecalciferol (koe" le kal sif' er ol: vitamin D3) and ergocalciferol (er" goe kal sif&#x02019; er ol: vitamin D2), both of which can be used to cure or prevent rickets. These molecules are made from 7-dehydrocholesterol, referred to as pro-vitamin D, which is activated to vitamin D by ultraviolet light, generally in the dermis or epidermis. These sterols are then transported to the liver where they undergo 25-hydroxylation (to 25-OH vitamin D) and then to the kidney where they undergo a second hydroxylation to the fully active molecules: 1,25 dihydroxycholecalciferol (vitamin D3, calcitriol) and 1,25 dihydroxyergocalciferol (vitamin D2). Vitamin D is not a vitamin in the usual sense, in that humans synthesize adequate amounts given adequate exposure to sunlight. Furthermore, vitamin D acts more like a hormone than a vitamin. It acts by binding to specific cytosolic receptors, not only in intestinal epithelial cells and in osteocytes, but also in multiple other tissues such as hematopoietic cells, hair follicles, adipose tissue, muscles and brain. After binding to its cytosolic receptors, vitamin D is translocated to the nucleus where the vitamin-receptor complex interacts with DNA and modulates gene expression to increase calcium absorption. The effect of vitamin D on bone is complex, in that it directly causes mobilization of calcium and bone resorption. The effect of vitamin D on bone mineralization is indirect, being mediated by the increase in calcium absorption from the intestine. While the major effects of vitamin D are on calcium absorption and bone resorption, it clearly has many other activities, the clinical implications of which are not all fully known. Vitamin D is available in multiple forms, including tablets, capsules, oral solutions and syrups and solutions for injection; by prescription and over-the-counter; alone or in combination with calcium or in combination with other vitamins; as cholecalciferol, ergocalciferol and their hydroxylated forms as well as synthetic analogues. Common commercial (and generic) names include Rocaltrol (calcitriol), One-Alpha (alfacalcidol), Calderol (calcifediol), Caltrate (cholecaliciferol), Hectorol (doxercalcifedol), Calcidol (ergocalciferol) and Zemplar (paricalcitol). The recommended daily allowance (RDA) for vitamin D has been recently modified and is 600 IU (~15 &#x000b5;g) in persons 1 to 70 years of age and 800 IU (~20 &#x000b5;g) daily for those 71 years and older. An adequate blood level of vitamin D (measured as 25-OH vitamin D) is considered 20 ng/mL (50 nmol/L) and above, a level that can be achieved by most people through daily skin exposure to light. Levels above 60 ng/mL (150 nmol/L) are considered excessive and referred to as &#x0201c;hypervitaminosis D&#x0201d;. Levels above 150 ng/mL (375 nmol/L) generally lead to symptoms and signs of toxicity which is referred to as &#x0201c;vitamin D intoxication&#x0201d;.</p>
+        </sec>
+        <sec id="VitaminD.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Neither normal nor excessively high intakes of vitamin D are associated with liver injury or liver test abnormalities. Hypervitaminosis D and vitamin D intoxication generally arise with intakes above 50,000 IU daily, but lower doses may induce toxicity in susceptible individuals such as patients with renal osteodystrophy (secondary hyperparathyroidism), and a safer upper limit of recommended intake is 10,000 IU daily. Symptoms of vitamin D intoxication are caused by hypercalcemia and can include dehydration, thirst, polyuria, anorexia, nausea, vomiting, constipation, fatigue, bone pains and muscle cramps. Complications can include renal dysfunction, nephrocalcinosis, decreased consciousness and seizures. Symptoms arise a few weeks to several months after starting excess doses of vitamin D given orally or parenterally. A common cause of hypervitaminosis D is the mislabeling of an over-the-counter or locally prepared nutritional supplement, excessive fortification of milk or foods, and inadvertent prescription or dispensing errors. In clinical descriptions of vitamin D intoxication, typical laboratory findings are hypercalcemia, increase in serum creatinine, and high 25-OH vitamin D levels (usually above 200 ng/mL or 500 nmol/L). Serum aminotransferase and bilirubin levels are typically normal, while alkaline phosphatase levels may actually be lower than normal.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="VitaminD.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Vitamin D in high doses increases absorption of dietary calcium, but also mobilizes calcium from bone. The symptoms of vitamin D intoxication are largely those of hypercalcemia. While hepatocytes, cholangiocytes, stellate cells and resident immune cells in the liver have vitamin D receptors, there is no evidence that vitamin D causes injury to the liver.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Vitamins" document-type="chapter">Vitamins</related-object></p>
+          <p>Other Drugs in the Class: <related-object link-type="booklink" source-id="livertox" document-id="VitaminA" document-type="chapter">Vitamin A</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminB" document-type="chapter">Vitamin B</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminC" document-type="chapter">Vitamin C</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminE" document-type="chapter">Vitamin E</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminK" document-type="chapter">Vitamin K</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="FolicAcid" document-type="chapter">Folate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Niacin" document-type="chapter">Niacin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="VitaminD.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Vitamin D &#x02013; Generic, Rocaltrol&#x000ae; (Calcitriol, Vitamin D3)</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Vitamins</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Vitamin+D">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="VitaminD.CHEMICAL_FORMULAS_AND_STRUCTURE">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="VitaminD.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_VitaminD.Tc_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_VitaminD.Tc_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_VitaminD.Tc_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_VitaminD.Tc_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Cholecalciferol</td>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971039">67-97-0</ext-link>
+</td>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H44-O</td>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971039" document-id-type="sid" document-type="summary" object-id="134971039" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ergocalciferol</td>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971005">50-14-6</ext-link>
+</td>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C28-H44-O</td>
+                <td headers="hd_h_VitaminD.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971005" document-id-type="sid" document-type="summary" object-id="134971005" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="VitaminD.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 May 2021</p>
+        <ref-list id="VitaminD.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="VitaminD.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; does not discuss vitamin D).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF.seeff.2013">
+            <mixed-citation publication-type="book">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp, 631-57.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of dietary supplements; does not discuss vitamins and minerals).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF.nolin.2018">
+            <mixed-citation publication-type="book">Nolin TD, Friedman PA. Agents affecting mineral ion homeostasis and bone turnover. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 887-906.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF.holick.1998">
+            <mixed-citation publication-type="book">Holick MF. Vitamin D. In, Shils ME, Olson JA, Shike M, Ross AC, eds. Modern nutrition in health and disease. 9th ed. Baltimore: Williams &#x00026; Wilkins, 1998: pp. 329-46.<annotation><p><italic toggle="yes">(Textbook of nutrition).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF5">
+            <mixed-citation publication-type="book">Food and Nutrition Board, Institute of Medicine. DRI dietary reference intakes for calcium and vitamin D. Washington DC: National Academy Press, 1998.<annotation><p><italic toggle="yes">(Reports from the Food and Nutrition Board of the Institute of Medicine on reference values for vitamin intake, replacing the previously published Recommended Dietary Allowances).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF.office_of_dietary_supplements">
+            <mixed-citation publication-type="web"><person-group><collab>Office of Dietary Supplements</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/">https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/</ext-link><annotation><p><italic toggle="yes">(Fact sheet on vitamin D maintained and regularly updated by the Office of Dietary Supplements, National Institutes of Health).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF.jacobus.1992.1173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobus</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Holick</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Shao</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Holm</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Kolodny</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Fuleihan</surname><given-names>GE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hypervitaminosis D associated with drinking milk.</article-title>
+              <source>N Engl J Med</source>
+              <year>1992</year>
+              <volume>326</volume>
+              <fpage>1173</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Eight patients including a 15 month old child who were not taking vitamin D supplements were found to have hypervitaminosis D, 7 with hypercalcemia, 5 with elevated creatinine and all with high 25-OH vitamin D [207-1660 nmol/L] and all drank milk from the same local dairy; testing of the milk showed high, but variable levels of cholecalciferol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1313547</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.blank.1995.656">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blank</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Scanlon</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Sinks</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>Lett</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Falk</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>An outbreak of hypervitaminosis D associated with the overfortification of milk from a home-delivery dairy.</article-title>
+              <source>Am J Public Health</source>
+              <year>1995</year>
+              <volume>85</volume>
+              <fpage>656</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case control study of 33 cases of hypervitaminosis D and 93 controls found risk factors of vitamin D supplementation, older age and increasing consumption of milk from a local dairy, which had been implicated in 8 cases previously [Jacobus 1992]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7733425</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to vitamins including vitamin D).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.kaptein.2010.460">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaptein</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Risselada</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Boerma</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Egbers</surname><given-names>PH</given-names></name>
+<name name-style="western"><surname>Nieboer</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Life-threatening complications of vitamin D intoxication due to over-the-counter supplements.</article-title>
+              <source>Clin Toxicol (Phila)</source>
+              <year>2010</year>
+              <volume>48</volume>
+              <fpage>460</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(75 and 73 year old women presented with severe hypercalcemia [16.0 and 18.2 mg/dL] and hypervitaminosis D [1,372 and 644 nmol/L] while taking a dietary supplement labelled as having 150 IU of vitamin D, which on testing had 100-1000 times that concentration).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20515399</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.araki.2011.3603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Araki</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Holick</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Alfonso</surname><given-names>BD</given-names></name>
+<name name-style="western"><surname>Charlap</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Romero</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Rizk</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Newman</surname><given-names>LG</given-names></name>
+</person-group>
+              <article-title>Vitamin D intoxication with severe hypercalcemia due to manufacturing and labeling errors of two dietary supplements made in the United States.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2011</year>
+              <volume>96</volume>
+              <fpage>3603</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two men, ages 58 and 40 years, presented with hypercalcemia 1 and 2 months after starting commercial multivitamin pills which on testing had higher levels of vitamin D than stated on the label [186,400 instead of 1600 IU, and 970,000 instead of 1000 IU], with slow resolution after stopping; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21917864</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.jacobsen.2011.e52">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobsen</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Hronek</surname><given-names>BW</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Schilling</surname><given-names>ML</given-names></name>
+</person-group>
+              <article-title>Hypervitaminosis D associated with a vitamin D dispensing error.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2011</year>
+              <volume>45</volume>
+              <elocation-id>e52</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman with multiple medical conditions was treated with calcium and cholecalciferol [1000 IU daily] but was mistakenly given ergocalciferol [50,000 IU] to take daily and developed fatigue and confusion 3 months later [calcium 14.6 mg/dL, creatinine 5.3 mg/dL, Alk P 82 U/L], resolving with hydration and stopping calcium and vitamin D supplements).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21917555</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.lowe.2011.291">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lowe</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Cusano</surname><given-names>NE</given-names></name>
+<name name-style="western"><surname>Binkley</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Blaner</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Bilezikian</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Vitamin D toxicity due to a commonly available "over the counter" remedy from the Dominican Republic.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2011</year>
+              <volume>96</volume>
+              <fpage>291</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(9 patients presented with hypercalcemia and hypervitaminosis D after starting an over-the-counter supplement that had higher concentrations of vitamin D than stated on the label [864,000 rather than 600,000 IU]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21123442</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.ross.2011.53">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ross</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Manson</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Abrams</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Aloia</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Brannon</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Clinton</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Durazo-Arvizu</surname><given-names>RA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2011</year>
+              <volume>96</volume>
+              <fpage>53</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of the 2011 report on reference intakes for calcium and vitamin D recommends intake of 600 IU daily for ages 1 to 70 and 800 IU daily for age above 71 years attempting to achieve serum 25-OH vitamin D levels of at least 20 ng/mL or 50 nmol/L).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21118827</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.pandita.2012.118">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pandita</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Razdan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kudyar</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Beigh</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kuchay</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Banday</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>"Excess gooD can be Dangerous". A case series of iatrogenic symptomatic hypercalcemia due to hypervitaminosis D.</article-title>
+              <source>Clin Cases Miner Bone Metab</source>
+              <year>2012</year>
+              <volume>9</volume>
+              <fpage>118</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case series of 15 adults [ages 42 to 85 years] with hypervitaminosis D after taking vitamin D3 injections for 5 weeks to 3 years [calcium 11.0 to 15.2 mg/dL, creatinine 1.1 to 3.5 mg/dL, 25OH-vitamin D 103 to 164 ng/mL]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23087723</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.ozkan.2012.93">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ozkan</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hatun</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bereket</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Vitamin D intoxication.</article-title>
+              <source>Turk J Pediatr</source>
+              <year>2012</year>
+              <volume>54</volume>
+              <fpage>93</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, diagnosis, laboratory investigation and treatment of vitamin D intoxication; no mention of liver involvement but states that alkaline phosphatase levels tend to be low or normal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22734293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.vanstone.2012.e1060">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vanstone</surname><given-names>MB</given-names></name>
+<name name-style="western"><surname>Oberfield</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Shader</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ardeshirpour</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Carpenter</surname><given-names>TO</given-names></name>
+</person-group>
+              <article-title>Hypercalcemia in children receiving pharmacologic doses of vitamin D.</article-title>
+              <source>Pediatrics</source>
+              <year>2012</year>
+              <volume>129</volume>
+              <fpage>e1060</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three infants developed hypercalcemia while being treated for vitamin D deficiency, responding to stopping excessive pharmacologic doses [1400-2000 IU daily], and one later tolerating doses within the RDA [600 IU daily]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22412034</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.fortmann.2013">
+            <mixed-citation publication-type="web">Fortmann SP, Burda BU, Senger CA, Lin JS, Beil TL, O'Connor E, Whitlock EP. Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: a systematic evidence review for the U.S. Preventive Services Task Force [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2013 Nov. Available from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/books/NBK173987/">http://www.ncbi.nlm.nih.gov/books/NBK173987/</ext-link><annotation><p><italic toggle="yes">(Systematic review of the efficacy and safety of vitamin D in the prevention of cardiovascular disease and cancer states that most trials showed no differences in side effects between vitamin D and placebo).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminD.REF.an_k.2013.136">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>An&#x00131;k</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>&#x000c7;atl&#x00131;</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Abac&#x00131;</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dizdarer</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>B&#x000f6;ber</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Acute vitamin D intoxication possibly due to faulty production of a multivitamin preparation.</article-title>
+              <source>J Clin Res Pediatr Endocrinol</source>
+              <year>2013</year>
+              <volume>5</volume>
+              <fpage>136</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three infants, ages 1 to 2 years, presented with severe hypercalcemia [19.4, 19.3 and 13.7 mg/dL], nephrocalcinosis and toxic levels of 25-OH vitamin D [&#x0003e;160 nmol/L] after taking a commercial multivitamin preparation labeled as having 200 IU of vitamin D, but suspected of having more).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23748070</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.nasri.2013.85">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nasri</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Mubarak</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Renal injury due to vitamin D intoxication; a case of dispensing error.</article-title>
+              <source>J Renal Inj Prev</source>
+              <year>2013</year>
+              <volume>2</volume>
+              <fpage>85</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old man developed hypercalcemia, interstitial nephritis and renal insufficiency after given 40 [instead of the prescribed 6] injections of vitamin D [300,000 IU] weekly [calcium 12 mg/dL, creatinine 4.0 mg/dL, 25OH-vitamin D &#x0003e;400 nmol/L]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25340136</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.kara.2014.e240">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kara</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gunindi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ustyol</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Aydin</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>Vitamin D intoxication due to an erroneously manufactured dietary supplement in seven children.</article-title>
+              <source>Pediatrics</source>
+              <year>2014</year>
+              <volume>133</volume>
+              <fpage>e240</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Seven children [ages 0.7 to 4.2 years] presented with symptomatic hypercalcemia [13.4-18.8 mg/dL] and high 25-OH vitamin D levels [340-962 ng/mL] and were found to have taken an over-the-counter fish oil supplement, labelled as having 200 IU of vitamin D per dose, but measured as having ~800,000 IU; all recovering with medical management).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24298009</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.bansal.2014.74">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bansal</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Tyagi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sharma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Singla</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Arora</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Bansal</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kumar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arora</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Iatrogenic hypervitaminosis D as an unusual cause of persistent vomiting: a case report.</article-title>
+              <source>J Med Case Rep</source>
+              <year>2014</year>
+              <volume>8</volume>
+              <fpage>74</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(45 year old woman developed polydipsia, anorexia, nausea and recurrent vomiting with hypercalcemia [11.5 mg/dL] and renal dysfunction [creatinine 4.1 mg/dL] after receiving ten intramuscular injections of vitamin D [600,000 IU each] with normal liver tests [bilirubin 0.6 mg/dL, ALT 22, AST 20 U/L] but slightly elevated alkaline phosphatase [221 U/L], responding to hydration and low calcium diet).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24571630</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.conti.2014.763">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Conti</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Chirico</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Lacquaniti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Silipigni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Fede</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Vitale</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fede</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Vitamin D intoxication in two brothers: be careful with dietary supplements.</article-title>
+              <source>J Pediatr Endocrinol Metab</source>
+              <year>2014</year>
+              <volume>27</volume>
+              <fpage>763</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(15 and 12 year old brothers presented with hypervitaminosis D after taking a locally prepared cod liver oil supplement for 15 and 30 days [calcium 9.8 and 15.7 mg/dL, creatinine 0.7 and 2.3 mg/dL, 25-OH vitamin D 138 and 214 nmol/L], resolving slowly upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24670344</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.bala.2015.377">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bala</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Rajput</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rao</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Unmasking of primary hyperparathyroidism by Vitamin D therapy.</article-title>
+              <source>Indian J Nephrol</source>
+              <year>2015</year>
+              <volume>25</volume>
+              <fpage>377</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(38 year old woman developed hypercalcemia [15.9 mg/dL] 2 months after starting vitamin D [60,000 IU weekly], but was also found to have hyperparathyroidism [bilirubin 0.8 mg/dL, ALT 23 U/L, iPTH 1464 pg/mL], which resolved after removal of a parathyroid adenoma).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26664216</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.mckenna.2015.163">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McKenna</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>BF</given-names></name>
+<name name-style="western"><surname>O'Keane</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kilbane</surname><given-names>MT</given-names></name>
+</person-group>
+              <article-title>Rising trend in vitamin D status from 1993 to 2013: dual concerns for the future.</article-title>
+              <source>Endocr Connect</source>
+              <year>2015</year>
+              <volume>4</volume>
+              <fpage>163</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of serum 25-OH vitamin D levels among 43,782 Irish patients over a 20 year period showed increases in mean levels and lower rates of deficiency in 2013 vs 1993-94 [&#x0003c;10 nmol/L in 2.7% vs 15.3%], but also higher rates of excessive levels [&#x0003e;125 nmol/L in 3.8% vs 0.7%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26034120</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.chakraborty.2015.146">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chakraborty</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sarkar</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Bhattacharya</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Krishnan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Chakraborty</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>A nontoxic case of vitamin D toxicity.</article-title>
+              <source>Lab Med</source>
+              <year>2015</year>
+              <volume>46</volume>
+              <fpage>146</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(42 year old woman mistakenly took 60,000 IU of vitamin D daily instead of weekly as prescribed and was found to have high levels of serum vitamin D [25-OH vitamin D 670 ng/mL], but without symptoms or hypercalcemia [9.0 mg/dL], liver tests were also normal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25918194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.stickel.2015.851">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stickel</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Shouval. Hepatotoxicity of herbal and dietary supplements: an update.</article-title>
+              <source>Arch Toxicol</source>
+              <year>2015</year>
+              <volume>89</volume>
+              <fpage>851</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of herbal and nutritional supplements; does not mention or discuss vitamin D).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25680499</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.ketha.2015.14">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ketha</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wadams</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Lteif</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Singh</surname><given-names>RJ</given-names></name>
+</person-group>
+              <article-title>Iatrogenic vitamin D toxicity in an infant--a case report and review of literature.</article-title>
+              <source>J Steroid Biochem Mol Biol</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>14</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(4 month old infant presented with dehydration, hypercalcemia [18.7 mg/dL], and nephrocalcinosis, having been given high doses of vitamin D by her breast feeding mother using an over-the-counter product that on testing had higher concentrations than stated on the label [6000 instead of 2000 IU per drop]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25636720</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 7 were attributed to niacin but none to any other vitamin, including vitamin D).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.manson.2015.1311">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manson</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Bassuk</surname><given-names>SS</given-names></name>
+</person-group>
+              <article-title>Vitamin D research and clinical practice: at a crossroads.</article-title>
+              <source>JAMA</source>
+              <year>2015</year>
+              <volume>313</volume>
+              <fpage>1311</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary on increased rates of testing for 25-OH vitamin D levels and use of vitamin D supplements in clinical practice stressing that clinical enthusiasm for use of vitamin D has outpaced the medical evidence for its benefit, particularly for non-bone effects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25695911</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.p_rezbarrios.2016.1354">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>P&#x000e9;rez-Barrios</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hern&#x000e1;ndez-&#x000c1;lvarez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Blanco-Navarro</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez-Sacrist&#x000e1;n</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Granado-Lorencio</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Prevalence of hypercalcemia related to hypervitaminosis D in clinical practice.</article-title>
+              <source>Clin Nutr</source>
+              <year>2016</year>
+              <volume>35</volume>
+              <fpage>1354</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Serum 25-OH vitamin D levels were elevated in 475 of 25,567 samples [1.9%] tested in a single laboratory over a 6 year period in Madrid, Spain, but only 10% of samples were associated with hypercalcemia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26995293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.deluca.2016.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>DeLuca</surname><given-names>HF</given-names></name>
+<name name-style="western"><surname>Vitamin</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Historical Overview.</article-title>
+              <source>Vitam Horm</source>
+              <year>2016</year>
+              <volume>100</volume>
+              <fpage>1</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the discovery of vitamin D, isolation of its active forms, elucidation of its metabolism and mechanism of action, discovery of the vitamin D receptor and discussion of its multiple actions and effects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26827946</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.barchetta.2016.92">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Barchetta</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Del Ben</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Angelico</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Di Martino</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fraioli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>La Torre</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Saulle</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>No effects of oral vitamin D supplementation on non-alcoholic fatty liver disease in patients with type 2 diabetes: a randomized, double-blind, placebo-controlled trial.</article-title>
+              <source>BMC Med</source>
+              <year>2016</year>
+              <volume>14</volume>
+              <fpage>92</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 65 patients with diabetes and nonalcoholic fatty liver treated with cholecalciferol [2000 IU/day] vs placebo for 24 weeks, changes in ALT, serum lipids, HbA1c and cytokine levels and measures of visceral or total fat were similar in the two groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27353492</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.kimball.2017.e1300213">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kimball</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Mirhosseini</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Holick</surname><given-names>MF</given-names></name>
+</person-group>
+              <article-title>Evaluation of vitamin D3 intakes up to 15,000 international units/day and serum 25-hydroxyvitamin D concentrations up to 300 nmol/L on calcium metabolism in a community setting.</article-title>
+              <source>Dermatoendocrinol</source>
+              <year>2017</year>
+              <volume>9</volume>
+              <elocation-id>e1300213</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3882 adults in a community based study of vitamin D supplementation in doses of 1000-15,000 IU per day [aiming to raise serum 25-OH vitamin D levels to above 100 nmol/L] there were no serious adverse events and mean serum calcium did not change and ALT and GGT levels decreased slightly).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28458767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.manson.2019.33">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manson</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Cook</surname><given-names>NR</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>IM</given-names></name>
+<name name-style="western"><surname>Christen</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Bassuk</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Mora</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gibson</surname><given-names>H</given-names></name>
+<etal/>
+<collab>VITAL Research Group</collab>
+</person-group>
+              <article-title>Vitamin D supplements and prevention of cancer and cardiovascular disease.</article-title>
+              <source>N Engl J Med</source>
+              <year>2019</year>
+              <volume>380</volume>
+              <fpage>33</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 25,871 adults treated with 2000 IU of cholecalciferol [D3] or placebo daily for a median of 5.3 years, the rates of cardiovascular events and new onset of cancer were the same in the two groups and there were no differences in adverse event rates including hypercalcemia and kidney stones; no specific mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30415629</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.malihi.2019.29">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Malihi</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Lawes</surname><given-names>CMM</given-names></name>
+<name name-style="western"><surname>Scragg</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Adverse events from large dose vitamin D supplementation taken for one year or longer.</article-title>
+              <source>J Steroid Biochem Mol Biol</source>
+              <year>2019</year>
+              <volume>188</volume>
+              <fpage>29</fpage>
+              <lpage>37</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of adverse event rates in controlled trials of vitamin D in doses in doses of 2800 IU or more per day for at least 1 year identified 15 studies and no increase in total or severe adverse events associated with vitamin D intake including rates of hypercalcemia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30529281</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.pittas.2019.520">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pittas</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Dawson-Hughes</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Sheehan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ware</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Knowler</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Aroda</surname><given-names>VR</given-names></name>
+<name name-style="western"><surname>Brodsky</surname><given-names>I</given-names></name>
+<etal/>
+</person-group>
+              <article-title>D2d Research Group. Vitamin D supplementation and prevention of type 2 diabetes.</article-title>
+              <source>N Engl J Med</source>
+              <year>2019</year>
+              <volume>381</volume>
+              <fpage>520</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2423 adults at high risk of type 2 diabetes treated with vitamin D [4000 IU daily] or placebo for a median of 2.5 years, the rate of new onset diabetes was similar in the two groups as were rates of total and serious adverse events and deaths; no specific mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31173679</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.billington.2020.dgz212">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Billington</surname><given-names>EO</given-names></name>
+<name name-style="western"><surname>Burt</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Rose</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Davison</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Gaudet</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Boyd</surname><given-names>SK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of high-dose vitamin D supplementation: secondary analysis of a randomized controlled trial.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2020</year>
+              <volume>105</volume>
+              <elocation-id>dgz212</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 373 adults [ages 55 to 70 years] treated with one of 3 doses of 25[OH] vitamin D per day for up to 3 years, mild hypercalcemia arose in none on 400 IU, 3% on 4000 IU and 9% on 10,000 IU daily, while adverse event rates were similar in all 3 groups including ALT or AST elevations above 1.5 times the ULN [2%, 2% and 4%] and there were no serious hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31746327</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminD.REF.bouillon.2020.dgz282">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bouillon</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Safety of high-dose vitamin D supplementation.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2020</year>
+              <volume>105</volume>
+              <elocation-id>dgz282</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary on the safety and efficacy of high doses of vitamin D summarizing results from 3 recent randomized controlled trials, all of which demonstrated the safety of doses of 3000 to 10,000 IU daily [except for low rates of mild and transient hypercalcemia], but with no evidence of efficacy in reducing the risk of bone fractures, cardiovascular disease, diabetes, or cancer, indicating that doses at or above 4000 IU per day should not be used outside of clinical trials).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31858106</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="VitaminD.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Vitamin%20D/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Vitamin D: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Vitamin%20D">Trials on Vitamin D: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

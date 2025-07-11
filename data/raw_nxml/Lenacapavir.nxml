@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lenacapavir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lenacapavir</book-part-id>
+      <title-group>
+        <title>Lenacapavir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="LemonBalm" document-type="chapter">Lemon Balm</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Lenalidomide" document-type="chapter">Lenalidomide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lenacapavir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lenacapavir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lenacapavir is a human immunodeficiency virus (HIV) capsid inhibitor that is used in combination with other antiretroviral agents as therapy of patients with multidrug resistant HIV infection. Lenacapavir has a long duration of action and is available as tablets for oral and in solution for subcutaneous administration, with an extended half-life and can be given every 26 weeks. Lenacapavir is associated with a low rate of transient and usually mild elevations in serum aminotransferase levels during therapy but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Lenacapavir.Background">
+          <title>Background</title>
+          <p>Lenacapavir (le nah kah&#x02019; pa veer) is an inhibitor of HIV capsid formation that is active in vitro and in vivo against HIV-1 replication, a first-in-class capsid inhibitor. Lenacapavir inhibits HIV replication in both early and late stages of the replicative cycle and is particularly useful based upon its activity against HIV strains that are resistant to standard antiviral agents. Initial approval of lenacapavir was based upon small trials of therapy of patients with multidrug resistant infections. In these studies, addition of lenacapavir to standard optimized therapy led to decreases in HIV viral levels by at least 0.5 log<sub>10</sub> IU/mL. A long acting formulation was created using polyethylene glycol allowing for slow release of the drug from a subcutaneous depot that provides adequate drug levels for viral suppression for 26 weeks. Recommended regimens include a few days of oral followed by subcutaneous (sc) administration of the extended half-life formulation that is given every 26 weeks. Subsequent long term follow up demonstrated maintenance of viral inhibition in more than 80% of recipients. Lenacapavir was approved for use in patients with multidrug resistant HIV infection in 2022. Lenacapavir is available in tablets of 300 mg for initial oral administration and in solution as 463 mg in 1.5 mL single use vials for sc administration under the brand name Sunlenca. Two options are recommended for initiation of therapy. The first option is to start with oral lenacapavir alone in doses of 600 mg on days 1 and 2 and 300 mg on day 8, with sc lenacapavir (927 mg: 2 vials) starting on day 15 which is then continued in the maintenance phase of similar injections every 26 weeks. The second option is to start both oral (600 mg) and sc injections (927 mg) on day 1 with a second oral dose of 600 mg on day 2, followed by the maintenance phase of injections every 26 weeks. Lenacapavir is also being evaluated as preventive therapy in persons at high risk of acquiring HIV infection. In this situation, lenacapavir is administered subcutaneously (927 mg) every 26 weeks without an initial phase using the oral formulation. Lenacapavir is usually described as being well tolerated, side effects being uncommon and mild but possibly including nausea, constipation, diarrhea, abdominal distention, headache, and injection site reactions. Antiviral resistance develops in a proportion of patients treated long term. Serious adverse events are rare, although local reactions with nodule formation can lead to discontinuation.</p>
+        </sec>
+        <sec id="Lenacapavir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure small, open-label clinical trial, serum aminotransferase elevations occurred in 10% of patients and were above 5 times the ULN in 2 (3%), both of whom also developed jaundice. In both instances, however, other causes of liver injury were identified, one case being attributed to alcohol related hepatitis and the other to &#x0201c;reconstitution syndrome&#x0201d; caused by the restoration of immune reactivity with the successful control of HIV replication. Both patients were continued on lenacapavir and recovered uneventfully. Since its approval and more widescale use, there have been no published reports of liver injury attributed to lenacapavir. One of the shortcomings of a long acting pharmaceutical agent such as lenacapavir is the inability to stop therapy promptly in the event of toxicity or intolerance.</p>
+          <p>Finally, the restoration of immune reactivity as a result of adding lenacapavir to an antiretroviral regimen that is not fully effective can result in reconstitution syndrome and flares of chronic viral hepatitis in patients with preexisting chronic hepatitis B or C.</p>
+          <p>Likelihood score: E (unlikely cause of idiosyncratic clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Lenacapavir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which lenacapavir might cause liver injury is not known. It is metabolized in the liver, largely via CYP3A4, and it is potentially susceptible to drug-drug interactions, inhibitors of CYP3A4 leading to increased levels and, more importantly, inducers of CYP 3A4 causing a decrease in serum concentrations and increase in risk of virologic failure. Lenacapavir itself is a moderate inhibitor of CYP3A and can increase serum concentrations of CYP substrates, effects that can persist for up to 9 months after its subcutaneous administration.</p>
+        </sec>
+        <sec id="Lenacapavir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations are common during lenacapavir therapy but mostly due to underlying, preexisting liver disease or other medications being taken by patients with chronic HIV infection. Routine monitoring of liver tests is not recommended in the product label. If aminotransferase elevations above 5 times the upper limit of normal (ULN) arise, other possible causes of liver injury should be sought and lenacapavir therapy should be interrupted only if levels remain elevated and unexplained. Because it is administered every 26 weeks, interruption of therapy is usually not possible, and full diagnostic evaluation and further follow up is usually available before a decision needs to be made.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="book-part">Antiviral Agents</related-object></p>
+          <p>Other Drugs for Multidrug Resistant HIV Infection: <related-object link-type="booklink" source-id="livertox" document-id="Fostemsavir" document-type="book-part">Fostemsavir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ibalizumab" document-type="book-part">Ibalizumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lenacapavir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Lenacapavir &#x02013; Sunlenca&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiviral agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Lenacapavir">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Lenacapavir.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lenacapavir.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Lenacapavir.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lenacapavir.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Lenacapavir.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lenacapavir.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lenacapavir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lenacapavir</td>
+                <td headers="hd_h_Lenacapavir.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128303">2189684-44-2</ext-link>
+</p>
+</td>
+                <td headers="hd_h_Lenacapavir.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C39-H32-ClF10-N7-O5-S2</td>
+                <td headers="hd_h_Lenacapavir.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="381128303" document-id-type="sid" document-type="summary" object-id="381128303" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lenacapavir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2025</p>
+        <ref-list id="Lenacapavir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lenacapavir.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of lenacapavir).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.nunez.2013">
+            <mixed-citation publication-type="book">Nunez M. Antiretroviral drugs. Hepatotoxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 506-510.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of drugs for HIV infection; discusses several drugs for HIV but not lenacapavir).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.flexner.2018">
+            <mixed-citation publication-type="book">Flexner CW. Antiretroviral agents and treatment of HIV Infection. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1137-1158.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; lenacapavir is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF4">
+            <mixed-citation publication-type="other">FDA. Integrated Review.</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF5">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215973,215974Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215973,215974Orig1s000IntegratedR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy of lenacapavir, a first-in-class capsid inhibitor, mentions that ALT elevations arose in 15% of patients and were above 5 times ULN in 3%, 2 patients developing marked aminotransferase elevations with concurrent elevations in serum bilirubin, one case attributed to acute alcoholic hepatitis and the second to reconstitution syndrome, the abnormalities resolving spontaneously and both patients were able to continue lenacapavir).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.segalmaurer.2022.1793">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Segal-Maurer</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>DeJesus</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Stellbrink</surname>
+<given-names>HJ</given-names></string-name>, <string-name name-style="western"><surname>Castagna</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Richmond</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Sinclair</surname>
+<given-names>GI</given-names></string-name>, <string-name name-style="western"><surname>Siripassorn</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>; <collab>CAPELLA Study Investigators</collab>. <article-title>Capsid inhibition with lenacapavir in multidrug-resistant HIV-1 infection.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>:<fpage>1793</fpage>-<lpage>1803</lpage>.<annotation><p><italic toggle="yes">(Among 72 adults with multidrug resistant HIV-1 infection treated with daily oral lenacapavir followed by subcutaneous injections every 6 months added to their optimized antiretroviral regimen, HIV-1 RNA levels decreased by at least 0.5 log<sub>10</sub> copies/mL within 2 weeks and suppression was maintained for at least 26 weeks when levels were less than 50 copies/mL in 82% of patients; therapy was without serious side effects, although 2 of 72 patients [3%] developed AST elevations above 5 times ULN [no details provided]).</italic></p></annotation><pub-id pub-id-type="pmid">35544387</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.marrazzo.2022.1848">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Marrazzo</surname>
+<given-names>J.</given-names></string-name>
+<article-title>Lenacapavir for HIV-1 - potential promise of a long-acting antiretroviral drug.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>:<fpage>1848</fpage>-<lpage>1849</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Segal-Maurer et al [2022] stresses that lenacapavir is a first-in-class capsid inhibitor with two mechanisms of action, that it is long acting and given subcutaneously every 6 months, that side effects were uncommon except for injection site reactions, and that resistance was uncommon).</italic></p></annotation><pub-id pub-id-type="pmid">35544391</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.paik.2022.1499">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Paik</surname>
+<given-names>J.</given-names></string-name>
+<article-title>Lenacapavir: first approval.</article-title>
+<source>Drugs.</source>
+<year>2022</year>;<volume>82</volume>:<fpage>1499</fpage>-<lpage>1504</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of lenacapavir shortly after its approval for therapy of patients with multidrug resistant HIV-1 infection, mentions that it was generally well tolerated, the most frequent side effect being injection site reactions, and that 3% of patients had AST elevations and 3% direct bilirubin elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36272024</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.gupta.2023.e15">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gupta</surname>
+<given-names>SK</given-names></string-name>, <string-name name-style="western"><surname>Berhe</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Crofoot</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Benson</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Ramgopal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sims</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>McDonald</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Lenacapavir administered every 26 weeks or daily in combination with oral daily antiretroviral therapy for initial treatment of HIV: a randomised, open-label, active-controlled, phase 2 trial.</article-title>
+<source>Lancet HIV.</source>
+<year>2023</year>;<volume>10</volume>:<fpage>e15</fpage>-<lpage>e23</lpage>.<annotation><p><italic toggle="yes">(Among 182 adults with previously untreated HIV infection started on various antiretroviral regimens with or without lenacapavir for 54 weeks, efficacy was similar with all four regimens).</italic></p></annotation><pub-id pub-id-type="pmid">36566079</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.ogbuagu.2023.e497">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ogbuagu</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Segal-Maurer</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ratanasuwan</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Avihingsanon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Brinson</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Workowski</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Antinori</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <article-title>GS-US-200-4625 investigators. Efficacy and safety of the novel capsid inhibitor lenacapavir to treat multidrug-resistant HIV: week 52 results of a phase 2/3 trial.</article-title>
+<source>Lancet HIV.</source>
+<year>2023</year>;<volume>10</volume>:<fpage>e497</fpage>-<lpage>e505</lpage>.<annotation><p><italic toggle="yes">(Among the 72 patients with multidrug resistant HIV infection treated with different regimens of lenacapavir added to optimized background regimens [Segal-Maurer 2022] who were followed to 52 weeks, 83-86% had a full virologic response, 9 patients having emergent lenacapavir resistance, 4 of whom subsequently had a full virologic response, and there were no new safety signals and no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37451297</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF11">
+            <mixed-citation publication-type="journal"><article-title>Lenacapavir (Sunlenca) for multidrug-resistant HIV.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>68</fpage>-<lpage>70</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of lenacapavir shortly after its initial approval in the US as therapy for patients with multidrug resistant HIV-1 infection, mentions that elevations in liver enzyme levels have been reported and that immune reconstitution syndrome can occur).</italic></p></annotation><pub-id pub-id-type="pmid">37155250</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.bekker.2024.1179">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bekker</surname>
+<given-names>LG</given-names></string-name>, <string-name name-style="western"><surname>Das</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Abdool Karim</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Ahmed</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Batting</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Brumskine</surname>
+<given-names>W</given-names></string-name>, <etal>et al.</etal>; <article-title>PURPOSE 1 Study Team. Twice-Yearly Lenacapavir or Daily F/TAF for HIV Prevention in Cisgender Women.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>;<volume>391</volume>:<fpage>1179</fpage>-<lpage>1192</lpage>.<annotation><p><italic toggle="yes">(Among 5338 adolescent and young women in South Africa and Uganda treated with lenacapavir [LEN: sc every 26 weeks] or emtricitabine [F] with either disoproxil fumarate [F/TDF] or alafenamide [F/TAF] orally once daily, 55 de novo, incident HIV infections arose, none on LEN, vs 39 on F/TAF [2.02/100 person years] and 16 on F/TDF [1.69/100 person-years], the adherence with the oral regimens was low; adverse events were similar among the 3 groups except for injection site reactions which were generally mild-moderate and none were scored as serious; rates of ALT elevations and hepatotoxicity not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">39046157</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.ogbuagu.2024.ciae423">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ogbuagu</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Molina</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Chetchotisakd</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Ramgopal</surname>
+<given-names>MN</given-names></string-name>, <string-name name-style="western"><surname>Sanchez</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Brunetta</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Castelli</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of long-acting subcutaneous lenacapavir in heavily treatment-experienced people with multi-drug resistant HIV-1: week 104 results of a phase 2/3 trial.</article-title>
+<source>Clin Infect Dis.</source>
+<year>2024</year>:<elocation-id>ciae423</elocation-id>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Further follow up of the 72 patients with multidrug resistant HIV infection treated with different regimens of lenacapavir added to optimized background regimens [Segal-Maurer 2022] for 104 weeks, when 81-83% still had a full virologic response, 14 had lenacapavir resistance, and two had serum aminotransferase elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">39206943</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lenacapavir.REF.kelley.2024">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kelley</surname>
+<given-names>CF</given-names></string-name>, <string-name name-style="western"><surname>Acevedo-Qui&#x000f1;ones</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Agwu</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Avihingsanon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Benson</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Blumenthal</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Brinson</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>; <article-title>PURPOSE 2 Study Team. Twice-yearly lenacapavir for HIV prevention in men and gender-diverse persons.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>
+<month>Nov</month>
+<day>27</day>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 3265 men [ages 16 and above] at high risk for HIV infection who were treated prophylactically with either lenacapavir [LEN: 927 mg subcutaneously every 26 weeks] or emtricitabine and tenofovir orally [F/TDF] once daily for 54 weeks, 2 cases arose in LEN-treated [0.10 per 100 person-years] vs 9 in F/TDF treated men [0.93 per 100 person-years], and adverse event rates were similar in the 2 groups, both total [74% vs 74%] and serious [3.3% vs 4.0%], and ALT elevations above 5 times ULN arose in 0.8% vs 0.6% most being considered unrelated).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Lenacapavir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Lenacapavir+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Lenacapavir: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Lenacapavir">Trials on Lenacapavir: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

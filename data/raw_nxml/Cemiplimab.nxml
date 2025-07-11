@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cemiplimab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cemiplimab</book-part-id>
+      <title-group>
+        <title>Cemiplimab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Celecoxib" document-type="chapter">Celecoxib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cenobamate" document-type="chapter">Cenobamate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cemiplimab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cemiplimab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cemiplimab is a human monoclonal antibody to the programmed cell death receptor 1 (PD-1) and a checkpoint inhibitor that is used in the immunotherapy of advanced and metastatic cancer. Cemiplimab therapy has many adverse events and particularly immune related conditions including acute hepatocellular and cholestatic liver injury which can be serious and even life threatening.</p>
+        </sec>
+        <sec id="Cemiplimab.Background">
+          <title>Background</title>
+          <p>Cemiplimab (ce mip' li mab) is a human recombinant monoclonal IgG4 antibody to the programmed cell death receptor 1 (PD-1), which has distinctive immunomodulatory activity and is used in cancer immunotherapy. PD-1 is an important checkpoint molecule that is expressed on activated T and B cells and macrophages. Engagement of the PD-1 receptor modulates and down regulates T cell responses. Binding of the monoclonal antibody to the PD-1 receptor prevents ligand attachment and activation of the programmed cell death pathways, thereby allowing for a continued activation and proliferation of T cells. The subsequent enhancement of cytotoxic reactivity may play a beneficial role in cancer immunotherapy by breaking immunological tolerance to cancer cell neo-antigens. In prelicensure clinical studies, cemiplimab therapy resulted in objective responses in patients with advanced, metastatic cutaneous squamous cell carcinoma, and a proportion of patients had a long term remission. Cemiplimab was approved for use in cutaneous squamous cell carcinoma in the United States in 2018 and indications were subsequently expanded to include advanced or metastatic, refractory basal cell carcinoma and non-small cell lung cancer (NSCLC). It is under evaluation in several other forms of cancer, including renal, ovarian and uterine carcinoma, lymphomas and multiple myeloma. Cemiplimab is available in solution in single use vials of 350 mg in 7 mL (50 mg/mL) under the brand name Libtayo. The recommended dose in adults is 350 mg given intravenously over 30 minutes every 3 weeks.</p>
+          <p>As with most checkpoint inhibitors, side effects of cemiplimab are common and can include fatigue, headache, musculosketetal pain, arthralgia, abdominal pain, diarrhea, nausea, vomiting, decreased appetite, weight loss, fever, cough, dyspnea, pruritus, and rash. Importantly, as a result of the immune enhancement, between 15% and 25% of treated patients develop immune related side effects. These reactions are high grade in 10% of patients and can include enterocolitis, dermatitis, endocrinopathy, pneumonitis, neuropathy, nephritis and hepatitis. Most of these reactions respond to drug discontinuation and immunosuppressive therapy, but some have resulted in fatalities and some have required permanent discontinuation of the checkpoint inhibitor and long term immunosuppressive therapy. Baseline screening and regular monitoring for these adverse events during cemiplimab therapy is recommended. Early recognition and prompt management of side effects is an integral component of proper use of checkpoint inhibitors. Checkpoint inhibitors should be used only by health care professionals with training in immunotherapy and experience in the management of the side effects of immunomodulatory agents. Other rare but potentially severe adverse effects of cemiplimab include infusion reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Cemiplimab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations are common (10% to 20%) during cemiplimab therapy but are usually self-limited and resolve even with continuing cyclic therapy. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients, and a proportion of these individuals develop clinically apparent immune related liver injury that can be severe. Typically, onset of immune mediated liver injury arises after 2 to 6 cycles of checkpoint inhibitor therapy. The pattern of enzyme elevation is usually hepatocellular but may be mixed or even cholestatic. Monitoring of serum enzymes is recommended with dose interruption for values above 3 times the ULN and discontinuation for values above 8 times the ULN. When serum aminotransferase levels remain elevated despite discontinuation or with development of symptoms or jaundice, early intervention with immunosuppressive therapy is prudent and generally results in rapid resolution. Liver histology usually demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. Autoantibodies are usually not present and immunoglobulin levels may not be elevated. Restarting monoclonal antibody therapy can result in recurrence of injury. Immune mediated hepatitis appears to be more frequent with anti-CTLA-4 than with anti-PD-1 or anti-PD-L1 checkpoint inhibitors. Among 810 patients treated with cemiplimab in prelicensure studies, 16 (2%) developed an immune related hepatitis, all of whom required corticosteroid therapy and that was fatal in 1 (0.2%).</p>
+          <p>A proportion of patients receiving checkpoint inhibitors develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct wall, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of the smaller, intrahepatic portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC).</p>
+          <p>The effects of PD-1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with cemiplimab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury and possible cause of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Cemiplimab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to cemiplimab is likely to be immunologically mediated, and many cases of checkpoint related, immune mediated hepatitis have appeared to respond to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cases with cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.</p>
+        </sec>
+        <sec id="Cemiplimab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving cemiplimab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN and discontinuing treatment for values above 8 times the ULN. Corticosteroid therapy can be considered for patients with persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days.</p>
+          <p>Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be withdrawn within 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, or tacrolimus) may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome), or had refractory cholestatic liver injury, or had a delay in starting corticosteroid therapy. Patients with immune related adverse events due to cemiplimab can restart therapy once the adverse event has resolved, although concurrent immunosuppressive therapy may be necessary. Switching to another type of checkpoint inhibitor (anti-CTLA-4 or anti-PD-L1) is likely to be better tolerated.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Cemiplimab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Cemiplimab &#x02013; Libtayo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Cemiplimab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Cemiplimab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cemiplimab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Cemiplimab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cemiplimab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Cemiplimab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cemiplimab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cemiplimab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Cemiplimab</td>
+                <td headers="hd_h_Cemiplimab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128019">1801342-60-8</ext-link>
+</td>
+                <td headers="hd_h_Cemiplimab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Cemiplimab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cemiplimab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 June 2022</p>
+        <p>Abbreviations used: CPI, checkpoint inhibitor; CTLA-4, cytotoxic T lymphocyte associated antigen 4; HCC, hepatocellular carcinoma; irAE, immune related adverse event; PD-1, programmed cell death receptor 1; PD-L1, programmed cell death receptor ligand-1; NSCLC, non-small cell lung cancer; SCLC, small cell lung cancer.</p>
+        <ref-list id="Cemiplimab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cemiplimab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761097Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761097Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Clinical Review of safety and efficacy of cemiplimab with specific discussion of immune mediated hepatitis: pages 118-9).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.kleiner.2012.2233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Berman</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>2233</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical and histological features of 5 patients with acute liver injury due to ipilimumab; 3 men and 2 women, ages 43 to 76 years, arising after 2-4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis, usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1 Ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22434096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.teply.2014.30">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teply</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Lipson</surname><given-names>EJ</given-names></name>
+</person-group>
+              <article-title>Identification and management of toxicities from immune checkpoint-blocking drugs.</article-title>
+              <source>Oncology (Williston Park)</source>
+              <year>2014</year>
+              <volume>28</volume>
+              <supplement>Suppl 3</supplement>
+              <fpage>30</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical review of the toxicities of immune checkpoint blocking drugs such as ipilimumab, pembrolizumab and nivolumab; mentions that elevations of serum aminotransferase elevations should lead to careful exclusion of other causes of liver injury and increased monitoring; that elevations above 3 times ULN should lead to withholding the drug and starting corticosteroids; that elevations above 5 times ULN should lead to hospital admission and immediate administration of high doses of corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25384885</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.tumeh.2014.568">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tumeh</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Harview</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Yearley</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Shintaku</surname><given-names>IP</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Robert</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chmielowski</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PD-1 blockade induces responses by inhibiting adaptive immune resistance.</article-title>
+              <source>Nature</source>
+              <year>2014</year>
+              <volume>515</volume>
+              <issue>7528</issue>
+              <fpage>568</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of expression of PD-1 and its ligand on CD8+ T cells at the margins of melanoma tumors before and after treatment with pembrolizumab showed that responders to therapy typically had high levels of expression of PD-1 and its ligand).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25428505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.sharma.2015.56">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sharma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Allison</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>The future of immune checkpoint therapy.</article-title>
+              <source>Science</source>
+              <year>2015</year>
+              <volume>348</volume>
+              <issue>6230</issue>
+              <fpage>56</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary and review of the rationale, history, clinical efficacy and mechanism of action of immune checkpoint therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25838373</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.abdelrahman.2015.1507">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abdel-Rahman</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>El Halawani</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fouad</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Risk of elevated transaminases in cancer patients treated with immune checkpoint inhibitors: a meta-analysis.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2015</year>
+              <volume>14</volume>
+              <fpage>1507</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of publications on checkpoint inhibitors indicate that therapy is associated with high rates of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26394770</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.markham.2018.1841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Duggan</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Cemiplimab: first global approval.</article-title>
+              <source>Drugs</source>
+              <year>2018</year>
+              <volume>78</volume>
+              <fpage>1841</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the history of development, mechanism of action, pharmacology, clinical efficacy and safety of cemiplimab; mentions that immune mediated hepatitis occurred in 2.1% of 534 treated subjects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30456447</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.migden.2018.341">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Migden</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Rischin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schmults</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Guminski</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hauschild</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>KD</given-names></name>
+<name name-style="western"><surname>Chung</surname><given-names>CH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PD-1 blockade with cemiplimab in advanced cutaneous squamous-cell carcinoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2018</year>
+              <volume>379</volume>
+              <fpage>341</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 59 patients with metastatic cutaneous squamous cell carcinoma treated with cemiplimab the objective response rate was 47% and common adverse events were diarrhea [27%], fatigue [24%], nausea [17%], constipation [15%] and rash [15%]; elevations in ALT levels occurred in 8% of subjects, but were less than 5 times ULN in all).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29863979</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.ruggiero.2020.830">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ruggiero</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fraenza</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Scavone</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>di Mauro</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Piscitelli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mascolo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immune checkpoint inhibitors and immune-related adverse drug reactions: data from Italian Pharmacovigilance Database.</article-title>
+              <source>Front Pharmacol.</source>
+              <year>2020</year>
+              <volume>11</volume>
+              <fpage>830</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2088 safety reports of checkpoint inhibitors enrolled in an Italian pharmacovigilance registry, 801 were immune related including gastrointestinal [33%], skin [17%] and liver [2.7%] due to nivolumab [70%], pembrolizumab [11%], ipilimumab [15%], atezolizumab [4%] and avelumab [&#x0003c;1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32581796</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.migden.2020.294">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Migden</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Khushalani</surname><given-names>NI</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>ALS</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>KD</given-names></name>
+<name name-style="western"><surname>Schmults</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Hernandez-Aya</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Meier</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cemiplimab in locally advanced cutaneous squamous cell carcinoma: results from an open-label, phase 2, single-arm trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2020</year>
+              <volume>21</volume>
+              <fpage>294</fpage>
+              <lpage>305</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 78 patients with advanced cutaneous squamous cell carcinoma treated for a median of 9.1 months, the objective response rate was 44% and adverse events included fatigue [42%], diarrhea [27%], pruritus [27%], nausea [21%], rash [13%] and AST elevations [6%], with 1 case of autoimmune hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31952975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.rischin.2020.e000775">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rischin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Migden</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Schmults</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Khushalani</surname><given-names>NI</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>BGM</given-names></name>
+<name name-style="western"><surname>Schadendorf</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase 2 study of cemiplimab in patients with metastatic cutaneous squamous cell carcinoma: primary analysis of fixed-dosing, long-term outcome of weight-based dosing.</article-title>
+              <source>J Immunother Cancer.</source>
+              <year>2020</year>
+              <volume>8</volume>
+              <elocation-id>e000775</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 115 patients with metastatic cutaneous squamous cell carcinoma treated with cemiplimab objective responses occurred in 45%, and 98% of subjects had adverse events including fatigue, diarrhea, nausea and rash; ALT elevations occurred in 5 patients [4.3%] but none were above 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32554615</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.stratigos.2021.848">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stratigos</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Sekulic</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Peris</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Bechter</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Prey</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kaatz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>KD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cemiplimab in locally advanced basal cell carcinoma after hedgehog inhibitor therapy: an open-label, multi-centre, single-arm, phase 2 trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>848</fpage>
+              <lpage>857</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 84 patients with advanced and refractory basal cell carcinoma treated with cemiplimab in 38 international centers, the overall objective response rate was 31% and adverse events included hypothyroidism in 8, colitis in 4, adrenal insufficiency in 3, and immune mediated hepatitis in 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34000246</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.hober.2021.3547">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hober</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fredeau</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Pham-Ledard</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Boubaya</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Herms</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Celerier</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Aubin</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cemiplimab for locally advanced and metastatic cutaneous squamous-cell carcinomas: real-life experience from the French CAREPI Study Group.</article-title>
+              <source>Cancers (Basel)</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <fpage>3547</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 245 patients with advanced or metastatic cutaneous squamous cell carcinoma treated with cemiplimab in 58 French referral centers, the best overall response rate was 50% and severe treatment adverse events arose in 9%, 5 patients [2%] with liver immune events, one case of DRESS and one death due to toxic epidermal necrolysis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34298764</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.baggi.2021.250">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baggi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Quaglino</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rubatto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Depenni</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Guida</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ascierto</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Trojaniello</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real world data of cemiplimab in locally advanced and metastatic cutaneous squamous cell carcinoma.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2021</year>
+              <volume>157</volume>
+              <fpage>250</fpage>
+              <lpage>258</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 131 patients with cutaneous squamous cell carcinoma treated with cemiplimab in 17 Italian referral centers in 2019 and 2020, the overall response rate was 58% and adverse event rate was 43%; no mention of immune mediated hepatic injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34536948</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.wong.2021.1274">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Yip</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Tse</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Lui</surname><given-names>RN</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatitis flare during immunotherapy in patients with current or past hepatitis B virus infection.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2021</year>
+              <volume>116</volume>
+              <fpage>1274</fpage>
+              <lpage>1283</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 990 patients in Hong Kong with advanced malignancies treated with checkpoint inhibitors between 2014 and 2019 [397 HBsAg positive, 482 with anti-HBc or anti-HBs, 111 negative for both at baseline], 39% of HBsAg-positive vs 30% of HBsAg-negative patients developed ALT elevations during therapy, but only two cases [both HBsAg positive and on prophylaxis] were due to HBV reactivation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33560651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.mustafayev.2022">
+            <mixed-citation publication-type="other">Mustafayev K, Torres H. Hepatitis B virus and hepatitis C virus reactivation in cancer patients receiving novel anticancer therapies. Clin Microbiol Infect. 2022:S1198-743X(22)00119-7.<annotation><p><italic toggle="yes">(Review of the literature on reactivation of HBV and HCV in patients on &#x0201c;novel&#x0201d; anticancer therapy concludes that reactivation can occur with checkpoint inhibitor therapy, but largely among HBsAg positive patients and only rarely in patients with resolved hepatitis B).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.yoo.2022.898">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yoo</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Shim</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Yoo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of hepatitis B virus reactivation in patients treated with immunotherapy for anti-cancer treatment.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>898</fpage>
+              <lpage>907</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3,465 patients with advanced malignancies treated with checkpoint inhibitors between 2015 and 2020 at a single referral center in Korean, 511 [15%] were HBsAg positive at baseline, reactivation of HBV occurred in 5 of 511 [1%] HBsAg positive vs none of 2,954 HBsAg negative patients, arising in 2 of 464 [0.4%] patients given prophylaxis [both having stopped antivirals] vs 3 of 47 not given prophylaxis [6.4%]; reactivation arising after 3-141 weeks [median 54 weeks] of nivolumab [n=2], pembrolizumab [n=2] or ipilimumab and nivolumab [n=1] treatment, ALT peak 53 to 1768 IU/mL, HBV DNA 6,100 to 3.9 million IU/mL, resolving with 2 to 6 weeks of starting antiviral therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34182151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.tewari.2022.544">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tewari</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Monk</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Vergote</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>de Melo</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Investigators for GOG Protocol 3016 and ENGOT Protocol En-Cx9. Survival with cemiplimab in recurrent cervical cancer.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2022</year>
+              <volume>386</volume>
+              <fpage>544</fpage>
+              <lpage>555</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 608 women with refractory cervical cancer treated with cemiplimab or chemotherapy, the median overall survival was 12 vs 8.5 months and ALT elevations arose in 4.3% with cemiplimab vs 6.9% with conventional chemotherapy, ALT values above 5 times ULN in 0.7% in both groups, while immune mediated hepatitis arose in 4 cemiplimab-treated [1.3%] but no control patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35139273</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.marron.2022.219">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marron</surname><given-names>TU</given-names></name>
+<name name-style="western"><surname>Fiel</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Hamon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Fiaschi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ward</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Neoadjuvant cemiplimab for resectable hepatocellular carcinoma: a single-arm, open-label, phase 2 trial.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>7</volume>
+              <fpage>219</fpage>
+              <lpage>229</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 21 patients with resectable hepatocellular carcinoma treated with 8 cycles of adjuvant cemiplimab [every 3 weeks] before resection, 4 had significant tumor necrosis while 3 had a partial response and there were no hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35065058</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cemiplimab.REF.swanson.2022.409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Swanson</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Kassab</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Tsung</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Worden</surname><given-names>FP</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+</person-group>
+              <article-title>Infrequent liver injury from cemiplimab in patients with advanced cutaneous squamous cell carcinoma.</article-title>
+              <source>Immunotherapy.</source>
+              <year>2022</year>
+              <volume>14</volume>
+              <fpage>409</fpage>
+              <lpage>418</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 39 patients with advanced cutaneous squamous cell carcinoma treated with cemiplimab at a referral medical center between 2018 and 2020, 4 [10%] developed liver injury during therapy, 2 [5%] of which were considered immune mediated: 86 year old woman and 56 year old man developed liver injury 42 and 80 days after starting [after 2 and 5 infusions], with peak bilirubin 0.8 and 1.6 mg/dL, ALT 149 and 28 U/L, Alk P 115 and 509 U/L, both self-limited, one treated with corticosteroids for 6 months and later tolerating re-starting cemiplimab without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35232282</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Cemiplimab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Cemiplimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Cemiplimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cemiplimab">Trials on Cemiplimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

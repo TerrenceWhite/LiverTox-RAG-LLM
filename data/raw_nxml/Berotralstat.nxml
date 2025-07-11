@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Berotralstat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Berotralstat</book-part-id>
+      <title-group>
+        <title>Berotralstat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Berberine" document-type="chapter">Berberine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Betablockers" document-type="chapter">Beta Adrenergic Blocking Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Berotralstat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Berotralstat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Berotralstat is a small molecule inhibitor of plasma kallikrein that is used to prevent acute attacks of hereditary angioedema (HAE) in adults and children 12 years of age or older. Berotralstat has been linked to occasional mild-to-moderate elevations in serum aminotransferase levels during therapy but has not been implicated in instances of clinically apparent liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Berotralstat.Background">
+          <title>Background</title>
+          <p>Berotralstat (ber&#x0201d; oh tral&#x02019; stat) is an orally available, small molecule inhibitor of plasma kallikrein used to prevent acute attacks of hereditary angioedema (HAE), an autosomal dominant condition marked by intermittent episodes of swelling and pain affecting multiple organs and tissues. HAE is caused by mutations in the SERPIN-G1 gene that encodes C1-esterase inhibitor, which is important in regulation of kallikrein and release of bradykinin. Elevated bradykinin levels cause an increase in vascular permeability resulting in the swelling and pain of acute attacks. Attacks commonly affect the gastrointestinal tract but may also involve the genitourinary tract, face, hands, feet, or skin. Potentially serious and even fatal attacks involve the larynx with laryngeal edema and airway compromise. In a registration randomized controlled trial, berotralstat therapy led to increases in serum C1-esterase inhibitor levels and a decrease in number and severity attacks of HAE. Berotralstat was approved in the United States in 2020 for prevention of acute attacks of HAE in adults and children 12 years of age or older, the first oral therapy for prophylaxis of attacks. Berotralstat is available in capsules of 150 and 110 mg under the brand name Orladeyo. The recommended initial dosage is 150 mg once daily with the lower dose of 110 mg daily for patients with possible drug-drug interactions, preexisting hepatic impairment, or gastrointestinal intolerance to treatment. In registration trials, the most frequent adverse events were abdominal pain, vomiting, diarrhea, back pain, and gastrointestinal reflux. Uncommon potentially severe adverse events include QTc prolongation.</p>
+          <p>Berotralstat should not be used to treat acute attacks of HAE. Several drugs are approved for therapy of acute attacks as well as for prevention of attacks in high risk individuals, but all require parenteral administration. These agents include human plasma derived preparations of C1-esterase inhibitor (Cinryze, Haegarda, Berinert), a recombinant human C1-esterase inhibitor (Ruconest), small protein inhibitors of plasma kallikrein (ecallantide, Kalbitor), a proteomimetic bradykinin B2 receptor blocker (icatibant, Firazyr), and a monoclonal antibody to kallikrein (lanadelumab, Takhzyro).</p>
+        </sec>
+        <sec id="Berotralstat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration trials, mild, transient serum aminotransferase elevations occurred in 2% to 5% of patients receiving berotralstat vs 10% of those on placebo. Values above 5 times the upper limit of normal (ULN) were uncommon (less than 1%). Furthermore, bilirubin levels remained normal and no patient developed symptomatic acute liver injury. In many instances, other causes for the liver test abnormalities were present including preexisting nonalcoholic fatty liver disease, chronic viral hepatitis, or gallstone disease. Nevertheless, occasional patients required drug discontinuation because of liver test abnormalities. Since its licensure and more widescale clinical use, there have been no published reports of acute liver injury attributed to berotralstat.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Berotralstat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of liver test abnormalities during berotralstat therapy of hereditary angioedema are often unrelated to the drug and are attributable to comorbidities, such as chronic viral hepatitis, gallstone disease, or malignancy. Nevertheless, berotralstat is metabolized in the liver, predominantly by CYP 2D6 and 3A4 and the hepatotoxicity or immunogenicity of a metabolite might be responsible for minor elevations in serum aminotransferase levels during therapy. In preregistration trials, liver test abnormalities were more frequent in patients with HAE who had been treated with androgenic steroids such as danazol in the recent past (typically stopping within the previous 2 weeks), a finding suggesting that the abnormalities related to the recent, precipitous withdrawal of the androgenic steroids.</p>
+        </sec>
+        <sec id="Berotralstat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for berotralstat does not recommend monitoring of routine liver tests during therapy, but testing patients before starting therapy is appropriate because of the frequency of comorbidities including liver disease in patients with HAE. A rise in serum aminotransferase levels during therapy should trigger evaluation for other possible causes. Persistence of unexplained ALT levels above 5 times the ULN or appearance of symptoms of liver injury or jaundice should lead to at least temporary discontinuation and more careful monitoring. Patients on chronic therapy with androgenic steroids for HAE should be gradually withdrawn from therapy and start treatment with berotralstat at least two weeks after stopping.</p>
+          <p>Drug Class: Genetic Disorder Agents, <related-object link-type="booklink" source-id="livertox" document-id="HAEAgents" document-type="book-part">Hereditary Angioedema (HAE) Agents</related-object></p>
+          <p>Other Orally Active Drugs for Hereditary Angioedema: Danazol</p>
+        </sec>
+      </sec>
+      <sec id="Berotralstat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Berotralstat &#x02013; Orladeyo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Berotralstat">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Berotralstat.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Berotralstat.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Berotralstat.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Berotralstat.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Berotralstat.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Berotralstat.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Berotralstat.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Berotralstat</td>
+                <td headers="hd_h_Berotralstat.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381608984">1809010-50-1</ext-link>
+</td>
+                <td headers="hd_h_Berotralstat.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C30-H26-F4-N6-O</td>
+                <td headers="hd_h_Berotralstat.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="381608984" document-id-type="sid" document-type="summary" object-id="381608984" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Berotralstat.BIBLIOGRAPHY">
+        <title>BIBLIOGRAPHY</title>
+        <p>References updated: 20 June 2024</p>
+        <p>Abbreviations: HAE, hereditary angioedema; ULN, upper limit of the normal range.</p>
+        <ref-list id="Berotralstat.BIBLIOGRAPHY.reflist0">
+          <ref id="Berotralstat.REF1">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2020. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214094Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214094Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Summary of the data on the safety and efficacy of berotralstat submitted in support of the application for approval as means of prevention of acute attacks of hereditary angioedema [HAE], mentions that ALT elevations were more frequent with placebo [10%] than berotralstat [2.4% to 5.1%], although one patient on the drug developed ALT elevations of above 5 times the upper limit of normal [ULN] and discontinued treatment with prompt resolution; no serious hepatic adverse events or liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.ayg_renp_rs_n.2018.352">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ayg&#x000f6;ren-P&#x000fc;rs&#x000fc;n</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Bygum</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Grivcheva-Panovska</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Magerl</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Graff</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Steiner</surname>
+<given-names>UC</given-names></string-name>, <string-name name-style="western"><surname>Fain</surname>
+<given-names>O</given-names></string-name>, <etal>et al.</etal>
+<article-title>Oral plasma kallikrein inhibitor for prophylaxis in hereditary angioedema.</article-title>
+<source>N Engl J Med.</source>
+<year>2018</year>;<volume>379</volume>:<fpage>352</fpage>-<lpage>362</lpage>.<annotation><p><italic toggle="yes">(Among 77 patients with HAE treated with berotralstat [62.5, 125, 250, or 350 mg] or placebo once daily for 28 days, acute HAE attacks were reduced by 47% to 75% by the higher doses, but adverse events also increased with dose including mild-to-moderate ALT elevations [but without symptoms or jaundice] of 7% and 11% at the two highest doses).</italic></p></annotation><pub-id pub-id-type="pmid">30044938</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.lee.2021.405">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Berotralstat: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>405</fpage>-<lpage>409</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of berotralstat shortly after its approval in the US as a means of prevention of attacks of HAE, does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33646555</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.zuraw.2021.164">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zuraw</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Lumry</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Johnston</surname>
+<given-names>DT</given-names></string-name>, <string-name name-style="western"><surname>Ayg&#x000f6;ren-P&#x000fc;rs&#x000fc;n</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Banerji</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Christiansen</surname>
+<given-names>SC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Oral once-daily berotralstat for the prevention of hereditary angioedema attacks: A&#x000a0;randomized, double-blind, placebo-controlled phase 3 trial.</article-title>
+<source>J Allergy Clin Immunol.</source>
+<year>2021</year>;<volume>148</volume>:<fpage>164</fpage>-<lpage>172.e9</lpage>.<annotation><p><italic toggle="yes">(Among 120 patients with HAE [ages 23 years or older] treated with berotralstat [110 or 150 mg] or placebo once daily for 24 weeks, the acute attack rate was lower with berotralstat [1.7 and 1.3 vs 2.4 per month] while adverse events more frequent with drug included abdominal pain [10%-23% vs 10%], vomiting [10%-15% vs 3%], diarrhea [10%-15% vs 0%] and back pain [2%-10% vs 3%], and one patient on 150 mg daily developed an asymptomatic rise in ALT above 10 times ULN that resolved on discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">33098856</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.wedner.2021.2305">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wedner</surname>
+<given-names>HJ</given-names></string-name>, <string-name name-style="western"><surname>Ayg&#x000f6;ren-P&#x000fc;rs&#x000fc;n</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Craig</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Gower</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Jacobs</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Johnston</surname>
+<given-names>DT</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized trial of the efficacy and safety of berotralstat (BCX7353) as an oral prophylactic therapy for hereditary angioedema: results of APeX-2 through 48 weeks (Part 2).</article-title>
+<source>J Allergy Clin Immunol Pract.</source>
+<year>2021</year>;<volume>9</volume>:<fpage>2305</fpage>-<lpage>2314.e4</lpage>.<annotation><p><italic toggle="yes">(Among 108 patients with HAE participating in a 24-week controlled trial [Zuraw 2021] treated with open label berotralstat [110 or 150 mg daily] for another 24 weeks, the monthly acute attack rate continued to decline particularly with the higher dose, while adverse events were largely mild-to-moderate gastrointestinal complaints; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33866032</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF6">
+            <mixed-citation publication-type="journal"><article-title>Berotralstat (Orladeyo) for prevention of hereditary angioedema.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>(<issue>1629</issue>):<fpage>e7</fpage>-<lpage>e8</lpage>.<annotation><p><italic toggle="yes">(Concise review of HAE, the mechanism of action of berotralstat, clinical efficacy, safety, and costs shortly after its approval in the US for prevention of acute attacks of HAE, mentions common adverse events of abdominal pain, vomiting, diarrhea, back pain, and reflux, and the possibility of prolongation of the QTc interval, but does not mention ALT elevations or hepatoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34544111</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.ahuja.2023.1380">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ahuja</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dorr</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Bode</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Boulton</surname>
+<given-names>APR</given-names></string-name>, <string-name name-style="western"><surname>Buckland</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Chee</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Dalley</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Berotralstat for the prophylaxis of hereditary angioedema-real-world evidence data from the United Kingdom.</article-title>
+<source>Allergy.</source>
+<year>2023</year>;<volume>78</volume>:<fpage>1380</fpage>-<lpage>1383</lpage>.<annotation><p><italic toggle="yes">(Survey of 54 patients with HAE started on berotralstat in the UK found that numbers of average monthly acute attacks decreased from 12.9 to 4.5 by 6 months along with overall symptom severity scores, reported side effects included cramps, nausea, diarrhea, vomiting and headaches, but no discontinuations for side effects and no mention of liver related events).</italic></p></annotation><pub-id pub-id-type="pmid">36609839</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.peter.2023.100841">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Peter</surname>
+<given-names>JG</given-names></string-name>, <string-name name-style="western"><surname>Desai</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Tomita</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Collis</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Stobiecki</surname>
+<given-names>M</given-names></string-name>. <article-title>Assessment of HAE prophylaxis transition from androgen therapy to berotralstat: A subset analysis of the APeX-S trial.</article-title>
+<source>World Allergy Organ J.</source>
+<year>2023</year>;<volume>16</volume>:<elocation-id>100841</elocation-id>.<annotation><p><italic toggle="yes">(Among 39 patients with HAE who discontinued androgen therapy within 60 days of starting berotralstat [150 mg daily], 7 developed ALT elevations [6 above 5 times ULN and 5 requiring discontinuation] all of whom had stopped androgens within 14 days of starting berotralstat).</italic></p></annotation><pub-id pub-id-type="pmid">38020288</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.kianialikhan.2024.733">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kiani-Alikhan</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gower</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Craig</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wedner</surname>
+<given-names>HJ</given-names></string-name>, <string-name name-style="western"><surname>Kinaciyan</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Ayg&#x000f6;ren-P&#x000fc;rs&#x000fc;n</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Banerji</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <article-title>APeX-2 investigators. Once-daily oral berotralstat for long-term prophylaxis of hereditary angioedema: the open-label extension of the APeX-2 randomized trial.</article-title>
+<source>J Allergy Clin Immunol Pract.</source>
+<year>2024</year>;<volume>12</volume>:<fpage>733</fpage>-<lpage>743.e10</lpage>.<annotation><p><italic toggle="yes">(Among 81 patients with HAE treated in previous controlled trials who were continued on berotralstat [150 mg daily] for an additional 4 years, efficacy was maintained and 15% of patients had treatment related adverse events but none were serious; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38122865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Berotralstat.REF.riedl.2024.505">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Riedl</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Soteres</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Sublett</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Desai</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Tomita</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Collis</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>JA</given-names></string-name>; <article-title>APeX-S Study Investigators. Hereditary angioedema outcomes in US patients switched from injectable long-term prophylactic medication to oral berotralstat.</article-title>
+<source>Ann Allergy Asthma Immunol.</source>
+<year>2024</year>;<volume>132</volume>:<fpage>505</fpage>-<lpage>511.e1</lpage>.<annotation><p><italic toggle="yes">(Among 34 US patients with HAE who were switched from injectable long term prophylaxis to oral berotralstat monotherapy, the monthly attack rate was 0.29 to 0.58 while mild-to-moderate gastrointestinal adverse events occurred in 35%, but there were no serious adverse events and ALT elevations and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">38006972</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Berotralstat.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Berotralstat+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Berotralstat: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Berotralstat">Trials on Berotralstat: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

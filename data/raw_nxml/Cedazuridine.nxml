@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cedazuridine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cedazuridine</book-part-id>
+      <title-group>
+        <title>Cedazuridine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CatsClaw" document-type="chapter">Cat's Claw</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ceftriaxone" document-type="chapter">Ceftriaxone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cedazuridine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cedazuridine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cedazuridine is a small molecule inhibitor of cytidine deaminase that is used as a pharmacoenhancer of decitabine to increase oral bioavailability of this DNA methylase inhibitor treatment of myelodysplastic syndromes. The combination of oral decitabine and cedazuridine is associated with a low rate of minor serum enzyme elevations during therapy that is usually attributed to decitabine. The oral combination has not been linked to cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Cedazuridine.Background">
+          <title>Background</title>
+          <p>Cedazuridine (sed &#x0201c; az ure&#x02019; i deen) is an oral small molecule inhibitor of cytidine deaminase, an enzyme present in intestine and liver that rapidly clears decitabine causing its poor bioavailability and requirement for the intravenous administration of this DNA methylase inhibitor used to treat various forms of myelodysplastic syndrome (MDS). The combination of oral cedazuridine and oral decitabine has been shown to achieve similar blood levels to those of intravenous infusions of decitabine as well as similar degrees of DNA demethylation and similar rates of clinical response in MDS conditions, with no increase in adverse event rates. Cedazuridine was approved for use in the United States in 2020 to be used in combination with decitabine in adults with myelodysplastic syndromes including refractory anemia, refractory anemia with ringed sideroblasts or with excess blasts, and in patients with chronic myelomonocytic leukemia. A fixed combination of 35 mg decitabine and 100 mg cedazuridine is available in tablets under the brand name of Inqovi. The recommended dose is one tablet daily on days 1 through 5 of each 28 day cycle of therapy. Common adverse events include myelosuppression, fatigue, constipation, diarrhea, nausea, decreased appetite, dizziness, headache, mucositis, hemorrhage, myalgia, arthralgia, rash, and upper respiratory tract infections, side effects that can occur with decitabine alone. Uncommon but potentially severe adverse events include severe myelosuppression, febrile neutropenia, severe infections, sepsis, pneumonia, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Cedazuridine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the preregistration trials of the combination of decitabine and cedazuridine, serum aminotransferase elevations occurred in 20% to 37% of patients but were invariably transient and usually mild. ALT elevations above 5 times the upper limit of normal arose in 1% to 3% of patients and usually resolved promptly with dose adjustment or discontinuation. Several patients, however, developed ALT elevations accompanied by increases in serum bilirubin, but in all instances other causes appeared to be responsible, such as sepsis, pancreatitis and myocarditis. With more widespread clinical use after its approval, there have been no published reports of clinically apparent liver injury attributed to the combination of cedazuridine and decitabine.</p>
+          <p>Likelihood score: E* (suspected but unproven rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cedazuridine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why cedazuridine might cause serum enzyme elevations is not known. It has little hepatic metabolism by the cytochrome P450 system and levels are not affected by inducers or inhibitors of CYP enzymes. Inhibition of cytidine deaminase may have an effect on the metabolism of other drugs, so that cedazuridine has the potential of drug-drug interactions.</p>
+        </sec>
+        <sec id="Cedazuridine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations are not uncommon during combination therapy with decitabine and cedazuridine but they rarely require dose modification or drug discontinuation. As with any drug, cedazuridine and decitabine should be held if ALT or AST values rise above 5 times the ULN and discontinued if elevations are more than 20 times the ULN or jaundice or symptoms of liver injury arise.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, Miscellaneous</p>
+          <p>Other drugs for myelodysplastic syndromes: <related-object link-type="booklink" source-id="livertox" document-id="Azacitidine" document-type="chapter">Azacitidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Decitabine" document-type="chapter">Decitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Luspatercept" document-type="chapter">Luspatercept</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cedazuridine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Cedazuridine and Decitabine &#x02013; Inqovi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Inqovi">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Cedazuridine.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cedazuridine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Cedazuridine.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cedazuridine.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Cedazuridine.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cedazuridine.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Cedazuridine</td>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381126362">1141397-80-9</ext-link>
+</td>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C9-H14-F2-N2-O5</td>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="381126362" document-id-type="sid" document-type="summary" object-id="381126362" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Decitabine</td>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134983506">2353-33-5</ext-link>
+</td>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C8-H12-N4-O4</td>
+                <td headers="hd_h_Cedazuridine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134983506" document-id-type="sid" document-type="summary" object-id="134983506" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cedazuridine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 July 2023</p>
+        <p>Abbreviations used: iv, intravenous; MDS, myelodysplastic syndrome.</p>
+        <ref-list id="Cedazuridine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cedazuridine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of cedazuridine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 549-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013 does not discuss cedazuridine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Inhibitors of histone deacetylase. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, p. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212576Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212576Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA website with product label and the multidiscipline review of data on efficacy and safety of the combination of cedazuridine and decitabine mentions that in the total experience in 208 treated subjects, 37% had had at least one elevation in ALT or AST, which were above 5 times ULN in 2%, and 3 participants ALT or AST elevations above 3 times ULN accompanied by jaundice, but in all 3 cases the abnormalities were attributed to either sepsis or myocarditis rather than drug induced liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.savona.2019.e194">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savona</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Odenike</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Amrein</surname>
+<given-names>PC</given-names></string-name>, <string-name name-style="western"><surname>Steensma</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Michaelis</surname>
+<given-names>LC</given-names></string-name>, <string-name name-style="western"><surname>Faderl</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>An oral fixed-dose combination of decitabine and cedazuridine in myelodysplastic syndromes: a multicentre, open-label, dose-escalation, phase 1 study.</article-title>
+<source>Lancet Haematol.</source>
+<year>2019</year>;<volume>6</volume>:<fpage>e194</fpage>-<lpage>e203</lpage>.<annotation><p><italic toggle="yes">(Among 44 patients with various MDS treated with intravenous (iv) decitabine or various combinations of oral decitabine and cedazuridine, oral doses of 30 or 40 mg of decitabine and 100 mg of cedazuridine yielded 5-day area under the curve concentrations most similar to iv decitabine, with similar adverse event rates and ALT elevations in 20% of subjects, all values being less than 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">30926081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.dhillon.2020.1373">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Decitabine/Cedazuridine: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1373</fpage>-<lpage>1378</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of the combination of oral decitabine and cedazuridine shortly after its approval for use in MDS in the US, discusses adverse events of myelosuppression and gastrointestinal upset but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32860582</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.garciamanero.2020.674">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Griffiths</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Steensma</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Roboz</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Wells</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>McCloskey</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Odenike</surname>
+<given-names>O</given-names></string-name>, <etal>et al.</etal>
+<article-title>Oral cedazuridine/decitabine for MDS and CMML: a phase 2 pharmacokinetic/pharmacodynamic randomized crossover study.</article-title>
+<source>Blood.</source>
+<year>2020</year>;<volume>136</volume>:<fpage>674</fpage>-<lpage>683</lpage>.<annotation><p><italic toggle="yes">(Among 80 patients with MDS or chronic myelomonocytic leukemia treated with oral cedazuridine/decitabine or iv decitabine alone for 5 days in cycle one with cross over to the other regimen in cycle 2, area-under-the-curve plasma concentrations were similar in both groups as were demethylation rates and the clinical response rate with continued cycles of combination therapy was 60%, common adverse events were neutropenia and thrombocytopenia; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32285126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.sekeres.2022.872">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>J</given-names></string-name>. <article-title>Diagnosis and treatment of myelodysplastic syndromes: a review.</article-title>
+<source>JAMA</source>. <year>2022</year>;<volume>328</volume>:<fpage>872</fpage>-<lpage>880</lpage>.<annotation><p><italic toggle="yes">(Concise review of clinical features, natural history, diagnosis, and management of MDS; adverse events are listed in tables but without mention or discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36066514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.kim.2022.3411">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Norsworthy</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Subramaniam</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Manning</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Kitabi</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Earp</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: decitabine and cedazuridine tablets for myelodysplastic syndromes.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>3411</fpage>-<lpage>3416</lpage>.<annotation><p><italic toggle="yes">(Summary of the basis for the FDA approval of an oral fixed dose combination of decitabine and cedazuridine with efficiency and safety results from a phase 3 open label trial in 133 patients, which demonstrated complete remissions in 18-21% of subjects and with an adverse event profile similar to that of iv decitabine; ALT elevations arose in 37% of patients but were above 5 times ULN in only 2%; no mention of serious hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">35435961</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.garciamanero.2023.1307">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G.</given-names></string-name>
+<article-title>Myelodysplastic syndromes: 2023 update on diagnosis, risk-stratification, and management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1307</fpage>-<lpage>1325</lpage>.<annotation><p><italic toggle="yes">(Review of the classification of MDS and risk categorization with an update on management including discussion of hypomethylation agents and luspatercept; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37288607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cedazuridine.REF.randall.2023.152">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Randall</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>. <article-title>The management of low-risk myelodysplastic syndromes-current standards and recent advances.</article-title>
+<source>Cancer J.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>152</fpage>-<lpage>159</lpage>.<annotation><p><italic toggle="yes">(Review of treatment of low-risk MDS including erythropoietin, iron chelation, lenalidomide, luspatercept and low dose hypomethylating agents; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37195771</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Cedazuridine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Cedazuridine/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Cedazuridine: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cedazuridine">Trials on Cedazuridine: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

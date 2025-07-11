@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AlkylatingAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AlkylatingAgents</book-part-id>
+      <title-group>
+        <title>Alkylating Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>3</month>
+          <year>2015</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Aliskiren" document-type="chapter">Aliskiren</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Allopurinol" document-type="chapter">Allopurinol</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AlkylatingAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Alkylating agents are a class of antineoplastic or anticancer drugs which act by inhibiting the transcription of DNA into RNA and thereby stopping the protein synthesis. Alkylating agents substitute alkyl groups for hydrogen atoms on DNA, resulting in the formation of cross links within the DNA chain and thereby resulting in cytotoxic, mutagenic, and carcinogenic effects. This action occurs in all cells, but alkylating agents have their primary effect on rapidly dividing cells which do not have time for DNA repair. Cancer cells are among the most affected because they are among the most rapidly dividing cells. However, hematopoetic, reproductive, and endothelial cells also divide rapidly which accounts for the common side effects of the alkylating agents: anemia, pancytopenia, amenorrhea, impaired spermatogenesis, intestinal mucosal damage, alopecia, and increased risk of malignancy. The end result of the alkylation process results in the misreading of the DNA code and the inhibition of DNA, RNA, and protein synthesis and the triggering of programmed cell death (apoptosis) in rapidly proliferating tumor cells. The alkylating agents are generally separated into six classes:</p>
+        <p content-type="pubmed-excerpt">(1) The nitrogen mustards [mechlorethamine, cyclophosphamide, ifosfamide, melphalan and</p>
+        <p content-type="pubmed-excerpt">chlorambucil]</p>
+        <list list-type="order">
+          <list-item>
+            <label>2</label>
+            <p>Ethylenamine and methylenamine derivatives [altretamine, thiotepa]</p>
+          </list-item>
+          <list-item>
+            <label>3</label>
+            <p>Alkyl sulfonates [busulfan]</p>
+          </list-item>
+          <list-item>
+            <label>4</label>
+            <p>Nitrosoureas [carmustine, lomustine]</p>
+          </list-item>
+          <list-item>
+            <label>5</label>
+            <p>Triazenes [dacarbazine, procarbazine, temozolomide]</p>
+          </list-item>
+          <list-item>
+            <label>6</label>
+            <p>The platinum-containing antineoplastic agents [cisplatin, carboplatin, oxaliplatin], which</p>
+          </list-item>
+        </list>
+        <p>are referred to as platinum coordination complexes. These antineoplastic drugs are</p>
+        <p>usually classified as alkylating agents, although they do not alkylate DNA, but cause</p>
+        <p>covalent DNA adducts by a different means.</p>
+        <p>The alkylating agents all have major toxicities, but the predominant toxicities are to the bone marrow and gastrointestinal tract. Most agents have been shown to cause transient serum aminotransferase elevations in a proportion of patients. Several alkylating agents have also been implicated in causing rare cases of idiosyncratic, clinically apparent acute liver injury which is typically cholestatic and best described for temozolomide, cyclophosphamide and chlorambucil, perhaps because these agents are most frequently used and can be given orally over a prolonged period. Importantly, the alkylating agents can also cause sinusoidal obstruction syndrome (veno-occlusive disease) when given in high doses, and nodular regenerative hyperplasia when given for prolonged periods. These latter two hepatic effects are typically dose related and may be due to direct toxicity. The alkylating agents discussed in LiverTox include:</p>
+        <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Altretamine" document-type="chapter">Altretamine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Bendamustine" document-type="chapter">Bendamustine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Busulfan" document-type="chapter">Busulfan</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Carmustine" document-type="chapter">Carmustine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Chlorambucil" document-type="chapter">Chlorambucil</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Cyclophosphamide" document-type="chapter">Cyclophosphamide</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Dacarbazine" document-type="chapter">Dacarbazine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Ifosfamide" document-type="chapter">Ifosfamide</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Lomustine" document-type="chapter">Lomustine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Lurbinectedin" document-type="chapter">Lurbinectedin</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Mechlorethamine" document-type="chapter">Mechlorethamine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Melphalan" document-type="chapter">Melphalan</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Procarbazine" document-type="chapter">Procarbazine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Streptozocin" document-type="chapter">Streptozocin</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Temozolomide" document-type="chapter">Temozolomide</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Thiotepa" document-type="chapter">Thiotepa</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Trabectedin" document-type="chapter">Trabectedin</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="PlatinumCoordination" document-type="chapter">Platinum Coordination Complexes</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Carboplatin" document-type="chapter">Carboplatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Cisplatin" document-type="chapter">Cisplatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Oxaliplatin" document-type="chapter">Oxaliplatin</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>
+<italic toggle="yes">List updated: 27 December 2022</italic>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

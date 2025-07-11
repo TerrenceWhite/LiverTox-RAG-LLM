@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Finerenone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Finerenone</book-part-id>
+      <title-group>
+        <title>Finerenone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Finasteride" document-type="chapter">Finasteride</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fingolimod" document-type="chapter">Fingolimod</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Finerenone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Finerenone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Finerenone is a selective, nonsteroidal mineralocorticoid receptor antagonist that is used in the therapy of chronic renal disease in patients with type 2 diabetes to slow progression of renal dysfunction and reduce the risk of cardiovascular disease morbidity and mortality. Finerenone has not been linked to serum enzyme elevations during therapy or with instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Finerenone.Background">
+          <title>Background</title>
+          <p>Finerenone (fin er&#x02019; e none) is a selective, nonsteroidal mineralocorticoid receptor antagonist that is used to treat chronic renal disease in patients with type 2 diabetes. Patients with chronic renal disease have high levels of serum aldosterone, a mineralocorticoid hormone that, upon engagement of its cellular receptors in the kidney, leads to sodium retention and loss of potassium. Aldosterone activation also appears to increase proinflammatory cytokines and mediators of fibrosis in kidneys and elsewhere. The finding of elevation in aldosterone levels in patients with renal disease led to strategies to reduce mineralocorticoid receptor activation in patients with chronic kidney disease. In several randomized, placebo controlled trials, chronic therapy with finerenone, a specific inhibitor of the mineralocorticoid receptor, was shown to decrease albuminuria, prevent decline in estimated glomerular filtration rate (eGFR), and decrease renal as well as cardiovascular death in patients with chronic kidney disease and type 2 diabetes. Finerenone was approved for this indication in the United States in 2021. Finerenone is available as tablets of 10 and 20 mg under the brand name Kerendia. The recommended maintenance dose is 20 mg daily after a 4 week titration phase. Finerenone is contraindicated in patients with renal failure (eGFR less than 20 mL/min) and in patients with hyperkalemia. It is typically used in combination with either an angiotensin-converting enzyme (ACE) inhibitor or an angiotensin II receptor blocker (ARB). Side effects of finerenone can include hyperkalemia, hyponatremia and hypotension. Severe hyperkalemia can occur with finerenone therapy in patients with renal failure, with preexisting hyperkalemia, and in those taking potent inducers of CYP 3A4.</p>
+        </sec>
+        <sec id="Finerenone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In placebo-controlled trials of finerenone in several thousand patients, there was usually no mention of serum enzyme elevations or hepatotoxicity. In the largest placebo controlled trial, the rate of &#x0201c;hepatobiliary&#x0201d; adverse events was similar in patients on finerenone compared to placebo (4.4% vs 4.8%), and there were no reported hepatic serious adverse events. Since its approval and more widespread use, finerenone has not been implicated in instances of acute hepatic injury and the product label does not mention aminotransferase elevations or clinically apparent liver injury in lists of potential adverse events.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Finerenone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which finerenone might cause liver injury is not known. Finerenone is metabolized in the liver largely via the cytochrome P450 system. It is a substrate of CYP 3A4 and it should be avoided in patients taking inhibitors or inducers of CYP 3A4. In particular, potent inhibitors of CYP 3A4 can cause increases in plasma levels of finerenone which can trigger its dose-dependent side effects such as hyperkalemia and hyponatremia.</p>
+          <p>Drug Class: Cardiovascular Agents</p>
+          <p>Other Drugs for Renal Disease: <related-object link-type="booklink" source-id="livertox" document-id="Eplerenone" document-type="chapter">Eplerenone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Spironolactone" document-type="chapter">Spironolactone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">SGLT2 Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Finerenone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <table-wrap id="Finerenone.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><break/><p><bold>REPRESENTATIVE TRADE NAMES</bold></p>
+<p>Finerenone &#x02013; Kerendia&#x000ae;</p>
+<p><bold>DRUG CLASS</bold></p>
+<p>Cardiovascular Agents</p>
+<p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Finerenone">COMPLETE LABELING</ext-link></p>
+<p>Product labeling at DailyMed, National Library of Medicine, NIH</p></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Finerenone.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Finerenone.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Finerenone.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Finerenone.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Finerenone.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Finerenone.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Finerenone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Finerenone</td>
+                <td headers="hd_h_Finerenone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163643118">1050477-31-0</ext-link>
+</td>
+                <td headers="hd_h_Finerenone.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C21-H22-N4-O3</td>
+                <td headers="hd_h_Finerenone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163643118" document-id-type="sid" document-type="summary" object-id="163643118" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Finerenone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 13 October 2023</p>
+        <p>Abbreviations: ACE, angiotensin converting enzyme; ARB, angiotensin receptor blocker; eGFR, estimated glomerular filtration rate; SGLT2, sodium-glucose cotransporter 2.</p>
+        <ref-list id="Finerenone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Finerenone.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of finerenone mentions that thiazide diuretics have been implicated in rare instances of hepatotoxicity but does not discuss spironolactone or finerenone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215341Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215341Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA integrated review of the finerenone application for safety and efficacy which mentions [page 54] that laboratory findings other than those of electrolytes and creatinine &#x0201c;did not reveal any other findings of interest or concern&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.pitt.2013.2453">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pitt</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Kober</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Ponikowski</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Gheorghiade</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Filippatos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Krum</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Nowack</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and tolerability of the novel non-steroidal mineralocorticoid receptor antagonist BAY 94-8862 in patients with chronic heart failure and mild or moderate chronic kidney disease: a randomized, double-blind trial.</article-title>
+<source>Eur Heart J.</source>
+<year>2013</year>; <volume>34</volume>: <fpage>2453</fpage>-<lpage>63</lpage>.<annotation><p><italic toggle="yes">(Among 457 patients with chronic renal disease treated with different doses of finerenone [2.5, 5 or 10 mg daily], spironolactone or placebo for 4 weeks, there was less hyperkalemia with finerenone than spironolactone and adverse events were generally mild; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23713082</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.bakris.2015.884">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bakris</surname>
+<given-names>GL</given-names></string-name>, <string-name name-style="western"><surname>Agarwal</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Chan</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Cooper</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Gansevoort</surname>
+<given-names>RT</given-names></string-name>, <string-name name-style="western"><surname>Haller</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Remuzzi</surname>
+<given-names>G</given-names></string-name>, <etal>et al.</etal>; <collab>Mineralocorticoid Receptor Antagonist Tolerability Study&#x02013;Diabetic Nephropathy (ARTS-DN) Study Group</collab>. <article-title>Effect of finerenone on albuminuria in patients with diabetic nephropathy: A randomized clinical trial.</article-title>
+<source>JAMA</source>. <year>2015</year>; <volume>314</volume>: <fpage>884</fpage>-<lpage>94</lpage>.<annotation><p><italic toggle="yes">(Among 821 patients with diabetes and albuminuria treated with 7 different doses of finerenone [1.25 to 25 mg daily] or spironolactone or placebo for 4 weeks, there was a dose-dependent decrease in urinary albumin while hyperkalemia arose with higher doses of finerenone; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26325557</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.filippatos.2016.2105">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Filippatos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Anker</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>B&#x000f6;hm</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gheorghiade</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>K&#x000f8;ber</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Krum</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Maggioni</surname>
+<given-names>AP</given-names></string-name>, <etal>et al.</etal>
+<article-title>A randomized controlled study of finerenone vs. eplerenone in patients with worsening chronic heart failure and diabetes mellitus and/or chronic kidney disease.</article-title>
+<source>Eur Heart J.</source>
+<year>2016</year>; <volume>37</volume>: <fpage>2105</fpage>-<lpage>14</lpage>.<annotation><p><italic toggle="yes">(Among 821 adults with diabetes and albuminuria treated with one of 7 different doses of finerenone [1.25 to 25 mg] or placebo once daily for 90 days, there was a dose-dependent reduction in urinary albumin levels in finerenone treated patients and an increased rate of hyperkalemia with the higher doses; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27130705</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.bakris.2020.2219">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bakris</surname>
+<given-names>GL</given-names></string-name>, <string-name name-style="western"><surname>Agarwal</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Anker</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Pitt</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Ruilope</surname>
+<given-names>LM</given-names></string-name>, <string-name name-style="western"><surname>Rossing</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kolkhof</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>; <article-title>FIDELIO-DKD Investigators. Effect of finerenone on chronic kidney disease outcomes in type 2 diabetes.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>; <volume>383</volume>: <fpage>2219</fpage>-<lpage>2229</lpage>.<annotation><p><italic toggle="yes">(Among 5674 patients with chronic kidney disease and type 2 diabetes treated with finerenone [20 mg daily] or placebo for a median of 2.6 years, finerenone was associated with lower rates of a combined endpoint of renal failure, a decrease in eGFR [40%] and lower rates of renal death [18% vs 21%], but no difference in overall mortality or hospitalization, while adverse event rates were similar in the two groups including those classified as &#x0201c;hepatobiliary&#x0201d; [4.4% vs 4.8%], while discontinuations because of hyperkalemia occurred in 2.3% vs 0.9%).</italic></p></annotation><pub-id pub-id-type="pmid">33264825</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.ingelfinger.2020.2285">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ingelfinger</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Rosen</surname>
+<given-names>CJ</given-names></string-name>. <article-title>Finerenone&#x02013;halting relative hyperaldosteronism in chronic kidney disease.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>; <volume>383</volume>: <fpage>2285</fpage>-<lpage>2286</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Bakris [2020] discusses the role of aldosterone activation in causing sodium retention but also release of mediators of inflammation and fibrosis, which has led to strategies to decrease aldosterone activation as therapy of chronic renal disease).</italic></p></annotation><pub-id pub-id-type="pmid">33095527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.allison.2021.13">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Allison</surname>
+<given-names>SJ</given-names></string-name>. <article-title>Finerenone in chronic kidney disease.</article-title>
+<source>Nat Rev Nephrol.</source>
+<year>2021</year>; <volume>17</volume>: <fpage>13</fpage>.<annotation><p><italic toggle="yes">(Commentary on the results of treating patients with chronic kidney disease with long term finerenone [Bakris 2020] and role of aldosterone activation in causing inflammation and fibrosis leading to progression of renal and heart disease, mentions that an ongoing trial will assess the effects of finerenone on patients with less advanced chronic renal disease).</italic></p></annotation><pub-id pub-id-type="pmid">33110253</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.heinig.2018.715">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heinig</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Gerisch</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Engelen</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Nagelschmitz</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Loewen</surname>
+<given-names>S</given-names></string-name>. <article-title>Pharmacokinetics of the novel, selective, non-steroidal mineralocorticoid receptor antagonist finerenone in healthy volunteers: results from an absolute bioavailability study and drug-drug interaction studies in vitro and in vivo.</article-title>
+<source>Eur J Drug Metab Pharmacokinet.</source>
+<year>2018</year>;<volume>43</volume>:<fpage>715</fpage>-<lpage>727</lpage>.<annotation><p><italic toggle="yes">(Evaluation of pharmacokinetics of finerenone in health volunteers found that it was metabolized mostly by CYP 3A4 and to a lesser extent by CYP 2C8, but only CYP 3A4 inducers and inhibitors had an effect on finerenone levels).</italic></p></annotation><pub-id pub-id-type="pmid">29779093</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.agarwal.2022.474">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Agarwal</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Filippatos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Pitt</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Anker</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Rossing</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Joseph</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Kolkhof</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>; <collab>FIDELIO-DKD and FIGARO-DKD investigators</collab>. <article-title>Cardiovascular and kidney outcomes with finerenone in patients with type 2 diabetes and chronic kidney disease: the FIDELITY pooled analysis.</article-title>
+<source>Eur Heart J.</source>
+<year>2022</year>;<volume>43</volume>:<fpage>474</fpage>-<lpage>484</lpage>.<annotation><p><italic toggle="yes">(Pooled analysis of two randomized controlled trials of finerenone [10 or 20 mg] versus placebo in patients with type 2 diabetes and chronic renal disease in 13,026 adults with median follow up of 3 years found lower rates of composite endpoints of cardiovascular events and worsening renal function with finerenone therapy [12.7% vs 14.4%], with similar adverse event rates [86.1% vs 86.4%] but higher rates of hyperkalemia [12% vs 6%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35023547</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF11">
+            <mixed-citation publication-type="journal"><article-title>Finerenone (Kerendia) for chronic kidney disease.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>:<fpage>131</fpage>-<lpage>132</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of finerenone shortly after its approval in the US, mentions adverse events of hyperkalemia, hyponatremia, and hypotension; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34544101</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.rossing.2022.2991">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rossing</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Anker</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Filippatos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Pitt</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Ruilope</surname>
+<given-names>LM</given-names></string-name>, <string-name name-style="western"><surname>Birkenfeld</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>McGill</surname>
+<given-names>JB</given-names></string-name>, <etal>et al.</etal>; <collab>FIDELIO-DKD and FIGARO-DKD Investigators</collab>. <article-title>Finerenone in patients with chronic kidney disease and type 2 diabetes by sodium-glucose cotransporter 2 inhibitor treatment: The FIDELITY Analysis.</article-title>
+<source>Diabetes Care.</source>
+<year>2022</year>;<volume>45</volume>:<fpage>2991</fpage>-<lpage>2998</lpage>.<annotation><p><italic toggle="yes">(Re-analysis of trials of finerenone in patients with chronic renal disease and diabetes showed that it was effective in the subgroup of patients receiving SGLT2 inhibitors with no difference in tolerance).</italic></p></annotation><pub-id pub-id-type="pmid">35972218</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF13">
+            <mixed-citation publication-type="journal"><article-title>In brief: Finerenone (Kerendia) for diabetic kidney disease.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>15</fpage>-<lpage>16</lpage>.<annotation><p><italic toggle="yes">(Brief summary of the mechanism of action, clinical efficacy and safety of finerenone shortly after published guidelines on its use were published, mentions that finerenone has been shown to modestly improve renal and cardiovascular outcomes, but it is expensive and can cause hyperkalemia).</italic></p></annotation><pub-id pub-id-type="pmid">36651794</pub-id></mixed-citation>
+          </ref>
+          <ref id="Finerenone.REF.perakakis.2023">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Perakakis</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bornstein</surname>
+<given-names>SR</given-names></string-name>, <string-name name-style="western"><surname>Birkenfeld</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Linkermann</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Demir</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Anker</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Filippatos</surname>
+<given-names>G</given-names></string-name>, <etal>et al.</etal>; <collab>FIDELIO-DKD and FIGARO-DKD investigators</collab>. <article-title>Efficacy of finerenone in patients with type 2 diabetes, chronic kidney disease and altered markers of liver steatosis and fibrosis: A FIDELITY subgroup analysis.</article-title>
+<source>Diabetes Obes Metab.</source>
+<year>2023</year>
+<month>Oct</month>
+<day>10</day>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Re-analysis of trials of finerenone in patients with chronic renal disease and diabetes focusing upon the subgroup of patients with evidence of concurrent nonalcoholic fatty liver disease found similar efficacy and safety as in patients without evidence of liver abnormalities and that liver tests did not worsen with treatment).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Finerenone.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Finerenone+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Finerenone: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Finerenone">Trials on Finerenone: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

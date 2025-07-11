@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Selpercatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Selpercatinib</book-part-id>
+      <title-group>
+        <title>Selpercatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Selinexor" document-type="chapter">Selinexor</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Selumetinib" document-type="chapter">Selumetinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Selpercatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Selpercatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Selpercatinib is an oral selective inhibitor of the tyrosine kinase receptor encoded by RET (rearranged during transfection), a proto-oncogene which is mutated or altered in many cancers such a medullary thyroid cancer and non-small cell lung cancer. Serum aminotransferase elevations are common during therapy with selpercatinib and can lead to dose modifications or drug discontinuation, but clinically apparent liver injury with jaundice has not been described with its use.</p>
+        </sec>
+        <sec id="Selpercatinib.Background">
+          <title>Background</title>
+          <p>Selpercatinib (sel per&#x02019;ca ti nib) is an orally available, small molecule inhibitor of the tyrosine kinase receptor encoded by the proto-oncogene RET (rearranged during transfection), which is mutated or altered in several cancers including non-small cell lung cancer (NSCLC) and medullary thyroid cancer. The RET encoded tyrosine kinase receptor leads to stimulation of cell growth and proliferation which when overexpressed can become a cancer promoter by stimulating tumor cell proliferation, invasion and migration. Alterations in the RET gene, either mutations or RET fusions, are found in several forms of cancer, including 70% of medullary thyroid cancers and a small proportion of other forms of thyroid cancer and NSCLC. Therapy with selpercatinib has been shown to result in objective responses (either complete or partial) in a high proportion of patients with NSCLC and thyroid cancers with RET alterations. Selpercatinib was granted accelerated approved in the United States in 2020 for adults and children (aged 12 years or older) with advanced, unresectable or metastatic NSCLC, medullary thyroid cancer and thyroid cancers harboring RET mutations or RET gene fusions. Indications were subsequently extended to include adults with refractory, advanced solid tumors harboring a RET fusion. Selpercatinib is available in capsules of 40 and 80 mg under the brand name Retevmo. The recommended dose is 160 mg twice daily in adults and children weighing 50 kg or greater, and 120 mg twice daily in those weighing less than 50 kg. Side effects are common and arise in almost all patients treated with selpercatinib and can include dry mouth, diarrhea, systemic arterial hypertension, fatigue, constipation, nausea, poor appetite, myalgia, arthralgia, edema, anemia, elevations in serum creatinine, uric acid, and aminotransferase levels. Uncommon but potentially severe adverse events include interstitial lung disease, severe hypertension, prolongation of the QTc interval, hemorrhagic events, tumor lysis syndrome, impaired wound healing, hypersensitivity reactions, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Selpercatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of selpercatinib in patients with thyroid and non-small cell lung cancer, liver test abnormalities were frequent although usually mild. Some degree of ALT elevation arose in up to 55% of selpercatinib treated patients and were above 5 times the upper limit of normal (ULN) in 10% to 12%, arising mostly within the first few months of therapy; the median onset was at 6 weeks but with a range of 1 day to more than 2 years. In the preregistration trials that enrolled 531 patients, serum aminotransferase elevations led to dose interruptions and modifications in 5% to 6% but complete discontinuation in less than 1% of patients. ALT levels were closely monitored and did not lead to clinically apparent liver injury with jaundice or deaths from liver disease. Thus, selpercatinib therapy is associated with a high rate of transient serum enzyme elevations but has not been definitely linked to instances of clinically apparent liver injury with jaundice. The product label for selpercatinib recommends monitoring for routine liver tests before, at 2 week intervals during the first 3 months of therapy, and monthly thereafter as clinically indicated.</p>
+          <p>Likelihood score: E* (unproven but suspect cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Selpercatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum aminotransferase elevations during selpercatinib therapy is unknown, but the pattern of abnormalities and response to dose adjustments suggests some degree of low level, direct hepatotoxicity. Selpercatinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+        </sec>
+        <sec id="Selpercatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation of selpercatinib therapy until serum enzymes return to normal or near normal values. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors, but there is no information on shared adverse event sensitivity of selpercatinib with other RET inhibitors such as pralsetinib or other antineoplastic protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Pralsetinib" document-type="chapter">Pralsetinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Selpercatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Selpercatinib &#x02013; Retevmo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Kinase Inhibitors</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Selpercatinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Selpercatinib.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Selpercatinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Selpercatinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Selpercatinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Selpercatinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Selpercatinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Selpercatinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Selpercatinib</td>
+                <td headers="hd_h_Selpercatinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381609315">2152628-33-4</ext-link>
+</td>
+                <td headers="hd_h_Selpercatinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H31-N7-O3</td>
+                <td headers="hd_h_Selpercatinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="381609315" document-id-type="sid" document-type="summary" object-id="381609315" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Selpercatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 August 2023</p>
+        <p>Abbreviations: NSCLC, non-small cell lung cancer; RET, rearranged in transfection.</p>
+        <ref-list id="Selpercatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Selpercatinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss selpercatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213246Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213246Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial clinical review of the safety and efficacy of selpercatinib; states that virtually all patients treated with selpercatinib [n=531] had at least one adverse event, including ALT elevations in 33% which were above 5 times ULN in 9%, led to dose interruption and dose reduction in 5-6% but to permanent discontinuation in only 0.4%; no patient developed clinically apparent liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.drilon.2020.813">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Drilon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Oxnard</surname>
+<given-names>GR</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>DSW</given-names></string-name>, <string-name name-style="western"><surname>Loong</surname>
+<given-names>HHF</given-names></string-name>, <string-name name-style="western"><surname>Johnson</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gainor</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>McCoach</surname>
+<given-names>CE</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy of selpercatinib in <italic toggle="yes">RET</italic> fusion-positive non-small-cell lung cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>:<fpage>813</fpage>-<lpage>824</lpage>.<annotation><p><italic toggle="yes">(Among 144 adults with NSCLC and a RET-fusion mutation treated with selpercatinib for a median of 12 months, the objective response rate was 69% while adverse events were frequent, most commonly diarrhea, dry mouth, hypertension, fatigue and ALT elevations arising in 26% and to greater than 5 times ULN in 12%, but there were no hepatic related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">32846060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.wirth.2020.825">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wirth</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Sherman</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Robinson</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Solomon</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lorch</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Worden</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy of selpercatinib in <italic toggle="yes">RET</italic>-altered thyroid cancers.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>:<fpage>825</fpage>-<lpage>835</lpage>.<annotation><p><italic toggle="yes">(Among 162 adults with RET altered thyroid cancers treated with selpercatinib, the objective response rate was 69-79% and all patients had at least one adverse event, most commonly dry mouth [46%], hypertension [43%], diarrhea [38%], fatigue [38%], poor appetite and nausea [35%] and ALT elevations [31%], which were above 5 times ULN in 11%, leading to dose modifications in 9% and discontinuation in 2 patients).</italic></p></annotation><pub-id pub-id-type="pmid">32846061</pub-id></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.illini.2021.17588359211019675">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Illini</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Hochmair</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Fabikan</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Weinlinger</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Tufman</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Swalduz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lamberg</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Selpercatinib in RET fusion-positive non-small-cell lung cancer (SIREN): a retrospective analysis of patients treated through an access program.</article-title>
+<source>Ther Adv Med Oncol.</source>
+<year>2021</year>;<volume>13</volume>:<elocation-id>17588359211019675</elocation-id>.<annotation><p><italic toggle="yes">(Among 50 patients with advanced or metastatic RET fusion-positive NSCLC treated in an open access program in 12 countries, the objective response rate was 68% and common &#x0201c;grade 3 or 4&#x0201d; adverse events included ALT or AST elevations in 10%, QTc prolongation in 4%, abdominal pain in 4%, and fatigue in 4%, but there were no treatment related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">34178121</pub-id></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF.drilon.2023.385">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Drilon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Subbiah</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Gautschi</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Tomasini</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>de Braud</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Solomon</surname>
+<given-names>BJ</given-names></string-name>, <string-name name-style="western"><surname>Shao-Weng Tan</surname>
+<given-names>D</given-names></string-name>, <etal>et al.</etal>
+<article-title>Selpercatinib in patients with <italic toggle="yes">RET</italic> fusion-positive non-small-cell lung cancer: updated safety and efficacy from the registrational LIBRETTO-001 phase I/II trial.</article-title>
+<source>J Clin Oncol.</source>
+<year>2023</year>;<volume>41</volume>:<fpage>385</fpage>-<lpage>394</lpage>.<annotation><p><italic toggle="yes">(Further follow up of 31 patients with advanced RET fusion-positive NSCLC treated with selpercatinib demonstrate an objective response rate of 84% in treatment-na&#x000ef;ve and 61% in previously treated patients while adverse events arose in virtually all patients including edema [49%], diarrhea [47%], fatigue [43%], hypertension [41%] and ALT elevations in 36% which were above 5 times ULN in 11%).</italic></p></annotation><pub-id pub-id-type="pmid">36122315</pub-id></mixed-citation>
+          </ref>
+          <ref id="Selpercatinib.REF9">
+            <mixed-citation publication-type="journal"><article-title>Two drugs for RET-altered cancers (Retevmo and Gavreto).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e129</fpage>-<lpage>e131</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of selpercatinib and pralsetinib, two kinase inhibitors that act on RET gene altered cancers mentions that liver enzyme elevations are frequent and monitoring of ALT and AST levels is recommended).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Selpercatinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Selpercatinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Selpercatinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Selpercatinib">Trials on Selpercatinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

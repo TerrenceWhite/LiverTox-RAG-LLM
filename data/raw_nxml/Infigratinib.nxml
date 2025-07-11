@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Infigratinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Infigratinib</book-part-id>
+      <title-group>
+        <title>Infigratinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="InfertilityAgents" document-type="chapter">Infertility Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Infliximab" document-type="chapter">Infliximab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Infigratinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Infigratinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Infigratinib is a FGF receptor kinase inhibitor that is used in the treatment of unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma. Infigratinib is associated with transient and usually mild elevations in serum aminotransferase during therapy, but has not been convincingly linked to cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Infigratinib.Background">
+          <title>Background</title>
+          <p>Infigratinib (fue&#x0201d; ti ba&#x02019; ti nib) is an orally available, specific inhibitor of the fibroblast growth factor (FGF) receptor 1, 2 and 3 kinases, that is used in the therapy advanced or metastatic cholangiocarcinoma. Aberrant FGF receptor signaling is associated with several cancer types in which amplifications, translocations, fusings, and other activating point mutations of FGF receptors are found. Cholangiocarcinomas often harbor mutants of the FGF receptor 2 that cause the activation of FGF pathways that promote uncontrolled growth and tumorigenesis. Inhibition of the mutant receptor causes regression of cell proliferation and promotes cell death. Studies in cell culture and in animal models suggested that infigratinib was active in inhibiting cancer cell growth. Trials in patients with cholangiocarcinoma demonstrated a significant overall durable response rate, for which reason infigratinib received accelerated approval for use in the United States in 2021. Current indications are limited to adults with previously treated, unresectable, locally advanced, or metastatic intrahepatic cholangiocarcinoma with FGF receptor 2 gene fusions or other rearrangements. Infigratinib continues to be under evaluation for its long term safety and efficacy in cholangiocarcinoma and for its possible efficacy in other forms of cancer associated with FGF receptor gene alternations. Infigratinib is available in capsules of 25 and 100 mg under the brand name Truseltiq. The recommended dose is 125 mg once daily for 21 days of a 28 day cycle, continued indefinitely or until there is disease progression or unacceptable toxicity. Adverse events are common and include hyperphosphatemia (an effect of inhibition of FGF signaling), as well as symptoms of fatigue, nausea, diarrhea, constipation, dysgeusia, anorexia, abdominal pain, musculoskeletal pain, dizziness, alopecia, dryness of the eyes, mouth and skin, blurred vision, nail toxicity, and hand-foot syndrome. Severe adverse events include severe hyperphosphatemia, ocular toxicity, infections and sepsis, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Infigratinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the open label clinical trials of infigratinib for advanced or metastatic cholangiocarcinoma, adverse events were common and led to dose interruptions in 64%, dose reductions in 60% of patients, and permanent discontinuations in 15% largely for hyperphosphatemia, infections and sepsis rather than liver injury. In preregistration trials in 108 patients, ALT elevations arose in 51% and to above 5 times ULN in 6%. The elevations were typically self-limited and resolved rapidly with or without dose adjustments. No patients developed clinically apparent liver injury or jaundice. Since its approval, there have been no reports clinically apparent liver injury attributed to infigratinib. However, the total clinical experience with its use has been limited and the frequency of serum aminotransferase elevations during therapy suggest that clinically significant liver injury may occur.</p>
+          <p>Likelihood score: E* (unproven but possible, rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Infigratinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of serum enzyme elevations or liver injury from infigratinib therapy are not known. Some of the adverse effects of infigratinib are due to its effects on FGF signaling (hyperphosphatemia) and others may be due to off-target effects on other kinases. Infigratinib is metabolized in the liver largely by CYP 3A4 and liver injury might be caused by production of a toxic or immunogenic intermediate. Because it is a substrate for CYP 3A4, infigratinib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity.</p>
+        </sec>
+        <sec id="Infigratinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Infigratinib is associated with a moderate rate of serum aminotransferase elevations that are generally transient and not associated with symptoms or jaundice. While regular monitoring of liver tests is not specifically recommended during infigratinib therapy, elevations if confirmed should lead to more careful follow up monitoring. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation until the abnormalities resolve or an alternative cause is identified. There is no evidence to suggest a cross reactivity in risk for adverse events, hypersensitivity or hepatic injury between infigratinib and other protein kinases or FGF receptor inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other FGF Receptor Kinase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Erdafitinib" document-type="chapter">Erdafitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Futibatinib" document-type="chapter">Futibatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pemigatinib" document-type="chapter">Pemigatinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Infigratinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Infigratinib &#x02013; Truseltiq&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Infigratinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Infigratinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Infigratinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Infigratinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Infigratinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Infigratinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Infigratinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Infigratinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Infigratinib</td>
+                <td headers="hd_h_Infigratinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642798">872511-34-7</ext-link>
+</td>
+                <td headers="hd_h_Infigratinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C26-H31-Cl2-N7-O3</td>
+                <td headers="hd_h_Infigratinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163642798" document-id-type="sid" document-type="summary" object-id="163642798" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Infigratinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 November 2022</p>
+        <p>Abbreviations: FGF, fibroblast growth factor.</p>
+        <ref-list id="Infigratinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Infigratinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase inhibitors such as infigratinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infigratinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not the FGF receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infigratinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infigratinib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214622Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214622Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels, letters and multidisciplinary review of the applications for infigratinib mentions that adverse events were common, led to drug discontinuation in 15% [none liver related], interruptions in 64% and dose reductions in 60%; ALT elevations arose in 51% of 108 treated subjects which were above 5 times ULN in 6%, but all were self-limited and there were no deaths from liver failure, serious hepatic adverse events or instances of clinically apparent liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infigratinib.REF.shah.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shah</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Morganroth</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>DR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>491</fpage>
+              <lpage>503</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013, before the availability of infigratinib which is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23620168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.guagnano.2011.7066">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guagnano</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Furet</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Spanka</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bordas</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Le Douget</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Stamm</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brueggen</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Discovery of3-(2,6-dichloro-3,5-dimethoxy-phenyl)-1-{6-[4-(4-ethyl-piperazin-1-yl)-phenylamino]-pyrimidin-4-yl}-1-methyl-urea (NVP-BGJ398), a potent and selective inhibitor of the fibroblast growth factor receptor family of receptor tyrosine kinase.</article-title>
+              <source>J Med Chem.</source>
+              <year>2011</year>
+              <volume>54</volume>
+              <fpage>7066</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of the discovery of a series of FGF receptor inhibitors and selection of infigratinib for its in vitro and in vivo effects in inhibition of FGF receptor 1, 2 and 3 activity and inhibition of growth and proliferation of cancer cell lines that overexpressed FGF receptors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21936542</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.arai.2014.1427">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Arai</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Totoki</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Hosoda</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Shirota</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hama</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Nakamura</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ojima</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fibroblast growth factor receptor tyrosine kinase fusions define a unique molecular subtype of cholangiocarcinoma.</article-title>
+              <source>Hepatology.</source>
+              <year>2014</year>
+              <volume>59</volume>
+              <fpage>1427</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Whole transcriptome sequencing from 8 cholangiocarcinomas identified two FGF receptor fusion genes and screening of different human cancer tissues found FGF receptor fusions in 9 of 102 cholangiocarcinomas [all intrahepatic] but only 1 of 149 colorectal, 1 of 96 hepatocellular, and none of 212 gastric cancers; expression of the fusion kinases in cell cultures led to anchorage independent growth and tumorigenesis when implanted in mice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24122810</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.nogova.2017.157">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nogova</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Sequist</surname><given-names>LV</given-names></name>
+<name name-style="western"><surname>Perez Garcia</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Andre</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Delord</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Hidalgo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schellens</surname><given-names>JH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Evaluation of BGJ398, a fibroblast growth factor receptor 1-3 kinase inhibitor, in patients with advanced solid tumors harboring genetic alterations in fibroblast growth factor receptors: results of a global phase I, dose-escalation and dose-expansion study.</article-title>
+              <source>J Clin Oncol.</source>
+              <year>2017</year>
+              <volume>35</volume>
+              <fpage>157</fpage>
+              <lpage>165</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In phase 1 dose escalating studies of infigratinib in 132 patients with advanced, refractory cancers harboring FGF receptor mutations or fusions, the maximum tolerated dose was 125 mg daily and dose defining toxicities included aminotransferase elevations; a regimen of 21 days on and 7 days off was better tolerated that continuous therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27870574</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.javle.2018.276">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Javle</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lowery</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shroff</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Springfeld</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Borad</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Ramanathan</surname><given-names>RK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase II study of BGJ398 in patients with FGFR-altered advanced cholangiocarcinoma.</article-title>
+              <source>J Clin Oncol.</source>
+              <year>2018</year>
+              <volume>36</volume>
+              <fpage>276</fpage>
+              <lpage>282</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 61 patients with advanced or metastatic cholangiocarcinoma harboring FGF receptor alterations treated with infigratinib [125 mg daily for 21 days in 28 day cycles], the objective response rate was 15%, occurring only in patients with FGF receptor fusions, while adverse events included hyperphosphatemia in 81%, fatigue 36%, stomatitis 30%, alopecia 26%, hand-foot syndrome 21%, ALT elevations 10%, and hepatic failure in 1 patient [3%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29182496</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.hartley.2020.1387">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hartley</surname><given-names>IR</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>CB</given-names></name>
+<name name-style="western"><surname>Papadakis</surname><given-names>GZ</given-names></name>
+<name name-style="western"><surname>Bergwitz</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Del Rivero</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Blau</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Florenzano</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Targeted FGFR blockade for the treatment of tumor-induced osteomalacia.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1387</fpage>
+              <lpage>1389</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(66 year old man with mesenchymal tumor that produced FGF 23 resulting in hypophosphatemia and severe osteomalacia, was treated with infigratinib with a dramatic clinical and biochemical response followed by a relapse when infigratinib was stopped).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32905668</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.krook.2021.880">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Krook</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Reeser</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Ernst</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Barker</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wilberding</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>HZ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fibroblast growth factor receptors in cancer: genetic alterations, diagnostics, therapeutic targets and mechanisms of resistance.</article-title>
+              <source>Br J Cancer.</source>
+              <year>2021</year>
+              <volume>124</volume>
+              <fpage>880</fpage>
+              <lpage>892</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the association of FGF receptors and cancer chemotherapeutic agents, activating mutations being found in 5% to 10% of cancers overall, but in 10% to 20% of cholangiocarcinomas).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33268819</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.kang.2021.1355">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kang</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Infigratinib: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2021</year>
+              <volume>81</volume>
+              <fpage>1355</fpage>
+              <lpage>1360</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the chemical structure, mechanism of action, pharmacokinetics, clinical efficacy and safety of infigratinib shortly after its approval in the US, mentions ALT and AST elevations in list of adverse events but not clinically apparent hepatotoxicity or jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34279850</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.javle.2021.803">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Javle</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Roychowdhury</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kelley</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Sadeghi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Macarulla</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Waldschmidt</surname><given-names>DT</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Infigratinib (BGJ398) in previously treated patients with advanced or metastatic cholangiocarcinoma with FGFR2 fusions or rearrangements: mature results from a multicentre, open-label, single-arm, phase 2 study.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2021</year>
+              <volume>6</volume>
+              <fpage>803</fpage>
+              <lpage>815</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 108 patients with advanced or metastatic cholangiocarcinoma with FGF2 fusions or rearrangements treated with infigratinib [125 mg for 21 of 28 day cycles], the objective response rate was 23% and adverse events included hyperphosphatemia [77%], stomatitis [55%], fatigue [40%], alopecia [38%], dry eyes [34%], and ALT elevations [15% with 2% above 5 times ULN], but there were no instances of clinically apparent liver injury with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34358484</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Infigratinib.REF.neuzillet.2021.773">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Neuzillet</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Infigratinib in pretreated cholangiocarcinoma with FGFR2 fusions or rearrangements.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2021</year>
+              <volume>6</volume>
+              <fpage>773</fpage>
+              <lpage>775</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Javle et al [2021] comparing results of second-line infigratinib therapy of advanced or metastatic cholangiocarcinoma [objective response rate of 23.1%] with the previous standard chemotherapy [FOLFOX: 7.7%] and the similar FGF receptor kinase inhibitor pemigatinib [35.5%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34358483</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Infigratinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Infigratinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Infigratinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Infigratinib">Trials on Infigratinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

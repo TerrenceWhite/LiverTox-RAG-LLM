@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pralsetinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pralsetinib</book-part-id>
+      <title-group>
+        <title>Pralsetinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pralatrexate" document-type="chapter">Pralatrexate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pramipexole" document-type="chapter">Pramipexole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pralsetinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pralsetinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pralsetinib is an oral selective inhibitor of the tyrosine kinase receptor encoded by RET (rearranged during transfection), a proto-oncogene which is mutated or altered in many cancers such a medullary thyroid cancer and non-small cell lung cancer. Serum aminotransferase elevations are common during pralsetinib therapy and can lead to dose modifications or discontinuations, but pralsetinib has not been linked to clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Pralsetinib.Background">
+          <title>Background</title>
+          <p>Pralsetinib (pral seh&#x02019; ti nib) is an orally available, small molecule inhibitor of the tyrosine kinase receptor encoded by the proto-oncogene RET (rearranged during transfection), which is mutated or altered in several cancers including 1% to 2% of non-small cell lung cancer (NSCLC), up to 70% of medullary thyroid cancers and approximately 10% of other thyroid cancers. Pralsetinib was found to be a potent inhibitor of cell growth and proliferation in tumor cell lines and experimental tumor models with RET mutations or RET gene fusion. In open label trials of pralsetinib in patients with advanced or metastatic medullary thyroid cancer and NSCLC harboring alterations in RET, objective response rates ranged from 56% to 85%. Pralsetinib was given accelerated approval for use in the United States in 2020 and subsequently received full approval. It has shown efficacy in several other solid tumors that harbor RET gene-alterations. Pralsetinib is available in capsules of 100 mg under the brand name Gavreto. The recommended dose is 400 mg once daily in adults and children 12 years of age or above. Side effects are common and can include dry mouth, diarrhea, constipation, abdominal pain, nausea, systemic arterial hypertension, myalgia, fever, cough, edema, anemia, neutropenia, elevations in serum creatinine, uric acid, and aminotransferase levels. Uncommon but potentially severe adverse events include interstitial pneumonitis, severe hypertension, hemorrhagic events, tumor lysis syndrome, impaired wound healing, and embryo-fetal toxicity. In preregistration trials, adverse events led to dose interruptions in 60%, dose reductions in 36%, and permanent discontinuations in 15% of pralsetinib treated patients. Deaths from treatment related adverse events were rare [&#x0003c;1%] and usually due to sepsis or pneumonitis.</p>
+        </sec>
+        <sec id="Pralsetinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of pralsetinib in patients with RET mutations or RET fusion gene-positive solid tumors, liver test abnormalities were frequent although usually mild. Some degree of ALT elevation arose in 41% of pralsetinib treated patients, but were above 5 times the upper limit of normal (ULN) in only 2% to 3%. The median time to onset of ALT elevations was 22 days with a range of 7 days to more than a year. In these trials that enrolled approximately 438 patients, serious hepatic adverse events were reported in 2.1% but were mostly transient serum aminotransferase elevations. There were no fatal hepatic events and no instance of clinically apparent liver injury with jaundice. Pralsetinib was discontinued early due to increased AST or ALT in 0.8% of patients. Thus, in preregistration trials of pralsetinib there were no instances of clinically apparent liver injury with jaundice, but therapy was associated with a high rate of serum ALT elevations and the total clinical experience with its use has been limited. Nevertheless, careful monitoring of liver tests is recommended during pralsetinib therapy.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Pralsetinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum aminotransferase elevations during pralsetinib therapy is unknown, but the pattern of abnormalities and the response to dose adjustment suggests some degree of low level, direct hepatotoxicity. Pralsetinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+        </sec>
+        <sec id="Pralsetinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for pralsetinib recommends monitoring for routine liver tests before, at 2-week intervals during the first 3 months of therapy, and monthly thereafter as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation of pralsetinib therapy until serum enzymes return to normal or near normal levels. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors, but there is no information or shared adverse event sensitivity of pralsetinib with other RET inhibitors such as selpercatinib or other antineoplastic protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Selpercatinib" document-type="chapter">Selpercatinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pralsetinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Pralsetinib &#x02013; Gavreto&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Kinase Inhibitors</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pralsetinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pralsetinib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pralsetinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pralsetinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pralsetinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Pralsetinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pralsetinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pralsetinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pralsetinib</td>
+                <td headers="hd_h_Pralsetinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381608874">2097132-94-8</ext-link>
+</td>
+                <td headers="hd_h_Pralsetinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H32-F-N9-O2</td>
+                <td headers="hd_h_Pralsetinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="381608874" document-id-type="sid" document-type="summary" object-id="381608874" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pralsetinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 August 2023</p>
+        <p>Abbreviations: NSCLC, non-small cell lung cancer; RET, rearranged in transfection.</p>
+        <ref-list id="Pralsetinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pralsetinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss pralsetinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213721Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213721Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline review of the safety and efficacy of pralsetinib; states that virtually all patients treated [n=438] had at least one adverse event, but there were only 7 serious hepatic adverse events that were mostly ALT or AST elevations and no patient developed clinically apparent liver injury with jaundice; in the 220 patients with NSCLC treated with pralsetinib, 46% had an ALT elevations but only 2.1% were above 5 times ULN).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.markham.2020.1865">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Pralsetinib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1865</fpage>-<lpage>1870</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, chemical structure, history of development, pharmacology, clinical efficacy and safety of pralsetinib mentions that AST and ALT elevations were the most common treatment related adverse events, increased ALT elevations accounting for some dosage interruptions but not discontinuations).</italic></p></annotation><pub-id pub-id-type="pmid">33136236</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.kim.2021.5452">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Bradford</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Larkins</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Pai-Scherf</surname>
+<given-names>LH</given-names></string-name>, <string-name name-style="western"><surname>Chatterjee</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mishra-Kalyani</surname>
+<given-names>PS</given-names></string-name>, <string-name name-style="western"><surname>Wearne</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA Approval Summary: Pralsetinib for the treatment of lung and thyroid cancers with <italic toggle="yes">RET</italic> gene mutations or fusions.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2021</year>;<volume>27</volume>:<fpage>5452</fpage>-<lpage>5456</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on efficacy and safety of pralsetinib [n=438 patients] that led to its accelerated approval by the FDA mentions that serious hepatic adverse events arose in 2% of patients with ALT or AST elevations above 5 times ULN in 6% and 5%, but that there were no cases of clinically apparent liver injury with jaundice or hepatic related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">34045295</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.subbiah.2021.491">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Subbiah</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Hu</surname>
+<given-names>MI</given-names></string-name>, <string-name name-style="western"><surname>Wirth</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Schuler</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mansfield</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Curigliano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Brose</surname>
+<given-names>MS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pralsetinib for patients with advanced or metastatic <italic toggle="yes">RET</italic>-altered thyroid cancer (ARROW): a multi-cohort, open-label, registrational, phase 1/2 study.</article-title>
+<source>Lancet Diabetes Endocrinol.</source>
+<year>2021</year>;<volume>9</volume>:<fpage>491</fpage>-<lpage>501</lpage>.<annotation><p><italic toggle="yes">(Among 122 patients with RET-mutated medullary and 20 with RET-fusion-positive thyroid cancer treated with pralsetinib for a median of 12 months, the overall response rates were 60-71%, while adverse events arose in 97% including ALT elevations in 23% that were above 5 times ULN in 2 patients, but there were no discontinuations for ALT or AST elevations and no liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">34118198</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.gainor.2021.959">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gainor</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Curigliano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>DW</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>Besse</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Baik</surname>
+<given-names>CS</given-names></string-name>, <string-name name-style="western"><surname>Doebele</surname>
+<given-names>RC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pralsetinib for <italic toggle="yes">RET</italic> fusion-positive non-small-cell lung cancer (ARROW): a multi-cohort, open-label, phase 1/2 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2021</year>;<volume>22</volume>:<fpage>959</fpage>-<lpage>969</lpage>.<annotation><p><italic toggle="yes">(Among 233 patients with RET fusion-positive NSCLC treated with pralsetinib [400 mg daily], overall responses occurred in 61% of previously treated and 70% of treatment-na&#x000ef;ve subjects, while virtually all patients had at least one adverse events including ALT elevations in 27% which were above 5 times ULN in 5 patients [3%], but there were no treatment related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">34118197</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.passaro.2022.118">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Passaro</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Russo</surname>
+<given-names>GL</given-names></string-name>, <string-name name-style="western"><surname>Passiglia</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>D'Arcangelo</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sbrana</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Russano</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bonanno</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pralsetinib in <italic toggle="yes">RET</italic> fusion-positive non-small-cell lung cancer: A real-world data (RWD) analysis from the Italian expanded access program (EAP).</article-title>
+<source>Lung Cancer.</source>
+<year>2022</year>;<volume>174</volume>:<fpage>118</fpage>-<lpage>124</lpage>.<annotation><p><italic toggle="yes">(Among 62 patients with RET-fusion positive NSCLC treated with pralsetinib for a median of 10 months in 20 Italian centers in an expanded access program, the objective response rate was 66% and adverse events were frequent including ALT or AST elevations above 5 times ULN in 5%, but there were no hepatic related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">36379124</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.griesinger.2022.1168">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Griesinger</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Curigliano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Thomas</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Subbiah</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Baik</surname>
+<given-names>CS</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>DSW</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>DH</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and efficacy of pralsetinib in <italic toggle="yes">RET</italic> fusion-positive non-small-cell lung cancer including as first-line therapy: update from the ARROW trial.</article-title>
+<source>Ann Oncol.</source>
+<year>2022</year>;<volume>33</volume>:<fpage>1168</fpage>-<lpage>1178</lpage>.<annotation><p><italic toggle="yes">(Among 281 with RET fusion-positive NSCLC treated with pralsetinib in the ARROW trial [Gainor 2021], further follow up identified tumor shrinkage in all treatment-na&#x000ef;ve and in 97% of previously treated subjects, while adverse events recorded for a total of 528 patients with cancer treated with pralsetinib, included ALT elevations in 29% which were above 5 times ULN in 2%).</italic></p></annotation><pub-id pub-id-type="pmid">35973665</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF.subbiah.2022.1640">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Subbiah</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Cassier</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Siena</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Garralda</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Paz-Ares</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Garrido</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Nadal</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pan-cancer efficacy of pralsetinib in patients with <italic toggle="yes">RET</italic> fusion-positive solid tumors from the phase 1/2 ARROW trial.</article-title>
+<source>Nat Med.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>1640</fpage>-<lpage>1645</lpage>.<annotation><p><italic toggle="yes">(Among 29 patients with 12 different RET fusion-positive solid tumor types [excluding NSCLC and thyroid cancer] treated with pralsetinib, the overall response rate was 57% and all patients had at least one adverse event including ALT elevations in 10 patients [34%], which were above 5 times ULN in 2 patients [7%] who required dose interruption but not permanent discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">35962206</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralsetinib.REF12">
+            <mixed-citation publication-type="journal"><article-title>Two drugs for RET-altered cancers (Retevmo and Gavreto).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e129</fpage>-<lpage>e131</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of selpercatinib and pralsetinib, two kinase inhibitors that act on RET gene altered cancers mentions that liver enzyme elevations are frequent and monitoring of ALT and AST levels is recommended).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pralsetinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Pralsetinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pralsetinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pralsetinib">Trials on Pralsetinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

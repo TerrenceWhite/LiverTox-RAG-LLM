@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="TisotumabVedotin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">TisotumabVedotin</book-part-id>
+      <title-group>
+        <title>Tisotumab Vedotin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>11</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tirzepatide" document-type="chapter">Tirzepatide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tivozanib" document-type="chapter">Tivozanib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="TisotumabVedotin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="TisotumabVedotin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tisotumab vedotin is a human monoclonal antibody conjugate which is used in the therapy of refractory, recurrent or metastatic cervical cancer. Tisotumab vedotin has been linked to transient mild-to-moderate serum aminotransferase elevations during therapy but has not been implicated in cases of liver injury with jaundice.</p>
+        </sec>
+        <sec id="TisotumabVedotin.Background">
+          <title>Background</title>
+          <p>Tisotumab vedotin (ti&#x0201d; so&#x02019; tue mab) vedotin (ve doe&#x02019; tin) is a human IgG1 kappa monoclonal antibody to tissue factor (TF), a cell surface protein that is highly expressed in various forms of cancer and is associated with poor outcomes. The monoclonal antibody is conjugated using a linker sequence to a cytotoxic molecule, vedotin monomethyl auristatin E (MMAE) that disturbs microtubule formation resulting in cell-cycle arrest and apoptosis. When tisotumab binds to TF on cancer cells, it is internalized, and vedotin is released by the action of lysosomal enzymes which cleave the short linker molecule that joins the antibody and cytotoxin. Once released, the intracellular vedotin binds to microtubules preventing their participation in cell division resulting in in apoptotic cell death of the rapidly dividing malignant cells. This monoclonal antibody conjugate has been shown to be effective in inducing remissions in adults with refractory, recurrent or metastatic cervical cancers that express TF. Tisotumab vedotin was given accelerated approval for treatment of adults with refractory recurrent or metastatic forms of cervical cancer in the United States in 2021. Tisotumab vedotin is available in powder for reconstitution in single dose vials of 40 mg under the brand name Tivdak. The typical recommended dose is 2 mg/kg (up to a maximum of 200 mg) administered by intravenous infusion every three weeks until disease progression or unacceptable toxicity. Side effects are common and may include infusion reactions, fatigue, nausea, alopecia, epistaxis, conjunctivitis, keratitis, dry eyes, hemorrhage, constipation, diarrhea, and rash. Anemia, lymphopenia, neutropenia, and increases in serum creatinine and INR can also occur. Less common, but potentially serious side effects included peripheral neuropathy, hemorrhage, pneumonitis, severe cutaneous reactions including Stevens Johnson syndrome, and embryo-fetal toxicity. Tisotumab vedotin should be administered only by physicians and health care providers with training and expertise in cancer chemotherapy and management of its potential adverse effects.</p>
+        </sec>
+        <sec id="TisotumabVedotin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In publications of the registration trials of tisotumab vedotin, serum aminotransferase elevations arose in 11% to 24% of treated patients but were above 5 times the upper limit of normal (ULN) in only 1% to 2%, and no patient developed clinically apparent liver injury attributed to therapy. The conjugated vedotin is an active metabolite of irinotecan which is a well-known cause of hepatic steatosis and liver injury, but cases are rarely clinically apparent. Since its approval and more widespread use, there have been no instances of clinically apparent liver injury attributed to tisotumab vedotin reported in the literature.</p>
+          <p>Likelihood score: E (unlikely cause of clinically significant liver injury).</p>
+        </sec>
+        <sec id="TisotumabVedotin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum aminotransferase elevations during tisotumab vedotin therapy is not known, but it is likely due to direct toxicity of the vedotin conjugate rather than the monoclonal antibody. It is not known whether the serum enzyme elevations are accompanied by hepatic steatosis.</p>
+        </sec>
+        <sec id="TisotumabVedotin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur during tisotumab vedotin therapy are generally transient, mild and asymptomatic and rarely require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal, if detected, should lead to more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels. Elevations above 20 times the ULN or any elevation accompanied by jaundice or symptoms should lead to prompt permanent discontinuation.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Monoclonal Antibody Conjugates: Ado-Trastuzumab Emtansine, Benlantamab Mafodotin, Brentuximab Vedotin, Enfortumab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Sacituzumab Govitecan, Trastuzumab Deruxtecan</p>
+        </sec>
+      </sec>
+      <sec id="TisotumabVedotin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tisotumab Vedotin &#x02013; Tivdak&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Tisotumab%20Vedotin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="TisotumabVedotin.CHEMICAL_FORMULA_AND_ST">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="TisotumabVedotin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_TisotumabVedotin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_TisotumabVedotin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_TisotumabVedotin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_TisotumabVedotin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_TisotumabVedotin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tisotumab Vedotin</td>
+                <td headers="hd_h_TisotumabVedotin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Tisotumab-Vedotin">1418731-10-8</ext-link>
+</td>
+                <td headers="hd_h_TisotumabVedotin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_TisotumabVedotin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="TisotumabVedotin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 November 2023</p>
+        <ref-list id="TisotumabVedotin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="TisotumabVedotin.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761208Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761208Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline review of tisotumab vedotin mentions that the most common side effects were hemorrhage, fatigue, nausea, peripheral neuropathy, alopecia, epistaxis, conjunctival and ocular toxicity including dry eyes, corneal ulcers, keratitis and perforation; ALT elevations arose in 24% of patients, but none were above 5 times ULN, there were no drug discontinuations or deaths from liver injury, and no patient developed clinically apparent liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.de_bono.2019.383">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>de Bono</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Concin</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Hong</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Thistlethwaite</surname>
+<given-names>FC</given-names></string-name>, <string-name name-style="western"><surname>Machiels</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Arkenau</surname>
+<given-names>HT</given-names></string-name>, <string-name name-style="western"><surname>Plummer</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tisotumab vedotin in patients with advanced or metastatic solid tumours (InnovaTV 201): a first-in-human, multicentre, phase 1-2 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2019</year>;<volume>20</volume>:<fpage>383</fpage>-<lpage>393</lpage>.<annotation><p><italic toggle="yes">(Among 147 patients with miscellaneous advanced or metastatic solid tumors treated with various doses tisotumab vedotin to identify the optimal dose for long term therapy [0.3 to 2.2 mg/kg iv every 3 weeks] the recommended dose was 2 mg/kg, which was associated with an overall response rate of 16% but also a high rate of adverse events including epistaxis, fatigue, nausea, alopecia, conjunctivitis, dry eyes, decreased appetite, constipation, diarrhea, peripheral neuropathy, and abdominal pain; ALT elevations arose in 10%, but were generally mild).</italic></p></annotation><pub-id pub-id-type="pmid">30745090</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.joubert.2020.245">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Joubert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Beck</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dumontet</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Denevault-Sabourin</surname>
+<given-names>C.</given-names></string-name>
+<article-title>Antibody-drug conjugates: the last decade.</article-title>
+<source>Pharmaceuticals (Basel)</source>. <year>2020</year>;<volume>13</volume>:<fpage>245</fpage>.<annotation><p><italic toggle="yes">(Review of the development, structure, efficacy, adverse event rates and approval of vector-based chemotherapy using selective delivery by a monoclonal antibody and cancer cell injury by a conjugated cellular toxin [payload], including nine that are FDA approved and six others in pivotal trials).</italic></p></annotation><pub-id pub-id-type="pmid">32937862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.coleman.2021.609">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Coleman</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Lorusso</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Gennigens</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez-Mart&#x000ed;n</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Randall</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Cibula</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Lund</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>; <article-title>innovaTV 204/GOG-3023/ENGOT-cx6 Collaborators. Efficacy and safety of tisotumab vedotin in previously treated recurrent or metastatic cervical cancer (innovaTV 204/GOG-3023/ENGOT-cx6): a multicentre, open-label, single-arm, phase 2 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2021</year>;<volume>22</volume>:<fpage>609</fpage>-<lpage>619</lpage>.<annotation><p><italic toggle="yes">(Among 101 patients with recurrent or metastatic cervical cancer refractory to conventional therapies who were treated with tisotumab vedotin, the overall response rate was 24% and adverse events were frequent, but there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33845034</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.markham.2021.2141">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Tisotumab vedotin: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>2141</fpage>-<lpage>2147</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of tisotumab vedotin mentions that serious adverse events included keratitis, conjunctivitis, peripheral neuropathy, hemorrhage, and pneumonitis, fatigue occurred in half of patients and serious adverse events in 43% that led to dose interruptions in 47%, reductions in 23%, discontinuations in 13% and deaths in 4%; ALT elevations arose in 24% but none were above 5 times ULN or associated with symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">34748188</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.fu.2023.107778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fu</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Gao</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>C</given-names></string-name>. <article-title>Peripheral neuropathy associated with monomethyl auristatin E-based antibody-drug conjugates.</article-title>
+<source>iScience.</source>
+<year>2023</year>;<volume>26</volume>:<elocation-id>107778</elocation-id>.<annotation><p><italic toggle="yes">(Rates of peripheral neuropathy are higher with antineoplastic monoclonal antibody conjugates with microtubule inhibitors such as vedotin compared to other cytotoxins, overall rates ranging from 8-66%, severe rates from &#x0003c;1% to 12%, caused probably by release of the monomethyl auristatin E toxin from the targeted cells to the systemic circulation or by direct uptake of the monoclonal conjugate by peripheral nerve Schwann cells).</italic></p></annotation><pub-id pub-id-type="pmid">37727735</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TisotumabVedotin.REF.vergote.2023.5536">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vergote</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Van Nieuwenhuysen</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>O'Cearbhaill</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Westermann</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lorusso</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ghamande</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Collins</surname>
+<given-names>DC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tisotumab vedotin in combination with carboplatin, pembrolizumab, or bevacizumab in recurrent or metastatic cervical cancer: results from the innovaTV 205/GOG-3024/ENGOT-cx8 Study.</article-title>
+<source>J Clin Oncol.</source>
+<year>2023</year>;<volume>41</volume>(<issue>36</issue>):<fpage>5536</fpage>-<lpage>5549</lpage>.<annotation><p><italic toggle="yes">(Among 101 patients with recurrent or metastatic cervical cancer treated with tisotumab combined with either carboplatin, pembrolizumab or bevacizumab, overall response rates were 55% vs 41% vs 35%, and the carboplatin arm was best tolerated; no mention of hepatotoxicity and variability in reporting of serum enzyme elevations in the three groups).</italic></p></annotation><pub-id pub-id-type="pmid">37651655</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="TisotumabVedotin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tisotumab+AND+Vedotin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tisotumab Vedotin: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tisotumab%20Vedotin">Trials on Tisotumab Vedotin: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

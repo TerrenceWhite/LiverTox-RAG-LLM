@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fruquintinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fruquintinib</book-part-id>
+      <title-group>
+        <title>Fruquintinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fremanezumab" document-type="chapter">Fremanezumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fulvestrant" document-type="chapter">Fulvestrant</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fruquintinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fruquintinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fruquintinib is a small molecule inhibitor of vascular endothelial growth factor (VEGF) receptors that is used in adults with metastatic, heavily pretreated colorectal cancer. Fruquintinib is associated with transient elevations in serum aminotransferase during therapy and is likely to result in clinically apparent liver injury in a proportion of patients.</p>
+        </sec>
+        <sec id="Fruquintinib.Background">
+          <title>Background</title>
+          <p>Fruquintinib (frue quin&#x0201d; tin ib) is an orally available, specific inhibitor of vascular endothelial growth factor (VEGF) receptors 1, 2 and 3 that is used in the therapy of highly refractory, metastatic colorectal cancer. VEGF receptors are frequently mutated in colorectal cancer and can account for drug resistance in therapy of metastatic colorectal cancers. Fruquintinib has activity against all three types of VEGF receptors, unlike some others which are specific for only one or two of the receptors. In two placebo controlled trials in patients with metastatic colorectal cancer who had been treated previously with multiple chemotherapeutic regimens, fruquintinib was associated with a higher rate of objective responses as well as prolongation of overall survival in comparison to placebo. Fruquintinib received accelerated approval for use in the United States in 2023. Indications were for adults with metastatic colorectal cancer after relapse or resistance to multiple, previous chemotherapies. Fruquintinib is available in capsules of 1 and 5 mg under the brand name Fruzaqla. The recommended dose regimen is 5 mg once daily in 21 day cycles every 28 days indefinitely or until intolerance or disease progression. Side effects are common with fruquintinib therapy. Common, mild-to-moderate side effects include fatigue (53%), hypertension (38%), stomatitis (31%), abdominal pain (25%), diarrhea (24%), hypothyroidism (21%), palmar-plantar erythrodysesthesia (hand-foot syndrome: 19%), proteinuria (18%), dysphonia (18%), musculoskeletal pain (16%), and arthralgia (11%). Less frequent but potentially severe adverse events include severe hypertension, hemorrhagic events, infections, gastrointestinal perforations, hand-foot syndrome, posterior reversible encephalopathy, hepatotoxicity, arterial thromboses, allergic reactions, and embryonal-fetal toxicity.</p>
+        </sec>
+        <sec id="Fruquintinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure trials of fruquintinib, liver test abnormalities were common with its use as occurs frequently with the multikinase inhibitors. In the two large placebo controlled trials, serum ALT or AST elevations arose in 39% and 44% of fruquintinib-recipients compared to 27% and 30% of placebo-recipients. Aminotransferase levels exceeded 5 times the ULN in 6% and 4% of treated vs 3% and 2% of placebo participants. Serum aminotransferase elevations with jaundice arose only in one treated patient who developed an ALT of 270 U/L, AST 131 U/L, and a total bilirubin of 4.8 mg/dL 58 days after stopping therapy. The delay in onset was interpreted as the abnormalities being unrelated to therapy. There were no life threatening episodes of liver injury and no liver related deaths among the 1101 patients in the two controlled trials. Thus, clinically apparent liver injury was not observed with fruquintinib therapy, but ALT, AST, and bilirubin elevations were common during therapy, although not always due to the fruquintinib in these patients with advanced colorectal cancer. Furthermore, several other inhibitors of VEGF receptors have been implicated in instances of acute liver injury with symptoms and jaundice (pazopanib, regorafenib, sorafenib). Since approval and more widespread use of fruquintinib, there have been no published case reports of clinically apparent liver injury with jaundice.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fruquintinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of serum enzyme elevations or liver injury from fruquintinib therapy are probably the result of direct toxicity of the multi-kinase receptor inhibition or related to hepatic metastases of the underlying colon cancer. Fruquintinib is metabolized in the liver largely via the CYP 3A4 pathway, and liver injury might be caused by production of a toxic or immunogenic intermediate of its metabolism. Because it is a substrate for CYP 3A4, fruquintinib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity.</p>
+        </sec>
+        <sec id="Fruquintinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for fruquintinib recommends monitoring of liver tests before initiating therapy and periodically during treatment. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to at least temporary cessation. There is no evidence to suggest a cross reactivity in risk for adverse events, hypersensitivity, or hepatic injury between fruquintinib and other VEGF receptor inhibitors such as pazopanib, regorafenib, or sorafenib.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Kinase Inhibitors that Target VEGF receptors: <related-object link-type="booklink" source-id="livertox" document-id="Axitinib" document-type="book-part">Axitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cabozantinib" document-type="book-part">Cabozantinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lenvatinib" document-type="book-part">Lenvatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pazopanib" document-type="book-part">Pazopanib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Regorafenib" document-type="book-part">Regorafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sorafenib" document-type="book-part">Sorafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vandetanib" document-type="book-part">Vandetanib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fruquintinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Fruquintinib &#x02013; Fruzaqla&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fruquintinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Fruquintinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fruquintinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Fruquintinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fruquintinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Fruquintinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fruquintinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fruquintinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Fruquintinib</td>
+                <td headers="hd_h_Fruquintinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252089874">1194506-26-7</ext-link>
+</td>
+                <td headers="hd_h_Fruquintinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C21-H19-N3-O5</td>
+                <td headers="hd_h_Fruquintinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="252089874" document-id-type="sid" document-type="summary" object-id="252089874" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fruquintinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 March 2025</p>
+        <p>Abbreviations: ULN, upper limit of the normal range; VEGF, vascular endothelial growth factor.</p>
+        <ref-list id="Fruquintinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fruquintinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase inhibitors such as fruquintinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not fruquintinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.multdiscipline_review.2023">
+            <mixed-citation publication-type="web"><string-name name-style="western"><given-names>FDA.</given-names>
+<surname>Mult-Discipline Review</surname></string-name>. <year>2023</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217564Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217564Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA review of the data on efficacy and safety of fruquintinib in support of its approval for refractory, metastatic colorectal cancer in the US, mentions that liver test abnormalities were frequent in the 911 patients treated, ALT elevations arising in 34% of fruquintinib treated subjects which were above 5 times the ULN in 5%, leading to drug withdrawal in 1%, and self-limited liver injury with jaundice in one subject which arose 2 months after stopping the drug and which was judged to be unrelated to therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.spraggs.2013.541">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Spraggs</surname>
+<given-names>CF</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>CF</given-names></string-name>, <string-name name-style="western"><surname>Hunt</surname>
+<given-names>CM</given-names></string-name>. <article-title>Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors.</article-title>
+<source>Pharmacogenomics</source>
+<year>2013</year>; <volume>14</volume>: <fpage>541</fpage>-<lpage>54</lpage>.<annotation><p><italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib; fruquintinib is not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">23556451</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.shah.2013.491">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shah</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Morganroth</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>DR</given-names></string-name>. <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+<source>Drug Saf</source>
+<year>2013</year>; <volume>36</volume>: <fpage>491</fpage>-<lpage>503</lpage>.<annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013, before the availability of fruquintinib which is not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.lu.2018.1207">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Chang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>JJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized, double-blind, placebo-controlled, multicenter phase II study of fruquintinib after two prior chemotherapy regimens in Chinese patients with advanced nonsquamous non&#x02012;small-cell lung cancer.</article-title>
+<source>J Clin Oncol.</source>
+<year>2018</year>;<volume>36</volume>:<fpage>1207</fpage>-<lpage>1217</lpage>.<annotation><p><italic toggle="yes">(Among 91 patients with advanced, refractory non-small cell lung cancer treated with fruquintinib or placebo, objective tumor responses and 6 month survival was higher with drug treatment [67% vs 59%]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">29528793</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.li.2018.2486">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Li</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Qin</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>RH</given-names></string-name>, <string-name name-style="western"><surname>Shen</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Bai</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Effect of fruquintinib vs placebo on overall survival in patients with previously treated metastatic colorectal cancer: the FRESCO randomized clinical trial.</article-title>
+<source>JAMA</source>. <year>2018</year>;<volume>319</volume>:<fpage>2486</fpage>-<lpage>2496</lpage>.<annotation><p><italic toggle="yes">(Among 416 Chinese adults with heavily pretreated, metastatic colorectal cancer treated with fruquintinib vs placebo, the overall survival rate was higher with fruquintinib [9.3 vs 6.6 months] but severe adverse events were more common [16% vs 6%] as were ALT elevations [18% vs 9%], although elevations above 5 times ULN were uncommon in both groups [0.7% vs 1.5%] and there were no life-threatening episodes or deaths from liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">29946728</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.dasari.2023.41">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dasari</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lonardi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Carbonero</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Elez</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Yoshino</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Sobrero</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Yao</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>; <collab>FRESCO-2 Study Investigators</collab>. <article-title>Fruquintinib versus placebo in patients with refractory metastatic colorectal cancer (FRESCO-2): an international, multicentre, randomised, double-blind, phase 3 study.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>(<issue>10395</issue>):<fpage>41</fpage>-<lpage>53</lpage>.<annotation><p><italic toggle="yes">(Among 934 adults with heavily pretreated, refractory metastatic colorectal treated with fruquintinib vs placebo, overall survival was higher with fruquintinib compared to placebo 7.4 vs 4.8 months, while adverse events arose in 63% vs 50% including ALT elevations in 10% vs 4% that were above 5 times ULN in 3% vs less than 1%; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">37331369</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF10">
+            <mixed-citation publication-type="journal"><article-title>Fruquintinib (Fruzaqla) for metastatic colorectal cancer.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2024</year>;<volume>66</volume>:<fpage>e34</fpage>-<lpage>e35</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of fruquintinib shortly after its approval for use in heavily pretreated, metastatic colorectal cancer in the US, mentions hepatotoxicity as an adverse event and the recommendation to monitor liver tests before and periodically during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">38412270</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fruquintinib.REF.fusco.2024.3100">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fusco</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Casak</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Mushti</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Christmas</surname>
+<given-names>BJ</given-names></string-name>, <string-name name-style="western"><surname>Thompson</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Fu</surname>
+<given-names>W</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: fruquintinib for the treatment of refractory metastatic colorectal cancer.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2024</year>;<volume>30</volume>:<fpage>3100</fpage>-<lpage>3104</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on efficacy and safety of fruquintinib that provided the basis for its approval as therapy of metastatic colorectal cancer, mentions that analysis of safety was based upon 1101 patients and that adverse events more frequent with fruquintinib included fatigue, hypertension, stomatitis, diarrhea, hypothyroidism, hand-foot syndrome, proteinuria, dysphonia, arthralgia, and musculoskeletal pain; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38809262</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Fruquintinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Fruquintinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Fruquintinib: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fruquintinib">Trials on Fruquintinib: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

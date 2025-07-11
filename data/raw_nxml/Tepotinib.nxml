@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tepotinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tepotinib</book-part-id>
+      <title-group>
+        <title>Tepotinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Teplizumab" document-type="chapter">Teplizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Teprotumumab" document-type="chapter">Teprotumumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tepotinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tepotinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tepotinib is an orally available, small molecule inhibitor of the mesenchymal-epithelial transition (MET) factor tyrosine kinase receptor that is used to treat selected cases of non-small cell lung cancer (NSCLC). Serum aminotransferase elevations are common during therapy with tepotinib, but it has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Tepotinib.Background">
+          <title>Background</title>
+          <p>Tepotinib (tep oh&#x02019; ti nib) is an orally available, small molecule inhibitor of the mesenchymal-epithelial transition (MET) factor tyrosine kinase receptor that blocks the binding of its ligand, hepatocyte growth factor (HGF), which normally activates signaling pathways involved in cell proliferation, motility, and invasion. The MET gene is mutated or overexpressed in several human cancers including lung, liver, breast and ovarian. Tepotinib has special activity against the mutated variant of the MET receptor produced by exon 14 skipping which is found in 3% to 4% of refractory NSCLC. Tepotinib was found to inhibit cancer cell growth in several tissue culture and animal models of MET dysregulated cancers. In a moderately sized (n=255), open label trial, tepotinib was found to induce objective responses in 43% of patients with metastatic non-small cell lung cancer harboring MET mutations regardless of previous treatment status. Tepotinib was approved in the United States in 2021 for adults with unresectable or advanced NSCLC with documented mutations that cause MET exon 14 skipping, the second such tyrosine kinase inhibitor approved for this indication (the first being capmatinib). Tepotinib is available in tablets of 225 mg under the brand name Tepmetko. The recommended dose is 450 mg orally once daily until disease progression or unacceptable toxicity. Side effects are common and arise in almost all patients treated with tepotinib. Severe adverse reactions occur in up to 45% of patients and lead to dose interruptions in 44%, dose adjustments in 30%, and permanent discontinuations in 20%. Common side effects include edema, nausea and vomiting, abdominal pain, diarrhea or constipation, anorexia, musculoskeletal pain, fatigue, fever, cough, dyspnea, and rash. Uncommon but potentially severe adverse events include pneumonitis, interstitial lung disease, hepatotoxicity, photosensitivity, hypersensitivity reactions, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Tepotinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of tepotinib in patients with solid tumors harboring MET mutations, liver test abnormalities were frequent although usually self-limited and mild. Some degree of ALT elevations arose in 44% of tepotinib treated patients and were above 5 times the upper limit of normal (ULN) in 4%. In these trials that enrolled 255 patients, dose interruptions due to ALT or AST elevations occurred in 3%, but permanent discontinuations in less than 1%. The liver test abnormalities had a median onset of 30 days after initiation of therapy. While serum aminotransferase elevations were occasionally quite high (5 to 20 times upper limit of normal), there were no accompanying elevations in serum bilirubin and no patient developed clinically apparent liver injury with jaundice. The product label for tepotinib recommends monitoring for routine liver tests before, at 2 week intervals during the first 3 months of therapy, and monthly thereafter as clinically indicated.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tepotinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from tepotinib is unknown, but the pattern of abnormalities suggests direct liver injury. Tepotinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and 2C8, and is susceptible to drug-drug interactions with agents that inhibit or induce these CYPs. Tepotinib is also an inhibitor of P-glycoprotein (P-gp) and concurrent use of a P-gp substrate may lead to serious toxicities. Because of known additive toxicity, concomitant use of drugs that are known P-gp substrates should be avoided or the dose of tepotinib adjusted accordingly.</p>
+        </sec>
+        <sec id="Tepotinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for tepotinib recommends monitoring for routine liver tests before starting treatment, at 2 week intervals during the first 3 months of treatment and monthly thereafter as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal should lead to dose reduction or temporary cessation of tepotinib therapy and careful monitoring. Restarting therapy in a reduced dose can be done with caution and continued monitoring. In patients with jaundice or symptoms of liver injury accompanying the serum aminotransferase elevations, tepotinib should be promptly discontinued and not restarted. Cross sensitivity to liver injury is uncommon among the antineoplastic, small molecule enzyme and tyrosine receptor inhibitors, but currently there is no information on shared adverse event sensitivity of tepotinib with other antineoplastic kinase inhibitors including capmatinib.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Capmatinib" document-type="chapter">Capmatinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tepotinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tepotinib &#x02013; Tepmetko&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tepotinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tepotinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tepotinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tepotinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tepotinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Tepotinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tepotinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tepotinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tepotinib</td>
+                <td headers="hd_h_Tepotinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://172650751">1100598-32-0</ext-link>
+</td>
+                <td headers="hd_h_Tepotinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H28-N6-O2</td>
+                <td headers="hd_h_Tepotinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="172650751" document-id-type="sid" document-type="summary" object-id="172650751" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tepotinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 September 2023</p>
+        <p>Abbreviations: MET, mesenchymal epithelial transition receptor kinase gene; NSCLC, non-small cell lung cancer.</p>
+        <ref-list id="Tepotinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tepotinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss tepotinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.fda.2020">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214096Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214096Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of tepotinib; states that the overall objective response rate was 43% in both treatment na&#x000ef;ve and treatment refractory patients, and that adverse events arose in most patients and while 44% of patients had an ALT elevations, only 4% were above 5 times ULN, ALT elevations led to dose interruption in 7%, dose adjustment in 2%, but early discontinuation in none, one treated patient died of acute liver failure with ALT above 20 times ULN, but the event was considered unrelated to therapy; the reviewers concluded that &#x0201c;safety issues considered significant enough to warrant inclusion in the Warnings and Precautions section of the [product label] were interstitial lung disease/pneumonitis and hepatotoxicity&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.awad.2016.721">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Awad</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Oxnard</surname>
+<given-names>GR</given-names></string-name>, <string-name name-style="western"><surname>Jackman</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Savukoski</surname>
+<given-names>DO</given-names></string-name>, <string-name name-style="western"><surname>Hall</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Shivdasani</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Heng</surname>
+<given-names>JC</given-names></string-name>, <etal>et al.</etal>
+<article-title>MET exon 14 mutations in non-small-cell lung cancer are associated with advanced age and stage-dependent MET genomic amplification and c-Met overexpression.</article-title>
+<source>J Clin Oncol.</source>
+<year>2016</year>;<volume>34</volume>:<fpage>721</fpage>-<lpage>30</lpage>.<annotation><p><italic toggle="yes">(Among 6376 cancers undergoing genome sequencing, MET exon 14 mutations were found in 28 of 933 [3%] NSCLC, KRAS mutations in 34%, EGFR in 19%, ALK 4% and BRAF in 4%; those with the MET exon 14 skipping mutations tended to be older than those with KRAS or EGFR mutations).</italic></p></annotation><pub-id pub-id-type="pmid">26729443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.markham.2020.829">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Tepotinib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>829</fpage>-<lpage>833</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacodynamics, clinical efficacy and safety of tepotinib shortly after its first approval in Japan, does not discuss or mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32361823</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.wu.2020.1132">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wu</surname>
+<given-names>YL</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Zhao</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>DW</given-names></string-name>, <etal>et al.</etal>; <article-title>INSIGHT Investigators. Tepotinib plus gefitinib in patients with EGFR-mutant non-small-cell lung cancer with MET overexpression or MET amplification and acquired resistance to previous EGFR inhibitor (INSIGHT study): an open-label, phase 1b/2, multicentre, randomised trial.</article-title>
+<source>Lancet Respir Med.</source>
+<year>2020</year>;<volume>8</volume>:<fpage>1132</fpage>-<lpage>1143</lpage>.<annotation><p><italic toggle="yes">(Among 55 adults with advanced or metastatic NSCLC with MET overexpression or amplification mutations treated with tepotinib and gefitinib vs standard platinum-based chemotherapy, the objective response rates were 45% vs 33% and adverse events were frequent [98% vs 100%] and included ALT elevations in 29% vs 9%, but there were no serious hepatic adverse events or treatment related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">32479794</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.paik.2020.931">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Paik</surname>
+<given-names>PK</given-names></string-name>, <string-name name-style="western"><surname>Felip</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Veillon</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sakai</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Cortot</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Garassino</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Mazieres</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tepotinib in non-small-cell lung cancer with MET exon 14 skipping mutations.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>:<fpage>931</fpage>-<lpage>943</lpage>.<annotation><p><italic toggle="yes">(Among 152 adults with advanced NSCLC with confirmed MET exon 14 skip mutations treated with tepotinib, the objective response rate was 46% and median duration of response of 11 months, while adverse events occurred in 98% of patients including treatment related serious adverse events in 15%, dose reductions in 33%, and permanent discontinuations in 11%, with ALT elevations in 7% which were above 5 times ULN in 2%).</italic></p></annotation><pub-id pub-id-type="pmid">32469185</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.ryoo.2021.200">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ryoo</surname>
+<given-names>BY</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Ren</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>TY</given-names></string-name>, <string-name name-style="western"><surname>Pan</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Rau</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Choi</surname>
+<given-names>HJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomised Phase 1b/2 trial of tepotinib vs sorafenib in Asian patients with advanced hepatocellular carcinoma with MET overexpression.</article-title>
+<source>Br J Cancer.</source>
+<year>2021</year>;<volume>125</volume>:<fpage>200</fpage>-<lpage>208</lpage>.<annotation><p><italic toggle="yes">(Among 90 Asian patients with advanced hepatocellular carcinoma with MET overexpression treated with tepotinib [300, 500 or 1000 mg once daily] or sorafenib [400 mg twice daily], time to progression was slightly longer with tepotinib [2.9 vs 1.4 months], while adverse events rates were lower [82% vs 98% overall] with ALT elevations in 9% vs 16% [none greater than 5 times ULN]).</italic></p></annotation><pub-id pub-id-type="pmid">33972742</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.mathieu.2022.249">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mathieu</surname>
+<given-names>LN</given-names></string-name>, <string-name name-style="western"><surname>Larkins</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Akinboro</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Roy</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Amatya</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Fiero</surname>
+<given-names>MH</given-names></string-name>, <string-name name-style="western"><surname>Mishra-Kalyani</surname>
+<given-names>PS</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: capmatinib and tepotinib for the treatment of metastatic NSCLC harboring MET Exon 14 Skipping Mutations or Alterations.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>249</fpage>-<lpage>254</lpage>.<annotation><p><italic toggle="yes">(Summary of the data supporting the FDA accelerated approvals of capmatinib and tepotinib for metastatic NSCLC with MET exon 14 skipping mutations or alterations, mentions that the safety profiles were similar for the two agents, both of which had evidence of hepatotoxicity considered serious enough to include in Warnings and Precautions sections of the product labels).</italic></p></annotation><pub-id pub-id-type="pmid">34344795</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.tseng.2022.11809">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tseng</surname>
+<given-names>LW</given-names></string-name>, <string-name name-style="western"><surname>Chang</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>CE</given-names></string-name>. <article-title>Safety of tepotinib challenge after capmatinib-induced pneumonitis in a patient with non-small cell lung cancer harboring MET exon 14 skipping mutation: a case report.</article-title>
+<source>Int J Mol Sci.</source>
+<year>2022</year>;<volume>23</volume>:<fpage>11809</fpage>.<annotation><p><italic toggle="yes">(69 year old Taiwanese man with metastatic NSCLC harboring MET exon14 skipping mutation developed an interstitial pneumonitis within a month of starting capmatinib that resolved with stopping and methyl prednisolone therapy, yet later tolerated tepotinib therapy without recurrence for one month when it was stopped because of disease progression).</italic></p></annotation><pub-id pub-id-type="pmid">36233109</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.veillon.2022.320">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Veillon</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sakai</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Le</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Felip</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Cortot</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Smit</surname>
+<given-names>EF</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety of Tepotinib in Patients With MET Exon 14 Skipping NSCLC and Recommendations for Management.</article-title>
+<source>Clin Lung Cancer.</source>
+<year>2022</year>;<volume>23</volume>:<fpage>320</fpage>-<lpage>332</lpage>.<annotation><p><italic toggle="yes">(In a secondary analysis of common adverse events from an open label trial of tepotinib in 255 adults with MET exon 14 skipping NSCLC [Paik 2020], 31 patients developed treatment related ALT or AST elevations [12%], six [4%] being 5- to 20-fold elevated, and two [1.5%] greater than 20-fold elevated with median onset at 6 weeks and resolution after 5 weeks; patients were largely asymptomatic, none had jaundice, none required drug discontinuation, nine had temporary interruption, and two dose reduction).</italic></p></annotation><pub-id pub-id-type="pmid">35466070</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.mazieres.2023.1260">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mazieres</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Paik</surname>
+<given-names>PK</given-names></string-name>, <string-name name-style="western"><surname>Garassino</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Le</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Sakai</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Veillon</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Smit</surname>
+<given-names>EF</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tepotinib treatment in patients with MET exon 14-skipping non-small cell lung cancer: long-term follow-up of the VISION phase 2 nonrandomized clinical trial.</article-title>
+<source>JAMA Oncol.</source>
+<year>2023</year>;<volume>9</volume>:<fpage>1260</fpage>-<lpage>1266</lpage>.<annotation><p><italic toggle="yes">(Among 313 patients with advanced or metastatic NSCLC with MET exon 14 skipping mutations treated with tepotinib in two cohorts, the objective response rates was 51% and adverse events occurred in 99% leading to dose reductions in 36% and discontinuations in 25%, and including ALT elevations in 14% which were above 5 times ULN in 2.2%).</italic></p></annotation><pub-id pub-id-type="pmid">37270698</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tepotinib.REF.liam.2023.1879">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liam</surname>
+<given-names>CK</given-names></string-name>, <string-name name-style="western"><surname>Ahmad</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Hsia</surname>
+<given-names>TC</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>DW</given-names></string-name>, <string-name name-style="western"><surname>Soo</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>Y</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized trial of tepotinib plus gefitinib versus chemotherapy in EGFR-mutant NSCLC with EGFR inhibitor resistance due to MET amplification: INSIGHT final analysis.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>1879</fpage>-<lpage>1886</lpage>.<annotation><p><italic toggle="yes">(Among 55 patients with advanced or metastatic NSCLC with MET overexpression treated with tepotinib and gefitinib vs standard platinum-based chemotherapy [Wu 2020], final analysis after 57.5 months of follow up showed similar progression free survival [4.9 vs 4.4 months] and adverse event rates; among those receiving tepotinib and gefitinib, ALT elevations arose in 32% and were above 5 times ULN in 3%).</italic></p></annotation><pub-id pub-id-type="pmid">36971777</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tepotinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tepotinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tepotinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tepotinib">Trials on Tepotinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

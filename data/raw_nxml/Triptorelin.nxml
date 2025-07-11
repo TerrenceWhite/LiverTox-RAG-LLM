@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Triptorelin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Triptorelin</book-part-id>
+      <title-group>
+        <title>Triptorelin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Triprolidine" document-type="chapter">Triprolidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Trisalicylate" document-type="chapter">Trisalicylate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Triptorelin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Triptorelin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Triptorelin is a gonadotropin releasing hormone (GnRH) agonist that is a potent inhibitor of the synthesis of testosterone (in men) and estrogen (in women) and is used to treat advanced prostate cancer. Triptorelin is associated with a low rate of transient serum enzyme elevations during therapy, but has not been linked convincingly to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Triptorelin.Background">
+          <title>Background</title>
+          <p>Triptorelin (trip" toe rel' in) is a decapeptide analogue of gonadotropin releasing hormone (GnRH) that acts on the pituitary to cause the synthesis and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH), two gonadotropins that act on the male testes to stimulate the production of testosterone and on the female ovaries to induce synthesis of estrogen. Triptorelin and other GnRH agonists cause an initial surge of gonadotropin release, but then lead to down-regulation of their synthesis and secretion which results in a decline in testosterone and estrogen production. Triptorelin, alone or in combination with other antiandrogens, has been found to be palliative in advanced prostate cancer and as effective as surgical castration. Triptorelin was approved for use in the United States for prostate cancer in 2000 and is still widely used, being considered a first line treatment of this hormone responsive malignancy. The GnRH agonists have also been used off label for precocious puberty, infertility, and as a part of gender affirming therapy. Triptorelin is available generically and under the brand name Trelstar in an injectable suspension for intramuscular depot administration every 4 weeks (3.75 mg), 12 weeks (11.25 mg) or 24 weeks (22.5 mg). Triptorelin and the other GnRH analogues cause a profound hypogonadism ("chemical castration") and its common side effects are typical of androgen deprivation, including hot flashes, loss of libido, erectile dysfunction, depression, nausea, diarrhea, weight gain and fluid retention. Rare, but potentially severe adverse events can include immediate hypersensitivity reactions, pituitary apoplexy and, with long term use, weight gain, metabolic changes, diabetes and osteoporosis.</p>
+        </sec>
+        <sec id="Triptorelin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Long term triptorelin is associated with serum enzyme elevations in 2% to 5% of patients, although the elevations are rarely above three times the upper limit of normal (&#x0003c;1%). The enzyme elevations are usually mild, asymptomatic and resolve even without dose modification or drug discontinuation. Triptorelin has not been linked convincingly to cases of acute, clinically apparent liver injury with jaundice.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Triptorelin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the minor serum enzyme elevations that can occur during triptorelin therapy is unknown. Triptorelin is a decapeptide similar to GnRH and is metabolized locally in tissue and not by the hepatic cytochrome P450 system. Some serum enzyme elevations may be caused by nonalcoholic fatty liver arising because of weight gain or metabolic changes caused by the androgen deprivation state induced by the GnRH agonist.</p>
+        </sec>
+        <sec id="Triptorelin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations during triptorelin therapy rarely require dose modification or drug discontinuation and should instead lead to investigation of other possible causes of liver injury. There is no evidence to indicate that there is cross sensitivity to liver injury among the various GnRH analogues.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GnRHAnalogues" document-type="chapter">GnRH Analogues</related-object></p>
+          <p>Other Drugs in the Subclass, GnRH Analogues: <related-object link-type="booklink" source-id="livertox" document-id="Degarelix" document-type="chapter">Degarelix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Goserelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Leuprolide" document-type="chapter">Leuprolide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Relugolix" document-type="chapter">Relugolix</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Triptorelin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Triptorelin &#x02013; Generic, Trelstar&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Triptorelin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Triptorelin.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Triptorelin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Triptorelin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Triptorelin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Triptorelin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Triptorelin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Triptorelin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Triptorelin</td>
+                <td headers="hd_h_Triptorelin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135003636">57773-63-4</ext-link>
+</td>
+                <td headers="hd_h_Triptorelin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C64-H82-N18-O13</td>
+                <td headers="hd_h_Triptorelin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135003636" document-id-type="sid" document-type="summary" object-id="135003636" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Triptorelin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 May 2023</p>
+        <p>Abbreviations: FSH, follicle stimulating hormone; GnRH, gonadotropin releasing hormone; LH, luteinizing hormone; PSA, prostate specific antigen.</p>
+        <ref-list id="Triptorelin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Triptorelin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the GnRH analogues such as triptorelin are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triptorelin.REF.chitturi.2013">
+            <mixed-citation publication-type="book">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hormonal products; does not discuss the GnRH agonists such as triptorelin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triptorelin.REF.levin.2018">
+            <mixed-citation publication-type="book">Levin ER, Vitek WS, Hammes SR. Estrogens, progestins, and the female reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 803-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triptorelin.REF.snyder.2018">
+            <mixed-citation publication-type="book">Snyder PJ. Androgens and the male reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 833-43.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triptorelin.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-47.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triptorelin.REF6">
+            <element-citation publication-type="journal">
+              <article-title>Triptorelin pamoate (Trelstar).</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2002</year>
+              <volume>44</volume>
+              <issue>1132</issue>
+              <fpage>51</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and costs of triptorelin for prostate cancer shortly after its approval in the US; mentions that adverse effects are similar to those of goserelin; does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12058149</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.heyns.2003.226">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Heyns</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Simonin</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Grosgurin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Schall</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Porchet</surname><given-names>HC</given-names></name>
+<collab>South African Triptorelin Study Group</collab>
+</person-group>
+              <article-title>Comparative efficacy of triptorelin pamoate and leuprolide acetate in men with advanced prostate cancer.</article-title>
+              <source>BJU Int</source>
+              <year>2003</year>
+              <volume>92</volume>
+              <fpage>226</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 284 men with prostate cancer treated with triptorelin or leuprolide in 9 monthly injections, both beneficial and adverse effects were similar and "there were no substantial changes in laboratory data"; ALT levels were not specifically mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12887472</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.carel.2006.119">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carel</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Blumberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Seymour</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Adamsbaum</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lahlou</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Triptorelin 3-month CPP Study Group. Three-month sustained release triptorelin (11.25 mg) in the treatment of central precocious puberty.</article-title>
+              <source>Eur J Endocrinol</source>
+              <year>2006</year>
+              <volume>154</volume>
+              <fpage>119</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 64 children [54 girls] with central precocious puberty treated with triptorelin acetate depot injections every 3 months for 1 year, pubertal regression occurred in most subjects and adverse events were generally mild and self-limited; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16382000</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.lundstr_m.2009.757">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lundstr&#x000f6;m</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Rencken</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>van Wyk</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Coetzee</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Bahlmann</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Reif</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Strasheim</surname><given-names>EA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Triptorelin 6-month formulation in the management of patients with locally advanced and metastatic prostate cancer: an open-label, non-comparative, multicentre, phase III study.</article-title>
+              <source>Clin Drug Investig</source>
+              <year>2009</year>
+              <volume>29</volume>
+              <fpage>757</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 120 patients given triptorelin in 6-month formulation [22.5 mg] for one year, the most common side effects were hot flashes [72%], erectile dysfunction [10%] and injection site reactions [7%], and one patient had a rise in ALT levels [peak=60 U/L] on day 337).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.rabaglio.2010.874">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rabaglio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ruepp</surname><given-names>B</given-names></name>
+<collab>Soft/Text/Perche Steering Committee</collab>
+</person-group>
+              <article-title>Death due to liver failure during endocrine therapy for premenopausal breast cancer.</article-title>
+              <source>Acta Oncol</source>
+              <year>2010</year>
+              <volume>49</volume>
+              <fpage>874</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4500 women enrolled in an international trial of endocrine therapy of premenopausal breast cancer comparing tamoxifen and exemestane combined with ovarian suppression often with triptorelin, 2 developed liver failure: 50 year old on endocrine therapy for two years developed suspected acute alcoholic hepatitis and died 1 month later [bilirubin 23.2 mg/dL, ALT 182 U/L, AST 294 U/L, GGT 2623 U/L, Alk P 382 U/L]; 36 year old woman on endocrine therapy including tamoxifen for 3 years developed nonspecific symptoms and hepatomegaly and died suddenly, autopsy showing cirrhosis with steatosis, possibly due to or exacerbated by tamoxifen; in neither case could triptorelin be convincingly implicated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20482225</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.crawford.2011.201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Crawford</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Phillips</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Six-month gonadotropin releasing hormone (GnRH) agonist depots provide efficacy, safety, convenience, and comfort.</article-title>
+              <source>Cancer Manag Res</source>
+              <year>2011</year>
+              <volume>3</volume>
+              <fpage>201</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of results on two GnRH agonist depot formulations for advanced prostate cancer that allow for every 6-month administration [leuprolide and triptorelin], both of which provide sustained testosterone suppression and have adverse side effects similar to other GnRH agonist formulations; mentions a single episode of minor asymptomatic ALT [60 U/L] and AST [65 U/L] elevations in a patient receiving triptorelin [Ludstr&#x000f6;m 2009]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21847353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.del_mastro.2011.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Del Mastro</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Boni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Michelotti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gamucci</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Olmeo</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Gori</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Giordano</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effect of the gonadotropin-releasing hormone analogue triptorelin on the occurrence of chemotherapy-induced early menopause in premenopausal women with breast cancer: a randomized trial.</article-title>
+              <source>JAMA</source>
+              <year>2011</year>
+              <volume>306</volume>
+              <fpage>269</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 181 premenopausal women with breast cancer treated with chemotherapy alone or combined with triptorelin [for 6 months], early onset of menopause was less common with triptorelin therapy [9% vs 26%] and adverse events were similar in the two groups; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21771987</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.boccongibod.2011.127">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boccon-Gibod</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>van der Meulen</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+</person-group>
+              <article-title>An update on the use of gonadotropin-releasing hormone antagonists in prostate cancer.</article-title>
+              <source>Ther Adv Urol</source>
+              <year>2011</year>
+              <volume>3</volume>
+              <fpage>127</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(GnRH antagonists such as degarelix have similar efficacy to GnRH agonists in therapy of prostate cancer but have a more rapid onset of action and do not cause the initial testosterone surge that occurs with the agonists, which can be particularly troublesome in patients with a large tumor burden).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21904569</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.van_poppel.2012.594">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Van Poppel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Klotz</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone: an update review of the antagonists versus agonists.</article-title>
+              <source>Int J Urol</source>
+              <year>2012</year>
+              <volume>19</volume>
+              <fpage>594</fpage>
+              <lpage>601</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of androgen deprivation therapy for prostate cancer using GnRH agonists and antagonists stressing the more rapid onset of action and similar if not better safety profile of GnRH antagonists).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22416801</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.walker.2013.375">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Walker</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Robinson</surname><given-names>JW</given-names></name>
+</person-group>
+              <article-title>Luteinizing hormone--releasing hormone agonists: a quick reference for prevalence rates of potential adverse effects.</article-title>
+              <source>Clin Genitourin Cancer</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <fpage>375</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of adverse event profile of long-term use of GnRH agonists which mostly relate to hypogonadism: hot flashes, gynecomastia, genital shrinkage, hair loss, osteoporosis, mild anemia, hyperglycemia, increased weight, loss of skeletal muscle mass, emotional lability, depression, loss of sexual desire and erectile dysfunction; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23891497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.ploussard.2013.93">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ploussard</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Mongiat-Artus</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Triptorelin in the management of prostate cancer.</article-title>
+              <source>Future Oncol</source>
+              <year>2013</year>
+              <volume>9</volume>
+              <fpage>93</fpage>
+              <lpage>102</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the efficacy and safety of triptorelin as therapy of prostate cancer focusing upon 1 vs 3 vs 6 monthly formulations; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23252566</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to triptorelin or any of the GnRH analogues).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.chalasani.2015">
+            <mixed-citation publication-type="other">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e.7.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to triptorelin or any of the GnRH analogues).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triptorelin.REF.lambertini.2015.2632">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lambertini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Boni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Michelotti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gamucci</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Scotto</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gori</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Giordano</surname><given-names>M</given-names></name>
+<etal/>
+<collab>GIM Study Group</collab>
+</person-group>
+              <article-title>Ovarian suppression with triptorelin during adjuvant breast cancer chemotherapy and long-term ovarian function, pregnancies, and disease-Free survival: a randomized clinical trial.</article-title>
+              <source>JAMA</source>
+              <year>2015</year>
+              <volume>314</volume>
+              <fpage>2632</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 premenopausal women with breast cancer treated with chemotherapy with or without triptorelin [Del Mastro 2011], long term disease-free survival rates were similar while rates of menstrual resumption were slightly higher with triptorelin; no mention of adverse events, ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26720025</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.zenaty.2016.188">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zenaty</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Blumberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liyanage</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Jacqz-Aigrain</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Lahlou</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Carel</surname><given-names>JC</given-names></name>
+</person-group>
+              <article-title>Co-Investigators. A 6-month trial of the efficacy and safety of triptorelin pamoate (11.25 mg) every 3 months in children with precocious puberty: a retrospective comparison with triptorelin acetate.</article-title>
+              <source>Horm Res Paediatr</source>
+              <year>2016</year>
+              <volume>86</volume>
+              <fpage>188</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 37 children with precocious puberty treated with triptorelin pamoate depot injections every 3 months, pubertal regression occurred in most and adverse events were generally mild and self-limited: no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27603324</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.schagen.2016.1125">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schagen</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Cohen-Kettenis</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Delemarre-van de Waal</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Hannema</surname><given-names>SE</given-names></name>
+</person-group>
+              <article-title>Efficacy and Safety of gonadotropin-releasing hormone agonist treatment to suppress puberty in gender dysphoric adolescents.</article-title>
+              <source>J Sex Med</source>
+              <year>2016</year>
+              <volume>13</volume>
+              <fpage>1125</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 49 male-to-female and 67 female-to-male gender dysphoric adolescents treated with triptorelin for at least 6 months, ALT and AST elevations were present in 5% to 10% of subjects at baseline and levels did not change during treatment, however, growth velocity slowed, and lean body mass decreased while fat percentage increased).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27318023</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.bolton.2018.371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bolton</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Lynch</surname><given-names>TH</given-names></name>
+</person-group>
+              <article-title>Are all gonadotropin-releasing hormone agonists equivalent for the treatment of prostate cancer? A systematic review.</article-title>
+              <source>BJU Int</source>
+              <year>2018</year>
+              <volume>122</volume>
+              <issue>3</issue>
+              <fpage>371</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on relative efficacy and safety of different GnRH agonists, indicates that there is little evidence of superiority of any of the four, largely because of lack of adequately powered, controlled studies comparing them).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29438592</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.cornford.2018.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cornford</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jefferson</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cole</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Gilbody</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Effects of initiating or switching to a six-monthly triptorelin formulation on prostate cancer patient-healthcare interactions and hospital resource use: a real-world, retrospective, non-interventional study.</article-title>
+              <source>Oncol Ther.</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>173</fpage>
+              <lpage>187</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 adults with advanced prostate cancer who were switched from every 1 or 3 monthly GnRH regimen to 6 monthly triptorelin, healthcare visits, injections and PSA testing were less as were adverse side effects including fatigue [12% vs 26%], urinary frequency [9% vs 32%], and bone pain [7% vs 14%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32700031</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.lambertini.2022.400">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lambertini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Boni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Michelotti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Magnolfi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cogoni</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Mosconi</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Giordano</surname><given-names>M</given-names></name>
+<etal/>
+<collab>GIM study group</collab>
+</person-group>
+              <article-title>Long-term outcomes with pharmacological ovarian suppression during chemotherapy in premenopausal early breast cancer patients.</article-title>
+              <source>J Natl Cancer Inst.</source>
+              <year>2022</year>
+              <volume>114</volume>
+              <fpage>400</fpage>
+              <lpage>408</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 women with early onset breast cancer treated with chemotherapy with or without a GnRH analogue to preserve ovarian function, disease-free and overall survival were similar in the two groups and those given the GnRH analogue were slightly more likely to have a successful pregnancy during follow up [6.5% vs 3.2%]; no mention of other adverse events, ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34850043</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triptorelin.REF.popovic.2022.968485">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Popovic</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Geffner</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Rogol</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Silverman</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kaplowitz</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Mauras</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zeitler</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone analog therapies for children with central precocious puberty in the United States.</article-title>
+              <source>Front Pediatr.</source>
+              <year>2022</year>
+              <volume>10</volume>
+              <elocation-id>968485</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the 3 GnRH analogues used to treat children with precocious puberty including leuprolide, triptorelin, and histrelin which have different regimens of administration [intramuscular and subcutaneous] and durations of action [1-12 months]; no mention of liver adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36268040</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Triptorelin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Triptorelin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Triptorelin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Triptorelin">Trials on Triptorelin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

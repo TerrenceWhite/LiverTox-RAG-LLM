@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Afamelanotide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Afamelanotide</book-part-id>
+      <title-group>
+        <title>Afamelanotide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>3</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Aducanumab" document-type="chapter">Aducanumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Afatinib" document-type="chapter">Afatinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Afamelanotide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Afamelanotide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Afamelanotide is a melanocortin-1 receptor agonist that stimulates melanin production in the skin and is used to decrease pain and itching from light exposure in patients with erythropoietic protoporphyria and X-linked protoporphyria. Afamelanotide has not been linked to serum aminotransferase elevations during therapy nor to instances of idiosyncratic acute liver injury with symptoms and jaundice.</p>
+        </sec>
+        <sec id="Afamelanotide.Background">
+          <title>Background</title>
+          <p>Afamelanotide (a fa mel&#x0201d; ano tide&#x02019;) is a melanocortin-1 receptor (MC1-R) agonist that stimulates melanin production in the skin and is used to decrease pain and itching from light exposure in patients with erythropoietic protoporphyria (EPP) or X-linked protoporphyria (XLPP). EPP and XLPP are rare genetic diseases of heme synthesis that typically present in childhood with severe and painful photosensitivity. Although the clinical phenotypes of EPP and XLPP are closely similar, the underlying genetic and enzymatic defects are different. The cause of EPP, which accounts for 90% to 95% of clinical cases, is a deficiency in ferrochelatase, an enzyme that adds iron to protoporphyrin to create heme, which is the final step in heme synthesis. The cause of XLPP is a gain-of-function mutation in the erythroid form of 5-aminolevulinic acid synthase, which leads to overproduction of protoporphyrin (PP) beyond the capacity of developing red blood cells to convert the PP into heme and hemoglobin. As a result, protoporphyrin accumulates in red blood cells, plasma, and other tissues, including skin and liver. When exposed to light, protoporphyrin is activated and emits fluorescent light that, in turn, produces singlet oxygen, which initiates a cascade of free radical reactions that cause pain, edema, and inflammation, leading to phototoxic reactions. PP is hydrophobic and is not excreted into the urine, but rather must be taken up by hepatocytes and secreted into the bile. Excess PP can accumulate in hepatocytes and cholangiocytes and cause liver cell injury, sometimes with inflammation and fibrosis, a condition that has been called protoporphyric hepatopathy, which is severe in 2% to 3% of patients. Patients with EPP/XLPP also have an increased risk of pigmented gallstones, comprised chiefly of PP, and need for cholecystectomies. Persons with EPP/XLPP learn to avoid light exposure, which triggers not only pain, but also itching, redness and edema. They learn to avoid sunlight, remain indoors, and when outside to wear protective clothes, hats, gloves, and even masks. Afamelanotide is a modified amino acid analogue of alpha-melanocyte-stimulating hormone that binds to the MC1-R and increases the synthesis of melanin which darkens the skin and helps to absorb, scatter and quench the light that activates the excess protoporphyrin. Pilot studies followed by small randomized controlled trials demonstrated that afamelanotide treatment decreased the symptoms of photosensitivity, allowing patients to have more, but still limited, periods of light exposure. Prospective studies demonstrated an improvement in quality of life, employment, and activities of daily living in persons with EPP/XLPP treated with afamelanotide. Afamelanotide was approved in the United States in 2019 under the brand name Scenesse. Current indications are to increase pain-free light exposure in adults with a history of phototoxic reactions from EPP. The safety and efficacy of afamelanotide have not been proven in children, in whom it has been used off-label. Afamelanotide is available as injectable implants of 16 mg under the brand name Scenesse. The recommended regimen is a subcutaneous implant every 2 months. Afamelanotide is generally well tolerated but side effects can include injection site reactions, nausea, fatigue, dizziness, headache, and somnolence. Rare but potentially serious adverse events include melanocyte nevi and infections.</p>
+        </sec>
+        <sec id="Afamelanotide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Erythropoietic protoporphyria and X-linked protoporphyria are rare genetic diseases, and the pivotal trials of afamelanotide were conducted in a limited number of patients, so the full spectrum of hepatotoxicity may not be fully known. Furthermore, a proportion of untreated persons with EPP/XLPP have liver disease with mild, fluctuating elevations of serum aminotransferase levels; indeed, 2% to 5% develop significant liver disease with cholestatic features and cirrhosis, some of which may be due to gallstones which are common in patients with EPP/XLPP and others due to alcohol or other underlying liver diseases. Against this background, the clinical studies of afamelanotide were accompanied by minor serum enzyme elevations, but in rates that were similar to those receiving placebo and none reaching levels considered indicative of drug induced liver injury. In the three prospective placebo-controlled trials of afamelanotide in EPP/XLPP, there were no episodes of clinically apparent liver injury that arose during therapy, but a few patients developed evidence of chronic liver disease, cirrhosis, or complications of gallstones during follow up. These episodes arose long after afamelanotide was stopped and were considered due to the underlying liver disease or concurrent excessive alcohol use. Indeed, afamelanotide treatment is associated with slight decreases in protoporphyrin levels and may ameliorate the course of the EPP/XLPP-associated chronic liver injury. Since, its approval and more widescale use, there have been no reports of clinically apparent liver injury attributed to afamelanotide.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Afamelanotide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reasons why afamelanotide might cause liver injury are not clear. It is a small, modified polypeptide that mimics melanocyte stimulating hormone. After uptake, it is metabolized intracellularly by proteases to its component amino acids by many cells. Allergic reactions and antibodies to afamelanotide are uncommon and it is not a substrate for hepatic cytochrome P450 enzymes.</p>
+        </sec>
+        <sec id="Afamelanotide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Afamelanotide has not been linked to liver injury, and monitoring of liver enzymes is not recommended during treatment. However, persons with EPP/XLPP are at an increased risk for developing liver disease and gallstones due to accumulation of toxic protoporphyrin for which reason screening for liver disease and ongoing monitoring is warranted.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+        </sec>
+      </sec>
+      <sec id="Afamelanotide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Afamelanotide &#x02013; Scenesse&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Afamelanotide">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Afamelanotide.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Afamelanotide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Afamelanotide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Afamelanotide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Afamelanotide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Afamelanotide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Afamelanotide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Afamelanotide</td>
+                <td headers="hd_h_Afamelanotide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135112553">75921-69-6</ext-link>
+</td>
+                <td headers="hd_h_Afamelanotide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C78-H111-N21-O19</td>
+                <td headers="hd_h_Afamelanotide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135112553" document-id-type="sid" document-type="summary" object-id="135112553" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Afamelanotide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 March 2024</p>
+        <p>Abbreviations: EPP, erythropoietic protoporphyria; MCR-1, melanocortin receptor, type 1; PP, protoporphyrin IX; XLPP, X-linked protoporphyria.</p>
+        <ref-list id="Afamelanotide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Afamelanotide.REF1">
+            <mixed-citation publication-type="web">FDA multi-disciplinary review and evaluation. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/210797Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/210797Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(The FDA clinical review of afamelanotide for efficacy and safety data in 125 subjects treated in 3 controlled trials submitted in support of approval, found adverse events were uncommon, generally transient, and mild-to-moderate in severity, and few were more frequent than in placebo recipients including implantation site reaction in 21% vs 10%, nausea in 19% vs 14%, throat pain 7% vs 4%, fatigue in 6% vs 3%, and dizziness in 4% vs 3%, with no hepatic severe adverse events during treatment and &#x0201c;no clinically meaningful changes in &#x02026;liver enzymes...&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.anstey.2007.1009">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Anstey</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Hift</surname>
+<given-names>RJ</given-names></string-name>. <article-title>Liver disease in erythropoietic protoporphyria: insights and implications for management.</article-title>
+<source>Gut.</source>
+<year>2007</year>;<volume>56</volume>:<fpage>1009</fpage>-<lpage>18</lpage>.<annotation><p><italic toggle="yes">(Review of liver disease of EPP which appears to be due to the excess protoporphyrin that is strongly hypophobic and insoluble in bile forming crystals with diffuse precipitation in hepatocytes and cholangiocytes that leads to inflammation and fibrosis; between 1% and 5% of patients with EPP are affected which can present as minor elevations in liver enzymes, or a cholestatic liver injury, or a progressive liver disease resulting in cirrhosis and end stage liver disease, unresponsive to ursodiol but reversible by liver transplantation but recurrence is common [~67%]).</italic></p></annotation><pub-id pub-id-type="pmid">17360790</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.balwani.2019.298">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Balwani</surname>
+<given-names>M.</given-names></string-name>
+<article-title>Erythropoietic protoporphyria and X-linked protoporphyria: pathophysiology, genetics, clinical manifestations, and management.</article-title>
+<source>Mol Genet Metab.</source>
+<year>2019</year>;<volume>128</volume>:<fpage>298</fpage>-<lpage>303</lpage>.<annotation><p><italic toggle="yes">(Review of the genetics, pathophysiology, clinical features, associated liver injury, diagnosis, and management of EEP; no discussion of afamelanotide adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">30704898</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.harms.2009.306">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Harms</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lautenschlager</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Minder</surname>
+<given-names>CE</given-names></string-name>, <string-name name-style="western"><surname>Minder</surname>
+<given-names>EI</given-names></string-name>. <article-title>An alpha-melanocyte-stimulating hormone analogue in erythropoietic protoporphyria.</article-title>
+<source>N Engl J Med.</source>
+<year>2009</year>;<volume>360</volume>:<fpage>306</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Among 5 patients with erythropoietic protoporphyria [EPP] treated with afamelanotide [20 mg twice daily for 60 days] tolerance to artificial light and melanin density increase with minimal adverse events and &#x0201c;no clinically important laboratory abnormalities&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">19144952</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.grimes.2013.68">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Grimes</surname>
+<given-names>PE</given-names></string-name>, <string-name name-style="western"><surname>Hamzavi</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Lebwohl</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Ortonne</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Lim</surname>
+<given-names>HW</given-names></string-name>. <article-title>The efficacy of afamelanotide and narrowband UV-B phototherapy for repigmentation of vitiligo.</article-title>
+<source>JAMA Dermatol.</source>
+<year>2013</year>;<volume>149</volume>:<fpage>68</fpage>-<lpage>73</lpage>.<annotation><p><italic toggle="yes">(Among 4 patients with generalized vitiligo treated with afamelanotide and narrowband ultra-violet [UV] B phototherapy, all developed a 50% or more repigmentation while adverse events included nausea, headache, dizziness, and one episode of heart palpitation; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23407924</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to therapies for porphyria).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.lim.2015.42">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lim</surname>
+<given-names>HW</given-names></string-name>, <string-name name-style="western"><surname>Grimes</surname>
+<given-names>PE</given-names></string-name>, <string-name name-style="western"><surname>Agbai</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Hamzavi</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Henderson</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Haddican</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Linkner</surname>
+<given-names>RV</given-names></string-name>, <etal>et al.</etal>
+<article-title>Afamelanotide and narrowband UV-B phototherapy for the treatment of vitiligo: a randomized multicenter trial.</article-title>
+<source>JAMA Dermatol.</source>
+<year>2015</year>;<volume>151</volume>:<fpage>42</fpage>-<lpage>50</lpage>.<annotation><p><italic toggle="yes">(Among 55 adults with generalized vitiligo treated with UV-B phototherapy for 4 months with or without afamelanotide for the first month, combination therapy led to a higher rate and speed of repigmentation and also adverse events of nausea [18%] and fatigue [11%], while skin related adverse events were similar in the two groups; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25230094</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.biolcati.2015.1601">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Biolcati</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Marchesini</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Sorge</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Barbieri</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Schneider-Yin</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Minder</surname>
+<given-names>EI</given-names></string-name>. <article-title>Long-term observational study of afamelanotide in 115 patients with erythropoietic protoporphyria.</article-title>
+<source>Br J Dermatol.</source>
+<year>2015</year>;<volume>172</volume>:<fpage>1601</fpage>-<lpage>1612</lpage>.<annotation><p><italic toggle="yes">(Among 115 adults with EEP treated with afamelanotide for up to 8 years at two porphyria centers in Europe, 3 had no improvement in symptoms and 23% discontinued treatment, while quality of life measures improved in those on treatment and only minor adverse events occurred which were largely nausea and gastrointestinal complaints; no mention of ALT levels or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">25494545</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.langendonk.2015.48">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Langendonk</surname>
+<given-names>JG</given-names></string-name>, <string-name name-style="western"><surname>Balwani</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Anderson</surname>
+<given-names>KE</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Anstey</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Bissell</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Bloomer</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Afamelanotide for erythropoietic protoporphyria.</article-title>
+<source>N Engl J Med.</source>
+<year>2015</year>;<volume>373</volume>:<fpage>48</fpage>-<lpage>59</lpage>.<annotation><p><italic toggle="yes">(Among 168 patients enrolled in two controlled trials of afamelanotide vs placebo implants, pain free time of light exposure increased as did quality of life, while adverse event rates were similar except for implant-site discoloration, and no liver related severe adverse events; no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26132941</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.balwani.2012">
+            <mixed-citation publication-type="book">Balwani M, Bloomer J, Desnick R; Porphyrias Consortium of the NIH-Sponsored Rare Diseases Clinical Research Network. Erythropoietic Protoporphyria, Autosomal Recessive. 2012 Sep 27 [updated 2017 Sep 7]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH, Gripp KW, Amemiya A, editors. GeneReviews&#x000ae; [Internet]. Seattle (WA): University of Washington, Seattle; 1993&#x02013;2024.<annotation><p><italic toggle="yes">(Review of the clinical features, diagnosis and management of EPP, mentions afamelanotide but does not describe its side effects or tolerance).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.lane.2016.179">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lane</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>McKay</surname>
+<given-names>JT</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>. <article-title>Advances in the management of erythropoietic protoporphyria&#x02014;role of afamelanotide.</article-title>
+<source>Appl Clin Genet</source>
+<year>2016</year>;<volume>9</volume>:<fpage>179</fpage>-<lpage>189</lpage>.<annotation><p><italic toggle="yes">(Review of the chemistry and pharmacology of afamelanotide and results of the preclinical and clinical trials up to 2016).</italic></p></annotation><pub-id pub-id-type="pmid">28003770</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.wensink.2020.570">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wensink</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Wagenmakers</surname>
+<given-names>MAEM</given-names></string-name>, <string-name name-style="western"><surname>Barman-Aks&#x000f6;zen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Friesema</surname>
+<given-names>ECH</given-names></string-name>, <string-name name-style="western"><surname>Wilson</surname>
+<given-names>JHP</given-names></string-name>, <string-name name-style="western"><surname>van Rosmalen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Langendonk</surname>
+<given-names>JG</given-names></string-name>. <article-title>Association of afamelanotide with improved outcomes in patients with erythropoietic protoporphyria in clinical practice.</article-title>
+<source>JAMA Dermatol.</source>
+<year>2020</year>;<volume>156</volume>:<fpage>570</fpage>-<lpage>575</lpage>.<annotation><p><italic toggle="yes">(Among 121 adults with EPP followed at a single referral center in the Netherlands who underwent serial assessments, employment status and quality of life improved after starting afamelanotide therapy with many elements approaching the average of the Dutch population).</italic></p></annotation><pub-id pub-id-type="pmid">32186677</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.wensink.2022.515">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wensink</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Coenen</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Wilson</surname>
+<given-names>JHP</given-names></string-name>, <string-name name-style="western"><surname>Wagenmakers</surname>
+<given-names>MAEM</given-names></string-name>, <string-name name-style="western"><surname>Langendonk</surname>
+<given-names>JG</given-names></string-name>. <article-title>Liver involvement in patients with erythropoietic protoporphyria.</article-title>
+<source>Dig Liver Dis.</source>
+<year>2022</year>;<volume>54</volume>:<fpage>515</fpage>-<lpage>520</lpage>.<annotation><p><italic toggle="yes">(Among 114 patients with EEP without a known history of liver disease seen at a single referral center in the Netherlands undergoing evaluation including elastography, 7 [6%] had elevated liver enzymes, 28 [26%] had gallstones or history of cholecystectomy, 18 of 60 [29%] had elevated an CAP score suggestive of hepatic steatosis, 10 of 104 [10%] had an increased hepatic stiffness [7 as F2-portal fibrosis, 3 as F3-bridging fibrosis, none as F4-cirrhosis], and while some cases could be explained by nonalcoholic steatohepatitis, none could be explained by alcohol related liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">34475006</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.wensink.2023.445">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wensink</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Wagenmakers</surname>
+<given-names>MAEM</given-names></string-name>, <string-name name-style="western"><surname>Wilson</surname>
+<given-names>JHP</given-names></string-name>, <string-name name-style="western"><surname>Langendonk</surname>
+<given-names>JG</given-names></string-name>. <article-title>Erythropoietic protoporphyria in the Netherlands: Clinical features, psychosocial impact and the effect of afamelanotide.</article-title>
+<source>J Dermatol.</source>
+<year>2023</year>;<volume>50</volume>:<fpage>445</fpage>-<lpage>452</lpage>.<annotation><p><italic toggle="yes">(Among 121 adults with EPP followed at a single referral center in the Netherlands who underwent serial assessments, employment status and quality of life improved after starting afamelanotide therapy with many elements approaching the average of the Dutch population).</italic></p></annotation><pub-id pub-id-type="pmid">36579412</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.minder.2023.1066">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Minder</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Schneider-Yin</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Zulewski</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Minder</surname>
+<given-names>CE</given-names></string-name>, <string-name name-style="western"><surname>Minder</surname>
+<given-names>EI</given-names></string-name>. <article-title>Afamelanotide Is associated with dose-dependent protective effect from liver damage related to erythropoietic protoporphyria.</article-title>
+<source>Life (Basel)</source>. <year>2023</year>;<volume>13</volume>:<fpage>1066</fpage>.<annotation><p><italic toggle="yes">(Among 70 adults with EPP followed at a single Swiss referral center from 1993 to 2022, serum levels of protoporphyrin correlated with serum ALT and bilirubin elevations and appeared to be decreased with afamelanotide therapy, suggesting that it may slow the progress of liver disease in patients with EPP).</italic></p></annotation><pub-id pub-id-type="pmid">37109595</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Afamelanotide.REF.levy.2024.731">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Levy</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Dickey</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Thapar</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Naik</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Keel</surname>
+<given-names>SB</given-names></string-name>, <string-name name-style="western"><surname>Saberi</surname>
+<given-names>B</given-names></string-name>, <etal>et al</etal>: on behalf of the <collab>Porphyrias Consortium of the Rare Diseases Clinical Network</collab>. <article-title>Evidence-based consensus guidelines for the diagnosis and management of protoporphyria-related liver dysfunction in erythropoietic protoporphyria and X-linked protoporphyria.</article-title>
+<source>Hepatology</source>
+<volume>79</volume>: <fpage>731</fpage>-<lpage>743</lpage>, <year>2024</year>.<annotation><p><italic toggle="yes">(Recent consensus guidelines regarding the evaluation and long-term assessment and management of the liver in patients with EPP and XLPP).</italic></p></annotation><pub-id pub-id-type="pmid">37505211</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Afamelanotide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Afamelanotide/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Afamelanotide: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Afamelanotide">Trials on Afamelanotide: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Decitabine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Decitabine</book-part-id>
+      <title-group>
+        <title>Decitabine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Daunorubicin" document-type="chapter">Daunorubicin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Deferasirox" document-type="chapter">Deferasirox</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Decitabine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Decitabine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Decitabine is a cytosine analogue and an intravenously administered antineoplastic agent used in the therapy of myelodysplastic syndromes. Decitabine is associated with a low rate of transient serum enzyme elevations during therapy, but has not been implicated in causing clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Decitabine.Background">
+          <title>Background</title>
+          <p>Decitabine (dee sye' ta been) is a pyrimidine analogue (5-aza-deoxy-cytidine) which is the deoxyribose form of 5-azacitidine. Decitabine is converted intracellularly to a triphosphate which becomes incorporated into DNA and appears to inhibit DNA methylation, resulting in increased expression of silenced genes including tumor suppressor genes. Studies done in vitro and in vivo have shown that decitabine induces differentiation of bone marrow cells and results in normalization of bone marrow in a proportion of patients with myelodysplasia. Decitabine was approved for use in the United States in 2006 and the current single indication is for therapy of myelodysplastic syndromes (MDS). Decitabine is available as a powder or solution for injection in 50 mg vials generically and under the trade name of Dacogen. The usual dosage regimen in adults is 15 to 20 mg/m<sup>2</sup> of body surface area given intravenously (iv) in several day regimens, with repeat cycles every 4 or 6 weeks. A minimum of 4 courses is recommended. Common side effects include bone marrow suppression, nausea, vomiting, diarrhea, stomatitis, bruising, abdominal pain, myalgias, headache, dizziness, fatigue, fever, rash and pruritus.</p>
+          <p>Decitabine is poorly absorbed orally due to its metabolism by cytidine deaminase found in the intestine and liver. In 2020, cedazuridine, an oral inhibitor of cytidine deaminase, was approved for use with a fixed dose of oral decitabine as treatment of adults with MDS. This oral combination therapy yielded similar plasma concentrations as iv administered decitabine and had similar effects on DNA methylation and clinical responses. The adverse event rates to the oral combination therapy were similar to those of iv decitabine, although direct comparisons were limited to single initial cycles of therapy. The oral form of decitabine is available only as a fixed combination with cedazuridine as tablets of 35 mg of decitabine and 100 mg of cedazuridine under the brand name Inqovi. The oral administration of decitabine avoids the inconvenience and difficulties of its iv administration on multiple days of each course of therapy.</p>
+        </sec>
+        <sec id="Decitabine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In early clinical trials using high doses of decitabine, serum enzyme elevations occurred in up to 16% of patients with underlying liver disease or liver metastases, but rarely in persons without hepatic illness. In subsequent studies, serum ALT elevations were reported in 5% to 15% of treated patients, but all were self-limited and no clinically apparent liver injury was reported. Recent studies have reported elevations in serum bilirubin levels in 7% to 12% of treated patients, but the elevations resolved rapidly and were not associated with other clinical or laboratory evidence of liver injury. Monitoring of serum enzyme levels during treatment is recommended only in patients with concurrent liver disease.</p>
+          <p>The oral combination therapy of decitabine with cedazuridine appears to have a similar frequency and pattern of adverse events as iv decitabine alone. In several prospective clinical trials, single cycles of oral vs iv decitabine had similar rates of aminotransferase elevations and long term, multi-course regimens of the oral fixed dose combination therapy resulted in serum aminotransferase elevations in 20% to 37% of patients, which were above 5 times the upper limit of normal (ULN) in 2% to 3% with no cases of clinically apparent liver injury attributable to the chemotherapeutic agent.</p>
+          <p>Thus, despite widescale use as therapy of MDS, decitabine has not been convincingly linked to cases of clinically apparent liver injury. Nevertheless, the frequency of serum enzyme elevations with therapy make it difficult to say that decitabine is totally without potential for causing drug induced liver injury.</p>
+          <p>Likelihood score: E* (unproven but suspected, rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Decitabine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Hepatotoxicity from decitabine appears to be rare and confined mostly to asymptomatic elevations in serum enzymes in patients receiving the highest doses or with underlying liver disease. Thus, the liver injury is likely due to direct toxicity which is generally minimal or mild except in susceptible patients.</p>
+        </sec>
+        <sec id="Decitabine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury linked to decitabine therapy is usually mild in severity and without accompanying symptoms or jaundice. Decitabine has not been linked to cases of severe acute hepatitis, acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between decitabine and other cytidine analogues including azacitidine.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object></p>
+          <p>Other drugs for myelodysplastic syndromes: <related-object link-type="booklink" source-id="livertox" document-id="Azacitidine" document-type="chapter">Azacitidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cedazuridine" document-type="chapter">Cedazuridine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Luspatercept" document-type="chapter">Luspatercept</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Decitabine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Decitabine &#x02013; Generic, Dacogen&#x000ae;</p>
+        <p>Decitabine and Cedazuridine &#x02013; Inqovi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Decitabine">COMPLETE LABELING</ext-link> (Decitabine)</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Inqovi">COMPLETE LABELING</ext-link> (Decitabine and Cedazuridine)</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Decitabine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Decitabine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Decitabine.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Decitabine.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Decitabine.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Decitabine.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Decitabine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Decitabine</td>
+                <td headers="hd_h_Decitabine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134983506">2353-33-5</ext-link>
+</td>
+                <td headers="hd_h_Decitabine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">2353-33-5</td>
+                <td headers="hd_h_Decitabine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134983506" document-id-type="sid" document-type="summary" object-id="134983506" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Decitabine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 July 2023</p>
+        <p>Abbreviations: AML, acute myelogenous leukemia; iv, intravenous; MDS, myelodysplastic syndrome; sc, subcutaneously.</p>
+        <ref-list id="Decitabine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Decitabine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999; decitabine is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 541-67.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; decitabine is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Inhibitors of histone deacetylase. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, p. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.wijermans.2005.9">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wijermans</surname>
+<given-names>PW</given-names></string-name>, <string-name name-style="western"><surname>L&#x000fc;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Verhoef</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Klimek</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Bosly</surname>
+<given-names>A</given-names></string-name>. <article-title>An epigenetic approach to the treatment of advanced MDS; the experience with the DNA demethylating agent 5-aza-2'-deoxycytidine (decitabine) in 177 patients.</article-title>
+<source>Ann Hematol</source>
+<year>2005</year>; <volume>84</volume>: <fpage>9</fpage>-<lpage>17</lpage>.<annotation><p><italic toggle="yes">(Pooled results of 3 European trials of decitabine in 177 patients with myelodysplasia; response rate was 49%, liver enzyme elevations occurred in 16% of patients in one study and "liver toxicity" was reported in 1% of patients in another, but no case of clinically apparent liver injury or death from liver disease was reported).</italic></p></annotation><pub-id pub-id-type="pmid">16211386</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.kantarjian.2006.1794">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kantarjian</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Issa</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Rosenfeld</surname>
+<given-names>CS</given-names></string-name>, <string-name name-style="western"><surname>Bennett</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Albitar</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>DiPersio</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Klimek</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>
+<article-title>Decitabine improves patient outcomes in myelodysplastic syndromes: results of a phase III randomized study.</article-title>
+<source>Cancer</source>
+<year>2006</year>; <volume>106</volume>: <fpage>1794</fpage>-<lpage>803</lpage>.<annotation><p><italic toggle="yes">(Among 170 patients with myelodysplastic syndromes [MDS] treated with decitabine vs standard of care, hyperbilirubinemia occurred in 7% on decitabine vs none receiving standard care; no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16532500</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.kantarjian.2007.52">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kantarjian</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Oki</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>O'Brien</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cortes</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Faderl</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Results of a randomized study of 3 schedules of low-dose decitabine in higher-risk myelodysplastic syndrome and chronic myelomonocytic leukemia.</article-title>
+<source>Blood</source>
+<year>2007</year>; <volume>109</volume>: <fpage>52</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(95 patients with severe myelodysplasia or chronic leukemia were randomized to 3 regimens of decitabine [iv or sc for 5 days, or iv at half dose for 10 days]; ALT elevations occurred in 14 patients [15%] and were above 5 times ULN in 4 [4%], but all resolved and none required dose modification or discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">16882708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.aribi.2007.713">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aribi</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Borthakur</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Ravandi</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Shan</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Davisson</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Cortes</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kantarjian</surname>
+<given-names>H</given-names></string-name>. <article-title>Activity of decitabine, a hypomethylating agent, in chronic myelomonocytic leukemia.</article-title>
+<source>Cancer</source>
+<year>2007</year>; <volume>109</volume>: <fpage>713</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Among 19 patients with chronic leukemia treated with decitabine intravenously [iv] or subcutaneously for 5-10 days every 4 weeks, one had ALT elevations above 5 times ULN, but "non-hematologic side effects were minimal").</italic></p></annotation><pub-id pub-id-type="pmid">17219444</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.jabbour.2008.2341">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jabbour</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Issa</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Kantarjian</surname>
+<given-names>H</given-names></string-name>. <article-title>Evolution of decitabine development: accomplishments, ongoing investigations, and future strategies.</article-title>
+<source>Cancer</source>
+<year>2008</year>; <volume>112</volume>: <fpage>2341</fpage>-<lpage>51</lpage>.<annotation><p><italic toggle="yes">(Review of structure, mechanism of action, pharmacokinetics, efficacy in various conditions and safety of decitabine; hyperbilirubinemia occurred in up to 12% of patients receiving decitabine, but ALT elevations and cause of bilirubin rise were not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">18398832</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.steensma.2009.3842">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Steensma</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Baer</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Slack</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Buckstein</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Godley</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Albitar</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Multicenter study of decitabine administered daily for 5 days every 4 weeks to adults with myelodysplastic syndromes: the alternative dosing for outpatient treatment (ADOPT) trial.</article-title>
+<source>J Clin Oncol</source>
+<year>2009</year>; <volume>27</volume>: <fpage>3842</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 99 patients with MDS treated with decitabine [20 mg/m2] daily for 5 days every 28 days, one patient died of hepatic failure, but no details given).</italic></p></annotation><pub-id pub-id-type="pmid">19528372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.garcia.2010.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Jain</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Godley</surname>
+<given-names>LA</given-names></string-name>. <article-title>An update on the safety and efficacy of decitabine in the treatment of myelodysplastic syndromes.</article-title>
+<source>Onco Targets Ther</source>
+<year>2010</year>; <volume>3</volume>: <fpage>1</fpage>-<lpage>13</lpage>.<annotation><p><italic toggle="yes">(Systematic review of safety and efficacy of decitabine in MDS; liver dysfunction was reported in 1-11% of patients, but details not provided or discussed).</italic></p></annotation><pub-id pub-id-type="pmid">20616953</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.kantarjian.2012.2670">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kantarjian</surname>
+<given-names>HM</given-names></string-name>, <string-name name-style="western"><surname>Thomas</surname>
+<given-names>XG</given-names></string-name>, <string-name name-style="western"><surname>Dmoszynska</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Wierzbowska</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mazur</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Mayer</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Gau</surname>
+<given-names>JP</given-names></string-name>, <etal>et al.</etal>
+<article-title>Multicenter, randomized, open-label, phase III trial of decitabine versus patient choice, with physician advice, of either supportive care or low-dose cytarabine for the treatment of older patients with newly diagnosed acute myeloid leukemia.</article-title>
+<source>J Clin Oncol</source>
+<year>2012</year>; <volume>30</volume>: <fpage>2670</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Among 485 patients with AML treated with decitabine, cytarabine or supportive care, adverse events were similar with decitabine and cytarabine; no discussion of ALT elevations or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">22689805</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.lee.2013.339">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>YG</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Yoon</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cheong</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Min</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JO</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comparative analysis between azacitidine and decitabine for the treatment of myelodysplastic syndromes.</article-title>
+<source>Br J Haematol</source>
+<year>2013</year>; <volume>161</volume>: <fpage>339</fpage>-<lpage>47</lpage>.<annotation><p><italic toggle="yes">(Observational study comparing safety and efficacy of azacitidine vs decitabine in 300 Korean patients with MDS, found similar rates of efficacy and side effects; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23432512</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [5.5%] were attributed to antineoplastic agents, but none were linked to decitabine treatment).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.salim.2016.82">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Salim</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Toptas</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Avsar</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Yucel</surname>
+<given-names>OK</given-names></string-name>, <string-name name-style="western"><surname>Ozturk</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Ferhanoglu</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Geduk</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Azacitidine versus decitabine in patients with refractory anemia with excess blast-results of multicenter study.</article-title>
+<source>Leuk Res</source>
+<year>2016</year>; <volume>45</volume>: <fpage>82</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 88 patients with refractory anemia treated with azacitidine or decitabine followed at 6 Turkish referral centers, overall survival, transfusion requirements and rates of adverse events and acute leukemia were similar in the two groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27107658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.nieto.2016.692">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nieto</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Demolis</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>B&#x000e9;hanzin</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Moreau</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hudson</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Flores</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Stemplewski</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>The European Medicines Agency review of decitabine (Dacogen) for the treatment of adult patients with acute myeloid leukemia: summary of the scientific assessment of the Committee for Medicinal Products for Human Use.</article-title>
+<source>Oncologist</source>
+<year>2016</year>; <volume>21</volume>: <fpage>692</fpage>-<lpage>700</lpage>.<annotation><p><italic toggle="yes">(Review of the efficacy and safety of decitabine by a European expert panel concluded that its use should be limited to adults over the age of 65 with AML who are not candidates for standard induction therapy; and that adverse events are similar to those of low dose cytarabine, largely due to myelosuppression; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27091416</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.jabbour.2017.1514">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jabbour</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Short</surname>
+<given-names>NJ</given-names></string-name>, <string-name name-style="western"><surname>Montalban-Bravo</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Bueso-Ramos</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Qiao</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized phase 2 study of low-dose decitabine vs low-dose azacitidine in lower-risk MDS and MDS/MPN.</article-title>
+<source>Blood</source>
+<year>2017</year>; <volume>130</volume>: <fpage>1514</fpage>-<lpage>22</lpage>.<annotation><p><italic toggle="yes">(Among 113 patients with lower-risk MDS treated with low doses of azacitidine or decitabine, overall response rates favored decitabine [70% vs 49%], as did rates of transfusion independence and cytogenetic responses, and both therapies were "overall well tolerated"; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28774880</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.savona.2019.e194">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savona</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Odenike</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Amrein</surname>
+<given-names>PC</given-names></string-name>, <string-name name-style="western"><surname>Steensma</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Michaelis</surname>
+<given-names>LC</given-names></string-name>, <string-name name-style="western"><surname>Faderl</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>An oral fixed-dose combination of decitabine and cedazuridine in myelodysplastic syndromes: a multicentre, open-label, dose-escalation, phase 1 study.</article-title>
+<source>Lancet Haematol.</source>
+<year>2019</year>;<volume>6</volume>:<fpage>e194</fpage>-<lpage>e203</lpage>.<annotation><p><italic toggle="yes">(Among 44 patients with various MDS treated with intravenous (iv) decitabine or various combinations of oral decitabine and cedazuridine, oral doses of 30 or 40 mg of decitabine and 100 mg of cedazuridine yielded 5-day area under the curve concentrations most similar to iv decitabine with similar adverse event rates and ALT elevations in 20% of subjects, all values being less than 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">30926081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.zhou.2019.1374">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhou</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Qin</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Yuan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hao</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>Z</given-names></string-name>, <etal>et al.</etal>
+<article-title>A prospective, multicenter study of low dose decitabine in adult patients with refractory immune thrombocytopenia.</article-title>
+<source>Am J Hematol.</source>
+<year>2019</year>;<volume>94</volume>:<fpage>1374</fpage>-<lpage>1381</lpage>.<annotation><p><italic toggle="yes">(Among 45 adults with refractory idiopathic thrombocytopenic purpura treated with low doses of decitabine [3.5 mg/m<sup>2</sup> for 3 days in three 28-day cycles], 23 had a clinical response usually within 14-70 days, some requiring retreatment, with a 29% adverse event rate [none severe] including 2 patients with ALT elevations, both of which were transient and less than 3 times ULN ).</italic></p></annotation><pub-id pub-id-type="pmid">31591739</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.lee.2020.39">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>BH</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>
+<given-names>KW</given-names></string-name>, <string-name name-style="western"><surname>Jeon</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Yu</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Choi</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comparison between 5-day decitabine and 7-day azacitidine for lower-risk myelodysplastic syndromes with poor prognostic features: a retrospective multicentre cohort study.</article-title>
+<source>Sci Rep.</source>
+<year>2020</year>;<volume>10</volume>:<fpage>39</fpage>.<annotation><p><italic toggle="yes">(Among 111 adults with low- or intermediate-risk MDS treated with iv decitabine [20 mg/m<sup>2</sup> for 5 days] or azacitidine [75 mg/m<sup>2</sup> for 7 days], overall response rates were higher with decitabine [67% vs 44%] while adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31913293</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.dhillon.2020.1373">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Decitabine/Cedazuridine: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1373</fpage>-<lpage>1378</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of the combination of oral decitabine and cedazuridine shortly after its approval for use in MDS in the US, discusses adverse events of myelosuppression and gastrointestinal upset but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32860582</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.garciamanero.2020.674">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Griffiths</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Steensma</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Roboz</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Wells</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>McCloskey</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Odenike</surname>
+<given-names>O</given-names></string-name>, <etal>et al.</etal>
+<article-title>Oral cedazuridine/decitabine for MDS and CMML: a phase 2 pharmacokinetic/pharmacodynamic randomized crossover study.</article-title>
+<source>Blood.</source>
+<year>2020</year>;<volume>136</volume>:<fpage>674</fpage>-<lpage>683</lpage>.<annotation><p><italic toggle="yes">(Among 80 patients with MDS or chronic myelomonocytic leukemia treated with oral cedazuridine/decitabine or iv decitabine alone for 5 days in cycle one with cross over to the other regimen in cycle 2, area-under-the-curve plasma concentrations were similar in both groups as were demethylation rates and the clinical response rate with continued cycles of combination therapy was 60%; common adverse events were neutropenia and thrombocytopenia; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32285126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.sekeres.2022.872">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>J</given-names></string-name>. <article-title>Diagnosis and treatment of myelodysplastic syndromes: a review.</article-title>
+<source>JAMA</source>. <year>2022</year>;<volume>328</volume>:<fpage>872</fpage>-<lpage>880</lpage>.<annotation><p><italic toggle="yes">(Concise review of clinical features, natural history, diagnosis, and management of MDS; adverse events are listed in tables but without mention or discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36066514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.kim.2022.3411">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Norsworthy</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Subramaniam</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Manning</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Kitabi</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Earp</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: decitabine and cedazuridine tablets for myelodysplastic syndromes.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>3411</fpage>-<lpage>3416</lpage>.<annotation><p><italic toggle="yes">(Summary of the basis for the FDA approval of an oral fixed dose combination of decitabine and cedazuridine with efficiency and safety results from a phase 3 open-label trial in 133 patients which demonstrated complete remissions in 18-21% of subjects and with an adverse event profile similar to that of iv decitabine; ALT elevations arose in 37% of patients but were above 5 times ULN in only 2%; no mention of serious hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">35435961</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.liu.2023.13885">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liu</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Jiang</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Tong</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Xia</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Zhao</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Ouyang</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Decitabine in patients with myelodysplastic syndromes: A multi-center, open-label, dose comparison trial.</article-title>
+<source>Cancer Med.</source>
+<year>2023</year>;<volume>12</volume>:<fpage>13885</fpage>-<lpage>13893</lpage>.<annotation><p><italic toggle="yes">(Among 191 adults with intermediate- or high-risk MDS treated with decitabine in a standard [20 mg/m<sup>2</sup> for 5 days] or extended regimen [12 mg/m<sup>2</sup> for 8 days] per each of 4 cycles, overall response rates were similar [42% vs 38%] as were adverse event rates, including for grade 3 or above &#x0201c;hepatobiliary&#x0201d; events which arose in 3.2% vs 5.2%).</italic></p></annotation><pub-id pub-id-type="pmid">37350499</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.garciamanero.2023.1307">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G.</given-names></string-name>
+<article-title>Myelodysplastic syndromes: 2023 update on diagnosis, risk-stratification, and management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1307</fpage>-<lpage>1325</lpage>.<annotation><p><italic toggle="yes">(Review of the classification of MDS and risk categorization with an update on management including discussion of hypomethylation agents and luspatercept; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37288607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Decitabine.REF.randall.2023.152">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Randall</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>. <article-title>The management of low-risk myelodysplastic syndromes-current standards and recent advances.</article-title>
+<source>Cancer J.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>152</fpage>-<lpage>159</lpage>.<annotation><p><italic toggle="yes">(Review of treatment of low-risk MDS including erythropoietin, iron chelation, lenalidomide, luspatercept and low dose hypomethylating agents; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37195771</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Decitabine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Decitabine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Decitabine: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Decitabine">Trials on Decitabine: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="VitaminC" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">VitaminC</book-part-id>
+      <title-group>
+        <title>Vitamin C</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>5</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="VitaminB" document-type="chapter">Vitamin B</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="VitaminD" document-type="chapter">Vitamin D</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="VitaminC.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="VitaminC.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Vitamin C (ascorbic acid) is a water soluble vitamin found in citrus fruits and green vegetables and deficiency of which is the cause of scurvy. There is no evidence that vitamin C, in physiologic or in moderately high doses, causes acute liver injury or jaundice.</p>
+        </sec>
+        <sec id="VitaminC.Background">
+          <title>Background</title>
+          <p>Vitamin C is a water soluble vitamin known chemically as L-ascorbic acid (as kore' bik as' id). The major role of ascorbic acid is as an electron donor and intracellular antioxidant protecting critical intracellular molecules and enzymes systems against reactive oxygen species. Vitamin C also plays a role as a cofactor in many biochemical synthetic reactions, in collagen cross linking, the synthesis of neuropeptides and hormones, and in non-heme iron absorption. Vitamin C is found in many foods, particularly citrus fruits, green vegetables, tomatoes and potatoes. The recommended daily allowance of vitamin C is 90 mg in adult men and 70 mg in women, an amount that is provided by most American diets. Intakes of more than 2 grams daily are considered excessive and should be avoided. Vitamin C deficiency is the cause of scurvy which is marked by fatigue, spongy gums, loss of teeth, ecchymosis, petechiae and excessive bleeding including bleeding from the gums, into joints and into internal organs. Scurvy is now rare in the developed world, seen predominantly with severe malnutrition and chronic alcoholism. Vitamin C is available in many over-the-counter forms in concentrations ranging from 25 to 1000 mg and is a component of virtually all multivitamins, typically in concentrations of 60 to 180 mg. Parenteral formulations are available for administration with parenteral nutrition. Despite many claims, there is no convincing evidence that vitamin C supplementation decreases the rate of cancer, heart attacks or strokes or prevents common colds or other viral infections. Physiologic and even excessive intakes up to 2 grams daily have virtually no side effects. Higher doses of vitamin C can be associated with diarrhea, nausea, abdominal discomfort, flushing, dizziness and headache and may be associated with transient serum aminotransferase elevations.</p>
+        </sec>
+        <sec id="VitaminC.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Neither normal nor moderately high intakes of vitamin C are associated with liver injury or liver test abnormalities. In long term clinical trials, serum enzyme and bilirubin elevations were no more frequent with vitamin C therapy than with placebo. Indeed, in many animal models, vitamin C is protective against hepatotoxic substances and provides antioxidant and cytoprotective activity to hepatocytes. High doses of vitamin C, however, can have pro-oxidant activity and have been associated with exacerbation of hemolysis and worsening of oxalate renal stone formation. Single large doses of vitamin C can cause symptoms of nausea, abdominal pain and diarrhea and higher doses have been reported to result in serum ALT elevations, but not to clinically apparent liver injury with jaundice.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="VitaminC.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The serum ALT elevations that occur with extremely high doses of vitamin C are likely due to a direct but minimal toxic effect on the liver. The injury is, however, short lived and has not been linked to cases of acute or chronic hepatitis, acute liver failure or cirrhosis.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Vitamins" document-type="chapter">Vitamins</related-object></p>
+          <p>Other Drugs in the Class: <related-object link-type="booklink" source-id="livertox" document-id="VitaminA" document-type="chapter">Vitamin A</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminB" document-type="chapter">Vitamin B</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminD" document-type="chapter">Vitamin D</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminE" document-type="chapter">Vitamin E</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminK" document-type="chapter">Vitamin K</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="FolicAcid" document-type="chapter">Folate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Niacin" document-type="chapter">Niacin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="VitaminC.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Vitamin C &#x02013; Generic, Combination Products</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Vitamins</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Vitamin+C">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="VitaminC.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="VitaminC.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_VitaminC.Tc_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_VitaminC.Tc_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_VitaminC.Tc_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_VitaminC.Tc_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_VitaminC.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ascorbic Acid</td>
+                <td headers="hd_h_VitaminC.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971787">50-81-7</ext-link>
+</td>
+                <td headers="hd_h_VitaminC.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C6-H8-O6</td>
+                <td headers="hd_h_VitaminC.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971787" document-id-type="sid" document-type="summary" object-id="134971787" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="VitaminC.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 May 2021</p>
+        <ref-list id="VitaminC.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="VitaminC.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; does not discuss vitamin C).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminC.REF.seeff.2013">
+            <mixed-citation publication-type="book">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp, 631-57.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of dietary supplements; does not discuss vitamins and minerals).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminC.REF.jacob.1998">
+            <mixed-citation publication-type="book">Jacob RA. Vitamin C. In, Shils ME, Olson JA, Shike M, Ross AC, eds. Modern nutrition in health and disease. 9th ed. Baltimore: Williams &#x00026; Wilkins, 1998; pp 467-84.<annotation><p><italic toggle="yes">(Textbook of nutrition).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminC.REF4">
+            <mixed-citation publication-type="book">Food and Nutrition Board, Institute of Medicine. DRI dietary reference intakes: for vitamin C, vitamin E, selenium and carotenoids. Washington DC: National Academy Press, 1998.<annotation><p><italic toggle="yes">(Reports from the Food and Nutrition Board of the Institute of Medicine on dietary reference values for vitamin C intake, replacing the previously published Recommended Dietary Allowances).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminC.REF.office_of_dietary_supplements">
+            <mixed-citation publication-type="web"><person-group><collab>Office of Dietary Supplements</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/">https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/</ext-link><annotation><p><italic toggle="yes">(Fact sheet on vitamin C maintained and regularly updated by the Office of Dietary Supplements, National Institutes of Health).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminC.REF.dykes.1975.1073">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dykes</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Meier</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Ascorbic acid and the common cold. Evaluation of its efficacy and toxicity.</article-title>
+              <source>JAMA</source>
+              <year>1975</year>
+              <volume>231</volume>
+              <fpage>1073</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the literature on the safety and efficacy of high doses of vitamin C in prevention and treatment of the common cold found little or no evidence of either efficacy or significant toxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1089817</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.rivers.1987.445">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rivers</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Safety of high-level vitamin C ingestion.</article-title>
+              <source>Ann N Y Acad Sci</source>
+              <year>1987</year>
+              <volume>498</volume>
+              <fpage>445</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of literature on toxicity of high doses of vitamin C focusing on calcium-oxalate stones, uric acid excretion, iron overload and increased mutagenic activity; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3304071</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.bendich.1995.124">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bendich</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Langseth</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>The health effects of vitamin C supplementation: a review.</article-title>
+              <source>J Am Coll Nutr</source>
+              <year>1995</year>
+              <volume>14</volume>
+              <fpage>124</fpage>
+              <lpage>36</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(The safety of higher doses of vitamin C has been shown in 8 placebo controlled trials).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7790686</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.levine.1999.1415">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Levine</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rumsey</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Daruwala</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Criteria and recommendations for vitamin C intake.</article-title>
+              <source>JAMA</source>
+              <year>1999</year>
+              <volume>281</volume>
+              <fpage>1415</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the role of vitamin C in metabolic pathways, its absorption and pharmacokinetics, adverse events and beneficial dose effects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10217058</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.shekelle.2003.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shekelle</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Morton</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hardy</surname><given-names>ML</given-names></name>
+</person-group>
+              <article-title>Effect of supplemental antioxidants vitamin C, vitamin E, and coenzyme Q10 for the prevention and treatment of cardiovascular disease.</article-title>
+              <source>Evid Rep Technol Assess (Summ)</source>
+              <year>2003</year>
+              <issue>83</issue>
+              <fpage>1</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A systematic review of four placebo controlled trials of vitamin C for its effects in decreasing the rate of cardiovascular disease showed no evidence of benefit, but also no evidence for toxicity of vitamin C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15040141</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.shekelle.2003.1_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shekelle</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hardy</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Coulter</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Udani</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Spar</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Oda</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Jungvig</surname><given-names>LK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effect of the supplemental use of antioxidants vitamin C, vitamin E, and coenzyme Q10 for the prevention and treatment of cancer.</article-title>
+              <source>Evid Rep Technol Assess (Summ)</source>
+              <year>2003</year>
+              <issue>75</issue>
+              <fpage>1</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A systematic review of placebo controlled trials of vitamin C for its effects in decreasing the rate of cancer showed no evidence of benefit, but also no evidence for toxicity of vitamin C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15523748</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to vitamins including vitamin C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 7 were attributed to niacin, but none were attributed to any other vitamin including vitamin C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="VitaminC.REF.dosed_l.2021.615">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dosed&#x0011b;l</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jirkovsk&#x000fd;</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mac&#x000e1;kov&#x000e1;</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kr&#x0010d;mov&#x000e1;</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Javorsk&#x000e1;</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Pourov&#x000e1;</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mercolini</surname><given-names>L</given-names></name>
+<etal/>
+<collab>On Behalf Of The Oemonom</collab>
+</person-group>
+              <article-title>Vitamin C-sources, physiological role, kinetics, deficiency, use, toxicity, and determination.</article-title>
+              <source>Nutrients</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <fpage>615</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the physiologic role, kinetics, distribution, medical uses and safety of vitamin C mentions that it has antioxidant activities at physiologic levels, but pro-oxidant actions at high levels and high oral or intravenous intake of vitamin C can exacerbate hemolysis and oxalate kidney stone formation; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33668681</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="VitaminC.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Vitamin%20C/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Vitamin C: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Vitamin%20C">Trials on Vitamin C: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

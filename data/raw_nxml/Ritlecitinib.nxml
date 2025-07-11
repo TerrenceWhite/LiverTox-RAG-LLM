@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ritlecitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ritlecitinib</book-part-id>
+      <title-group>
+        <title>Ritlecitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>3</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Risperidone" document-type="chapter">Risperidone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ritonavir" document-type="chapter">Ritonavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ritlecitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ritlecitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ritlecitinib is an orally available small molecule inhibitor of Janus kinase 3 (JAK3) that is used to treat severe alopecia areata. Ritlecitinib is associated with a low rate of transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Ritlecitinib.Background">
+          <title>Background</title>
+          <p>Ritlecitinib (rit" le sye' ti nib) is an orally available, specific inhibitor Janus-associated kinases (mainly irreversible inhibition of JAK3) that is used to treat moderate-to-severe alopecia areata. Alopecia areata is an autoimmune disorder that is characterized by hair loss resulting in patches and even complete baldness of the scalp, along with thinning or loss of eyebrows and eyelashes. The Janus kinases are critical steps in immune activation that transmit signals for different cytokine receptors and promote expression of genes involved in production of pro-inflammatory cytokines. JAK3, in particular, is a critical kinase in the cellular responses of interferon gamma, a cytokine found to be over-expressed in patients with alopecia areata. In multiple randomized controlled trials, ritlecitinib was found to decrease or reverse hair loss in patients with alopecia areata. Ritlecitinib was approved for this use in the United States in 2023, the 4th small molecule JAK inhibitor to receive approval, after ruxolitinib (JAK1/2 inhibitor) in 2011, tofacitinib (JAK1/3 inhibitor) in 2012, and baricitinib (JAK 1/2 inhibitor) in 2018, and the 2nd JAK inhibitor approved as therapy for alopecia areata, after baricitinib in 2022. Ritlecitinib is available in capsules of 50 mg under the brand name Litfulo (Pfizer). The recommended dose is 50 mg once daily. Current indications are severe alopecia areata (as defined by 50% hair loss or greater) in adults and adolescents 12 years and older. Common side effects are headache, dizziness, diarrhea, pyrexia, stomatitis, infections, nasopharyngitis, acne, atopic dermatitis, folliculitis, urticaria, and rash. Ritlecitinib can also cause anemia, and creatine kinase elevations. Potential severe adverse events may include reactivation of fungal, viral, and opportunistic infections such as tuberculosis, herpes simplex, and herpes zoster and malignancies. Other JAK inhibitors have been linked to a higher rate of all-cause mortality and rarely to venous and arterial thromboses and to major atherosclerotic cardiovascular and cerebrovascular events (myocardial infarction, stroke, and cardiovascular death).</p>
+        </sec>
+        <sec id="Ritlecitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials in alopecia areata, serum aminotransferase elevations occurred in 1% to 3% of ritlecitinib treated subjects, but similar rates were found in placebo recipients. The elevations were typically mild and transient, and values above 5 times the upper limit of normal (ULN) occurred in less than 1% of patients. The elevations rarely led to early discontinuations, and often resolved even without dose adjustment. In prelicensure studies in alopecia areata and other autoimmune conditions, there were no instances of liver related severe adverse events or clinically apparent liver injury attributed to ritlecitinib. Since approval and more widescale availability of ritlecitinib, there have been no published reports of hepatotoxicity associated with its use.</p>
+          <p>Finally, ritlecitinib is an immune modulatory agent and has the potential of causing reactivation of viral infections including hepatitis B. Other JAK inhibitors have been implicated in rare instances of reactivation of hepatitis B, although the episodes were usually asymptomatic and self-limited in course. The risk of reactivation of hepatitis B in patients with HBsAg or with anti-HBc without HBsAg who are treated with ritlecitinib has not been defined.</p>
+          <p>Likelihood score: E* (unlikely cause of idiosyncratic clinically apparent liver injury, but is a potential cause of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Ritlecitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of mild serum enzyme elevations during ritlecitinib therapy is not known. Ritlecitinib is metabolized in the liver largely via CYP 3A4 and coadministration with strong inducers of CYP 3A4 should be avoided. Ritlecitinib is also an inhibitor of CYP 3A and 1A2 and can result in increases in serum levels of substrates of these two enzymes. The pharmacokinetics of ritlecitinib are not affected my mild-to-moderate liver impairment (Child-Pugh A or B), but its use is not recommended in patients with severe impairment (Child-Pugh C).</p>
+        </sec>
+        <sec id="Ritlecitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations are uncommon during ritlecitinib therapy, but routine monitoring of liver tests is recommended in the product label &#x0201c;according to routine patient management.&#x0201d; Aminotransferase elevations above 5 times the upper limit of normal (ULN) should lead to at least temporary interruption of therapy until levels fall into the normal or near normal range. Elevations above 20 times the ULN or any elevations accompanied by symptoms or jaundice should lead to permanent discontinuation.</p>
+          <p>Because of its potential to cause reactivation of hepatitis B, routine screening for HBsAg and anti-HBc before starting therapy with ritlecitinib is appropriate. Patients with HBsAg in serum should be treated prophylactically with an oral antiviral agent with activity against HBV such as entecavir or tenofovir. An alternative is to monitor patients carefully for HBV DNA levels to detect evidence of reactivation early and initiate appropriate therapy for HBV infection.</p>
+          <p>Drug Class: Dermatologic Agents, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs for Alopecia areata: <related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="book-part">Baricitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ritlecitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Ritlecitinib &#x02013; Litfulo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Dermatologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Ritlecitinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ritlecitinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ritlecitinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ritlecitinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ritlecitinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ritlecitinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ritlecitinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ritlecitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ritlecitinib</td>
+                <td headers="hd_h_Ritlecitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://402425892">2192215-81-7</ext-link>
+</p>
+</td>
+                <td headers="hd_h_Ritlecitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H19-N5-O</td>
+                <td headers="hd_h_Ritlecitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="402425892" document-id-type="sid" document-type="summary" object-id="402425892" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ritlecitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 March 2024</p>
+        <ref-list id="Ritlecitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ritlecitinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as tofacitinib and ritlecitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not the JAK inhibitors such as ritlecitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; ritlecitinib is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215830Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215830Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy mentions that there were no hepatobiliary serious adverse events, and ALT elevations led to early discontinuation in few patients but were all thought to be unrelated to therapy; the rates of serum aminotransferase elevations were not given, but there were no elevations accompanied by jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.hoisnard.2022.7140">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoisnard</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Lebrun-Vignes</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Maury</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mahevas</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>El Karoui</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Roy</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Zarour</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Adverse events associated with JAK inhibitors in 126,815 reports from the WHO pharmacovigilance database.</article-title>
+<source>Sci Rep.</source>
+<year>2022</year>;<volume>12</volume>:<fpage>7140</fpage>.<annotation><p><italic toggle="yes">(Among 126,815 individual case safety reports on ruxolitinib, tofacitinib and baricitinib made to the WHO pharmacovigilance registry, infections were most frequent including viral, fungal, bacterial, and mycobacterial complications while there was no increase in hepatobiliary reports).</italic></p></annotation><pub-id pub-id-type="pmid">35504889</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.king.2022.1687">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Ohyama</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kwon</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Zlotogorski</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ko</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Mesinkovska</surname>
+<given-names>NA</given-names></string-name>, <string-name name-style="western"><surname>Hordinsky</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <article-title>BRAVE-AA Investigators. Two phase 3 trials of baricitinib for alopecia areata.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>:<fpage>1687</fpage>-<lpage>1699</lpage>.<annotation><p><italic toggle="yes">(Among 1200 patients with alopecia areata treated with baricitinib or placebo once daily for 36 weeks in two controlled trials, clinical responses were higher with 4 mg [39% and 36%] than with 2 mg [23% and 19%] or placebo [6.2% and 3.3%], while adverse event rates were similar in all 3 groups, and ALT elevations above 3 times ULN were less frequent with baricitinib than placebo [1.5% vs 2.7%]).</italic></p></annotation><pub-id pub-id-type="pmid">35334197</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.shawky.2022.1001">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shawky</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Almalki</surname>
+<given-names>FA</given-names></string-name>, <string-name name-style="western"><surname>Abdalla</surname>
+<given-names>AN</given-names></string-name>, <string-name name-style="western"><surname>Abdelazeem</surname>
+<given-names>AH</given-names></string-name>, <string-name name-style="western"><surname>Gouda</surname>
+<given-names>AM</given-names></string-name>. <article-title>A comprehensive overview of globally approved JAK inhibitors.</article-title>
+<source>Pharmaceutics.</source>
+<year>2022</year>;<volume>14</volume>:<fpage>1001</fpage>.<annotation><p><italic toggle="yes">(Review of the JAK-STAT pathways and currently approved JAK inhibitors; JAK proteins are cytoplasmic, non-receptor tyrosine kinases involved in transduction of cytokine signals that pair when binding to transmembrane cytokine receptors and, once activated, phosphorylate STAT causing its dimerization and transfer to the nucleus where it activates cytokine induced genes).</italic></p></annotation><pub-id pub-id-type="pmid">35631587</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.king.2021.379">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Guttman-Yassky</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Peeva</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Banerjee</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Sinclair</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Pavel</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase 2a randomized, placebo-controlled study to evaluate the efficacy and safety of the oral Janus kinase inhibitors ritlecitinib and brepocitinib in alopecia areata: 24-week results.</article-title>
+<source>J Am Acad Dermatol.</source>
+<year>2021</year>;<volume>85</volume>:<fpage>379</fpage>-<lpage>387</lpage>.<annotation><p><italic toggle="yes">(Among 142 patients with alopecia areata treated with ritlecitinib or brepocitinib or placebo for 24 weeks, the alopecia severity scores improved more with the JAK inhibitors [31% and 49% vs 2%], while adverse event rates were similar in all three groups [67% and 77% vs 74%] and there were no elevations in serum ALT or AST above 2.5 times ULN in patients receiving ritlecitinib).</italic></p></annotation><pub-id pub-id-type="pmid">33757798</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.ezzedine.2023.395">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ezzedine</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Peeva</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Yamaguchi</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Cox</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Banerjee</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Hamzavi</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of oral ritlecitinib for the treatment of active nonsegmental vitiligo: a randomized phase 2b clinical trial.</article-title>
+<source>J Am Acad Dermatol.</source>
+<year>2023</year>;<volume>88</volume>:<fpage>395</fpage>-<lpage>403</lpage>.<annotation><p><italic toggle="yes">(Among 364 adults with vitiligo treated with a range of doses of ritlecitinib vs placebo for 24 weeks, vitiligo scores improved more with ritlecitinib, while adverse event rates were similar in all groups, there were no serious adverse events that resulted in drug discontinuation, and &#x0201c;no clinically meaningful trends in hematologic or chemical laboratory parameters were observed&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">36370907</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.papierzewska.2023.325">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Papierzewska</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wa&#x0015b;kiel-Burnat</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Rudnicka</surname>
+<given-names>L.</given-names></string-name>
+<article-title>Safety of Janus kinase inhibitors in patients with alopecia areata: a systematic review.</article-title>
+<source>Clin Drug Investig.</source>
+<year>2023</year>;<volume>43</volume>:<fpage>325</fpage>-<lpage>334</lpage>.<annotation><p><italic toggle="yes">(Review of the safety and adverse events associated with the small molecule JAK inhibitors used to treat alopecia areata mentions that &#x0201c;elevated liver enzymes&#x0201d; arose in 5.2% of patients on ruxolitinib, 2.7% on tofacitinib, but does not provide information on baricitinib and ritlecitinib).</italic></p></annotation><pub-id pub-id-type="pmid">37138134</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.king.2023.1518">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Harcha</surname>
+<given-names>WG</given-names></string-name>, <string-name name-style="western"><surname>Szepietowski</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Shapiro</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lynde</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Mesinkovska</surname>
+<given-names>NA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of ritlecitinib in adults and adolescents with alopecia areata: a randomised, double-blind, multicentre, phase 2b-3 trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>401</volume>(<issue>10387</issue>):<fpage>1518</fpage>-<lpage>1529</lpage>.<annotation><p><italic toggle="yes">(Among 718 patients with severe alopecia areata treated with one of 5 regimens of ritlecitinib or placebo for 24 weeks followed by an open label extension period of 24 weeks, &#x0201c;Severity of Alopecia Tool&#x0201d; [SALT] scores improved in higher proportions of patients on ritlecitinib [14-31%] compared to placebo [2%] and adverse event rates [total and serious] were similar in all groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37062298</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.sandborn.2023.2616">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sandborn</surname>
+<given-names>WJ</given-names></string-name>, <string-name name-style="western"><surname>Danese</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Leszczyszyn</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Romatowski</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Altintas</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Peeva</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Hassan-Zahraee</surname>
+<given-names>M</given-names></string-name>, <article-title>Vet al. Oral Ritlecitinib and brepocitinib for moderate-to-severe ulcerative colitis: results from a randomized, phase 2b study.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2023</year>;<volume>21</volume>:<fpage>2616</fpage>-<lpage>2628.e7</lpage>.<annotation><p><italic toggle="yes">(Among 200 patients with moderate-to-severe ulcerative colitis treated with several doses of ritlecitinib or placebo for 8 weeks, improvements in symptom scores was greater in ritlecitinib recipients and while total adverse event rates were similar [43% vs 52%], infections occurred in 9% vs 4%, and 1 patient on ritlecitinib died of a myocardial infarction).</italic></p></annotation><pub-id pub-id-type="pmid">36623678</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.blair.2023.1315">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Blair</surname>
+<given-names>HA</given-names></string-name>. <article-title>Ritlecitinib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2023</year>;<volume>83</volume>:<fpage>1315</fpage>-<lpage>1321</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of ritlecitinib shortly after its approval for treatment of alopecia areata in the US mentions that in a safety cohort of 1294 patients symptoms that were more frequent with ritlecitinib than placebo were nasopharyngitis, headache, upper respiratory tract symptoms and acne, and that herpes simplex arose in 1.3 persons per year [p/y], herpes zoster in 1.0 p/y, serious infections in 0.7 p/y and malignancies in 0.4 p/y; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37556041</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF14">
+            <mixed-citation publication-type="journal"><article-title>Ritlecitinib (Litfulo) for severe alopecia areata.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>185</fpage>-<lpage>186</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, adverse effects, and cost of ritlecitinib shortly after its approval for use in the US mentions that the most common adverse events are headache, diarrhea, acne, rash, urticaria, folliculitis and pyrexia, and that ritlecitinib has a boxed warning that is applied to all JAK inhibitors about increased risk of serious infections, malignancies, major cardiovascular events, thromboses and death).</italic></p></annotation><pub-id pub-id-type="pmid">37983117</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ritlecitinib.REF.king.2024.299">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Soung</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Tziotzios</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Rudnicka</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Joly</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Gooderham</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sinclair</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Integrated safety analysis of ritlecitinib, an oral JAK3/TEC family kinase inhibitor, for the treatment of alopecia areata from the ALLEGRO Clinical Trial Program.</article-title>
+<source>Am J Clin Dermatol.</source>
+<year>2024</year>;<volume>25</volume>:<fpage>299</fpage>-<lpage>314</lpage>.<annotation><p><italic toggle="yes">(In an analysis of cohorts of patients with alopecia areata treated with ritlecitinib [30 or 50 mg] vs placebo daily for up to 2 years, total adverse events arose in 70-75% vs 70%, serious adverse events in 0-3.2% vs 1.9% and there were no instances of drug induced liver injury or liver related severe adverse events or discontinuations; while increases in ALT to above 3 times ULN arose in 0.9-1.2% [vs none with placebo], there were no discontinuations for abnormal liver tests).</italic></p></annotation><pub-id pub-id-type="pmid">38263353</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ritlecitinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ritlecitinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ritlecitinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ritlecitinib">Trials on Ritlecitinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

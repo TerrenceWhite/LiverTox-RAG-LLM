@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Viloxazine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Viloxazine</book-part-id>
+      <title-group>
+        <title>Viloxazine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Vilazodone" document-type="chapter">Vilazodone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Viltolarsen" document-type="chapter">Viltolarsen</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Viloxazine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Viloxazine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Viloxazine is a selective norepinephrine reuptake inhibitor that is used in the therapy of attention deficit/hyperactivity disorder in children. Viloxazine has been associated with uncommon and mild serum enzyme elevations during therapy but not with occurrence of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Viloxazine.Background">
+          <title>Background</title>
+          <p>Viloxazine (vye lox&#x0201d; a zeen) is a selective norepinephrine reuptake inhibitor (SNRI) that is used to treat pediatric attention deficit/hyperactivity disorder (ADHD). ADHD is marked by variable degrees of inattention, impulsivity and hyperactivity that is inconsistent with developmental levels and that impairs daily life. It is the most common neurodevelopment disorder of children and persists into adulthood in at least 20% of cases. ADHD has major effects on learning and academic achievement as well as social interactions and occupational success. ADHD is reported to affect 9% of children in the United States, and its incidence appears to be increasing. Pharmacologic therapies can alleviate many of the symptoms of ADHD, but are not always well tolerated. Currently approved drugs for ADHD are separated into those that are neurostimulatory (amphetamines, methylphenidate) versus nonstimulatory (such as atomoxetine [an SNRI], viloxazine, guanfacine and clonidine). While viloxazine is considered a norepinephrine reuptake inhibitor, it also has selective serotonergic activity, being a serotonin (5-HT)<sub>2B</sub> receptor agonist and 5-HT<sub>3C</sub> receptor antagonist, features that may be important in its beneficial effects. In several randomized placebo-controlled, short term trials in children (ages 6 to 11 years) and adolescents (ages 12 to 17 years), viloxazine was found to improve symptoms of ADHD including inattention and impulsivity/hyperactivity. Viloxazine was approved in the United States as therapy for ADHD in children in 2021. It is available in extended-release capsules of 100, 150 and 200 mg under the brand name Qelbree. For children ages 6 to 11 years, the recommended initial dose is 100 mg once daily which can be increased at weekly intervals to a maximum of 400 mg daily. For children ages 12 to 17 years, the initial dose should be 200 mg once daily, which can be increased to a maximum of 400 mg daily. Side effects can include somnolence, fatigue, decreased appetite, nausea, vomiting, insomnia, irritability, headache and weight loss. Viloxazine can also increase blood pressure and pulse which should be monitored during therapy. Uncommon but potentially severe adverse events include severe somnolence, new onset or recurrence of mania, suicidal ideation and behavior, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Viloxazine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In four placebo-controlled trials of viloxazine in children with ADHD, minor serum aminotransferase elevations occurred in 5% to 10% of recipients but were more than 2 times the upper limit of normal in less than 1%. In the preregistration trials, there were no instances of clinically apparent liver injury or serum aminotransferase elevations with jaundice attributable to viloxazine. Since its approval as therapy for depression in Europe more than 30 years ago and as therapy of ADHD in the United States in 2021, there have been no publications describing clinically apparent liver injury due to viloxazine. Furthermore, summaries of the efficacy and safety of viloxazine do not mention hepatic adverse events. Nevertheless, long term clinical experience with viloxazine in children is limited, and other SNRIs (such as atomoxetine) have been linked to rare instances of clinically apparent liver injury.</p>
+          <p>Likelihood score: E (unlikely cause of acute liver injury with jaundice).</p>
+        </sec>
+        <sec id="Viloxazine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which viloxazine might cause liver injury is not known but may be due to a toxic or immunogenic intermediate product of its metabolism. Viloxazine is metabolized in the liver largely via the cytochrome P450 system. It is a strong inhibitor CYP 1A2 and weak inducer of CYP 2D6 and 3A4 and is susceptible to drug-drug interactions, particularly with caffeine and theophylline which should be avoided. Viloxazine does not appear to have adverse interactions with methylphenidate.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="CNSStimulants" document-type="chapter">Central Nervous System Stimulants</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="ADHD" document-type="chapter">ADHD Agents</related-object></p>
+          <p>Other ADHD Agents: <related-object link-type="booklink" source-id="livertox" document-id="Amphetamines" document-type="chapter">Amphetamines</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Atomoxetine" document-type="chapter">Atomoxetine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clonidine" document-type="chapter">Clonidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Guanfacine" document-type="chapter">Guanfacine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Viloxazine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <table-wrap id="Viloxazine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><break/><p><bold>REPRESENTATIVE TRADE NAMES</bold></p>
+<p>Viloxazine &#x02013; Qelbree&#x000ae;</p>
+<p><bold>DRUG CLASS</bold></p>
+<p>Drugs for ADHD</p>
+<p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Viloxazine">COMPLETE LABELING</ext-link></p>
+<p>Product labeling at DailyMed, National Library of Medicine, NIH</p></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Viloxazine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Viloxazine.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Viloxazine.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Viloxazine.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Viloxazine.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Viloxazine.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Viloxazine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Viloxazine<break/><p>HCl</p></td>
+                <td headers="hd_h_Viloxazine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135259785">35604-67-2</ext-link>
+</td>
+                <td headers="hd_h_Viloxazine.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C13-H19-N-O3.Cl-H</td>
+                <td headers="hd_h_Viloxazine.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135259785" document-id-type="sid" document-type="summary" object-id="135259785" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Viloxazine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 August 2021</p>
+        <p>Abbreviations: ADHD, attention deficit/hyperactivity disorder; SNRI, selective norepinephrine reuptake inhibitor.</p>
+        <ref-list id="Viloxazine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Viloxazine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 states that &#x0201c;viloxazine has been mentioned as a cause of jaundice but there are no specific descriptions&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Viloxazine.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/211964Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/211964Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA integrated review of the viloxazine application for safety and efficacy which mentions that &#x0201c;no clinically meaningful differences in mean laboratory values were observed in viloxazine treated patients as compared to placebo&#x0201d;, and that transient ALT elevations were uncommon [~6% vs 2% with placebo] modest [only 1% were above twice ULN,] and that no cases of drug-induced liver disease were observed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Viloxazine.REF.pinder.1977.401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pinder</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Brogden</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Speight</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Avery</surname><given-names>GS</given-names></name>
+</person-group>
+              <article-title>Viloxazine: a review of its pharmacological properties and therapeutic efficacy in depressive illness.</article-title>
+              <source>Drugs</source>
+              <year>1977</year>
+              <volume>13</volume>
+              <fpage>401</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of viloxazine used as an antidepressant in adults, mentions that its clinical efficacy in depression is similar to that of the tricyclic antidepressants, although it may have fewer side effects, the most common being nausea, vomiting and headache; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">324751</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.altamura.1990.293">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Altamura</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Mauri</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Girardi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Panetta</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Alcoholism and depression: a placebo controlled study with viloxazine.</article-title>
+              <source>Int J Clin Pharmacol Res</source>
+              <year>1990</year>
+              <volume>10</volume>
+              <fpage>293</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30 adults with alcohol dependence and depression treated with viloxazine [400 mg daily] or placebo for 12 weeks, therapy appeared to alleviate symptoms of depression as well as withdrawal symptoms without changes in biochemical evidence of liver injury [ALT, AST and GGT] in comparison to placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2079386</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.johnson.2020.348">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Johnson</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Liranso</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Saylor</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Tulloch</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Adewole</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Schwabe</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nasser</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase II double-blind, placebo-controlled, efficacy and safety study of SPN-812 (extended-release viloxazine) in children with ADHD.</article-title>
+              <source>J Atten Disord</source>
+              <year>2020</year>
+              <volume>24</volume>
+              <fpage>348</fpage>
+              <lpage>58</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 222 children, ages 6 to 12 years, treated with extended release viloxazine [100, 200, 300 or 400 mg] or placebo once daily for 8 weeks, ADHD rating scores improved in viloxazine- compared to placebo-treated children at all doses, while adverse events were greater and partially dose related with viloxazine including somnolence, fatigue, headache, nausea, irritability, and suicidal ideation [4 vs none] and discontinuations [7% vs none], but there were no serious adverse events and &#x0201c;no clinically significant trends in clinical laboratory tests&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30924702</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.nasser.2020.1452">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nasser</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Liranso</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Adewole</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fry</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hull</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Chowdhry</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Busse</surname><given-names>GD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase III, randomized, placebo-controlled trial to assess the efficacy and safety of once-daily SPN-812 (viloxazine extended-release) in the treatment of attention-deficit/hyperactivity disorder in school-age children.</article-title>
+              <source>Clin Ther</source>
+              <year>2020</year>
+              <volume>42</volume>
+              <issue>8</issue>
+              <fpage>1452</fpage>
+              <lpage>66</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 460 children, ages 6 to 11 years, with ADHD treated with viloxazine [100 or 200 mg] or placebo daily for 5 weeks, ADHD rating scores improvements and adverse events were more frequent with viloxazine than placebo, and while &#x0201c;no clinical significant trends were found in clinical laboratory results&#x0201d;, transient ALT elevations were recorded in 4% on viloxazine and 3% on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32723670</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.cortese.2020.1050">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cortese</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Pharmacologic treatment of attention deficit-hyperactivity disorder.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1050</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacological therapy of ADHD with discussion of amphetamines, methylphenidate, atomoxetine, guanfacine and clonidine; no mention of ALT elevations during therapy or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32905677</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.nasser.2021.684">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nasser</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Liranso</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Adewole</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fry</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hull</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Chowdhry</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Busse</surname><given-names>GD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Once-daily SPN-812&#x000a0;200 and 400&#x000a0;mg in the treatment of ADHD in school-aged children: a phase III randomized, controlled trial.</article-title>
+              <source>Clin Ther</source>
+              <year>2021</year>
+              <volume>43</volume>
+              <issue>4</issue>
+              <fpage>684</fpage>
+              <lpage>700</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 313 children, ages 6 to 11 years, with ADHD treated with viloxazine [200 or 400 mg] or placebo once daily for 8 weeks, improvements in ADHD rating scores were greater with viloxazine than placebo [-17.6 and -17.5 vs -11.7] while common adverse events were somnolence [14% vs 1%], decreased appetite [8% vs 0], fatigue [7% vs 5%], headache [7% vs 1%] and abdominal pain [5% vs 2%], which sometimes led to discontinuation, while laboratory test results were largely mild and transient, one child receiving 400 mg of viloxazine had an elevated ALT value [86 U/L]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33750646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.nasser.2021.370">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nasser</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Liranso</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Adewole</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fry</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hull</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Busse</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Chowdhry</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase 3, placebo-controlled trial of once-daily viloxazine extended-release capsules in adolescents with attention-deficit/hyperactivity disorder.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2021</year>
+              <volume>41</volume>
+              <fpage>370</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 310 adolescents [ages 12 to 17 years] with ADHD treated with viloxazine [200 or 400 mg] or placebo once daily for 6 weeks, improvements in ADHD rating scores were greater with viloxazine vs placebo [-16.0 and -16.5 vs -11.4], and common adverse events include somnolence, headache, poor appetite, nausea, and fatigue, leading to discontinuations in 2.9% vs none, but no one stopped because of laboratory test results; transient ALT elevations arose in 2 viloxazine treated subjects [1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34181360</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.nasser.2021.43">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nasser</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Liranso</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Adewole</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fry</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hull</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Chowdhry</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Busse</surname><given-names>GD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase 3 placebo-controlled trial of once-daily 400-mg and 600-mg SPN-812 (viloxazine extended-release) in adolescents with ADHD.</article-title>
+              <source>Psychopharmacol Bull</source>
+              <year>2021</year>
+              <volume>51</volume>
+              <fpage>43</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 297 adolescents [ages 12 to 17 years] with ADHD treated with viloxazine [400 or 600 mg daily] versus placebo for 7 weeks, ADHD rating scores improved more in the viloxazine arms than placebo [-18.3 and -16.7 vs -13.2] while therapy was considered well tolerated at both doses, common adverse events being somnolence, fatigue, headache, nausea and decreased appetite, with 4.5% discontinuation rate, but none for laboratory abnormalities which included ALT elevations in 10.5% and 10.2% on viloxazine vs none on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34092822</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.findling.2021.643">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Findling</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Candler</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Nasser</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Schwabe</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Garcia-Olivares</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>O'Neal</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Viloxazine in the management of CNS disorders: a historical overview and current status.</article-title>
+              <source>CNS Drugs</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <issue>6</issue>
+              <fpage>643</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the history of studies of viloxazine in depression for which it was approved and used in the UK and Europe for over 30 years, with summary of results of previous trials done in adults with depression which reported a favorable safety profile; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34003459</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viloxazine.REF.viloxazine.2021.98">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Viloxazine</surname><given-names>ER</given-names></name>
+</person-group>
+              <article-title>(Qelbree) for ADHD.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1627</issue>
+              <fpage>98</fpage>
+              <lpage>100</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and costs of viloxazine shortly after its approval for use in the US for ADHD, mentions side effects of somnolence, fatigue, insomnia, anorexia, irritability, nausea, vomiting, headache, weight loss, suicidal ideation and behavior and embryo-fetal toxicity; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34181631</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Viloxazine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Viloxazine+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Viloxazine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Viloxazine">Trials on Viloxazine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

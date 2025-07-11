@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tezepelumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tezepelumab</book-part-id>
+      <title-group>
+        <title>Tezepelumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tetracyclines" document-type="chapter">Tetracyclines</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Thalidomide" document-type="chapter">Thalidomide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tezepelumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tezepelumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tezepelumab is a human monoclonal antibody to thymic stromal lymphopoietin which is used as an add-on maintenance treatment of patients aged 12 years and older with severe uncontrolled asthma. Tezepelumab is generally well tolerated and has not been linked to serum aminotransferase elevations during therapy or to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Tezepelumab.Background">
+          <title>Background</title>
+          <p>Tezepelumab (tez&#x0201d; e pel&#x02019; ue mab) is a human monoclonal IgG2 antibody directed against thymic stromal lymphopoietin (TSLP), an epithelial cell cytokine produced and secreted in response to allergens, pollutants and viruses that initiates a release of inflammatory cytokines. Thymic stromal lymphopoietin is found in high levels in patients with asthma and correlates with disease severity. Inhibition of the cytokine results in a decrease in release of inflammatory cytokines and subsequent bronchoconstriction. Tezepelumab has been evaluated in several randomized controlled trials in patients with severe, uncontrolled asthma and found to decrease asthma exacerbations and improve pulmonary function tests that are typically worsened by bronchoconstriction, such as the forced expiratory volume (FEV<sub>1</sub>). In 2021, tezepelumab was approved as add-on maintenance therapy for severe asthma in adults and children aged 12 years or above. It is available in single dose prefilled syringes and in vials of 210 mg in 1.91 mL under the brand name Tezspire. The recommended dose is 210 mg given subcutaneously once every 4 weeks. While generally well tolerated, side effects can include pharyngitis, and joint and back pain. Rare but potentially severe adverse events include hypersensitivity reactions (rash, allergic conjunctivitis) and worsening of parasitic infections, which should be treated before initiating tezepelumab therapy.</p>
+        </sec>
+        <sec id="Tezepelumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In multiple preregistration trials of tezepelumab as therapy of severe, uncontrolled asthma, there was no mention of elevations of ALT levels or of cases of acute liver injury or jaundice. Since its approval and more general use, tezepelumab has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Tezepelumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible mechanisms of liver injury due to tezepelumab are unclear. Monoclonal antibodies and immunoglobulins are generally taken up and metabolized intracellularly to short peptides and amino acids. There is no evidence to suggest that inhibition of thymic stromal lymphopoietin would trigger liver injury or autoimmune liver conditions.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anti-AsthmaDrugs" document-type="chapter">Antiasthmatic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object></p>
+          <p>Other Drugs in the Subclass, Antiasthmatic Agents, Monoclonal Antibodies: <related-object link-type="booklink" source-id="livertox" document-id="Dupilumab" document-type="chapter">Dupilumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mepolizumab" document-type="chapter">Mepolizumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tezepelumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tezepelumab &#x02013; Tezspire&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiasthmatic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tezepelumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tezepelumab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tezepelumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tezepelumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tezepelumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Tezepelumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tezepelumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tezepelumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tezepelumab</td>
+                <td headers="hd_h_Tezepelumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127637">1572943-04-4</ext-link>
+</td>
+                <td headers="hd_h_Tezepelumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Tezepelumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tezepelumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 January 2023</p>
+        <p>Abbreviations used: FEV<sub>1</sub>, forced expiratory volume in 1 second.</p>
+        <ref-list id="Tezepelumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tezepelumab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761224Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761224Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(Multidisciplinary FDA review of tezepelumab in support of its approval for use in severe asthma does not mention hepatotoxicity or ALT elevations and there were no hepatobiliary deaths or treatment related severe adverse events in preregistration clinical trials).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tezepelumab.REF.corren.2017.936">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Corren</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Parnes</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Roseti</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Griffiths</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>van der Merwe</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Tezepelumab in adults with uncontrolled asthma.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2017</year>
+              <volume>377</volume>
+              <fpage>936</fpage>
+              <lpage>946</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 550 patients with uncontrolled moderate-to-severe asthma treated with tezepelumab [70, 210 or 280 mg] or placebo given subcutaneously at 2 to 4 week intervals, exacerbation rates were decreased and FEV<sub>1</sub> increased with all 3 dose regimens compared to placebo, while both total and severe adverse event rates were similar in all groups, and there were no hepatic severe adverse events; no mention of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28877011</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tezepelumab.REF.menziesgow.2021.1800">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Menzies-Gow</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Corren</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bourdin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chupp</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Israel</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Wechsler</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Brightling</surname><given-names>CE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tezepelumab in adults and adolescents with severe, uncontrolled asthma.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>1800</fpage>
+              <lpage>1809</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1061 patients [ages 12 to 80 years] with severe, uncontrolled asthma treated with tezepelumab [210 mg] or placebo subcutaneously every 4 weeks for 52 weeks, asthma exacerbations were reduced by more than 50% with tezepelumab while FEV<sub>1</sub> improved, and total and severe adverse event rates were similar in the two groups and there were no liver related severe adverse events; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33979488</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tezepelumab.REF4">
+            <element-citation publication-type="journal">
+              <article-title>Tezepelumab (Tezspire) for severe asthma.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <month>Feb</month>
+              <day>21</day>
+              <volume>64</volume>
+              <issue>1644</issue>
+              <fpage>25</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of tezepelumab shortly after its approval in the US does not mention hepatotoxicity or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35171894</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tezepelumab.REF.wechsler.2022.650">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wechsler</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Menzies-Gow</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Brightling</surname><given-names>CE</given-names></name>
+<name name-style="western"><surname>Kuna</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Korn</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Welte</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Griffiths</surname><given-names>JM</given-names></name>
+<etal/>
+<collab>SOURCE study group</collab>
+</person-group>
+              <article-title>Evaluation of the oral corticosteroid-sparing effect of tezepelumab in adults with oral corticosteroid-dependent asthma (SOURCE): a randomised, placebo-controlled, phase 3 study.</article-title>
+              <source>Lancet Respir Med.</source>
+              <year>2022</year>
+              <volume>10</volume>
+              <issue>7</issue>
+              <fpage>650</fpage>
+              <lpage>660</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 150 adults with asthma and inadequate control despite receiving medium- or high-dose corticosteroids who were treated with either tezepelumab [210 mg] or placebo subcutaneously every 4 weeks for 48 weeks, there was no difference in the reduction in oral corticosteroid use between the two groups and both total and adverse event rates were similar in the two groups; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35364018</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tezepelumab.REF.menziesgow.2023">
+            <mixed-citation publication-type="other">Menzies-Gow A, Wechsler ME, Brightling CE, Korn S, Corren J, Israel E, Chupp G, et al.; DESTINATION study investigators. Long-term safety and efficacy of tezepelumab in people with severe, uncontrolled asthma (DESTINATION): a randomised, placebo-controlled extension study. Lancet Respir Med. 2023:S2213-2600(22)00492-1. Epub ahead of print.<annotation><p><italic toggle="yes">(Among patients with asthma enrolled in two placebo controlled trials of tezepelumab for severe, uncontrolled asthma who were crossed over to or continued on drug for another 48 weeks, adverse events were less during the second than the first 48 weeks of therapy or placebo; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tezepelumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tezepelumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tezepelumab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tezepelumab">Trials on Tezepelumab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Quizartinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Quizartinib</book-part-id>
+      <title-group>
+        <title>Quizartinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Quinupristin-Dalfopr" document-type="chapter">Quinupristin-Dalfopristin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="REGN-EB3" document-type="chapter">REGN-EB3 &#x02013; Atoltivimab, Maftivimab, Odesivimab: Short Chapter</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Quizartinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Quizartinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Quizartinib is an orally administered receptor tyrosine kinase FLT3 inhibitor that is used in combination with other cancer chemotherapeutic agents to treat adults with acute myelogenous leukemia who are positive for FLT3 internal tandem duplication. Quizartinib is associated with a high rate of liver enzyme elevations during therapy, but a similar rate occurs with comparator arms of chemotherapy, and it has not been shown to cause clinically apparent drug induced liver injury.</p>
+        </sec>
+        <sec id="Quizartinib.Background">
+          <title>Background</title>
+          <p>Quizartinib (kwiz ar&#x02019; ti nib) is an orally available small molecule inhibitor of the receptor tyrosine kinase FLT3 that is used in combination with other chemotherapeutic agents to treat patients with acute myelogenous leukemia (AML) who have mutations in FLT3. AML is the most common cause of acute leukemia in adults, and at least 30% of patients have FLT3 mutations. The FLT3-internal tandem duplication mutation is associated with aggressive disease and poor response rates to standard chemotherapeutic regimens. Quizartinib is one of several inhibitors of FLT mutations and has special activity against the FLT3-internal tandem mutation. Quizartinib was shown to improve overall survival when combined with standard chemotherapy in both newly diagnosed and relapsed or refractory cases of AML with the FLT3-internal tandem mutation. Quizartinib was approved as therapy for adults with newly diagnosed AML with a FLT3 internal tandem duplication in 2023. It is given in combination with standard induction and consolidation chemotherapy and continued as a single agent for maintenance after consolidation. Quizartinib is available in tablets of 17.7 and 26.5 mg under the brand name Vanflyta. The recommended dose regimen varies by treatment phase from 26.5 to 53 mg once daily for different numbers of days in the 28-day cycle. Adverse events include febrile neutropenia, pneumonia, sepsis, diarrhea, nausea, abdominal pain, mucositis, headache, and respiratory tract infections. Laboratory abnormalities include decrease in neutrophils, lymphocytes, potassium, albumin, phosphorus, and magnesium and increases in alkaline phosphatase and creatine phosphokinase. Severe adverse events include QT interval prolongation, febrile neutropenia, sepsis, and embryo-fetal toxicity. Quizartinib should only be administered by health care workers with experience and expertise in managing acute leukemia, cancer chemotherapy, and their complications. Quizartinib is available only through a Risk Evaluation and Mitigation Strategy (REMS) program that requires careful monitoring for and attention to prolongation of the QT interval.</p>
+        </sec>
+        <sec id="Quizartinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of quizartinib in patients with AML, ALT elevations were arose in 10% to 16% of patients and were above 5 times the upper limit of normal (ULN) in 1% to 3%. However, similar rates were reported in subjects receiving chemotherapy without quizartinib and in most instances the elevations were transient, asymptomatic, and not associated with elevations in serum bilirubin. Intermittent elevations in liver enzymes are not uncommon in patients with untreated AML due to bacterial, viral and opportunistic infections. In the registration trials of quizartinib there were uncommon instances of acute liver injury and hepatic failure, but all were attributable to other comorbidities and factors (multiorgan failure), and none were considered due to quizartinib. Since its approval in the United States, there have been no reported cases of clinically apparent liver injury associated with quizartinib therapy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Quizartinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from quizartinib is unknown. Quizartinib is metabolized by the cytochrome P450 system, predominantly by CYP 3A4 and is susceptible to drug-drug interactions with inducers or inhibitors of the drug metabolizing enzyme which are best avoided during chemotherapy with its use.</p>
+        </sec>
+        <sec id="Quizartinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for quizartinib does not recommend routine monitoring of liver laboratory tests during therapy. Serum aminotransferase elevations above 5 times the upper limit of normal (if detected) should lead a search for alternative causes of liver enzyme elevations and, if none are found, to dose reduction or temporary cessation of treatment with careful monitoring. Cross sensitivity to liver injury has not been described with the other FLT kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other FLT3 Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Gilteritinib" document-type="book-part">Gilteritinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Midostaurin" document-type="book-part">Midostaurin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Quizartinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Quizartinib &#x02013; Vanflyta&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Quizartinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Quizartinib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Quizartinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Quizartinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Quizartinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Quizartinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Quizartinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Quizartinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Quizartinib</td>
+                <td headers="hd_h_Quizartinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135264521">950769-58-1</ext-link>
+</td>
+                <td headers="hd_h_Quizartinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H32-N6-O4-S</td>
+                <td headers="hd_h_Quizartinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135264521" document-id-type="sid" document-type="summary" object-id="135264521" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Quizartinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 July 2024</p>
+        <p>Abbreviations: AML, acute myelogenous leukemia; ULN, upper limit of normal.</p>
+        <ref-list id="Quizartinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Quizartinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Quizartinib.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216993Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216993Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of quizartinib mentions that ALT elevations arose in 16% of recipients [vs 10% on placebo], but that alternative causes accounted for most abnormalities and all improved without dose modification or discontinuation and that there were no cases of hepatic failure or toxic hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Quizartinib.REF.cortes.2018.889">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cortes</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Perl</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>D&#x000f6;hner</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Kantarjian</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Martinelli</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Kovacsovics</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Rousselot</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Quizartinib, an FLT3 inhibitor, as monotherapy in patients with relapsed or refractory acute myeloid leukaemia: an open-label, multicentre, single-arm, phase 2 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2018</year>;<volume>19</volume>(<issue>7</issue>):<fpage>889</fpage>-<lpage>903</lpage>.<annotation><p><italic toggle="yes">(Among 333 patients with relapsed or refractory breast cancer treated with quizartinib and standard chemotherapy, the composite complete response rate was 46-56% in those with FLT3-internal tandem duplication and 30-36% in those without, while serious adverse events were common including ALT elevations above 5 times ULN in 3% and fatal hepatic failure in 2 patients, both in the context of multiorgan failure and not attributed to quizartinib).</italic></p></annotation><pub-id pub-id-type="pmid">29859851</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Quizartinib.REF.cortes.2019.984">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cortes</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Khaled</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Martinelli</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Perl</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Ganguly</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Russell</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Kr&#x000e4;mer</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Quizartinib versus salvage chemotherapy in relapsed or refractory FLT3-ITD acute myeloid leukaemia (QuANTUM-R): a multicentre, randomised, controlled, open-label, phase 3 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2019</year>;<volume>20</volume>:<fpage>984</fpage>-<lpage>997</lpage>.<annotation><p><italic toggle="yes">(Among 335 patients with relapsed or refractory breast cancer with FLT3-internal tandem duplication treated with quizartinib monotherapy or salvage chemotherapy, overall median survival was longer with quizartinib [6.2 vs 4.7 months] and total adverse event rates were similar, ALT elevations arose in 14% vs 4% and were above 5 times ULN in 3.7% vs 2%).</italic></p></annotation><pub-id pub-id-type="pmid">31175001</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Quizartinib.REF.erba.2023.1571">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Erba</surname>
+<given-names>HP</given-names></string-name>, <string-name name-style="western"><surname>Montesinos</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>HJ</given-names></string-name>, <string-name name-style="western"><surname>Patkowska</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Vrhovac</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>&#x0017d;&#x000e1;k</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>PN</given-names></string-name>, <article-title>Met al.; QuANTUM-First Study Group. Quizartinib plus chemotherapy in newly diagnosed patients with FLT3-internal-tandem-duplication-positive acute myeloid leukaemia (QuANTUM-First): a randomised, double-blind, placebo-controlled, phase 3 trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>401</volume>(<issue>10388</issue>):<fpage>1571</fpage>-<lpage>1583</lpage>.<annotation><p><italic toggle="yes">(Among 539 adults with newly diagnosed AML and FLT3-internal tandem duplication treated with quizartinib or placebo in combination with standard chemotherapy for induction and consolidation followed by single agent quizartinib or placebo continuation, overall survival was greater with quizartinib [31.9 vs 15.1 months] and virtually all patients had at least one adverse event including ALT elevations in 16% vs 10%, which were above 5 times ULN in 5% vs 5%; there were no liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">37116523</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Quizartinib.REF6">
+            <mixed-citation publication-type="journal"><article-title>Quizartinib (Vanflyta) for acute myeloid leukemia.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e169</fpage>-<lpage>e170</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of quizartinib shortly after its approval as therapy of newly diagnosed AML in adults with FLT3-internal tandem duplication in combination with chemotherapy for induction and consolidation, and thereafter as maintenance monotherapy, mentions it can cause prolongation of QT interval, febrile neutropenia, pneumonia, diarrhea, abdominal pain, hypokalemia, and hypomagnesemia; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37871118</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Quizartinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Quizartinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Quizartinib: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Quizartinib">Trials on Quizartinib: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

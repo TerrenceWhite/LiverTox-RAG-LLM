@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Aripiprazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Aripiprazole</book-part-id>
+      <title-group>
+        <title>Aripiprazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Arecacatechu" document-type="chapter">Areca Nut</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ArnicaMontana" document-type="chapter">Arnica Montana</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Aripiprazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Aripiprazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Aripiprazole is an atypical antipsychotic used in the treatment of schizophrenia and bipolar illness. Aripiprazole therapy has not been associated consistently with serum aminotransferase elevations and has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Aripiprazole.Background">
+          <title>Background</title>
+          <p>Aripiprazole (ar" i pip' ra zole) is a partial agonist for dopamine type 2 (D2) and serotonin (5-HT1A) receptors and has antagonist activity against serotonin 5HT2A receptors. Aripiprazole is indicated for the therapy of schizophrenia and as either monotherapy or adjunctive therapy for manic and mixed episodes in bipolar disorder, irritability associated with autistic disorder, and as adjunctive treatment with antidepressants for major depressive disorder. Aripiprazole is also indicated for treatment of Tourette disorder. It was approved for use in the United States in 2002 and is widely used with more than 8 million prescriptions filled yearly. Aripiprazole is available as tablets of 2, 5, 10, 15, 20 and 30 mg generically and under the brand name Abilify. It is also available as an oral solution (1 mg/mL), as orally disintegrating tablets (10 and 15 mg) and as a solution for intramuscular injection (7.5 mg/mL). The typical initial oral dose for adults is 10 to 15 mg daily, increasing to a maximum of 30 mg daily. In addition, an extended release formulation of aripiprazole has been developed and approved for use in schizophrenia. This formulation is given in a dose of 400 mg intramuscularly once monthly and is available under the brand name Abilify Maintena. Aripiprazole is generally well tolerated, but side effects can include restlessness, sedation, tremor, extrapyramidal symptoms, dizziness, blurred vision, headache, fatigue and nausea. Weight gain is uncommon. Rare, but potentially severe adverse events include suicidal ideation and behaviors, neuroleptic malignant syndrome, cerebrovascular adverse events in the elderly with dementia, hypersensitivity reactions, and body weight gain with complications of dyslipidemia and diabetes.</p>
+        </sec>
+        <sec id="Aripiprazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have not been reported to occur in patients on long term therapy with aripiprazole, but most studies have not provided information on serum enzyme results. Despite its widescale use, aripiprazole has been implicated in only rare and isolated cases of clinically apparent liver injury in the literature. All reported cases have been hepatocellular arising after 1 to 3 months of therapy and with accelerated onset in one instance upon re-exposure. Immunoallergic and autoimmune features were not present. Most cases have been anicteric, and none were fatal or resulted in chronic injury. Aripiprazole has not been reported among agents implicated in large case series of drug induced liver injury. The product label for aripiprazole mentions that hepatitis and jaundice have been reported, but no specific details were provided. Thus, clinically apparent liver injury from aripiprazole must be very rare.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Aripiprazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Aripiprazole is extensively metabolized by the liver via the P450 system, largely by CYP 3A4 and 2D6 and is susceptible to drug-drug interactions with agents that induce or inhibit these microsomal enzymes. Weight gain is less prominent with aripiprazole than other atypical antipsychotic medications and the influence of weight gain during aripiprazole therapy on serum ALT levels has not been shown.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntipsychoticAgents" document-type="chapter">Antipsychotic Agents</related-object>, Atypicals</p>
+        </sec>
+      </sec>
+      <sec id="Aripiprazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Aripiprazole &#x02013; Abilify&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antipsychotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Aripiprazole">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Aripiprazole.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Aripiprazole.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Aripiprazole.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Aripiprazole.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Aripiprazole.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Aripiprazole.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Aripiprazole.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Aripiprazole</td>
+                <td headers="hd_h_Aripiprazole.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135016858">129722-12-9</ext-link>
+</td>
+                <td headers="hd_h_Aripiprazole.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C23-H27-Cl2-N3-O2</td>
+                <td headers="hd_h_Aripiprazole.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135016858" document-id-type="sid" document-type="summary" object-id="135016858" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Aripiprazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 June 2023</p>
+        <ref-list id="Aripiprazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Aripiprazole.REF.meyer.2018">
+            <mixed-citation publication-type="book">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 279-302.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.goodnick.2002.1773">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goodnick</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Jerry</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Aripiprazole: profile on efficacy and safety.</article-title>
+              <source>Expert Opin Pharmacother</source>
+              <year>2002</year>
+              <volume>3</volume>
+              <fpage>1773</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of efficacy and safety of aripiprazole; no mention of hepatotoxicity or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12472374</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF3">
+            <element-citation publication-type="journal">
+              <article-title>Aripiprazole (Abilify) for schizophrenia.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2003</year>
+              <volume>45</volume>
+              <fpage>15</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief review of efficacy and safety of aripiprazole shortly after its approval in the US; most common side effects are anxiety, headache, nausea, constipation, insomnia, dizziness and somnolence; has little effect on weight; no mention of hepatotoxicity or effect on ALT levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12592215</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF4">
+            <element-citation publication-type="journal">
+              <article-title>Choice of an antipsychotic.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2003</year>
+              <volume>45</volume>
+              <fpage>102</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Unlike other second generation antipsychotics, aripiprazole is a partial dopamine agonist; it has little or no effect on weight and does not increase the QT interval; no mention of hepatic effects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14679353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.rettenbacher.2006.500">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rettenbacher</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Baumgartner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Eder-Ischia</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Edlinger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Graziadei</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hofer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Huber</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Association between antipsychotic-induced elevation of liver enzymes and weight gain: a prospective study.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2006</year>
+              <volume>26</volume>
+              <fpage>500</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective study of 67 patients started on atypical antipsychotics [only 1 on aripiprazole]; ALT elevations were more frequent in the 14 patients who gained &#x0003e;7% of body weight than in the 53 who did not [50% vs 19%] and mean changes in ALT, AST and GGT were greater in those who gained weight; all changes were transient, asymptomatic and not associated with bilirubin elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16974192</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.findling.2008.1432">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Findling</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Robb</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nyilas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Forbes</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Jin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ivanova</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Marcus</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A multiple-center, randomized, double-blind, placebo-controlled study of oral aripiprazole for treatment of adolescents with schizophrenia.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>2008</year>
+              <volume>165</volume>
+              <fpage>1432</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(302 patients enrolled in 6 week placebo controlled trial of two doses of aripiprazole; side effects were dizziness, headache, somnolence and extrapyramidal symptoms; no mention of liver test abnormalities; weight largely stable over 6 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18765484</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, several antidepressants [duloxetine, sertaline, fluoxetine, amitryptilline], but none of the atypical antipsychotic agents, were implicated in causing cases of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.torrent.2008.4">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Torrent</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Amann</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Sanchez-Moreno</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Colom</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Feinares</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Comes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rosa</surname><given-names>AR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Weight gain in bipolar disorder: pharmacological treatment as a contributing factor.</article-title>
+              <source>Acta Psychiatr Scand</source>
+              <year>2008</year>
+              <volume>118</volume>
+              <fpage>4</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of frequency of weight gain in patients treated for bipolar disorders, most weight gain occurred with clozapine and olanzapine, but some weight gain also with quetiapine, risperidone, lithium, valproate and gabapentin; not with aripiprazole, ziprasidone, carbamazepine or lamotrigine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18498432</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.kane.2009.572">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Osuntokun</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Kryzhanovskaya</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stauffer</surname><given-names>VL</given-names></name>
+<name name-style="western"><surname>Watson</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Breier</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>A 28-week, randomized, double-blind study of olanzapine versus aripiprazole in the treatment of schizophrenia.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2009</year>
+              <volume>70</volume>
+              <fpage>572</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of olanzapine [n=281] vs aripiprazole [n=285] for 28 weeks at 60 centers; no mention of ALT values; mean weight gain was 3.4 kg in olanzapine- vs 0.3 kg in aripiprazole treated subjects [p&#x0003c;.001]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19323965</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.glick.2009.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Glick</surname><given-names>ID</given-names></name>
+<name name-style="western"><surname>Mankoski</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Eudicone</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Marcus</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>QV</given-names></name>
+<name name-style="western"><surname>Assun&#x000e7;&#x000e3;o-Talbott</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>The efficacy, safety, and tolerability of aripiprazole for the treatment of schizoaffective disorder: results from a pooled analysis of a sub-population of subjects from two randomized, double-blind, placebo-controlled, pivotal trials.</article-title>
+              <source>J Affect Disord</source>
+              <year>2009</year>
+              <volume>115</volume>
+              <fpage>18</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled analysis of previous trials of aripiprazole for 4 weeks; no mention of liver test abnormalities and only minimal changes in body weight).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19230981</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.janicak.2009.25">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Janicak</surname><given-names>PG</given-names></name>
+<name name-style="western"><surname>Glick</surname><given-names>ID</given-names></name>
+<name name-style="western"><surname>Marder</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Crandall</surname><given-names>DT</given-names></name>
+<name name-style="western"><surname>McQuade</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Marcus</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Eudicone</surname><given-names>JM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The acute efficacy of aripiprazole across the symptom spectrum of schizophrenia: a pooled post hoc analysis from 5 short-term studies.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2009</year>
+              <volume>70</volume>
+              <fpage>25</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled analysis of 5 studies of aripiprazole vs placebo or haloperidol for 4-6 weeks; no mention of side effects).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.kwon.2009.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kwon</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Jang</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Yoo</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>SJ</given-names></name>
+<collab>APLUS study group</collab>
+</person-group>
+              <article-title>Long-term efficacy and safety of aripiprazole in patients with schizophrenia, schizophreniform disorder, or schizoaffective disorder: 26-week prospective study.</article-title>
+              <source>Psychiatry Clin Neurosci</source>
+              <year>2009</year>
+              <volume>63</volume>
+              <fpage>73</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(300 Korean patients were treated with aripiprazole for 8 weeks and some for up to 24 weeks; average weight gain of 2 kg; no mention of liver test abnormalities, jaundice or hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19154213</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.leucht.2009.31">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Leucht</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Corves</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Arbter</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Second-generation versus first-generation antipsychotic drugs for schizophrenia: a meta-analysis.</article-title>
+              <source>Lancet</source>
+              <year>2009</year>
+              <volume>373</volume>
+              <fpage>31</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of efficacy and safety of newer antipsychotic agents including aripiprazole; no discussion of liver related side effects or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19058842</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.kim.2010.121">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kim</surname><given-names>SW</given-names></name>
+<name name-style="western"><surname>Shin</surname><given-names>IS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Bae</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Yoon</surname><given-names>JS</given-names></name>
+</person-group>
+              <article-title>Effectiveness of switching from aripiprazole to ziprasidone in patients with schizophrenia.</article-title>
+              <source>Clin Neuropharmacol.</source>
+              <year>2010</year>
+              <volume>33</volume>
+              <fpage>121</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Switching 19 patients with schizophrenia from aripiprazole to ziprasidone resulted in a decline in mean ALT levels [26 to 18 U/L] and values became normal in 2 of 3 subjects with elevations on aripiprazole).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20502130</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 4 due to psychotropic agents; one each for quetiapine, nefazodone, fluoxetine and venlafaxine, but none for aripiprazole).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.molleston.2011.182">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Molleston</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lopez</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<collab>Drug-induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study.</article-title>
+              <source>J Pediatr Gastroenterol Nutr</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <fpage>182</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to CNS agents and anticonvulsants; one case was attributed to perphenazine but none for the atypical antipsychotics).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21788760</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.mahapatra.2011.e235">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mahapatra</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Belgrad</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Adeoye</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Psychotropic drug-related eosinophilia with systemic symptoms after acute caffeine ingestion.</article-title>
+              <source>Pediatrics</source>
+              <year>2011</year>
+              <month>Jan</month>
+              <volume>127</volume>
+              <fpage>e235</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(16 year old boy with bipolar disorder developed fever, generalized rash and lymphadenopathy while being treated with aripiprazole, fluoxetine and lithium and a day after consuming an energy boosting, caffeine-rich gum [eosinophils 15%, ALT 279 U/L, CPK 6169 U/L, bilirubin and Alk P not given], responding rapidly with stopping medications and corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21135003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.fleischhacker.2013.171">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fleischhacker</surname><given-names>WW</given-names></name>
+<name name-style="western"><surname>Sanchez</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Jin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Forbes</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>McQuade</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>RA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term safety and tolerability of aripiprazole once monthly in maintenance treatment of patients with schizophrenia.</article-title>
+              <source>Int Clin Psychopharmacol</source>
+              <year>2013</year>
+              <volume>28</volume>
+              <fpage>171</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial of oral aripiprazole followed by once monthly injections of aripiprazole in 832 patients with schizophrenia, found no severe adverse events after 6 months of therapy and with conversion to once monthly therapy; no mention of ALT elevations or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23615694</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF19">
+            <element-citation publication-type="journal">
+              <article-title>Long-acting injectable aripiprazole (Abilify Maintena) for schizophrenia.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2013</year>
+              <volume>55</volume>
+              <issue>1415</issue>
+              <fpage>34</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and costs of a long acting injectable formulation of aripiprazole [Abilify Maintena] for schizophrenia shortly after its approval for use in the US; does not mention hepatotoxicity or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23836344</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, five were attributed to atypical antipsychotics [3 quetiapine, 2 olanzapine], but none to aripiprazole).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF21">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for psychotic disorders.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1510</issue>
+              <fpage>160</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications available in the US for therapy of psychotic disorders; mentions that olanzapine can cause aminotransferase elevations, and that olanzapine and ziprasidone can cause DRESS syndrome, but does not mention ALT elevations or hepatotoxicity for any of agents discussed, including aripiprazole, brexpiprazole, cariprazine, clozapine, quetiapine, risperidone, asenapine, iloperidone, paliperidone and lurasidone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27960194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.kornischka.2016.201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kornischka</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cordes</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Engelke</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Agelink</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Acute drug-induced hepatitis during aripiprazole monotherapy; a case report.</article-title>
+              <source>J Pharmacovigil</source>
+              <year>2016</year>
+              <volume>4</volume>
+              <fpage>201</fpage>
+              <comment>Not in PubMed.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman with chronic schizoaffective psychosis developed jaundice 6 weeks after switching from long term clozapine to aripiprazole [bilirubin 17.9 mg/dL, ALT 2585 U/L, GGT 138 U/L], with rapid improvement and fall to near normal levels one month after stopping).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.castanheira.2019.551">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Castanheira</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Fernandes</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Coentre</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Aripiprazole-induced hepatitis: a case report.</article-title>
+              <source>Clin Psychopharmacol Neurosci.</source>
+              <year>2019</year>
+              <volume>17</volume>
+              <fpage>551</fpage>
+              <lpage>555</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(28 year old woman with acute psychosis developed nausea and jaundice 21 days after starting aripiprazole [direct bilirubin 0.8, total 1.1 mg/dL, ALT 745 U/L, Alk P 224 U/L], with rapid improvement and fall to normal after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31671495</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.nikogosyan.2021.344">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nikogosyan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Orias</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Goebert</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Takeshita</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Acute aripiprazole-associated liver injury.</article-title>
+              <source>J Clin Psychopharmacol.</source>
+              <year>2021</year>
+              <volume>41</volume>
+              <fpage>344</fpage>
+              <lpage>346</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman with schizoaffective disorder, diabetes, chronic renal disease and depression developed abnormal liver tests 3 months after starting aripiprazole that improved on stopping and reappeared within 4 days of restarting [ALT rising from 123 to 479 U/L, Alk P 232 to 343 U/L, bilirubin normal, INR rising to 2.1], which improved after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33734168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.druschky.2021.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Druschky</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Toto</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bleich</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Baumg&#x000e4;rtner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maier</surname><given-names>HB</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Severe drug-induced liver injury in patients under treatment with antipsychotic drugs: data from the AMSP study.</article-title>
+              <source>World J Biol Psychiatry.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>373</fpage>
+              <lpage>386</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 246 cases of severe liver injury due to antipsychotic medications identified in a prospective registry of German psychiatric hospitals between 1993 and 2016, 46 arose in 38,349 patients [0.12%] who received clozapine [34 as a single antipsychotic agent]; other commonly implicated agents being olanzapine [n=90 of 54,822: 0.16%], quetiapine [34 of 66,209: 0.05%], and risperidone [27 of 51,683: 0.05%], whereas aripiprazole was rarely implicated [2 of 15,988, none as a single agent] and no cases were found among the 3568 patients receiving ziprasidone; two fatal cases occurred in olanzapine-treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32892689</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.zeiss.2022.440">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hafner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Drug-associated liver injury related to antipsychotics: exploratory analysis of pharmacovigilance data.</article-title>
+              <source>J Clin Psychopharmacol.</source>
+              <year>2022</year>
+              <volume>42</volume>
+              <fpage>440</fpage>
+              <lpage>444</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the VigiBase data base of individual case safety reports on antipsychotics and liver injury found positive hepatic safety signals for olanzapine and clozapine but none for risperidone, quetiapine, ziprasidone, asenapine, aripiprazole, brexpiprazole, and cariprazine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35730552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Aripiprazole.REF.gunther.2023.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gunther</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dopheide</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Antipsychotic safety in liver disease: a narrative review and practical guide for the clinician.</article-title>
+              <source>J Acad Consult Liaison Psychiatry.</source>
+              <year>2023</year>
+              <volume>64</volume>
+              <fpage>73</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the literature on hepatotoxicity of antipsychotic medications and guidance on their use in patients with liver disease characterizes chlorpromazine, clozapine, and olanzapine as having the greatest risk for causing liver injury, quetiapine and risperidone as having moderate risk, haloperidol as having low risk and paliperidone, aripiprazole, lurasidone, and loxapine as having low risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36180017</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Aripiprazole.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Aripiprazole/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Aripiprazole: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Aripiprazole">Trials on Aripiprazole: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

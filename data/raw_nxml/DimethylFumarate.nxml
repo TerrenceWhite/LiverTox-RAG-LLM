@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="DimethylFumarate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">DimethylFumarate</book-part-id>
+      <title-group>
+        <title>Dimethyl Fumarate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dimercaprol" document-type="chapter">Dimercaprol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dinutuximab" document-type="chapter">Dinutuximab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="DimethylFumarate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="DimethylFumarate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Dimethyl fumarate, monomethyl fumarate and diroximel fumarate are antiinflammatory and immunomodulatory agents that are used to treat relapsing multiple sclerosis and have similar beneficial as well as adverse effects. Dimethyl fumarate is associated with low rates of transient serum enzyme elevations during treatment, and with rare instances of clinically apparent liver injury with jaundice. There is limited clinical experience with monomethyl and diroximel fumarate and the risk of liver injury with their use remains unclear.</p>
+        </sec>
+        <sec id="DimethylFumarate.Background">
+          <title>Background</title>
+          <p>Dimethyl fumarate (dye meth' il fue' ma rate) is a methylated, unsaturated dicarboxylic acid which has distinctive antiinflammatory and immunomodulatory activities, both in vitro and in vivo. Its mechanism of action is believed to be via activation of the nuclear factor E2-related factor (NrF2) pathway, which is important in inducing antioxidant responses and enhancing antiinflammatory cytokines. Dimethyl fumarate is a prodrug and is rapidly metabolized to monomethyl fumarate, the active metabolite which is the only form detected in serum. Because of its immunomodulatory activity, dimethyl fumarate has been evaluated in psoriasis, sarcoidosis, and alopecia areata with promising results, but has been approved in the United States only for multiple sclerosis. In several large, randomized controlled trials, dimethyl fumarate was shown to reduce relapse rates and improve neuroradiologic outcomes in adult patients with relapsing-remitting multiple sclerosis. Dimethyl fumarate was approved for use in relapsing multiple sclerosis in the United States in 2013 and is now available in delayed release capsules of 120 and 240 mg under the brand name Tecfidera. The recommended dose is 120 mg twice daily for 7 days, followed by a maintenance dose of 240 mg twice daily. Common side effects are flushing (25% to 50%), gastrointestinal symptoms of nausea, diarrhea or abdominal pain (10% to 60%), dizziness, erythema (5%) and skin rash (9%). Rare but potentially severe adverse events include anaphylaxis, angioedema, severe lymphopenia, herpes zoster, liver injury and progressive multifocal leukoencephalopathy (PML).</p>
+          <p>Diroximel fumarate (dye rox&#x02019; I mel fue&#x02019; ma rate), like dimethyl fumarate, is a prodrug of monomethyl fumarate and appears to have similar antiinflammatory and immunomodulatory activities as the dimethyl form. It was approved for use in adults with relapsing forms of multiple sclerosis in the United States in 2019 based largely upon bioequivalence studies with dimethyl fumarate, blood levels of the active metabolite (monomethyl fumarate) of both prodrugs being similar. Diroximel fumarate is available in delayed release capsules of 231 mg under the brand name Vumerity. The recommended dose is 231 mg twice daily for 7 days followed by a maintenance dose of 462 mg twice daily. The side effect profile of diroximel fumarate is similar to that of dimethyl fumarate, although the frequency of some gastrointestinal adverse reactions may be less and overall tolerance appears to be better.</p>
+          <p>Monomethyl fumarate (mon&#x0201d; oh meth&#x02019; il fue&#x02019; ma rate) has similar antiinflammatory and immunomodulatory activities as dimethyl fumarate, it being the active metabolite of the dimethylated form. Monomethyl fumarate was approved for use in adults with relapsing forms of multiple sclerosis in the United States in 2020 based upon studies showing bioequivalence with dimethyl fumarate. Both drugs lead to similar blood levels of the active metabolite (monomethyl fumarate). Monomethyl fumarate is available in delayed release capsules of 95 mg under the brand name Bafiertam. The recommended dose is 95 mg twice daily for 7 days followed by a maintenance dose of 190 mg twice daily. The side effect profile is similar to that of dimethyl fumarate, although the frequency of some gastrointestinal side effects may be less.</p>
+        </sec>
+        <sec id="DimethylFumarate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials of dimethyl fumarate in patients with psoriasis and multiple sclerosis, serum ALT elevations were frequent, occurring in up to 25% of patients. The elevations, however, were generally mild-to-moderate and resolved rapidly even without dose modification. Elevations above 3 times ULN were reported in 6% of dimethyl fumarate compared to 3% to 6% of placebo recipients. The enzyme elevations were usually transient and not associated with symptoms or jaundice, requiring drug discontinuation in less than 1% of patients. No cases of acute hepatitis or clinically apparent liver injury were reported in the preregistration trials of methyl fumarate. Despite this, several cases of clinically apparent liver injury with jaundice were reported within 2 to 3 years of its approval and more widescale use. Most cases occurred within 2 to 3 months of starting dimethyl fumarate but some instances with more prolonged latency were reported. The typical case presented with acute hepatitis like features, marked increases in serum aminotransferase levels, and only modest alkaline phosphatase elevations. Immunoallergic features and autoantibodies were not frequent and all patients recovered upon stopping the medication with no reported instances of chronic injury or hepatic failure.</p>
+          <p>Cases of clinically apparent liver injury have not been reported with diroximel or monomethyl fumarate but the clinical experience with these agents has been limited. Because the side effect profiles of these three pro-drugs of monomethyl fumarate are similar, it is suspected that all three are rare causes of clinically apparent liver injury.</p>
+          <p>Likelihood score for dimethyl fumarate: C (probable rare cause of clinically apparent liver injury).</p>
+          <p>Likelihood score for diroximel fumarate: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+          <p>Likelihood score for monomethyl fumarate: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="DimethylFumarate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which dimethyl fumarate causes liver injury is not known but is likely to be idiosyncratic. It is extensively metabolized by serum and tissue esterases to monomethyl fumarate, which is further metabolized in the liver to fumarate which enters the tricarboxylic acid (TCA) cycle. Dimethyl fumarate metabolism is independent of the cytochrome P450 system.</p>
+        </sec>
+        <sec id="DimethylFumarate.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While chronic therapy with dimethyl fumarate can be associated with mild-to-moderate serum aminotransferase elevations, it has been linked only rarely to cases of clinically apparent liver injury. There is reason to suspect that there is cross sensitivity of the hepatic injury from dimethyl fumarate and either diroximel or monomethyl fumarate, but no reason to suspect cross sensitivity to hepatic injury with other agents used to treat multiple sclerosis.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MultipleSclerosisAge" document-type="chapter">Multiple Sclerosis Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="DimethylFumarate.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="DimethylFumarate.Case_1_Acute_hepatitis">
+          <title>Case 1. Acute hepatitis arising after 4 weeks of dimethyl fumarate therapy.(<xref ref-type="bibr" rid="DimethylFumarate.REF.1">1</xref>)</title>
+          <p>A 26 year old woman with multiple sclerosis was found to have de novo elevations in serum aminotransferase levels (ALT 284 U/L) 4 weeks after starting dimethyl fumarate (120 mg twice daily). The drug was stopped, but over the next 4 weeks she developed fatigue, nausea, abdominal pain and dark urine followed by jaundice. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis and was not taking other medications. On examination, she was jaundiced, but had no rash, fever or signs of hepatic failure. Serum bilirubin was 9.0 mg/dL, ALT 1256 U/L, alkaline phosphatase 133 U/L and INR 1.58. Other causes of acute liver injury were excluded. Tests for hepatitis A, B, C and E were negative as were autoantibodies. Imaging of the liver showed no evidence of biliary obstruction. A liver biopsy showed acute hepatitis with bridging necrosis. There was bile duct injury but no duct loss, hepatic steatosis or fibrosis. During the next month, symptoms resolved and liver tests decreased towards the normal range. When seen a year later all blood tests were normal and she was being managed on glatiramer acetate.</p>
+          <sec id="DimethylFumarate.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="DimethylFumarate.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_DimethylFumarate.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_DimethylFumarate.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Dimethyl fumarate (120 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_DimethylFumarate.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_DimethylFumarate.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=36)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_DimethylFumarate.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_DimethylFumarate.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_DimethylFumarate.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_DimethylFumarate.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">4 weeks to ALT elevations, 7-8 weeks to jaundice</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_DimethylFumarate.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_DimethylFumarate.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Within 1 to 2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_DimethylFumarate.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_DimethylFumarate.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None reported</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="DimethylFumarate.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="DimethylFumarate.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_DimethylFumarate.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Days After<break/>Starting</th>
+                    <th id="hd_h_DimethylFumarate.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Days After<break/>Stopping</th>
+                    <th id="hd_h_DimethylFumarate.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_DimethylFumarate.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_DimethylFumarate.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_DimethylFumarate.Td_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1 hd_h_DimethylFumarate.Td_1_1_1_2 hd_h_DimethylFumarate.Td_1_1_1_3 hd_h_DimethylFumarate.Td_1_1_1_4 hd_h_DimethylFumarate.Td_1_1_1_5 hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" colspan="6" align="center" scope="col" rowspan="1">Dimethyl fumarate started (120 mg twice daily</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">284</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">Drug stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">1256</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">133</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">9.0</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">Jaundice and symptoms</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">4.5 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">941</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">123</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">11.6</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">729</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">129</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">15.4</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">342</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">137</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">48</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">74</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">&#x0003e; 1 year</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">&#x0003e; 1 year</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1">On glatiramer</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_1 hd_h_DimethylFumarate.Td_1_1_1_2" valign="middle" colspan="2" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;104</bold>
+</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_DimethylFumarate.Td_1_1_1_6" valign="middle" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="DimethylFumarate.Comment">
+            <title>Comment</title>
+            <p>This patient was found to have serum enzyme elevations four weeks after starting dimethyl fumarate. The aminotransferase were approximately 8 times the upper limit of normal and had been normal when tested before starting the multiple sclerosis agent. The drug was promptly discontinued, but the patient went on to develop clinical symptoms and jaundice and four weeks later had biochemical and histological features of an acute hepatitis. She was symptomatic for several weeks, but ultimately recovered without specific therapy. This was the initial report of clinically apparent liver injury due to dimethyl fumarate which had been associated with a modest rate of serum enzyme elevations during registration trials. This patient was fortunate to have had the drug stopped promptly; a delay may have led to a more severe and consequential course. Most instances of liver injury associated with dimethyl fumarate have arisen during the first 1 to 2 months of therapy and routine monitoring, as was done for this patient, is not unreasonable.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="DimethylFumarate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Dimethyl Fumarate &#x02013; Generic, Tecfidera&#x000ae;</p>
+        <p>Diroximel Fumarate &#x02013; Vumerity&#x000ae;</p>
+        <p>Monomethyl Fumarate &#x02013; Bafiertam&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Multiple Sclerosis Agents</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Dimethyl+Fumarate">COMPLETE LABELING</ext-link> (Dimethyl Fumarate)</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Diroximel+Fumarate">COMPLETE LABELING</ext-link> (Diroximel Fumarate)</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Monomethyl+Fumarate">COMPLETE LABELING</ext-link> (Monomethyl Fumarate)</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="DimethylFumarate.CHEMICAL_FORMULA_AND_ST">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="DimethylFumarate.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_DimethylFumarate.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_DimethylFumarate.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_DimethylFumarate.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_DimethylFumarate.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Dimethyl Fumarate</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134977508">624-49-7</ext-link>
+</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C6-H8-O4</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134977508" document-id-type="sid" document-type="summary" object-id="134977508" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Diroximel Fumarate</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://316908545">1577222-14-0</ext-link>
+</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C11-H13-N-O6</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="316908545" document-id-type="sid" document-type="summary" object-id="316908545" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Monomethyl Fumarate</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135060089">2756-87-8</ext-link>
+</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C5-H6-O4</td>
+                <td headers="hd_h_DimethylFumarate.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135060089" document-id-type="sid" document-type="summary" object-id="135060089" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="DimethylFumarate.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="DimethylFumarate.CITED_REFERENCES.reflist0">
+          <ref id="DimethylFumarate.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>J&#x000fc;ngst</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Lammert</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Severe drug-induced liver injury related to therapy with dimethyl fumarate.</article-title>
+              <source>Hepatology</source>
+              <year>2016</year>
+              <volume>64</volume>
+              <fpage>1367</fpage>
+              <lpage>9</lpage>
+              <pub-id pub-id-type="pmid">27228386</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="DimethylFumarate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 September 2022</p>
+        <ref-list id="DimethylFumarate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="DimethylFumarate.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 697-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; dimethyl fumarate is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.kaplowitz.2013">
+            <mixed-citation publication-type="book">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013 does not discuss the drugs for multiple sclerosis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.krensky.2011">
+            <mixed-citation publication-type="book">Krensky AM, Bennett WM, Vincenti F. A case study: immunotherapy for multiple sclerosis. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1025-7.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/204063Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/204063Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and clinical review of data provided in support of the 2013 approval of dimethyl fumarate as therapy of relapsing-remitting multiple sclerosis in adults, mentions that rates of ALT elevations leading to discontinuation were less than 1% in dimethyl fumarate treated and placebo recipients and there were no serious hepatic adverse events attributed to therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.fda_1">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211855Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211855Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and clinical review of data provided in support of the 2019 approval of diroximel fumarate as therapy of relapsing multiple sclerosis in adults, mentions that in one study of 118 patients ALT elevations above 3 times ULN arose in 2.5%, but none were above 5 times ULN and none were associated with jaundice or considered a severe adverse event).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.fda_2">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/210296Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/210296Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and clinical review of data provided in support of the 2020 approval of monomethyl fumarate as therapy of relapsing multiple sclerosis in adults, states that the basis for approval was demonstration of bioequivalence to dimethyl fumarate and not studies of efficacy or safety; in analyses of multiple open label studies in approximately 200 patients that there were no serious adverse events; no mention of ALT or bilirubin levels or hepatobiliary adverse events).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.mrowietz.1998.456">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mrowietz</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Christophers</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Altmeyer</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Treatment of psoriasis with fumaric acid esters: results of a prospective multicentre study. German Multicentre Study.</article-title>
+              <source>Br J Dermatol</source>
+              <year>1998</year>
+              <volume>138</volume>
+              <fpage>456</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Open label trial of fumarate esters in 101 patients with psoriasis; major side effects were gastrointestinal complaints [56%] and flushing [31%]; biochemical laboratory results were reported to have not changed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9580799</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.hoefnagel.2003.363">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hoefnagel</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Thio</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Willemze</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bouwes Bavinck</surname><given-names>JN</given-names></name>
+</person-group>
+              <article-title>Long-term safety aspects of systemic therapy with fumaric acid esters in severe psoriasis.</article-title>
+              <source>Br J Dermatol</source>
+              <year>2003</year>
+              <volume>149</volume>
+              <fpage>363</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective review of tolerance of fumarate ester therapy of psoriasis in 66 patients treated for up to 14 years; side effects included flushing [55%], diarrhea [42%], and decrease in lymphocyte counts; ALT elevations occurred in 2 and GGT in 14 patients, but were transient, not associated with jaundice and led to discontinuation in only 2 patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12932244</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.harries.2005.549">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Harries</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Chalmers</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Griffiths</surname><given-names>CE</given-names></name>
+</person-group>
+              <article-title>Fumaric acid esters for severe psoriasis: a retrospective review of 58 cases.</article-title>
+              <source>Br J Dermatol</source>
+              <year>2005</year>
+              <volume>153</volume>
+              <fpage>549</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 58 patients with psoriasis who were treated with fumarate esters; side effects of flushing, diarrhea and abdominal discomfort were common; 4 patients developed liver enzyme abnormalities, prompting discontinuation in 3, but no details provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16120141</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.schimrigk.2006.604">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schimrigk</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Brune</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hellwig</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Lukas</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bellenberg</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Rieks</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hoffmann</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Oral fumaric acid esters for the treatment of active multiple sclerosis: an open-label, baseline-controlled pilot study.</article-title>
+              <source>Eur J Neurol</source>
+              <year>2006</year>
+              <volume>13</volume>
+              <fpage>604</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Open label study of fumarate esters in 10 patients with multiple sclerosis; 4 patients developed ALT elevations [less than twice ULN], but all resolved without modification of dose).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16796584</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.kappos.2008.1463">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kappos</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gold</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Macmanus</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Havrdova</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Limmroth</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Polman</surname><given-names>CH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>BG-12 Phase IIb Study Investigators. Efficacy and safety of oral fumarate in patients with relapsing-remitting multiple sclerosis: a multicentre, randomised, double-blind, placebo-controlled phase IIb study.</article-title>
+              <source>Lancet</source>
+              <year>2008</year>
+              <volume>372</volume>
+              <issue>9648</issue>
+              <fpage>1463</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of 3 doses of dimethyl fumarate vs placebo for 24 weeks in 257 adults with relapsing-remitting multiple sclerosis; elevations in serum aminotransferase levels above 3 times the ULN were more common in patients on the highest doses of dimethyl fumarate, but were not accompanied by symptoms or increases in serum bilirubin and all resolved upon discontinuation; no specific details provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18970976</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.gold.2011.37">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gold</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Oral therapies for multiple sclerosis: a review of agents in phase III development or recently approved.</article-title>
+              <source>CNS Drugs</source>
+              <year>2011</year>
+              <volume>25</volume>
+              <fpage>37</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of oral medications for multiple sclerosis under development including dimethyl fumarate [BG-12], fingolimod, teriflunomide, laquinimod and cladribine; no discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21128693</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.fox.2012.1087">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fox</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Phillips</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Hutchinson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Havrdova</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Kita</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>M</given-names></name>
+<etal/>
+<collab>CONFIRM Study Investigators</collab>
+</person-group>
+              <article-title>Placebo-controlled phase 3 study of oral BG-12 or glatiramer in multiple sclerosis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>367</volume>
+              <fpage>1087</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of dimethyl fumarate vs glatiramer vs placebo in 1417 patients with relapsing multiple sclerosis; ALT elevations above 3 times ULN occurred in 6% of dimethyl fumarate, 7% of glatiramer and 6% of placebo recipients, and no patient developed jaundice or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22992072</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.gold.2012.1098">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gold</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kappos</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Giovannoni</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Selmaj</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Tornatore</surname><given-names>C</given-names></name>
+<etal/>
+<collab>DEFINE Study Investigators</collab>
+</person-group>
+              <article-title>Placebo-controlled phase 3 study of oral BG-12 for relapsing multiple sclerosis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>367</volume>
+              <fpage>1098</fpage>
+              <lpage>107</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of 2 doses of dimethyl fumarate vs placebo for up to 2 years in 1234 patients with relapsing multiple sclerosis; transient ALT elevations above 3 times ULN occurred in 6% of dimethyl fumarate vs 3% of placebo recipients, but no patient developed jaundice or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22992073</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.oh.2013.591">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Oh</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>O'Connor</surname><given-names>PW</given-names></name>
+</person-group>
+              <article-title>Safety, tolerability, and efficacy of oral therapies for relapsing-remitting multiple sclerosis.</article-title>
+              <source>CNS Drugs</source>
+              <year>2013</year>
+              <volume>27</volume>
+              <fpage>591</fpage>
+              <lpage>09</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of efficacy and safety or oral agents for multiple sclerosis, including fingolimod, teriflunomide, dimethyl fumarate, laquinimod and cladribine, none of which have raised major issues of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23801528</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.pawate.2015.104">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pawate</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bagnato</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Newer agents in the treatment of multiple sclerosis.</article-title>
+              <source>Neurologist</source>
+              <year>2015</year>
+              <volume>19</volume>
+              <fpage>104</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of the efficacy and safety of new drugs for multiple sclerosis mentions that fingolimod, laquinimod and teriflunomide have been associated with serum enzyme elevations during treatment, but no specifics given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25888198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.english.2015.691">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>English</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Aloi</surname><given-names>JJ</given-names></name>
+</person-group>
+              <article-title>New FDA-Approved Disease-Modifying Therapies for Multiple Sclerosis.</article-title>
+              <source>Clin Ther</source>
+              <year>2015</year>
+              <volume>37</volume>
+              <fpage>691</fpage>
+              <lpage>715</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of efficacy and safety of the newer disease modifying therapies of multiple sclerosis lists ALT elevations as adverse events associated with fingolimod, teriflunomide and dimethyl fumarate, but not peginterferon beta or alemtuzumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25846320</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.dubey.2015.339">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dubey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Kieseier</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Hartung</surname><given-names>HP</given-names></name>
+<name name-style="western"><surname>Hemmer</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Warnke</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Menge</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Miller-Little</surname><given-names>WA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Dimethyl fumarate in relapsing-remitting multiple sclerosis: rationale, mechanisms of action, pharmacokinetics, efficacy and safety.</article-title>
+              <source>Expert Rev Neurother</source>
+              <year>2015</year>
+              <volume>15</volume>
+              <fpage>339</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, pharmacology, efficacy and safety of dimethyl fumarate in multiple sclerosis, mentions that aminotransferase elevations occurred in 25% of patients, but these abnormalities generally resolved and discontinuation was required in &#x0003c;1% of patients; no mention of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25800129</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.sheremata.2015.161">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sheremata</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Rammohan</surname><given-names>KW</given-names></name>
+</person-group>
+              <article-title>Dimethyl fumarate for treating relapsing multiple sclerosis.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2015</year>
+              <volume>14</volume>
+              <fpage>161</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the structure, mechanism of action, clinical efficacy and safety of dimethyl fumarate, mentions that the most common side effects are flushing and gastrointestinal complaints [pain, diarrhea and nausea] and that laboratory abnormalities include increase in aminotransferase levels and decrease in lymphocytes; no mention of clinically apparent hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25382392</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 7 [0.8%] were attributed to interferon beta, but none were linked to dimethyl fumarate or other drugs used for multiple sclerosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.j_ngst.2016.1367">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>J&#x000fc;ngst</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Lammert</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Severe drug-induced liver injury related to therapy with dimethyl fumarate.</article-title>
+              <source>Hepatology</source>
+              <year>2016</year>
+              <volume>64</volume>
+              <fpage>1367</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(26 year old woman developed abnormal liver tests 4 weeks after starting dimethyl fumarate for multiple sclerosis, subsequently developing jaundice despite prompt discontinuation [bilirubin 9.0 mg/dL, ALT 1256 U/L, Alk P 133 U/L, INR 1.6], resolving within 2 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27228386</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.mu_oz.2017.1947">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mu&#x000f1;oz</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Kulick</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Kortepeter</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Levin</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Avigan</surname><given-names>MI</given-names></name>
+</person-group>
+              <article-title>Liver injury associated with dimethyl fumarate in multiple sclerosis patients.</article-title>
+              <source>Mult Scler.</source>
+              <year>2017</year>
+              <volume>23</volume>
+              <fpage>1947</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 14 cases of liver injury attributed to dimethyl fumarate reported to the FDA during the first 3 years after its approval, 12 were women, 2 men, ages 25 to 56 years, jaundice in 8, average latency 101 days [4 to 302], mostly hepatocellular, improving with discontinuation, none fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28086032</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.antonazzo.2019.1633">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Antonazzo</surname><given-names>IC</given-names></name>
+<name name-style="western"><surname>Poluzzi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Forcesi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Riise</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Bjornevik</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Baldin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Muratori</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury with drugs used for multiple sclerosis: a contemporary analysis of the FDA Adverse Event Reporting System.</article-title>
+              <source>Mult Scler.</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>1633</fpage>
+              <lpage>1640</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of spontaneous reports of liver injury to the FDA found that most drugs used to treat multiple sclerosis have relative odds ratio for hepatotoxicity, most prominent being interferon beta, natalizumab, alemtuzumab, mitoxantrone and fampridine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30230957</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.diebold.2019.e594">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Diebold</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fischer-Barnicol</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Tsagkas</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kuhle</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kappos</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Derfuss</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>D&#x000e9;card</surname><given-names>BF</given-names></name>
+</person-group>
+              <article-title>Hepatitis E virus infections in patients with MS on oral disease-modifying treatment.</article-title>
+              <source>Neurol Neuroimmunol Neuroinflamm.</source>
+              <year>2019</year>
+              <volume>6</volume>
+              <elocation-id>e594</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 2016 and 2019, 4 patients with multiple sclerosis developed unexplained liver test abnormalities which upon testing were found to be acute hepatitis E, including 3 patients on fingolimod and 1 on dimethyl fumarate [3 symptomatic, 2 jaundiced, ALT 180-2545 U/L], all resolved and most could restart the medication without recurrence of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31454772</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.derfuss.2020.336">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Derfuss</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mehling</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Papadopoulou</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Kappos</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Advances in oral immunomodulating therapies in relapsing multiple sclerosis.</article-title>
+              <source>Lancet Neurol.</source>
+              <year>2020</year>
+              <volume>19</volume>
+              <fpage>336</fpage>
+              <lpage>347</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of relative efficacy and safety of new oral disease modifying agents for multiple sclerosis including monomethyl fumarate, which is claimed to have fewer gastrointestinal adverse effects; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32059809</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.wynn.2020.102335">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wynn</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lategan</surname><given-names>TW</given-names></name>
+<name name-style="western"><surname>Sprague</surname><given-names>TN</given-names></name>
+<name name-style="western"><surname>Rousseau</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Fox</surname><given-names>EJ</given-names></name>
+</person-group>
+              <article-title>Monomethyl fumarate has better gastrointestinal tolerability profile compared with dimethyl fumarate.</article-title>
+              <source>Mult Scler Relat Disord.</source>
+              <year>2020</year>
+              <volume>45</volume>
+              <elocation-id>102335</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 210 adults with relapsing multiple sclerosis treated with dimethyl [240 mg] or monomethyl fumarate [190 mg] daily for 5 weeks, gastrointestinal adverse events were numerically but not statistically less frequent with monomethyl than dimethyl fumarate [52% vs 62%] as were ALT elevations as well [0% vs 2%], but there were no severe adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32629403</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.naismith.2020.185">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Naismith</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Wundes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ziemssen</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Jasinska</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Freedman</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Lembo</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Selmaj</surname><given-names>K</given-names></name>
+<etal/>
+<collab>EVOLVE-MS-2 Study Group</collab>
+</person-group>
+              <article-title>Diroximel fumarate demonstrates an improved gastrointestinal tolerability profile compared with dimethyl fumarate in patients with relapsing-remitting multiple sclerosis: results from the randomized, double-blind, phase III EVOLVE-MS-2 Study.</article-title>
+              <source>CNS Drugs.</source>
+              <year>2020</year>
+              <volume>34</volume>
+              <fpage>185</fpage>
+              <lpage>196</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 696 patients with relapsing-remitting multiple sclerosis treated with diroximel fumarate for up to 2 years, adverse events arose in 85% but were mostly mild or moderate with discontinuations, because of side effects in only 6.3% and ALT elevations above 3 times ULN in 2.3%, above 5 times ULN in 1% and resulting in discontinuation in only 0.6%, no patient developing ALT elevations and jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31953790</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.naismith.2020.1729">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Naismith</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Wolinsky</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Wundes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>LaGanke</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Obradovic</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Freedman</surname><given-names>MS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Diroximel fumarate (DRF) in patients with relapsing-remitting multiple sclerosis: Interim safety and efficacy results from the phase 3 EVOLVE-MS-1 study.</article-title>
+              <source>Mult Scler.</source>
+              <year>2020</year>
+              <volume>26</volume>
+              <fpage>1729</fpage>
+              <lpage>1739</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 504 patients with relapsing multiple sclerosis treated with either diroximel [DRF] or dimethyl fumarate [DMF] for 5 weeks, gastrointestinal side effects were less frequent with DRF 35% vs 49%, and overall discontinuation rates were lower [1.6% vs 5.6%], while rates of ALT elevations were similar [5.5% vs 3.6%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31680631</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.ng.2021.239">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ng</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Kingwell</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Marrie</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Carruthers</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Tremlett</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Adherence to laboratory monitoring among people taking oral drugs for multiple sclerosis: A Canadian population-based study.</article-title>
+              <source>Mult Scler.</source>
+              <year>2021</year>
+              <volume>27</volume>
+              <fpage>239</fpage>
+              <lpage>249</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of data from Canadian health records found that liver biochemical tests monitoring was done in a high proportion of patients with multiple sclerosis starting dimethyl fumarate [91% before therapy, 89% during months 1-6, and 89% during months 7-12]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32141376</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF31">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for multiple sclerosis.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1620</issue>
+              <fpage>42</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of drugs for multiple sclerosis mentions that dimethyl fumarate can cause hepatotoxicity and that diroximel fumarate provides similar monomethyl fumarate [the active metabolite] exposure and has similar adverse events, except for fewer gastrointestinal side effects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33976089</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.liseno.2021.349">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liseno</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lager</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Shankar</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Mendoza</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Lewin</surname><given-names>JB</given-names></name>
+</person-group>
+              <article-title>Multiple sclerosis patients treated with diroximel fumarate in the real-world setting have high rates of persistence and adherence.</article-title>
+              <source>Neurol Ther.</source>
+              <year>2021</year>
+              <volume>10</volume>
+              <fpage>349</fpage>
+              <lpage>360</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 160 patients with multiple sclerosis treated with diroximel fumarate, which reportedly has fewer gastrointestinal side effects, for up to 10 months, 89% remained on therapy and gastrointestinal adverse events were uncommon resulting in discontinuation in only 3.8% of patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33846959</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.biolato.2021.861">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Biolato</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bianco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lucchini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mirabella</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Grieco</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>The disease-modifying therapies of relapsing-remitting multiple sclerosis and liver injury: a narrative review.</article-title>
+              <source>CNS Drugs.</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <fpage>861</fpage>
+              <lpage>880</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the pre- and postmarketing data on hepatotoxicity of disease modifying therapies of relapsing forms of multiple sclerosis, none of which are completely free of the potential of hepatotoxicity, including dimethyl fumarate which was reported to have a high rate of minor aminotransferase elevations but only rare instances of values rising above 5 times ULN in preregistration studies, yet subsequently, cases of clinically apparent liver injury with symptoms and jaundice were reported such that routine monitoring of liver tests especially during the first year of therapy is now recommended).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34319570</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="DimethylFumarate.REF.swindell.2022.461">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Swindell</surname><given-names>WR</given-names></name>
+<name name-style="western"><surname>Bojanowski</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Chaudhuri</surname><given-names>RK</given-names></name>
+</person-group>
+              <article-title>Transcriptomic analysis of fumarate compounds identifies unique effects of isosorbide di-(methyl fumarate) on NRF2, NF-kappaB and IRF1 pathway genes.</article-title>
+              <source>Pharmaceuticals (Basel)</source>
+              <year>2022</year>
+              <volume>15</volume>
+              <fpage>461</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of gene expression by human fetal astrocytes by in vitro exposure to monomethyl fumarate and diroximel fumarate showed evidence of NRF2 activation and NF&#x003ba;B suppression by both).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35455458</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="DimethylFumarate.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Dimethyl+Fumarate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Dimethyl Fumarate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Dimethyl+Fumarate">Trials on Dimethyl Fumarate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>3</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Diroximel+Fumarate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Diroximel Fumarate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>4</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Diroximel+Fumarate">Trials on Diroximel Fumarate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>5</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Monomethyl+Fumarate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Monomethyl Fumarate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>6</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Monomethyl+Fumarate">Trials on Monomethyl Fumarate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

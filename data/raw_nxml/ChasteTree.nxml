@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ChasteTree" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ChasteTree</book-part-id>
+      <title-group>
+        <title>Chaste Tree</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Chaparral" document-type="chapter">Chaparral</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ChelatingAgents" document-type="chapter">Chelating Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ChasteTree.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="ChasteTree.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Chaste tree is an extract of the small flowering tree <italic toggle="yes">Vitex agnus-castus</italic> which has been used in traditional medicine for women&#x02019;s health conditions including menstrual pain, premenstrual tension and infertility. Oral forms of chaste tree have not been implicated in serum aminotransferase elevations or in instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="ChasteTree.Background">
+          <title>Background</title>
+          <p>Chaste tree is derived from fresh or dried, green, sterile shoots of the plant <italic toggle="yes">Vitex agnus-castus</italic>, a small flowering tree native to Asia and the Mediterranean regions but which is now widely cultivated. In the past it was believed to decrease sexual desire, for which reason it was named &#x0201c;chaste tree&#x0201d;, which is also the meaning of &#x0201c;agnus&#x0201d; (in Greek) and &#x0201c;castus&#x0201d; (in Latin). Extracts of chaste tree are prepared from the leaves, tender stems, flowers, and seeds and provided as syrup, elixir, powder, or a component of a multiingredient dietary supplement. Chemical components of chaste tree extracts include flavonoids, glycosides, organic acids, alkaloids, essential oils, diterpenoids and sterols, but its active ingredient is unknown. In traditional medicine, chaste tree has been purported to be useful for premenstrual syndrome, menstrual cramps, breast pain associated with the menstrual cycle, and infertility, but it has not been shown to be effective for any of these conditions in adequately controlled, prospective clinical trials. Chaste tree is found in multiple commercial forms including liquid extracts, powders and capsules. The recommended daily dose ranges widely, from 20 mg to 100 mg daily to as high as 1 gram three times daily. Chaste tree is generally considered to be safe and side effects are few and generally mild, but may include nausea, indigestion, abdominal discomfort, itching and headache. Rare instances of hypersensitivity reactions, skin rash and allergic dermatitis have been described.</p>
+        </sec>
+        <sec id="ChasteTree.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In several short term clinical trials, chaste tree in conventional oral doses was typically described as having no or only mild adverse side effects, with no mention of either hepatotoxicity or ALT elevations. Furthermore, in multiple large series of drug and herbal product induced liver injury no cases of chaste tree associated injury have been reported. Single case reports of liver injury with jaundice attributed to chaste tree have been reported to manufacturers, but other possible diagnoses were not adequately excluded. Thus, there is little evidence that chaste tree in conventional oral doses causes clinically apparent liver injury with jaundice in humans. Because of its possible hormonal effects, use of high doses in persons with preexisting liver disease or cirrhosis is discouraged, and its use is not recommended in pregnant or breastfeeding women, or in women on birth control or hormone replacement.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="ChasteTree.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which chaste tree might cause liver injury is unknown. When present in multiingredient dietary supplements, the contribution of other components or toxic contaminants must be considered.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="chapter">Herbal and Dietary Supplements</related-object></p>
+          <p>Other names: Vitex, Chaste Berry, Lilac Chaste Tree, Monk&#x02019;s Pepper.</p>
+        </sec>
+      </sec>
+      <sec id="ChasteTree.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Chaste tree &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+        <p>
+<bold>SUMMARY INFORMATION</bold>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.nccih.nih.gov/health/chasteberry">Fact Sheet at National Center for Complementary and Integrative Health, NIH</ext-link>
+</p>
+      </sec>
+      <sec id="ChasteTree.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="ChasteTree.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_ChasteTree.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_ChasteTree.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_ChasteTree.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_ChasteTree.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_ChasteTree.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Chaste Tree</td>
+                <td headers="hd_h_ChasteTree.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/135346033">91722-47-3</ext-link>
+</td>
+                <td headers="hd_h_ChasteTree.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Herbal</td>
+                <td headers="hd_h_ChasteTree.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="ChasteTree.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 January 2023</p>
+        <ref-list id="ChasteTree.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="ChasteTree.REF1">
+            <mixed-citation publication-type="other">Abbreviations: HDS, herbal and dietary supplements.</mixed-citation>
+          </ref>
+          <ref id="ChasteTree.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not chaste tree).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ChasteTree.REF.liu.2007">
+            <mixed-citation publication-type="book">Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; no mention of chaste tree).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ChasteTree.REF4">
+            <mixed-citation publication-type="book">Chaste Tree. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 185-7.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ChasteTree.REF.lauritzen.1997.183">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lauritzen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reuter</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Repges</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>B&#x000f6;hnert</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>U</given-names></name>
+</person-group>
+              <article-title>Treatment of premenstrual tension syndrome with Vitex agnus castus controlled, double-blind study versus pyridoxine.</article-title>
+              <source>Phytomedicine.</source>
+              <year>1997</year>
+              <volume>4</volume>
+              <fpage>183</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 127 women with premenstrual tension syndrome treated with a commercial chaste tree product or pyridoxine for 3 menstrual cycles, symptom scores improved to a similar extent in both groups and adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23195474</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.berger.2000.150">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Berger</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schaffner</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Schrader</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Meier</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Brattstr&#x000f6;m</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Efficacy of Vitex agnus castus L. extract Ze 440 in patients with pre-menstrual syndrome (PMS).</article-title>
+              <source>Arch Gynecol Obstet.</source>
+              <year>2000</year>
+              <volume>264</volume>
+              <fpage>150</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 50 patients with premenstrual syndrome treated with a chaste tree extract [20 mg daily] for 3 menstrual cycles, symptom scores decreased by 42.5% and gradually returned to baseline after stopping; there were no serious adverse events and &#x0201c;laboratory evaluations did not reveal any relevant influence of treatment&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11129515</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.loch.2000.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Loch</surname><given-names>EG</given-names></name>
+<name name-style="western"><surname>Selle</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Boblitz</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Treatment of premenstrual syndrome with aphytopharmaceutical formulation containing Vitex agnus castus.</article-title>
+              <source>J Womens Health Gend Based Med.</source>
+              <year>2000</year>
+              <volume>9</volume>
+              <fpage>315</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a survey of 1643 women with premenstrual syndrome taking chaste tree supplements, most patients and providers viewed the therapy as beneficial and adverse events were reported in only 1% of subjects, most of which were mild and none were serious).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10787228</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.stedman.2002.195">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stedman</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Herbal hepatotoxicity.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2002</year>
+              <volume>22</volume>
+              <fpage>195</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review and description of patterns of liver injury due to herbals, including discussion of potential risk factors, and herb-drug interactions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12016550</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.daniele.2005.319">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Daniele</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Thompson Coon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pittler</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Ernst</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Vitex agnus castus: a systematic review of adverse events.</article-title>
+              <source>Drug Saf.</source>
+              <year>2005</year>
+              <volume>28</volume>
+              <fpage>319</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of adverse events associated with chaste tree identified 33 studies including 5 controlled trials, postmarketing surveys, spontaneous reports to regulatory groups, and information from manufacturers, and concluded that most adverse events from chaste tree are mild and transient, most commonly nausea, headache, gastrointestinal upset, acne, pruritus and rash; along spontaneous reports was a case of Stevens Johnson syndrome and one of hepatitis with jaundice in a 39 year old woman on chaste tree from 60 days which resolved when the supplement was stopped).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15783241</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.rotem.2007.117">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rotem</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kaplan</surname><given-names>B.</given-names></name>
+</person-group>
+              <article-title>Phyto-Female Complex for the relief of hot flushes, night sweats and quality of sleep: randomized, controlled, double-blind pilot study.</article-title>
+              <source>Gynecol Endocrinol.</source>
+              <year>2007</year>
+              <volume>23</volume>
+              <fpage>117</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 44 women with menopausal symptoms treated with a multiingredient supplement [black cohosh, milk thistle, red clover, ginseng and chaste tree] or placebo for 3 months, symptoms improved more with the supplement, while ALT and AST levels did not change in either group).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17454163</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.he.2009.99">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>He</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Geng</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Treatment for premenstrual syndrome with Vitex agnus castus: a prospective, randomized, multi-center placebo controlled study in China.</article-title>
+              <source>Maturitas.</source>
+              <year>2009</year>
+              <volume>63</volume>
+              <fpage>99</fpage>
+              <lpage>103</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 208 women with moderate-to-severe premenstrual syndrome treated with chaste tree extract [40 mg] or placebo once daily for up to 3 cycles, symptom scores decreased more with chaste tree [from 19.2 to 6.4] than placebo [28.1 to 12.6], adverse event rates were similar [8.5% vs 7.6%] none of which were serious, and no significant differences were found in routine chemical laboratory test results).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19269753</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.jacobsson.2009.1039">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobsson</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>J&#x000f6;nsson</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Gerd&#x000e9;n</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>H&#x000e4;gg</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2009</year>
+              <volume>18</volume>
+              <fpage>1039</fpage>
+              <lpage>47</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry found none attributed to chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19650152</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, including several herbal mixtures, usnic acid, Ma Huang, black cohosh, and Hydroxycut, but not chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.stickel.2011.595">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stickel</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kessebohm</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Weimann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Seitz</surname><given-names>HK</given-names></name>
+</person-group>
+              <article-title>Review of liver injury associated with dietary supplements.</article-title>
+              <source>Liver Int</source>
+              <year>2011</year>
+              <volume>31</volume>
+              <fpage>595</fpage>
+              <lpage>605</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of current understanding of liver injury from herbals and dietary supplements focusing upon Herbalife and Hydroxycut products, green tea, usnic acid, noni juice, Chinese herbs, vitamin A and anabolic steroids; chaste tree is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21457433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.teschke.2012.1543">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teschke</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wolff</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Frenzel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schulze</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Eickhoff</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+              <source>Liver Int</source>
+              <year>2012</year>
+              <volume>32</volume>
+              <fpage>1543</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements but does not list or mention chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22928722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, 15 of which [16%] were attributed to HDS products, but none were listed as containing chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.bunchorntavakul.2013.3">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bunchorntavakul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Review article: herbal and dietary supplement hepatotoxicity.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2013</year>
+              <volume>37</volume>
+              <fpage>3</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on HDS associated liver injury does not mention chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23121117</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.navarro.2013.715">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Seeff</surname><given-names>LB</given-names></name>
+</person-group>
+              <article-title>Liver injury induced by herbal complementary and alternative medicine.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2013</year>
+              <volume>17</volume>
+              <fpage>715</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the epidemiology, regulatory status, diagnosis, pathogenesis and causes of liver injury from herbal products with specific discussion of conjugated linoleic acid, ephedra, germander, green tea, usnic acid, flavocoxid, aloe vera, chaparral, greater celandine, black cohosh, comfrey, kava, skullcap, valerian, noni juice, pennyroyal and traditional herbal remedies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24099027</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.navarro.2014.1399">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Grant</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+              <source>Hepatology</source>
+              <year>2014</year>
+              <volume>60</volume>
+              <fpage>1399</fpage>
+              <lpage>408</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 839 cases of liver injury from drugs collected in the US between 2004 and 2013, 130 were due to HDS products, including 45 from body building agents [probably anabolic steroids] and 85 from diverse HDS products but no case was attributed specifically to chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25043597</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.navarro.2014.172">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity induced by herbal and dietary supplements.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>172</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the international regulatory framework for HDS products and the epidemiology, clinical presentation, diagnosis and cause of HDS associated liver injury with tables and discussion of the most commonly implicated agents, but does not include mention of chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24879982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.depypere.2014.191">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Depypere</surname><given-names>HT</given-names></name>
+<name name-style="western"><surname>Comhaire</surname><given-names>FH</given-names></name>
+</person-group>
+              <article-title>Herbal preparations for the menopause: beyond isoflavones and black cohosh.</article-title>
+              <source>Maturitas.</source>
+              <year>2014</year>
+              <volume>77</volume>
+              <issue>2</issue>
+              <fpage>191</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief review of herbal therapies for menopausal symptoms, mentions that chaste tree has not been shown to be effective for menopausal symptoms; no mention of adverse events or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24314619</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.seeff.2015.517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Seeff</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Herbal products and the liver: a review of adverse effects and mechanisms.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>517</fpage>
+              <lpage>532.e3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of herbal associated liver injury does not discuss chaste tree specifically).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25500423</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.brown.2017.472">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brown</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+              <source>Food Chem Toxicol</source>
+              <year>2017</year>
+              <volume>107</volume>
+              <fpage>472</fpage>
+              <lpage>501</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products, does not list or discuss chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27402097</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.medinacaliz.2018.1495">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Medina-Caliz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Garcia-Cortes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gonzalez-Jimenez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cabello</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Robles-Diaz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sanabria-Cabrera</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sanjuan-Jimenez</surname><given-names>R</given-names></name>
+<etal/>
+<collab>Spanish DILI Registry</collab>
+</person-group>
+              <article-title>Herbal and dietary supplement-induced liver injuries in the Spanish DILI Registry.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2018</year>
+              <volume>16</volume>
+              <fpage>1495</fpage>
+              <lpage>1502</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 856 cases of hepatotoxicity enrolled in the Spanish DILI Registry between 1994 and 2016, 32 were attributed to herbal products, the most frequent cause being green tea [n=8] and Herbalife products [n=6], while no case was attributed to chaste tree).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29307848</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.bessone.2022.e548">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Medina-Caliz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hernandez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Parana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mendizabal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schinoni</surname><given-names>MI</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>e548</fpage>
+              <lpage>e563</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American DILI Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5] and garcinia [n=3], while chaste tree was not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33434654</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ChasteTree.REF.ballotin.2021.5490">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ballotin</surname><given-names>VR</given-names></name>
+<name name-style="western"><surname>Bigarella</surname><given-names>LG</given-names></name>
+<name name-style="western"><surname>Brand&#x000e3;o</surname><given-names>ABM</given-names></name>
+<name name-style="western"><surname>Balbinot</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Balbinot</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Soldera</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Herb-induced liver injury: Systematic review and meta-analysis.</article-title>
+              <source>World J Clin Cases.</source>
+              <year>2021</year>
+              <volume>9</volume>
+              <fpage>5490</fpage>
+              <lpage>5513</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of the literature on herb induced liver injury identified 446 references describing 936 cases of liver injury due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90] Herbalife products [64], kava kava [62] and greater celandine [48]; no case was attributed to chaste tree or a vitex species).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34307603</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="ChasteTree.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Chaste+Tree+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Chaste Tree: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Chaste%20Tree">Trials on Chaste Tree: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

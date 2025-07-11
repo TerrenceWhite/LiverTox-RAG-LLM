@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="PolatuzumabVedotin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">PolatuzumabVedotin</book-part-id>
+      <title-group>
+        <title>Polatuzumab Vedotin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>11</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Plicamycin" document-type="chapter">Plicamycin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ShouWuPian" document-type="chapter">Polygonum Multiflorum</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="PolatuzumabVedotin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="PolatuzumabVedotin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Polatuzumab vedotin is a humanized monoclonal antibody conjugate which is used in the therapy of diffuse large B cell or high grade B cell lymphomas. Polatuzumab vedotin has been linked to transient mild-to-moderate serum enzyme elevations during therapy but has not been implicated in cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="PolatuzumabVedotin.Background">
+          <title>Background</title>
+          <p>Polatuzumab (pol&#x0201d; a tooz&#x02019; ue mab) vedotin (ve doe&#x02019; tin) is a humanized monoclonal antibody to the human CD79b cell surface marker which is highly expressed on rapidly dividing B cells and B cell precursors. The monoclonal antibody is conjugated using a linker sequence to a cytotoxic molecule, vedotin, a small molecule anti-mitotic agent also known as monomethyl auristatin E (MMAE). When polatuzumab vedotin binds to CD7b, it is internalized and the vedotin is released by the action of lysosomal enzymes which cleave the short linker molecule that joins the antibody and the cytotoxic molecule. The intracellular vedotin binds to microtubules preventing their participation in cell division resulting in apoptotic cell death of the rapidly dividing malignant B cells. This monoclonal antibody conjugate has been shown to be effective in inducing remissions in adults with diffuse large B cell and high grade B cell lymphomas when given with rituximab-based chemotherapeutic regimens and was given accelerated approval for these indications in the United States in 2019. Polatuzumab vedotin is available in powder for reconstitution in single dose vials of 30 and 140 mg under the brand name Polivy. The typical recommended dose regimen is 1.8 mg/kg administered by intravenous infusion once every 21 days for 6 cycles. Premedication before each infusion with antihistamines and antipyretics is recommended. Polatuzumab vedotin is given in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (R-CHP) for previously untreated diffuse large B cell and high-grade B cell lymphomas and in combination with rituximab and bendamustine for relapsed or refractory diffuse large B cell lymphoma. Side effects are common with these regimens, not all of which are due to the polatuzumab. Adverse effects may include infusion reactions, nausea, abdominal pain, anorexia, weakness, fatigue, headache, itching and rash. Less common, but potentially serious side effects included peripheral neuropathy, hypersensitivity reactions, severe myelosuppression, serious opportunistic infections, progressive multifocal leukoencephalopathy, tumor lysis syndrome, hepatotoxicity, and embryo-fetal toxicity. Polatuzumab vedotin should be administered only by physicians and health care providers with training and expertise in cancer chemotherapy and management of its potential adverse effects.</p>
+        </sec>
+        <sec id="PolatuzumabVedotin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In publications of the initial registration trials of polatuzumab vedotin, rates of serum aminotransferase and bilirubin elevations were not provided. In the FDA multidiscipline review of an expanded safety population, however, cases of marked serum aminotransferase elevations arose in 3.8% of recipients of polatuzumab vedotin and of concurrent elevations of serum aminotransferase and bilirubin levels in 2.3%. However, other causes of the abnormalities were often found. Nevertheless, monitoring of serum enzymes and bilirubin is recommended in the product label. After its approval and more widespread use, there have been no instances of clinically apparent liver injury reported in the literature, but instances of suspected liver injury from polatuzumab vedotin have been reported to the FDA.</p>
+          <p>Because polatuzumab is an immunosuppressive agent with specific activity against B cells, it may pose a risk for reactivation of viral infections including hepatitis B. While there were no reports of hepatitis B virus (HBV) reactivation in the preregistration trials of polatuzumab vedotin, patients with known chronic HBV infection were excluded from enrollment.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically significant liver injury and possibly reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="PolatuzumabVedotin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum aminotransferase elevations during polatuzumab vedotin therapy is not known, but it is likely due to direct toxicity of the vedotin conjugate rather than the monoclonal antibody. Because polatuzumab is given with multiple other cytotoxic antineoplastic agents (such as rituximab, cyclophosphamide and doxorubicin or bendamustine), the liver test abnormalities may be due to the other agents being used.</p>
+        </sec>
+        <sec id="PolatuzumabVedotin.Outcome_and_Managemen">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur during polatuzumab vedotin therapy are generally transient, mild and asymptomatic and do not require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal, if detected, should lead to more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels. Elevations above 20 times the ULN or any elevation accompanied by jaundice or symptoms should lead to prompt permanent discontinuation. Because polatuzumab vedotin is at least theoretically capable of inducing reactivation of hepatitis B, it is appropriate to test patients for HBsAg and anti-HBc before initiating therapy, and if markers are present, monitoring patients for HBV markers (HBV DNA, HBsAg) regularly or providing prophylaxis with antiviral agents active against HBV (tenofovir or entecavir) during therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Monoclonal Antibody Conjugates: Ado-Trastuzumab Emtansine, Benlantamab Mafodotin, Brentuximab Vedotin, Enfortumab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Sacituzumab Govitecan, Tisotumab Vedotin, Trastuzumab Deruxtecan</p>
+        </sec>
+      </sec>
+      <sec id="PolatuzumabVedotin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Polatuzumab Vedotin &#x02013; Polivy&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Polatuzumab%20Vedotin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="PolatuzumabVedotin.CHEMICAL_FORMULA_AND">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="PolatuzumabVedotin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_PolatuzumabVedotin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_PolatuzumabVedotin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_PolatuzumabVedotin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_PolatuzumabVedotin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_PolatuzumabVedotin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Polatuzumab Vedotin</td>
+                <td headers="hd_h_PolatuzumabVedotin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Polatuzumab-Vedotin">1313206-42-6</ext-link>
+</td>
+                <td headers="hd_h_PolatuzumabVedotin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_PolatuzumabVedotin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="PolatuzumabVedotin.ANNOTATED_BIBLIOGRAPH">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 November 2023</p>
+        <p>Abbreviations used: DLBCL, diffuse large B cell lymphoma.</p>
+        <ref-list id="PolatuzumabVedotin.ANNOTATED_BIBLIOGRAPH.reflist0">
+          <ref id="PolatuzumabVedotin.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761121Orig1s000SumR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761121Orig1s000SumR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline review of polatuzumab vedotin mentions that the most common side effects were diarrhea, nausea and vomiting, decreased appetite, neutropenia, thrombocytopenia, anemia, peripheral neuropathy, fever and fatigue, and in the registration placebo controlled trial ALT elevations occurred in 38% of patients [none above 5 times ULN] receiving polatuzumab vedotin combined with bendamustine and rituximab compared to 8% [3% above 5 times ULN] on bendamustine and rituximab alone, but in an extended safety cohort of 173 patients cases of marked ALT elevations arose in 3% to 4% of treated patient some of whom had concurrent bilirubin elevations which led to the recommendation for monitoring of routine liver tests during therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.morschhauser.2019.e254">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Morschhauser</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Flinn</surname>
+<given-names>IW</given-names></string-name>, <string-name name-style="western"><surname>Advani</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sehn</surname>
+<given-names>LH</given-names></string-name>, <string-name name-style="western"><surname>Diefenbach</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Kolibaba</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Press</surname>
+<given-names>OW</given-names></string-name>, <etal>et al.</etal>
+<article-title>Polatuzumab vedotin or pinatuzumab vedotin plus rituximab in patients with relapsed or refractory non-Hodgkin lymphoma: final results from a phase 2 randomised study (ROMULUS).</article-title>
+<source>Lancet Haematol.</source>
+<year>2019</year>;<volume>6</volume>:<fpage>e254</fpage>-<lpage>e265</lpage>.<annotation><p><italic toggle="yes">(Among 81 patients with refractory or relapsed diffuse large B cell lymphoma or follicular lymphoma treated with rituximab and either polatuzumab vedotin or pinatuzumab vedotin every 21 days for up to one year, the objective response rates ranged from 54-60% and complete response rates from 21-26%, while the most common adverse events were fatigue [54%], diarrhea [37%], nausea [35%], neutropenia [28%], and peripheral neuropathy [20%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30935953</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.sehn.2020.155">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sehn</surname>
+<given-names>LH</given-names></string-name>, <string-name name-style="western"><surname>Herrera</surname>
+<given-names>AF</given-names></string-name>, <string-name name-style="western"><surname>Flowers</surname>
+<given-names>CR</given-names></string-name>, <string-name name-style="western"><surname>Kamdar</surname>
+<given-names>MK</given-names></string-name>, <string-name name-style="western"><surname>McMillan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hertzberg</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Assouline</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Polatuzumab vedotin in relapsed or refractory diffuse large B-cell lymphoma.</article-title>
+<source>J Clin Oncol.</source>
+<year>2020</year>;<volume>38</volume>:<fpage>155</fpage>-<lpage>165</lpage>.<annotation><p><italic toggle="yes">(Among 80 adults with refractory or relapsed diffuse large B cell lymphoma treated with bendamustine and rituximab with or without polatuzumab vedotin, complete response rates were higher with the addition of the conjugated monoclonal [40% vs 17.5%] as was progression-free survival, while adverse side effects of myelosuppression and peripheral neuropathy were also higher; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31693429</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.joubert.2020.245">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Joubert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Beck</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dumontet</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Denevault-Sabourin</surname>
+<given-names>C.</given-names></string-name>
+<article-title>Antibody-drug conjugates: the last decade.</article-title>
+<source>Pharmaceuticals (Basel)</source>. <year>2020</year>;<volume>13</volume>:<fpage>245</fpage>.<annotation><p><italic toggle="yes">(Review of the development, structure, efficacy, adverse event rates and approval of vector-based chemotherapy using selective delivery by a monoclonal antibody and cancer cell injury by a conjugated cellular toxin [payload], including nine that are FDA approved and six others in pivotal trials).</italic></p></annotation><pub-id pub-id-type="pmid">32937862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.segman.2021.118">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Segman</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Ribakovsky</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Avigdor</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Goldhecht</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Vainstein</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Goldschmidt</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Harlev</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Outcome of relapsed/refractory diffuse large B-cell lymphoma patients treated with polatuzumab vedotin-based therapy: real-life experience.</article-title>
+<source>Leuk Lymphoma.</source>
+<year>2021</year>;<volume>62</volume>:<fpage>118</fpage>-<lpage>124</lpage>.<annotation><p><italic toggle="yes">(Among 47 patients with relapsed or refractory aggressive B cell lymphomas treated with a polatuzumab based regimen in 14 Israeli medical centers, the overall and complete response rates were 61% and 40% and overall median survival 8 months; the most common adverse events included cytopenias and peripheral neuropathy; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">32981410</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.smith.2021.170">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Smith</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Lopedote</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Samara</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Mei</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Herrera</surname>
+<given-names>AF</given-names></string-name>, <string-name name-style="western"><surname>Winter</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Hill</surname>
+<given-names>BT</given-names></string-name>, <etal>et al.</etal>
+<article-title>Polatuzumab vedotin for relapsed/refractory aggressive B-cell lymphoma: a multicenter post-marketing analysis.</article-title>
+<source>Clin Lymphoma Myeloma Leuk.</source>
+<year>2021</year>;<volume>21</volume>:<fpage>170</fpage>-<lpage>175</lpage>.<annotation><p><italic toggle="yes">(Among 69 patients with relapsed or refractory B cell lymphomas treated in 5 US medical centers, the overall and complete response rates [50% and 21%] were lower than reported from clinical trials and median survival was only 5 months; no mention of hepatotoxicity or rates of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">33431309</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.tilly.2022.351">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tilly</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Morschhauser</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Sehn</surname>
+<given-names>LH</given-names></string-name>, <string-name name-style="western"><surname>Friedberg</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Trn&#x0011b;n&#x000fd;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sharman</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Herbaux</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Polatuzumab vedotin in previously untreated diffuse large B-cell lymphoma.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>:<fpage>351</fpage>-<lpage>363</lpage>.<annotation><p><italic toggle="yes">(Among 879 patients with previously untreated diffuse large B cell lymphoma treated with rituximab, cyclophosphamide, doxorubicin and prednisone and either vincristine [R-CHOP] or polatuzumab vedotin [Pola-R-CHP], progression-free survival was greater with Pola-R-CHP than R-CHOP, but 2 year survival rates and overall safety profiles were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34904799</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.fu.2023.107778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fu</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Gao</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>C</given-names></string-name>. <article-title>Peripheral neuropathy associated with monomethyl auristatin E-based antibody-drug conjugates.</article-title>
+<source>iScience.</source>
+<year>2023</year>;<volume>26</volume>:<elocation-id>107778</elocation-id>.<annotation><p><italic toggle="yes">(Rates of peripheral neuropathy are higher with antineoplastic monoclonal antibody conjugates with microtubule inhibitors such as vedotin compared to other cytotoxins, overall rates ranging from 8-66%, severe rates from &#x0003c;1% to 12%, caused probably by release of the monomethyl auristatin E toxin from the targeted cells to the systemic circulation or by direct uptake of the monoclonal conjugate by peripheral nerve Schwann cells).</italic></p></annotation><pub-id pub-id-type="pmid">37727735</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="PolatuzumabVedotin.REF.sun.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sun</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>J.</given-names></string-name>
+<article-title>A pharmacovigilance study on drug-induced liver injury associated with antibody-drug conjugates (ADCs) based on the Food and Drug Administration Adverse Event Reporting System.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>
+<month>Oct</month>
+<day>29</day>:<fpage>1</fpage>-<lpage>12</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Analysis of the FDA reporting system [FAERS] for cases of drug induced liver injury submitted between 2004 and 2022, found 17,784 reports, 504 [3%] attributed to antibody-drug conjugates, 202 from the US, the implicated agents being gemtuzumab ozogamicin [n=98], brentuximab vedotin [n=37], trastuzumab emtansine [n=25], enfortumab vedotin [n=16], inotuzumab ozogamicin [n=15], transtuzumab deruxtecan [n=8], and polatuzumab vedotin [3]).</italic></p></annotation><pub-id pub-id-type="pmid">37898875</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="PolatuzumabVedotin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Polatuzumab+AND+Vedotin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Polatuzumab Vedotin: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Polatuzumab%20Vedotin">Trials on Polatuzumab Vedotin: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

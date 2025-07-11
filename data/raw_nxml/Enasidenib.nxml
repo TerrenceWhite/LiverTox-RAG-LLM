@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Enasidenib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Enasidenib</book-part-id>
+      <title-group>
+        <title>Enasidenib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Enalapril" document-type="chapter">Enalapril</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="EncorafenibBinimetin" document-type="chapter">Encorafenib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Enasidenib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Enasidenib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Enasidenib is an orally available small molecule inhibitor of mutant isocitrate dehydrogenase-2 that is used in the therapy of selected cases of acute myelogenous leukemia (AML). Enasidenib is associated with a moderate rate of serum aminotransferase elevations during therapy and is suspected to cause rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Enasidenib.Background">
+          <title>Background</title>
+          <p>Enasidenib (en" a sid' e nib) is a small molecule inhibitor of mutated isocitrate dehydrogenase-2 (IDH2), an enzyme rearranged and mutated in some forms of leukemia and lymphoma. Isocitrate dehydrogenase is an oxidative decarboxylase which is important in maintaining normal progenitor and stem cell differentiation. Mutation in IDH can lead to accumulation of a toxic intermediate (2-hydroxyglutarate; 2-HG) that blocks normal cell differentiation and promotes cancer cell growth. IDH2 mutations are found in 8% to 20% of patients with AML. In cell culture, enasidenib decreased 2-HG levels and restored normal cell differentiation in cancer cells with IDH2 mutations. In several clinical trials enasidenib was found to induce objective responses in a high proportion of patients with refractory AML who harbored mutant IDH2. Enasidenib received accelerated approval for use in refractory or relapsed AML with susceptible IDH2 mutations in 2017. Enasidenib is available in tablets of 50 and 100 mg under the brand name IDHIFA. The recommended initial dose is 100 mg once daily, continued until progression in disease or intolerable toxicity occurs. Side effects are common and frequently severe (77%), leading to dose interruptions (43%), or discontinuations (17%). Common adverse events include diarrhea, nausea and vomiting, abdominal pain, fatigue, and anorexia. Less common but potentially severe side effects include differentiation syndrome, tumor lysis syndrome, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Enasidenib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevations in serum aminotransferase levels are common during enasidenib therapy, occurring in over half of patients but rising above 5 times the ULN in only 1% to 2%. In addition, enasidenib is an inhibitor of UGT1A1 and is associated with increases in serum indirect (unconjugated) bilirubin in 83% of patients, which rise to levels of 5 to 10 mg/dL in 15% to 20% of subjects. These elevations are not accompanied by serum enzyme elevations and represent indirect (unconjugated) hyperbilirubinemia without liver injury as occurs in patients with Gilbert syndrome. In pooled analysis of prelicensure clinical studies in 345 subjects, there were no cases of clinically apparent liver injury or deaths from liver disease. Since its approval and more widespread use, reports of hepatic failure have been reported in large series of enasidenib treated subjects, but documentation was not always adequate to assess whether the liver injury was related to therapy as opposed to a complication of the underlying leukemia or other treatment.</p>
+          <p>In prelicensure studies, enasidenib therapy was associated with &#x0201c;differentiation syndrome&#x0201d; in 14% of patients which was sometimes severe and was fatal in at least two instances. Differentiation syndrome is marked by rapid proliferation of activated myeloid cells resulting in release of inflammatory cytokines and symptoms of respiratory distress, accompanied by hypoxia, pulmonary infiltrates, and pleural effusions. Other manifestations include renal impairment, fever, lymphadenopathy, rash, bone pain, peripheral edema, pericardial effusion, coagulopathy, and weight gain. Liver dysfunction can also occur but is generally overshadowed by the more severe systemic manifestations. The onset of differentiation syndrome is generally within 2 to 8 weeks of starting therapy and the course can be severe. Management includes stopping enasidenib and prompt use of corticosteroids in more severe cases. Patients can be restarted on enasidenib once the syndrome resolves.</p>
+          <p>Likelihood score: D (possible uncommon cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Enasidenib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the liver injury due to enasidenib is not known. Enasidenib is metabolized in the liver largely by the cytochrome P450 system (largely CYP 3A4) and is susceptible to drug-drug interactions with inhibitors or inducers of the microsomal enzyme system. Enasidenib is also metabolized by UGT1A1 and competes with bilirubin for conjugation accounting for the frequency of benign hyperbilirubinemia in treated patients. In some instances, serum aminotransferase elevations may arise due to the release of proinflammatory cytokines as a part of the differentiation syndrome.</p>
+        </sec>
+        <sec id="Enasidenib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Enasidenib frequently causes mild-to-moderate transient elevations in serum aminotransferase levels without symptoms or jaundice. Liver injury may also accompany acute differentiation syndrome induced by enasidenib, but therapy has not been linked convincingly to isolated, clinically apparent liver injury or acute liver failure. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose adjustment or temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice and direct hyperbilirubinemia arise.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Related IDH1 Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Ivosidenib" document-type="book-part">Ivosidenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Olutasidenib" document-type="book-part">Olutasidenib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Enasidenib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Enasidenib &#x02013; IDHIFA&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Enasidenib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Enasidenib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Enasidenib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Enasidenib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Enasidenib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Enasidenib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Enasidenib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Enasidenib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Enasidenib</td>
+                <td headers="hd_h_Enasidenib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252300233">1446502-11-9</ext-link>
+</td>
+                <td headers="hd_h_Enasidenib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H17-F6-N7-O</td>
+                <td headers="hd_h_Enasidenib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="252300233" document-id-type="sid" document-type="summary" object-id="252300233" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Enasidenib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 March 2025</p>
+        <p>Abbreviations: AML, acute myeloid leukemia; IDH2, isocitrate dehydrogenase-2.</p>
+        <ref-list id="Enasidenib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Enasidenib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013 before the availability of enasidenib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.multidiscipline_review.2017">
+            <mixed-citation publication-type="web"><string-name name-style="western"><given-names>FDA.</given-names>
+<surname>Multi-Discipline Review</surname></string-name>. <year>2017</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209606Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209606Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.kim.2017.1705">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>ES</given-names></string-name>. <article-title>Enasidenib: first global approval.</article-title>
+<source>Drugs</source>
+<year>2017</year>; <volume>77</volume>: <fpage>1705</fpage>-<lpage>11</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, clinically efficacy and safety of enasidenib, a "first-in-class" small molecule inhibitor of IDH2, shortly after its approval for use in AML in the US; mentions that elevations in bilirubin occur in 81% of patients, nausea in 50%, diarrhea 43%, anorexia 34%, vomiting 34%, differentiation syndrome 14% and tumor lysis syndrome 6%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28879540</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.stein.2017.722">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Pollyea</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Fathi</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Roboz</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Altman</surname>
+<given-names>JK</given-names></string-name>, <string-name name-style="western"><surname>Stone</surname>
+<given-names>RM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enasidenib in mutant IDH2 relapsed or refractory acute myeloid leukemia.</article-title>
+<source>Blood</source>
+<year>2017</year>; <volume>130</volume>: <fpage>722</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(Dose finding and pilot study of enasidenib in 239 patients with mutant IDH2 positive AML, the complete remission rate was 19% and severe adverse events included hyperbilirubinemia [12%], differentiation syndrome [6%] and tumor lysis syndrome [3%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28588020</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.amatangelo.2017.732">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Amatangelo</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Quek</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Shih</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Roshal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>David</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Marteyn</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enasidenib induces acute myeloid leukemia cell differentiation to promote clinical response.</article-title>
+<source>Blood</source>
+<year>2017</year>; <volume>130</volume>: <fpage>732</fpage>-<lpage>41</lpage>.<annotation><p><italic toggle="yes">(Companion manuscript to Stein [2017] measured mutant IDH2 burden in patients receiving enasidenib showing increases in differentiation of myeloid cells and declines in mutant IDH2 positive cells in recipients of acalabrutinib).</italic></p></annotation><pub-id pub-id-type="pmid">28588019</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.yen.2017.478">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yen</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Travins</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>David</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Artin</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Straley</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Padyana</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>AG-221, a first-in-class therapy targeting acute myeloid leukemia harboring oncogenic IDH2 mutations.</article-title>
+<source>Cancer Discov</source>
+<year>2017</year>; <volume>7</volume>: <fpage>478</fpage>-<lpage>93</lpage>.<annotation><p><italic toggle="yes">(Description of the discovery of a specific inhibitor of IDH2 [AG-221: enasidenib] using high throughput screening and demonstration of its activity in decreasing the mutant IDH2 induced block in cellular differentiation in human AML cells leading differentiation rather than necrosis of malignant blasts).</italic></p></annotation><pub-id pub-id-type="pmid">28193778</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.fathi.2018.1106">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fathi</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Kline</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Kenvin</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Attar</surname>
+<given-names>EC</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <etal>et al.</etal>; <article-title>AG221-C-001 Study Investigators. Differentiation syndrome associated with enasidenib, a selective inhibitor of mutant isocitrate dehydrogenase 2: analysis of a phase 1/2 study.</article-title>
+<source>JAMA Oncol</source>
+<year>2018</year>; <volume>4</volume>: <fpage>1106</fpage>-<lpage>10</lpage>.<annotation><p><italic toggle="yes">(Among 281 patients with AML treated with enasidenib [50 to 650 mg daily] in open label trials, 33 [12%] were judged to have differentiation syndrome marked by dyspnea, fever, lung infiltrates and hypoxia with onset after 7-129 days [median 30 days], usually responding to corticosteroid therapy, half requiring dose interruption, none dying acutely, and all were able to restart enasidenib after its resolution; no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">29346478</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.patel.2018.1110">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Patel</surname>
+<given-names>SA</given-names></string-name>. <article-title>Enasidenib-induced differentiation syndrome in IDH2-mutant acute myeloid leukemia.</article-title>
+<source>JAMA Oncol</source>
+<year>2018</year>; <volume>4</volume>: <fpage>1110</fpage>-<lpage>1</lpage>.<annotation><p><italic toggle="yes">(Commentary on Fathi [2018] stressing the need to promptly recognize differentiation syndrome and manage it correctly).</italic></p></annotation><pub-id pub-id-type="pmid">29346477</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF11">
+            <mixed-citation publication-type="journal"><article-title>In brief: Two new drugs for AML.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2018</year>; <volume>60</volume> (<issue>1543</issue>): <elocation-id>e56</elocation-id>.<annotation><p><italic toggle="yes">(Brief summary of the mechanism of action, clinical efficacy, and safety of enasidenib shortly after its approval for use in the US; mentions indirect hyperbilirubinemia without apparent liver toxicity occurring in 38% and differentiation syndrome in 10% of patients [2 of which were fatal] in a pooled analysis of prelicensure clinical trials).</italic></p></annotation><pub-id pub-id-type="pmid">29635267</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.mohamed.2021.e04099">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mohamed</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Enasidenib-induced Sweet syndrome with differentiation syndrome.</article-title>
+<source>Clin Case Rep.</source>
+<year>2021</year>;<volume>9</volume>:<elocation-id>e04099</elocation-id>.<annotation><p><italic toggle="yes">(65 year old woman with IDH2 mutant refractory AML developed fever and rash within one week of starting enasidenib with severe neutropenia and with subsequent pulmonary infiltrates responding to corticosteroid therapy and diagnosed with Sweet and differentiation syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">34026142</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.dinardo.2021.1597">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Schuh</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Montesinos</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Wei</surname>
+<given-names>AH</given-names></string-name>, <string-name name-style="western"><surname>de Botton</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zeidan</surname>
+<given-names>AM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enasidenib plus azacitidine versus azacitidine alone in patients with newly diagnosed, mutant-IDH2 acute myeloid leukaemia (AG221-AML-005): a single-arm, phase 1b and randomised, phase 2 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2021</year>;<volume>22</volume>:<fpage>1597</fpage>-<lpage>1608</lpage>.<annotation><p><italic toggle="yes">(Among 101 adults with newly diagnosed IDH2 mutant AML treated with azacytidine with or without enasidenib, those receiving both drugs had a better overall response rate than the azacytidine only group [74% vs 36%] but overall survival rates were the same; total and serious adverse event rates [43% vs 44%] were also similar but the addition of enasidenib resulted in higher rates of significant thrombocytopenia, neutropenia, and anemia as well as higher rates of hyperbilirubinemia [19% vs 0%] and differentiation syndrome [10% vs 0%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34672961</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.de_botton.2023.156">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>de Botton</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Montesinos</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Schuh</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Papayannidis</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Vyas</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Wei</surname>
+<given-names>AH</given-names></string-name>, <string-name name-style="western"><surname>Ommen</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enasidenib vs conventional care in older patients with late-stage mutant-IDH2 relapsed/refractory AML: a randomized phase 3 trial.</article-title>
+<source>Blood.</source>
+<year>2023</year>;<volume>141</volume>:<fpage>156</fpage>-<lpage>167</lpage>.<annotation><p><italic toggle="yes">(Among 319 adults [ages 60 years or greater] with refractory or relapsed AML with mutated IDH2 treated with enasidenib [100 mg daily] or conventional therapy [azacytidine or cytarabine], event-free survival was longer with enasidenib [4.9 vs 2.6 months] but median overall survival was not different [6.5 vs 6.2 months], and adverse event rates were 77% vs 61%, serious adverse event rates 22% vs 22%, hyperbilirubinemia [not requiring discontinuation] being common with enasidenib [20% vs 1%] as was differentiation syndrome [14% vs none], and one patient on enasidenib died of hepatic failure during the second 28-day cycle, but no details given).</italic></p></annotation><pub-id pub-id-type="pmid">35714312</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.dinardo.2023.2378">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Venugopal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Lachowiez</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Takahashi</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Loghavi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Montalban-Bravo</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>X</given-names></string-name>, <etal>et al.</etal>
+<article-title>Targeted therapy with the mutant IDH2 inhibitor enasidenib for high-risk IDH2-mutant myelodysplastic syndrome.</article-title>
+<source>Blood Adv.</source>
+<year>2023</year>;<volume>7</volume>:<fpage>2378</fpage>-<lpage>2387</lpage>.<annotation><p><italic toggle="yes">(Among 50 adults with myelodysplastic syndrome with IDH2 mutations treated with enasidenib with or without azacytidine, the objective response rate was 58%, and while adverse events were frequent, elevated liver tests arose in only 3 patients [6%], all of which were less than 5 times ULN; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">35973199</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enasidenib.REF.fu.2025.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Lv</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Guo</surname>
+<given-names>Z</given-names></string-name>. <article-title>Safety profile of isocitrate dehydrogenase inhibitors in cancer therapy: a pharmacovigilance study of the FDA Adverse Event Reporting System.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2025</year>:<fpage>1</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Analysis of spontaneous reports received by the FDA&#x02019;s Adverse Event Reporting System made between 2018 and 2024; there were 2905 related to enasidenib and 1289 to ivosidenib, the main events being nausea, fatigue, diarrhea, anorexia, decrease in platelet counts, and fever; listings of adverse events arising in more than 10 instances did not include serum aminotransferase elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39727294</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Enasidenib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Enasidenib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Enasidenib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Enasidenib">Trials on Enasidenib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

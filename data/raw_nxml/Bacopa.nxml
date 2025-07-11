@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Bacopa" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Bacopa</book-part-id>
+      <title-group>
+        <title>Bacopa monnieri</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>4</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Baclofen" document-type="chapter">Baclofen</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Baloxavir" document-type="chapter">Baloxavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Bacopa.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Bacopa.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Bacopa is an herbal extract made from the leaves of Bacopa monnieri, a herbaceous plant native to the Indian subcontinent which has been used in Ayurvedic medicine for centuries to treat anxiety, insomnia, and epilepsy and to improve memory and cognitive function. Bacopa has not been linked to liver enzyme elevations during therapy nor to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Bacopa.Background">
+          <title>Background</title>
+          <p>Bacopa is an herbal extract made from the fresh or dried leaves of Bacopa monnieri, a creeping, herbaceous plant native to the Indian subcontinent that has been used for centuries in Ayurvedic medicine to treat anxiety, depression, memory loss, and epilepsy. Currently it is widely used to boost memory and improve cognitive function and mental focus. Also known as water hyssop, bacopa monnieri leaves and roots have more than 100 components including flavonoids, flavones, saponins, triterpenoids, glycosides, sterols, and lipids. The active ingredients are thought to be saponin glycosides referred to as bacosides. In vitro and in vivo studies suggest that bacosides have anxiolytic, antiinflammatory, antioxidant, antiulcer, and neuroprotective properties leading to purported effects in many diseases and disease conditions including dementia, hyperactivity, memory loss, and depression. However, bacopa has not been shown to be effective for any disease or medical symptom in adequately controlled, prospective trials in humans, and bacopa is not approved in the United States as therapy of any medical condition. Nevertheless, Bacopa monnieri is available in multiple over-the-counter herbal products. The typical dose is 300 to 600 mg of the extract daily, the equivalent of 5 to 10 grams of the dried herb. Bacopa has only minor and usually short-lived side effects which may include abdominal pain, nausea, diarrhea, flatulence, dry mouth, headache, dizziness, insomnia, and rash. The overall rate of adverse events in bacopa-treated subjects has usually been similar to that in placebo controls. In small clinical trials, bacopa has had no serious or severe adverse effects.</p>
+        </sec>
+        <sec id="Bacopa.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Bacopa extract has not been linked to serum enzyme elevations during therapy, although there have been few prospective studies in humans that have reported on laboratory test results during treatment. Importantly, despite widespread use, bacopa has not been implicated in cases of clinically apparent liver disease.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Bacopa.Mechanism_of_liver_injury">
+          <title>Mechanism of liver injury</title>
+          <p>There is no evidence to indicate that Bacopa monnieri causes liver injury despite the fact that it has multiple ingredients including triterpenoid bacopa saponins and saponin glycosides.</p>
+          <p>Other Names: Brahmi (a name also used for Gotu kola), Andri, Water Hyssop, Indian Pennywort</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="book-part">Herbal and Dietary Supplements</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Bacopa.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Bacopa &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+      </sec>
+      <sec id="Bacopa.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Bacopa.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Bacopa.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Bacopa.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Bacopa.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Bacopa.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bacoside</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://317225847">11028-00-5</ext-link>
+</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C41-H68-O13</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="317225847" document-id-type="sid" document-type="summary" object-id="317225847" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bacoside A1</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Bacoside-A1">58798-94-0</ext-link>
+</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C40-H64-O12</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">At PubChem<break/>[CAS RN Link]</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bacoside A2</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/85067758">58798-95-1</ext-link>
+</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C46-H74-O17</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">At PubChem<break/><p>[CAS RN Link]</p></td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bacoside A3</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135261995">157408-08-7</ext-link>
+</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C47-H76-O18</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135261995" document-id-type="sid" document-type="summary" object-id="135261995" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bacoside B</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://317225848">11048-52-5</ext-link>
+</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C41-H68-O</td>
+                <td headers="hd_h_Bacopa.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="317225848" document-id-type="sid" document-type="summary" object-id="317225848" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Bacopa.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 24 April 2024</p>
+        <p>Abbreviation: HDS, herbal and dietary supplements.</p>
+        <ref-list id="Bacopa.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Bacopa.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications linked to liver injury are discussed, but bacopa is not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.seeff.2013">
+            <mixed-citation publication-type="book">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbals does not mention bacopa).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.russo.2004.1018">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Russo</surname>
+<given-names>MW</given-names></string-name>, <string-name name-style="western"><surname>Galanko</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Shrestha</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Fried</surname>
+<given-names>MW</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>P</given-names></string-name>. <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+<source>Liver Transpl</source>
+<year>2004</year>; <volume>10</volume>: <fpage>1018</fpage>-<lpage>23</lpage>.<annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none were specifically attributed to a product containing bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.pravina.2007.301">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pravina</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Ravindra</surname>
+<given-names>KR</given-names></string-name>, <string-name name-style="western"><surname>Goudar</surname>
+<given-names>KS</given-names></string-name>, <string-name name-style="western"><surname>Vinod</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Joshua</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Wasim</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Venkateshwarlu</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety evaluation of BacoMind in healthy volunteers: a phase I study.</article-title>
+<source>Phytomedicine.</source>
+<year>2007</year>;<volume>14</volume>:<fpage>301</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 23 healthy volunteers treated with a preparation of Bacopa monnieri [300 mg for 15 days and 450 mg for 15 days], there were no serious adverse events, and while minor nonspecific adverse events occurred, there were no changes in clinical laboratory tests).</italic></p></annotation><pub-id pub-id-type="pmid">17442556</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.calabrese.2008.707">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Calabrese</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Gregory</surname>
+<given-names>WL</given-names></string-name>, <string-name name-style="western"><surname>Leo</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kraemer</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Bone</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Oken</surname>
+<given-names>B</given-names></string-name>. <article-title>Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial.</article-title>
+<source>J Altern Complement Med.</source>
+<year>2008</year>;<volume>14</volume>:<fpage>707</fpage>-<lpage>13</lpage>.<annotation><p><italic toggle="yes">(Among 54 elderly volunteers without symptoms of dementia who were treated with oral bacopa [300 mg] or placebo daily for 12 weeks, standardized tests for delayed recall and reaction times improved slightly with bacopa and did not change with placebo; while total adverse events rates were similar in the two groups and there were no serious adverse events, and ALT elevations or hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">18611150</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.garc_acort_s.2008.688">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Borraz</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Lucena</surname>
+<given-names>MI</given-names></string-name>, <string-name name-style="western"><surname>Pel&#x000e1;ez</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Salmer&#x000f3;n</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Diago</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mart&#x000ed;nez-Sierra</surname>
+<given-names>MC</given-names></string-name>, <etal>et al.</etal>
+<comment>[Liver injury induced by "natural remedies": an analysis of cases submitted to the Spanish Liver Toxicity Registry]</comment>. <source>Rev Esp Enferm Dig</source>
+<year>2008</year>; <volume>100</volume>: <fpage>688</fpage>-<lpage>95</lpage>. <comment>Spanish.</comment><annotation><p><italic toggle="yes">(Among 521 cases of drug induced liver injury submitted to Spanish registry, 13 [2%] were due to herbals, but none were attributed to bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">19159172</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.navarro.2009.373">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>. <article-title>Herbal and dietary supplement hepatotoxicity.</article-title>
+<source>Semin Liver Dis</source>
+<year>2009</year>; <volume>29</volume>: <fpage>373</fpage>-<lpage>82</lpage>.<annotation><p><italic toggle="yes">(Review of the problems of causality assessment in herbal and dietary supplement [HDS] associated liver disease, including the variable clinical presentations, the complexity and lack of information on their components, absence of controlled trials demonstrating safety and efficacy, the possibility of contamination or incorrect labeling, and the frequent underreporting of herbal use by patients. Regulation of HDS is under DSHEA, which requires manufacturers to determine safety and prohibits claims of efficacy in treating specific diseases. The US Pharmacopeia sets standards for food and drugs and includes HDS; HDS induced liver injury is a growing problem and currently accounts for at least 10% of cases of acute liver injury due to medications).</italic></p></annotation><pub-id pub-id-type="pmid">19826971</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.jacobsson.2009.1039">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jacobsson</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>J&#x000f6;nsson</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Gerd&#x000e9;n</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>H&#x000e4;gg</surname>
+<given-names>S</given-names></string-name>. <article-title>Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2009</year>; <volume>18</volume>: <fpage>1039</fpage>-<lpage>47</lpage>.<annotation><p><italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry; no mention of bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">19650152</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.teschke.2009.258">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Teschke</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Bahre</surname>
+<given-names>R.</given-names></string-name>
+<article-title>Severe hepatotoxicity by Indian Ayurvedic herbal products: a structured causality assessment.</article-title>
+<source>Ann Hepatol.</source>
+<year>2009</year>;<volume>8</volume>:<fpage>258</fpage>-<lpage>66</lpage><annotation><p><italic toggle="yes">(64 year old woman with treatment resistant vitiligo developed jaundice 7 months after starting a regimen of Ayurvedic medications including Bakuchi, Khadin, Brahmi [possibly Bacopa monnieri], and usher [bilirubin 5.0 mg/dL, ALT 601 U/L, Alk P 306 U/L, ANA 1:320], which resolved with stopping all four but causality assessment pointed to Bakuchi [Psoralea corylifolia] as the cause).</italic></p></annotation><pub-id pub-id-type="pmid">19841509</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.reuben.2010.2065">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+<source>Hepatology</source>
+<year>2010</year>; <volume>52</volume>: <fpage>2065</fpage>-<lpage>76</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, but none were attributed to bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.teschke.2012.1543">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Teschke</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wolff</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Frenzel</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Schulze</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Eickhoff</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+<source>Liver Int</source>
+<year>2012</year>; <volume>32</volume>: <fpage>1543</fpage>-<lpage>56</lpage>.<annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements, lists bacopa as an Ayurvedic herbal product).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.navarro.2014.1399">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Grant</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+<source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>1399</fpage>-<lpage>408</lpage>.<annotation><p><italic toggle="yes">(Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, none were attributed to a product containing bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], the single major herbal cause being green tea, and none were attributed to bacopa [see also Navarro et al Hepatology 2014]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.haslan.2015.1779">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Haslan</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Suhaimi</surname>
+<given-names>FH</given-names></string-name>, <string-name name-style="western"><surname>Das</surname>
+<given-names>S</given-names></string-name>. <article-title>Herbal supplements and hepatotoxicity: a short review.</article-title>
+<source>Nat Prod Commun.</source>
+<year>2015</year>;<volume>10</volume>:<fpage>1779</fpage>-<lpage>84</lpage>.<annotation><p><italic toggle="yes">(Review of liver injury due to herbal supplements does not mention bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">26669124</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.garc_acort_s.2016.537">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Robles-D&#x000ed;az</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Ortega-Alonso</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Andrade</surname>
+<given-names>RJ</given-names></string-name>. <article-title>Hepatotoxicity by dietary supplements: A tabular listing and clinical characteristics.</article-title>
+<source>Int J Mol Sci</source>
+<year>2016</year>; <volume>17</volume>. pii: <elocation-id>537</elocation-id>.<annotation><p><italic toggle="yes">(Listing of published cases of liver injury from HDS products does not mention or list bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">27070596</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.kean.2016.56">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kean</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Downey</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Stough</surname>
+<given-names>C</given-names></string-name>. <article-title>A systematic review of the Ayurvedic medicinal herb Bacopa monnieri in child and adolescent populations.</article-title>
+<source>Complement Ther Med.</source>
+<year>2016</year>;<volume>29</volume>:<fpage>56</fpage>-<lpage>62</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the literature on the effects Bacopa monnieri on memory and cognition in children and adolescents identified five studies which consistently demonstrated improvements in language behavior and memory by bacopa therapy with lesser effects on hyperactivity and concentration, and with a low rate [2.5%] of adverse events which were generally mild and short-lived; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27912958</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.kean.2017.86">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kean</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Downey</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Stough</surname>
+<given-names>C</given-names></string-name>. <article-title>Systematic overview of Bacopa monnieri (L.) Wettst. dominant poly-herbal formulas in children and adolescents.</article-title>
+<source>Medicines (Basel)</source>. <year>2017</year>;<volume>4</volume>:<fpage>86</fpage>.<annotation><p><italic toggle="yes">(Systematic review of randomized clinical trials on the cognitive and behavioral effects of Bacopa monnieri in children and adolescents identified 9 studies, all of which showed effects on some cognitive or language function and most of which reported no or few adverse events and no serious adverse events or mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29165401</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.brown.2017.449">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>AC</given-names></string-name>. <article-title>An overview of herb and dietary supplement efficacy, safety and government regulations in the United States with suggested improvements. Part 1 of 5 series.</article-title>
+<source>Food Chem Toxicol</source>
+<year>2017</year>; <volume>107</volume>: <fpage>449</fpage>-<lpage>71</lpage>.<annotation><p><italic toggle="yes">(Summary of the US regulations on safety and efficacy of herbal and dietary supplements).</italic></p></annotation><pub-id pub-id-type="pmid">27818322</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.brown.2017.472">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>AC</given-names></string-name>. <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+<source>Food Chem Toxicol</source>
+<year>2017</year>; <volume>107</volume>: <fpage>472</fpage>-<lpage>501</lpage>.<annotation><p><italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products, does not mention bacopa) .</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.navarro.2017.363">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Khan</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Seeff</surname>
+<given-names>LB</given-names></string-name>, <string-name name-style="western"><surname>Serrano</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hoofnagle</surname>
+<given-names>JH</given-names></string-name>. <article-title>Liver injury from herbal and dietary supplements.</article-title>
+<source>Hepatology</source>
+<year>2017</year>; <volume>65</volume>: <fpage>363</fpage>-<lpage>73</lpage>.<annotation><p><italic toggle="yes">(Review of the problems of liver injury and HDS products, mentions that multiingredient dietary supplements account for the major of cases but does not mention a product with bacopa as a component).</italic></p></annotation><pub-id pub-id-type="pmid">27677775</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.mitraganguli.2017.678">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mitra-Ganguli</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kalita</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Bhushan</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Stough</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Kean</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Sethi</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Khadilkar</surname>
+<given-names>A.</given-names></string-name>
+<article-title>A randomized, double-blind study assessing changes in cognitive function in Indian school children receiving a combination of Bacopa monnieri and micronutrient supplementation vs. placebo.</article-title>
+<source>Front Pharmacol.</source>
+<year>2017</year>;<volume>8</volume>:<fpage>678</fpage>.<annotation><p><italic toggle="yes">(Among 300 Indian school children, ages 7 to 12 years, treated with Bacopa monnieri fortified with micronutrients or an non-fortified isocaloric control for 4 months, there were no differences in changes of cognitive function or short term memory, and adverse event rates were similar in the two groups with no serious adverse events; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29204115</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.cicero.2018.204">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cicero</surname>
+<given-names>AFG</given-names></string-name>, <string-name name-style="western"><surname>Fogacci</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Banach</surname>
+<given-names>M</given-names></string-name>. <article-title>Botanicals and phytochemicals active on cognitive decline: The clinical evidence.</article-title>
+<source>Pharmacol Res.</source>
+<year>2018</year>;<volume>130</volume>:<fpage>204</fpage>-<lpage>212</lpage>.<annotation><p><italic toggle="yes">(Review of the literature on botanicals efficacy and safety in treating cognitive decline discusses potential mechanisms of action of Bacopa monnieri and mentions that &#x0201c;extracts were overall well-tolerated&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29289576</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.santos.2021.6">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Santos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gasca</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Parana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Nunes</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Schinnoni</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Cabello</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Lucena</surname>
+<given-names>MI</given-names></string-name>, <etal>et al.</etal>
+<article-title>Profile of herbal and dietary supplements induced liver injury in Latin America: A systematic review of published reports.</article-title>
+<source>Phytother Res.</source>
+<year>2021</year>;<volume>35</volume>:<fpage>6</fpage>-<lpage>19</lpage>.<annotation><p><italic toggle="yes">(Review of reports of liver injury due to herbal supplements reported from Latin America does not mention cases due to bacopa).</italic></p></annotation><pub-id pub-id-type="pmid">32525269</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.ballotin.2021.5490">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ballotin</surname>
+<given-names>VR</given-names></string-name>, <string-name name-style="western"><surname>Bigarella</surname>
+<given-names>LG</given-names></string-name>, <string-name name-style="western"><surname>Brand&#x000e3;o</surname>
+<given-names>ABM</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Soldera</surname>
+<given-names>J</given-names></string-name>. <article-title>Herb-induced liver injury: Systematic review and meta-analysis.</article-title>
+<source>World J Clin Cases.</source>
+<year>2021</year>;<volume>9</volume>:<fpage>5490</fpage>-<lpage>5513</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the literature on herb induced liver injury identified 446 references describing 936 cases due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90] Herbalife products [64], kava kava [62] and greater celandine [48]; bacopa is not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">34307603</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.bessone.2022.e548">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Hernandez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Parana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Mendizabal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schinoni</surname>
+<given-names>MI</given-names></string-name>, <etal>et al.</etal>
+<article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2022</year>;<volume>20</volume>:<fpage>e548</fpage>-<lpage>e563</lpage>.<annotation><p><italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American DILI Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5], and garcinia [n=3]; bacopa is not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">33434654</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.basheer.2022.e38542">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Basheer</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Agarwal</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mishra</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Padma Srivastava</surname>
+<given-names>MV</given-names></string-name>, <string-name name-style="western"><surname>Kirubakaran</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Vishnu</surname>
+<given-names>V</given-names></string-name>. <article-title>Use of Bacopa monnieri in the treatment of dementia due to Alzheimer disease: systematic review of randomized controlled trials.</article-title>
+<source>Interact J Med Res.</source>
+<year>2022</year>;<volume>11</volume>:<elocation-id>e38542</elocation-id>.<annotation><p><italic toggle="yes">(Systematic review of clinical trials of bacopa in Alzheimer disease identified 5 studies all of which reported a statistically significant effect of the herb, but all of which had limitations, but &#x0201c;no major safety issues were reported&#x0201d;, and there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35612544</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.kean.2022.996">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kean</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Downey</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Sarris</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kaufman</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zangara</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Stough</surname>
+<given-names>C</given-names></string-name>. <article-title>Effects of Bacopa monnieri (CDRI 08&#x000ae;) in a population of males exhibiting inattention and hyperactivity aged 6 to 14&#x02009;years: a randomized, double-blind, placebo-controlled trial.</article-title>
+<source>Phytother Res.</source>
+<year>2022</year>;<volume>36</volume>:<fpage>996</fpage>-<lpage>1012</lpage>.<annotation><p><italic toggle="yes">(Among 93 male children, ages 6 to 14, with inattention or hyperactivity treated with Bacopa monnieri or placebo for 14 weeks, there were minor differences in various measures of cognitive function and mood, but no differences in behavioral outcomes and no serious adverse events, 3 children receiving the herbal preparation complained of short-lived gastrointestinal discomfort; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35041248</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Bacopa.REF.cave.2023.143">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cave</surname>
+<given-names>AE</given-names></string-name>, <string-name name-style="western"><surname>Chang</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>M&#x000fc;nch</surname>
+<given-names>GW</given-names></string-name>, <string-name name-style="western"><surname>Steiner-Lim</surname>
+<given-names>GZ</given-names></string-name>. <article-title>A systematic review of the safety and efficacy on cognitive function of herbal and nutritional medicines in older adults with and without subjective cognitive impairment.</article-title>
+<source>Syst Rev.</source>
+<year>2023</year>;<volume>12</volume>:<fpage>143</fpage>.<annotation><p><italic toggle="yes">(Review of efficacy and safety of herbal products purported to improve cognitive function identified 21 clinical trials in 1891 older adults, 14 of which showed some improvement in cognitive function with the intervention including several using Bacopa monnieri).</italic></p></annotation><pub-id pub-id-type="pmid">37592293</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Bacopa.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Bacopa+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Bacopa monnieri: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bacopa">Trials on Bacopa monnieri: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

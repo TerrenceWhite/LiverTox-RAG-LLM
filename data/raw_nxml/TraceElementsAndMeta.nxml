@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="TraceElementsAndMeta" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">TraceElementsAndMeta</book-part-id>
+      <title-group>
+        <title>Trace Elements and Metals</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>4</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trabectedin" document-type="chapter">Trabectedin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tralokinumab" document-type="chapter">Tralokinumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="TraceElementsAndMeta.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The trace elements include more than 60 substances that are usually present in low concentrations in the environment and mammalian tissues. They are generally present in tissue and serum in picogram or microgram amounts, and their absorption, distribution, storage, and excretion are tightly controlled. At least a dozen of them are considered essential minerals in humans. A table of trace elements found in biologic systems is given below.</p>
+        <p content-type="pubmed-excerpt">The trace elements and most metals are usually present in adequate amounts in the diet and environment, and supplementation is generally not needed. An exception to this is iron, which is an essential heavy metal and present in more than "trace" amounts in human tissue and in foodstuffs.</p>
+        <p content-type="pubmed-excerpt">The heavy metals such as iron, copper, mercury, tin, lead, zinc, and cadmium are directly toxic to cells and demonstrate hepatotoxicity in vitro. At the typical concentrations of trace and heavy metals in the diet, however, these agents are safe and have not been associated with hepatotoxicity. Indeed, many of these elements are included in homeopathic medications and in dietary supplements advertised as being effective in enhancing vitality or improving immune function. Yet, neither the benefit nor the toxicity of these elements given in these concentrations has been demonstrated in humans. In higher amounts, many of the trace elements have been linked to instances of acute or chronic liver injury, predominantly iron, copper, zinc, arsenic, and lithium. These are discussed individually and separately in LiverTox.</p>
+        <p>Some of the remaining trace elements and metals are discussed briefly below. None have proven to be hepatotoxic to humans and all can be considered unlikely causes of clinically apparent liver injury.</p>
+        <p>(Likelihood score: E).</p>
+        <table-wrap id="TraceElementsAndMeta.T.trace_elements_an" orientation="portrait" position="anchor">
+          <caption>
+            <p>Trace Elements and Metals in Tissues and Biologic Systems</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Aluminum</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cadmium</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Lead</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rubidium</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Antimony</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chromium</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Lithium</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Selenium</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Arsenic</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cobalt</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Magnesium</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Strontium</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Barium</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Copper</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Manganese</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tin</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Bismuth</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Fluorine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mercury</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Vanadium</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Boron</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Iodine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Molybdenum</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Zinc</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Bromine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Iron</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Nickel</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Trace elements and metals discussed separately in LiverTox are the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Arsenic" document-type="book-part">Arsenic</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Bismuth" document-type="book-part">Bismuth</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Copper" document-type="book-part">Copper</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Iron" document-type="book-part">Iron</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Lithium" document-type="book-part">Lithium</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Zinc" document-type="book-part">Zinc</related-object>
+</p>
+          </list-item>
+        </list>
+        <p><bold>Cadmium</bold> is a trace element and transitional metal that is not believed to play a role in higher biologic systems or in human nutrition. Cadmium deficiency has not been convincingly shown in humans. Cadmium is toxic in moderate doses and is a potent antagonist of several essential minerals including calcium, iron, copper, and zinc. Cadmium is used in the manufacture of batteries, electrical conductors and metal plating. Cadmium is also a byproduct of the mining and processing of iron, nickel and other metals and can be toxic to welders and industrial workers, producing a syndrome due to inhalation of excessive amounts known as cadmium fume fever. Environmental exposure to excess cadmium has been reported due to contamination of the water supply from mining or manufacturing with subsequent concentration of cadmium in agricultural products such as rice, resulting in outbreaks of cadmium poisoning. A disease marked by bone fractures (itai-itai or "ouch-ouch" disease) arose after World War II in a rural area of Japan and was later linked to cadmium contamination of water used to irrigate rice fields. Itai-itai is characterized by renal tubular abnormalities and calcium and phosphate wasting resulting in osteomalacia. Chronic cadmium exposure has been linked to pulmonary fibrosis, chronic renal injury and an increased risk of cancer. Cadmium has not been linked specifically to clinically apparent liver injury in humans although it, like many metals, is toxic to hepatocytes in vitro and causes acute liver injury in experimental animals. Autopsy material from patients with itai-itai disease demonstrates slight increase in fibrosis and steatosis, but the clinical manifestations appear minimal despite high levels of cadmium in liver tissue. The relative lack of hepatic injury with chronic cadmium exposure may relate to potent metallothionein induction in the liver by the trace metal. Cadmium in small quantities is included in many homeopathic medications and in several over-the-counter dietary supplements used to increase vitality and wellness.</p>
+        <p><bold>Chromium</bold> is an essential trace element which plays an important role in carbohydrate and lipid metabolism. Chromium deficiency has been linked to insulin resistance and diabetes, and oral supplementation with trivalent chromium has been found to improve insulin sensitivity and glucose tolerance. Claims have been made that chromium also benefits muscle building. As a consequence, chromium is a frequent component of vitamin, mineral and general nutritional supplements. Trivalent chromium is not well absorbed as simple salts, and complexes of chromium have better bioavailability. Chromium is available in multiple oral formulations (picolinate, dinicocysteinate, complexed with nicotinic acid and in brewer's yeast), in tablets and capsules in concentrations of 150 &#x003bc;g to 1000 &#x003bc;g, and as chromic chloride in a liquid solution (4 &#x003bc;g/mL) for use in parenteral nutrition. In concentrations found in foods and in doses used clinically, chromium has been reported to be safe and without appreciable toxicity. Nevertheless, there have been at least two publications describing renal injury from ingestion of moderately high doses of chromium picolinate for 1 and 4 months, one of which was accompanied by transient liver injury with features of acute hepatic necrosis. High doses of chromium, and particularly hexavalent chromium (6+), can be toxic. Hexavalent chromium is an industrially important metal used in stainless steel and other alloys and is a potent oxidizing agent with known toxicity to industrial workers. Acute, high dose ingestion of chromium (both trivalent and hexavalent) can cause severe, immediate multiorgan (including liver) damage and death. Lower dose chronic occupational exposure is associated with skin and local tissue injury and may be carcinogenic.</p>
+        <p><bold>Fluoride</bold> is a trace element that is concentrated in mineralized tissues such as bone and tooth enamel. Epidemiologic surveys demonstrated a close correlation of fluoride concentrations in water with rates of dental caries, and water fluoridation began as a public health measure in the United States in the mid-1940s. Fluoride has also been shown to have a role in normal hematopoiesis, bone formation and osteoporosis and fertility and growth. Chronic excessive fluoride intake can be associated with brown mottled teeth and skeletal abnormalities. Acute fluoride toxicity is marked by nausea, vomiting, diarrhea, abdominal pain, excess salivation and lacrimation, heart and lung abnormalities, weakness, neuropathy, convulsions, paralysis, and coma. There have been no reports of acute or chronic liver injury attributed to fluoride toxicity.</p>
+        <p><bold>Iodine</bold> is an essential constituent of thyroid hormones and is essential for normal growth and development. Iodine deficiency causes goiter and hypothyroidism in children and adults, and cretinism if present during fetal development. Iodine deficiency is the most common cause of preventable mental defects in the world today. Cretinism and goiter are completely preventable by iodine supplementation. Iodine toxicity is rare, but high dietary intake may be responsible for iodine induced hyperthyroidism. Iodine intake has not been linked to liver injury.</p>
+        <p><bold>Lead</bold> is a heavy metal that has major health implications. Even low levels of lead exposure have been associated with harmful effects on health, the major sources in the environment being paint and gasoline. In recent years, lead exposure has been decreased by regulatory actions in removing lead from paint and gasoline and limitation of occupational lead exposure. Lead has no medical uses. Lead toxicity is marked by neurotoxicity, neurodevelopmental defects, gastrointestinal, kidney and bone marrow toxicity. There does not appear to be major liver toxicity from environmental lead exposure.</p>
+        <p><bold>Magnesium</bold> is an essential metal that exists in at least 300 metalloenzymes and metal-enzyme complexes involved with multiple metabolic pathways including energy production, muscle and nerve function, lipid homeostasis, calcium balance, and maintenance of heart rhythm. Total human body magnesium is approximately 25 grams, at least 50% of which is found in bone. Magnesium is found in many foods and the average intake in the United States is 300 to 360 mg daily, which is close to the dietary reference intake (formerly RDA) of 300-420 mg daily in adults (more during pregnancy, less in children). Despite this, magnesium deficiency is not common and occurs largely with severe malnutrition, malabsorption syndromes, chronic alcoholism, and occasionally with chronic use of diuretics or proton pump inhibitors. Signs of magnesium deficiency include diarrhea, nausea, weakness, and muscle cramps. Magnesium supplements typically have 300 to 500 mg which are recommended for oral intake once daily. Magnesium is eliminated in urine and toxicity from excessive levels is uncommon except with renal insufficiency. Signs of magnesium excess include fatigue, weakness, nausea, numbness, muscle cramps, abnormal heart rhythms, photophobia, blurred vision, confusion, and seizures. Measurement of serum levels of magnesium are useful but not always reliable in detecting deficiency. Magnesium is present in many medications and magnesium sulfate is used as treatment of constipation and in colon cleansing agents in preparation of colonoscopy. Intravenous magnesium sulfate is the standard treatment for prevention of seizures in women with eclampsia and requires careful clinical monitoring but is generally safe. Magnesium supplements are sometimes recommended for leg cramps. Unproven uses of magnesium include diabetes, hypertension, and migraine headaches. There is no evidence that magnesium taken in typical oral amounts or given intravenously for eclampsia causes liver injury.</p>
+        <p><bold>Manganese</bold> is a trace element that exists in many metal-enzyme complexes and metalloenzymes, either as a bivalent (Mn2+) or trivalent (Mn3+) ion. Manganese functions in enzyme activation and is present in superoxide reductases, ligases, hydrolases, kinases, transferases, and decarboxylases. Manganese deficiency has been reported in animals and possibly in man, with signs of weight loss, nausea and vomiting, dermatitis, impaired growth, skeletal and hair abnormalities. There are generally adequate amounts of manganese in routine diets and deficiency states are very rare, if they exist at all. Manganese is relatively nontoxic, but excessive exposures accompanied by toxicity have been described in miners and metal workers. Acute toxicity is marked by severe psychiatric symptoms, irritability, anxiety, hallucinations and violent acts. Chronic toxicity can lead to chronic neurologic disorders with headaches, muscle weakness, speech disturbance and extrapyramidal signs. Liver toxicity has not been described.</p>
+        <p><bold>Mercury</bold> is a nonessential trace metal that is a well-known toxin, second only to lead as a cause of heavy metal poisoning. Mercury is used in many areas of manufacturing and is present in dental and medical equipment. Because of the toxicity of acute and chronic exposure to metallic mercury, this metal is now used less and less in industry and attempts are made to remove it from household and medical equipment and appliances. Mercury is also present in fertilizers and pesticides. Mercury used to be used medically, for instance in the therapy of syphilis; however, with safer and more effective therapies, mercury has been abandoned as a primary therapy. Chronic methyl mercury exposure is associated with symptoms of weakness and fatigue, headaches, lower back pain, ataxia, slurred speech, tremor, somnolence, and mental disturbances, including hallucinations and acute psychosis. Any involvement of the liver is overshadowed by the central nervous system toxicity.</p>
+        <p><bold>Molybdenum</bold> is a transition element and is present in several human enzymes, such as xanthine and sulfite oxidases, and in enzyme cofactors in oxidative reduction reactions. Molybdenum is found in many foods and deficiencies are rare. Molybdenum deficiency has been described in animals and rare cases have been reported in patients on total parenteral nutrition, clinical signs being mental disturbances and coma accompanied by hypouricemia and hypermethioninemia. Molybdenum is relatively nontoxic, although high levels may be a cause of high uric acid levels and an increased incidence of gout. Liver toxicity from molybdenum has not been described.</p>
+        <p><bold>Nickel</bold> is a heavy metal and trace element that is active in many chemical reactions but is not clearly an essential element in humans. No metabolic or biochemical function for nickel has been identified in higher animals, but it is found in many tissues and actively interacts with other metals, vitamins, and proteins. Nevertheless, nickel deficiency states have not been identified in humans. Nickel can be toxic at high levels but is unlikely to occur from dietary sources. Nickel can also cause allergic reactions, particularly dermatologic. There is no evidence that nickel causes liver toxicity.</p>
+        <p><bold>Selenium</bold> is present in biologic systems in amino acids, such as selenocysteine and selenomethionine, usually as a part of proteins, which are referred to as selenoproteins. While selenium is present in many important enzyme systems, deficiency of selenium is rare. Keshan disease, an endemic cardiomyopathy affecting children and young women in parts of China, has been linked to selenium deficiency, although other nutritional deficiencies or local factors may also may a role. Excess selenium exposure can cause cirrhosis in laboratory animals, but toxicity in humans has been linked largely to skin, hair, and nail changes. An outbreak of possible selenium toxicity due to a nutritional supplement was marked by nausea, diarrhea, irritability, fatigue, neuropathy, hair loss and nail changes, without liver test abnormalities.</p>
+        <p><bold>Silicon</bold> is a trace element that resembles carbon and can form silicon-carbon as well as silicon-oxygen, silicon-hydrogen, and silicon-nitrogen bonds. The distribution of silicon in bodily tissues suggests that it may be important in cartilage and bone. Silicon is nontoxic when taken orally and has been used in antacids (magnesium trisilicate) for over 50 years without evidence of toxicity.</p>
+        <p><bold>Tin</bold> is a trace element and metal that is widely found in nature and is detectable in many tissues and nutrients. Tin deficiency has been described in rats but has not been clearly shown to exist in humans and its role in normal human metabolism in not clear. Currently, tin is not considered an essential element, although it is sometimes included in homeopathic medications and in over-the-counter dietary supplements. Tin is relatively nontoxic but can alter the metabolism of other trace elements such as zinc and copper. Minor amounts of tin ingestion can cause gastrointestinal distress with nausea, cramps, vomiting and diarrhea, but the reaction is generally mild-to-moderate in severity and self-limited in course. Tin poisoning as might occur with industrial exposure or accidental ingestion, on the other hand, can cause visual effects, stupor, and neurologic abnormalities.</p>
+        <p><bold>Vanadium</bold> is a trace element that exists in multiple oxidation states and forms complexes with proteins. Vanadium has not been shown to be an essential element and, indeed, is absorbed poorly. No deficiency state of vanadium has been demonstrated in humans. High doses of vanadium are toxic to animals and can cause neurologic, hematologic, renal, and hepatic toxicity. Feeding of high doses to humans causes gastrointestinal upset, but vanadium has not been linked to hepatotoxicity due to dietary intake or environmental exposures in humans.</p>
+      </sec>
+      <sec id="TraceElementsAndMeta.SELECTED_REFERENCES">
+        <title>SELECTED REFERENCES</title>
+        <p>References updated: 10 March 2024</p>
+        <ref-list id="TraceElementsAndMeta.SELECTED_REFERENCES.reflist0">
+          <ref id="TraceElementsAndMeta.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999; iron and copper, but not other trace elements are discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.kaplowitz.2013">
+            <mixed-citation publication-type="book">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Textbook on hepatotoxicity; heavy metals and trace elements are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.byrns.2018">
+            <mixed-citation publication-type="book">Byrns MC, Penning TM. Metals. Environmental toxicology: carcinogens and heavy metals. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1303-15.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.king.1999">
+            <mixed-citation publication-type="book">King JC, Keen CL. Zinc. In, Shils ME, Olson JA, Shihe M, Ross AC, eds. Modern nutrition in health and disease. 9th ed. Baltimore: Williams &#x00026; Wilkins, 1999, pp. 223-38.<annotation><p><italic toggle="yes">(Textbook of nutrition).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF5">
+            <mixed-citation publication-type="book">Magnesium. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 985-990.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements, mentions that average daily intakes of magnesium have decreased due to processing of foods but that deficiencies are uncommon).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.hirschman.1963.889">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hirschman</surname>
+<given-names>SZ</given-names></string-name>, <string-name name-style="western"><surname>Feingold</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Boylen</surname>
+<given-names>G</given-names></string-name>. <article-title>Mercury in house paint as a cause of acrodynia. Effect of therapy with N-acetyl-d-l-penicillamine.</article-title>
+<source>N Engl J Med</source>
+<year>1963</year>; <volume>269</volume>: <fpage>889</fpage>-<lpage>93</lpage>.<annotation><p><italic toggle="yes">(10 year old boy developed abdominal, chest and leg pains, emotional lability, and a pink discoloration of the hands [acrodynia] which was found to be due to mercury poisoning, probably from house paint, improved by penicillamine therapy; serum aminotransferase levels were normal).</italic></p></annotation><pub-id pub-id-type="pmid">14050987</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.fristedt.1965.153">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fristedt</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Linqvist</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Scheutz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ovrum</surname>
+<given-names>P</given-names></string-name>. <article-title>Survival in a case of acute oral chromic acid poisoning with acute renal failure treated by haemodialysis.</article-title>
+<source>Acta Med Scand</source>
+<year>1965</year>; <volume>177</volume>: <fpage>153</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(30 year old plating factory worker accidentally swallowed a small amount of chromic acid solution and developed nausea, vomiting, abdominal pain and renal failure followed by jaundice on the second day [bilirubin rising to 9.9 mg/dL, LDH 6,600 U/L], ultimately recovering after chelation therapy and hemodialysis).</italic></p></annotation><pub-id pub-id-type="pmid">14279496</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.louria.1972.307">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Louria</surname>
+<given-names>DB</given-names></string-name>, <string-name name-style="western"><surname>Joselow</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Browder</surname>
+<given-names>AA</given-names></string-name>. <article-title>The human toxicity of certain trace elements.</article-title>
+<source>Ann Intern Med</source>
+<year>1972</year>; <volume>76</volume>: <fpage>307</fpage>-<lpage>19</lpage>.<annotation><p><italic toggle="yes">(Review of toxicity of trace elements including cobalt, copper, manganese, copper, molybdenum, vanadium selenium, nickel, arsenic, cadmium, tellurium, and tin; no discussion of liver injury, cirrhosis or liver cancer).</italic></p></annotation><pub-id pub-id-type="pmid">4550590</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.feinglass.1973.828">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Feinglass</surname>
+<given-names>EJ</given-names></string-name>. <article-title>Arsenic intoxication from well water in the United States.</article-title>
+<source>N Engl J Med</source>
+<year>1973</year>; <volume>288</volume>: <fpage>828</fpage>-<lpage>30</lpage>.<annotation><p><italic toggle="yes">(Among 13 workers exposed to arsenic from well water [21,000 parts per billion] over a 10-week period, 11 developed symptoms of nausea and vomiting, abdominal pain or diarrhea and 2 had neuropathy).</italic></p></annotation><pub-id pub-id-type="pmid">4348410</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.morris.1974.86">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Morris</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Schmid</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Newman</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Scheuer</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Sherlock</surname>
+<given-names>S</given-names></string-name>. <article-title>Arsenic and noncirrhotic portal hypertension.</article-title>
+<source>Gastroenterology</source>
+<year>1974</year>; <volume>66</volume>: <fpage>86</fpage>-<lpage>94</lpage>.<annotation><p><italic toggle="yes">(Two patients with portal hypertension and variceal hemorrhage with minimal portal fibrosis had been treated with Fowler's solution for psoriasis for 3 and 22 years, and also suffered with skin pigmentation, skin cancers, keratosis, and laryngeal and bronchial carcinomas).</italic></p></annotation><pub-id pub-id-type="pmid">4809505</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.wilkinson.1975.559">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wilkinson</surname>
+<given-names>SP</given-names></string-name>, <string-name name-style="western"><surname>McHugh</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Horsley</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Tubbs</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lewis</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Thould</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Winterton</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Arsine toxicity aboard the Asiafreighter.</article-title>
+<source>Br Med J</source>
+<year>1975</year>; <volume>3</volume> (<issue>5983</issue>): <fpage>559</fpage>-<lpage>63</lpage>.<annotation><p><italic toggle="yes">(Four sailors were exposed to arsenous hydride gas, which had leaked from a metal cylinder during a storm at sea, and developed severe fever, headache, muscle and abdominal pains, nausea and vomiting followed by dyspnea, intravascular hemolysis, renal failure and stupor or coma; all had tender hepatomegaly, but liver tests were mostly normal, and all recovered).</italic></p></annotation><pub-id pub-id-type="pmid">169942</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.huet.1975.1270">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Huet</surname>
+<given-names>PM</given-names></string-name>, <string-name name-style="western"><surname>Guillaume</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Cote</surname>
+<given-names>J</given-names></string-name>, <article-title>L&#x000e9;r&#x000e9;, Lavoie P, Viallet A. Noncirrhotic presinusoidal portal hypertension associated with chronic arsenical intoxication.</article-title>
+<source>Gastroenterology</source>
+<year>1975</year>; <volume>68</volume>(<issue>5 Pt 1</issue>): <fpage>1270</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(39 year old man developed noncirrhotic portal hypertension, having received organic arsenicals for psoriasis for 12 years).</italic></p></annotation><pub-id pub-id-type="pmid">1126603</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.pimentel.1977.275">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pimentel</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Menezes</surname>
+<given-names>AP</given-names></string-name>. <article-title>Liver disease in vineyard sprayers.</article-title>
+<source>Gastroenterology</source>
+<year>1977</year>; <volume>72</volume>: <fpage>275</fpage>-<lpage>83</lpage>.<annotation><p><italic toggle="yes">(Histologic description of livers from 30 vineyard sprayers exposed chronically to high levels of copper, found copper granules in Kupffer cells in all 30, with granulomas, fibrosis [portal], nodular regeneration ["liver function was usually normal"], angiosarcoma, cirrhosis and NCPH, although the rates of these findings were not given).</italic></p></annotation><pub-id pub-id-type="pmid">556610</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.ulmer.1977.318">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ulmer</surname>
+<given-names>DD</given-names></string-name>. <article-title>Trace elements.</article-title>
+<source>N Engl J Med</source>
+<year>1977</year>; <volume>297</volume>: <fpage>318</fpage>-<lpage>21</lpage>.<annotation><p><italic toggle="yes">(Brief review of trace elements, their metabolic roles, deficiencies, and toxicities).</italic></p></annotation><pub-id pub-id-type="pmid">876314</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.falk.1981.43">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Falk</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Caldwell</surname>
+<given-names>GG</given-names></string-name>, <string-name name-style="western"><surname>Ishak</surname>
+<given-names>KG</given-names></string-name>, <string-name name-style="western"><surname>Thomas</surname>
+<given-names>LB</given-names></string-name>, <string-name name-style="western"><surname>Popper</surname>
+<given-names>H</given-names></string-name>. <article-title>Arsenic-related hepatic angiosarcoma.</article-title>
+<source>Am J Ind Med</source>
+<year>1981</year>; <volume>2</volume>: <fpage>43</fpage>-<lpage>50</lpage>.<annotation><p><italic toggle="yes">(In a nationwide survey, 7 cases of hepatic angiosarcoma attributable to arsenic exposure were identified between 1964-1974, including 5 who were treated with Fowler's solution for 9-29 years, generally for asthma or psoriasis).</italic></p></annotation><pub-id pub-id-type="pmid">6891179</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.armstrong.1984.276">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Armstrong</surname>
+<given-names>CW</given-names></string-name>, <string-name name-style="western"><surname>Stroube</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Rubio</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Siudyla</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Miller</surname>
+<given-names>GB</given-names>
+<suffix>Jr</suffix></string-name>. <article-title>Outbreak of fatal arsenic poisoning caused by contaminated drinking water.</article-title>
+<source>Arch Environ Health</source>
+<year>1984</year>; <volume>39</volume>: <fpage>276</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Nine family members developed arsenic poisoning caused by contamination of well water [by pesticide], 5 developing renal injury and 4 hepatitis; the most common symptoms were vomiting and diarrhea, periorbital swelling, epistaxis and anemia followed by seizures, fever, rash and coma, 2 dying of heart and renal failure with sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">6497443</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.winship.1984.129">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Winship</surname>
+<given-names>KA</given-names></string-name>. <article-title>Toxicity of inorganic arsenic salts.</article-title>
+<source>Adverse Drug React Acute Poisoning Rev</source>
+<year>1984</year>; <volume>3</volume>: <fpage>129</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Review of the acute and chronic effects of arsenic exposure, both environmental and medicinal).</italic></p></annotation><pub-id pub-id-type="pmid">6397979</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.leads_from_the_mmwr.1984.1938">
+            <mixed-citation publication-type="journal"><collab>Leads from the MMWR</collab>. <article-title>Selenium intoxication--New York.</article-title>
+<source>JAMA</source>
+<year>1984</year>; <volume>251</volume>: <fpage>1938</fpage>.<annotation><p><italic toggle="yes">(57 year old woman developed hair loss, nail changes, nausea, vomiting and fatigue 11 days after starting a selenium supplement [later found to have 31 mg per tablet]; no mention of jaundice or liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">6700094</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.mueller.1989.667">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mueller</surname>
+<given-names>PD</given-names></string-name>, <string-name name-style="western"><surname>Benowitz</surname>
+<given-names>NL</given-names></string-name>. <article-title>Toxicologic causes of acute abdominal disorders.</article-title>
+<source>Emerg Med Clin North Am</source>
+<year>1989</year>; <volume>7</volume>: <fpage>667</fpage>-<lpage>82</lpage>.<annotation><p><italic toggle="yes">(Review of gastrointestinal toxicity of agents including iron, mercury, and copper).</italic></p></annotation><pub-id pub-id-type="pmid">2663462</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.nevens.1990.80">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nevens</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Fevery</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Van Steenbergen</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Sciot</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Desmet</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>De Groote</surname>
+<given-names>J</given-names></string-name>. <article-title>Arsenic and non-cirrhotic portal hypertension. A report of eight cases.</article-title>
+<source>J Hepatol</source>
+<year>1990</year>; <volume>11</volume>: <fpage>80</fpage>-<lpage>5</lpage>.<annotation><p><italic toggle="yes">(Among 47 patients [3 women, 4 men, ages 24-55 years] with non-cirrhotic portal hypertension seen over a 10 year period, 8 gave a history of taking Fowler's solution for psoriasis; all had esophageal varices and splenomegaly with normal liver tests and liver history showing portal fibrosis without cirrhosis; estimated intake was 3-27 grams over 2-15 years, and clinical presentation 2-16 years later with massive variceal bleeding in 7 and ovarian cancer in 1).</italic></p></annotation><pub-id pub-id-type="pmid">2398270</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.florentine.1991.213">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Florentine</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Sanfilippo</surname>
+<given-names>DJ</given-names>
+<suffix>2nd</suffix></string-name>. <article-title>Elemental mercury poisoning.</article-title>
+<source>Clin Pharm</source>
+<year>1991</year>; <volume>10</volume>: <fpage>213</fpage>-<lpage>21</lpage>.<annotation><p><italic toggle="yes">(A 4 year old girl and two of her siblings developed weakness, ataxia, and encephalopathy found to be due to mercury vapors from a small household spill, serum liver enzymes were normal).</italic></p></annotation><pub-id pub-id-type="pmid">1645633</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.mertz.1993.626">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mertz</surname>
+<given-names>W.</given-names></string-name>
+<article-title>Chromium in human nutrition: a review.</article-title>
+<source>J Nutr</source>
+<year>1993</year>; <volume>123</volume>: <fpage>626</fpage>-<lpage>33</lpage>.<annotation><p><italic toggle="yes">(Review of the role of chromium in human nutrition concludes that chromium deficiency leads to insulin resistance, which can be ameliorated by chromium supplementation; chromium deficiency may account for some cases of insulin resistance in the general population).</italic></p></annotation><pub-id pub-id-type="pmid">8463863</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.van_heerden.1994.145">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>van Heerden</surname>
+<given-names>PV</given-names></string-name>, <string-name name-style="western"><surname>Jenkins</surname>
+<given-names>IR</given-names></string-name>, <string-name name-style="western"><surname>Woods</surname>
+<given-names>WP</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Cameron</surname>
+<given-names>PD</given-names></string-name>. <article-title>Death by tanning. A case of fatal basic chromium sulphate poisoning.</article-title>
+<source>Intensive Care Med</source>
+<year>1994</year>; <volume>20</volume>: <fpage>145</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(41 year old woman took an overdose of a leather tanning solution of chromium sulfate and developed nausea, vomiting, diarrhea and confusion followed by acidosis and cardiogenic shock, dying within 36 hours of the ingestion).</italic></p></annotation><pub-id pub-id-type="pmid">8201096</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.loguercio.1997.158">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Loguercio</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>De Girolamo</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Federico</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Feng</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Cataldi</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Del Vecchio Blanco</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Gialanella</surname>
+<given-names>G</given-names></string-name>. <article-title>Trace elements and chronic liver diseases.</article-title>
+<source>J Trace Elem Med Biol</source>
+<year>1997</year>; <volume>11</volume>: <fpage>158</fpage>-<lpage>61</lpage>.<annotation><p><italic toggle="yes">(Blood levels of chromium, manganese, copper, and rubidium were similar in patients with hepatitis C related cirrhosis as controls, but selenium and zinc levels were lower).</italic></p></annotation><pub-id pub-id-type="pmid">9442462</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.wasser.1997.410">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wasser</surname>
+<given-names>WG</given-names></string-name>, <string-name name-style="western"><surname>Feldman</surname>
+<given-names>NS</given-names></string-name>, <string-name name-style="western"><surname>D'Agati</surname>
+<given-names>VD</given-names></string-name>. <article-title>Chronic renal failure after ingestion of over-the-counter chromium picolinate.</article-title>
+<source>Ann Intern Med</source>
+<year>1997</year>; <volume>126</volume>: <fpage>410</fpage>.<annotation><p><italic toggle="yes">(49 year old woman developed renal insufficiency [creatinine 5.9 mg/dL, proteinuria and interstitial nephritis on biopsy], having taken chromium picolinate [600 &#x003bc;g daily] for 6 weeks for weight loss).</italic></p></annotation><pub-id pub-id-type="pmid">9054292</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.cerulli.1998.428">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cerulli</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Grabe</surname>
+<given-names>DW</given-names></string-name>, <string-name name-style="western"><surname>Gauthier</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Malone</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>McGoldrick</surname>
+<given-names>MD</given-names></string-name>. <article-title>Chromium picolinate toxicity.</article-title>
+<source>Ann Pharmacother</source>
+<year>1998</year>; <volume>32</volume>:<fpage>428</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(33 year old woman took chromium picolinate [1.2-2.4 mg/day] for 4-5 months for weight loss and presented with acute hemolytic anemia [15.3%], thrombocytopenia [15,000/&#x003bc;L] renal dysfunction [creatinine 5.3 mg/dL] and liver injury [bilirubin 3.7 mg/dL, ALT 992 U/L, Alk P 131 U/L], resolving within 3 weeks with transfusions and hemodialysis).</italic></p></annotation><pub-id pub-id-type="pmid">9562138</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.jeejeebhoy.1999.329">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jeejeebhoy</surname>
+<given-names>KN</given-names></string-name>. <article-title>The role of chromium in nutrition and therapeutics and as a potential toxin.</article-title>
+<source>Nutr Rev</source>
+<year>1999</year>; <volume>57</volume>: <fpage>329</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Review of the chemistry, metabolism, safety, and role of chromium in human nutrition concludes that chromium is an essential element and that the trivalent form is quite nontoxic within the recommended dosage range).</italic></p></annotation><pub-id pub-id-type="pmid">10628183</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.srivastava.2005.279">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Srivastava</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Peshin</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Kaleekal</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>SK</given-names></string-name>. <article-title>An epidemiological study of poisoning cases reported to the National Poisons Information Centre, All India Institute of Medical Sciences, New Delhi.</article-title>
+<source>Hum Exp Toxicol</source>
+<year>2005</year>; <volume>24</volume>: <fpage>279</fpage>-<lpage>85</lpage>.<annotation><p><italic toggle="yes">(Among 2719 calls to an Indian poisoning center over a 3-year period, 48 [2%] were for copper sulfate and 6 [&#x0003c;0.5%] for heavy metals including arsenic, lead, mercury and thallium).</italic></p></annotation><pub-id pub-id-type="pmid">16004194</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.xiong.2007.112">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Xiong</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>He</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Xia</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>He</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>A</given-names></string-name>. <article-title>Dose-effect relationship between drinking water fluoride levels and damage to liver and kidney functions in children.</article-title>
+<source>Environ Res</source>
+<year>2007</year>; <volume>103</volume>: <fpage>112</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Analysis of 210 children from China found no differences in mean levels of serum protein, albumin, ALT or AST by levels of fluoride in water or urine or serum fluoride concentrations).</italic></p></annotation><pub-id pub-id-type="pmid">16834990</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.sutter.2008.970">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sutter</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Thomas</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Morgan</surname>
+<given-names>B</given-names></string-name>. <article-title>Selenium toxicity: a case of selenosis caused by a nutritional supplement.</article-title>
+<source>Ann Intern Med</source>
+<year>2008</year>; <volume>148</volume>: <fpage>970</fpage>-<lpage>1</lpage>.<annotation><p><italic toggle="yes">(55 year old woman developed hair loss, abnormal nail changes, muscle cramps, fatigue and difficulty concentrating 1 week after starting a nutritional supplement with excessive amounts of selenium).</italic></p></annotation><pub-id pub-id-type="pmid">18559845</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.kapaj.2006.2399">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kapaj</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Peterson</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Liber</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Bhattacharya</surname>
+<given-names>P</given-names></string-name>. <article-title>Human health effects from chronic arsenic poisoning--a review.</article-title>
+<source>J Environ Sci Health A Tox Hazard Subst Environ Eng</source>
+<year>2006</year>; <volume>41</volume>: <fpage>2399</fpage>-<lpage>428</lpage>.<annotation><p><italic toggle="yes">(Thorough review of the complications of chronic arsenic in take).</italic></p></annotation><pub-id pub-id-type="pmid">17018421</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.nielsen.2009.s55">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nielsen</surname>
+<given-names>FH</given-names></string-name>. <article-title>Micronutrients in parenteral nutrition: boron, silicon, and fluoride.</article-title>
+<source>Gastroenterology</source>
+<year>2009</year>; <volume>137</volume> (<issue>5</issue>
+<supplement>Suppl</supplement>): <fpage>S55</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Review of the evidence that boron, silicon, and fluoride are essential elements and can result in deficiencies during parenteral nutrition).</italic></p></annotation><pub-id pub-id-type="pmid">19874950</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.nordberg.2009.192">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nordberg</surname>
+<given-names>GF</given-names></string-name>. <article-title>Historical perspectives on cadmium toxicology.</article-title>
+<source>Toxicol Appl Pharmacol</source>
+<year>2009</year>; <volume>238</volume>: <fpage>192</fpage>-<lpage>200</lpage>.<annotation><p><italic toggle="yes">(History of development of understanding of cadmium toxicity and its acute and chronic pulmonary, renal, hepatic, and testicular toxicities and carcinogenic potential).</italic></p></annotation><pub-id pub-id-type="pmid">19341754</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.wang.2010.145">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>ZQ</given-names></string-name>, <string-name name-style="western"><surname>Cefalu</surname>
+<given-names>WT</given-names></string-name>. <article-title>Current concepts about chromium supplementation in type 2 diabetes and insulin resistance.</article-title>
+<source>Curr Diab Rep</source>
+<year>2010</year>; <volume>10</volume>: <fpage>145</fpage>-<lpage>51</lpage>.<annotation><p><italic toggle="yes">(Chromium supplementation in patients with insulin resistance yields variable results, in some instances showing improvement and some not).</italic></p></annotation><pub-id pub-id-type="pmid">20425574</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.lopez.2010.168">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lopez</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Knable</surname>
+<given-names>AL</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Burruss</surname>
+<given-names>JB</given-names></string-name>. <article-title>Ingestion of a dietary supplement resulting in selenium toxicity.</article-title>
+<source>J Am Acad Dermatol</source>
+<year>2010</year>; <volume>63</volume>: <fpage>168</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Two patients with selenium toxicity; 45 year old woman developed scalp rash and hair loss, discoloration of nails, dizziness, fatigue, and dental caries arising 7 days after starting a selenium supplement; 56 year old woman developed hair loss, nail changes, cramping abdomen pain and fatigue arising 2 weeks after starting the same selenium supplement, both recovering within 1-2 months of stopping; no mention of liver abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">20542184</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.macfarquhar.2010.256">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>MacFarquhar</surname>
+<given-names>JK</given-names></string-name>, <string-name name-style="western"><surname>Broussard</surname>
+<given-names>DL</given-names></string-name>, <string-name name-style="western"><surname>Melstrom</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Hutchinson</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wolkin</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Burk</surname>
+<given-names>RF</given-names></string-name>, <etal>et al.</etal>
+<article-title>Acute selenium toxicity associated with a dietary supplement.</article-title>
+<source>Arch Intern Med</source>
+<year>2010</year>; <volume>170</volume>: <fpage>256</fpage>-<lpage>61</lpage>.<annotation><p><italic toggle="yes">(Among 201 cases of selenium toxicity attributed to a single herbal product from 10 states, 78% had diarrhea, 75% fatigue, 72% hair loss, 70% joint pain, 61% nail changes and all recovered; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20142570</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.whitford.2011.66">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Whitford</surname>
+<given-names>GM</given-names></string-name>. <article-title>Acute toxicity of ingested fluoride.</article-title>
+<source>Monogr Oral Sci</source>
+<year>2011</year>; <volume>22</volume>: <fpage>66</fpage>-<lpage>80</lpage>.<annotation><p><italic toggle="yes">(Acute fluoride toxicity [after doses of &#x0003e;5 mg/kg] typically presents soon after the ingestion with nausea, abdominal pain, bloody vomitus, and diarrhea followed by stupor, seizures, acidosis, electrolyte abnormalities and cardiovascular collapse; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21701192</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.aldosary.2012.57">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aldosary</surname>
+<given-names>BM</given-names></string-name>, <string-name name-style="western"><surname>Sutter</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Schwartz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Morgan</surname>
+<given-names>BW</given-names></string-name>. <article-title>Case series of selenium toxicity from a nutritional supplement.</article-title>
+<source>Clin Toxicol (Phila)</source>
+<year>2012</year>; <volume>50</volume>: <fpage>57</fpage>-<lpage>64</lpage>.<annotation><p><italic toggle="yes">(Review of 9 cases of selenium toxicity attributed to a nutritional supplement with 200 times the claimed concentration of selenium, including 5 men and 4 women, ages 15-57 years, with symptoms of hair loss, nail changes, metallic taste, joint pain, nausea, diarrhea, abdominal pain and difficulty concentrating, and one patient had mild ALT elevations [76 U/L] without jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">22165838</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.perumal.2013.236">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Perumal</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Paul</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Govindarajan</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Panneerselvam</surname>
+<given-names>L.</given-names></string-name>
+<article-title>A brief review on experimental fluorosis.</article-title>
+<source>Toxicol Lett</source>
+<year>2013</year>; <volume>223</volume>: <fpage>236</fpage>-<lpage>51</lpage>.<annotation><p><italic toggle="yes">(Chronic fluoride toxicity is marked by poor mineralization of teeth and bone abnormalities; liver injury can be produced in experimental animals).</italic></p></annotation><pub-id pub-id-type="pmid">24050947</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.chakraborty.2013.492">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chakraborty</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Dutta</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Sural</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Sen</surname>
+<given-names>S</given-names></string-name>. <article-title>Ailing bones and failing kidneys: a case of chronic cadmium toxicity.</article-title>
+<source>Ann Clin Biochem</source>
+<year>2013</year>; <volume>50</volume> (<issue>Pt 5</issue>): <fpage>492</fpage>-<lpage>5</lpage>.<annotation><p><italic toggle="yes">(A 48 year old Indian man who worked in silver manufacturing presented with severe osteomalacia, bone fractures and renal tubular dysfunction [creatinine 2.8 mg/dL, phosphate 1.8 mg/dL, uric acid 1.7 mg/dL, Alk P 412 U/L while "other liver function tests" were normal] with grossly elevated blood cadmium levels).</italic></p></annotation><pub-id pub-id-type="pmid">23800513</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.baba.2013.1228">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Baba</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Tsuneyama</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Yazaki</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Nagata</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Minamisaka</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Tsuda</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Nomoto</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>The liver in itai-itai disease (chronic cadmium poisoning): pathological features and metallothionein expression.</article-title>
+<source>Mod Pathol</source>
+<year>2013</year>; <volume>26</volume>: <fpage>1228</fpage>-<lpage>34</lpage>.<annotation><p><italic toggle="yes">(Pathologic analysis of 89 cases of itai-itai disease and 27 controls showed highest tissue levels of cadmium in the liver and an increase in hepatic fibrosis [24% vs 6%] and hemosiderosis [19% vs 1%], but similar rates of inflammation [11% vs 9%] and steatosis [8% vs 10%] in cases vs controls; no clinical features mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">23558578</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TraceElementsAndMeta.REF.suksomboon.2014.292">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Suksomboon</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Poolsup</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Yuwanakorn</surname>
+<given-names>A</given-names></string-name>. <article-title>Systematic review and meta-analysis of the efficacy and safety of chromium supplementation in diabetes.</article-title>
+<source>J Clin Pharm Ther</source>
+<year>2014</year>; <volume>39</volume>: <fpage>292</fpage>-<lpage>306</lpage>.<annotation><p><italic toggle="yes">(Systematic review identified 25 randomized controlled trials of chromium supplementation in diabetes concluded that chromium [in doses of 200-1000 &#x003bc;g daily] has favorable effects and does not increase the risk of adverse events above that of placebo).</italic></p></annotation><pub-id pub-id-type="pmid">24635480</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

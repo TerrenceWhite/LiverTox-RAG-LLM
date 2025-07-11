@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tinospora" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tinospora</book-part-id>
+      <title-group>
+        <title>Tinospora</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>9</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tinidazole" document-type="chapter">Tinidazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tiotropium" document-type="chapter">Tiotropium</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tinospora.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tinospora.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tinospora cordifolia is an herbaceous climbing shrub native to India and South Asia, extracts of leaves, roots and bark of which have been used extensively in traditional Indian (Ayurveda) medicine for a multitude of conditions including diabetes, arthritis, liver diseases, malaria, pain, urinary tract infection, and recently prevention or amelioration of COVID-19 infection. Several recent reports have documented the occurrence of clinically apparent liver injury with its long term use.</p>
+        </sec>
+        <sec id="Tinospora.Background">
+          <title>Background</title>
+          <p>Tinospora cordifolia is a climbing herbaceous vine found in the subtropical rainforests of India, South Asia, and Africa. Extracts of its bark, roots, and leaves have been used in traditional Indian (Ayurveda) medicine for centuries to treat a variety of conditions including diabetes, rheumatism, jaundice, malaria, asthma, depression, pain, and urinary tract infections. Known as Giloy in Hindi and Guduchi in Sanskrit, Tinospora cordifolia has been found to have possibly beneficial biologic activities in cell culture and in animal models including hypoglycemic, diuretic, antiinflammatory, antioxidant, analgesic, antimalarial, antiviral, hepatoprotective, immunomodulatory, and antineoplastic activities. Chemical analyses have demonstrated more than 60 compounds in Tinospora species including lactones, steroids, flavonoids, lignans, alkaloids, and most characteristically di- and mono-terpenes including the characteristic clerodane-type furanoditerpenoids. Recently, its purported immune boosting effects led to the proposal that it might be helpful in preventing severe COVID-19 infection. However, none of the claimed biologic or clinical activities of Tinospora that were demonstrated in animal studies have been shown in studies in humans. Nevertheless, it is widely available and is purported to activate immune function and restore immune health. Tinospora is available over-the-counter in various forms including solutions, powders, capsules, and tablets as well as raw, dried bark. Tinospora is present in several Ayurvedic combination products. The typical dose is 400 to 1000 mg daily. Side effects are uncommon but may include headache, dizziness, nausea, abdominal discomfort, diarrhea, and rash.</p>
+        </sec>
+        <sec id="Tinospora.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In small rather short term clinical studies of different preparations and concentrations of Tinospora cordifolia, adverse side effects were usually described as uncommon and minimal with no mention of hepatotoxicity. Indeed, Tinospora cordifolia was purported to prevent hepatic injury and, unlike a similar genus, Tinospora crispa, to be without intrinsic hepatotoxicity. Despite these findings, descriptions of liver injury from T. cordifolia similar to those from T. crispa appeared which were initially dismissed as being due to incorrect identification of T. crispa as T. cordifolia. However, reports of more than 50 cases of clinically apparent acute liver injury have appeared since 2017 and particularly during the COVID-19 pandemic probably fueled by the suggestion that Tinospora cordifolia was an immune booster and might ameliorate or prevent clinically apparent COVID-19 infection. The cases were reported mostly from India and Thailand, but single cases were reported from Germany, Belgium, France and the United States. In addition to publications of more than 50 cases of T. cordifolia induced liver injury, there are at least 7 published cases attributed to T. crispa. The injury from both species was typically hepatocellular with ALT and AST values of 10 to 50 times the upper limit of normal (500 to 3000 U/L), minimal alkaline phosphatase and GGT elevations, and variable degrees of hyperbilirubinemia. The latency to onset ranged from a few weeks to 6 months. Immune allergic symptoms (fever and rash) occurred but were not common, while autoantibodies were frequent and sometimes accompanied by hyperglobulinemia and autoimmune features on liver biopsy. Several fatal cases with submassive hepatic necrosis have been described, most often in patients with preexisting liver disease.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tinospora.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Tinospora cordifolia has multiple constituents and the chemical compound responsible for liver injury is not known, although thought to be a diterpenoid. The clinical features of Tinospora liver injury suggest that it is immunologically mediated. Cases appear to be more frequent and more severe in patients with preexisting liver disease and its immune boosting activities may be responsible for some of its toxicity.</p>
+        </sec>
+        <sec id="Tinospora.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Cases of liver injury from Tinospora cordifolia have ranged in severity from minimally symptomatic elevations in serum aminotransferase levels to cases of mild hepatitis resolving rapidly upon stopping to severe hepatitis including acute liver failure leading to fatalities. Liver injury from Tinospora is typically self-limited in course and chronic injury has not been clearly described. However, many cases arise in patients with preexisting liver disease and present as acute-on-chronic liver injury, which can result in worsening of the underlying liver disease and evidence of chronic injury.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="book-part">Herbal and Dietary Supplements</related-object></p>
+          <p>Other names: Giloy, Guduchi, Heart-leaved Moonseed</p>
+        </sec>
+      </sec>
+      <sec id="Tinospora.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Tinospora.Case_1_Acute_hepatitis_with_ja">
+          <title>Case 1. Acute hepatitis with jaundice attributed to a multiingredient product containing Tinospora cordifolia, Butterbur, and Spirulina.(<xref ref-type="bibr" rid="Tinospora.REF.1">1</xref>)</title>
+          <p>A 59 year old Japanese woman with recurrent sinusitis developed fatigue and poor appetite followed by dark urine and jaundice approximately six weeks after starting a commercial multiingredient herbal product called Hilma Indoor-Outdoor Sinus Support. She had no previous history of liver disease or risk factors for viral hepatitis and did not drink alcohol. She had many drug allergies, including responses to sulfa antibiotics, penicillin, tetracycline, and montelukast. Her other medical conditions (and medications) included hypertension (amlodipine, losartan), asthma (fluticasone), sinusitis (cetirizine), hyperlipidemia (atorvastatin), constipation (macrogol), obesity, and diabetes. She had taken her other medications chronically for many years. After 2 weeks of symptoms, she sought medical care and was found to be jaundiced. She was admitted for evaluation and the herbal product was stopped. Her laboratory tests showed a total serum bilirubin of 19.6 mg/dL, ALT 755 U/L, AST 696 U/L, alkaline phosphatase 173 U/L (<italic toggle="yes">R</italic>=7.1: hepatocellular). The INR was 1.4 and serum albumin 3.9 g/dL. Tests for hepatitis A, B, and C were negative. The ANA (1:40) and SMA (1:160) were positive, but the AMA was negative, and IgG levels were in the high normal range (1631 mg/dL). An abdominal ultrasound was normal without evidence of biliary obstruction or gallstones. The herbal product was stopped. Over the next several days, her bilirubin rose to 33.6 mg/dL and INR to 1.6 (Table). A liver biopsy showed acute hepatitis with bridging necrosis and collapse, but with minimal fibrosis and scant steatosis. There were dense portal lymphocytic infiltrates but few plasma cells. The tentative diagnosis was drug induced liver injury due to the herbal product. HILMA was labeled as having 4 ingredients: Indian Tinospora extract [450 mg], Stinging nettle powder [400 mg], Spirulina powder [30 mg], and petasins from Butterbur Extract [16 mg]. When seen in follow up, she slowly improved, and 6 and 9 months after onset, she was asymptomatic, and all liver tests were normal.</p>
+          <sec id="Tinospora.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Tinospora.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Tinospora.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Tinospora.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Tinospora cordifolia [400 mg daily], Likelihood score &#x0201c;A&#x0201d;<break/>Butterbur [16 mg daily], Likelihood score &#x0201c;C&#x0201d;<break/>Spirulina [30 mg daily], Likelihood score &#x0201c;D&#x0201d;</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tinospora.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Tinospora.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=7.1)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tinospora.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Tinospora.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">4+ (jaundice, hospitalization, INR &#x0003e;1.5)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tinospora.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Tinospora.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">~6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tinospora.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Tinospora.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete within 6 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tinospora.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Tinospora.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Atorvastatin, losartan, amlodipine, cetirizine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tinospora.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Tinospora.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3 hd_h_Tinospora.Td_1_1_1_4 hd_h_Tinospora.Td_1_1_1_5 hd_h_Tinospora.Td_1_1_1_6" colspan="4" valign="top" align="left" rowspan="1">Started HILMA Indoors/Outdoors Sinus Support</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">-2 weeks</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3 hd_h_Tinospora.Td_1_1_1_4 hd_h_Tinospora.Td_1_1_1_5 hd_h_Tinospora.Td_1_1_1_6" colspan="4" valign="top" align="left" rowspan="1">Developed symptoms of fatigue, nausea, jaundice</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">755</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">173</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">19.6</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admitted, agent stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">476</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">33.6</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR 1.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">334</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">129</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">33.5</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR 1.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">267</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">118</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">31.8</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">51 days</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.3</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Outpatient visit</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">104</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR 1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_1 hd_h_Tinospora.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Upper Limit of Normal</bold>
+</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>70</bold>
+</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>115</bold>
+</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>1.2</bold>
+</td>
+                    <td headers="hd_h_Tinospora.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tinospora.Comment">
+            <title>Comment</title>
+            <p>A middle-aged woman developed acute, icteric hepatitis 6 weeks after starting a multiingredient herbal product for &#x0201c;sinus health&#x0201d;. The injury was scored as &#x0201c;severe&#x0201d; with bilirubin rising to above 30 mg/dL and INR to above 1.5. The severity may have been due partially to her delay in seeking medical care and continuation of the product for 2 weeks after onset of symptoms. She began to improve spontaneously a week and a half after stopping but remained jaundiced for almost two months. In long term follow up, she had recovered completely. The challenge in the case was to assign causality to a specific component because three of the ingredients have been implicated in causing liver injury, generally with a hepatocellular pattern and sometimes a severe course. Assigning the most likely cause to Tinospora was based on the higher dose and the frequency of reports in the literature. Thus, Tinospora has a LiverTox likelihood score of &#x0201c;A&#x0201d; (&#x0003e;50 reports in the literature), while butterbur has a &#x0201c;C&#x0201d; (4-11 case reports), and Spirulina a &#x0201c;D&#x0201d; (only 1 report).</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Tinospora.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tinospora cordifolia &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+        <table-wrap id="Tinospora.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tinospora.Te_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tinospora.Te_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tinospora.Te_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tinospora.Te_1_1_1_4" valign="middle" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tinospora.Te_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Clerodane Diterpenoids</td>
+                <td headers="hd_h_Tinospora.Te_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135161005">51773-71-8</ext-link>
+</td>
+                <td headers="hd_h_Tinospora.Te_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">C20-H32</td>
+                <td headers="hd_h_Tinospora.Te_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">SID: 135161005</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tinospora.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Tinospora.CITED_REFERENCE.reflist0">
+          <ref id="Tinospora.REF.1">
+            <label>1</label>
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Grant</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+<source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>1399</fpage>-<lpage>408</lpage>.<pub-id pub-id-type="pmid">25043597</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Tinospora.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 September 2024</p>
+        <p>Abbreviations: HDS, herbal and dietary supplements.</p>
+        <ref-list id="Tinospora.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tinospora.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not Tinospora).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.liu.2007">
+            <mixed-citation publication-type="book">Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; no mention of Tinospora).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF4">
+            <mixed-citation publication-type="book">Tinospora. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 935-7.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.sangsuwan.2004.543">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sangsuwan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Udompanthurak</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Vannasaeng</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Thamlikitkul</surname>
+<given-names>V</given-names></string-name>. <article-title>Randomized controlled trial of Tinospora crispa for additional therapy in patients with type 2 diabetes mellitus.</article-title>
+<source>J Med Assoc Thai.</source>
+<year>2004</year>;<volume>87</volume>:<fpage>543</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Among 40 patients from Thailand with type 2 diabetes with inadequate responses to oral hypoglycemic agents and refusal to start insulin who were treated with Tinospora crispa [1 gm] or placebo 3 times daily for 6 months, fasting glucose, HgbA1c, and insulin levels did not change, while patients on the herbal therapy lost weight, had increases in serum cholesterol, and two [10%] had marked increases in serum ALT or AST [above 200 U/L] without symptoms or jaundice that resolved rapidly with stopping treatment [to less than 30 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">15222526</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.denis.2007.271">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Denis</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>G&#x000e9;rard</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Sahpaz</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Laporte</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Viget</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Ajana</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Riff</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>
+<article-title>Prophylaxie antipalud&#x000e9;enne par plantes m&#x000e9;dicinales: h&#x000e9;patite toxique &#x000e0; Tinospora crispa</article-title>
+<comment>[Malarial prophylaxis with medicinal plants: toxic hepatitis due to Tinospora crispa]</comment>. <source>Therapie.</source>
+<year>2007</year>;<volume>62</volume>:<fpage>271</fpage>-<lpage>2</lpage>. <comment>French.</comment><annotation><p><italic toggle="yes">(37 year old man developed indigestion and fatigue 7 weeks after starting an herbal preparation of Tinospora crispa as prophylaxis against malaria while visiting in Indonesia [ALT 18 times ULN, GGT 4 times ULN, bilirubin levels not given], which resolved within a few weeks of stopping, chemical analysis demonstrating typical profile of T. crispa and the apparent dose being 3.2 gm daily).</italic></p></annotation><pub-id pub-id-type="pmid">17955597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.jacobsson.2009.1039">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jacobsson</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>J&#x000f6;nsson</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Gerd&#x000e9;n</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>H&#x000e4;gg</surname>
+<given-names>S</given-names></string-name>. <article-title>Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2009</year>; <volume>18</volume>: <fpage>1039</fpage>-<lpage>47</lpage>.<annotation><p><italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals in a Swedish Registry does not list Tinospora among products associated with 5 or more reports).</italic></p></annotation><pub-id pub-id-type="pmid">19650152</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.reuben.2010.2065">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+<source>Hepatology</source>
+<year>2010</year>; <volume>52</volume>: <fpage>2065</fpage>-<lpage>76</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, including several herbal mixtures, usnic acid, Ma Huang, black cohosh, and Hydroxycut, but not Tinospora).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.teschke.2012.1543">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Teschke</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wolff</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Frenzel</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Schulze</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Eickhoff</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+<source>Liver Int</source>
+<year>2012</year>; <volume>32</volume>: <fpage>1543</fpage>-<lpage>56</lpage>.<annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements but does not mention or list Tinospora).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.navarro.2013.715">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Seeff</surname>
+<given-names>LB</given-names></string-name>. <article-title>Liver injury induced by herbal complementary and alternative medicine.</article-title>
+<source>Clin Liver Dis</source>
+<year>2013</year>; <volume>17</volume>: <fpage>715</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Review of the epidemiology, regulatory status, diagnosis, pathogenesis and causes of liver injury from herbal products with specific discussion of conjugated linoleic acid, ephedra, germander, green tea, usnic acid, flavocoxid, aloe vera, chaparral, greater celandine, black cohosh, comfrey, kava, skullcap, valerian, noni juice, pennyroyal and traditional herbal remedies, but does not mention Tinospora).</italic></p></annotation><pub-id pub-id-type="pmid">24099027</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.navarro.2014.1399">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Grant</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+<source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>1399</fpage>-<lpage>408</lpage>.<annotation><p><italic toggle="yes">(Among 839 cases of liver injury from drugs collected in the US between 2004 and 2013, 130 were due to HDS products, including 45 from body building agents [probably anabolic steroids] and 85 from diverse HDS products, but no case was attributed specifically to Tinospora).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.langrand.2014.1120">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Langrand</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Regnault</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Cachet</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Bouzidi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Villa</surname>
+<given-names>AF</given-names></string-name>, <string-name name-style="western"><surname>Serfaty</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Garnier</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Toxic hepatitis induced by a herbal medicine: Tinospora crispa.</article-title>
+<source>Phytomedicine.</source>
+<year>2014</year>;<volume>21</volume>:<fpage>1120</fpage>-<lpage>3</lpage>.<annotation><p><italic toggle="yes">(49 year old man developed abdominal pain, dark urine, and jaundice 4 weeks after starting Tinospora crispa for back pain [bilirubin 20.5 mg/dL, ALT 2029 U/L, Alk P 81 U/L], liver biopsy showing an acute hepatitis, and stopping the herb led to rapid improvement with normal liver tests within 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">24867504</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.brown.2017.472">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>AC</given-names></string-name>. <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+<source>Food Chem Toxicol</source>
+<year>2017</year>; <volume>107</volume>: <fpage>472</fpage>-<lpage>501</lpage>.<annotation><p><italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products does not list or discuss Tinospora).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.cachet.2018.13520">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cachet</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Langrand</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Riffault-Valois</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Bouzidi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Colas</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Dugay</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Michel</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Clerodane furanoditerpenoids as the probable cause of toxic hepatitis induced by Tinospora crispa.</article-title>
+<source>Sci Rep.</source>
+<year>2018</year>;<volume>8</volume>:<fpage>13520</fpage>.<annotation><p><italic toggle="yes">(57 year old man from the French West Indies developed fever, fatigue, dark urine and jaundice 3 weeks after starting an extract of Tinospora crispa [bilirubin 2.0 mg/dL, ALT 1423 U/L, GGT 155 U/L], which resolved rapidly upon stopping; analysis of the extract demonstrated components compatible with T. crispa, among which furano-diterpenoids were considered the most likely causes of the injury).</italic></p></annotation><pub-id pub-id-type="pmid">30202067</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.medinacaliz.2018.1495">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Cortes</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gonzalez-Jimenez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Cabello</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Robles-Diaz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sanabria-Cabrera</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Sanjuan-Jimenez</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>; <collab>Spanish DILI Registry</collab>. <article-title>Herbal and dietary supplement-induced liver injuries in the Spanish DILI Registry.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2018</year>;<volume>16</volume>:<fpage>1495</fpage>-<lpage>1502</lpage>.<annotation><p><italic toggle="yes">(Among 856 cases of hepatotoxicity enrolled in the Spanish DILI Registry between 1994 and 2016, 32 were attributed to herbal products, the most frequent cause being green tea [n=8] and Herbalife products [n=6], no mention of Tinospora).</italic></p></annotation><pub-id pub-id-type="pmid">29307848</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.huang.2019.286">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Huang</surname>
+<given-names>WT</given-names></string-name>, <string-name name-style="western"><surname>Tu</surname>
+<given-names>CY</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>FY</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>ST</given-names></string-name>. <article-title>Literature review of liver injury induced by Tinospora crispa associated with two cases of acute fulminant hepatitis.</article-title>
+<source>Complement Ther Med.</source>
+<year>2019</year>;<volume>42</volume>:<fpage>286</fpage>-<lpage>291</lpage>.<annotation><p><italic toggle="yes">(Two Taiwanese men, ages 63 and 57, developed acute liver failure after taking Tinospora crispa daily for 1 week and 1 month [bilirubin 20 and 10 mg/dL, ALT &#x0003e;2000 and 1844 U/L], the first progressing to liver failure and death and the second ultimately recovering).</italic></p></annotation><pub-id pub-id-type="pmid">30670256</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.karousatos.2021.91">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Karousatos</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JK</given-names></string-name>, <string-name name-style="western"><surname>Braxton</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Fong</surname>
+<given-names>TL</given-names></string-name>. <article-title>Case series and review of Ayurvedic medication induced liver injury.</article-title>
+<source>BMC Complement Med Ther.</source>
+<year>2021</year>;<volume>21</volume>:<fpage>91</fpage>.<annotation><p><italic toggle="yes">(Three patients seen in Los Angeles developed acute hepatitis while taking Ayurvedic medications including a 68 year old South Asian woman who developed hepatitis 4 months after starting Tinospora cordifolia alone [bilirubin 1.0 rising to 3.7 mg/dL, ALT 1016 U/L, Alk P 113 U/L, INR 1.0, ANA weakly positive], resolving rapidly upon stopping; the other two patients developed a similar hepatitis, both after starting mixtures of Ayurvedic medicines, one of which included Tinospora cordifolia with 18 other agents).</italic></p></annotation><pub-id pub-id-type="pmid">33714265</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.nagral.2021.732">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nagral</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Adhyaru</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Rudra</surname>
+<given-names>OS</given-names></string-name>, <string-name name-style="western"><surname>Gharat</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Bhandare</surname>
+<given-names>S</given-names></string-name>. <article-title>Herbal immune booster-induced liver injury in the COVID-19 pandemic - A case series.</article-title>
+<source>J Clin Exp Hepatol.</source>
+<year>2021</year>;<volume>11</volume>:<fpage>732</fpage>-<lpage>738</lpage>.<annotation><p><italic toggle="yes">(Over a 4 month period during the COVID-19 pandemic, 6 patients were seen at a referral center in India with acute liver injury due to Tinospora cordifolia taken for COVID prophylaxis [mean peak bilirubin 17.5 mg/dL, ALT 1092 U/L, ANA positive in 3], biopsies demonstrating features of autoimmune hepatitis, all recovering after stopping, often receiving corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">34230786</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.bj_rnsson.2022.6">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>. <article-title>Liver injury following Tinospora cordifolia consumption: drug induced AIH, or <italic toggle="yes">de novo</italic> AIH?</article-title>
+<source>J Clin Exp Hepatol.</source>
+<year>2022</year>; <volume>12</volume>: <fpage>6</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Nagral [2021] mentions that the 6 patients with T. cordifolia-associated liver injury had clinical features of autoimmune hepatitis and that the resolution of injury upon withdrawal of the product indicated that it could be labelled as herb induced autoimmune-like hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">35068778</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.ballotin.2021.5490">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ballotin</surname>
+<given-names>VR</given-names></string-name>, <string-name name-style="western"><surname>Bigarella</surname>
+<given-names>LG</given-names></string-name>, <string-name name-style="western"><surname>Brand&#x000e3;o</surname>
+<given-names>ABM</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Soldera</surname>
+<given-names>J</given-names></string-name>. <article-title>Herb-induced liver injury: Systematic review and meta-analysis.</article-title>
+<source>World J Clin Cases.</source>
+<year>2021</year>;<volume>9</volume>:<fpage>5490</fpage>-<lpage>5513</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the literature on herb induced liver injury identified 446 references describing 936 cases due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90] Herbalife products [64], kava kava [62] and greater celandine [48]; mentions two cases attributed to Tinospora crispa among the 79 implicated products).</italic></p></annotation><pub-id pub-id-type="pmid">34307603</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.bessone.2022.e548">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Hernandez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Parana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Mendizabal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schinoni</surname>
+<given-names>MI</given-names></string-name>, <etal>et al.</etal>
+<article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2022</year>;<volume>20</volume>:<fpage>e548</fpage>-<lpage>e563</lpage>.<annotation><p><italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American DILI Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5] and garcinia [n=3], while Tinospora was not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">33434654</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.gupta.2022.232">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gupta</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Dhankhar</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Har</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Agarwal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Singh</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Saigal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Jadaun</surname>
+<given-names>SS</given-names></string-name>. <article-title>Probable drug-induced liver injury caused by <italic toggle="yes">Tinospora species</italic>: a case report.</article-title>
+<source>J Clin Exp Hepatol.</source>
+<year>2022</year>;<volume>12</volume>:<fpage>232</fpage>-<lpage>234</lpage>.<annotation><p><italic toggle="yes">(In a letter to the editor in response to the report by Nagral [2021], two cases of biopsy proven hepatitis possibly related to Tinospora cordifolia were described, laboratory results and outcomes not provided).</italic></p></annotation><pub-id pub-id-type="pmid">35068807</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.kulkarni.2022.1289">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kulkarni</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Hanchanale</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Prakash</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Kalal</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Sharma</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kumar</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Bishnu</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>; <collab>Liver Research Club India</collab>. <article-title>Tinospora cordifolia (Giloy)-induced liver injury during the COVID-19 pandemic-multicenter nationwide study from India.</article-title>
+<source>Hepatol Commun.</source>
+<year>2022</year>;<volume>6</volume>:<fpage>1289</fpage>-<lpage>1300</lpage>.<annotation><p><italic toggle="yes">(Retrospective study from 13 Indian medical centers enrolled 43 patients with suspected Tinospora cordifolia induced hepatitis between April 2020 and July 2021, of whom half were women [54%], mean age 50.4 years, presenting with acute hepatitis [44%], acute worsening of chronic liver disease [51%], or acute liver failure [5%]; median initial bilirubin 11.7 mg/dL, ALT 281 U/L [range 56-1269 U/L], Alk P 215 U/L, INR 1.53, ANA positivity in 42%, leading to death in 4 and liver transplant in 2 patients).</italic></p></annotation><pub-id pub-id-type="pmid">35037744</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.may.2023.327">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>May</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Jeitler</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Murthy</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Stapelfeldt</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Kessler</surname>
+<given-names>CS</given-names></string-name>. <article-title>A case report of acute hepatitis involving the medicinal herb <italic toggle="yes">Tinospora cordifolia</italic> along with other variables.</article-title>
+<source>J Integr Complement Med.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>327</fpage>-<lpage>333</lpage>.<annotation><p><italic toggle="yes">(54 year old German woman developed fatigue and nausea 3 months after starting Ayurvedic herbals including Tinospora cordifolia [bilirubin 2.0 mg/dL, ALT 2534 U/L, Alk P 137 U/L, GGT 218 U/L], resolving within 2-3 months of discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">36930784</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.nnamani.2023.e39793">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nnamani</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Tolu-Akinnawo</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Dufera</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Akintunde</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Maliakkal</surname>
+<given-names>B</given-names></string-name>. <article-title>Tinospora cordifolia (Guduchi/Giloy)-induced liver injury: a case review.</article-title>
+<source>Cureus.</source>
+<year>2023</year>;<volume>15</volume>:<elocation-id>e39793</elocation-id>.<annotation><p><italic toggle="yes">(50 year old woman in Nashville, TN developed abdominal pain 4-5 weeks after starting HistaEze, a Tinospora cordifolia extract containing product, in a dose of 900 mg daily as a means of preventing COVID infection [bilirubin 0.9 mg/dL, ALT 1336 U/L, Alk P 57 U/], resolving within 2-3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">37273324</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.timmery.2023.102151">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Timmery</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Binet</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Delire</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Horsmans</surname>
+<given-names>Y</given-names></string-name>. <article-title>Acute hepatitis induced by Guduchi; Letter to the editor.</article-title>
+<source>Clin Res Hepatol Gastroenterol.</source>
+<year>2023</year>;<volume>47</volume>:<elocation-id>102151</elocation-id>.<annotation><p><italic toggle="yes">(61 year old Belgium woman developed nausea and anorexia 1 month after starting an herbal preparation of Guduchi [bilirubin 4.7 mg/dL, ALT 893 U/L, Alk P 153 U/L, INR 1.2], resolving within a month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">37269895</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.singh.2024.8">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Singh</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Bajwa</surname>
+<given-names>N</given-names></string-name>. <article-title>Is <italic toggle="yes">Tinospora cordifolia</italic> responsible for drug-induced liver injury?</article-title>
+<source>Curr Drug Saf.</source>
+<year>2024</year>;<volume>19</volume>:<fpage>8</fpage>-<lpage>10</lpage>.<annotation><p><italic toggle="yes">(Commentary on the multiple publications implicating Tinospora cordifolia in cases of acute liver injury arguing that the species causing liver injury is not T. cordifolia but rather T. crispa, which was implicated in several cases of hepatitis similar to those in recent reports: &#x0201c;Time-tested herb, Giloy, which has been used for pharmacological benefits since antiquity, as well as clinical and toxicological evidence suggest that Giloy is safe, and the observed negative effects can be attributed to Tinospora crispa, a herb that resembles Tinospora cordifolia in appearance&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">36803756</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tinospora.REF.philips.2024.e37903">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Philips</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Theruvath</surname>
+<given-names>AH</given-names></string-name>. <article-title>A comprehensive review on the hepatotoxicity of herbs used in the Indian (Ayush) systems of alternative medicine.</article-title>
+<source>Medicine (Baltimore)</source>. <year>2024</year>;<volume>103</volume>:<elocation-id>e37903</elocation-id>.<annotation><p><italic toggle="yes">(Extensive review of recent literature on traditional Indian herbs that have been linked to cases of liver injury including Tinosporia cordifolia [Giloy], Withania somnifera [Ashwagandha], Psoralea corylifolia [Bakuchi], and Curcuma longa [Turmeric]; arguing that careful phyto-chemical and DNA analyses have shown that T. cordifolia like T. crispa is associated with occasional instances of acute liver injury, possibly due to their distinctive clerodane-type furano-diterpenoids).</italic></p></annotation><pub-id pub-id-type="pmid">38640296</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tinospora.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tinospora+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tinospora: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tinospora">Trials on Tinospora: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

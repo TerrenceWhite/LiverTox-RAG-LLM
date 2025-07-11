@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Adagrasib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Adagrasib</book-part-id>
+      <title-group>
+        <title>Adagrasib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Acyclovir" document-type="chapter">Acyclovir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Adalimumab" document-type="chapter">Adalimumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Adagrasib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Adagrasib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Adagrasib is a small molecule inhibitor of the KRAS G12C mutant protein which is found in up to 13% of refractory cases of non-small cell lung cancer. Serum aminotransferase elevations are common during therapy with adagrasib, and a proportion of patients develop clinically apparent liver injury that can be severe.</p>
+        </sec>
+        <sec id="Adagrasib.Background">
+          <title>Background</title>
+          <p>Adagrasib (a&#x0201d; dah gras&#x02019; ib) is an orally available, small molecule inhibitor of the KRAS gene product that is a frequently mutated oncogene found in several forms of cancer, most commonly in non-small cell lung cancer (NSCLC). The KRAS (Kristen rat sarcoma viral oncogene homolog) G12C mutation produces a constituently active protein receptor (a member of the RAS GTPase family) that stimulates excessive cell growth. Adagrasib binds to and locks the abnormal receptor into an inactive conformation, thereby inhibiting cell growth and proliferation in tumor cell lines and experimental tumor models with the KRAS G12C mutation. In large open label trials, adagrasib was found to induce objective responses in 43% of patients with refractory NSCLC harboring the KRAS G12C mutation. Adagrasib was granted accelerated approval in the United States in 2022 for adults with NSCLC with documented KRAS G12C mutations, the second small molecule inhibitor approved for this indication (the first being sotorasib). Adagrasib remains under evaluation for other forms of cancer harboring KRAS G12C mutations. Adagrasib is available in tablets of 200 mg under the brand name Krazati. The recommended dose is 600 mg orally twice daily until disease progression or unacceptable toxicity. Side effects of adagrasib are common and arise in almost all treated patients, leading to dose interruptions in 77%, dose modifications in 28%, and permanent discontinuation in 13% of treated patients. Common side effects include diarrhea, nausea and vomiting, decreased appetite, abdominal pain, fatigue, musculoskeletal pain, cough, dyspnea, edema, leukopenia, anemia, renal impairment, hypokalemia, hyponatremia, and aminotransferase elevations. Uncommon but potentially severe adverse events include gastrointestinal bleeding and obstruction, severe diarrhea or nausea, QTc interval prolongation, hepatotoxicity, and interstitial lung disease.</p>
+        </sec>
+        <sec id="Adagrasib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of adagrasib in patients with solid tumors harboring KRAS G12C mutations, liver test abnormalities were frequent although usually self-limited and mild. Some degree of ALT elevations arose in 28% to 46% of adagrasib treated patients and elevations above 5 times the upper limit of normal (ULN) were seen in 5% to 7%. In these trials that enrolled approximately 366 patients, adagrasib was discontinued early due to increased AST or ALT in 8% of patients. In addition, a small proportion of patients developed clinically apparent hepatotoxicity requiring adagrasib discontinuation. The liver test abnormalities had a median onset of 3 weeks after initiation of therapy. While serum aminotransferase elevations were occasionally quite high (5 to 20 times ULN), there were no accompanying elevations in serum bilirubin and no patient developed clinically apparent liver injury with jaundice. The product label for adagrasib recommends monitoring for routine liver tests before, at 3 week intervals during the first 3 months of therapy, and thereafter as clinically indicated.</p>
+          <p>Likelihood score: D (possible but infrequent cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Adagrasib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from adagrasib is unknown, but the pattern of abnormalities suggests immune-mediated liver injury. Several retrospective analyses have found that significant ALT and AST elevations arise most frequently in patients receiving small molecule inhibitors who had received checkpoint inhibitor therapy (usually anti-PD-L1) within 3 months of starting. Furthermore, the histologic and clinical features of liver injury from tyrosine kinase and other small molecule inhibitors frequently resemble those of checkpoint inhibitors and a limited course of corticosteroids is often found to be beneficial.</p>
+          <p>Adagrasib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents. Because of its known toxicity, drugs that inhibit or induce CYP 3A4 activity should be avoided or the dose of adagrasib should be adjusted according. Furthermore, drugs that are substrates of CYP 3A4 may be affected by concurrent treatment with adagrasib and should be avoided.</p>
+        </sec>
+        <sec id="Adagrasib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for adagrasib recommends monitoring for routine liver tests (ALT, AST, alkaline phosphatase, and bilirubin) before starting treatment, monthly for the first 3 months of treatment and as clinically indicated thereafter. The dose of adagrasib should be reduced, held, or permanently discontinued based upon the severity of liver test abnormalities as described in the product label. In patients with jaundice or symptoms of liver injury accompanying the serum aminotransferase elevations, adagrasib should be promptly discontinued and not restarted. Cross sensitivity to liver injury is uncommon among the antineoplastic, small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of adagrasib with other similar small molecule inhibitors such as sotorasib.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Sotorasib" document-type="chapter">Sotorasib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Adagrasib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Adagrasib &#x02013; Krazati&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Adagrasib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Adagrasib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Adagrasib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Adagrasib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Adagrasib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Adagrasib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Adagrasib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Adagrasib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Adagrasib</td>
+                <td headers="hd_h_Adagrasib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://405243592">2326521-71-3</ext-link>
+</td>
+                <td headers="hd_h_Adagrasib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C32-H35-Cl-F-N7-O2</td>
+                <td headers="hd_h_Adagrasib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="405243592" document-id-type="sid" document-type="summary" object-id="405243592" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Adagrasib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 October 2023</p>
+        <p>Abbreviations: KRAS, Kirsten rat sarcoma viral oncogene homolog; NSCLC, non-small cell lung cancer.</p>
+        <ref-list id="Adagrasib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Adagrasib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of small molecule enzyme and receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss adagrasib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216340Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216340Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of adagrasib; states that the overall objective response rate was 43% in adults with NCSLC with KRAS p.G12C mutations and in a pooled safety review [n=366] most patients had at least one adverse event and 48% had a serious adverse event, 32% of patients had an ALT elevation, 5% were above 5 times ULN, and 1 patient [0.3%] developed anicteric drug induced liver injury, with signs of hypersensitivity that resolved on stopping therapy; there were cases of acute liver injury with jaundice or liver failure attributed with adagrasib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.awad.2021.2382">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Awad</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Rybkin</surname>
+<given-names>II</given-names></string-name>, <string-name name-style="western"><surname>Arbour</surname>
+<given-names>KC</given-names></string-name>, <string-name name-style="western"><surname>Dilly</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>VW</given-names></string-name>, <string-name name-style="western"><surname>Johnson</surname>
+<given-names>ML</given-names></string-name>, <etal>et al.</etal>
+<article-title>Acquired resistance to KRASG12C inhibition in cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>2382</fpage>-<lpage>2393</lpage>.<annotation><p><italic toggle="yes">(Among 38 patients being treated with adagrasib for advanced solid tumors harboring a KRAS G12C mutation who had an initial response to therapy but subsequent relapse or progression [&#x0201c;acquired resistance&#x0201d;], further mutations in KRAS DNA were found in DNA from tumor tissue and from circulating tumor DNA, mostly secondary mutations or amplifications in KRAS, but also in other genes in the signaling pathways or with histologic transformations).</italic></p></annotation><pub-id pub-id-type="pmid">34161704</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.j_nne.2022.120">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>J&#x000e4;nne</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Riely</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Gadgeel</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Heist</surname>
+<given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Ou</surname>
+<given-names>SI</given-names></string-name>, <string-name name-style="western"><surname>Pacheco</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Johnson</surname>
+<given-names>ML</given-names></string-name>, <etal>et al.</etal>
+<article-title>Adagrasib in non-small-cell lung cancer harboring a KRASG12C mutation.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>387</volume>:<fpage>120</fpage>-<lpage>131</lpage>.<annotation><p><italic toggle="yes">(Among 116 adult with NSCLC harboring a KRAS G12C mutation treated with adagrasib [600 mg twice daily for a median of 13 months], 43% had an objective response, while adverse events occurred in all treated subjects leading to dose interruption or modification in 83% and permanent discontinuation in 16%, and with ALT elevations in 28% which were above 5 times ULN in 5%).</italic></p></annotation><pub-id pub-id-type="pmid">35658005</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.ou.2022.2530">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ou</surname>
+<given-names>SI</given-names></string-name>, <string-name name-style="western"><surname>J&#x000e4;nne</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Leal</surname>
+<given-names>TA</given-names></string-name>, <string-name name-style="western"><surname>Rybkin</surname>
+<given-names>II</given-names></string-name>, <string-name name-style="western"><surname>Sabari</surname>
+<given-names>JK</given-names></string-name>, <string-name name-style="western"><surname>Barve</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Bazhenova</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>First-in-human phase I/IB dose-finding study of adagrasib (MRTX849) in patients with advanced KRAS/ G12C solid tumors (KRYSTAL-1).</article-title>
+<source>J Clin Oncol.</source>
+<year>2022</year>;<volume>40</volume>:<fpage>2530</fpage>-<lpage>2538</lpage>.<annotation><p><italic toggle="yes">(Among 25 patients with advanced KRAS G12C mutant solid tumors treated with adagrasib [600 mg twice daily], the objective response rate was 53% in NSCLC, while the adverse event rate was 92% with nausea in 76%, diarrhea 70%, vomiting 48%, fatigue 40% and ALT elevations in 20% which were above 5 times ULN in 5%).</italic></p></annotation><pub-id pub-id-type="pmid">35167329</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.dhillon.2023.275">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Adagrasib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2023</year>;<volume>83</volume>:<fpage>275</fpage>-<lpage>285</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacodynamics, clinical efficacy, and safety of adagrasib shortly after its initial approval in the US mentions that it has &#x0201c;manageable tolerability&#x0201d; with an overall adverse event rate of 97% with any liver test abnormality in 37% [among 366 treated patients] and ALT elevations in 28%, which were above 5 times the ULN in 4.3% and had a median time to onset of 3 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">36763320</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.adagrasib_krazati_for_nsclc.2023.e17">
+            <mixed-citation publication-type="journal"><collab>Adagrasib (Krazati) for NSCLC</collab>. <source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e17</fpage>-<lpage>e18</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of adagrasib, mentions that its effects were modest and that hepatotoxicity arose in more than 25% of patients, and that patients should be monitored for liver enzyme and bilirubin levels before and monthly for 3 months during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">36651795</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.chour.2023.1408">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chour</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Denis</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Mascaux</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Zysman</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bigay-Game</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Swalduz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gounant</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>
+<article-title>Brief report: severe sotorasib-related hepatotoxicity and non-liver adverse events associated with sequential anti-programmed cell&#x000a0;death (ligand)1 and sotorasib therapy in KRASG12C-mutant lung cancer.</article-title>
+<source>J Thorac Oncol.</source>
+<year>2023</year>;<volume>18</volume>(<issue>10</issue>):<fpage>1408</fpage>-<lpage>1415</lpage>.<annotation><p><italic toggle="yes">(Among 102 adults with refractory advanced NSCLC and KRAS G12C mutations treated with sotorasib in France outside of clinical trials, 48 who had received check point inhibitor therapy with anti-PD-L1 immediately before sotorasib had higher rates of severe adverse events [50% vs 13%] and higher rates of ALT elevations above 5 times ULN [33% vs 11%], although no fatal instances of hepatotoxicity occurred).</italic></p></annotation><pub-id pub-id-type="pmid">37217096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.desai.2023.100743">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Desai</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Rakshit</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Bansal</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Ashara</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Potter</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Manochakian</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lou</surname>
+<given-names>Y</given-names></string-name>, <etal>et al.</etal>
+<article-title>Time from immune checkpoint inhibitor to sotorasib use correlates with risk of hepatotoxicity in non-small cell lung cancer: A brief report.</article-title>
+<source>Cancer Treat Res Commun.</source>
+<year>2023</year>;<volume>36</volume>:<elocation-id>100743</elocation-id>.<annotation><p><italic toggle="yes">(Among 31 patients with advanced, refractory KRAS G12C-mutated NSCLC treated with sotorasib, 10 [32%] developed ALT elevations above 5 times ULN during therapy, all 10 had received previous check point inhibitor therapy [usually anti-PD-L1] and rates of ALT elevations were higher in those receiving checkpoint inhibitors within 30 days [3 of 4: 75%], than 30-90 days [7 of 11:65%], or greater than 90 days [none of 13: 0%], suggesting that sotorasib triggers a delayed immune mediated hepatotoxicity from anti-PD-L1 therapy if given within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">37531736</pub-id></mixed-citation>
+          </ref>
+          <ref id="Adagrasib.REF.zhang.2023.287">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Johnson</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Barve</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bazhenova</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>McCarthy</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schwartz</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Horvath-Walsh</surname>
+<given-names>E</given-names></string-name>, <article-title>Vet al. Practical guidance for the management of adverse events in patients with KRASG12C-mutated non-small cell lung cancer receiving adagrasib.</article-title>
+<source>Oncologist.</source>
+<year>2023</year>;<volume>28</volume>:<fpage>287</fpage>-<lpage>296</lpage>.<annotation><p><italic toggle="yes">(Review of the adverse events identified in trials of adagrasib and recommendations regarding monitoring and management based upon FDA labeling, mentions that liver enzymes [ALT, AST, Alk P] should be monitored every month for 3 months and that corticosteroid treatment can be considered for &#x0201c;significant hepatotoxicity&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">36892150</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Adagrasib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Adagrasib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Adagrasib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Adagrasib">Trials on Adagrasib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

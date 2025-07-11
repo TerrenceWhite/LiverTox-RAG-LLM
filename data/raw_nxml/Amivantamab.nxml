@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Amivantamab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Amivantamab</book-part-id>
+      <title-group>
+        <title>Amivantamab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Amitriptyline" document-type="chapter">Amitriptyline</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Amlodipine" document-type="chapter">Amlodipine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Amivantamab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Amivantamab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Amivantamab is a bispecific monoclonal antibody that inhibits the receptors of both epidermal growth factor (EGF) and mesenchymal epithelial transition factor (MET) and is used alone or in combination with other antineoplastic agents to treat adults with locally advanced or metastatic non-small cell lung cancer that harbor EGF receptor mutations. Amivantamab when combined with other cancer agents is associated with transient elevations in serum aminotransferase levels during therapy, but it has not been convincingly linked to episodes of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Amivantamab.Background">
+          <title>Background</title>
+          <p>Amivantamab (am&#x0201d; i van&#x02019; ta mab) is a fully human, bispecific monoclonal antibody that targets the receptors of both epidermal growth factor (EGF) and mesenchymal epithelial transition factor (MET). Amivantamab is typically used in combination with lazertinib or other antineoplastic agents to treat adults with locally advanced or metastatic non-small cell lung cancer (NSCLC) that harbors EGF receptor mutations. EGF receptors are frequently mutated in lung cancer resulting in excessive activation of the EGF receptor pathway which promotes cell growth and proliferation, and which may also secondarily activate the c-MET pathway. These mutations are often responsible for the drug resistance to conventional EGF receptor inhibitors, such as erlotinib and gefitinib. Amivantamab has activity against wild type EGF receptors as well as potent activity against receptors that harbor the mutant exon 20 insertion, which is found in 9% of patients diagnosed with NSCLC. When used alone, amivantamab was found to increase progression-free survival compared to placebo in patients with advanced NSCLC who harbored receptor exon 20 insertion mutations and were refractory to previous platinum-based chemotherapy. Subsequently, indications were broadened for amivantamab combined with other agents including lazertinib and carboplatin with pemetrexed even as first line therapy of advanced or metastatic NSCLC with EGF receptor mutations. Amivantamab was approved for use in the United States in 2021 and is available in solution as 350 mg in 7 mL (50 mg/mL) in single dose vials under the brand name Rybrevant. The recommended dose varies by body weight, timing, and which antineoplastic agents are given in combination, but is generally in the range of 1,000 to 2,100 mg given intravenously once weekly for 4 weeks followed by every 3 weeks until unacceptable intolerance or disease progression arises. Side effects are common with amivantamab combination therapy. Common, mild-to-moderate side effects include rash, nail toxicity, infusion reactions, fatigue, stomatitis, nausea, diarrhea, constipation, decreased appetite, edema, musculoskeletal and abdominal pain, paresthesia, and pruritus. Less frequent but potentially severe adverse events include severe infusion-related reactions, interstitial lung disease, venous thromboembolic events, severe skin rash, ocular toxicity and embryo-fetal toxicity. Many of these adverse events are probably due to the kinase inhibitors or cytotoxic agents that are coadministered with amivantamab. Its combination with lazertinib has a boxed warning about thromboembolic events, and routine anticoagulation is recommended for the first 4 months of treatment.</p>
+        </sec>
+        <sec id="Amivantamab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure, single armed trials of amivantamab in patients with refractory, advanced or metastatic NSCLC, liver test abnormalities were frequent, with elevations in ALT in 34% of 362 participants treated. The elevations were generally mild and self-limited in course. Elevations above 5 times the upper limit of normal (ULN) occurred in only 1.4% and were not accompanied by elevations in serum bilirubin. No patient developed evidence of drug induced liver injury or clinically apparent liver injury. Increases in serum ALT levels led to infrequent dose interruptions but not to drug discontinuations. There was no placebo control used in these studies and the background rate of transient ALT elevations in this patient population, who are often receiving other antineoplastic agents, was not known. In subsequent trials of amivantamab combined with conventional chemotherapeutic agents or with lazertinib, serum ALT or AST elevations were more frequent. In patients on the combination of amivantamab with lazertinib, ALT and AST elevations arose in 65% of subjects and were above 5 times ULN in 7%. However, even those higher enzyme elevations were not accompanied by jaundice or symptoms of acute liver injury and no case was considered to have drug induced liver injury. Since approval and more widespread use of amivantamab, there have been no published case reports of clinically apparent liver injury attributed to its use. Thus, amivantamab therapy may be accompanied by transient serum aminotransferase elevations but has not been convincingly implicated in instances of clinically significant liver injury.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Amivantamab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The serum enzyme elevations that arise during amivantamab therapy are probably due to other antineoplastic agents being used or the result of progression of NSCLC or other medical conditions. Amivantamab is a human monoclonal antibody and is metabolized to small oligonucleotides and nucleic acids. It is not metabolized by hepatic microsomal drug-metabolizing enzymes. On the other hand, the pathways inhibited by amivantamab (EGF and MET signaling) play a complex role in hepatic function, repair, and regeneration, and an &#x0201c;off target&#x0201d; effect of their actions might lead indirectly to hepatic injury. Because amivantamab is given in combination with other potent antineoplastic agents, it is difficult to know whether abnormalities are attributable to the monoclonal antibody or the coadministered potentially cytotoxic chemotherapeutic agents.</p>
+        </sec>
+        <sec id="Amivantamab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for amivantamab does not specifically recommend monitoring of liver tests before or during treatment. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to at least temporary cessation of both or at least one of the administered agents. There is no evidence to suggest a cross reactivity in risk for adverse events, hypersensitivity, or hepatic injury between amivantamab and kinase inhibitors or cytotoxic neoplastic agents.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other EGF Receptor Targeted Kinase Inhibitors Used to Treat NSCLC: <related-object link-type="booklink" source-id="livertox" document-id="Axitinib" document-type="book-part">Axitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Erlotinib" document-type="book-part">Erlotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Gefitinib" document-type="book-part">Gefitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lazertinib" document-type="book-part">Lazertinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mobocertinib" document-type="book-part">Mobocertinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Osimertinib" document-type="book-part">Osimertinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Amivantamab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Amivantamab &#x02013; Rybrevant&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Amivantamab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Amivantamab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Amivantamab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Amivantamab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Amivantamab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Amivantamab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Amivantamab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Amivantamab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Amivantamab</td>
+                <td headers="hd_h_Amivantamab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Amivantamab">2171511-58-1</ext-link>
+</td>
+                <td headers="hd_h_Amivantamab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Amivantamab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Amivantamab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 March 2025</p>
+        <p>Abbreviations: EGF, epidermal growth factor; ULN, upper limit of the normal range.</p>
+        <ref-list id="Amivantamab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Amivantamab.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of amivantamab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.multidiscipline_review.2021">
+            <mixed-citation publication-type="web"><string-name name-style="western"><given-names>FDA.</given-names>
+<surname>Multi-Discipline Review</surname></string-name>. <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761210Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761210Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA review of the data on efficacy and safety of amivantamab in support of its approval for therapy of refractory, advanced or metastatic NSCLC with EGF receptor mutations in the US, mentions that liver test abnormalities were frequent in the 362 patients treated, ALT elevations arising in 34% of patients, which were above 5 times the ULN in 1.4%, leading to dose interruptions in several patients, but there were no discontinuations for serum enzyme elevations, and no instances of clinically apparent liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.neijssen.2021.100641">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Neijssen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Cardoso</surname>
+<given-names>RMF</given-names></string-name>, <string-name name-style="western"><surname>Chevalier</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Wiegman</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Valerius</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Anderson</surname>
+<given-names>GM</given-names></string-name>, <string-name name-style="western"><surname>Moores</surname>
+<given-names>SL</given-names></string-name>, <etal>et al.</etal>
+<article-title>Discovery of amivantamab (JNJ-61186372), a bispecific antibody targeting EGFR and MET.</article-title>
+<source>J Biol Chem.</source>
+<year>2021</year>;<volume>296</volume>:<elocation-id>100641</elocation-id>.<annotation><p><italic toggle="yes">(Description of the design and activity of amivantamab which binds to both the EGF receptor and MET blocking the activation of both and demonstrating in vitro better antitumor activity that inhibition of either alone).</italic></p></annotation><pub-id pub-id-type="pmid">33839159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.syed.2021.1349">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Syed</surname>
+<given-names>YY</given-names></string-name>. <article-title>Amivantamab: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>1349</fpage>-<lpage>1353</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of amivantamab shortly after its approval for use in the US, mentions common adverse events of rash, infusion reactions, paronychia, musculoskeletal pain, nausea, constipation, edema, fatigue, cough, stomatitis, and pruritus, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34292533</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF6">
+            <mixed-citation publication-type="journal"><article-title>Amivantamab (Rybrevant) for non-small cell lung cancer.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2022</year>;<volume>64</volume>:<fpage>e184</fpage>-<lpage>e185</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of amivantamab shortly after its approval for use in NSCLC in the US mentions common side effects as well as infusion reactions despite premedication, interstitial lung disease, rash (worsened by sun exposure), and ocular toxicity, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36384764</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.chon.2023.3262">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chon</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Larkins</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Chatterjee</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mishra-Kalyani</surname>
+<given-names>PS</given-names></string-name>, <string-name name-style="western"><surname>Aungst</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Wearne</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Subramaniam</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: amivantamab for the treatment of patients with non-small cell lung cancer with EGFR exon 20 insertion mutations.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>3262</fpage>-<lpage>3266</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on safety and efficacy of amivantamab that supported its accelerated approval by the FDA mentions that the safety review found serious adverse reactions in 30% of patients, discontinuations in 11%, fatal reactions in 2%, none of which were attributed to hepatic adverse events or ALT elevations which arose in 34% of a closely followed subset of patients, but were above 5 times the ULN in only 1.6%).</italic></p></annotation><pub-id pub-id-type="pmid">37022784</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.zhou.2023.2039">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhou</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Cho</surname>
+<given-names>BC</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Paz-Ares</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kitazono</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>; <article-title>PAPILLON Investigators. Amivantamab plus chemotherapy in NSCLC with <italic toggle="yes">EGFR</italic> exon 20 insertions.</article-title>
+<source>N Engl J Med.</source>
+<year>2023</year>;<volume>389</volume>:<fpage>2039</fpage>-<lpage>2051</lpage>.<annotation><p><italic toggle="yes">(Among 308 patients with previously untreated, advanced NSCLC with EGF receptor exon 20 insertions treated with standard chemotherapy with or without amivantamab, progression-free survival was longer with addition of amivantamab [11.4 vs 6.7 months], while severe adverse events were slightly higher [37% vs 31%], but serum ALT elevation rates were similar [27% vs 32%] including those above 5 times ULN [3% vs 1%], but hypoalbuminemia was more frequent with the monoclonal therapy [41% vs 10%]; there were no discontinuations because of ALT elevations or episodes of drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">37870976</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.cho.2024.1486">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cho</surname>
+<given-names>BC</given-names></string-name>, <string-name name-style="western"><surname>Lu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Felip</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Spira</surname>
+<given-names>AI</given-names></string-name>, <string-name name-style="western"><surname>Girard</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <etal>et al.</etal>; <article-title>MARIPOSA Investigators. Amivantamab plus lazertinib in previously untreated <italic toggle="yes">EGFR</italic>-mutated advanced NSCLC.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>;<volume>391</volume>(<issue>16</issue>):<fpage>1486</fpage>-<lpage>1498</lpage>.<annotation><p><italic toggle="yes">(Among 1074 adults with advanced NSCLC harboring EGF receptor mutations [exon 19 deletion or L858R] treated with lazertinib with or without amivantamab vs osimertinib, progression-free survival was longer with the combination vs osimertinib [23.7 vs 16.6 months] while serious adverse events rates were higher [49% vs 33%], as were dose reductions [59% vs 5%], discontinuations [35% vs 14%], and ALT elevations [36% vs 13%], which were above 5 times ULN in 5% vs 2%, but there were no discontinuations for liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">38924756</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.passaro.2024.77">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Passaro</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Melosky</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Shih</surname>
+<given-names>JY</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>; <article-title>MARIPOSA-2 Investigators. Amivantamab plus chemotherapy with and without lazertinib in EGFR-mutant advanced NSCLC after disease progression on osimertinib: primary results from the phase III MARIPOSA-2 study.</article-title>
+<source>Ann Oncol.</source>
+<year>2024</year>;<volume>35</volume>:<fpage>77</fpage>-<lpage>90</lpage>.<annotation><p><italic toggle="yes">(Among 657 patients with EGF receptor mutant, advanced NSCLC refractory of osimertinib who were treated with amivantamab and standard chemotherapy with or without lazertinib or placebo, progression-free survival was highest with amivantamab combined with lazertinib [8.3 months], vs amivantamab and chemotherapy [6.3 months] and chemotherapy alone [4.2 months], but so were serious adverse events [57% vs 32% vs 20%], but rates of ALT elevations were similar [21% vs 20% vs 28%] including elevations above 5 times ULN [5% vs 5% vs 4%] and there were no reports of liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">37879444</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.leighl.2024.3593">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Leighl</surname>
+<given-names>NB</given-names></string-name>, <string-name name-style="western"><surname>Akamatsu</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lim</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Minchom</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Marmarelis</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Sanborn</surname>
+<given-names>RE</given-names></string-name>, <etal>et al.</etal>; <article-title>PALOMA-3 Investigators. Subcutaneous versus intravenous amivantamab, both in combination with lazertinib, in refractory epidermal growth factor receptor-mutated non-small cell lung cancer: primary results from the phase III PALOMA-3 study.</article-title>
+<source>J Clin Oncol.</source>
+<year>2024</year>;<volume>42</volume>:<fpage>3593</fpage>-<lpage>3605</lpage>.<annotation><p><italic toggle="yes">(Among 418 patients with refractory, EGF receptor mutated NSCLC treated with lazertinib and either subcutaneous or intravenous amivantamab, the objective response rate was similar while infusion related reactions were fewer with sc dosing [13% vs 66%] and therapy was in general better tolerated, ALT elevations arising in 20% vs 21% and were above 5 times ULN in 1% of both groups).</italic></p></annotation><pub-id pub-id-type="pmid">38857463</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF12">
+            <mixed-citation publication-type="journal"><article-title>Lazertinib (Lazcluze) for non-small cell lung cancer.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2024</year>;<volume>66</volume>:<fpage>e176</fpage>-<lpage>e177</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of lazertinib shortly after its approval as therapy in combination with amivantamab in 2024, mentions the many side effects of combination therapy but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39466312</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amivantamab.REF.fu.2025.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fu</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Zeng</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Mao</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Qiu</surname>
+<given-names>W</given-names></string-name>, <etal>et al.</etal>
+<article-title>Post-marketing safety surveillance of amivantamab: a real world study based on the FDA adverse event reporting system.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2025</year>:<fpage>1</fpage>-<lpage>9</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Analysis of the FDA Adverse Event Reporting System [FAERS] from 2019 to 2024 found 893 reports of amivantamab among which 16 were attributed to &#x0201c;hepatobiliary disorders&#x0201d; but no details given).</italic></p></annotation><pub-id pub-id-type="pmid">40001304</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Amivantamab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Amivantamab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Amivantamab: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Amivantamab">Trials on Amivantamab: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

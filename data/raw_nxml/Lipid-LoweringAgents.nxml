@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lipid-LoweringAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lipid-LoweringAgents</book-part-id>
+      <title-group>
+        <title>Antilipemic Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>6</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Antiinfective" document-type="chapter">Antiinfective Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntimalarialAgents" document-type="chapter">Antimalarial Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lipid-LoweringAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The lipid lowering agents are used to treat hypercholesterolemia and dyslipidemias. These agents are some of the most frequently used medications in the United States. They are typically used long term and often in combination. The major effects of the lipid lowering drugs are in the lowering of serum low density lipoprotein (LDL) cholesterol levels which are believed to predispose to atherosclerosis and its complications, acute myocardial infarction, cerebrovascular ischemic stroke and peripheral vascular disease. Some of these agents also lower triglyceride levels and others may raise high density lipoprotein (HDL) cholesterol levels which are believed to be protective against atherosclerosis. The medications for dyslipidemia can be grouped into five categories: fibrates, bile acid resins, hydroxymethylglutaryl co-enzyme A (HMG-CoA) reductase inhibitors (known collectively as statins), proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors and miscellaneous agents.</p>
+        <p content-type="pubmed-excerpt">The bile acid resins or sequestrants are the oldest and safest lipid lowering agents, but are less potent than other classes now available and are not always well tolerated. The bile acid sequestrants are highly positively charged and bind to the negatively charged bile acids in the intestine, inhibiting their lipid solubilizing activity and thus reducing cholesterol absorption. They also inhibit the reabsorption of bile acids (absorption of which is typically 95%) and thus cause a contraction of the bile acid pool, which leads to increased bile acid synthesis that competes with cholesterol synthesis in the liver; this may also contribute to a lowering of cholesterol. Three bile acid sequestrants are available in the United States: cholestyramine (Questran: 1973), colestipol (Colestid: 1977) and colesevelam (Welchol: 2000). These agents are also used for therapy of pruritus for their activity in lowering the &#x0201c;pruritogens&#x0201d; that accumulate in cholestatic forms of liver disease. The bile acid resins are not absorbed and have not been linked to instances of clinically apparent liver injury. Nevertheless, some bile acid resins have been found to cause mild serum aminotransferase elevations, usually within the first months of starting therapy and without symptoms or serum bilirubin or alkaline phosphatase elevations. These serum enzyme elevations have been described most frequently after cholestyramine therapy.</p>
+        <p content-type="pubmed-excerpt">Fibrates are fibric acid derivative agents and are used to lower plasma lipids and particularly triglyceride levels. Their mechanism of action is believed to be via activation of the hepatic peroxisome proliferator activated receptors (PPARs), which regulate gene transcription of enzymes involved in lipid synthesis and secretion. Three fibrates have been available and used in the United States: gemfibrozil (Lopid: 1981), fenofibrate (Lifibra, Tricor, Antara, Lipofen, Trigilde: 1993), and clofibrate (Abitrate, Atromid-S: withdrawn 2002). All three have been associated with mild-to-moderate serum aminotransferase elevations during therapy that are typically transient, asymptomatic and may resolve even with continuation. Clofibrate has been withdrawn from use because of its side effects and lack of long term effect in reducing cardiovascular mortality. Gemfibrozil and fenofibrate remain in wide scale use. Fenofibrate has been most convincingly linked to cases of clinically apparent liver injury, which can be severe and prolonged and lead to chronic liver disease and cirrhosis.</p>
+        <p>The hydroxymethylglutaryl co-enzyme A (HMG-CoA) reductase inhibitors (statins) are the most potent, best tolerated and most widely used cholesterol lowering agents and represent some of the most commonly prescribed medications in the United States. HMG-CoA reductase is the rate limiting step in cholesterol synthesis by the liver and inhibition of its activity causes a significant decrease in total and LDL cholesterol levels. The statins also have minor effects on triglyceride or HDL levels. Seven statins are available in the United States: lovastatin (Mevacor: 1987), pravastatin (Pravachol: 1991), simvastatin (Zocor: 1991), fluvastatin (Lescol: 1993), atorvastatin (Lipitor: 1996), rosuvastatin (Crestor: 2003) and pitavastatin (Levalo: 2009). All of the statins have been associated with mild-to-moderate serum aminotransferase elevations during therapy that are typically transient, asymptomatic and may resolve even with continuation. All have also been associated with rare instances of clinically apparent acute liver injury.</p>
+        <p>Proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors are a new class of agents to treat hypercholesterolemia, which were first introduced in 2015. PCSK9 is a circulating serine protease that decreases the activity of the LDL cholesterol receptor in the liver. Blocking this receptor by circulating PCSK9 causes a decrease in the uptake of LDL cholesterol particles, resulting in an increase in LDL cholesterol in the blood. Inhibition of the activity of this protein should therefore cause a decrease in total and LDL cholesterol. Two human monoclonal antibodies to PCSK9 were developed and approved for use in the United States in 2015: alirocumab (Praluent) and evolocumab (Repatha). Treatment with these monoclonal antibodies has been shown to decrease LDL cholesterol by 50% or more in patients who have familial hypercholesterolemia (homozygotes and heterozygotes) as well as in patients who are resistant or intolerant of standard lipid lowering medications, such as the statins. The anti-PCSK9 monoclonal antibodies are typically given subcutaneously every 2 or 4 weeks. Initially, their use was limited to patients with severe hypercholesterolemia that could not be satisfactorily controlled with statins. Recently, however, they have been shown to decrease the frequency of cardiovascular events and their use is likely to expand in the future. Neither of the monoclonal anti-PCSK9 agents have been linked to episodes of clinically apparent liver injury.</p>
+        <p>The miscellaneous medications used for hypercholesterolemia or dyslipidemia include niacin, omega-3 fatty acids, ezetimibe, mipomersen and lomitapide. Niacin is a water soluble B vitamin (vitamin B3, nicotinic acid), but when used to treat dyslipidemia, it is given in doses far in excess of the minimal requirements as a vitamin. Niacin acts by reducing triglyceride synthesis via inhibition of synthesis and esterification of free fatty acids. Niacin favorably affects all aspects of dyslipidemia and is the most potent agent available for increasing HLD cholesterol levels. Niacin is available in multiple generic forms and as a combination with various statins (lovastatin: Advicor and simvastatin: Simcor). High doses of niacin are associated with a high rate of acute liver injury particularly if taken as slow release forms.</p>
+        <p>Omega-3 fatty acids are essential polyunsaturated fatty acids that have several functions in normal metabolism and health. Commonly referred to as "fish oil", many formulations of omega-3 fatty acids are available over-the-counter as nutritional supplements in support of general health. High doses of omega-3 fatty acids can lower serum triglyceride levels and several formulations have been developed as prescription medications for therapy of severe hypertriglyceridemia including omega-3 acid ethyl esters (Lovaza 2004), icosapent ethyl (Vascepa, 2012) and omega-3 carboxylic acids (Epanova, 2014). These agents have occasionally been associated with transient and mild serum enzyme elevations during treatment but have not been linked to cases of clinically apparent liver injury.</p>
+        <p>Ezetimibe (Zetia: 1999) is a lipid lowering agent that acts by inhibition of cholesterol absorption, via binding to the intestinal protein known as Neiman Pick C1 like protein 1, the major cholesterol transport protein in the intestine. Inhibition of cholesterol absorption is usually followed by an increase in hepatic cholesterol synthesis, which can be blocked by HMG-CoA reductase inhibitors. For these reasons, ezetimibe is usually used in conjunction with statins and it is often used in fixed combinations (Vytorin). Ezetimibe has been linked to a low rate of mild-to-moderate serum aminotransferase elevations during therapy and rare instances of clinically apparent acute liver injury.</p>
+        <p>Two new agents became available in 2013 for therapy of homozygous familial hypercholesterolemia, a rare but severe inborn error of metabolism marked by high levels of low density lipoprotein cholesterol and childhood onset of complications of atherosclerosis. Mipomersen (Kynamro) is an antisense oligonucleotide that binds to the mRNA that encodes apolipoprotein B. Lomitapide (Juxtapid) is an inhibitor of microsomal triglyceride transport protein which blocks production of apolipoprotein B containing lipoproteins in the liver and intestine. Both agents can lower serum cholesterol levels by 25% to 30% in patients with familial hypercholesterolemia; however, both are hepatotoxic and their use is restricted. Both mipomersen and lomitapide can cause serum aminotransferase elevations and hepatic steatosis and thus may induce or exacerbate nonalcoholic fatty liver.</p>
+        <p>The following medications for dyslipidemia and hypercholesterolemia are discussed individually in LiverTox:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="BileAcidResins" document-type="book-part">Bile Acid Resins/Sequestrants</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Cholestyramine" document-type="book-part">Cholestyramine</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Colesevelam" document-type="book-part">Colesevelam</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Colestipol" document-type="book-part">Colestipol</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Fibrates" document-type="book-part">Fibrates</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Clofibrate" document-type="book-part">Clofibrate</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Fenofibrate" document-type="book-part">Fenofibrate</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Gemfibrozil" document-type="book-part">Gemfibrozil</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Alirocumab" document-type="book-part">Alirocumab</related-object> (Anti-PCSK9)</p>
+              </list-item>
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Evinacumab" document-type="book-part">Evinacumab</related-object> (Anti-ANGPTL3)</p>
+              </list-item>
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Evolocumab" document-type="book-part">Evolocumab</related-object> (Anti-PCSK9)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Niacin" document-type="book-part">Niacin (Nicotinic Acid)</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Omega3FattyAcids" document-type="book-part">Omega-3 Fatty Acids</related-object>,</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Omega3FattyAcids" document-type="book-part">Icosapent Ethyl</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Omega3FattyAcids" document-type="book-part">Omega-3 Acid Ethyl Esters</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Omega3FattyAcids" document-type="book-part">Omega-3 Carboxylic Acids</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Statins" document-type="book-part">Statins</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Atorvastatin" document-type="book-part">Atorvastatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Fluvastatin" document-type="book-part">Fluvastatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Lovastatin" document-type="book-part">Lovastatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Pitavastatin" document-type="book-part">Pitavastatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Pravastatin" document-type="book-part">Pravastatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Rosuvastatin" document-type="book-part">Rosuvastatin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Simvastatin" document-type="book-part">Simvastatin</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Miscellaneous</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="BempedoicAcid" document-type="book-part">Bempedoic Acid</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Ezetimibe" document-type="book-part">Ezetimibe</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Inclisiran" document-type="book-part">Inclisiran</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Lomitapide" document-type="book-part">Lomitapide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>Mipomersen</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Resmetirom" document-type="book-part">Resmetirom</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="Lipid-LoweringAgents.SELECTED_REFERENCES">
+        <title>SELECTED REFERENCES</title>
+        <p>References updated: 04 June 2019</p>
+        <ref-list id="Lipid-LoweringAgents.SELECTED_REFERENCES.reflist0">
+          <ref id="Lipid-LoweringAgents.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that the statins have dose related hepatic effects in guinea pigs and rabbits and transient elevations in aminotransferases occur in 1-5% of humans treated; several cases of clinically apparent liver injury from lovastatin and simvastatin have been published).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro V. Lipid regulating agents. Hepatotoxicity of cardiovascular and antidiabetic medications. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 526-7.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering agents).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF.gurgle.2018">
+            <mixed-citation publication-type="book">Gurgle HE, Blumenthal DK. Drug therapy for dyslipidemias. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 605-18.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF.law.2006.52c">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Law</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Rudnicka</surname>
+<given-names>AR</given-names></string-name>. <article-title>Statin safety: a systematic review.</article-title>
+<source>Am J Cardiol</source>
+<year>2006</year>; <volume>97</volume>(<issue>8A</issue>): <fpage>52C</fpage>-<lpage>60C</lpage>.<annotation><p><italic toggle="yes">(Review of safety of statins; 38 cases of acute liver failure were submitted to MedWatch by end of 1999, which gives an estimated rate of 1 per million person-years of use; average rate of ALT elevation above 3 times ULN is 0.3% with statins compared to 0.2% in controls).</italic></p></annotation><pub-id pub-id-type="pmid">16581329</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF5">
+            <mixed-citation publication-type="journal"><article-title>Two new drugs for homozygous familial hypercholesterolemia.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2013</year>; <volume>55</volume>(<issue>1413</issue>): <fpage>25</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Concise review of safety and efficacy of mipomersen and lomitapide shortly after their approval in the US; both can lower low density lipoprotein levels in persons with familial hypercholesterolemia, but "Both are hepatotoxic and very expensive").</italic></p></annotation><pub-id pub-id-type="pmid">23545581</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF6">
+            <mixed-citation publication-type="journal"><article-title>Drugs for hypertriglyceridemia.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2013</year>; <volume>55</volume> (<issue>1411</issue>): <fpage>17</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Concise review of drugs approved for therapy of hypertriglyceridemia including fibrates, niacin and fish oil; mentions risk of liver injury with fibrates and niacin, but not fish oils or omega-3 fatty acids).</italic></p></annotation><pub-id pub-id-type="pmid">23467119</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF.navarese.2015.40">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarese</surname>
+<given-names>EP</given-names></string-name>, <string-name name-style="western"><surname>Kolodziejczak</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schulze</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Gurbel</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Tantry</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Lin</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Brockmeyer</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Effects of proprotein convertase subtilisin/kexin type 9 antibodies in adults with hypercholesterolemia: a systematic review and meta-analysis.</article-title>
+<source>Ann Intern Med</source>
+<year>2015</year>; <volume>163</volume>: <fpage>40</fpage>-<lpage>51</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the literature on efficacy and safety of anti-PCSK9 monoclonal antibody therapy [both alirocumab and evolocumab] in patients with hypercholesterolemia concludes that these agents are safe and effective, leading to marked reductions in LDL cholesterol without increasing serious adverse events; does not discuss ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25915661</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lipid-LoweringAgents.REF8">
+            <mixed-citation publication-type="journal"><article-title>Lipid-lowering drugs.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2016</year>; <volume>58</volume>(<issue>1506</issue>): <fpage>133</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Review of safety and efficacy of cholesterol and triglyceride lowering agents including statins, fibrates, niacin, ezetimibe, omega-3 fatty acids, bile acid sequestrants and PCSK9 inhibitors; mentions that ALT elevations and liver injury can occur with statins, ezetimibe, niacin and the fibrates).</italic></p></annotation><pub-id pub-id-type="pmid">27755510</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

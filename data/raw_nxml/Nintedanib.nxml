@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nintedanib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nintedanib</book-part-id>
+      <title-group>
+        <title>Nintedanib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>12</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nimodipine" document-type="chapter">Nimodipine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Niraparib" document-type="chapter">Niraparib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nintedanib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nintedanib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nintedanib is an orally available tyrosine kinase receptor antagonist that inhibits collagen formation and is used to treat idiopathic pulmonary fibrosis. Elevations in serum enzyme levels during nintedanib therapy are not uncommon and multiple instances of acute liver injury with symptoms and jaundice have been reported since its approval and more widescale use.</p>
+        </sec>
+        <sec id="Nintedanib.Background">
+          <title>Background</title>
+          <p>Nintedanib (nin ted' a nib) is a small molecular weight tyrosine kinase receptor inhibitor that has potent activity against several growth factor receptors, including vascular endothelial growth factor receptor (VEGFR), fibroblast growth factor receptor (FGFR), and platelet derived growth factor receptor (PDGFR). The inhibition of these receptors causes modulation of many intracellular pathways including inhibition of activities of pro-fibrotic mediators such as transforming growth factor-beta (TGF-&#x003b2;), and decrease in synthesis of extracellular matrix proteins including collagen and fibronectin. Nintedanib has been evaluated as therapy for many different forms of fibrotic lung diseases as well as several forms of cancer. In several large clinical trials, therapy with nintedanib was associated with a decrease in the progressive decline in lung function in patients with idiopathic pulmonary fibrosis, as well as with a decrease in symptomatic, acute pulmonary exacerbations. On the basis of these studies, nintedanib was approved for use in idiopathic pulmonary fibrosis in the United States in 2014 and subsequently for other chronic fibrotic lung diseases such as systemic sclerosis associated lung disease and other chronic fibrosing interstitial lung diseases. However, it has not been approved for use in cancer. Nintedanib is available as capsules of 100 and 150 mg generically and under the brand name OFEV. The typical initial dose in adults is 150 mg orally twice daily. Temporary or permanent dose reduction is advised for management of adverse reactions or poor tolerability. Side effects are common and include diarrhea, nausea, dyspepsia, abdominal pain, decreased appetite, headache and fatigue. Rare, but potentially severe adverse events include excessive bleeding, poor wound healing, gastrointestinal perforation, liver injury, embryo-fetal toxicity, and arterial thrombotic events.</p>
+        </sec>
+        <sec id="Nintedanib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large preregistration randomized controlled trials, serum enzyme elevations occurred in 8% to 16% of patients receiving nintedanib compared to 3% of controls. Aminotransferase values above 3 times the upper limit of normal (ULN) occurred in only 3% to 5% of patients (compared to &#x0003c;1% of controls), and discontinuation of therapy because of ALT elevations was required in less than 1% of nintedanib treated subjects. The enzyme elevations during nintedanib therapy were generally not accompanied by symptoms of liver injury or jaundice and resolved even without dose modification in many subjects. Subsequent to the approval of nintedanib as therapy for fibrotic pulmonary diseases, several reports of clinically apparent liver injury attributable to its use were published from Asia, Europe, and the United States. In reported cases, the latency to onset ranged for 4 to 24 months and the pattern of enzyme elevations ranged from cholestatic to hepatocellular. Fatal cases have been reported to the sponsor and to the FDA, but details of the liver injury were not well defined and the causality was often only possible or at most probable. Analysis of rates of ALT and AST elevations during nintedanib therapy have been reported to be as high as 68%, but usually self-limited and not accompanied by jaundice. Injury appears to be more frequent in the elderly, in Asians, and in patients with lower body weight and body surface area. Starting treatment at 100 mg twice daily and dose reduction to 100 mg twice daily appears to be associated with lower rates of aminotransferase elevations.</p>
+          <p>These reports, however, led to revisions of the product label that now include warnings of liver injury that could be severe and even fatal. Warnings were also added to use caution in treating patients with concurrent known liver disease. Monitoring of liver tests are recommended by expert panels at baseline and at least monthly for the first 3 months and every 3 months thereafter. Thus, nintedanib is likely to cause clinically apparent liver injury, and careful monitoring and early discontinuation (as was done in the preregistration studies) may prevent its occurrence.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury that can be severe and even fatal).</p>
+        </sec>
+        <sec id="Nintedanib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which nintedanib might cause liver injury is not known. It is metabolized in the liver largely via the cytochrome P450 system and idiosyncratic liver injury may be due to its metabolism to a toxic or immunogenic intermediate. Comparison of clinical features of patients with and without hepatic injury during nintedanib therapy suggests that hepatic enzyme elevations are more frequent in patients with a low body weight and body surface area suggesting that pharmacokinetic features may underlie risk for injury, which would explain the higher rates in the elderly and in Asians. Nintedanib is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4.</p>
+        </sec>
+        <sec id="Nintedanib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While chronic therapy with nintedanib can be associated with transient mild-to-moderate serum aminotransferase elevations, it can also result in clinically apparent liver injury. Current recommendations are for monitoring of serum aminotransferase, alkaline phosphatase and bilirubin levels monthly during the first 3 months and every 3 months thereafter as needed. Patients who develop aminotransferase elevations on therapy should be monitored more carefully and considered for dose reduction to 100 mg twice daily with close follow up. Nintedanib therapy should be discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels rise above 5 times the ULN.</p>
+          <p>Drug Class: Pulmonary Fibrosis Agents</p>
+          <p>Other Drugs in the Class: <related-object link-type="booklink" source-id="livertox" document-id="Pirfenidone" document-type="book-part">Pirfenidone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nintedanib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Nintedanib &#x02013; OFEV&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Pulmonary Fibrosis Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Nintedanib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Nintedanib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nintedanib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Nintedanib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Nintedanib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Nintedanib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Nintedanib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Nintedanib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Nintedanib</td>
+                <td headers="hd_h_Nintedanib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135267499">656247-17-5</ext-link>
+</td>
+                <td headers="hd_h_Nintedanib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C31-H33-N5-O4</td>
+                <td headers="hd_h_Nintedanib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">SID: 135267499</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nintedanib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 December 2023</p>
+        <ref-list id="Nintedanib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nintedanib.REF.kaplowitz.2013">
+            <mixed-citation publication-type="book">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013; does not discuss nintedanib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.rockey.2008.939">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rockey</surname>
+<given-names>DC</given-names></string-name>. <article-title>Current and future anti-fibrotic therapies for chronic liver disease.</article-title>
+<source>Clin Liver Dis</source>
+<year>2008</year>; <volume>12</volume>: <fpage>939</fpage>-<lpage>62</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis and cellular pathways of fibrosis in patients with chronic liver disease and status of antifibrotic agents, none of which have been shown to be effective in treating or preventing hepatic fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">18984475</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.richeldi.2011.1079">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Richeldi</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Costabel</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Selman</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Hansell</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Nicholson</surname>
+<given-names>AG</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>KK</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy of a tyrosine kinase inhibitor in idiopathic pulmonary fibrosis.</article-title>
+<source>N Engl J Med</source>
+<year>2011</year>; <volume>365</volume>: <fpage>1079</fpage>-<lpage>87</lpage>.<annotation><p><italic toggle="yes">(Among 1066 patients with idiopathic pulmonary fibrosis enrolled in two studies of nintedanib [150 mg twice daily] versus placebo, the decline in forced vital capacity was less with nintedanib, but adverse events were more frequent and ALT or AST elevations above 3 times ULN occurred in 4.9-5.2% vs &#x0003c;1% on placebo, although no patient developed clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">21992121</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF4">
+            <mixed-citation publication-type="journal"><article-title>Two new drugs for idiopathic pulmonary fibrosis.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2014</year>; <volume>56</volume> (<issue>1457</issue>): <fpage>123</fpage>-<lpage>4</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, efficacy and safety of pirfenidone and nintedanib for idiopathic pulmonary fibrosis mentions that both agents can increase hepatic enzyme levels and dose adjustment may be required).</italic></p></annotation><pub-id pub-id-type="pmid">25461229</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.richeldi.2014.2071">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Richeldi</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>du Bois</surname>
+<given-names>RM</given-names></string-name>, <string-name name-style="western"><surname>Raghu</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Azuma</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>KK</given-names></string-name>, <string-name name-style="western"><surname>Costabel</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Cottin</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>; <collab>INPULSIS Trial Investigators</collab>. <article-title>Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis.</article-title>
+<source>N Engl J Med</source>
+<year>2014</year>; <volume>370</volume>: <fpage>2071</fpage>-<lpage>82</lpage>.<annotation><p><italic toggle="yes">(Among 432 patients with idiopathic pulmonary fibrosis treated with 1 of 4 doses of nintedanib or placebo for 1 year, decline in vital capacity and number of pulmonary exacerbations were less in the 86 patients who received the highest dose [150 mg twice daily], but dermatologic and gastrointestinal side effects were more frequent, as were ALT or AST elevations above 3 times ULN [6 patients, 7.1%, vs none with placebo], but no clinically apparent liver injury was reported).</italic></p></annotation><pub-id pub-id-type="pmid">24836310</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>1352.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to agents for pulmonary fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.keating.2015.1131">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Keating</surname>
+<given-names>GM</given-names></string-name>. <article-title>Nintedanib: a review of its use in patients with idiopathic pulmonary fibrosis.</article-title>
+<source>Drugs</source>
+<year>2015</year>; <volume>75</volume>: <fpage>1131</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, efficacy and safety of nintedanib as therapy of idiopathic pulmonary fibrosis states that serum enzyme elevations during therapy "were reversible and were not associated with clinical manifestations of liver injury").</italic></p></annotation><pub-id pub-id-type="pmid">26063212</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.abdelrahman.2016.2163">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Abdel-Rahman</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Bahie Eldin</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>ElHalawani</surname>
+<given-names>H.</given-names></string-name>
+<article-title>Risk of selected gastrointestinal and hepatic toxicities in cancer patients treated with nintedanib: a meta-analysis.</article-title>
+<source>Future Oncol</source>
+<year>2016</year>; <volume>12</volume>: <fpage>2163</fpage>-<lpage>72</lpage>.<annotation><p><italic toggle="yes">(Meta-analysis of nine controlled trials of nintedanib in various forms of cancer found, rates of ALT elevations above 5 times ULN in 9.2% of 2029 nintedanib treated vs 2.7% of 1543 controls).</italic></p></annotation><pub-id pub-id-type="pmid">27301454</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.kim.2017.1958">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JY</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Sun</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>An</surname>
+<given-names>HJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Clinical trial of nintedanib in patients with recurrent or metastatic salivary gland cancer of the head and neck: A multicenter phase 2 study (Korean Cancer Study Group HN14-01).</article-title>
+<source>Cancer</source>
+<year>2017</year>; <volume>123</volume>: <fpage>1958</fpage>-<lpage>64</lpage>.<annotation><p><italic toggle="yes">(Among 20 subjects with metastatic salivary gland cancer treated with nintedanib [200 mg twice daily], there were no objective responses, and adverse events including ALT elevations in 30% which were above 5 times ULN in 10%; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">28102887</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.olin.2017.e107">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Olin</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Woods</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Garner</surname>
+<given-names>SJ</given-names></string-name>. <article-title>Delayed presentation of hepatocellular liver injury after nintedanib administration.</article-title>
+<source>Am J Ther</source>
+<year>2017</year>; <volume>24</volume>: <fpage>e107</fpage>-<lpage>e108</lpage>.<annotation><p><italic toggle="yes">(86 year old man developed fatigue 8 months after starting nintedanib [bilirubin normal, ALT ~410 U/L, Alk P normal], ALT levels having been normal before and for the first 7 months of treatment and returning to near normal rapidly after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">27574930</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.ikeda.2017.51">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ikeda</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Sekine</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Baba</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Yamakawa</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Morita</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kitamura</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Ogura</surname>
+<given-names>T</given-names></string-name>. <article-title>Hepatotoxicity of nintedanib in patients with idiopathic pulmonary fibrosis: A single-center experience.</article-title>
+<source>Respir Investig</source>
+<year>2017</year>; <volume>55</volume>: <fpage>51</fpage>-<lpage>4</lpage>.<annotation><p><italic toggle="yes">(Among 32 patients with idiopathic pulmonary fibrosis treated with nintedanib at a single Japanese referral center, 59% developed ALT elevations which were above 3 times ULN in 6%, arising usually during the first week and resolving with dose interruption or reduction; no patient developed clinically apparent liver injury or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">28012494</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.marzin.2018.357">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Marzin</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Kretschmar</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Luedtke</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Kraemer</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kuelzer</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Schlenker-Herceg</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Schmid</surname>
+<given-names>U</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pharmacokinetics of nintedanib in subjects with hepatic impairment. </article-title><source>J Clin Pharmacol.</source>
+<year>2018</year>;<volume>58</volume>(<issue>3</issue>):<fpage>357</fpage>-<lpage>363</lpage>.<annotation><p><italic toggle="yes">(Single dose pharmacokinetic studies of nintedanib [100 mg] demonstrated an increase in exposure in patients with Child's A [2-fold] and B [8-fold] cirrhosis compared to healthy controls).</italic></p></annotation><pub-id pub-id-type="pmid">29106740</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.ikeda.2017.10811">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ikeda</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Sekine</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Baba</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Yamanaka</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Sadoyama</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Yamakawa</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Oda</surname>
+<given-names>T</given-names></string-name>, <etal>et al.</etal>
+<article-title>Low body surface area predicts hepatotoxicity of nintedanib in patients with idiopathic pulmonary fibrosis.</article-title>
+<source>Sci Rep.</source>
+<year>2017</year>;<volume>7</volume>:<fpage>10811</fpage>.<annotation><p><italic toggle="yes">(Among 68 patients with idiopathic pulmonary fibrosis treated with nintedanib [150 mg twice daily] at a single Japanese referral center over a 1 year period, 46 [68%] developed ALT or AST elevations, which were above 3 times ULN in 16 [24%] and above 5 times ULN in 6 [9%], resolving in all patients upon stopping, and recurring in only 4 of 10 who restarted treatment at a lower dose; no mention of bilirubin elevations but 3 patients had mild epigastric pain; patients who developed enzyme elevations had a lower body surface area than those who did not, but similar body mass index).</italic></p></annotation><pub-id pub-id-type="pmid">28883482</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.bendstrup.2019.173">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bendstrup</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Wuyts</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Alfaro</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Chaudhuri</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Cornelissen</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Kreuter</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Melgaard Nielsen</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Nintedanib in idiopathic pulmonary fibrosis: practical management recommendations for potential adverse events.</article-title>
+<source>Respiration</source>
+<year>2019</year>;<volume>97</volume>:<fpage>173</fpage>-<lpage>184</lpage>.<annotation><p><italic toggle="yes">(Review of the adverse events associated with nintedanib therapy and expert recommendations on their detection, diagnosis and management, mentions that 8-16% of treated patients develop liver test abnormalities with values above 3 times ULN in 5%, usually arising within the first 3 months of treatment and resolving spontaneously or which dose adjustments [~80%]; the authors recommend monitoring before and monthly during the first 6 months of treatment and every 3 months thereafter).</italic></p></annotation><pub-id pub-id-type="pmid">30544129</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.lancaster.2019.e000397">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lancaster</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Crestani</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Hernandez</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Inoue</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Wachtlin</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Loaiza</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Quaresma</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and survival data in patients with idiopathic pulmonary fibrosis treated with nintedanib: pooled data from six clinical trials.</article-title>
+<source>BMJ Open Respir Res.</source>
+<year>2019</year>;<volume>6</volume>:<elocation-id>e000397</elocation-id>.<annotation><p><italic toggle="yes">(Among 1126 patients with idiopathic pulmonary fibrosis treated with nintedanib [150 mg twice daily] for a mean of 28 months vs 565 treated with placebo for 11 months in controlled trials, adverse events included hepatic enzyme elevations at event rates of 12.1 vs 3.4 per 100 patient-years; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">31179001</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.distler.2019.2518">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Distler</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Highland</surname>
+<given-names>KB</given-names></string-name>, <string-name name-style="western"><surname>Gahlemann</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Azuma</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Fischer</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mayes</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Raghu</surname>
+<given-names>G</given-names></string-name>, <etal>et al.</etal>; <collab>SENSCIS Trial Investigators</collab>. <article-title>Nintedanib for systemic sclerosis-associated interstitial lung disease.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>380</volume>:<fpage>2518</fpage>-<lpage>2528</lpage>.<annotation><p><italic toggle="yes">(Among 576 patients with idiopathic lung disease associated with systemic sclerosis treated with nintedanib [150 mg twice daily], the annual rate of change of forced vital capacity was -52 vs -93 mL, while total adverse events rates were similar [98% vs 96%], and while severe adverse events were more frequent with nintedanib [18% vs 12.5%] as were ALT or AST elevations of &#x02265;3 times ULN [5% vs 0.7%], but none were associated with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">31112379</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.flaherty.2019.1718">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Flaherty</surname>
+<given-names>KR</given-names></string-name>, <string-name name-style="western"><surname>Wells</surname>
+<given-names>AU</given-names></string-name>, <string-name name-style="western"><surname>Cottin</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Devaraj</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Walsh</surname>
+<given-names>SLF</given-names></string-name>, <string-name name-style="western"><surname>Inoue</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Richeldi</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>; <collab>INBUILD Trial Investigators</collab>. <article-title>Nintedanib in progressive fibrosing interstitial lung diseases.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>381</volume>:<fpage>1718</fpage>-<lpage>1727</lpage>.<annotation><p><italic toggle="yes">(Among 663 patients with progressive fibrosing interstitial lung disease treated with nintedanib vs placebo, decline in pulmonary function was less with nintedanib [forced vital capacity -81 mL vs -188 mL per year], and overall rates of total adverse events [96% vs 89%] and severe adverse events [18% vs 22%] were similar in both groups, although total discontinuations for side effects were greater with nintedanib [20% vs 10%] as were ALT elevations &#x02265;3 times ULN [13% vs 2%], while ALT elevations accompanied by jaundice occurred in 1 patient in both groups).</italic></p></annotation><pub-id pub-id-type="pmid">31566307</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.lasky.2020.4209">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lasky</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Criner</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Lazarus</surname>
+<given-names>HM</given-names></string-name>, <string-name name-style="western"><surname>Kohlbrenner</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Bender</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Richeldi</surname>
+<given-names>L</given-names></string-name>. <article-title>Safety of nintedanib in patients with idiopathic pulmonary fibrosis: global pharmacovigilance data.</article-title>
+<source>Adv Ther.</source>
+<year>2020</year>;<volume>37</volume>:<fpage>4209</fpage>-<lpage>4219</lpage>.<annotation><p><italic toggle="yes">(Analysis of a global pharmacovigilance database held by Boehringer Ingelheim had data on adverse events based upon 60,107 patient-years of treatment with nintedanib showed rates of hepatic enzyme elevations of 3.1 per 100 patient-years [/100 p-y], diarrhea in 30.2/100 p-y, bleeding in 3.7/100 p-y, and major cardiovascular events in 1.4/100 p-y).</italic></p></annotation><pub-id pub-id-type="pmid">32767182</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.schmid.2021.244">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schmid</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Weber</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Sarr</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Freiwald</surname>
+<given-names>M</given-names></string-name>. <article-title>Exposure-safety analyses of nintedanib in patients with chronic fibrosing interstitial lung disease.</article-title>
+<source>BMC Pulm Med.</source>
+<year>2021</year>;<volume>21</volume>:<fpage>244</fpage>.<annotation><p><italic toggle="yes">(Measurement of plasma levels of nintedanib in treated patients demonstrated a positive relationship between plasma levels and occurrence of diarrhea and aminotransferase elevations as well as higher levels in women than men).</italic></p></annotation><pub-id pub-id-type="pmid">34289823</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.librero_jim_nez.2022.244">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Librero Jim&#x000e9;nez</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Heredia Carrasco</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Fern&#x000e1;ndez Cano</surname>
+<given-names>MDC</given-names></string-name>. <article-title>Severe hepatotoxicity secondary to nintedanib.</article-title>
+<source>Rev Esp Enferm Dig.</source>
+<year>2022</year>;<volume>114</volume>:<fpage>244</fpage>-<lpage>245</lpage>.<annotation><p><italic toggle="yes">(88 year old man with idiopathic pulmonary fibrosis developed weakness, pruritus and jaundice 2 years after starting nintedanib [bilirubin 3.7 mg/dL , ALT 32 U/L, Alk P 726 U/L, INR 1.3], with improvement but not complete resolution one month after stopping but no further follow up).</italic></p></annotation><pub-id pub-id-type="pmid">33371696</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.jena.2022.1210">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jena</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Aggarwal</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Mitra</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Singh</surname>
+<given-names>AK</given-names></string-name>. <article-title>Nintedanib-induced liver injury: not every liver injury is virus or vaccine-induced in the era of COVID-19.</article-title>
+<source>Liver Int.</source>
+<year>2022</year>;<volume>42</volume>:<fpage>1210</fpage>-<lpage>1211</lpage>.<annotation><p><italic toggle="yes">(70 year old man developed jaundice a week after a first dose of COVID-19 vaccine [BBV152: Covaxin] and 4.5 months after starting nintedanib for pulmonary fibrosis after COVID-19 infection [bilirubin 16.1 mg/dL, ALT 61 U/L, Alk P 181 U/L, INR 1.2], which resolved within 3 months of stopping nintedanib).</italic></p></annotation><pub-id pub-id-type="pmid">35195327</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.raschi.2022.645">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Raschi</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Fusaroli</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gatti</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Caraceni</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Poluzzi</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>De Ponti</surname>
+<given-names>F</given-names></string-name>. <article-title>Liver injury with nintedanib: a pharmacovigilance-pharmacokinetic appraisal.</article-title>
+<source>Pharmaceuticals (Basel)</source>. <year>2022</year>;<volume>15</volume>:<fpage>645</fpage>.<annotation><p><italic toggle="yes">(Analysis of spontaneous adverse event reports related to nintedanib made to the FDA&#x02019;s Adverse Event Reporting System identified 13,249 reports including 91 [0.7%] cases of liver injury 44% from Asia, most frequently in men, median age 68 years, leading to death in 26% and two positive rechallenges, the time to onset averaged 13.5 days).</italic></p></annotation><pub-id pub-id-type="pmid">35631471</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nintedanib.REF.bare_i_.2023.2897">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bare&#x00161;i&#x00107;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Novak</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Perkovi&#x00107;</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Karanovi&#x00107;</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Miri&#x00107;</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Radi&#x00107;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Ani&#x00107;</surname>
+<given-names>B</given-names></string-name>. <article-title>Real world experience with nintedanib in connective tissue disease-related interstitial lung disease: a retrospective cohort study.</article-title>
+<source>Clin Rheumatol.</source>
+<year>2023</year>;<volume>42</volume>:<fpage>2897</fpage>-<lpage>2903</lpage>.<annotation><p><italic toggle="yes">(Among 25 patients with chronic fibrosing lung disease treated with nintedanib in three referral centers in Croatia, adverse events were reported by 16 [64%], diarrhea in 15 [60%], and abnormal liver tests in 1 [4%]).</italic></p></annotation><pub-id pub-id-type="pmid">37393200</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Nintedanib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Nintedanib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Nintedanib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Nintedanib">Trials on Nintedanib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

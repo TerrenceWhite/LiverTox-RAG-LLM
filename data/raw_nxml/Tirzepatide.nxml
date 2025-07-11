@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tirzepatide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tirzepatide</book-part-id>
+      <title-group>
+        <title>Tirzepatide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tipranavir" document-type="chapter">Tipranavir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="TisotumabVedotin" document-type="chapter">Tisotumab Vedotin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tirzepatide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tirzepatide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tirzepatide is an agonist of the receptors of two insulin sensitizing polypeptides, GIP (glucose-dependent insulinotropic polypeptide) and GLP-1 (glucagon-like peptide 1), that is used for type 2 diabetes. Tirzepatide has not been linked to elevations in serum aminotransferase levels during therapy or to episodes of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Tirzepatide.Background">
+          <title>Background</title>
+          <p>Tirzepatide (tir zep&#x02019; a tide) is a 39 amino acid modified peptide similar in structure to the glucose-dependent insulinotropic polypeptide (GIP) that acts as an agonist to both the GIP receptor and the glucagon-like peptide 1 (GLP-1) receptor. Tirzepatide therapy increases insulin secretion, decreases glucagon secretion and delays gastric emptying. The result is a decrease in both fasting and postprandial glucose concentrations and an increase in insulin sensitivity. Tirzepatide also results in a decrease in food intake and reduced body weight. In multiple, preregistration clinical trials, tirzepatide therapy improved glycemic control and lowered HgA1c levels in patients with type 2 diabetes. It also resulted in weight loss of 7 to 11 kilograms after 40 to 52 weeks of treatment and to 16 to 24 kilograms after 72 weeks. Tirzepatide was approved for use as an adjunct to diet and exercise in type 2 diabetes in 2022. It is under active evaluation as a weight loss agent for individuals with overweight or obesity but without diabetes and as a potential therapy for nonalcoholic steatohepatitis. Tirzepatide is available as a solution in single use vials of 2.5, 5, 7.5, 10, 12.5 and 15 mg (in 0.5 mL) under the brand name Mounjaro. The recommended starting dosage for type 2 diabetes is 2.5 mg subcutaneously once weekly, with gradual dose escalation in increments of 2.5 mg every 4 weeks to a maximum of 15 mg weekly. Common adverse events include injection site reactions and nonspecific gastrointestinal complaints of nausea, vomiting, diarrhea, constipation, decreased appetite, dyspepsia, and abdominal discomfort. Less common but potentially severe adverse events include hypersensitivity reactions, pancreatitis, gallstones and cholecystitis, hypoglycemia (when used with insulin or insulin secretagogues) and worsening of preexisting severe renal and gastrointestinal diseases.</p>
+        </sec>
+        <sec id="Tirzepatide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration clinical trials, serum aminotransferase elevations of greater than 3 times the upper limit of normal (ULN) arose in less than 1% of patients during therapy with tirzepatide and similar rates occurred in placebo recipients and in comparator arm groups. In studies of more than 5,000 patients, there were no reports of severe liver test abnormalities or clinically apparent liver injury attributable to tirzepatide. However, tirzepatide has been associated with a slightly higher rate of acute gallbladder disease (cholelithiasis, biliary cholic and cholecystectomy) reported in 0.6% of treated patients vs none of placebo-treated patients. Gallbladder conditions are mentioned in the warning section of the product label for tirzepatide.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tirzepatide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which tirzepatide might cause liver injury is unknown. It is a modified polypeptide and is metabolized to individual amino acids in multiple tissues and cell types including the liver. Because it causes weight loss, it can be accompanied by improvements in serum aminotransferase levels in patients with preexisting nonalcoholic fatty liver. The increased risk of acute gallbladder disease such as cholecystitis is probably related to the rapid weight loss that occurs with treatment.</p>
+        </sec>
+        <sec id="Tirzepatide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Tirzepatide has not been shown to cause liver injury.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidiabetic" document-type="chapter">Antidiabetic Agents</related-object></p>
+          <p>Other Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="IncretinBasedDrugs" document-type="chapter">Incretin-Based Drugs</related-object>,&#x000a0;<related-object link-type="booklink" source-id="livertox" document-id="GLP-1Analogues" document-type="chapter">Glucagon-Like Peptide-1 (GLP-1) Analogues</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Liraglutide" document-type="chapter">Liraglutide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Semaglutide" document-type="chapter">Semaglutide</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tirzepatide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tirzepatide &#x02013; Mounjaro&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antidiabetic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tirzepatide">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tirzepatide.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tirzepatide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tirzepatide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tirzepatide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tirzepatide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tirzepatide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tirzepatide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tirzepatide</td>
+                <td headers="hd_h_Tirzepatide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128222">2023788-19-2</ext-link>
+</td>
+                <td headers="hd_h_Tirzepatide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Protein</td>
+                <td headers="hd_h_Tirzepatide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Polypeptide</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tirzepatide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 June 2022</p>
+        <ref-list id="Tirzepatide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tirzepatide.REF1">
+            <mixed-citation publication-type="other">Abbreviations used: GIP, glucose-dependent insulinotropic polypeptide; GLP-1, glucagon-like peptide-1; HbA1c, hemoglobin A1c.</mixed-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999; before the availability of tirzepatide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.de_marzio.2011">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Antidiabetic drugs. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 528-30.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidiabetic drugs; mentions that there have been no published reports of hepatotoxicity of the GLP-1 analogues, tirzepatide is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.powers.2018">
+            <mixed-citation publication-type="book">Powers AC, D'Alessio D. Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 863-86.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; discusses glucagon-like peptide-1 and the incretin pathway and agents that act on this pathway, but does not discuss tirzepatide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215866Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215866Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with multidisciplinary review of safety and efficacy of tirzepatide mentions that marked aminotransferase elevations were uncommon and there were no severe hepatic adverse events in preregistration controlled trials, but that gallbladder disease arose in some treated patients [0.6%] but not in controls [none]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.frias.2018.2180">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Frias</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Nauck</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Van</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kutner</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Cui</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Benson</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Urva</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of LY3298176, a novel dual GIP and GLP-1 receptor agonist, in patients with type 2 diabetes: a randomised, placebo-controlled and active comparator-controlled phase 2 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2018</year>
+              <volume>392</volume>
+              <issue>10160</issue>
+              <fpage>2180</fpage>
+              <lpage>2193</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 316 patients with type 2 diabetes treated with once weekly tirzepatide [1,5,10 and 1 5 mg], dulaglutide [1.5 mg] or placebo for 26 weeks, decreases in HbA1c levels and body weight occurred in a dose-dependent pattern with tirzepatide, and adverse events included gastrointestinal complaints and injection site reactions while cholecystitis occurred in 1 and pancreatitis in 2 of the 211 tirzepatide treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30293770</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.hartman.2020.1352">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hartman</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Sanyal</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Loomba</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Nikooienejad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bray</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Karanikas</surname><given-names>CA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effects of novel dual GIP and GLP-1 receptor agonist tirzepatide on biomarkers of nonalcoholic steatohepatitis in patients with type 2 diabetes.</article-title>
+              <source>Diabetes Care.</source>
+              <year>2020</year>
+              <volume>43</volume>
+              <fpage>1352</fpage>
+              <lpage>1355</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Reanalysis of a controlled trial in 316 patients with type 2 diabetes [Frias 2018], found a decrease in mean ALT levels and increase in adiponectin levels in patients treated with higher doses of tirzepatide [5, 10 and 15 mg], but not with the lowest dose [1 mg] or with dulaglutide or placebo for 26 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32291277</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.yanovski.2021.129">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yanovski</surname><given-names>SZ</given-names></name>
+<name name-style="western"><surname>Yanovski</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Progress in pharmacotherapy for obesity.</article-title>
+              <source>JAMA</source>
+              <year>2021</year>
+              <volume>326</volume>
+              <fpage>129</fpage>
+              <lpage>130</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief review of the currently approved drugs for weight loss including the promising two new GLP-1 agonists, liraglutide and semaglutide, and tirzepatide which is in phase III trials in patients with obesity without diabetes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34160571</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.fr_as.2021.503">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fr&#x000ed;as</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Davies</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Rosenstock</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez Manghi</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez Land&#x000f3;</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bergman</surname><given-names>BK</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>SURPASS-2 Investigators. Tirzepatide versus semaglutide once weekly in patients with type 2 diabetes.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>385</volume>
+              <fpage>503</fpage>
+              <lpage>515</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1879 patients with diabetes treated with tirzepatide [5, 10 or 15 mg] or semaglutide [1 mg] once weekly for 40 weeks, tirzepatide resulted in greater improvement in HbA1c levels and greater decrease in body weight [-7.6 to -11.2 kg vs -5.7 kg], while adverse event rates were similar, except for cholecystitis which arose in 12 of 1409 patients on tirzepatide vs no patients on semaglutide [0.9% vs 0%]; no mention of ALT elevations, mean levels decreased by 22% to 30%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34170647</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.rosenstock.2021.143">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rosenstock</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wysham</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fr&#x000ed;as</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Kaneko</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez Land&#x000f3;</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mao</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of a novel dual GIP and GLP-1 receptor agonist tirzepatide in patients with type 2 diabetes (SURPASS-1): a double-blind, randomised, phase 3 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2021</year>
+              <volume>398</volume>
+              <issue>10295</issue>
+              <fpage>143</fpage>
+              <lpage>155</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 478 diabetic patients with in adequate control treated with tirzepatide [5, 10, or 15 mg] or placebo once weekly for 40 weeks, HbA1c and fasting serum glucose levels improved and weight decreased by 7 to 9.5 kg while adverse events include nausea, diarrhea, constipation, dyspepsia, decreased appetite, and injection site reactions [2%-3%], while no patient developed pancreatitis and only 1 cholecystitis; no mention of ALT elevation or hepatoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34186022</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.ludvik.2021.583">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ludvik</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Giorgino</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>J&#x000f3;dar</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Frias</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez Land&#x000f3;</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Once-weekly tirzepatide versus once-daily insulin degludec as add-on to metformin with or without SGLT2 inhibitors in patients with type 2 diabetes (SURPASS-3): a randomised, open-label, parallel-group, phase 3 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2021</year>
+              <volume>398</volume>
+              <issue>10300</issue>
+              <fpage>583</fpage>
+              <lpage>598</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1444 patients with type 2 diabetes on metformin treated with once weekly tirzepatide [5, 10 or 15 mg] or daily insulin, tirzepatide was associated with greater decreases in HbA1c levels and body weight [-7.5 to -12.9 kg vs +2.3 kg] while gallbladder events were recorded in 4 [0.4%] on tirzepatide, but none on insulin; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34370970</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.del_prato.2021.1811">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Del Prato</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kahn</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Pavo</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Weerakkody</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Doupis</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Aizenberg</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>SURPASS-4 Investigators. Tirzepatide versus insulin glargine in type 2 diabetes and increased cardiovascular risk (SURPASS-4): a randomised, open-label, parallel-group, multicentre, phase 3 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2021</year>
+              <volume>398</volume>
+              <issue>10313</issue>
+              <fpage>1811</fpage>
+              <lpage>1824</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2002 patients with poorly controlled type 2 diabetes treated with weekly injections of tirzepatide [5, 10 or 15 mg] or daily insulin glargine [titrated doses], HbA1c and fasting glucose levels improved more with tirzepatide as did weight loss [-7.1 to -13.5 kg vs +2 kg] while adverse event rates were similar except for diarrhea, nausea, vomiting, dyspepsia, constipation and decreased appetite, which were more common with tirzepatide but decreased over time; pancreatitis and cholecystitis occurred in less than 1% in all groups; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34672967</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.dahl.2022.534">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dahl</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Onishi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Norwood</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Huh</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bray</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rodr&#x000ed;guez</surname><given-names>&#x000c1;.</given-names></name>
+</person-group>
+              <article-title>Effect of subcutaneous tirzepatide vs placebo added to titrated insulin glargine on glycemic control in patients with type 2 diabetes: The SURPASS-5 Randomized Clinical Trial.</article-title>
+              <source>JAMA</source>
+              <year>2022</year>
+              <volume>327</volume>
+              <issue>6</issue>
+              <fpage>534</fpage>
+              <lpage>545</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 475 patients with type 2 diabetes and inadequate glycemic control despite insulin therapy treated with tirzepatide [5, 10 or 15 mg] or placebo weekly for 40 weeks, HbA1c and fasting glucose levels decreased more with tirzepatide as did body weight while adverse events more frequent with tirzepatide included nausea, vomiting, diarrhea, constipation, dyspepsia, decreased appetite; no patient developed pancreatitis and only one cholelithiasis; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35133415</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.sun.2022.e2116506119">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sun</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Willard</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Feng</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Alsina-Fernandez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Vieth</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ho</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Structural determinants of dual incretin receptor agonism by tirzepatide.</article-title>
+              <source>Proc Natl Acad Sci U S A.</source>
+              <year>2022</year>
+              <volume>119</volume>
+              <elocation-id>e2116506119</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Cryogenic electron microscopy determination of structure and binding of tirzepatide to the GIP- and GLP-1 receptors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35333651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF15">
+            <element-citation publication-type="journal">
+              <article-title>Drugs and devices for weight management.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <fpage>81</fpage>
+              <lpage>88</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of weight loss agents in current use in the US mentions that tirzepatide [an investigational agent] in doses of 5, 10 and 15 mg once weekly for 72 weeks resulted in weight loss of -16 to -24 kg [compared to +2 kg in placebo controls] in overweight and obese adults without diabetes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35650672</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tirzepatide.REF.jastreboff.2022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jastreboff</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Aronne</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Ahmad</surname><given-names>NN</given-names></name>
+<name name-style="western"><surname>Wharton</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Connery</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Alves</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kiyosue</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tirzepatide once weekly for the treatment of obesity.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2022</year>
+              <month>Jun</month>
+              <day>4</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2539 obese or overweight non-diabetic adults treated with tirzepatide [5, 10 or 15 mg] or placebo once weekly for 72 weeks, weight loss was greater with tirzepatide [-16 to -24 kg] than placebo [-3 kg] and adverse events attributed to tirzepatide included nausea, vomiting, diarrhea, constipation and injection site reactions; pancreatitis occurred in 0.2% vs 0.2%, gallbladder disease in 1.2% vs 0.8%, and mean ALT levels decreased by 26% to 30% vs 13%; no mention of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35658024</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tirzepatide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tirzepatide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tirzepatide: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tirzepatide">Trials on Tirzepatide: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

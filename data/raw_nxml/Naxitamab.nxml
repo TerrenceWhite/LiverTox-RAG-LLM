@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Naxitamab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Naxitamab</book-part-id>
+      <title-group>
+        <title>Naxitamab</title>
+        <subtitle>Short Chapter</subtitle>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nateglinide" document-type="chapter">Nateglinide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nebivolol" document-type="chapter">Nebivolol</related-object>
+    </book-part-meta>
+    <body>
+      <p><italic toggle="yes">[Preliminary review chapter based on the FDA Product Labeling and Integrated Review</italic>
+<italic toggle="yes">only.]</italic></p>
+      <sec id="Naxitamab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Naxitamab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Naxitamab is a monoclonal antibody to GD2 that is used in combination with granulocyte-macrophage colony stimulating factor to treat children with relapsed or refractory high risk neuroblastoma of the bone or bone marrow. Naxitamab therapy is associated with transient serum aminotransferase elevations during therapy but has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Naxitamab.Background">
+          <title>Background</title>
+          <p>Naxitamab (nax it&#x02019; a mab) is a humanized, cytolytic monoclonal antibody to glycolipid disialoganglioside (GD2), an adhesion molecule widely expressed on cell membranes of neuroectoderm derived tumors including neuroblastoma, the most common extra-cranial cancer of children. Naxitamab was found to be cytolytic to neuroblastoma cells in culture and resulted in objective responses in 34% to 45% of children and adults with refractory advanced neuroblastoma of bone and bone marrow. Naxitamab was granted accelerated approval in 2020 for treatment of children 1 year of age and older and adults with relapsed or refractory high risk neuroblastoma in the bone or more marrow. Naxitamab is available in solution in single dose vials of 40 mg in 10mL (4 mg/mL) under the brand name Danyelza. The recommended dose is 3 mg/kg/day (to a maximum of 150 mg/day) on days 1, 3, and 5 of 28-day cycles. Granulocyte-macrophage colony stimulatory factor (GM-CSF) should be given subcutaneously with each treatment cycle. In addition, premedication with acetaminophen, antihistamines, and corticosteroids is recommended to prevention serious infusion reactions. In prelicensure trials, adverse events were common and included infusion reactions, neurotoxicity, pain (abdominal, bone, neck, and extremity), neurologic toxicity to the eye (blurred vision, impaired vision, photophobia), tachycardia, hypertension, fatigue, nausea and vomiting, diarrhea, decreased appetite, rash, urticaria, fever, cough, peripheral edema, fatigue, irritability, and mental status changes. Serious adverse events associated with naxitamab therapy included severe neurotoxicity manifested by peripheral neuropathy, prolonged urinary retention, severe pain, transverse myelitis, and rare instances of reversible posterior leukoencephalopathy syndrome. Other potential severe adverse events included anaphylaxis, hypotension, bronchospasm, stridor, cardiac arrest, severe hypertension, myocarditis, and embryo-fetal toxicity. Obviously, naxitamab should only be administered by health care personnel with experience, expertise, and facilities capable of managing the complications of naxitamab therapy.</p>
+        </sec>
+        <sec id="Naxitamab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Naxitamab was evaluated in small, prospective open label trials in children and adults with refractory neuroblastoma, a rare but often fatal cancer. Abnormal laboratory results were common during therapy including elevations in serum ALT levels in 55% of subjects which were 5 times ULN or greater than the upper limit of normal (ULN) in 9%. Nevertheless, there were no instances of serum aminotransferase elevations accompanied by jaundice, or suspected drug induced liver injury, and no subject discontinued therapy because of abnormal liver tests. Most of the abnormal liver test findings were not attributed to therapy. In assessing abnormal serum aminotransferases in children receiving cancer chemotherapy, it is worthwhile to review the premedications given, particularly of acetaminophen dose which should be limited to less than 75 mg per kilogram daily. Since its approval in 2020, there have been no published reports of clinically apparent liver injury attributable to naxitamab therapy, but clinical experience with its use has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Naxitamab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of the frequent liver test abnormalities during naxitamab therapy are not known but may be due to the cytotoxic monoclonal antibody and low level expression of GD2 on hepatocytes. Some of the abnormalities are no doubt due to the underlying condition and other treatments administered. Naxitamab can cause hypersensitivity reactions including urticaria, rash, and anaphylaxis, and liver injury might be a part of a generalized immunoallergic reaction.</p>
+        </sec>
+        <sec id="Naxitamab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for naxitamab does not recommend monitoring of routine liver tests during therapy, and considerations of the severity of the underlying tumor and its poor prognosis generally outweigh concerns about serum aminotransferase elevations not accompanied by jaundice or symptoms of liver injury.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Naxitamab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Naxitamab &#x02013; Danyelza&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Naxitamab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Naxitamab.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Naxitamab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Naxitamab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Naxitamab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Naxitamab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Naxitamab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Naxitamab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Naxitamab</td>
+                <td headers="hd_h_Naxitamab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Naxitamab">1879925-92-4</ext-link>
+</td>
+                <td headers="hd_h_Naxitamab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Naxitamab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Naxitamab.SELECTED_BIBLIOGRAPHY">
+        <title>SELECTED BIBLIOGRAPHY</title>
+        <p>References updated: 12 July 2024</p>
+        <p>Abbreviations: ULN, upper limit of the normal range.</p>
+        <ref-list id="Naxitamab.SELECTED_BIBLIOGRAPHY.reflist0">
+          <ref id="Naxitamab.REF1">
+            <mixed-citation publication-type="web">
+<comment><bold><italic toggle="yes">[Short Chapter</italic></bold>
+<italic toggle="yes">information is based largely on FDA Product Labeling and the FDA Integrated Review accessible from the FDA website</italic>
+</comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm">
+<italic toggle="yes">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm</italic>
+</ext-link>
+<comment>. <italic toggle="yes">All other references have not been fully reviewed and annotated.]</italic></comment>
+</mixed-citation>
+          </ref>
+          <ref id="Naxitamab.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2020. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761171Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761171Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA summary data on the safety and efficacy of naxitamab, submitted in support of the application for approval as therapy of neuroblastoma in children, mentions that no significant trends were observed across cycles for clinical chemistry parameters associated with liver function tests and there was no indication of drug induced liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Naxitamab.REF.markham.2021.291">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Naxitamab: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>291</fpage>-<lpage>296</lpage>.<pub-id pub-id-type="pmid">33616889</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Naxitamab.REF.mora.2021.e29121">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mora</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Casta&#x000f1;eda</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gorostegui</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Santa-Mar&#x000ed;a</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Garraus</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mu&#x000f1;oz</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Varo</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Naxitamab combined with granulocyte-macrophage colony- stimulating factor as consolidation for high-risk neuroblastoma patients in complete remission.</article-title>
+<source>Pediatr Blood Cancer.</source>
+<year>2021</year>;<volume>68</volume>:<elocation-id>e29121</elocation-id>.<pub-id pub-id-type="pmid">34022112</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Naxitamab.REF.mora.2023.e1627">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mora</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Chan</surname>
+<given-names>GC</given-names></string-name>, <string-name name-style="western"><surname>Morgenstern</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Nysom</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Bear</surname>
+<given-names>MK</given-names></string-name>, <string-name name-style="western"><surname>Torn&#x000f8;e</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Kushner</surname>
+<given-names>BH</given-names></string-name>. <article-title>Outpatient administration of naxitamab in combination with granulocyte-macrophage colony-stimulating factor in patients with refractory and/or relapsed high-risk neuroblastoma: management of adverse events.</article-title>
+<source>Cancer Rep (Hoboken)</source>. <year>2023</year>;<volume>6</volume>:<elocation-id>e1627</elocation-id>.<pub-id pub-id-type="pmid">35579862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Naxitamab.REF.mora.2023.2535">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mora</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Casta&#x000f1;eda</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gorostegui</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Varo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Perez-Jaume</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Simao</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mu&#x000f1;oz</surname>
+<given-names>JP</given-names></string-name>, <etal>et al.</etal>
+<article-title>Naxitamab combined with granulocyte-macrophage colony-stimulating factor as consolidation for high-risk neuroblastoma patients in first complete remission under compassionate use-updated outcome report.</article-title>
+<source>Cancers (Basel)</source>. <year>2023</year>;<volume>15</volume>:<fpage>2535</fpage>.<pub-id pub-id-type="pmid">37174002</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Naxitamab.REF.trovillion.2024.e7045">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Trovillion</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Michael</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Jordan</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Phillips</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Oesterheld</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Saulnier-Sholler</surname>
+<given-names>G</given-names></string-name>. <article-title>Guidelines for outpatient administration of naxitamab: Experience from Atrium Health Levine Children's Hospital.</article-title>
+<source>Cancer Med.</source>
+<year>2024</year>;<volume>13</volume>:<elocation-id>e7045</elocation-id>.<pub-id pub-id-type="pmid">38396377</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Naxitamab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Naxitamab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Naxitamab: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Naxitamab">Trials on Naxitamab: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

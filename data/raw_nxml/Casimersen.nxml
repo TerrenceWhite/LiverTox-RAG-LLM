@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Casimersen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Casimersen</book-part-id>
+      <title-group>
+        <title>Casimersen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cascara" document-type="chapter">Cascara</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="CatsClaw" document-type="chapter">Cat's Claw</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Casimersen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Casimersen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Casimersen is a synthetic antisense oligonucleotide designed to cause skipping of abnormal exons in the synthesis of the dystrophin gene and that is used to treat Duchenne muscular dystrophy. Casimersen has not been reported to cause ALT elevations during therapy and has not been linked to instances of acute liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Casimersen.Background">
+          <title>Background</title>
+          <p>Casimersen (kas&#x0201d; i mer&#x02019; sen) is a synthetic antisense oligonucleotide designed to cause exon 45 skipping during the processing of the mRNA of the dystrophin gene, which encodes an essential protein for muscle integrity and is mutated in muscular dystrophy. Patients with Duchenne muscular dystrophy typically have deletion mutations in exons [43 to 55], which disrupt the open-reading frame and the normal synthesis of dystrophin. The lack of functional dystrophin leads to damage to muscles during contraction that eventually results in replacement of normal muscle by fibrous tissue and fat. Duchenne muscle dystrophy is an X-linked disorder that presents clinically in boys by the age of 2 or 3 years and often results in loss of ambulation by age 10, ventilation dependency by age 20, and premature death within 5 to 20 years thereafter. In animal models of muscular dystrophy, casimersen resulted in skipping of exon 45 and creation of a truncated but functional dystrophin gene. In a placebo controlled trial of casimersen in patients with Duchenne muscular dystrophy with mutations in exon 45 amenable to correction by the drug, dystrophin protein levels increased in treated subjects and not in controls. The studies are ongoing to assess whether therapy is associated with clinical improvement or in stabilization of disease as measured by tests of motor function such as 6 minute walk tests or time to rise from a supine position. Longer term studies are underway to determine whether ambulation and ventilation can be maintained with continued treatment compared to historical studies of the natural history of Duchenne muscular dystrophy. Based upon changes in dystrophin levels, casimersen was given accelerated approval for use in the United States in 2021. Indications are limited to patients with Duchenne muscular dystrophy with a confirmed mutation that was correctable by exon 45 skipping. Casimersen is available in solution in single dose vials of 100 mg in 2 mL (50 mg/mL). The recommended regimen is 30 mg per kg body weight once weekly by intravenous infusion. Side effects of casimersen are generally mild but can include injection site reactions, cough, fever, headache, symptoms of upper respiratory infection, diarrhea, ear and throat pain, dizziness, and rash. Renal toxicity, which was observed in preclinical studies in animals, was not found in human trials but monitoring for renal function is recommended. The weekly intravenous infusions of casimersen is facilitated by insertion of an indwelling venous access catheter, which may predispose to serious complications such as infection, thrombosis, and septicemia with long term use.</p>
+        </sec>
+        <sec id="Casimersen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Duchenne muscular dystrophy is rare, affecting ~1:5000 newborn boys, and those with deletion mutants in exon 45 that would be amenable to casimersen therapy account for only 5% to 8% of patients with the disease. The pivotal trials of casimersen were conducted in rather small numbers of patients, and the full spectrum of its toxicity is probably not fully known. Nevertheless, serum aminotransferase elevations were not identified in the registration trials of casimersen, and there were no drug discontinuations or dose adjustments for hepatic adverse events and no episodes of clinically apparent liver injury. Thus, casimersen has not been linked to instances of acute hepatitis or jaundice, but it has had limited clinical use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Casimersen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why casimersen or other RNA antisense therapeutics used in children with Duchenne muscular dystrophy might cause hepatic injury is unknown. One possibility is that exon skipping may cause disruption of translation of other genes in hepatocytes. Casimersen and other antisense molecules are largely excreted unchanged in the urine and have little effect on cytochrome P450 enzyme activities or metabolism of other drugs.</p>
+        </sec>
+        <sec id="Casimersen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Casimersen therapy has not been associated with liver injury, either in the form of minor serum enzyme elevations or clinically apparent liver injury. There is no reason to suspect cross reactivity of the hepatic injury with other antisense therapies or drugs used to treat Duchenne muscular dystrophy. Regular monitoring of liver tests during therapy is not generally recommended.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+          <p>Other Therapeutic Antisense RNA Agents for Duchenne Muscular Dystrophy: <related-object link-type="booklink" source-id="livertox" document-id="Eteplirsen" document-type="chapter">Eteplirsen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Golodirsen" document-type="chapter">Golodirsen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Viltolarsen" document-type="chapter">Viltolarsen</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Casimersen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Casimersen &#x02013; Amondys 45&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Casimersen">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Casimersen.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Casimersen.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Casimersen.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Casimersen.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Casimersen.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Casimersen.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Casimersen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Casimersen</td>
+                <td headers="hd_h_Casimersen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377716579">1422958-19-7</ext-link>
+</td>
+                <td headers="hd_h_Casimersen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C22-H40-N7O9-P</td>
+                <td headers="hd_h_Casimersen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="377716579" document-id-type="sid" document-type="summary" object-id="377716579" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Casimersen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 29 November 2022</p>
+        <p>Abbreviations: siRNA, small interfering RNA; RNAi, RNA interference.</p>
+        <ref-list id="Casimersen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Casimersen.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to siRNA or antisense therapies or other medications for muscular dystrophy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.chi.2017.823">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chi</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gatti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Papoian</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Safety of antisense oligonucleotide and siRNA-based therapeutics.</article-title>
+              <source>Drug Discov Today</source>
+              <year>2017</year>
+              <volume>22</volume>
+              <fpage>823</fpage>
+              <lpage>833</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Oligonucleotide and siRNA based treatments are currently being evaluated in several diseases and have been found to have unexpected toxicities including antisense thrombocytopenia [mipomersen, drisapersen] and peripheral neuropathy [revusiran]; no discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28159625</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.levin.2019.57">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Levin</surname><given-names>AA</given-names></name>
+</person-group>
+              <article-title>Treating disease at the RNA level with oligonucleotides.</article-title>
+              <source>N Engl J Med</source>
+              <year>2019</year>
+              <volume>380</volume>
+              <fpage>57</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, current status and future promise of RNA based therapies that use synthetic oligonucleotides to modulate RNA function and have been applied to diseases ranging from hemophilia, amyloidosis, muscular dystrophy and hyperlipidemia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30601736</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.messina.2018.1837">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Messina</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Vita</surname><given-names>GL</given-names></name>
+</person-group>
+              <article-title>Clinical management of Duchenne muscular dystrophy: the state of the art.</article-title>
+              <source>Neurol Sci</source>
+              <year>2018</year>
+              <volume>39</volume>
+              <fpage>1837</fpage>
+              <lpage>1845</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of current optimal clinical management of Duchenne muscular dystrophy focusing upon standard respiratory, cardiovascular, orthopedic and nutritional support as well as recent innovative approaches to therapy including exon skipping and premature stop codon suppression).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30218397</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.setten.2019.421">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Setten</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>SP</given-names></name>
+</person-group>
+              <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+              <source>Nat Rev Drug Discov</source>
+              <year>2019</year>
+              <volume>18</volume>
+              <fpage>421</fpage>
+              <lpage>446</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of RNAi therapeutics which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30846871</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.verhaart.2019.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Verhaart</surname><given-names>IEC</given-names></name>
+<name name-style="western"><surname>Aartsma-Rus</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Therapeutic developments for Duchenne muscular dystrophy.</article-title>
+              <source>Nat Rev Neurol</source>
+              <year>2019</year>
+              <volume>15</volume>
+              <fpage>373</fpage>
+              <lpage>386</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanisms of action, challenges, and clinical efficacy of new molecular approaches to therapy of muscular dystrophy including gene therapy with viral vectors, exon skipping using antisense oligonucleotides [casimersen, eteplirsen, drisapersen, golodirsen, viltolarsen], stop coding readthrough [ataluren], gene addition, CRISPR-Cas9 genome editing, and myoblast transplantation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31147635</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.multidisciplinary.2021">
+            <mixed-citation publication-type="web">FDA Multi-Disciplinary Review and Evaluation. Casimersen. 2021. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213026Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213026Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(The FDA clinical review of casimersen for efficacy and safety found increases in dystrophin levels in muscle biopsies after 48 weeks of treatment; therapy required intravenous infusions once weekly and sometimes necessitated insertion of a venous access port which can have major complications, but there were no serious adverse events attributable to the medication itself and no hepatic related serious adverse events or discontinuations because of liver toxicity; no mention of changes in ALT levels during therapy except that there were no changes in laboratory values indicative of toxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Casimersen.REF.shirley.2021.875">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shirley</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>Casimersen: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2021</year>
+              <volume>81</volume>
+              <fpage>875</fpage>
+              <lpage>879</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, chemical structure, history of development, clinical efficacy and safety of casimersen makes no mention of ALT elevations during therapy or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33861387</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF9">
+            <element-citation publication-type="journal">
+              <article-title>Casimersen (Amondys 45) for Duchenne muscular dystrophy.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1627</issue>
+              <fpage>e104</fpage>
+              <lpage>e105</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy and safety of casimersen shortly after its approval for use in the US mentions that it is the fifth agent approved for therapy of Duchenne muscular dystrophy and the first to target exon 45 of the dystrophic gene; does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34181634</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.wagner.2021.285">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wagner</surname><given-names>KR</given-names></name>
+<name name-style="western"><surname>Kuntz</surname><given-names>NL</given-names></name>
+<name name-style="western"><surname>Koenig</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>East</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Upadhyay</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Shieh</surname><given-names>PB</given-names></name>
+</person-group>
+              <article-title>Safety, tolerability, and pharmacokinetics of casimersen in patients with Duchenne muscular dystrophy amenable to exon 45 skipping: a randomized, double-blind, placebo-controlled, dose-titration trial.</article-title>
+              <source>Muscle Nerve.</source>
+              <year>2021</year>
+              <volume>64</volume>
+              <fpage>285</fpage>
+              <lpage>292</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Preliminary report of pharmacokinetic and safety studies of casimersen in 12 boys ages 7 to 21 years with Duchenne muscular dystrophy who were treated for 12 weeks with either casimersen [in gradually increasing doses] or placebo during which adverse events were mostly mild and considered unrelated to the active drug; with extended open label therapy for another 132 weeks in all 12 children, casimersen was well tolerated with no drug discontinuations or dose adjustments and no hepatic adverse events, although one child developed sepsis, septic emboli and vena cava thrombosis due to a venous port being used to administer the antisense molecule).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34105177</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.alhamadani.2022.879">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alhamadani</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Parikh</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rasmussen</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Bahal</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhong</surname><given-names>XB</given-names></name>
+<name name-style="western"><surname>Manautou</surname><given-names>JE</given-names></name>
+</person-group>
+              <article-title>Adverse drug reactions and toxicity of the Food and Drug Administration-approved antisense oligonucleotide drugs.</article-title>
+              <source>Drug Metab Dispos.</source>
+              <year>2022</year>
+              <volume>50</volume>
+              <fpage>879</fpage>
+              <lpage>887</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the adverse side effects of oligonucleotide therapies approved in the US or Europe, including specific discussions of fomivirsen, mipomersen, nusinersen, inotersen, eteplirsen, golodirsen, viltolarsen and casimersen; hepatotoxicity has been described with use of mipomersen [now withdrawn] and inotersen but not with the agents used for Duchenne muscular dystrophy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35221289</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Casimersen.REF.zakeri.2022.607">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zakeri</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Pradeep</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Kasina</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Laddha</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Manautou</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Bahal</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Casimersen for the treatment of Duchenne muscular dystrophy.</article-title>
+              <source>Trends Pharmacol Sci.</source>
+              <year>2022</year>
+              <volume>43</volume>
+              <fpage>607</fpage>
+              <lpage>608</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief and pictorial description of the structure, mechanism of action and clinical effects of casimersen as therapy for Duchenne muscular dystrophy; no mention of hepatotoxicity or ALT elevations during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35581038</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Casimersen.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Casimersen/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Casimersen: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Casimersen">Trials on Casimersen: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

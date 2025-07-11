@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ivosidenib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ivosidenib</book-part-id>
+      <title-group>
+        <title>Ivosidenib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>1</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ivermectin" document-type="chapter">Ivermectin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ixabepilone" document-type="chapter">Ixabepilone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ivosidenib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ivosidenib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ivosidenib is an orally available small molecule inhibitor of mutated isocitrate dehydrogenase-1 that is used as an antineoplastic agent in the treatment of adults of acute myelogenous leukemia (AML). Ivosidenib is associated with a moderate rate of serum aminotransferase elevations during therapy and is suspected to be the cause of rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Ivosidenib.Background">
+          <title>Background</title>
+          <p>Ivosidenib (eye" voe sid' i nib) is an orally available, small molecule inhibitor of isocitrate dehydrogenase-1 (IDH1), an enzyme rearranged and mutated in some forms of leukemia and lymphoma. Isocitrate dehydrogenase is an oxidative decarboxylase which is important in maintaining normal progenitor and stem cell differentiation. Mutation in IDH1 can lead to accumulation of a toxic intermediate (2-hydroxyglutarate; 2-HG) that blocks normal cell differentiation and promotes cancer cell growth. IDH1 mutations are found in 7% to 14% of patients with AML. In cell culture, ivosidenib has been found to decrease 2-HG levels and restore normal cell differentiation in cancer cells with IDH1 mutations. Clinical trials of ivosidenib have demonstrated beneficial objective response rates in adult patients with AML and susceptible IDH1 mutations. Ivosidenib received accelerated approval for use refractory or relapsed AML with mutated IDH1 in the United States in 2018. A specific small molecule inhibitor of IDH2, enasidenib, was approved as therapy of AML with mutations in IDH2 in 2017. These two IDH inhibitors appear to have similar efficacy against their respective mutated enzyme as well as similar adverse effects. The indications for ivosidenib were subsequently expanded to include relapsed or refractory myelodysplastic syndromes and advanced or metastatic, previously treated, cholangiocarcinoma with susceptible IDH1 mutations or rearrangements. Ivosidenib is available in tablets of 250 mg under the brand name Tibsovo. The dose is 500 mg once daily, continued until progressive disease or intolerable toxicity occurs. Side effects are common and can include fatigue, arthralgia, fever, diarrhea, nausea, abdominal pain, dyspnea, cough, peripheral edema, mucositis and rash. Uncommon, but potentially severe side effects include differentiation syndrome, QTc prolongation, Guillain Barre&#x02019; syndrome, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Ivosidenib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevations in serum aminotransferase levels are common during ivosidenib therapy occurring in 15% to 20% of patients but rising above 5 times the upper limit of the normal range in only 1% to 2%. Ivosidenib has had limited clinical use but has not been linked to instances of acute liver injury with symptoms or jaundice. Because of the limited clinical experience with the use of IDH inhibitors, their potential for causing liver injury is not well defined.</p>
+          <p>In prelicensure studies, ivosidenib therapy was associated with "differentiation syndrome" in 5% to 20% of patients, which was sometimes severe and life-threatening. Differentiation syndrome is marked by rapid proliferation of myeloid cells and symptoms of respiratory distress, accompanied by hypoxia, pulmonary infiltrates and pleural effusions. Other manifestations include renal impairment, fever, lymphadenopathy, bone pain, peripheral edema and weight gain. Liver dysfunction can also occur but is generally overshadowed by the more severe systemic manifestations. The onset of differentiation syndrome is generally within 2 to 8 weeks of starting therapy and the course can be severe. Management includes stopping ivosidenib and use of corticosteroids and hydroxyurea in more severe cases. Patients can be restarted on ivosidenib once the syndrome resolves.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ivosidenib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of the liver injury due to ivosidenib is not known. Ivosidenib is metabolized in the liver largely by the cytochrome P450 system (largely CYP 3A4) and is susceptible to drug-drug interactions with inhibitors or inducers of the microsomal enzyme system. Some serum aminotransferase elevations during ivosidenib therapy may be due to the release of proinflammatory cytokines as a part of the differentiation syndrome.</p>
+        </sec>
+        <sec id="Ivosidenib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Ivosidenib therapy has been associated with transient serum aminotransferase elevations during therapy but has not been linked to instances of acute liver injury with jaundice or symptoms. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice arise.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other IDH1 and IDH2 Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Enasidenib" document-type="book-part">Enasidenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Olutasidenib" document-type="book-part">Olutasidenib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ivosidenib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Ivosidenib &#x02013; Tibsovo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Ivosidenib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ivosidenib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ivosidenib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ivosidenib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ivosidenib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ivosidenib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ivosidenib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ivosidenib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ivosidenib</td>
+                <td headers="hd_h_Ivosidenib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://313371287">1448347-49-6</ext-link>
+</td>
+                <td headers="hd_h_Ivosidenib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C28-H22-Cl-F3-N6-O3</td>
+                <td headers="hd_h_Ivosidenib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">SID: 313371287</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ivosidenib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 January 2024</p>
+        <p>Abbreviation: AML, acute myelogenous leukemia; IDH, Isocitrate dehydrogenase.</p>
+        <ref-list id="Ivosidenib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ivosidenib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013 before the availability of ivosidenib and enasidenib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/211192Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/211192Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.birendra.2016.460">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Birendra</surname>
+<given-names>KC</given-names></string-name>, <string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>. <article-title>Evidence for clinical differentiation and differentiation syndrome in patients with acute myeloid leukemia and IDH1 mutations treated with the targeted mutant IDH1 inhibitor, AG-120.</article-title>
+<source>Clin Lymphoma Myeloma Leuk</source>
+<year>2016</year>; <volume>16</volume>: <fpage>460</fpage>-<lpage>5</lpage>.<annotation><p><italic toggle="yes">(Three patients with AML and mutant IDH1 who were treated with ivosidenib developed clinically apparent differentiation syndrome during the first two cycles of therapy manifested by neutrophil-predominant leukocytosis, fever, cough, shortness of breath, pulmonary failure, pleural and pericardial effusions; treated successfully with corticosteroids and hydroxyurea which allowed subsequent courses of ivosidenib; no mention of ALT elevations or hepatic involvement).</italic></p></annotation><pub-id pub-id-type="pmid">27245312</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.upadhyay.2017.123">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Upadhyay</surname>
+<given-names>VA</given-names></string-name>, <string-name name-style="western"><surname>Brunner</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Fathi</surname>
+<given-names>AT</given-names></string-name>. <article-title>Isocitrate dehydrogenase (IDH) inhibition as treatment of myeloid malignancies: Progress and future directions.</article-title>
+<source>Pharmacol Ther</source>
+<year>2017</year>; <volume>177</volume>: <fpage>123</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Review of the role of mutations in IDH-1 and -2 in oncogenesis which act as &#x0201c;oncometabolites&#x0201d; causing accumulation of 2-hydroxyglutarate which inhibits histone demethylases causing epigenetic changes in cellular differentiation genes, factors that make these mutation enzymes promising targets for anticancer therapeutics).</italic></p></annotation><pub-id pub-id-type="pmid">28315358</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.dinardo.2018.2386">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>de Botton</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Roboz</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Altman</surname>
+<given-names>JK</given-names></string-name>, <string-name name-style="western"><surname>Mims</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Swords</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Durable remissions with ivosidenib in IDH1-mutated relapsed or refractory AML.</article-title>
+<source>N Engl J Med</source>
+<year>2018</year>; <volume>378</volume>: <fpage>2386</fpage>-<lpage>98</lpage>.<annotation><p><italic toggle="yes">(Among 258 patients with relapsed or refractory, IDH1 mutant AML who were treated with ivosidenib, the overall response rate was 42% and adverse events included diarrhea [21%], leukocytosis [30%], febrile neutropenia [29%], fatigue [26%], dyspnea [25%], QTc prolongation [25%], peripheral edema [22%], anemia [22%], cough [21%] and differentiation syndrome [5%, none fatal], while ALT elevations occurred in 27% of patients, but values were above 5 times ULN in less than 1%).</italic></p></annotation><pub-id pub-id-type="pmid">29860938</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.fathi.2018.1106">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fathi</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Kline</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Kenvin</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Attar</surname>
+<given-names>EC</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>de Botton</surname>
+<given-names>S</given-names></string-name>; <article-title>AG221-C-001 Study Investigators. Differentiation syndrome associated with enasidenib, a selective inhibitor of mutant isocitrate dehydrogenase 2: analysis of a phase 1/2 study.</article-title>
+<source>JAMA Oncol</source>
+<year>2018</year>; <volume>4</volume>: <fpage>1106</fpage>-<lpage>10</lpage>.<annotation><p><italic toggle="yes">(Among 281 patients with AML treated with enasidenib [50-650 mg daily] in open label trials, 33 [12%] were judged to have developed differentiation syndrome marked by dyspnea, fever, lung infiltrates and hypoxia with onset after 7-129 days [median 30 days], usually responding to corticosteroid therapy, half requiring dose interruption, none dying acutely, and all able to restart enasidenib after its resolution).</italic></p></annotation><pub-id pub-id-type="pmid">29346478</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.norsworthy.2019.3205">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Norsworthy</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Luo</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Hsu</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Gudi</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Dorff</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Przepiorka</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Deisseroth</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: ivosidenib for relapsed or refractory acute myeloid leukemia with an isocitrate dehydrogenase-1 mutation.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2019</year>;<volume>25</volume>:<fpage>3205</fpage>-<lpage>3209</lpage>.<annotation><p><italic toggle="yes">(Review of the data on safety and efficacy of ivosidenib that supported its approval as therapy of relapsed or refractory AML with mutant IDH1, mentions that adverse events occurred in 99% of patients and included serious cases of differentiation syndrome [13%], QT prolongation [10%], dyspnea [9%], leukocytosis [8%], tumor lysis syndrome [6%], resulting in therapy interruption in 38%, discontinuation 13%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30692099</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.aboualfa.2020.796">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Abou-Alfa</surname>
+<given-names>GK</given-names></string-name>, <string-name name-style="western"><surname>Macarulla</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Javle</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Kelley</surname>
+<given-names>RK</given-names></string-name>, <string-name name-style="western"><surname>Lubner</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Adeva</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Cleary</surname>
+<given-names>JM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Ivosidenib IDH1-mutant, chemotherapy-refractory cholangiocarcinoma (ClarIDHy): a multicentre, randomised, double-blind, placebo-controlled, phase 3 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2020</year>;<volume>21</volume>:<fpage>796</fpage>-<lpage>807</lpage>.<annotation><p><italic toggle="yes">(Among 185 adults with IDH1 mutant, refractory cholangiocarcinoma treated with ivosidenib or placebo, the objective response rate was only 2% vs 0% and progression free survival minimally longer [2.7 vs 1.4 months] while adverse event rates were high, ALT elevations arising in 9% vs 2% and bilirubin elevations in 10% vs 7%).</italic></p></annotation><pub-id pub-id-type="pmid">32416072</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.dinardo.2021.57">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>DiNardo</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Fathi</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Frankfurt</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Schuh</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>D&#x000f6;hner</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Mutant isocitrate dehydrogenase 1 inhibitor ivosidenib in combination with azacitidine for newly diagnosed acute myeloid leukemia.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>57</fpage>-<lpage>65</lpage>.<annotation><p><italic toggle="yes">(Among 23 patients with refractory IDH1 mutant AML treated with ivosidenib and azacytidine, the objective response rate was 71% and all patients had at least one adverse event, most commonly thrombocytopenia, anemia, febrile neutropenia, nausea, diarrhea, constipation, and pyrexia, but there were no treatment related deaths; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33119479</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.stemer.2021.41">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stemer</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Rowe</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Ofran</surname>
+<given-names>Y</given-names></string-name>. <article-title>Efficacy and safety profile of ivosidenib in the management of patients with acute myeloid leukemia (AML): an update on the emerging evidence.</article-title>
+<source>Blood Lymphat Cancer.</source>
+<year>2021</year>;<volume>11</volume>:<fpage>41</fpage>-<lpage>54</lpage>.<annotation><p><italic toggle="yes">(Review of the efficacy and safety of ivosidenib does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34188585</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.zhu.2021.1669">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhu</surname>
+<given-names>AX</given-names></string-name>, <string-name name-style="western"><surname>Macarulla</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Javle</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Kelley</surname>
+<given-names>RK</given-names></string-name>, <string-name name-style="western"><surname>Lubner</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Adeva</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Cleary</surname>
+<given-names>JM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Final overall survival efficacy results of ivosidenib for patients with advanced cholangiocarcinoma with IDH1 mutation: the phase 3 randomized clinical ClarIDHy Trial.</article-title>
+<source>JAMA Oncol.</source>
+<year>2021</year>;<volume>7</volume>:<fpage>1669</fpage>-<lpage>1677</lpage>.<annotation><p><italic toggle="yes">(Final survival results from the randomized controlled trial of ivosidenib vs placebo in 187 adults with irresectable or metastatic cholangiocarcinoma with mutant IDH1, provides the overall survival of 10.3 vs 7.5 months with serious treatment related adverse events in 42% vs 24%, including three cases of hyperbilirubinemia during ivosidenib therapy, one of which was considered due to cholestatic hepatitis, but there were no treatment related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">34554208</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Ivosidenib.REF.woods.2023">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Woods</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Norsworthy</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Vallejo</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Chow</surname>
+<given-names>ECY</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Sun</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: ivosidenib in combination with azacitidine for treatment of patients with newly diagnosed acute myeloid leukemia with an IDH1 mutation.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2023</year>
+<month>Nov</month>
+<day>27</day>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Review of the data on safety and efficacy of the combination of ivosidenib and azacytidine as therapy for newly diagnosed AML in patients above the age of 75, found an improved overall survival with the combination of 24 vs 9 months with azacytidine alone, but similar rates of adverse events, with dose interruptions in 56%, dose modifications in 14%, and discontinuations in 31%, the major serious adverse events being differentiation syndrome and prolongation of the QTc interval; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38010220</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ivosidenib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ivosidenib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ivosidenib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ivosidenib">Trials on Ivosidenib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

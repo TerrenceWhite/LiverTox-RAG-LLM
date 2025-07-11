@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tebentafusp" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tebentafusp</book-part-id>
+      <title-group>
+        <title>Tebentafusp</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tazemetostat" document-type="chapter">Tazemetostat</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Teclistamab" document-type="chapter">Teclistamab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tebentafusp.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tebentafusp.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tebentafusp is a recombinant bispecific fusion protein that binds both the gp100 peptide expressed in HLA-A*02:01 on melanoma cells and the CD3 T cell engager. It is used to treat metastatic or unresectable uveal melanoma. Tebentafusp is associated with frequent elevations in serum ALT, AST and bilirubin during therapy, usually in association with cytokine release syndrome that can lead to interruption or early discontinuation of therapy, but instances of clinically apparent liver injury with jaundice independent of cytokine release syndrome have not been reported.</p>
+        </sec>
+        <sec id="Tebentafusp.Background">
+          <title>Background</title>
+          <p>Tebentafusp (te ben&#x02019; ta fusp) is a recombinant bispecific fusion protein that binds both the gp100 peptide expressed in HLA-A*02:01 on melanoma cells and the CD3 T cell engager. HLA-A*02:01 is the most common HLA complex in humans found in 50% of persons with European American ancestry. Thus, tebentafusp activates cytotoxic CD3 T cells in the presence of melanoma expressed gp100 peptide causing an immune lysis of the melanoma cells. Tebentafusp was found to be effective in animal models of human uveal melanoma, a particularly resistant and rapidly fatal form of the malignancy. In a randomized controlled trial in patients with metastatic uveal melanoma, tebentafusp was associated with an improvement in one year survival compared to standard melanoma therapies (73% vs 59%). Tebentafusp was approved in the United States in 2022 as therapy of metastatic or unresectable uveal melanoma in adults with HLA-A*02:01. It remains under evaluation in other forms of advanced melanoma. Tebentafusp is available in solution for injection in single dose vials of 100 mcg in 0.5 mL (200 mcg/mL) under the brand name Kimmtrak. The recommended dose is once weekly intravenous infusions of 20 mcg on day 1, 30 mcg on day 8, and 68 mcg on day 15 and once weekly thereafter. Tebentafusp has a high rate of adverse events, most commonly a mild-to-moderate cytokine release syndrome caused by the generalized activation of CD3 T cells. Symptoms include fever, chills, fatigue, rash, pruritus, dry skin, abdominal pain, nausea, vomiting, headache, hypotension, edema, dyspnea. Laboratory abnormalities include lymphopenia and anemia, as well as increase in glucose, creatinine, serum ALT, AST and bilirubin levels. Potentially severe adverse events include severe cytokine release syndrome and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Tebentafusp.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure controlled trials, serum ALT or AST elevations occurred in 65% of tebentafusp treated subjects arising in association with cytokine release syndrome that typically occurs during the first few months of therapy. Most of these elevations were mild-to-moderate in severity and resolved rapidly despite continuation of treatment. ALT elevations arose in 52% of tebentafusp treated patients and were above 5 times the ULN in 9%, compared to the comparator arm receiving standard therapy for melanoma in whom ALT elevations arose in 29% and were above 5 times ULN in 2%. Bilirubin elevations were also more frequent (27% vs 14% in comparator arms). ALT or AST elevations led to temporary interruption of therapy in 5% of patients but to permanent discontinuation in only 0.4%. Most liver enzyme and bilirubin elevations occurred in the context of cytokine release syndrome. In preregistration clinical trials and subsequently with its more widespread use, tebentafusp has not been linked to instances of clinically apparent liver injury independent of the cytokine release syndrome.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tebentafusp.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Tebentafusp is a recombinant human protein and as such is unlikely to be intrinsically hepatotoxic. Because tebentafusp induces a strong CD3 T cell response to the tumor antigen, it causes release of proinflammatory cytokines that can induce transient liver injury, the recombinant fusion protein being a cause of transient &#x0201c;indirect&#x0201d; drug induced liver injury. Because melanoma is also frequently found in liver, the lysis of liver melanoma cells and local release of inflammatory cytokines may particularly induce evidence liver injury and dysfunction.</p>
+        </sec>
+        <sec id="Tebentafusp.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Tebentafusp has been linked to mild-to-moderate serum enzyme elevations during therapy. Discontinuation for serum enzyme elevations is usually not necessary, but should be done if the elevations are persistently above 5 times ULN. There is no information on cross sensitivity to liver injury between tebentafusp and other growth factors or therapies for melanoma.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tebentafusp.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <table-wrap id="Tebentafusp.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1"><break/><p><bold>REPRESENTATIVE TRADE NAMES</bold></p>
+<p>Tebentafusp &#x02013; Kimmtrak&#x000ae;</p>
+<p><bold>DRUG CLASS</bold></p>
+<p>Antineoplastic Agents</p>
+<p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tebentafusp">COMPLETE LABELING</ext-link></p>
+<p>Product labeling at DailyMed, National Library of Medicine, NIH</p></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tebentafusp.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tebentafusp.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tebentafusp.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tebentafusp.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Tebentafusp.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tebentafusp.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tebentafusp.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tebentafusp</td>
+                <td headers="hd_h_Tebentafusp.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1874157-95-5</td>
+                <td headers="hd_h_Tebentafusp.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Recombinant Protein</td>
+                <td headers="hd_h_Tebentafusp.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tebentafusp.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 July 2023</p>
+        <p>Abbreviations used: CRS, cytokine release syndrome; iv, intravenous; TCR, T cell receptor.</p>
+        <ref-list id="Tebentafusp.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tebentafusp.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761228Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761228Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website including product label and multidiscipline review of data submitted in support of the approval of tebentafusp, mentions that ALT and AST elevations arose in two-thirds of treated patients, and qualified as being serious adverse events in 11 [4.4%], resulting in withholding therapy in 13 [15%] and permanent discontinuation in one patient [0.4%], but there were no liver related deaths).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tebentafusp.REF.middleton.2020.5869">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Middleton</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>McAlpine</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Woodcock</surname>
+<given-names>VK</given-names></string-name>, <string-name name-style="western"><surname>Corrie</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Infante</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Steven</surname>
+<given-names>NM</given-names></string-name>, <string-name name-style="western"><surname>Evans</surname>
+<given-names>TRJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tebentafusp, a TCR/Anti-CD3 bispecific fusion protein targeting gp100, potently activated antitumor immune responses in patients with metastatic melanoma.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2020</year>;<volume>26</volume>:<fpage>5869</fpage>-<lpage>5878</lpage>.<annotation><p><italic toggle="yes">(Among 84 patients with advanced metastatic melanoma [19 with uveal melanoma] who were treated with various dose regimens of tebentafusp intravenously [iv], the one year survival rate was 60% while the overall response rate was only 9%, and 60% of patients had the cytokine release syndrome [CRS] with levels of cytokines highest for CXCL11, CXCL10, IL2, IL6 and IL10, and best survival achieved in patients with the highest CXCL10 levels and appearance of rash within 21 days).</italic></p></annotation><pub-id pub-id-type="pmid">32816891</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tebentafusp.REF.nathan.2021.1196">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nathan</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Hassel</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Rutkowski</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Baurain</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Butler</surname>
+<given-names>MO</given-names></string-name>, <string-name name-style="western"><surname>Schlaak</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sullivan</surname>
+<given-names>RJ</given-names></string-name>, <etal>et al.</etal>; <collab>IMCgp100-202 investigators</collab>. <article-title>Overall survival benefit with tebentafusp in metastatic uveal melanoma.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>385</volume>:<fpage>1196</fpage>-<lpage>1206</lpage>.<annotation><p><italic toggle="yes">(Among 378 treatment-naive, HLA-A*02:01-positive patients with metastatic uveal melanoma treated with weekly iv tebentafusp or with preferred standard therapies, overall 1-year survival rates were 73% vs 59% and the most frequent tebentafusp related adverse event was CRS [89% vs 3%], and ALT elevations arose in 18% vs 7% and bilirubin in 9% vs 2%, usually during the first 4 weeks of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">34551229</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tebentafusp.REF.carvajal.2022.1939">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Carvajal</surname>
+<given-names>RD</given-names></string-name>, <string-name name-style="western"><surname>Nathan</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Sacco</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Orloff</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hernandez-Aya</surname>
+<given-names>LF</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Luke</surname>
+<given-names>JJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase I study of safety, tolerability, and efficacy of tebentafusp using a step-up dosing regimen and expansion in patients with metastatic uveal melanoma.</article-title>
+<source>J Clin Oncol.</source>
+<year>2022</year>;<volume>40</volume>:<fpage>1939</fpage>-<lpage>1948</lpage>.<annotation><p><italic toggle="yes">(Among 42 adults with refractory metastatic uveal melanoma and HLA-A*02:01 treated with escalating doses of tebentafusp [20, 30, 54 and 68 mcg], the 68 mcg dose was chosen for future study, and the overall response rate was 12%, 1-year survival rate 67%, and most frequent adverse events were fever [91%], rash [83%], pruritus [83%], nausea [74%] and fatigue [71%]; while ALT elevations arose in 5%, AST in 7%, and bilirubin in 5%, there were no discontinuations for liver test abnormalities and no treatment-related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">35254876</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tebentafusp.REF.dhillon.2022.703">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Tebentafusp: first approval.</article-title>
+<source>Drugs.</source>
+<year>2022</year>;<volume>82</volume>:<fpage>703</fpage>-<lpage>710</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety shortly after its approval as therapy of uveal melanoma in the US, mentions that CRS developed in 89% of patients [defined as presence of fever, hypotension and hypoxia] but was usually mild-to-moderate in severity with grade 3 CRS in only 1% of subjects and no cases of death from CRS, and while ALT and AST elevations were frequent [65-71%], they were usually mild-to-moderate and, if more severe [in 4-16%], were often self-limited even with continuing therapy).</italic></p></annotation><pub-id pub-id-type="pmid">35364798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tebentafusp.REF.carvajal.2022.2364">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Carvajal</surname>
+<given-names>RD</given-names></string-name>, <string-name name-style="western"><surname>Butler</surname>
+<given-names>MO</given-names></string-name>, <string-name name-style="western"><surname>Shoushtari</surname>
+<given-names>AN</given-names></string-name>, <string-name name-style="western"><surname>Hassel</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Ikeguchi</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hernandez-Aya</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Nathan</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Clinical and molecular response to tebentafusp in previously treated patients with metastatic uveal melanoma: a phase 2 trial.</article-title>
+<source>Nat Med.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>2364</fpage>-<lpage>2373</lpage>.<annotation><p><italic toggle="yes">(Among 127 patients with refractory, metastatic uveal melanoma and HLA A*02:01 treated with tebentafusp, the primary response rate was only 5% but the one year median survival rate was 62%, higher than the established historical rate of only 37% ).</italic></p></annotation><pub-id pub-id-type="pmid">36229663</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tebentafusp.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tebentafusp+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tebentafusp: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tebentafusp">Trials on Tebentafusp: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

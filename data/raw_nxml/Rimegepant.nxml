@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rimegepant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rimegepant</book-part-id>
+      <title-group>
+        <title>Rimegepant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>1</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rimantadine" document-type="chapter">Rimantadine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Riociguat" document-type="chapter">Riociguat</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rimegepant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rimegepant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rimegepant is an orally available, small molecule inhibitor of the calcitonin gene-related peptide (CGRP) receptor that blocks the action of CGRP, a potent vasodilator believed to play a role in migraine headaches. Rimegepant is approved for both treatment and prevention of acute migraine attacks. In clinical trials, rimegepant was generally well tolerated with only rare instances of transient serum aminotransferase elevations during therapy and with no reported instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Rimegepant.Background">
+          <title>Background</title>
+          <p>Rimegepant (ri me&#x02019; je pant) is an orally available, small molecule inhibitor of the receptor for the calcitonin gene-related peptide (CGRP), which is believed to play a role in the pathogenesis of migraine headaches. CGRP is a potent vasodilator and pain-signaling neurotransmitter that is found throughout the central and peripheral nervous system but is particularly common in trigeminal ganglia. Levels of CGRP are elevated during episodes of migraine headache, and administration of the peptide can induce migraines in susceptible patients. For this reason, approaches to inhibition of CGRP signaling were developed as potential therapies for migraine, both as preventive therapies to decrease the rate of migraine as well as for treatment of acute attacks. Several small molecule inhibitors of the CGRP receptor (the &#x0201c;gepants&#x0201d;: atogepant, rimegepant, ubrogepant, and zavegepant) are available for treatment or prevention of acute migraine. Only rimegepant is approved for both indications. In several randomized, placebo controlled trials, rimegepant in doses of 75 mg orally (or sublingually) was found to increase the rate of being free of headache pain by two hours after administration [20% to 21% vs 11% to 12% with placebo] and also being free of the most bothersome other symptoms [35% to 38% vs 25% to 27% with placebo]. Rimegepant was approved for treatment of acute migraine in the United States in 2020, the second oral CGRP receptor antagonist approved for this indication. Indications were expanded in 2021 to also include prevention of acute attacks in patients with episodic migraine. Rimegepant is available in orally disintegrating tablets of 75 mg under the brand name Nurtec ODT. The recommended dose is 75 mg orally as soon as possible after onset of migraine. The dose should not exceed 75 mg during any 24-hour period. Rimegepant can be used by patients receiving preventive therapy with monoclonal antibodies to CGRP or its receptor. The recommended dose for prevention of migraines is 75 mg every other day. Rimegepant is generally well tolerated with side effects of nausea, dizziness, somnolence, and dry mouth that are generally uncommon (&#x0003c;5%), transient and mild-to-moderate in severity. Hypersensitivity reactions (largely rash and dyspnea) have arisen in rare cases, but more severe adverse events have not been reported.</p>
+        </sec>
+        <sec id="Rimegepant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration controlled trials of rimegepant in several thousand patients, mild-to-moderate serum aminotransferase elevations arose in a small percentage of patients (1% to 2%) and overall rates were not different from those in placebo recipients. In the controlled trials and subsequently with general use, there have been no reports of clinically apparent liver injury attributed to rimegepant. In contrast, telcagepant, the initial oral CGRP receptor antagonist evaluated as therapy for migraine headaches, was abandoned during development because of several instances of clinically apparent liver injury in recipients that was characterized by marked elevations in serum aminotransferase levels and symptoms of fatigue, nausea and abdominal discomfort arising within 2 to 4 weeks of starting therapy which rapidly resolved with stopping therapy. Similar episodes have not been reported with rimegepant.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Rimegepant.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Possible mechanisms of liver injury due to rimegepant are not known. It is metabolized in the liver largely by CYP 3A4 and is susceptible to drug-drug interactions with agents that induced or inhibit this microsomal enzyme.</p>
+        </sec>
+        <sec id="Rimegepant.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MigraineHeadacheAgen" document-type="book-part">Migraine Headache Agents</related-object></p>
+          <p>Other Small Molecule Inhibitors of CGRP Receptors: <underline>Atogepant</underline>, <related-object link-type="booklink" source-id="livertox" document-id="Ubrogepant" document-type="book-part">Ubrogepant</related-object>, Zavegepant</p>
+        </sec>
+      </sec>
+      <sec id="Rimegepant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Rimegepant &#x02013; Nurtec ODT&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Migraine Headache Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Rimegepant">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Rimegepant.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rimegepant.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Rimegepant.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rimegepant.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Rimegepant.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rimegepant.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rimegepant.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Rimegepant</td>
+                <td headers="hd_h_Rimegepant.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163638920">1289023-67-1</ext-link>
+</td>
+                <td headers="hd_h_Rimegepant.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C28-H28-F2-N6-O2</td>
+                <td headers="hd_h_Rimegepant.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163638920" document-id-type="sid" document-type="summary" object-id="163638920" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rimegepant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 January 2025</p>
+        <p>Abbreviations: CGRP, calcitonin gene-related peptide.</p>
+        <ref-list id="Rimegepant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Rimegepant.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of CGRP antagonists).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF2">
+            <mixed-citation publication-type="web">FDA. Clinical Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212728Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212728Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA multidisciplinary scientific review of the rimegepant application including specific discussion of hepatic adverse events which consisted mainly of mild-to-moderate ALT or AST elevations which were similar in frequency in rimegepant vs placebo recipients and there were no instances of clinically apparent liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.ho.2014.958">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ho</surname>
+<given-names>TW</given-names></string-name>, <string-name name-style="western"><surname>Connor</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Pearlman</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Koppenhaver</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Fan</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Lines</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized controlled trial of the CGRP receptor antagonist telcagepant for migraine prevention.</article-title>
+<source>Neurology</source>
+<year>2014</year>; <volume>83</volume>: <fpage seq="a">958</fpage>-<lpage>66</lpage>.<annotation><p><italic toggle="yes">(Among 660 patients with migraine enrolled in a controlled trial of telcagepant [140 or 280 mg] vs placebo twice daily for 12 weeks, 13 patients on telcagepant developed ALT elevations above 3 times ULN, generally between weeks 4 and 6 of treatment, two rising starting at week 2 to as high as 33 and 39 times ULN accompanied by symptoms but not jaundice; discontinuation was followed by full recovery but the episodes led to early termination of the trial because of the risk of significant hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25107879</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.marcus.2014.114">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Marcus</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Goadsby</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Dodick</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Manos</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Fischer</surname>
+<given-names>TZ</given-names></string-name>. <article-title>BMS-927711 for the acute treatment of migraine: a double-blind, randomized, placebo controlled, dose-ranging trial.</article-title>
+<source>Cephalalgia</source>
+<year>2014</year>; <volume>34</volume>(<issue>2</issue>): <fpage>114</fpage>-<lpage>25</lpage>.<annotation><p><italic toggle="yes">(Among 885 adults enrolled in a randomized controlled dose-finding study of rimegepant [10, 25, 75, 150, 300 or 600 mg] for treatment of a single migraine attack, the proportion of subjects who were headache pain free 2 hours after dosing was 30-33% with 75, 150 and 300 mg of rimegepant vs 35% with sumatriptan and 15% with placebo, while adverse event rates were similar in all groups and there were no &#x0201c;clinically significant changes&#x0201d; in laboratory tests and no ALT elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">23965396</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.lipton.2019.142">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>EG</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Morris</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Frost</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dubowchik</surname>
+<given-names>GM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Rimegepant, an oral calcitonin gene-related peptide receptor antagonist, for migraine.</article-title>
+<source>N Engl J Med</source>
+<year>2019</year>; <volume>381</volume>: <fpage>142</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 1186 adults treated for a single migraine attack in a randomized controlled trial, freedom from headache pain at 2 hours was higher with rimegepant [75 mg] than placebo [20% vs 12%] as was resolution of the most bothersome other symptom [38% vs 25%] while adverse event rates were similar, ALT or AST elevations arising in 2.4% vs 2.0% and no elevation being above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">31291516</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.croop.2019.737">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Goadsby</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Forshaw</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>EG</given-names></string-name>, <string-name name-style="western"><surname>Coric</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy, safety, and tolerability of rimegepant orally disintegrating tablet for the acute treatment of migraine: a randomised, phase 3, double-blind, placebo-controlled trial.</article-title>
+<source>Lancet</source>
+<year>2019</year>; <volume>394</volume>: <fpage>737</fpage>-<lpage>45</lpage>.<annotation><p><italic toggle="yes">(Among 1811 adults treated for a single attack of migraine in a randomized controlled trial, freedom from headache pain 2 hours after dosing was higher after rimegepant [75 mg] vs placebo [21% vs 11%] as was freedom from the most bothersome other symptom [35% vs 27%], while the most common adverse event was nausea [2% vs 1%] and ALT elevations above 3 times ULN occurred in 0.1% of both groups and there were no instances of liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">31311674</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.tfelthansen.2019.113">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tfelt-Hansen</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Loder</surname>
+<given-names>E.</given-names></string-name>
+<article-title>The Emperor's new gepants: are the effects of the new oral CGRP antagonists clinically meaningful?</article-title>
+<source>Headache</source>
+<year>2019</year>; <volume>59</volume>: <fpage>113</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Commentary on the relative efficacy of two oral CGRP receptor antagonists, ubrogepant and rimegepant, which show only modest efficacy in acute migraine [therapeutic gain of 5-8%] and only when compared to placebo as compared to well known effective therapies such as aspirin and other nonsteroidal antiinflammatory agents [8-14%] and the triptans [16-32%]).</italic></p></annotation><pub-id pub-id-type="pmid">30451300</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF8">
+            <mixed-citation publication-type="journal"><article-title>Lasmiditan (Reyvow) and ubrogepant (Ubrelvy) for acute treatment of migraine.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2020</year>; <volume>62</volume>: <fpage>35</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of ubrogepant and lasmiditan as therapy of acute migraine shortly after their approval for this indication in the US, mentions side effects of ubrogepant being nausea and somnolence but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32555120</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF9">
+            <mixed-citation publication-type="journal"><article-title>Rimegepant (Nurtec ODT) for acute treatment of migraine.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2020</year>; <volume>62</volume>: <fpage>70</fpage>-<lpage>2</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, pharmacology, clinical efficacy, safety and cost of rimegepant shortly after its approval in the US as therapy of acute migraine in adults, mentions that it &#x0201c;was generally well tolerated in clinical trials; nausea was the most common adverse event [~2%]&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">32555113</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.berman.2020.1734">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Berman</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Kudrow</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Halverson</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Lovegren</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Thiry</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>CM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety of rimegepant, an oral CGRP receptor antagonist, plus CGRP monoclonal antibodies for migraine.</article-title>
+<source>Headache</source>
+<year>2020</year>; <volume>60</volume>: <fpage>1734</fpage>-<lpage>42</lpage>.<annotation><p><italic toggle="yes">(Description of 13 patients taking CGRP monoclonal antibodies for prevention of migraine [erenumab, galcanezumab or fremanezumab] who used rimegepant tablets to treat a total of 224 acute attacks of migraine, with no serious adverse events and no elevations in ALT above 3 times ULN or episodes of liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">32799325</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.croop.2021.51">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Kudrow</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Kamen</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>EG</given-names></string-name>, <etal>et al.</etal>
+<article-title>Oral rimegepant for preventive treatment of migraine: a phase 2/3, randomised, double-blind, placebo-controlled trial.</article-title>
+<source>Lancet</source>
+<year>2021</year>; <volume>397</volume>: <fpage>51</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Among 747 patients with migraine headaches enrolled in a 12 week randomized controlled trial, those treated with rimegepant [75 mg] every other day had a greater decrease in monthly number of days with migraine vs those on placebo [-4.3 vs -3.5 days], while overall adverse event rates were similar [both 36%] as were ALT or AST elevations above 3 times ULN [both 1%], and there were no instances of liver injury with jaundice, although 1 patient receiving rimegepant had an asymptomatic and transient elevation in ALT above 10 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">33338437</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF12">
+            <mixed-citation publication-type="journal"><article-title>Drugs for migraine.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2020</year>; <volume>62</volume>: <fpage>153</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the relative clinical efficacy, safety and costs of drugs to treat acute migraine headache [such as analgesics, opiates, triptans, ergots and oral CGRP receptor antagonists] and to prevent migraines [such as anticonvulsants, beta blockers, antidepressants and the monoclonal antibodies to CGRP and its receptor]).</italic></p></annotation><pub-id pub-id-type="pmid">33434187</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.robbins.2021.1874">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Robbins</surname>
+<given-names>MS</given-names></string-name>. <article-title>Diagnosis and management of headache: a review.</article-title>
+<source>JAMA</source>
+<year>2021</year>; <volume>325</volume>: <fpage>1874</fpage>-<lpage>85</lpage>.<annotation><p><italic toggle="yes">(Review of the diagnosis and management of headache including use of calcitonin gene-related peptide antagonists for acute migraine attacks which has uncommon side effects of dry mouth and dizziness; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33974014</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.woodhead.2022.108">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Woodhead</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Siler</surname>
+<given-names>SQ</given-names></string-name>, <string-name name-style="western"><surname>Howell</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>C</given-names></string-name>. <article-title>Comparing the liver safety profiles of 4 next-generation CGRP receptor antagonists to the hepatotoxic CGRP inhibitor telcagepant using quantitative systems toxicology modeling.</article-title>
+<source>Toxicol Sci.</source>
+<year>2022</year>;<volume>188</volume>:<fpage>108</fpage>-<lpage>116</lpage>.<annotation><p><italic toggle="yes">(Mechanistic simulation of hepatotoxicity indicated that telcagepant had multiple potential adverse effects on liver function compared to the more recently developed CGRP antagonists, rimegepant, ubrogepant, atogepant, and zavegepant).</italic></p></annotation><pub-id pub-id-type="pmid">35556143</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.battini.2023.1105">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Battini</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Carnovale</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Clementi</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Sessa</surname>
+<given-names>M.</given-names></string-name>
+<article-title>Ubrogepant and rimegepant: signal detection using spontaneous reports of adverse events from the Food and Drug Administration Adverse Event Reporting System.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>;<volume>22</volume>:<fpage>1105</fpage>-<lpage>1112</lpage>.<annotation><p><italic toggle="yes">(Extraction of adverse event reports made to the FDAs Adverse Event Reporting System for ubrogepant [n=2010] and rimegepant [3691] found no excess reports of hepatic reactions).</italic></p></annotation><pub-id pub-id-type="pmid">37293948</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.croop.2021.51_1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Kudrow</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Kamen</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Stock</surname>
+<given-names>EG</given-names></string-name>, <etal>et al.</etal>
+<article-title>Oral rimegepant for preventive treatment of migraine: a phase 2/3, randomised, double-blind, placebo-controlled trial.</article-title>
+<source>Lancet.</source>
+<year>2021</year>;<volume>397</volume>(<issue>10268</issue>):<fpage>51</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Among 695 adults with episodic or chronic migraine treated with rimegepant [75 mg] or placebo every other day for 12 weeks, the mean number of migraine days per month decreased more with drug [-4.3] than placebo [-3.5], while total and serious adverse event rates were similar [36% vs 36% and 1% vs 1%] as were rates of serum ALT or AST elevations above 3 times ULN [1% vs 1%], and there were no instances of ALT elevations with jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">33338437</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF17">
+            <mixed-citation publication-type="journal"><article-title>Drugs for migraine.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>89</fpage>-<lpage>96</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the relative clinical efficacy, safety, and costs of drugs to treat and to prevent migraine headaches, states that systemic adverse effects are uncommon with use of oral CGRP receptor antagonists, but that nausea and somnolence can occur; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37266987</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.liang.2024.1431562">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liang</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Liao</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Liang</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>H</given-names></string-name>. <article-title>Real-world study of adverse events associated with gepant use in migraine treatment based on the VigiAccess and U.S. Food and Drug Administration's adverse event reporting system databases.</article-title>
+<source>Front Pharmacol.</source>
+<year>2024</year>;<volume>15</volume>:<elocation-id>1431562</elocation-id>.<annotation><p><italic toggle="yes">(Search of two large registry databases on spontaneous reports of adverse events due to -gepants [rimegepant, ubrogepant, and atogepant] identified 23,542 reports, but only 0.09% to 0.27% were liver related, attesting to the lack of severe liver injury due to the currently available oral CGRP receptor antagonists).</italic></p></annotation><pub-id pub-id-type="pmid">39144633</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.croop.2024.3331024241232944">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Berman</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Kudrow</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Mullin</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Thiry</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lovegren</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>L'Italien</surname>
+<given-names>G</given-names></string-name>, <etal>et al.</etal>
+<article-title>A multicenter, open-label long-term safety study of rimegepant for the acute treatment of migraine.</article-title>
+<source>Cephalalgia.</source>
+<year>2024</year>;<volume>44</volume>:<elocation-id>3331024241232944</elocation-id>.<annotation><p><italic toggle="yes">(Among 1600 adults with episodic or chronic migraine treated with rimegepant [75 mg] in 3 different dose regimens either as needed for an acute attacks or as preventive therapy with addition of doses as needed, ALT or AST elevations arose in 11% of patients and were above 3 times ULN in only 1%, none of whom that were considered possibly due to drug were associated with bilirubin elevations or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">38659334</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.lipton.2024.2431">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Thiry</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Morris</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Croop</surname>
+<given-names>R</given-names></string-name>. <article-title>Efficacy and safety of rimegepant 75 mg oral tablet, a CGRP receptor antagonist, for the acute treatment of migraine: a randomized, double-blind, placebo-controlled trial.</article-title>
+<source>J Pain Res.</source>
+<year>2024</year>;<volume>17</volume>:<fpage>2431</fpage>-<lpage>2441</lpage>.<annotation><p><italic toggle="yes">(Among 1162 adults with migraine headaches who were treated during an acute attack with rimegepant [75 mg] or placebo, 2 hour post dosing pain free rates were 19% vs 14%, while adverse event rates were 12.6% vs 10.7%, and ALT or AST elevations arose in only 2% vs 3.6% of participations, and were above 3 times ULN in only 1 patient in each group, none developing jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">39070853</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.hu.2024.169">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hu</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>JY</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Qian</surname>
+<given-names>SY</given-names></string-name>, <string-name name-style="western"><surname>Jiang</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Zheng</surname>
+<given-names>GQ</given-names></string-name>. <article-title>Post-marketing safety concerns with rimegepant based on a pharmacovigilance study.</article-title>
+<source>J Headache Pain.</source>
+<year>2024</year>;<volume>25</volume>:<fpage>169</fpage>.<annotation><p><italic toggle="yes">(Among 5.4 million drug adverse event reports received by the FDA&#x02019;s Adverse Event Reporting System between 2020 and 2023, 10,194 were associated with rimegepant use and involved 27 different organ systems; hepatobiliary reactions were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">39375581</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rimegepant.REF.pan.2024.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pan</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lin</surname>
+<given-names>S.</given-names></string-name>
+<article-title>A real-world adverse events study of rimegepant from the FAERS database.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2024</year>:<fpage>1</fpage>-<lpage>6</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 6659 spontaneous adverse event reports submitted to the FDA&#x02019;s Adverse Event Reporting System that were associated with rimegepant use, only 15 were categorized as hepatobiliary; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">39412590</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Rimegepant.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Rimegepant+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Rimegepant: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Rimegepant">Trials on Rimegepant: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

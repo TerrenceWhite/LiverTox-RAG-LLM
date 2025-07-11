@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Chloroquine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Chloroquine</book-part-id>
+      <title-group>
+        <title>Chloroquine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>4</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Chlordiazepoxide" document-type="chapter">Chlordiazepoxide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Chlorpromazine" document-type="chapter">Chlorpromazine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Chloroquine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Chloroquine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Chloroquine is an aminoquinoline used for the prevention and therapy of malaria. It is also effective in extraintestinal amebiasis and as an antiinflammatory agent for therapy of rheumatoid arthritis and lupus erythematosus. Chloroquine is not associated with serum enzyme elevations and is an extremely rare cause of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Chloroquine.Background">
+          <title>Background</title>
+          <p>Chloroquine (klor' oh kwin) was developed in the 1940s as a substitute for quinine in the prophylaxis and treatment of malaria, which had been a major problem among Allied troops in the Pacific. Chloroquine is a synthetic aminoquinoline that acts by binding to the protozoal or parasitic DNA and preventing DNA and RNA production and subsequent protein synthesis; it is active against the asexual erythrocytic forms of Plasmodium and Entamoeba species. Chloroquine is related in structure to quinine but more potent against Plasmodium falciparum, ovale, malariae and vivax, and better tolerated than quinine. Chloroquine remains the first choice of antimalarial prophylaxis as well as treatment. Chloroquine is available in tablets of 250 and 500 mg in generic forms and under the brand name Aralen. The recommended dosage for suppressive prophylaxis is 500 mg once weekly starting 1 to 2 weeks before and continuing for at 4 to 6 weeks after travel to an endemic area. Specific recommendations on the therapy of malaria, including details on diagnosis, drug dosage and safety, are available at the CDC website: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/malaria/">https://www.cdc.gov/malaria/</ext-link>. Chloroquine has been replaced by hydroxychloroquine as an antiinflammatory agent in rheumatic diseases, and these are unapproved, off-label uses. Common side effects of chloroquine include headache, blurred vision, anorexia, nausea, diarrhea, skin rash and itching.</p>
+          <p>In cell culture systems, chloroquine and hydroxychloroquine have been shown to have a spectrum of antiviral activity that is believed to be due to interference with viral binding to glycoprotein cell receptors or inhibition of pH regulation in virus containing endosomes. Indeed, in cell culture both chloroquine or hydroxychloroquine decreased replication of several viruses including the novel coronavirus known as Severe Acute Respiratory Syndrome coronavirus-type 2 (SARS-CoV-2), the cause of the global pandemic of respiratory illness that was first recognized in late 2019 (COVID-19). In face of the growing burden of severe illness posed by COVID-19, chloroquine and hydroxychloroquine were proposed as possibly effective in preventing or ameliorating the course disease and in decreasing mortality. In several case reports, case series and open label trials of these agents yielded evidence of benefit, but in more carefully designed, larger trials neither chloroquine nor hydroxychloroquine given daily for 3 to 5 days had any effect in either preventing infection or ameliorating its outcome.</p>
+        </sec>
+        <sec id="Chloroquine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Despite use for more than 50 years, chloroquine has rarely been linked to serum aminotransferase elevations or to clinically apparent acute liver injury. In patients with acute porphyria and porphyria cutanea tarda, chloroquine can trigger an acute attack with fever and serum aminotransferase elevations, sometimes resulting in jaundice. Hydroxychloroquine does not cause this reaction and appears to have partial beneficial effects in porphyria. In clinical trials of chloroquine for COVID-19 prevention and treatment, there were no reports of hepatotoxicity, and rates of serum enzyme elevations during chloroquine treatment were low and similar to those in patients receiving placebo or standard of care.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Chloroquine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Hepatic reactions to quinine are usually due to hypersensitivity reactions and chloroquine has occasionally been linked to allergic phenomenon, which may be accompanied by hepatic involvement. Chloroquine undergoes minor metabolism by the liver (~30%) and most is excreted unchanged in the urine.</p>
+        </sec>
+        <sec id="Chloroquine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>There does not seem to be cross reactivity to hepatic injury among the various antimalarial agents and switching to other drug can be done.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntimalarialAgents" document-type="chapter">Antimalarial Agents</related-object>; see also <related-object link-type="booklink" source-id="livertox" document-id="Hydroxychloroquine" document-type="chapter">Hydroxychloroquine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Chloroquine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Chloroquine &#x02013; Generic, Aralen&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antimalarial Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Chloroquine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Chloroquine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Chloroquine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Chloroquine.Tc_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Chloroquine.Tc_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY<break/>NUMBER</th>
+                <th id="hd_h_Chloroquine.Tc_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR<break/>FORMULA</th>
+                <th id="hd_h_Chloroquine.Tc_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Chloroquine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Chloroquine</td>
+                <td headers="hd_h_Chloroquine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971643">54-05-7</ext-link>
+</td>
+                <td headers="hd_h_Chloroquine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C18-H26-Cl-N3</td>
+                <td headers="hd_h_Chloroquine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971643" document-id-type="sid" document-type="summary" object-id="134971643" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Chloroquine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 April 2021</p>
+        <ref-list id="Chloroquine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Chloroquine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antiprotozoal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 623-5.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 mentions that chloroquine has little hepatotoxic effect, except in patients with porphyria cutanea tarda in whom it can cause strikingly elevated ALT levels).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Chloroquine.REF.vinetz.2011">
+            <mixed-citation publication-type="book">Vinetz JM, Clain J, Bounkeua V, Eastman RT, Fidock D. Chemotherapy of malaria. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1383-418.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Chloroquine.REF.livingood.1945.1091">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Livingood</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Dieuaide</surname><given-names>FR</given-names></name>
+</person-group>
+              <article-title>Untoward reactions attributable to atabrine.</article-title>
+              <source>J Am Med Assoc</source>
+              <year>1945</year>
+              <volume>129</volume>
+              <fpage>1091</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Describes several forms of eczematoid dermatitis in soldiers taking atabrine as prophylaxis against malaria in the Pacific theater; rare cases have accompanying severe hepatitis that can be fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21004769</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.linden.1954.235">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Linden</surname><given-names>IH</given-names></name>
+<name name-style="western"><surname>Steffen</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Newcomer</surname><given-names>VD</given-names></name>
+<name name-style="western"><surname>Chapman</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Development of porphyria during chloroquine therapy for chronic discoid lupus erythematosus.</article-title>
+              <source>Calif Med</source>
+              <year>1954</year>
+              <volume>81</volume>
+              <fpage>235</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old man with discoid lupus developed symptomatic acute porphyria 3 days after starting chloroquine with fever and uroporphyrins in urine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13190438</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.cripps.1962.575">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cripps</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Curtis</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Toxic effect of chloroquine on porphyria hepatica.</article-title>
+              <source>Arch Dermatol</source>
+              <year>1962</year>
+              <volume>86</volume>
+              <fpage>575</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 patients with porphyria had exacerbation of disease after 3-4 days of chloroquine therapy marked by fever, tachycardia, increase in Alk P and porphyrin excretion, with rapid improvement on stopping).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.sweeney.1965.1281">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sweeney</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Saunders</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Dowdle</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Eales</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Effects of chloroquine on patients with cutaneous porphyria of the &#x0201c;symptomatic&#x0201d; type.</article-title>
+              <source>Br Med J</source>
+              <year>1965</year>
+              <volume>1</volume>
+              <fpage>1281</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Administration of chloroquine to 9 patients with porphyria led to fever and AST elevations [as high as 2000 U/L] and mild increases in serum bilirubin in association with increased porphyrin excretion).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14278818</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.felsher.1966.575">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Felsher</surname><given-names>BF</given-names></name>
+<name name-style="western"><surname>Redeker</surname><given-names>AG</given-names></name>
+</person-group>
+              <article-title>Effect of chloroquine on hepatic uroporphyrin metabolism in patients with porphyria cutanea tarda.</article-title>
+              <source>Medicine(Baltimore)</source>
+              <year>1966</year>
+              <volume>45</volume>
+              <fpage>575</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Chloroquine caused a 3.5 to 28-fold increase in uroporphyrin excretion usually accompanied by fever and ALT elevations [48-69 U/L], with centrolobular necrosis on liver biopsy, thereafter, patients were refractory to the side effects and treatment often induced a clinical remission).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5925910</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.di_maio.1974.1031">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Di Maio</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Henry</surname><given-names>LD</given-names></name>
+</person-group>
+              <article-title>Chloroquine poisoning.</article-title>
+              <source>South Med J</source>
+              <year>1974</year>
+              <volume>67</volume>
+              <fpage>1031</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 27 cases of fatal overdose of chloroquine from the files of the Armed Forces Institute of Pathology, 13 suicidal, 9 accidental and 1 homicidal; 6 in children ages 1 to 4 years, rapid onset of vomiting, respiratory difficulties and convulsions; largely cardiotoxic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4851012</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.thornsvard.1976.1719">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thornsvard</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>Guider</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Kimball</surname><given-names>DB</given-names></name>
+</person-group>
+              <article-title>An unusual reaction to chloroquine-primaquine.</article-title>
+              <source>JAMA</source>
+              <year>1976</year>
+              <volume>235</volume>
+              <fpage>1719</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old woman developed fever abdominal pain, myalgias and red urine 2 days after starting chloroquine-primaquine prophylaxis [bilirubin 0.8 mg/dL, AST &#x0003e;300 U/L, Alk P 60 U/L], porphyrin testing indicated porphyria cutanea tarda).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">946467</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.cainelli.1983.593">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cainelli</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Di Padova</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Marchesi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gori</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Rovagnati</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Podenzani</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hydroxychloroquine versus phlebotomy in the treatment of porphyria cutanea tarda.</article-title>
+              <source>Br J Dermatol</source>
+              <year>1983</year>
+              <volume>108</volume>
+              <fpage>593</fpage>
+              <lpage>600</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of hydroxychloroquine vs twice monthly phlebotomy in 61 patients with porphyria cutanea tarda; porphyrin excretion was greater with hydroxychloroquine, but worsening liver histology found in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6849826</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.st_rchler.1987.239">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>St&#x000fc;rchler</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Sch&#x000e4;r</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gyr</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Leucopenia and abnormal liver function in travelers on malaria chemoprophylaxis.</article-title>
+              <source>J Trop Med Hyg</source>
+              <year>1987</year>
+              <volume>90</volume>
+              <fpage>239</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 451 travelers from Switzerland on malarial prophylaxis found higher ALT levels in those on amodiaquine than on chloroquine or no prophylaxis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3669125</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.fogh.1988.820">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fogh</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Schapira</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bygbjerg</surname><given-names>IC</given-names></name>
+<name name-style="western"><surname>Jepsen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mordhorst</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Kuijlen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ravn</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Malaria chemoprophylaxis in travellers to east Africa: a comparative prospective study of chloroquine plus proguanil with chloroquine plus sulfadoxine-pyrimethamine.</article-title>
+              <source>Br Med J(Clin Res Ed)</source>
+              <year>1988</year>
+              <volume>296</volume>
+              <fpage>820</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of chloroquine with proguanil vs sulfadoxine-pyrimethamine is 767 travelers to Africa; similar efficacy and side effects; no mention of hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3130927</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.boudreau.1993.257">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boudreau</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Schuster</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Sanchez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Novakowski</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Redmond</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Hanson</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tolerability of prophylactic malaria regimens.</article-title>
+              <source>Trop Med Parasitol</source>
+              <year>1993</year>
+              <volume>44</volume>
+              <fpage>257</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of mefloquine vs chloroquine in 359 US Marines for 12 weeks; no differences in ALT levels between groups; mefloquine had mild psychological side effects and insomnia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8256107</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.makin.1994.569">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Makin</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Wendon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fitt</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Portmann</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant hepatic failure secondary to hydroxychloroquine.</article-title>
+              <source>Gut</source>
+              <year>1994</year>
+              <volume>35</volume>
+              <fpage>569</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases; 27 year old woman developed nausea after 2 weeks of hydroxychloroquine therapy [bilirubin 9.4 mg/dL, ALT 2575 U/L, INR 3.3], followed by progressive liver failure and death in 4 days; 16 year old woman developed jaundice after 2 weeks of hydroxychloroquine therapy [bilirubin 24.4 mg/dL, AST 544 U/L and renal failure], underwent liver transplant but died 6 days later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8175002</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.liu.1995.548">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liu</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Hepatotoxic reaction to chloroquine phosphate in a patient with previously unrecognized porphyria cutanea tarda.</article-title>
+              <source>West J Med</source>
+              <year>1995</year>
+              <volume>162</volume>
+              <fpage>548</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old woman developed nausea and fever 1 day after single dose of chloroquine with red urine [bilirubin 1.1 mg/dL, ALT 2724 U/L, Alk P 115 U/L], later diagnosed as having porphyria cutanea tarda).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7618323</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.barrett.1996.525">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Barrett</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Emmins</surname><given-names>PD</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>PD</given-names></name>
+<name name-style="western"><surname>Bradley</surname><given-names>DJ</given-names></name>
+</person-group>
+              <article-title>Comparison of adverse events associated with the use of mefloquine and combination of chloroquine and proguanil as antimalarial prophylaxis: a postal and telephone survey of travelers.</article-title>
+              <source>BMJ</source>
+              <year>1996</year>
+              <volume>313</volume>
+              <fpage>525</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Mail questionnaire of 3851 British travelers taking mefloquine or chloroquine/proguanil for malaria prophylaxis; side effects similar [~41%], no mention of hepatic events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8789977</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.durrheim.1999.170">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Durrheim</surname><given-names>DN</given-names></name>
+<name name-style="western"><surname>Gammon</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Waner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Braacke</surname><given-names>LE</given-names></name>
+</person-group>
+              <article-title>Antimalarial prophylaxis: use and adverse events in visitors to the Kruger National Park.</article-title>
+              <source>S Afr Med J</source>
+              <year>1999</year>
+              <volume>89</volume>
+              <fpage>170</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Postal survey of 7,397 visitors to Kruger Park in 1996, a chloroquine-resistant area; no mention of hepatic reactions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10191871</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.van_jaarsveld.2000.1374">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Jaarsveld</surname><given-names>CHM</given-names></name>
+<name name-style="western"><surname>Jahangier</surname><given-names>ZN</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>JWG</given-names></name>
+<name name-style="western"><surname>Blaauw</surname><given-names>AAM</given-names></name>
+<name name-style="western"><surname>van Albada-Kuipers</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>ter Borg</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Brus</surname><given-names>HLM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Toxicity of antirheumatic drugs in a randomized clinical trial of early rheumatoid arthritis.</article-title>
+              <source>Rheumatology</source>
+              <year>2000</year>
+              <volume>39</volume>
+              <fpage>1374</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of 4 treatment strategies in 419 patients with early rheumatoid arthritis; side effects were common with ALT elevations in 5 on NSAIDs only, 1 each on gold and hydroxychloroquine, and 20 on methotrexate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11136881</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.h_gh.2000.1888">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>H&#x000f8;gh</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>PD</given-names></name>
+<name name-style="western"><surname>Camus</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Nothdurft</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Overbosch</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>G&#x000fc;nther</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Joubert</surname><given-names>I</given-names></name>
+<etal/>
+<collab>Malarone International Study Team</collab>
+</person-group>
+              <article-title>Atovaquone-proguanil versus chloroquine-proguanil for malaria prophylaxis in non-immune travelers: a randomised, double-blind study. Malarone International Study Team.</article-title>
+              <source>Lancet</source>
+              <year>2000</year>
+              <volume>356</volume>
+              <fpage>1888</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of atovaquone vs chloroquine combined with proguanil as malaria prophylaxis in 1008 travelers; efficacy was similar, but gastrointestinal upset was more common with chloroquine [20% vs 12%]; among 180 with laboratory testing &#x0201c;No clinically important laboratory abnormalities were identified&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11130385</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.sarkany.2001.225">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sarkany</surname><given-names>RP</given-names></name>
+</person-group>
+              <article-title>The management of porphyria cutanea tarda.</article-title>
+              <source>Clin Exp Dermatol</source>
+              <year>2001</year>
+              <volume>26</volume>
+              <fpage>225</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(History, clinical features, pathogenesis, risk factors, complications and management of porphyria cutanea tarda; caused by acquired inhibition of hepatic uroprophyrinogen decarboxylase activity triggered by iron overload, estrogens, or chemicals such as hexachlorobenzene; &#x0201c;Low dose twice weekly chloroquine [125-250 mg] is the mainstay of therapy&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11422163</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.angles.2003.106">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Angles</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bagheri</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Montastruc</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Magnaval</surname><given-names>JF</given-names></name>
+<collab>R&#x000e9;seau Fran&#x000e7;ais des Centres R&#x000e9;gionaux de Pharmacovigilance</collab>
+</person-group>
+              <comment>[Adverse drug reactions to antimalarial drugs. Analysis of spontaneous report from the French pharmacovigilance database (1996-2000)]</comment>
+              <source>Presse Med</source>
+              <year>2003</year>
+              <volume>32</volume>
+              <fpage>106</fpage>
+              <lpage>13</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of adverse reactions to antimalarials reported in France over 5 years; among 508 reports, 4% were hepatic, mostly ALT elevations; one case of hepatitis attributed to halofantrine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12610379</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.camus.2004.1716">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Camus</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Djossou</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Schilthuis</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>H&#x000f8;gh</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Dutoit</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Malvy</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Roskell</surname><given-names>NS</given-names></name>
+<etal/>
+<collab>International Malarone Study Team</collab>
+</person-group>
+              <article-title>Atovaquone-proguanil versus chloroquine-proguanil for malaria prophylaxis in nonimmune pediatric travelers: results of an international, randomized, open-label study.</article-title>
+              <source>Clin Infect Dis</source>
+              <year>2004</year>
+              <volume>38</volume>
+              <fpage>1716</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of atovaquone vs chloroquine combined with proguanil as malaria prophylaxis in 221 children; efficacy was similar [100%], but side effects were slightly more frequent with chloroquine [mostly gastrointestinal]; no mention of liver injury or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15227617</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.taylor.2004.25">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Taylor</surname><given-names>WR</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>NJ</given-names></name>
+</person-group>
+              <article-title>Antimalarial drug toxicity: a review.</article-title>
+              <source>Drug Saf</source>
+              <year>2004</year>
+              <volume>27</volume>
+              <fpage>25</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the toxicities and side effects of antimalarials mentions that chloroquine can cause worsening of acute porphyria).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14720085</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.wielgopolanin.2005.176">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wielgo-Polanin</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lagarce</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gautron</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Diquet</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lain&#x000e9;-Cessac</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with the use of a fixed combination of chloroquine and proguanil.</article-title>
+              <source>Int J Antimicrob Agents</source>
+              <year>2005</year>
+              <volume>26</volume>
+              <fpage>176</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old woman developed jaundice four days after starting chloroquine/proguanil for prophylaxis [bilirubin 3.6 mg/dL, ALT 600 U/L, Alk P 744 U/L], resolving within one month, history of previous exposures to both agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16009537</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.rossmannringdahl.2007.401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rossmann-Ringdahl</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Porphyria cutanea tarda: effects and risk factors for hepatotoxicity from high-dose chloroquine treatment.</article-title>
+              <source>Acta Derm Venereol.</source>
+              <year>2007</year>
+              <volume>87</volume>
+              <fpage>401</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 57 patients with porphyria cutanea tarda treated with chloroquine [250 mg/day for 7 days]; ALT rose in all averaging 7 times ULN [range 1.1 to 55 times], with symptoms of fever and arthralgias and increase in porphyrin excretion, higher levels in women; flares followed by remission, but relapse was common during long term follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17721646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.giner_galva_.2007.971">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Giner Galva&#x000f1;</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Oltra</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Rueda</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Esteban</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Red&#x000f3;n</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Severe acute hepatitis related to hydroxychloroquine in a woman with mixed connective tissue disease.</article-title>
+              <source>Clin Rheumatol</source>
+              <year>2007</year>
+              <volume>26</volume>
+              <fpage>971</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(26 year old woman with early rheumatoid arthritis developed fever and nausea within 10 hours of starting hydroxychloroquine with ALT 285 U/L [no bilirubin or Alk P levels provided], with rapid resolution, but no recurrence on restarting at a lower dose).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16575495</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, one case was attributed to artesunate, but no other antimalarial agent was mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; none were attributed to antimalarials).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an antimalarial agent).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study from Iceland, 96 cases of drug induced liver injury were identified over a 2 year period [2010 and 2011], but none were attributed to an antimalarial agent).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to an antimalarial agentl).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF32">
+            <element-citation publication-type="journal">
+              <article-title>Advice for travelers.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2015</year>
+              <volume>57</volume>
+              <issue>1466</issue>
+              <fpage>52</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise guidelines on prevention of malaria in travelers indicates that chloroquine is the drug of choice for prevention of malaria in the few areas of the world that still have chloroquine-sensitive malaria).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25853663</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.wang.2020.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.</article-title>
+              <source>Cell Res.</source>
+              <year>2020</year>
+              <volume>30</volume>
+              <fpage>269</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In cell culture, both remdesivir and chloroquine demonstrated potential antiviral activity against SARS-CoV-2 at levels achievable in plasma and with minimal cellular cytotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32020029</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.fantini.2020.105960">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fantini</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Di Scala</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chahinian</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yahi</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Structural and molecular modelling studies reveal a new mechanism of action of chloroquine and hydroxychloroquine against SARS-CoV-2 infection.</article-title>
+              <source>Int J Antimicrob Agents</source>
+              <year>2020</year>
+              <volume>55</volume>
+              <elocation-id>105960</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Molecular modeling of the structures of chloroquine and hydroxychloroquine suggest that they would prevent the binding of the SARS-CoV-2 spike protein to its receptor [angiotensin-converting enzyme receptor] on cell membranes and thus prevent viral attachment and infection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32251731</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.axfors.2021.2349">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Axfors</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schmitt</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Janiaud</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Van't Hooft</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Abd-Elsalam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Abdo</surname><given-names>EF</given-names></name>
+<name name-style="western"><surname>Abella</surname><given-names>BS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19 from an international collaborative meta-analysis of randomized trials.</article-title>
+              <source>Nat Commun</source>
+              <year>2021</year>
+              <volume>12</volume>
+              <issue>1</issue>
+              <fpage>2349</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a metaanalysis of 14 published and 14 unpublished clinical trials including 26 of hydroxychloroquine [10,319 patients] and 4 of chloroquine [307 patients] as therapy of COVID-19, hydroxychloroquine was associated with an excess mortality and chloroquine with no benefit; no separate analysis of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33859192</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Chloroquine.REF.who_solidarity_trial_consortium.2021.497">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>WHO Solidarity Trial Consortium</collab>
+</person-group>
+              <comment>Pan H, Peto R, Henao-Restrepo AM, Preziosi MP, Sathiyamoorthy V, Abdool Karim Q, Alejandria MM, et al</comment>
+              <article-title>Repurposed antiviral drugs for Covid-19 &#x02013; interim WHO Solidarity Trial results.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>497</fpage>
+              <lpage>511</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 11,300 hospitalized adults with COVID-19 enrolled in randomized controlled trials of four repurposed drugs vs standard of care, none of the 4 agents resulted in reduced mortality rates compared to controls: remdesivir 11% versus 11.2%; hydroxychloroquine 11% vs 9.3%; lopinavir/ritonavir 10.6% vs 10.6%; and interferon beta 11.9% vs 10.5%; and there were no deaths attributed to hepatic disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33264556</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Chloroquine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=chloroquine+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Chloroquine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=chloroquine">Trials on Chloroquine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

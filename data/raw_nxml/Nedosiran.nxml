@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nedosiran" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nedosiran</book-part-id>
+      <title-group>
+        <title>Nedosiran</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Necitumumab" document-type="chapter">Necitumumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nefazodone" document-type="chapter">Nefazodone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nedosiran.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nedosiran.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nedosiran is a synthetic small interfering RNA molecule directed against the mRNA of lactic dehydrogenase A that is used to treat the rare genetic disease primary hyperoxaluria type 1. Nedosiran has not been linked to serum aminotransferase elevations during therapy or to instances of clinically apparent liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Nedosiran.Background">
+          <title>Background</title>
+          <p>Nedosiran (ned&#x0201d; oh sir' an) is a synthetic, double-stranded, small interfering RNA (siRNA) directed against the mRNA of lactic dehydrogenase A (LDH-A), an enzyme made in the liver, the inhibition of which decreases the production of oxalate, a stable molecule that is excreted in the kidneys. Nedosiran was developed to treat primary hyperoxaluria type 1, a rare autosomal recessive disease marked by excessive production of oxalate due to a deficiency in the enzyme alanine-glyoxylate aminotransferase, which converts glyoxylate (the precursor of oxalate) to glycine. As a result, children with primary hyperoxaluria type 1 produce excessive oxalate in the liver which overwhelms the capacity of the kidney for excretion and results in formation of insoluble calcium oxalate crystals leading to nephrocalcinosis, recurrent kidney stones and progressive renal damage. With renal dysfunction, oxalate also accumulates in other organs causing damage to bone, skin, vascular endothelium, heart, eye and brain. The clinical manifestations of primary hyperoxaluria type 1 are variable but progressive renal failure is prominent and can lead to death in childhood or young adulthood. To facilitate its hepatic uptake, nedosiran is covalently linked to three N-acetylgalactosamine residues which bind to and are taken up by the hepatocyte-specific asialoglycoprotein receptor. Once taken up by liver cells, the siRNA is cleaved into smaller fragments and separated into single strands that bind and silence the mRNA of LDH-A. In animal models, nedosiran reduced LDH-A mRNA levels in liver and oxalate accumulation in liver and kidneys. In placebo controlled trials of nedosiran in patients with primary hyperoxaluria type 1, subcutaneous injections resulted in dose related reductions in serum and urinary oxalate levels. With 3 to 6 monthly injections, oxalate levels fell by more than 50%. Nedosiran was approved for use in the United States in 2023 for children (9 years of age or older) and adults with primary hyperoxaluria type 1, the second siRNA therapy approved for treatment of primary hyperoxaluria (after lumasiran in 2020). Nedosiran is available in solution in single dose vials of 80 mg in 0.5 mL, and in prefilled syringes of 128 mg (0.8 mL) or 160 mg (1.0 mL) under the brand name Rivfloza. The recommended dose regimen varies by age and body weight. For adults and adolescents weighing at least 50 kg, the dose is 160 mg subcutaneously once monthly. Nedosiran, like lumasiran, is indicated only for hyperoxaluria type 1, there being 3 forms of the genetic condition, types 2 and 3 being less responsive to these siRNA therapies. Unlike lumasiran, nedosiran can be self-administered. Nedosiran is generally well tolerated, the most common adverse events are injection site reactions.</p>
+        </sec>
+        <sec id="Nedosiran.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the small registration trial of nedosiran in 35 children and adults with primary hyperoxaluria type 1, therapy was well tolerated and side effects attributed to the drug were few, transient and generally mild. Rates of ALT and AST elevations during therapy were similar with nedosiran vs placebo and usually less than twice above the upper limit of the normal range. Since its approval, there have been no published reports of liver injury attributed to nedosiran therapy. Nedosiran has had limited general clinical use, but it is an unlikely cause of clinically apparent liver injury.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Nedosiran.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of hepatic injury from nedosiran or other siRNA therapeutics is not known. Nedosiran, like other siRNA therapeutic agents, is metabolized intracellularly by nucleases and is not a substrate of cytochrome P450 enzymes or hepatic transporters.</p>
+        </sec>
+        <sec id="Nedosiran.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Nedosiran has not been linked to liver test abnormalities or to clinically apparent liver injury and regular monitoring of routine liver tests is not recommended.</p>
+          <p>Drug Class: Genetic Disorder Agents, siRNA and Antisense Agents</p>
+          <p>Other Therapeutic siRNA-based Agent for Hyperoxaluria: <related-object link-type="booklink" source-id="livertox" document-id="Lumasiran" document-type="book-part">Lumasiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nedosiran.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Nedosiran &#x02013; Rivfloza&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Nedosiran">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Nedosiran.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nedosiran.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Nedosiran.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Nedosiran.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Nedosiran.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Nedosiran.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Nedosiran.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Nedosiran</td>
+                <td headers="hd_h_Nedosiran.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2266591-83-5</td>
+                <td headers="hd_h_Nedosiran.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C662-H808-F19-N231-O413-P57-S6-Na57</td>
+                <td headers="hd_h_Nedosiran.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nedosiran.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 March 2025</p>
+        <p>Abbreviations: mRNA, messenger RNA; siRNA, small interfering RNA.</p>
+        <ref-list id="Nedosiran.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nedosiran.REF.nedosiran.2023">
+            <mixed-citation publication-type="web">FDA. Nedosiran. Integrated Review. 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215842Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215842Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(The FDA clinical review of nedosiran for efficacy and safety reported from a controlled trial in 35 patients with primary hyperoxaluria, among whom there were no deaths or drug related serious adverse events, injection site erythema was the most frequent adverse event arising in 22% [vs none on placebo], minor ALT elevations arose in similar number of nedosiran-treated as placebo recipients and in longer term studies, ALT elevations above 3 times ULN occurred in one treated patient, which were transient and resolved rapidly despite continuation of therapy and were considered unrelated to nedosiran).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.setten.2019.421">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Setten</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>SP</given-names></string-name>. <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+<source>Nat Rev Drug Discov</source>
+<year>2019</year>; <volume>18</volume>: <fpage seq="b">421</fpage>-<lpage>46</lpage>.<annotation><p><italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of siRNA therapeutics which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic></p></annotation><pub-id pub-id-type="pmid">30846871</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.forbes.2022.2525">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Forbes</surname>
+<given-names>TA</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>BD</given-names></string-name>, <string-name name-style="western"><surname>Lai</surname>
+<given-names>C</given-names></string-name>. <article-title>Therapeutic RNA interference: a novel approach to the treatment of primary hyperoxaluria.</article-title>
+<source>Br J Clin Pharmacol.</source>
+<year>2022</year>;<volume>88</volume>:<fpage>2525</fpage>-<lpage>2538</lpage>.<annotation><p><italic toggle="yes">(Review of the RNA interference pathway that leads to targeted degradation or translational inhibition of mRNA and its potential as therapy of primary hyperoxaluria).</italic></p></annotation><pub-id pub-id-type="pmid">34022071</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.ranasinghe.2023.2697">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ranasinghe</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Addison</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Dear</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Webb</surname>
+<given-names>DJ</given-names></string-name>. <article-title>Small interfering RNA: Discovery, pharmacology and clinical development&#x02013;An introductory review. </article-title><source>Br J Pharmacol.</source>
+<year>2023</year>; <volume>180</volume>: <fpage>2697</fpage>-<lpage>2720</lpage>.<annotation><p><italic toggle="yes">(Review of the history of development, mechanism of action, methods of delivery, clinical efficacy and safety of RNA silencing drugs including lumasiran, givosiran, inclisiran, patisiran and vutrisiran; discusses adverse events from lumasiran of injection site reactions, but does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36250252</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.baum.2023.207">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Baum</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Langman</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Cochat</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Lieske</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Moochhala</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Hamamoto</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Satoh</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>; <collab>PHYOX2 study investigators</collab>. <article-title>PHYOX2: a pivotal randomized study of nedosiran in primary hyperoxaluria type 1 or 2.</article-title>
+<source>Kidney Int.</source>
+<year>2023</year>;<volume>103</volume>:<fpage>207</fpage>-<lpage>217</lpage>.<annotation><p><italic toggle="yes">(Among 35 patients with primary hyperoxaluria type 1 or 2 treated with nedosiran or placebo injected subcutaneously once monthly for 6 months, oxalate excretion decreased with nedosiran, and levels were within the normal range in 50% vs none during the last 3 months of therapy, which was &#x0201c;generally safe and well tolerated&#x0201d; and &#x0201c;no clinically important changes in laboratory or other clinical parameters &#x02026;were observed&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">36007597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.goldfarb.2023.80">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Goldfarb</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Lieske</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Groothoff</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Schalk</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Russell</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Yu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Vrhnjak</surname>
+<given-names>B</given-names></string-name>. <article-title>Nedosiran in primary hyperoxaluria subtype 3: results from a phase I, single-dose study (PHYOX4).</article-title>
+<source>Urolithiasis.</source>
+<year>2023</year>;<volume>51</volume>:<fpage>80</fpage>.<annotation><p><italic toggle="yes">(Among 6 patients with primary hyperoxaluria type 3 given a single injection or nedosiran or placebo, urinary oxalate levels decreased by 24% with nedosiran while increasing with placebo and side effects were mild and there were no &#x0201c;safety concerns&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">37118061</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.syed.2023.1729">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Syed</surname>
+<given-names>YY</given-names></string-name>. <article-title>Nedosiran: first approval.</article-title>
+<source>Drugs.</source>
+<year>2023</year>;<volume>83</volume>:<fpage>1729</fpage>-<lpage>1733</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of nedosiran shortly after its approval for use in the US, mentions that side effects are mild, mostly due to injection site reactions and rarely lead to drug discontinuation; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38060091</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.groothoff.2024.1387">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Groothoff</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Sellier-Leclerc</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Deesker</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Bacchetta</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Schalk</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>T&#x000f6;nshoff</surname>
+<given-names>B</given-names></string-name>, <article-title>Lipkin Get al. Nedosiran safety and efficacy in PH1: interim analysis of PHYOX3.</article-title>
+<source>Kidney Int Rep.</source>
+<year>2024</year>;<volume>9</volume>:<fpage>1387</fpage>-<lpage>1396</lpage>.<annotation><p><italic toggle="yes">(Among 13 patients with primary hyperoxaluria type 1 who participated in a controlled trial of nedosiran who were then enrolled in a long term, open label study of the drug&#x02019;s efficacy and safety, urinary oxalate excretion remained at normal [75%] or near normal levels and side effects were generally mild, and &#x0201c;no clinically relevant trends were noted for laboratory assessments&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">38707801</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.milliner">
+            <mixed-citation publication-type="book">Milliner DS, Harris PC, Sas DJ, Cogal AG, Lieske JC. Primary hyperoxaluria type 1. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews&#x000ae; [Internet]. Seattle (WA): University of Washington, Seattle; 1993&#x02013;2025.<annotation><p><italic toggle="yes">(Extended summary of the clinical characteristics, etiology, diagnosis, long-term outcomes, and management of primary hyperoxaluria type 1).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.wanders.2025.e12817">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wanders</surname>
+<given-names>RJA</given-names></string-name>, <string-name name-style="western"><surname>Groothoff</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Deesker</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Salido</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Garrelfs</surname>
+<given-names>SF</given-names></string-name>. <article-title>Human glyoxylate metabolism revisited: New insights pointing to multi-organ involvement with implications for siRNA-based therapies in primary hyperoxaluria.</article-title>
+<source>J Inherit Metab Dis.</source>
+<year>2025</year>;<volume>48</volume>:<elocation-id>e12817</elocation-id>.<annotation><p><italic toggle="yes">(Review of glyoxylate metabolism and the molecular basis for the 3 forms of primary hyperoxaluria, which have important implications for the development of siRNA therapies).</italic></p></annotation><pub-id pub-id-type="pmid">39582099</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Nedosiran.REF.sas.2025">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sas</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Bakkaloglu</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Belostotsky</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Hayes</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Ariceta</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Rawson</surname>
+<given-names>V</given-names></string-name>. <article-title>Nedosiran in pediatric patients with PH1 and relatively preserved kidney function, a phase 2 study (PHYOX8).</article-title>
+<source>Pediatr Nephrol.</source>
+<year>2025</year>
+<month>Jan</month>
+<day>28</day>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 15 children [ages 2 to 11] with primary hyperoxaluria type 1 and preserved renal function who were treated with nedosiran monthly for 6 months, urinary oxalate excretion decreased by 64% and while 73% of children had at least one adverse event, none resulted in drug discontinuation, and therapy &#x0201c;did not lead to any significant changes in laboratory or other clinical measurements&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">39875734</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Nedosiran.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Nedosiran/AE)%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Nedosiran: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/results?term=Nedosiran">Trials on Nedosiran: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

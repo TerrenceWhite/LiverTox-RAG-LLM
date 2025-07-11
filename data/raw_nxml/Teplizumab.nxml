@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Teplizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Teplizumab</book-part-id>
+      <title-group>
+        <title>Teplizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tenofovir" document-type="chapter">Tenofovir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tepotinib" document-type="chapter">Tepotinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Teplizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Teplizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Teplizumab is a humanized monoclonal antibody to CD3 which is used to delay the onset of clinically significant type 1 diabetes (stage 3 diabetes) in a patient at high risk as shown by the presence of anti-pancreatic islet cell autoantibodies and dysglycemia (stage2 diabetes). Teplizumab is given intravenously once daily for 14 days, is generally well tolerated, and is associated with a low rate of serum aminotransferase elevations during therapy, but has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Teplizumab.Background">
+          <title>Background</title>
+          <p>Teplizumab (tep liz&#x02019; ue mab) is a humanized monoclonal IgG1 antibody directed against CD3, which results in inhibition of cytotoxic T cell activation and proliferation. Because type 1 diabetes is thought to be caused by cytotoxic T cell destruction of pancreatic islet beta cells that produce insulin, teplizumab was evaluated as a means of therapy and prevention of type 1 diabetes. While a limited course of teplizumab appeared to have little effect on established type 1 diabetes, it did appear to delay the onset of clinically apparent type 1 diabetes. In preregistration trials, stage 2 diabetes was defined by the presence of at least two anti-pancreatic islet cell autoantibodies and dysglycemia without frank hyperglycemia (stage 3 diabetes). Patients with stage 2 diabetes were generally identified among relatives of patients with type 1 diabetes by screening for anti-pancreatic islet cell autoantibodies. Natural history studies demonstrated that almost all subjects with stage 2 diabetes develop stage 3 diabetes, generally within 1 to 5 years. In a single, randomized controlled trial of teplizumab given as daily intravenous infusions daily for 14 days, therapy was associated with a subsequent median delay in onset of stage 3 diabetes of 24 months. On the basis of this trial, teplizumab was approved in 2022 the United States for use in preventing stage 3 diabetes in adults and children (8 years of age or older) with stage 2 diabetes. Teplizumab is available in single use vials of 2 mg per 2 mL (1 mg/mL). The recommended regimen is a daily infusion in escalating doses for the first 5 days from 65 to 1,030 &#x000b5;g/m<sup>2</sup>, which is then continued for another 9 days. Premedication is recommended at least during the first 5 days using an oral analgesic (acetaminophen or a nonsteroid antiinflammatory agent), antihistamine, and antiemetic. Monitoring of symptoms, blood counts and liver enzymes is also recommended during the 14 days. Common side effects during and for the several weeks after treatment include mild local injection reactions, nasopharyngitis, fatigue, headache, nausea, diarrhea, arthralgia and skin rash. Uncommon, potentially severe adverse reactions include cytokine release syndrome, severe hypersensitivity reactions, lymphopenia, and reactivation of latent viral infections or tuberculosis.</p>
+        </sec>
+        <sec id="Teplizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations arise in up to 25% of patients treated with teplizumab, usually during the 14 days of therapy and often associated with evidence of mild-to-moderate cytokine release syndrome. The ALT and AST elevations are usually mild, transient and asymptomatic, rising to above 3 times the upper limit of normal (ULN) in 5% of patients and rarely necessitating drug discontinuation. Serum bilirubin levels also rise, particularly in patients with cytokine release syndrome, but clinically apparent liver injury with jaundice has not been reported, and liver test abnormalities resolve in almost all patients within days or a few weeks of ending the 14 day course. There has been limited clinical experience with use of teplizumab and scant information on the safety and efficacy of repeated courses of treatment. Development of antibodies to teplizumab is not uncommon (up to 50%), but the clinical significance of drug antibodies has not been defined.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Teplizumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible mechanisms of liver injury due to teplizumab are unclear, but probably relate to cytokine release induced by the binding of the monoclonal antibody to activated T cells that then release cytokines into the circulation that can cause transient liver injury. There is no evidence that the cytokine release induced by teplizumab can result in prolonged or chronic liver injury.</p>
+        </sec>
+        <sec id="Teplizumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Antidiabetic" document-type="chapter">Antidiabetic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Teplizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Teplizumab &#x02013; Tzield&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antidiabetic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Teplizumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Teplizumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Teplizumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Teplizumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Teplizumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Teplizumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Teplizumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Teplizumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Teplizumab</td>
+                <td headers="hd_h_Teplizumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/135310211">876387-05-2</ext-link>
+</td>
+                <td headers="hd_h_Teplizumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Teplizumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Teplizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2023</p>
+        <ref-list id="Teplizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Teplizumab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761183Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761183Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(Multidisciplinary FDA review of teplizumab in support of its approval for use to delay the onset of type 1 diabetes in high risk children and adults mentions that ALT or AST elevations and total bilirubin levels often rise during the 14 day course of teplizumab therapy and ALT elevations occur in 25% of subjects, but are above 3 times ULN in only 5%).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Teplizumab.REF.sherry.2011.487">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sherry</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hagopian</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Ludvigsson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jain</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Wahlen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ferry</surname><given-names>RJ</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Bode</surname><given-names>B</given-names></name>
+<etal/>
+<collab>Prot&#x000e9;g&#x000e9; Trial Investigators</collab>
+</person-group>
+              <article-title>Teplizumab for treatment of type 1 diabetes (Prot&#x000e9;g&#x000e9; study): 1-year results from a randomised, placebo-controlled trial.</article-title>
+              <source>Lancet.</source>
+              <year>2011</year>
+              <volume>378</volume>
+              <fpage>487</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 516 patients, ages 8 to 35 years, with newly diagnosed type 1 diabetes treated with 1 of 3 dose regimens of teplizumab [14 days or 6 days of full dose, 14 days of half dose] or placebo at baseline and 26 weeks, there were no differences in response rates, total and severe adverse event rates but higher rates of some adverse events including rash [52% to 54% vs 20%] lymphopenia [69% to 75% vs 19%], fatigue [9% to 14% vs 5%], cytokine release syndrome [2-8% vs 0], and ALT elevations [25% to 34% vs 16%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21719095</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teplizumab.REF.hagopian.2013.3901">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hagopian</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Ferry</surname><given-names>RJ</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Sherry</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Carlin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bonvini</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Stein</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Koenig</surname><given-names>S</given-names></name>
+<etal/>
+<collab>Prot&#x000e9;g&#x000e9; Trial Investigators</collab>
+</person-group>
+              <article-title>Teplizumab preserves C-peptide in recent-onset type 1 diabetes: two-year results from the randomized, placebo-controlled Prot&#x000e9;g&#x000e9; trial.</article-title>
+              <source>Diabetes.</source>
+              <year>2013</year>
+              <volume>62</volume>
+              <fpage>3901</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Further analysis of the Prot&#x000e9;g&#x000e9; Trial [Sherry 2011] at two years found that teplizumab therapy of newly diagnosed diabetes resulted in relative preservation of C peptide levels, while new adverse events include herpes zoster, which arose in 10 patients who received teplizumab vs none on placebo, some cases occurring long after the infusions; no differences in rates of herpes simplex, EBV or CMV infections in treatment vs placebo groups, and no mention of hepatitis B).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23801579</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teplizumab.REF.herold.2019.603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Herold</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Bundy</surname><given-names>BN</given-names></name>
+<name name-style="western"><surname>Long</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Bluestone</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>DiMeglio</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Dufort</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Gitelman</surname><given-names>SE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Type 1 Diabetes TrialNet Study Group. An anti-CD3 antibody, teplizumab, in relatives at risk for type 1 diabetes.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2019</year>
+              <volume>15</volume>
+              <issue>381</issue>
+              <fpage>603</fpage>
+              <lpage>613</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 76 subjects with stage 2 diabetes [ages 8.5 to 49.5 years] treated with a single 14 day course of teplizumab or placebo, subsequent diagnosis of diabetes 43% in teplizumab vs 72% in placebo recipients, while adverse events more frequent with active drug included rash [36% vs 3%] and EBV reactivation [18% vs 0], while rates of infection and &#x0201c;hepatobiliary&#x0201d; events were similar in the two groups).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Teplizumab.REF.perdigoto.2019.655">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Perdigoto</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Preston-Hurlburt</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Clark</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Long</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Linsley</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Harris</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Gitelman</surname><given-names>SE</given-names></name>
+<etal/>
+<collab>Immune Tolerance Network</collab>
+</person-group>
+              <article-title>Treatment of type 1 diabetes with teplizumab: clinical and immunological follow-up after 7&#x000a0;years from diagnosis.</article-title>
+              <source>Diabetologia.</source>
+              <year>2019</year>
+              <volume>62</volume>
+              <fpage>655</fpage>
+              <lpage>664</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Long term follow up [median 7.3 years] of 43 patients with type 1 diabetes who were treated with teplizumab found sustained preservation of C-peptide levels in comparison to placebo recipients in some patients, but no differences in hemoglobin A1c levels or insulin requirements; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30569273</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teplizumab.REF6">
+            <element-citation publication-type="journal">
+              <article-title>Teplizumab (Tzield) to delay onset of type 1 diabetes.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2023</year>
+              <volume>65</volume>
+              <fpage>7</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, adverse effects, and costs of teplizumab shortly after its approval for use in prevention of type 1 diabetes, mentions that its adverse events include cytokine release symptom [fever, nausea, fatigue, headache, myalgia, arthralgia and increase liver enzyme and bilirubin levels] that occurs in 5% of patients, usually within the first 5 days of therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36630581</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Teplizumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Teplizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Teplizumab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Teplizumab">Trials on Teplizumab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

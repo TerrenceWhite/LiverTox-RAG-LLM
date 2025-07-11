@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Brentuximab_vedotin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Brentuximab_vedotin</book-part-id>
+      <title-group>
+        <title>Brentuximab Vedotin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>1</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Bremelanotide" document-type="chapter">Bremelanotide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Brexanolone" document-type="chapter">Brexanolone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Brentuximab_vedotin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Brentuximab_vedotin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Brentuximab vedotin is a chimeric mouse-human monoclonal antibody to CD30 conjugated to a microtubule inhibitor, which is used in the therapy of Hodgkin lymphoma and anaplastic large cell lymphoma. Brentuximab vedotin has been linked to mild and transient serum enzyme elevations during therapy, but has not been implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Brentuximab_vedotin.Background">
+          <title>Background</title>
+          <p>Brentuximab (bren tux&#x02019; i mab) vedotin (ve doe&#x02019; tin) is a chimeric mouse-human monoclonal antibody conjugate used as therapy for adults with Hodgkin lymphoma and anaplastic large cell lymphoma. The monoclonal conjugate is an IgG1 antibody to the human CD30 cell surface marker (also known as tumor necrosis factor receptor superfamily, member 8) which is expressed on malignant cells, particularly in Hodgkin lymphoma. The monoclonal antibody is conjugated to a microtubule inhibitor, monomethyl auristatin E (MMAE, also known as vedotin). When brentuximab vedotin binds to CD30, it is internalized and the MMAE is released by the action of lysosomal enzymes on the linker molecule that joins brentuximab to vedotin. The released vedotin causes apoptotic cell death of the cancerous cell. Brentuximab vedotin has been shown to be effective in inducing remissions in refractory Hodgkin lymphoma and anaplastic large cell lymphoma, and was approved for these indications in the United States in 2011. Brentuximab is available as a 50 mg lyophilized powder in single dose vials for reconstitution under the brand name Adcetris. The recommended regimen is 1.8 mg/kg by intravenous infusion every three weeks until disease progression or unacceptable toxicity. Dose reduction to 1.2 mg/kg is recommended for patients with mild liver dysfunction and avoidance of its use entirely in patients with moderate or severe liver dysfunction. Despite this fact, brentuximab vedotin has been used successfully in patients with Hodgkin disease and vanishing bile duct syndrome with serum bilirubin higher than 20 mg/dL. Common side effects include infusion reactions, peripheral neuropathy, fatigue, nausea, diarrhea, headache, skin rash, chills, fever, leucopenia and thrombocytopenia. Less common, but serious side effects include infections, severe cutaneous reactions including Stevens Johnson syndrome, tumor lysis syndrome, peripheral neuropathy, pulmonary toxicity and progressive multifocal leukoencephalopathy. Brentuximab should be prescribed and administered only by health care workers with expertise and experience in cancer chemotherapy and management of its adverse events.</p>
+        </sec>
+        <sec id="Brentuximab_vedotin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In publications on the large scale trials of brentuximab vedotin, rates of ALT elevations and clinically apparent liver injury were usually not mentioned. In a study of squamous cell carcinoma of the head and neck described in the product label, ALT elevations occurred in 45% of persons receiving brentuximab vedotin and radiation therapy versus 22% of those receiving radiation alone, but elevations above 5 times the ULN were rare (2% vs 1%). Isolated instances of transient serum aminotransferase elevations have been described with brentuximab vedotin therapy in the literature, usually arising during the initial course of treatment. The initial product label for brentuximab vedotin mentioned serious hepatotoxicity occurring in approximately 1% of patients including fatalities and recommended monitoring of liver enzyme and bilirubin levels during therapy. Subsequently, there has been at least one clinical description of severe acute liver injury with jaundice attributed to brentuximab vedotin, reports of 5 possible such cases from the sponsor, and 37 cases reported to the FDA&#x02019;s Adverse Event Reporting System (FAERS).</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Brentuximab_vedotin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations during brentuximab vedotin therapy is not known. However, the antibody conjugate or its break down products may be taken up and metabolized in liver cells to a small extent and cause direct hepatotoxicity. The cases of clinically apparent liver injury attributed to brentuximab vedotin have not resembled sinusoidal obstruction syndrome.</p>
+        </sec>
+        <sec id="Brentuximab_vedotin.Outcome_and_Manageme">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on brentuximab vedotin therapy are generally transient, mild and asymptomatic, and do not require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal should lead to more careful monitoring and discontinuation or delay in therapy until levels return to normal or near normal levels. Serum ALT elevations above 20 times the ULN or with symptoms or jaundice should prompt permanent discontinuation. There is no information on cross reactivity of liver injury among the different monoclonal antibody conjugates.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Monoclonal Antibody Conjugates: Benlantamab Mafodotin, Enfortumab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Sacituzumab Govitecan, Tisotumab Vedotin, Trastuzumab Deruxtecan, Trastuzumab Emtansine</p>
+        </sec>
+      </sec>
+      <sec id="Brentuximab_vedotin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Brentuximab vedotin &#x02013; Adcetris&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Brentuximab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Brentuximab_vedotin.CHEMICAL_FORMULA_AND">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Brentuximab_vedotin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Brentuximab_vedotin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Brentuximab_vedotin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Brentuximab_vedotin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Brentuximab_vedotin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Brentuximab_vedotin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Brentuximab Vedotin</td>
+                <td headers="hd_h_Brentuximab_vedotin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/135300399">914088-09-8</ext-link>
+</td>
+                <td headers="hd_h_Brentuximab_vedotin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Brentuximab_vedotin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Brentuximab_vedotin.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 January 2024</p>
+        <p>Abbreviations used: ABVD: Adriamycin, bleomycin, vincristine, and dacarbazine; HCT, hematopoietic cell transplantation; TNF, tumor necrosis factor.</p>
+        <ref-list id="Brentuximab_vedotin.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="Brentuximab_vedotin.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents mentions rituximab and problems of reactivation of hepatitis B, but also states that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.bradley.2013.589">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bradley</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Devine</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>DeRemer</surname>
+<given-names>D</given-names></string-name>. <article-title>Brentuximab vedotin: an anti-CD30 antibody-drug conjugate.</article-title>
+<source>Am J Health Syst Pharm</source>
+<year>2013</year>; <volume>70</volume>: <fpage>589</fpage>-<lpage>97</lpage>.<annotation><p><italic toggle="yes">(Review of the pharmacology, efficacy and safety of brentuximab vedotin; discussion of adverse events does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23515511</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.rothe.2012.1470">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rothe</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Sasse</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Goergen</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Eichenauer</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Lohri</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>J&#x000e4;ger</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Bangard</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Brentuximab vedotin for relapsed or refractory CD30+ hematologic malignancies: the German Hodgkin Study Group experience.</article-title>
+<source>Blood</source>
+<year>2012</year>; <volume>120</volume>: <fpage>1470</fpage>-<lpage>2</lpage>.<annotation><p><italic toggle="yes">(Among 45 patients with refractory Hodgkin lymphoma treated with 1-12 courses of brentuximab vedotin, side effects included peripheral neuropathy [31%], neutropenia [13%], thrombocytopenia [7%], fatigue and infections; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22786877</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.pro.2012.2190">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pro</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Advani</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Brice</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Bartlett</surname>
+<given-names>NL</given-names></string-name>, <string-name name-style="western"><surname>Rosenblatt</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Illidge</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Matous</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Brentuximab vedotin (SGN-35) in patients with relapsed or refractory systemic anaplastic large-cell lymphoma: results of a phase II study.</article-title>
+<source>J Clin Oncol</source>
+<year>2012</year>; <volume>30</volume>: <fpage>2190</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Among 58 patients with systemic anaplastic large cell lymphoma treated with 1 to 16 cycles of brentuximab vedotin, 85% had an objective response and side effects were common, but ALT elevations and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22614995</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.gopal.2012.560">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gopal</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Ramchandren</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>O'Connor</surname>
+<given-names>OA</given-names></string-name>, <string-name name-style="western"><surname>Berryman</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Advani</surname>
+<given-names>RH</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Smith</surname>
+<given-names>SE</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and efficacy of brentuximab vedotin for Hodgkin lymphoma recurring after allogeneic stem cell transplantation.</article-title>
+<source>Blood</source>
+<year>2012</year>; <volume>120</volume>: <fpage>560</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 24 patients with recurrent Hodgkin lymphoma after HCT, 50% had an objective response to brentuximab vedotin and common side effects were cough, fatigue, fever, nausea, neuropathy and dyspnea, and common laboratory abnormalities were leucopenia, thrombocytopenia and decrease in phosphate; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22510871</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.younes.2012.2183">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Younes</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gopal</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Smith</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Ansell</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Rosenblatt</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Savage</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Ramchandren</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Results of a pivotal phase II study of brentuximab vedotin for patients with relapsed or refractory Hodgkin's lymphoma.</article-title>
+<source>J Clin Oncol</source>
+<year>2012</year>; <volume>30</volume>: <fpage>2183</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 102 patients with recurrent Hodgkin lymphoma after HCT who were treated with brentuximab vedotin, peripheral neuropathy occurred in 42%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22454421</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.newland.2013.93">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Newland</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>JX</given-names></string-name>, <string-name name-style="western"><surname>Wasco</surname>
+<given-names>LE</given-names></string-name>, <string-name name-style="western"><surname>Aziz</surname>
+<given-names>MT</given-names></string-name>, <string-name name-style="western"><surname>Lowe</surname>
+<given-names>DK</given-names></string-name>. <article-title>Brentuximab vedotin: a CD30-directed antibody-cytotoxic drug conjugate.</article-title>
+<source>Pharmacotherapy</source>
+<year>2013</year>; <volume>33</volume>: <fpage>93</fpage>-<lpage>104</lpage>.<annotation><p><italic toggle="yes">(Review of mechanism of action, pharmacokinetics, efficacy and safety of brentuximab vedotin lists adverse effects of neutropenia [54-55%], peripheral neuropathy [52-53%], fatigue [41-49%], nausea [38-42%], diarrhea [29-36%], anemia [33-52%], fever [29-38%], rash [27-31%] and rare instances of anaphylaxis, tumor lysis syndrome, Stevens-Johnson syndrome, and progressive multifocal leukoencephalopathy [PMLE]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23307550</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.carson.2014.2464">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Carson</surname>
+<given-names>KR</given-names></string-name>, <string-name name-style="western"><surname>Newsome</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>EJ</given-names></string-name>, <string-name name-style="western"><surname>Wagner-Johnston</surname>
+<given-names>ND</given-names></string-name>, <string-name name-style="western"><surname>von Geldern</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Moskowitz</surname>
+<given-names>CH</given-names></string-name>, <string-name name-style="western"><surname>Moskowitz</surname>
+<given-names>AJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Progressive multifocal leukoencephalopathy associated with brentuximab vedotin therapy: A report of 5 cases from the Southern Network on Adverse Reactions (SONAR) project.</article-title>
+<source>Cancer</source>
+<year>2014</year>; <volume>120</volume> (<issue>16</issue>): <fpage>2464</fpage>-<lpage>71</lpage>.<annotation><p><italic toggle="yes">(Clinical description of 5 cases of progressive multifocal leukoencephalopathy arising during brentuximab vedotin therapy; usually after 2-6 doses, 3-34 weeks after starting, presenting with aphasia, dysarthria, confusion, hemiparesis or gait disturbance; 4 of 5 patients died 6-16 weeks after onset).</italic></p></annotation><pub-id pub-id-type="pmid">24771533</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.monjanel.2014.306">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Monjanel</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Deville</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Ram-Wolff</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Venon</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Franchi</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Benet</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>de Kerviler</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>
+<article-title>Brentuximab vedotin in heavily treated Hodgkin and anaplastic large-cell lymphoma, a single centre study on 45 patients.</article-title>
+<source>Br J Haematol</source>
+<year>2014</year>; <volume>166</volume> (<issue>2</issue>): <fpage>306</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 45 patients with Hodgkin lymphoma or large cell lymphoma treated with brentuximab vedotin, 1 patient had "grade 3 hepatic cytolysis" that was rapidly reversible).</italic></p></annotation><pub-id pub-id-type="pmid">24673542</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.urru.2014.9">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Urru</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Mariotti</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Carta</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Massidda</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Marcias</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Murru</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sanna</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Angelucci</surname>
+<given-names>E</given-names></string-name>. <article-title>Acute pancreatitis following brentuximab vedotin therapy for refractory Hodgkin lymphoma: a case report.</article-title>
+<source>Drugs R D</source>
+<year>2014</year>; <volume>14</volume>: <fpage>9</fpage>-<lpage>11</lpage>.<annotation><p><italic toggle="yes">(65 year old man with refractory Hodgkin lymphoma developed elevated ALT levels after 1st infusion and nausea and epigastric pain shortly after 2nd leading to hospitalization [amylase 206 U/L, lipase 429 U/L, ALT and bilirubin 2-3 times ULN, neutropenia], but with rapid recovery and subsequent tolerance of further regimens).</italic></p></annotation><pub-id pub-id-type="pmid">24493291</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.younes.2014.27">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Younes</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Brentuximab vedotin for the treatment of patients with Hodgkin lymphoma.</article-title>
+<source>Hematol Oncol Clin North Am</source>
+<year>2014</year>; <volume>28</volume>: <fpage>27</fpage>-<lpage>32</lpage>.<annotation><p><italic toggle="yes">(Short review of the efficacy of brentuximab vedotin in Hodgkin lymphoma; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24287065</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [5%] were attributed to antineoplastic agents and 5 [0.5%] to monoclonal antibodies [infliximab, adalimumab and ipilimumab], but none were linked specifically to brentuximab).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.chen.2015.2136">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chen</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Palmer</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Tsai</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>BT</given-names></string-name>, <string-name name-style="western"><surname>Popplewell</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Results of a multicenter phase II trial of brentuximab vedotin as second-line therapy before autologous transplantation in relapsed/refractory Hodgkin lymphoma.</article-title>
+<source>Biol Blood Marrow Transplant</source>
+<year>2015</year>; <volume>21</volume>: <fpage>2136</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Among 37 patients with refractory Hodgkin lymphoma treated with brentuximab vedotin for a total of 4 cycles, overall response rate was 68%, the "toxicity profile was mild" and ALT elevations occurred in 38%, although none were above 5 times ULN or associated with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">26211987</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.kim.2015.3750">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Tavallaee</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sundram</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Salva</surname>
+<given-names>KA</given-names></string-name>, <string-name name-style="western"><surname>Wood</surname>
+<given-names>GS</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Rozati</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase II investigator-initiated study of brentuximab vedotin in mycosis fungoides and S&#x000e9;zary syndrome with variable CD30 expression level: a multi-institution collaborative project.</article-title>
+<source>J Clin Oncol</source>
+<year>2015</year>; <volume>33</volume>: <fpage>3750</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 32 patients with mycosis fungoides or S&#x000e9;zary syndrome treated with brentuximab vedotin every 3 weeks for up to 16 courses, 21 [64%] had a clinical response and common adverse events included peripheral neuropathy [66%], fatigue [47%], nausea [28%] and neutropenia [19%], but there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26195720</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.gupta.2016.e11">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gupta</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Petrasek</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Sen</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gopal</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Naina</surname>
+<given-names>HV</given-names></string-name>. <article-title>Single-agent brentuximab as bridging therapy for Hodgkin lymphoma patients with hepatic impairment.</article-title>
+<source>Clin Lymphoma Myeloma Leuk.</source>
+<year>2016</year>;<volume>16</volume>:<fpage>e11</fpage>-<lpage>4</lpage>.<annotation><p><italic toggle="yes">(Among 5 patients presenting with Hodgkin disease and unexplained liver abnormalities with jaundice [bilirubin 7-21 mg/dL, ALT 67-1187 U/L, Alk P 254-1223 U/L] thought to be due to hepatic lymphoma in 2, vanishing bile duct syndrome in 2, and drug induced liver injury 1, who were treated with brentuximab vedotin as first line therapy, all had at least a partial response and improvement in the liver abnormalities that then allowed standard first line therapy with doxorubicin, bleomycin, vincristine and dacarbazine [ABVD]).</italic></p></annotation><pub-id pub-id-type="pmid">26775723</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.prince.2017.555">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Prince</surname>
+<given-names>HM</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Horwitz</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Dummer</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Scarisbrick</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Quaglino</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Zinzani</surname>
+<given-names>PL</given-names></string-name>, <etal>et al</etal>; <collab>ALCANZA study group</collab>. <article-title>Brentuximab vedotin or physician's choice in CD30-positive cutaneous T-cell lymphoma (ALCANZA): an international, open-label, randomised, phase 3, multicentre trial.</article-title>
+<source>Lancet</source>
+<year>2017</year>; <volume>390</volume> (<issue>10094</issue>): <fpage>555</fpage>-<lpage>66</lpage>.<annotation><p><italic toggle="yes">(Among 131 patients with refractory T cell lymphomas treated with brentuximab vedotin or standard therapy, objective response rates were 56% vs 13%, and neuropathy occurred in 45% vs 2%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28600132</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.fong.2019.e227676">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fong</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Boyle</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gutta</surname>
+<given-names>N</given-names></string-name>. <article-title>Brentuximab vedotin in combination with sequential procarbazine, cyclophosphamide and prednisolone for the management of Hodgkin's lymphoma-associated vanishing bile duct syndrome (VBDS) with severe obstructive liver failure.</article-title>
+<source>BMJ Case Rep.</source>
+<year>2019</year>;<volume>12</volume>:<elocation-id>e227676</elocation-id>.<annotation><p><italic toggle="yes">(39 year old woman with Hodgkin disease and vanishing bile duct syndrome [bilirubin rising to 26.3 mg/dL] was treated with cycles of cyclophosphamide and prednisone, with addition of procarbazine [cycle 3] and brentuximab vedotin [cycle 4] had an eventual excellent response [by cycle 7] and return of liver tests to normal, allowing for subsequent treatment with first line therapy [ABVD]).</italic></p></annotation><pub-id pub-id-type="pmid">30796069</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.neeman.2019.2283">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Neeman</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Friedman</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>McKendrick</surname>
+<given-names>J</given-names></string-name>. <article-title>Acute liver injury leading to death in the setting of brentuximab vedotin monotherapy.</article-title>
+<source>Leuk Lymphoma.</source>
+<year>2019</year>;<volume>60</volume>:<fpage>2283</fpage>-<lpage>2286</lpage>.<annotation><p><italic toggle="yes">(67 year old man with composite lymphoma for 11 years was treated with brentuximab vedotin after his third relapse resulting in a partial response but presentation with jaundice and fever after the 7<sup>th</sup> cycle [bilirubin 11.2 mg/dL, ALT 206 U/L, Alk P 745 U/L], a liver biopsy showing cholestatic hepatitis and subsequent progressive course and death from hepatic failure 3-4 weeks later; mentions that the sponsor knew of 5 other possible cases of brentuximab vedotin severe liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">30822188</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.ishitsuka.2022.154">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ishitsuka</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Yokoyama</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Baba</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Matsuoka</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sakamoto</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Sakamoto</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kusakabe</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Administration of brentuximab vedotin to a Hodgkin lymphoma patient with liver dysfunction due to vanishing bile duct syndrome resulting in a partial response without any severe adverse events.</article-title>
+<source>J Clin Exp Hematop.</source>
+<year>2022</year>;<volume>62</volume>:<fpage>154</fpage>-<lpage>157</lpage>.<annotation><p><italic toggle="yes">(35 year old man with Hodgkin lymphoma and vanishing bile duct syndrome [bilirubin rising to 19.9 mg/dL, Alk P to 2861 U/L] failed to respond to convention anti-lymphoma therapies, but had a partial response and improvement in liver tests with full dose cycles of brentuximab vedotin).</italic></p></annotation><pub-id pub-id-type="pmid">35831099</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.wang.2023.2973">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Wei</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Zhao</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>W</given-names></string-name>, <etal>et al.</etal>
+<article-title>Single-agent brentuximab vedotin as frontline therapy for Hodgkin lymphoma patients with severe hepatic impairment: a report of two cases.</article-title>
+<source>Ann Hematol.</source>
+<year>2023</year>;<volume>102</volume>:<fpage>2973</fpage>-<lpage>2975</lpage>.<annotation><p><italic toggle="yes">(Two cases, 51 year old woman and 31 year old man who presented with Hodgkin disease and severe liver test abnormalities [bilirubin 27.4 mg/dL in one, ALT 1122 U/L in the other], both had improvements in liver tests with first line therapy with brentuximab vedotin and allowed for later use of radiation or ABVD therapy achieving complete remissions).</italic></p></annotation><pub-id pub-id-type="pmid">37522969</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Brentuximab_vedotin.REF.sun.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sun</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>J.</given-names></string-name>
+<article-title>A pharmacovigilance study on drug-induced liver injury associated with antibody-drug conjugates (ADCs) based on the food and drug administration adverse event reporting system.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>:<fpage>1</fpage>-<lpage>12</lpage>.<annotation><p><italic toggle="yes">(Analysis of the FDA reporting system [FAERS] for cases of drug induced liver injury submitted between 2004 and 2022, found 17,784 reports, 504 [3%] attributed to antibody-drug conjugates, 202 from the US, the implicated agents being gemtuzumab ozogamicin [n=98], brentuximab vedotin [n=37], trastuzumab emtansine [n=25], enfortumab vedotin [n=16], inotuzumab ozogamicin [n=15], transtuzumab deruxtecan [n=8], and polatuzumab vedotin [3]).</italic></p></annotation><pub-id pub-id-type="pmid">37898875</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Brentuximab_vedotin.OTHER_REFERENCE_LINK">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Brentuximab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Brentuximab vedotin: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Brentuximab">Trials on Brentuximab vedotin: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

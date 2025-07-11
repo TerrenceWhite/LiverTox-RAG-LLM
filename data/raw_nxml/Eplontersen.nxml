@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Eplontersen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Eplontersen</book-part-id>
+      <title-group>
+        <title>Eplontersen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>2</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Eplerenone" document-type="chapter">Eplerenone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Eprosartan" document-type="chapter">Eprosartan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Eplontersen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Eplontersen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Eplontersen is transthyretin-directed antisense oligonucleoside used in the treatment of the polyneuropathy caused by hereditary transthyretin-mediated amyloidosis. Eplontersen has been associated with minor liver test abnormalities during therapy but has not been linked instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Eplontersen.Background">
+          <title>Background</title>
+          <p>Eplontersen (e plon&#x02019; ter sen) is an antisense oligonucleoside directed against transthyretin, a serum protein made in the liver whose major function is transport of vitamin A and thyroxine. Rare mutations in the transthyretin gene result in misfolding of the protein and accumulation of large amyloid deposits of transthyretin molecules, most prominently in peripheral nerves and the heart. Patients with hereditary transthyretin amyloidosis typically present with polyneuropathy or autonomic dysfunction followed by cardiomyopathy, which if untreated is usually fatal within 5 to 12 years. Eplontersen causes degradation of transthyretin and decreases production of both wild type and mutant forms in the liver resulting in lower serum concentrations and decreased accumulation in nerves and heart. Eplontersen is bound to a ligand with three N-acetyl galactosamine residues that direct the molecule for uptake by hepatocytes, where the majority of transthyretin is produced. In preregistration open label studies, eplontersen decreased transthyretin levels and led to improvements in symptoms of neuropathy as well as general quality of life, at least as compared to untreated historical controls. Studies in experimental animal models and in preliminary trials in humans suggest that long term therapy with eplontersen can prevent worsening of amyloid associated heart disease. Eplontersen was approved for use in the United States as treatment of polyneuropathy of hereditary transthyretin mediated amyloidosis in adults in 2023. It is available in solution as 45 mg in 0.8 mL in single use autoinjectors under the brand name Wainua. The usual dose regimen is 45 mg subcutaneously once per month. Side effects are infrequent but can include vomiting, proteinuria, injection site reactions, and blurred vision. Transthyretin is a vitamin A carrier involved in its transport and uptake. As a consequence, vitamin A levels decrease in patients receiving eplontersen. For that reason, while on treatment, patients should take supplements with the recommended daily allowance of vitamin A. Rare potential adverse events associated with eplontersen therapy include vitamin A deficiency and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Eplontersen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the registration trial of eplontersen, liver test abnormalities occurred in 7.6% of treated patients, but the elevations were mild and no more frequent than was observed in a historical control group (6.7%). There were no ALT elevations above 3 times the upper limit of normal (ULN) and no case of aminotransferase elevations accompanied by jaundice or symptoms. Since its approval, clinical experience with eplontersen has been limited, but there have been no published case reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Eplontersen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which eplontersen might cause liver injury is not clear. Eplontersen is an oligonucleotide and is metabolized to short sequences or individual nucleotides by plasma and intracellular nucleases. Eplontersen is not metabolized by P450 enzymes and has no effect on their level of activity and no significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Eplontersen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on eplontersen therapy are unlikely to be due to the drug therapy and rarely require dose modification or discontinuation. Persistent ALT or AST elevations arising during therapy should lead to evaluation of their possible causes. There is no information on cross sensitivity to liver injury among the various other therapies for transthyretin-associated amyloidosis.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+          <p>Drugs for Hereditary Transthyretin Amyloidosis: <related-object link-type="booklink" source-id="livertox" document-id="Acoramidis" document-type="book-part">Acoramidis</related-object>, Inotersen, <related-object link-type="booklink" source-id="livertox" document-id="Patisiran" document-type="book-part">Patisiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tafamidis" document-type="book-part">Tafamidis</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vutrisiran" document-type="book-part">Vutrisiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Eplontersen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Eplontersen &#x02013; Wainua&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Eplontersen">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Eplontersen.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Eplontersen.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Eplontersen.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Eplontersen.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Eplontersen.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Eplontersen.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Eplontersen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Eplontersen</td>
+                <td headers="hd_h_Eplontersen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://402425800">1637600-16-8</ext-link>
+</td>
+                <td headers="hd_h_Eplontersen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Nucleic Acid</td>
+                <td headers="hd_h_Eplontersen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Eplontersen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 February 2025</p>
+        <p>Abbreviations: siRNA, small interfering RNA.</p>
+        <ref-list id="Eplontersen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Eplontersen.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of antisense therapies such as eplontersen).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Eplontersen.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217388Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217388Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with the product labels and integrated review of the data on efficacy and safety provided by the sponsor in support of approval of eplontersen as therapy of polyneuropathy due to transthyretin amyloidosis mentions that mild-to-moderate elevations in serum aminotransferase or alkaline phosphatase levels arose in 7.6% of eplontersen vs 6.7% of placebo recipients, but there were no ALT elevations above 3 times ULN and no cases of drug induced liver injury or aminotransferase elevations accompanied by jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Eplontersen.REF.aimo.2022.655">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aimo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Castiglione</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Rapezzi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Franzini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Panichella</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Vergaro</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>RNA-targeting and gene editing therapies for transthyretin amyloidosis.</article-title>
+<source>Nat Rev Cardiol.</source>
+<year>2022</year>;<volume>19</volume>:<fpage>655</fpage>-<lpage>667</lpage>.<annotation><p><italic toggle="yes">(Review of the molecular approaches to therapy of transthyretin related amyloidosis including small interfering RNA [siRNA, patisiran, vutrisiran], antisense RNA [inotersen, eplontersen], CRISPR-Cas9 therapy, and molecular stabilization agents [acoramidis, tafamidis], some of which have been linked to minor serum aminotransferase elevations during therapy [vutrisiran, eplontersen], but not to clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">35322226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Eplontersen.REF.maurer.2022.s23">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Overview of current and emerging therapies for amyloid transthyretin cardiomyopathy.</article-title>
+<source>Am J Cardiol.</source>
+<year>2022</year>;<volume>185</volume>
+<supplement>Suppl 1</supplement>:<fpage>S23</fpage>-<lpage>S34</lpage>.<annotation><p><italic toggle="yes">(Review of approaches to therapy of amyloid transthyretin cardiomyopathy including the transthyretin stabilizers [tafamidis, acoramidis] and transthyretin gene silencing or knockdown agents [patisiran, vutrisiran, inotersen, eplontersen, CRISPR-Cas9]; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36371281</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Eplontersen.REF.coelho.2023.1448">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Coelho</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Marques</surname>
+<given-names>W</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Dasgupta</surname>
+<given-names>NR</given-names></string-name>, <string-name name-style="western"><surname>Chao</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Parman</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Fran&#x000e7;a</surname>
+<given-names>MC</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Guo</surname>
+<given-names>YC</given-names></string-name>, <etal>et al.</etal>; <article-title>NEURO-TTRansform Investigators. Eplontersen for hereditary transthyretin amyloidosis with polyneuropathy.</article-title>
+<source>JAMA</source>. <year>2023</year>;<volume>330</volume>:<fpage>1448</fpage>-<lpage>1458</lpage>.<annotation><p><italic toggle="yes">(Among 168 adults with polyneuropathy and transthyretin amyloidosis treated with eplontersen vs placebo recipients [n=60] from a previous trial of inotersen, transthyretin levels decreased by 82% vs 11% and eplontersen treatment was associated with improvements in symptoms of neuropathy and quality of life, while adverse events arose in 97% vs 100%, severe events in 15% vs 20%, and discontinuations for adverse events in 6% vs 7%, and there were no cases of drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">37768671</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Eplontersen.REF.nie.2024.473">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nie</surname>
+<given-names>T.</given-names></string-name>
+<article-title>Eplontersen: first approval.</article-title>
+<source>Drugs.</source>
+<year>2024</year>;<volume>84</volume>(<issue>4</issue>):<fpage>473</fpage>-<lpage>478</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of eplontersen shortly after its approval as therapy of hereditary transthyretin amyloidosis in the US, mentions adverse events of decreases in vitamin A levels [95%], vitamin A deficiency [15%], vomiting, proteinuria, injection site reactions, blurred vision, and cataracts as well as rare events of atrioventricular heart block, and thrombocytopenia).</italic></p></annotation><pub-id pub-id-type="pmid">38413492</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Eplontersen.REF.masri.2024.973">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Masri</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Claggett</surname>
+<given-names>BL</given-names></string-name>, <string-name name-style="western"><surname>Kulac</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Waddington Cruz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Concei&#x000e7;&#x000e3;o</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Weiler</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Effect of eplontersen on cardiac structure and function in patients with hereditary transthyretin amyloidosis.</article-title>
+<source>J Card Fail.</source>
+<year>2024</year>;<volume>30</volume>:<fpage>973</fpage>-<lpage>980</lpage>.<annotation><p><italic toggle="yes">(In a secondary analysis of the registration open label trial of eplontersen in patients with hereditary transthyretin amyloidosis [Coelho 2023] who had heart involvement, left ventricular ejection fraction and stroke volume improved slightly or was more likely to be stable in comparison to historical controls).</italic></p></annotation><pub-id pub-id-type="pmid">38065307</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Eplontersen.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Eplontersen/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Eplontersen: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Eplontersen">Trials on Eplontersen: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

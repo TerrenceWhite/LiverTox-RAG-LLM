@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="SickleCellAg" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">SickleCellAg</book-part-id>
+      <title-group>
+        <title>Sickle Cell Disease Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>7</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Sibutramine" document-type="chapter">Sibutramine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Sildenafil" document-type="chapter">Sildenafil</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="SickleCellAg.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="SickleCellAg.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Sickle cell disease is caused by an inherited mutation in the &#x003b2; globin gene that creates hemoglobin S, an abnormal form of hemoglobin which is prone to polymerization when exposed to low oxygen tension which results in sickling of red blood cells, hemolytic anemia, vascular occlusion of small vessels, ischemic tissue and organ injury and recurrent painful crises. Drugs for sickle cell disease include agents that increase fetal hemoglobin, which has a higher affinity for oxygen and can decrease sickling and agents that act downstream from sickling in preventing the microvascular occlusions due to the sickled red cells by inhibition of hemoglobin S polymerase, decreasing oxidative stress, and lessening of sickle cell adhesion to endothelial cells.</p>
+        </sec>
+        <sec id="SickleCellAg.Background">
+          <title>Background</title>
+          <p>Sickle cell disease is caused by an inherited mutation in the &#x003b2; globin gene that creates hemoglobin S, an abnormal form of hemoglobin which is prone to polymerization with deoxygenation resulting in sickling of red blood cells, hemolytic anemia, vascular occlusion of small vessels, ischemic tissue and organ injury and recurrent painful crises. Sickle cell disease affects at least 100,000 Americans and is most common in persons of African descent. Long term complications include disability due to recurrent painful crises, acute chest syndrome, pulmonary hypertension, stroke and cerebral infracts, end-organ damage and early mortality. Most of the complications of sickle cell disease are due to the vaso-occlusive crises caused the aggregates of sickled red cells, platelets, leukocytes adhering to endothelial cells and causing vascular stasis and ischemic injury to tissues. The recurrent vaso-occlusive crises can cause cerebral vascular stokes, pulmonary hypertension, renal and hepatic dysfunction, splenic infarcts and injury to bone and muscle. Drugs for sickle cell disease target the prevention of sickle cell formation, but also the subsequent vaso-occlusive crises which is the result of the sickled cells forming aggregates with platelets and leukocytes that adhere to microvascular endothelial cells causing obstruction and local ischemic damage. A non-pharmacologic approach to management of sickle cell anemia is chronic transfusions to raise the hemoglobin level and provide normal hemoglobin and its oxygen carrying ability. Medications specifically approved for use in sickle cell disease include hydroxyurea, L-glutamine, voxelotor and crizanlizumab all of which act on a different target in the pathway of vaso-occlusive crises.</p>
+          <p>Hydroxyurea is an antimetabolite used in cancer chemotherapy, particularly in chronic myelogenous leukemic and head and neck cancers. In addition, chronic therapy with hydroxyurea has a beneficial effect in sickle cell disease by increasing fetal hemoglobin synthesis (hemoglobin F) which provides a proportion of normal oxygen carrying hemoglobin. Chronic therapy with hydroxyurea can decrease sickling and increase hemoglobin levels, with a decrease in vaso-occlusive crises and improvement in general well-being in individuals with sickle cell disease. Hydroxyurea was approved for use in sickle cell disease in 1998 and is considered a first line therapy in management of this disease.</p>
+          <p>L-glutamine is an amino acid that serves as an important precursor of key antioxidant compounds that act to decrease oxidative stress which is common in sickled red cells. The tissue levels of endogenous antioxidants are often deficient in sickle cell disease and can be increased by L-glutamine intake. L-glutamine appears to act in decreasing painful crises in sickle cell disease by increasing levels of nicotinamide adenine dinucleotide (NAD) and glutathione, essential molecules in intracellular oxidative-reductive balance and metabolism. L-glutamine was approved for use in sickle cell disease in 2017 but has not had widespread use.</p>
+          <p>Voxelotor is a small molecular inhibitor of hemoglobin S polymerization. Voxelotor binds to and stabilizes the R oxygen high-affinity conformation of HbS, thus decreasing the concentration of the T conformation that is prone to polymerization. While voxelotor has been shown to raise hemoglobin levels and decrease reticulocytes in patients with sickle cell disease, it has not been shown to decrease vaso-occlusive crises or prevent organ damage. Voxelotor was approved for use in sickle cell disease in 2019 but has not had widespread use.</p>
+          <p>Crizanlizumab is a humanized IgG2 monoclonal antibody to P-selectin, an important adhesion molecule that is expressed on activated platelets and leukocytes and mediates adhesion of sickle cell aggregates to endothelial cells. Crizanlizumab has been shown to decrease vaso-occlusive crises, but does not increase hemoglobin levels or reduce hemolysis in sickle cell disease.</p>
+        </sec>
+        <sec id="SickleCellAg.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>None of the four approved drugs for sickle cell disease have been associated with serious hepatotoxicity. Low rates of transient, asymptomatic, mild-to-moderate serum enzyme elevations can occur with hydroxyurea and voxelotor, and rare instances of clinically apparent liver injury with jaundice have been reported with hydroxyurea. Diagnosis of drug induced liver injury is challenging in patients with sickle cell disease because they frequently have mild jaundice due to the chronic hemolysis. In addition, patients with sickle cell disease often have serum enzyme elevations due to chronic liver injury, the result of complications of the disease and its treatment, such as chronic viral hepatitis and iron overload from frequent blood transfusions, gallstone disease from chronic hemolysis, congestive liver injury from pulmonary hypertension, ischemic hepatopathy from microvascular crises in the liver, and nodular regenerative hyperplasia probably from chronic microvascular injury. Thus, jaundice and other evidence of liver disease can occur independent of the use of medications for sickle cell disease and the differential diagnosis can be challenging.</p>
+          <p>Full discussion of the potential hepatotoxicity of drugs for sickle cell disease and references to their safety are given in the following individual chapters in LiverTox.</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Crizanlizumab" document-type="chapter">Crizanlizumab</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Hydroxyurea" document-type="chapter">Hydroxyurea</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="L-Glutamine" document-type="chapter">L-Glutamine</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Voxelotor" document-type="chapter">Voxelotor</related-object>
+</p>
+        </sec>
+      </sec>
+      <sec id="SickleCellAg.SELECTED_ANNOTATED_BIBLIOGR">
+        <title>SELECTED ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 July 2021</p>
+        <ref-list id="SickleCellAg.SELECTED_ANNOTATED_BIBLIOGR.reflist0">
+          <ref id="SickleCellAg.REF.brawley.2008.932">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brawley</surname><given-names>OW</given-names></name>
+<name name-style="western"><surname>Cornelius</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Edwards</surname><given-names>LR</given-names></name>
+<name name-style="western"><surname>Gamble</surname><given-names>VN</given-names></name>
+<name name-style="western"><surname>Green</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Inturrisi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>James</surname><given-names>AH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>National Institutes of Health Consensus Development Conference statement: hydroxyurea treatment for sickle cell disease.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2008</year>
+              <volume>148</volume>
+              <fpage>932</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Consensus statement on use of hydroxyurea in patients with sickle cell disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18458271</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.platt.2008.1362">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Platt</surname><given-names>OS</given-names></name>
+</person-group>
+              <article-title>Hydroxyurea for the treatment of sickle cell anemia.</article-title>
+              <source>N Engl J Med</source>
+              <year>2008</year>
+              <volume>358</volume>
+              <fpage>1362</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, efficacy and safety of hydroxyurea therapy of sickle cell disease mentions potential of embryotoxicity, myelotoxicity and cancer, but does not discuss ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18367739</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.rees.2010.2018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rees</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>TN</given-names></name>
+<name name-style="western"><surname>Gladwin</surname><given-names>MT</given-names></name>
+</person-group>
+              <article-title>Sickle-cell disease.</article-title>
+              <source>Lancet</source>
+              <year>2010</year>
+              <volume>376</volume>
+              <issue>9757</issue>
+              <fpage>2018</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pathogenesis, clinical features, natural history, complications, management and therapy of sickle cell disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21131035</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.steinberg.2010.403">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Steinberg</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>McCarthy</surname><given-names>WF</given-names></name>
+<name name-style="western"><surname>Castro</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Ballas</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Armstrong</surname><given-names>FD</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Ataga</surname><given-names>K</given-names></name>
+<etal/>
+<collab>Investigators of the Multicenter Study of Hydroxyurea in Sickle Cell Anemia and MSH Patients' Follow-Up</collab>
+</person-group>
+              <article-title>The risks and benefits of long-term use of hydroxyurea in sickle cell anemia: A 17.5 year follow-up.</article-title>
+              <source>Am J Hematol</source>
+              <year>2010</year>
+              <volume>85</volume>
+              <fpage>403</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Long term follow up of patients with sickle cell disease in a clinical trial of hydroxyurea found evidence of improved survival without apparent severe adverse events; liver disease occurred in 6% of patients and was less in hydroxyurea treated subjects and persons who survived more than 10 years).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20513116</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.koh.2013.e250">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Koh</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Turner</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Minniti</surname><given-names>CP</given-names></name>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Simpson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Demino</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver stiffness increases acutely during sickle cell vaso-occlusive crisis.</article-title>
+              <source>Am J Hematol</source>
+              <year>2013</year>
+              <volume>88</volume>
+              <fpage>E250</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 23 patients with sickle cell disease evaluated before and during an acute vaso-occlusive crisis, serum liver enzyme elevations did not change appreciably but hepatic stiffness increased [measured by ultrasound transient elastography] as did serum total and indirect bilirubin and reticulocyte counts, while serum albumin and hemoglobin decreased).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23828202</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.feld.2015.912">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Kato</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Koh</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Shields</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hildesheim</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>JG</given-names><suffix>6th</suffix></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury is associated with mortality in sickle cell disease.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2015</year>
+              <volume>42</volume>
+              <fpage>912</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 247 patients with sickle cell disease, liver disease was common, elevations in ALT were present in 16% and alkaline phosphatase in 33%; factors associated with mortality during follow up were iron indices [serum ferritin, transferrin, and iron] and liver abnormalities [direct bilirubin, albumin and alkaline phosphatase levels]; liver biopsy done in 40 patients revealed nodular regenerative hyperplasia in 36% and portal venopathy in 23%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26235444</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF7">
+            <element-citation publication-type="journal">
+              <article-title>L-glutamine (Endari) for sickle cell disease.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2018</year>
+              <volume>60</volume>
+              <issue>1539</issue>
+              <fpage>21</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and cost of L-glutamine for sickle cell disease describes its adverse effects to include constipation, nausea, headache, abdominal pain, pain in back and extremities, cough and chest pain, but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29364198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF8">
+            <element-citation publication-type="journal">
+              <article-title>Two drugs for sickle cell disease.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1595</issue>
+              <fpage>51</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of crizanlizumab and voxelotor shortly after their approval for use in sickle cell disease in the US; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32324178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.osunkwo.2020.2040620720955000">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Osunkwo</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Manwani</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Kanter</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Current and novel therapies for the prevention of vaso-occlusive crisis in sickle cell disease.</article-title>
+              <source>Ther Adv Hematol</source>
+              <year>2020</year>
+              <volume>11</volume>
+              <elocation-id>2040620720955000</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the pathogenesis of sickle cell vaso-occlusive crises and potential therapeutic avenues for their prevention and treatment including induction of hemoglobin F [hydroxyurea], decreasing oxidative stress [L-glutamine], decreasing red cell adhesion [crizanlizumab], and inhibiting hemoglobin polymerization [voxelotor]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33062233</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.tisdale.2020.1198">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tisdale</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Thein</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Eaton</surname><given-names>WA</given-names></name>
+</person-group>
+              <article-title>Treating sickle cell anemia.</article-title>
+              <source>Science</source>
+              <year>2020</year>
+              <volume>367</volume>
+              <issue>6483</issue>
+              <fpage>1198</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanism of action and efficacy of current [hydroxyurea and voxelotor] and the promise of future therapies of sickle cell anemia [including bone marrow transplantation and gene therapy]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32165573</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.darbari.2020.237">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Darbari</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Sheehan</surname><given-names>VA</given-names></name>
+<name name-style="western"><surname>Ballas</surname><given-names>SK</given-names></name>
+</person-group>
+              <article-title>The vaso-occlusive pain crisis in sickle cell disease: definition, pathophysiology, and management.</article-title>
+              <source>Eur J Haematol</source>
+              <year>2020</year>
+              <volume>105</volume>
+              <fpage>237</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the pathogenesis of vaso-occlusive crisis in patients with sickle cell disease and therapies that target different steps in the process including inflammation, adhesion, oxidative stress, and oxygen affinity and stability of hemoglobin; discusses efficacy of L-glutamine, voxelotor and crizanlizumab, mentioning that all three are well tolerated; no mention or discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32301178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.ali.2020.11">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ali</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Ahmad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chaudry</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Aiman</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Aamir</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Anwar</surname><given-names>MY</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of recently approved drugs for sickle cell disease: a review of clinical trials.</article-title>
+              <source>Exp Hematol</source>
+              <year>2020</year>
+              <volume>92</volume>
+              <fpage>11</fpage>
+              <lpage>18.e1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of randomized controlled trials of 3 recently approved drugs for sickle cell disease focusing upon L-glutamine, voxelotor, and crizanlizumab states that all three are &#x0201c;well tolerated without any alarming adverse effects&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32841705</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SickleCellAg.REF.pace.2021.240">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pace</surname><given-names>BS</given-names></name>
+<name name-style="western"><surname>Starlard-Davenport</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kutlar</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Sickle cell disease: progress towards combination drug therapy.</article-title>
+              <source>Br J Haematol</source>
+              <year>2021</year>
+              <volume>194</volume>
+              <issue>2</issue>
+              <fpage>240</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pathophysiology of sickle cell disease and vaso-occlusive crises and mechanism of action of drugs used to treat sickle cell disease and drugs currently under investigation for efficacy in decreasing the microvascular occlusive crises that mediate much of the morbidity and mortality of this disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33471938</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

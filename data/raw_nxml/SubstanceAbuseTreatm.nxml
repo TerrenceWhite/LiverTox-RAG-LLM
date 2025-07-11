@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="SubstanceAbuseTreatm" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">SubstanceAbuseTreatm</book-part-id>
+      <title-group>
+        <title>Substance Abuse Treatment Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Streptozocin" document-type="chapter">Streptozocin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Succimer" document-type="chapter">Succimer</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="SubstanceAbuseTreatm.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The Substance Abuse Treatment Agents are used in combination with structured relapse prevention interventions to treat alcohol, opiate, nicotine and other drug dependencies. These agents are usually not effective on their own and are considered adjunctive therapy to multidisciplinary substance abuse treatment.</p>
+        <p content-type="pubmed-excerpt">The substance abuse treatment agents are generally classified based upon the specific dependency or abuse. Thus, drugs used for maintenance of alcohol withdrawal include disulfiram, acamprosate and naltrexone. Agents used for opiate withdrawal include buprenorphine, methadone and naltrexone. Agents for smoking cessation include nicotine and varenicline. The agents can also be classified as deterrents (disulfiram, naltrexone), neurotransmitter analogues (acamprosate, varenicline), and agents that block withdrawal symptoms (buprenorphine, methadone, nicotine). Disulfiram has been linked to many cases of acute liver injury, some of which are severe and even fatal. The other substance abuse treatment agents have little or no hepatoxic potential unless taken in an overdose (buprenorphine).</p>
+        <p content-type="pubmed-excerpt">The Substance Abuse Treatment Agents in clinical use include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Acamprosate" document-type="chapter">Acamprosate</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Buprenorphine" document-type="chapter">Buprenorphine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Disulfiram" document-type="chapter">Disulfiram</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Methadone" document-type="chapter">Methadone</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Nalmefene" document-type="chapter">Nalmefene</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Naloxegol" document-type="chapter">Naloxegol</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Naloxone" document-type="chapter">Naloxone</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Naltrexone" document-type="chapter">Naltrexone</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Nicotine" document-type="chapter">Nicotine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Varenicline" document-type="chapter">Varenicline</related-object>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="SubstanceAbuseTreatm.SELECTED_ANNOTATED">
+        <title>SELECTED ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 September 2021</p>
+        <ref-list id="SubstanceAbuseTreatm.SELECTED_ANNOTATED.reflist0">
+          <ref id="SubstanceAbuseTreatm.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in aversion therapy. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 724-6.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999: discussion of hepatotoxicity of alcohol aversion pharmacotherapy is limited to disulfiram).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF.zimmerman.1999_1">
+            <mixed-citation publication-type="book">Zimmerman HJ. Narcotic analgesics. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 724-6.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 includes discussion of hepatotoxicity of morphine, heroin, methadone, codeine and naltrexone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF.mihic.2018">
+            <mixed-citation publication-type="book">Mihic SJ, Koob GF, Mayfield J, Harris RA. Ethanol. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 421-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF4">
+            <mixed-citation publication-type="book">O&#x02019;Brien. Drug use disorders and addiction. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 433-42.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF.mattick.2003.441">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mattick</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Ali</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>O'Brien</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wolk</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Danz</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Buprenorphine versus methadone maintenance therapy: a randomized double-blind trial with 405 opioid-dependent patients.</article-title>
+              <source>Addiction.</source>
+              <year>2003</year>
+              <volume>98</volume>
+              <fpage>441</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial in 405 patients with opioid dependence found similar rates of adverse events with buprenorphine and methadone; one patient had hepatitis C, but no other liver related adverse events reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12653814</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF.fudala.2003.949">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fudala</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Bridge</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Herbert</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Williford</surname><given-names>WO</given-names></name>
+<name name-style="western"><surname>Chiang</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Collins</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Buprenorphine/ Naloxone Collaborative Study Group. Office-based treatment of opiate addiction with a sublingual-tablet formulation of buprenorphine and naloxone.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2003</year>
+              <volume>349</volume>
+              <fpage>949</fpage>
+              <lpage>58</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of buprenorphine/naloxone vs buprenorphine alone vs placebo for 4 weeks in 326 opiate addicted patients; ALT elevations occurred in 10 patients, but 8 had concurrent hepatitis B or C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12954743</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for smoking cessation.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1576</issue>
+              <fpage>105</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanisms of action, clinical efficacy, safety and costs of drugs for smoking cessation mentions that side effects of varenicline include nausea and constipation, dizziness and headache and sleep disturbances with insomnia and vivid dreams; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31381546</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="SubstanceAbuseTreatm.REF.goh.2017.865">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goh</surname><given-names>ET</given-names></name>
+<name name-style="western"><surname>Morgan</surname><given-names>MY</given-names></name>
+</person-group>
+              <article-title>Review article: pharmacotherapy for alcohol dependence &#x02013; the why, the what and the wherefore.</article-title>
+              <source>Aliment Pharmacol Ther.</source>
+              <year>2017</year>
+              <volume>45</volume>
+              <fpage>865</fpage>
+              <lpage>882</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of medical therapies for alcohol dependence including disulfiram, a well known cause of acute liver injury, and acamprosate which is not metabolized in the liver, has not been implicated in cases of liver injury, and is generally safe even in persons with impaired hepatic function).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28220511</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

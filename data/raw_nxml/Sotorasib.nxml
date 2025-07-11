@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Sotorasib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Sotorasib</book-part-id>
+      <title-group>
+        <title>Sotorasib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Sotalol" document-type="chapter">Sotalol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Spironolactone" document-type="chapter">Spironolactone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Sotorasib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Sotorasib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Sotorasib is a small molecule inhibitor of the KRAS G12C mutant protein which is found in up to 13% of refractory cases of non-small cell lung cancer. Serum aminotransferase elevations are common during therapy with sotorasib, and a proportion of patients develop clinically apparent liver injury that can be severe.</p>
+        </sec>
+        <sec id="Sotorasib.Background">
+          <title>Background</title>
+          <p>Sotorasib (soe toe ras&#x02019; ib) is an orally available, small molecule inhibitor of the KRAS gene product which is a frequently mutated oncogene found in several forms of cancer, most commonly in non-small cell lung cancer (NSCLC). The KRAS (Kristen rat sarcoma viral oncogene homolog) G12C mutation produces a constituently produced protein that stimulates excessive cell growth. Sotorasib binds to and inhibits the abnormal KRAS gene product and is a potent inhibitor of cell growth and proliferation in tumor cell lines and experimental tumor models with the KRAS G12C mutation, the first inhibitor of this oncogene protein. In large open label trials, sotorasib was found to induce objective responses in 36% of patients with refractory NSCLC harboring the KRAS G12C mutation. Sotorasib was granted accelerated approval in the U.S. in 2019 for adults with NSCLC with documented KRAS G12C mutations. It remains under evaluation for other forms of cancer harboring KRAS G12C mutations. Sotorasib is available in tablets of 120 and 320 mg under the brand name Lumakras. The recommended dose is 960 mg orally once daily until disease progression or unacceptable toxicity. Side effects are common and arise in almost all patients treated with sotorasib and lead to dose modification or discontinuation in approximately one-third of treated patients. Common side effects include diarrhea, nausea and vomiting, abdominal pain, fatigue, myalgia, arthralgia, cough, dyspnea, lymphopenia, anemia, and aminotransferase elevations. Uncommon but potentially severe adverse events include hepatotoxicity, interstitial lung disease and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Sotorasib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of sotorasib in patients with solid tumors harboring KRAS G12C mutations, liver test abnormalities were frequent although usually self-limited and mild. Some degree of ALT elevations arose in 38% of sotorasib treated patients and were above 5 times the upper limit of normal (ULN) in 6% to 7%. In these trials that enrolled approximately 427 patients, sotorasib was discontinued early due to increased AST or ALT in 8% of patients. In addition, a small proportion of patients developed significant hepatotoxicity requiring sotorasib discontinuation and treatment with corticosteroids. The liver test abnormalities had a median onset of 9 weeks after initiation of therapy. While serum aminotransferase elevations were occasionally quite high (5 to 20 times upper limit of normal), there was no accompanying elevations in serum bilirubin and no patient developed clinically apparent liver injury with jaundice. The product label for sotorasib recommends monitoring for routine liver tests before, at 3 week intervals during the first 3 months of therapy, and monthly thereafter as clinically indicated.</p>
+          <p>Strikingly, the more severe elevations of serum aminotransferase levels during therapy with sotorasib occurred among patients who had recently received checkpoint inhibitor therapy (usually anti-PD-L1) in the 1 to 3 months before starting sotorasib. Furthermore, the elevations tended to respond quickly to corticosteroid therapy and sometimes did not recur when sotorasib was restarted several months later. These findings suggest that the aminotransferase elevations during sotorasib therapy are due to a delayed immune-mediated hepatotoxicity triggered by the previous checkpoint inhibitor therapy.</p>
+          <p>Likelihood score: D (possible but infrequent cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Sotorasib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from sotorasib is unknown, but the pattern of abnormalities suggests immune-mediated liver injury. Several retrospective analyses have found that significant ALT and AST elevations arise most frequently in patients who had received checkpoint inhibitor therapy (usually anti-PD-L1) within 3 months of starting sotorasib. Furthermore, the histologic and clinical features of liver injury from sotorasib resemble that of checkpoint inhibitors and a limited course of corticosteroids is often found to be beneficial.</p>
+          <p>Sotorasib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity. Because of its known toxicity, drugs that inhibit CYP 3A4 activity should be avoided or the dose of sotorasib adjusted according.</p>
+        </sec>
+        <sec id="Sotorasib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for sotorasib recommends monitoring for routine liver tests before starting treatment, at 3 week intervals during the first 3 months of treatment and monthly thereafter as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal should lead to dose reduction or temporary cessation of sotorasib therapy and careful monitoring. If serum aminotransferase levels remain high, a limited course of corticosteroids may be appropriate, particularly if there is a history of prior check point inhibitor therapy or accompanying signs of hypersensitivity are present. Furthermore, restarting therapy in a reduced dose can be done with caution and continued monitoring. In patients with jaundice or symptoms of liver injury accompanying the serum aminotransferase elevations, sotorasib should be promptly discontinued. Cross sensitivity to liver injury is uncommon among the antineoplastic, small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of sotorasib with other antineoplastic small molecule inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Sotorasib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Sotorasib &#x02013; Lumakras&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Sotorasib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Sotorasib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Sotorasib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Sotorasib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Sotorasib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Sotorasib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Sotorasib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Sotorasib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Sotorasib</td>
+                <td headers="hd_h_Sotorasib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://433770839">2296729-00-3</ext-link>
+</td>
+                <td headers="hd_h_Sotorasib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C30-H30-F2-N6-O3</td>
+                <td headers="hd_h_Sotorasib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="433770839" document-id-type="sid" document-type="summary" object-id="433770839" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Sotorasib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 September 2023</p>
+        <p>Abbreviations: KRAS, Kirsten rat sarcoma viral oncogene homolog; NSCLC, non-small cell lung cancer.</p>
+        <ref-list id="Sotorasib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Sotorasib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p>(Review of hepatotoxicity published in 1999 before the availability of small molecule enzyme and receptor inhibitors).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p>(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss sotorasib).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p>(Textbook of pharmacology and therapeutics).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214665Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214665Orig1s000MultidisciplineR.pdf</ext-link><annotation><p>(FDA website with initial multidiscipline clinical review of the safety and efficacy of sotorasib; states that the overall objective response rate was 36% and virtually all patients treated [n=204] had at least one adverse event and 50% had a serious adverse event, 38% of patients had an ALT elevation, 6% were above 5 times ULN, and there were many instances of hepatotoxicity [25%], which led to the early discontinuation in 5% but there were cases of acute liver injury with jaundice or hepatic failure and no fatalities due to liver injury).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.hong.2020.1207">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hong</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Fakih</surname>
+<given-names>MG</given-names></string-name>, <string-name name-style="western"><surname>Strickler</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Desai</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Durm</surname>
+<given-names>GA</given-names></string-name>, <string-name name-style="western"><surname>Shapiro</surname>
+<given-names>GI</given-names></string-name>, <string-name name-style="western"><surname>Falchook</surname>
+<given-names>GS</given-names></string-name>, <etal>et al.</etal>
+<article-title>KRAS<sup>G12C</sup> inhibition with sotorasib in advanced solid tumors.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>(<issue>13</issue>):<fpage>1207</fpage>-<lpage>1217</lpage>.<annotation><p>(Among 129 patients with refractory solid tumors harboring KRAS p.G12C mutations treated with escalating doses of sotorasib followed by a maintenance dose of 960 mg daily, the objective response rate was 32% in those with NSCLC, but was 7% in colorectal cancer and less than 15% in pancreatic and other cancers, while adverse events arose in 97% patients and were serious in 45% with ALT elevations in 12%, which were above 5 times ULN in 5% leading to discontinuation in only 1 patient).</p></annotation><pub-id pub-id-type="pmid">32955176</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.skoulidis.2021.2371">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Skoulidis</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>BT</given-names></string-name>, <string-name name-style="western"><surname>Dy</surname>
+<given-names>GK</given-names></string-name>, <string-name name-style="western"><surname>Price</surname>
+<given-names>TJ</given-names></string-name>, <string-name name-style="western"><surname>Falchook</surname>
+<given-names>GS</given-names></string-name>, <string-name name-style="western"><surname>Wolf</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Italiano</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sotorasib for lung cancers with <italic toggle="yes">KRAS</italic> p.G12C mutation.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>2371</fpage>-<lpage>2381</lpage>.<annotation><p>(Among 126 adults with refractory advanced or metastatic NSCLC with KRAS G12C mutations treated with sotorasib [960 mg daily], the objective response rate was 37% and adverse events were common [99%], which included treatment related ALT elevations in 21% that were above 5 times ULN in 6%).</p></annotation><pub-id pub-id-type="pmid">34096690</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.begum.2021.100213">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Begum</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Goldin</surname>
+<given-names>RD</given-names></string-name>, <string-name name-style="western"><surname>Possamai</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Popat</surname>
+<given-names>S</given-names></string-name>. <article-title>Severe immune checkpoint inhibitor hepatitis in <italic toggle="yes">KRAS</italic> G12C-mutant NSCLC potentially triggered by sotorasib: case report.</article-title>
+<source>JTO Clin Res Rep.</source>
+<year>2021</year>;<volume>2</volume>:<elocation-id>100213</elocation-id>.<annotation><p>(62 year old man with NSCLC and KRAS G12C mutation had received a single cycle of pembrolizumab and pemetrexed with further progression, was started on sotorasib [960 mg daily], and 2 weeks later developed marked elevations in ALT [initially 950 rising to 1722 UL], Alk P [initially 580 rising to 1326 U/L], and bilirubin [initially normal rising to 12 mg/dL], liver biopsy showing hepatitis with marked portal and lobular inflammation and bile duct damage, which responded slowly to corticosteroid therapy and ultimately resolved except for persistent mild-to-moderate Alk P elevations).</p></annotation><pub-id pub-id-type="pmid">34590053</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.mccoach.2022.768">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>McCoach</surname>
+<given-names>CE</given-names></string-name>, <string-name name-style="western"><surname>Rolfo</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Drilon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lacouture</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Besse</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Goto</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>VW</given-names></string-name>, <etal>et al.</etal>
+<article-title>Hypersensitivity reactions to selpercatinib treatment with or without prior immune checkpoint inhibitor therapy in patients with NSCLC in LIBRETTO-001.</article-title>
+<source>J Thorac Oncol.</source>
+<year>2022</year>;<volume>17</volume>:<fpage>768</fpage>-<lpage>778</lpage>.<annotation><p>(Among 326 adults with NSCLC treated with selpercatinib, 22 [7%] developed a hypersensitivity reaction, generally within 1-3 weeks of starting therapy and responding rapidly to corticosteroid therapy, reactions arising in 17 of 152 patients [11%] who had previously received check point inhibitor therapy compared to 5 of 177 patients [3%] who had not).</p></annotation><pub-id pub-id-type="pmid">35183775</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.kinahan.2022.812">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kinahan</surname>
+<given-names>H.</given-names></string-name>
+<article-title>A rare event of liver dysfunction on sotorasib and management strategy.</article-title>
+<source>J Adv Pract Oncol.</source>
+<year>2022</year>;<volume>13</volume>:<fpage>812</fpage>-<lpage>815</lpage>.<annotation><p>(A 76 year old man with refractory [to recent anti-PD-L1 therapy] metastatic lung cancer developed ALT elevations [541 U/L, bilirubin and Alk P not provided] after 9 weeks of oral sotorasib [960 mg daily], ALT returning to normal values within 4 weeks of stopping but rising again 3 weeks after restarting at full dose [ALT 937 U/L], again returning to normal with stopping and again rising with restarting at a lower dose, but after a tapering course of corticosteroids, he later was able to tolerate full doses with normal serum enzymes for more than a year).</p></annotation><pub-id pub-id-type="pmid">36727020</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.fakih.2022.115">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fakih</surname>
+<given-names>MG</given-names></string-name>, <string-name name-style="western"><surname>Kopetz</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kuboki</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>TW</given-names></string-name>, <string-name name-style="western"><surname>Munster</surname>
+<given-names>PN</given-names></string-name>, <string-name name-style="western"><surname>Krauss</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Falchook</surname>
+<given-names>GS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sotorasib for previously treated colorectal cancers with KRAS<sup>G12C</sup> mutation (CodeBreaK100): a prespecified analysis of a single-arm, phase 2 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2022</year>;<volume>23</volume>:<fpage>115</fpage>-<lpage>124</lpage>.<annotation><p>(Among 62 adults with KRAS G12C mutated refractory, advanced colorectal cancer treated with sotorasib [960 mg daily], the objective response rate was 9%, while treatment related adverse events occurred in 56% including ALT elevations in 4 patients [7%] which were above 5 times ULN in only 1 [2%]).</p></annotation><pub-id pub-id-type="pmid">34919824</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.chour.2023.1408">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chour</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Denis</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Mascaux</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Zysman</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bigay-Game</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Swalduz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gounant</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>
+<article-title>Brief report: severe sotorasib-related hepatotoxicity and non-liver adverse events associated with sequential anti-programmed cell&#x000a0;death (ligand)1 and sotorasib therapy in KRAS<sup>G12C</sup>-mutant lung cancer.</article-title>
+<source>J Thorac Oncol.</source>
+<year>2023</year>;<volume>18</volume>(<issue>10</issue>):<fpage>1408</fpage>-<lpage>1415</lpage>.<annotation><p>(Among 102 adults with refractory advanced NSCLC and KRAS G12C mutations treated with sotorasib in France outside of clinical trials, 48 who had received check point inhibitor therapy with anti-PD-L1 immediately before sotorasib, had higher rates of severe adverse events [50% vs 13%] and higher rates of ALT elevations above 5 times ULN [33% vs 11%], although no fatal instances of hepatotoxicity occurred).</p></annotation><pub-id pub-id-type="pmid">37217096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.de_langen.2023.733">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>de Langen</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Johnson</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Mazieres</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Dingemans</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Mountzios</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Pless</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wolf</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>; <article-title>CodeBreaK 200 Investigators. Sotorasib versus docetaxel for previously treated non-small-cell lung cancer with KRAS<sup>G12C</sup> mutation: a randomised, open-label, phase 3 trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>401</volume>(<issue>10378</issue>):<fpage>733</fpage>-<lpage>746</lpage>.<annotation><p>(Among 345 adults with refractory, advanced NSCLC with a KRAS G12C mutation who were treated with sotorasib or docetaxel for a median of 18 months, progression-free survival was greater with sotorasib [5.6 vs 4.5 months] and serious adverse event rates were lower [11% vs 23%], although ALT elevations were more frequent with sotorasib [10% overall and 5% above 5 times ULN] vs docetaxel [0% overall]).</p></annotation><pub-id pub-id-type="pmid">36764316</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.strickler.2023.33">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Strickler</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Satake</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>George</surname>
+<given-names>TJ</given-names></string-name>, <string-name name-style="western"><surname>Yaeger</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Hollebecque</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Garrido-Laguna</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Schuler</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sotorasib in <italic toggle="yes">KRAS</italic> p.G12C-mutated advanced pancreatic cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2023</year>;<volume>388</volume>:<fpage>33</fpage>-<lpage>43</lpage>.<annotation><p>(Among 38 adults with KRAS G12C-mutated, metastatic pancreatic cancer treated with sotorasib [960 mg daily] for a median of 18 weeks, the objective response rate was 21% and treatment related adverse events arose in 42%, while ALT elevations arose in only 1 patient [2%]).</p></annotation><pub-id pub-id-type="pmid">36546651</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.desai.2023.100743">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Desai</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Rakshit</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Bansal</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Ashara</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Potter</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Manochakian</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lou</surname>
+<given-names>Y</given-names></string-name>, <etal>et al.</etal>
+<article-title>Time from immune checkpoint inhibitor to sotorasib use correlates with risk of hepatotoxicity in non-small cell lung cancer: A brief report.</article-title>
+<source>Cancer Treat Res Commun.</source>
+<year>2023</year>;<volume>36</volume>:<elocation-id>100743</elocation-id>.<annotation><p>(Among 31 patients with advanced, refractory KRAS G12C-mutated NSCLC treated with sotorasib, 10 [32%] developed ALT elevations above 5 times ULN during therapy, all 10 had received previous checkpoint inhibitor therapy [usually anti-PD-L1] and rates of ALT elevations were higher in those receiving checkpoint inhibitors within 30 days [3 of 4: 75%], than 30-90 days [7 of 11: 65%], or greater than 90 days [none of 13: 0%], suggesting that sotorasib triggers a delayed immune-mediated hepatotoxicity from anti-PD-L1 therapy if given within 3 months of stopping).</p></annotation><pub-id pub-id-type="pmid">37531736</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sotorasib.REF.sotorasib_lumakras_for_nsclc.2023.e104">
+            <mixed-citation publication-type="journal"><collab>Sotorasib (Lumakras) for NSCLC</collab>. <source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e104</fpage>-<lpage>e105</lpage>.<annotation><p>(Concise review of the mechanism of action, clinical efficacy, safety and costs of sotorasib mentions that it can cause elevations in ALT, AST and Alk P as well as &#x0201c;hepatotoxicity&#x0201d; for which reason monitoring of liver tests is recommended).</p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Sotorasib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Sotorasib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Sotorasib: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Sotorasib">Trials on Sotorasib: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

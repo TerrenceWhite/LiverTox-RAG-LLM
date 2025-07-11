@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Antidiabetic" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Antidiabetic</book-part-id>
+      <title-group>
+        <title>Antidiabetic Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Antidepressants" document-type="chapter">Antidepressant Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntiemeticAgents" document-type="chapter">Antiemetic Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Antidiabetic.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Management and treatment of diabetes usually begins with advice on diet and exercise. Insulin is the therapeutic mainstay of therapy of type 1 diabetes, whereas agents that increase insulin secretion or activity are the primary approaches to therapy of type 2 diabetes. First line conventional therapies for type 2 diabetes include biguanides (metformin) and sulfonylureas. Metformin increases insulin sensitivity whereas the sulfonylureas increase insulin secretion. More recently developed agents include alpha glucosidase inhibitors, thiazolidinediones, metiglidine analogues and drugs that affect the incretin system. Alpha glucosidase inhibitors act in the gastrointestinal tract to decrease glucose absorption. The thiazolidinediones affect multiple intracellular metabolic pathways that increase insulin actions and improve insulin sensitivity. Metiglidines, like the sulfonylureas, increase insulin secretion. Finally, drugs that affect the incretin system include analogues of glucagon-like peptide-1 (GLP-1) that promote early insulin release from the pancreas and inhibitors of dipeptiyl peptidases 4 (DPP-4) that prolong the activity of GLP-1 in the serum. A relatively new category of antidiabetic agents are inhibitors of the sodium glucose cotransporter-2 (SGLT2), which is responsible for reabsorption of glucose in the kidney; inhibition of this transporter causes glucosuria and can reduce hyperglycemia in patients with diabetes. The first commercially available SGLT2 inhibitors (canagliflozin and dapagliflozin) were approved for use in the United States in 2013. Most antidiabetic agents have minimal adverse effects on the liver and have only rarely been linked to instances of clinically apparent acute liver injury.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="AlphaGlucosidaseInhi" document-type="chapter">Alpha-Glucosidase Inhibitors</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Acarbose" document-type="chapter">Acarbose</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Miglitol" document-type="chapter">Miglitol</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="IncretinBasedDrugs" document-type="chapter">Incretin-Based Drugs</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="DPP4-inhibitors" document-type="chapter">Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</related-object>
+</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Alogliptin" document-type="chapter">Alogliptin</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Linagliptin" document-type="chapter">Linagliptin</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Saxagliptin" document-type="chapter">Saxagliptin</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Sitagliptin" document-type="chapter">Sitagliptin</related-object>
+</p>
+                  </list-item>
+                </list>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="GLP-1Analogues" document-type="chapter">Glucagon-Like Peptide-1 (GLP-1) Analogues</related-object>
+</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Albiglutide" document-type="chapter">Albiglutide</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Dulaglutide" document-type="chapter">Dulaglutide</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Exenatide" document-type="chapter">Exenatide</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Liraglutide" document-type="chapter">Liraglutide</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Lixisenatide" document-type="chapter">Lixisenatide</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Semaglutide" document-type="chapter">Semaglutide</related-object>
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Tirzepatide" document-type="chapter">Tirzepatide</related-object>
+</p>
+                  </list-item>
+                </list>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Insulin" document-type="chapter">Insulin</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Metformin" document-type="chapter">Metformin</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="MetiglinideAnalogues" document-type="chapter">Metiglinide Analogues</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Nateglinide" document-type="chapter">Nateglinide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Nateglinide" document-type="chapter">Repaglinide</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Pramlintide" document-type="chapter">Pramlintide</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Sodium Glucose Cotransporter-2 (SGLT2) Inhibitors</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Bexagliflozin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Canagliflozin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Dapagliflozin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Empagliflozin</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Ertugliflozin</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Sulfonylureas" document-type="chapter">Sulfonylureas</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="FstGenSulfonylureas" document-type="chapter">First Generation Sulfonylureas</related-object>
+</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>Acetohexamide</p>
+                  </list-item>
+                  <list-item>
+                    <p>Chlorpropamide</p>
+                  </list-item>
+                  <list-item>
+                    <p>Tolazamide</p>
+                  </list-item>
+                  <list-item>
+                    <p>Tolbutamide</p>
+                  </list-item>
+                </list>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="SndGenSulfonylureas" document-type="chapter">Second Generation Sulfonylureas</related-object>
+</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>Gliclazide</p>
+                  </list-item>
+                  <list-item>
+                    <p>Glimepiride</p>
+                  </list-item>
+                  <list-item>
+                    <p>Glipizide</p>
+                  </list-item>
+                  <list-item>
+                    <p>Glyburide (Glibenclamide)</p>
+                  </list-item>
+                </list>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Thiazolidinediones" document-type="chapter">Thiazolidinediones</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Pioglitazone" document-type="chapter">Pioglitazone</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Rosiglitazone" document-type="chapter">Rosiglitazone</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Troglitazone" document-type="chapter">Troglitazone</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Miscellaneous</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Teplizumab" document-type="chapter">Teplizumab</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+        <p>Updated: February 22, 2023</p>
+      </sec>
+      <sec id="Antidiabetic.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p content-type="pubmed-excerpt">References updated: 06 June 2017</p>
+        <ref-list id="Antidiabetic.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Antidiabetic.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oral hypoglycemic agents and other diabetes therapy. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 575-9.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999, discusses hepatotoxicity of sulfonylureas, thiazolidinediones, acarbose and metformin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Antidiabetic.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Alpha-glucosidase inhibitors. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 529-30.<annotation><p><italic toggle="yes">(Recent review of hepatotoxicity of drugs for diabetes).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Antidiabetic.REF.powers.2011">
+            <mixed-citation publication-type="book">Powers AC, D'Alessio D. Therapy of diabetes. Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1248-67.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Antidiabetic.REF.davis.2006">
+            <mixed-citation publication-type="book">Davis SN. Insulin, oral hypoglycemic agents, and the pharmacology of the endocrine pancreas. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 1613-88.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Antidiabetic.REF5">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for type 2 diabetes.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <issue>139</issue>
+              <fpage>17</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of current therapy of type 2 diabetes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24566424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Antidiabetic.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury in the US collected between 2004 and 2012, 4 cases were attributed to drugs used for diabetes [metformin, glyburide, sitagliptin], but no cases were attributed to acarbose or a thiazolidinedione).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Antidiabetic.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for type 2 diabetes.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1512</issue>
+              <fpage>9</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of the mechanisms of action, efficacy, safety and costs of currently available drugs for type 2 diabetes; mentions that serum enzyme elevations can occur with acarabose therapy and that hepatitis and liver failure have been described with thiazolidinedione and DDP-4 inhibitor therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28076339</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

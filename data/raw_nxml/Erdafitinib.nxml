@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Erdafitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Erdafitinib</book-part-id>
+      <title-group>
+        <title>Erdafitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Eravacycline" document-type="chapter">Eravacycline</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Erenumab" document-type="chapter">Erenumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Erdafitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Erdafitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Erdafitinib is an oral small molecule inhibitor of fibroblast growth factor (FGF) receptors 1 to 4 that is used in the therapy of locally advanced, unresectable or metastatic urothelial carcinoma. Erdafitinib has been associated with a high rate of serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Erdafitinib.Background">
+          <title>Background</title>
+          <p>Erdafitinib (er&#x0201d; da fi&#x02019; ti nib) is an orally available, small molecule inhibitor of fibroblast growth factor (FGF) receptors 1-4 which is used to treat advanced, unresectable or metastatic urothelial carcinoma. Fibroblast growth factors include 22 related ligands that act on cells via more than 20 different FGF receptors which act on multiple pathways that include stimulation of cell growth, proliferation and differentiation. Mutations in FGF receptors can cause overexpression and constitutive activation of components of these pathways leading to unregulated cell proliferation. FGF receptor mutations or rearrangements occur in 5% to 10% of cancers and are particularly common in urothelial cancer and cholangiocarcinoma (10% to 30%). Inhibition of the excessive FGF receptor 1-4 activity decreases cell proliferation and growth and causes regression of tumors expressing these mutations in experimental animals. Erdafitinib is a pan-FGF receptor inhibitor and has been shown to lead to objective responses in approximately 40% of patients with advanced urothelial cancer that have FGF receptor activating mutations. Erdafitinib was approved for use in 2019 in the United States as therapy for patients with locally advanced, unresectable or metastatic urothelial carcinoma that harbor FGF receptor 3 or 2 mutations. Erdafitinib is currently being evaluated in several other cancers with FGF receptor mutations including cholangiocarcinoma, hepatocellular carcinoma, non-small cell lung cancer, esophageal carcinoma, prostate cancer, and lymphomas. Erdafitinib is available in tablets of 3, 4, and 5 mg under the brand name Balversa. The recommended dose is 8 mg once daily which can be increased to 9 mg daily. Side effects arise in almost all patients treated with erdafitinib and can include hyperphosphatemia, stomatitis, diarrhea, dry mouth, decreased appetite, dysgeusia, dry skin, alopecia, constipation, anemia, thrombocytopenia, elevations in serum creatinine, amylase, lipase, alkaline phosphatase, and aminotransferases. Uncommon, but potentially serious side effects include retinal detachment, cataracts, severe hyperphosphatemia, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Erdafitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of erdafitinib in patients with urothelial carcinoma, liver test abnormalities were frequent although usually mild. Some degree of ALT elevation arose in up to 41% of erdafitinib treated patients, but were above 5 times the upper limit of normal in only 1% to 2%. In these trials that enrolled approximately 400 patients, there were no reports of serious or clinically apparent liver injury, or liver related deaths. Since the approval and more wide spread use of erdafitinib there have been no reports of liver injury attributed to its use. Nevertheless, the high rate of serum aminotransferase elevations during therapy suggests that rare instances of clinically apparent liver injury might occur.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Erdafitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury from erdafitinib is unknown, but a pattern of abnormalities suggests some degree of low level, direct hepatotoxicity. Some of the adverse effects of erdafitinib are due to its effects on FGF signaling (hyperphosphatemia) and others may be due to off-target effects on other kinases. Erdafitinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 (and by CYP 2C9 to a lesser extent) and is susceptible to drug-drug interactions with agents that inhibit or induce CYP 3A enzyme reactivity.</p>
+        </sec>
+        <sec id="Erdafitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Erdafitinib is associated with a moderate rate of serum aminotransferase elevations that are generally transient and not associated with symptoms or jaundice. While regular monitoring of liver tests is not specifically recommended during erdafitinib therapy, elevations if confirmed should lead to more careful follow up monitoring. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation until the abnormalities resolve or an alternative cause is identified. There is no evidence to suggest a cross reactivity in risk for adverse events, hypersensitivity or hepatic injury between erdafitinib and other protein kinases including the FGF receptor kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other FGF Receptor Kinase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Futibatinib" document-type="chapter">Futibatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Infigratinib" document-type="chapter">Infigratinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pemigatinib" document-type="chapter">Pemigatinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Erdafitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Erdafitinib &#x02013; Balversa&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Erdafitinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Erdafitinib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Erdafitinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Erdafitinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Erdafitinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Erdafitinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Erdafitinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Erdafitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Erdafitinib</td>
+                <td headers="hd_h_Erdafitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252300206">1346242-81-6</ext-link>
+</td>
+                <td headers="hd_h_Erdafitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C25-H30-N6-O2</td>
+                <td headers="hd_h_Erdafitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="252300206" document-id-type="sid" document-type="summary" object-id="252300206" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Erdafitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 December 2022</p>
+        <p>Abbreviations: FGF, fibroblast growth factor.</p>
+        <ref-list id="Erdafitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Erdafitinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss erdafitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212018Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212018Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial clinical review of the safety and efficacy of erdafitinib; states that virtually all patients had at least one adverse event and that serious adverse events arose in 67 of 164 patients [41%],most commonly hyperphosphatemia [82%], stomatitis [56%], creatinine elevations [49%], dry mouth [46%], alkaline phosphatase elevations [44%], diarrhea [42%), and ALT elevations [42%, which were above 5 times ULN in 2%], but there were no instances of aminotransferase elevations with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.arai.2014.1427">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Arai</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Totoki</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Hosoda</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Shirota</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hama</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Nakamura</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ojima</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fibroblast growth factor receptor tyrosine kinase fusions define a unique molecular subtype of cholangiocarcinoma.</article-title>
+              <source>Hepatology.</source>
+              <year>2014</year>
+              <volume>59</volume>
+              <fpage>1427</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Whole transcriptome sequencing from 8 cholangiocarcinomas identified two FGF receptor fusion genes and screening of different human cancer tissues found FGF receptor fusions in 9 of 102 cholangiocarcinomas [all intrahepatic] but only 1 of 149 colorectal, 1 of 96 hepatocellular, and none of 212 gastric cancers; expression of the fusion kinases in cell cultures led to anchorage independent growth and tumorigenesis when implanted in mice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24122810</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.karkera.2017.1717">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Karkera</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Cardona</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Bell</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Gaffney</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Portale</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Santiago-Walker</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Moy</surname><given-names>CH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Oncogenic characterization and pharmacologic Sensitivity of activating fibroblast growth factor receptor (FGFR) genetic alterations to the selective FGFR inhibitor erdafitinib.</article-title>
+              <source>Mol Cancer Ther.</source>
+              <year>2017</year>
+              <volume>16</volume>
+              <fpage>1717</fpage>
+              <lpage>1726</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of cancer cell lines and tumor tissue from patients found that gene alterations in FGF receptors [translocations, gene amplification, point mutations] were associated with increased pathway activation and with responsivity to erdafitinib inhibition, suggesting that the FGF pathway would be a potential target for inhibition).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28416604</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.markham.2019.1017">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Erdafitinib: first global approval.</article-title>
+              <source>Drugs.</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1017</fpage>
+              <lpage>1021</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of erdafitinib shortly after its approval for use in the US as therapy of urothelial carcinoma with FGF receptor 2 or 3 mutations that adverse events occur in most patients and severe events arise in 41% of patients and account for discontinuation in 13% and drug interruptions in 68% of recipients; mentions but does not specifically discussion ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31161538</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.loriot.2019.338">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Loriot</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Necchi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Garcia-Donas</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Huddart</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Burgess</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Fleming</surname><given-names>M</given-names></name>
+<etal/>
+<collab>BLC2001 Study Group</collab>
+</person-group>
+              <article-title>Erdafitinib in locally advanced or metastatic urothelial carcinoma.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2019</year>
+              <volume>381</volume>
+              <fpage>338</fpage>
+              <lpage>348</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 99 patients with advanced or metastatic urothelial carcinoma enrolled in an open label trial of erdafitinib [8 mg daily], the confirmed response rate was 40% [complete 3%], and the progression free survival 6.5 months, while adverse events occurred in all patients and included hyperphosphatemia [77%], stomatitis [58%], diarrhea [51%], dry mouth [46%], decreased appetite [37%], dry skin [32%], alopecia [29%], constipation [28%], asthenia [20%], ALT elevations [17%, 2% above 5 times ULN], but there was no clinically apparent liver injury with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31340094</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.schlotman.2020.304">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schlotman</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Stater</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Schuler</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Heideman</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Abramson</surname><given-names>V.</given-names></name>
+</person-group>
+              <article-title>Grade 3 hepatotoxicity following fulvestrant, palbociclib, and erdafitinib therapy in a patient with ER-positive/PR-negative/HER2-negative metastatic breast cancer: a case report.</article-title>
+              <source>Case Rep Oncol.</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <fpage>304</fpage>
+              <lpage>308</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman with breast cancer developed fatigue after 2 days of combination chemotherapy with erdafitinib, palbociclib and fulvestrant followed by diarrhea and abdominal pain, and laboratory tests at week one showed [ALT 522 U/L, Alk P 281 U/L, bilirubin 0.9 mg/dL] that rapidly fell to normal upon stopping all 3 agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32308596</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Erdafitinib.REF.krook.2021.880">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Krook</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Reeser</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Ernst</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Barker</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wilberding</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>HZ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fibroblast growth factor receptors in cancer: genetic alterations, diagnostics, therapeutic targets and mechanisms of resistance.</article-title>
+              <source>Br J Cancer.</source>
+              <year>2021</year>
+              <volume>124</volume>
+              <fpage>880</fpage>
+              <lpage>892</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the FGF receptors and their gene alterations in cancers including translocations, rearrangements, fusions, increase in copy numbers, and point mutations which are found in 5-10% of cancers, most frequently in urothelial cancers and cholangiocarcinoma [10-30%]; targeted therapy using inhibitors of FGF receptors has been limited by the development of resistance in many patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33268819</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Erdafitinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Erdafitinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Erdafitinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Erdafitinib">Trials on Erdafitinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

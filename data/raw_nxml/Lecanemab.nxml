@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lecanemab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lecanemab</book-part-id>
+      <title-group>
+        <title>Lecanemab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lazertinib" document-type="chapter">Lazertinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Lefamulin" document-type="chapter">Lefamulin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lecanemab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lecanemab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lecanemab is a human monoclonal antibody to amyloid beta which has been approved for use in Alzheimer disease. Lecanemab has not been associated with serum enzyme elevations during therapy and or linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Lecanemab.Background">
+          <title>Background</title>
+          <p>Lecanemab (lek an&#x02019; e mab) is a human monoclonal IgG1 antibody directed against aggregated forms of amyloid beta (&#x003b2;), which was developed as a potential therapy for Alzheimer disease, based upon the theory that the dementia and neurological decline in Alzheimer disease are caused by accumulation of amyloid &#x003b2; oligomers and fibrils in the frontal lobes of the brain. Studies in animal models and in humans demonstrated that the monoclonal antibody causes a decrease in amyloid &#x003b2; accumulation as shown by advanced imaging techniques. In a large, randomized controlled trial, lecanemab therapy was found to decrease the rate of cognitive decline in adults with early Alzheimer disease. Therapy did not reverse or stop cognitive impairment, and the long term, clinical benefit of the amount of benefit found in the trials of lecanemab remains uncertain. Lecanemab was given approval for use in early Alzheimer disease in 2023. It is available in single dose vials of 200 mg in 2 mL and 500 mg in 5 mL (both 100 mg/mL) under the brand name Leqembi. The recommended dose is 10 mg per kilogram body weight given intravenously (over approximately 1 hour) once every 2 weeks with regularly scheduled evaluations for efficacy and safety. Common side effects include infusion reactions, headache, falls, and amyloid related imaging abnormalities (ARIA) in the brain. Uncommon, potentially severe adverse reactions include hypersensitivity reactions and severe ARIA with edema, effusions or microhemorrhage.</p>
+        </sec>
+        <sec id="Lecanemab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations were infrequent (less than 1%) in patients receiving lecanemab in the large controlled trials in Alzheimer disease, and they occurred in a similar rate in placebo recipients. The serum ALT and AST elevations were generally mild-to-moderate in severity, transient and asymptomatic. In the preregistration trials there were no instances of clinically apparent liver injury or severe hepatic adverse events attributed to lecanemab. Clinical use outside of randomized controlled trials has been limited so far.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Lecanemab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible mechanisms by which lecanemab might cause liver injury are unclear. Monoclonal antibodies and immunoglobulins are generally taken up and metabolized intracellularly to short peptides and amino acids. There is no evidence to suggest that inhibition of amyloid &#x003b2; accumulation or increase in its clearance would trigger liver injury or autoimmune liver conditions.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="AlzheimersDrugs" document-type="chapter">Alzheimer Disease Agents</related-object></p>
+          <p>Other Alzheimer Monoclonal Antibodies: <related-object link-type="booklink" source-id="livertox" document-id="Aducanumab" document-type="chapter">Aducanumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lecanemab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Lecanemab &#x02013; Leqembi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Alzheimer Disease Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Lecanemab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Lecanemab.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lecanemab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Lecanemab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lecanemab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Lecanemab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lecanemab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lecanemab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lecanemab</td>
+                <td headers="hd_h_Lecanemab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381126790">1260393-98-3</ext-link>
+</td>
+                <td headers="hd_h_Lecanemab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Lecanemab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lecanemab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 February 2023</p>
+        <p>Abbreviations: ARIA-E, amyloid related imaging abnormalities with edema, effusions or microhemorrhage.</p>
+        <ref-list id="Lecanemab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lecanemab.REF.roberson.2018">
+            <mixed-citation publication-type="book">Roberson ED. Alzheimer Disease. Treatment of central nervous system degenerative disorders. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 333-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lecanemab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761269Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761269Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(Multidisciplinary FDA review of lecanemab in support of its approval for use in Alzheimer disease in the US with discussion of safety mentions that the laboratory findings from the prelicensure studies did not reveal a &#x0201c;safety signal for hepatic related events&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lecanemab.REF.selkoe.2016.595">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Selkoe</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Hardy</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>The amyloid hypothesis of Alzheimer's disease at 25&#x000a0;years.</article-title>
+              <source>EMBO Mol Med</source>
+              <year>2016</year>
+              <volume>8</volume>
+              <fpage>595</fpage>
+              <lpage>608</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the role of amyloid-&#x003b2; in the etiology of Alzheimer disease supported by findings that the dominant mutations in amyloid precursor protein [APP] or the protease that metabolizes presenilin and generates amyloid-&#x003b2; are associated with early onset dementia, suggesting that imbalance of generation and clearance of amyloid-&#x003b2; is the early and perhaps initiating factor in Alzheimer disease and that monoclonal antibody therapy by increasing clearance might help correct the dyshomeostasis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27025652</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lecanemab.REF.sevigny.2016.50">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sevigny</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chiao</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bussi&#x000e8;re</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Weinreb</surname><given-names>PH</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Maier</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dunstan</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The antibody aducanumab reduces A&#x003b2; plaques in Alzheimer's disease.</article-title>
+              <source>Nature</source>
+              <year>2016</year>
+              <volume>537</volume>
+              <fpage>50</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 165 patients with early Alzheimer disease treated with 1 of 4 doses of aducanumab [1, 3, 6, or 10 mg/kg] or placebo monthly for one year, those treated with the higher doses showed evidence of decrease in brain amyloid-&#x003b2; accumulation and a trend for clinical improvement, but also higher rates of vasogenic edema [37% to 40%] compared with placebo [5%]; ALT elevations arose in 4 of 125 [3.2%] on aducanumab vs none of 40 on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27582220</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lecanemab.REF.logovinsky.2016.14">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Logovinsky</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Satlin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Swanson</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kaplow</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Osswald</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Basun</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and tolerability of BAN2401--a clinical study in Alzheimer's disease with a protofibril selective A&#x003b2; antibody.</article-title>
+              <source>Alzheimers Res Ther.</source>
+              <year>2016</year>
+              <volume>8</volume>
+              <fpage>14</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 60 patients with mild or moderate Alzheimer disease treated with one of 4 different doses of lecanemab or placebo for 12 months, treatment emergent adverse events were mild or moderate and similar to placebo with no symptomatic episodes of ARIA and the incidence of &#x0201c;out-of-range values in&#x02026;clinical chemistry&#x02026;parameters was comparable between different doses &#x02026;and placebo&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27048170</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lecanemab.REF.swanson.2021.80">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Swanson</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Dhadda</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kaplow</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>RYK</given-names></name>
+<name name-style="western"><surname>Lannfelt</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized, double-blind, phase 2b proof-of-concept clinical trial in early Alzheimer's disease with lecanemab, an anti-A&#x003b2; protofibril antibody.</article-title>
+              <source>Alzheimers Res Ther.</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <fpage>80</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 854 adults with early Alzheimer disease treated with one of 5 dose regimens of lecanemab or placebo for 18 months, a dose of 10 mg/kg given intravenously every 2 weeks yielded the optimal results in decreasing the decline in cognitive impairment and in decreasing amyloid beta burden with only mild-to-moderate adverse events including infusion related reactions in 20% [vs 3% with placebo], ARIA-E in 10% [vs 0.8% with placebo] and with &#x0201c;no relative changes between lecanemab and placebo in labs&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33865446</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lecanemab.REF7">
+            <element-citation publication-type="journal">
+              <article-title>The Lancet. Lecanemab for Alzheimer's disease: tempering hype and hope.</article-title>
+              <source>Lancet.</source>
+              <year>2022</year>
+              <volume>400</volume>
+              <issue>10367</issue>
+              <fpage>1899</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial on the status of lecanemab therapy for Alzheimer disease stresses the promise of the evolving studies, but that the difference of 0.45 point [of a total of 18 points] in the progression of cognitive decline between lecanemab and placebo therapy is of unclear clinical significance and long term studies will be needed to establish the its role in management of Alzheimer disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36463893</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lecanemab.REF.van_dyck.2023.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Dyck</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Swanson</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Aisen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bateman</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gee</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kanekiyo</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Lecanemab in early Alzheimer's disease.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2023</year>
+              <volume>388</volume>
+              <fpage>9</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1795 adults with early Alzheimer disease treated with lecanemab or placebo intravenously every two weeks for 18 months, there was less progression of cognitive decline and greater reduction in brain amyloid burden with lecanemab therapy, which was associated with a slightly higher total [89% vs 82%] and serious adverse events [14% vs 11%], most commonly infusion related reactions [26% vs 7%], ARIA-E [12.6% vs 1.7%], headache [11% vs 8%] and falls 10.4% vs 8.1%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36449413</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Lecanemab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Lecanemab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Lecanemab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Lecanemab">Trials on Lecanemab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

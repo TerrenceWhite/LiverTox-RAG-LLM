@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Degarelix" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Degarelix</book-part-id>
+      <title-group>
+        <title>Degarelix</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Defibrotide" document-type="chapter">Defibrotide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Delafloxacin" document-type="chapter">Delafloxacin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Degarelix.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Degarelix.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Degarelix is a parenterally administered, gonadotropin releasing hormone (GnRH) antagonist that effectively blocks androgen production and is used to treat advanced prostate cancer. Degarelix therapy is associated with serum enzyme elevations during therapy, but has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Degarelix.Background">
+          <title>Background</title>
+          <p>Degarelix (deg" a rel' ix) is a synthetic decapeptide antagonist of gonadotropin releasing hormone (GnRH) that blocks GnRH stimulation of luteinizing hormone (LH) and follicular stimulating hormone (FSH) production by the pituitary gland, thereby decreasing the synthesis of testosterone by the testes in men and estrogen by the ovaries in women. Degarelix has been found to be palliative in advanced prostate cancer with equivalent efficacy to the GnRH agonists, such as leuprolide and goserelin. Because degarelix is an antagonist of GnRH, it does not cause the initial increase in testosterone synthesis that occurs with use of GnRH agonists. Degarelix was approved for use in the United States in 2008, and current indications are limited to therapy of advanced prostate cancer. GnRH analogues have also been used off label for precocious puberty, infertility, and as a part of gender affirming therapy. Degarelix is available under the brand name Firmagon as a powder for reconstitution in 80 and 120 mg vials. The typical dose is 240 mg initially, with maintenance doses of 80 mg every 28 days. Common side effects include injection site reactions and symptoms typical of hypogonadism such as hot flashes, decreased libido, erectile dysfunction, nausea, diarrhea, weight gain and fluid retention. Potential severe adverse reactions include acute hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Degarelix.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Degarelix therapy has been associated with serum enzyme elevations in up to one-third of patients. The elevations, however, are generally mild and self-limited, resolving even without dose adjustment. ALT values above 3 times the ULN occur in less than 1% of patients. Occasional patients require drug discontinuation because of serum enzyme elevations, but no instances of liver injury with jaundice or clinically apparent acute liver injury were reported in the initial clinical trials of degarelix. Since its approval and more widescale use, there have been no published reports of clinically apparent liver injury attributed to degarelix, although its general use has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Degarelix.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which degarelix might cause liver injury is unknown. It is a decapeptide and is metabolized by many tissues to individual amino acids. It has no effect on cytochrome P450 activity and has not been implicated in drug-drug interactions.</p>
+        </sec>
+        <sec id="Degarelix.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While serum aminotransferase elevations during degarelix therapy are common, they rarely require dose adjustment or drug discontinuation. Routine monitoring of liver tests is not recommended except in patients with known, preexisting liver disease. There is no evidence of cross sensitivity to liver injury among the various GnRH analogues.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GnRHAnalogues" document-type="chapter">GnRH Analogues</related-object></p>
+          <p>Other Drugs in the Subclass, GnRH Analogues: <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Goserelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Leuprolide" document-type="chapter">Leuprolide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Relugolix" document-type="chapter">Relugolix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Triptorelin" document-type="chapter">Triptorelin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Degarelix.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Degarelix &#x02013; Firmagon&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Degarelix">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Degarelix.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Degarelix.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Degarelix.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Degarelix.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Degarelix.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Degarelix.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Degarelix.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Degarelix</td>
+                <td headers="hd_h_Degarelix.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135207228">214766-78-6</ext-link>
+</td>
+                <td headers="hd_h_Degarelix.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C82-H103-Cl-N18-O16</td>
+                <td headers="hd_h_Degarelix.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135207228" document-id-type="sid" document-type="summary" object-id="135207228" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Degarelix.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 May 2023</p>
+        <p>Abbreviations: FSH, follicle stimulating hormone; GnRH, gonadotropin releasing hormone; LH, luteinizing hormone; PSA, prostate specific antigen.</p>
+        <ref-list id="Degarelix.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Degarelix.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the GnRH analogues such as degarelix are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Degarelix.REF.chitturi.2013">
+            <mixed-citation publication-type="book">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hormonal products, does not discuss the GnRH analogues such as leuprolide, goserelin and degarelix).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Degarelix.REF.levin.2018">
+            <mixed-citation publication-type="book">Levin ER, Vitek WS, Hammes SR. Estrogens, progestins, and the female reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 803-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Degarelix.REF.snyder.2018">
+            <mixed-citation publication-type="book">Snyder PJ. Androgens and the male reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 833-43.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Degarelix.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-47.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Degarelix.REF.van_poppel.2008.805">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Van Poppel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Tombal</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>de la Rosette</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+<name name-style="western"><surname>Jensen</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Kold Olesen</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Degarelix: a novel gonadotropin-releasing hormone (GnRH) receptor blocker--results from a 1-yr, multicentre, randomised, phase 2 dosage-finding study in the treatment of prostate cancer.</article-title>
+              <source>Eur Urol</source>
+              <year>2008</year>
+              <volume>54</volume>
+              <fpage>805</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 187 men with advanced prostate cancer treated with degarelix at different initial [200 or 240 mg] and maintenance [80, 120 or 160 mg monthly] doses for one year, testosterone and PSA levels fell rapidly without an initial surge and remained suppressed; ALT levels were above 3 times ULN in 10 patients [5%] but were transient and resolved despite continuing drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18538469</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.whelan.2008.815">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Whelan</surname><given-names>P.</given-names></name>
+</person-group>
+              <article-title>Editorial comment on: Degarelix: a novel gonadotropin-releasing hormone (GnRH) receptor blocker-results from a 1-yr, multicentre, randomised, phase 2 dose-finding study in the treatment of prostate cancer.</article-title>
+              <source>Eur Urol</source>
+              <year>2008</year>
+              <volume>54</volume>
+              <fpage>815</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Van Poppel [2008], questioning whether degarelix is more effective and as safe as surgical castration or GnRH agonist therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18538468</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.gittelman.2008.1986">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gittelman</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pommerville</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+<name name-style="western"><surname>Jensen</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Olesen</surname><given-names>TK</given-names></name>
+<collab>Degarelix Study Group</collab>
+</person-group>
+              <article-title>A 1-year, open label, randomized phase II dose finding study of degarelix for the treatment of prostate cancer in North America.</article-title>
+              <source>J Urol</source>
+              <year>2008</year>
+              <volume>180</volume>
+              <fpage>1986</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 127 patients with advanced prostate cancer treated with degarelix for 1 year, testosterone levels were rapidly suppressed without an initial surge; ALT elevations occurred in 16% and 33% of subjects, but all elevations were less than 3 times ULN and resolved without dose adjustment or discontinuation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18801505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.klotz.2008.1531">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Klotz</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Boccon-Gibod</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Andreou</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+<name name-style="western"><surname>Cantor</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jensen</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Olesen</surname><given-names>TK</given-names></name>
+<name name-style="western"><surname>Schr&#x000f6;</surname><given-names>FH</given-names></name>
+</person-group>
+              <article-title>The efficacy and safety of degarelix: a 12-month, comparative, randomized, open-label, parallel-group phase III study in patients with prostate cancer.</article-title>
+              <source>BJU Int</source>
+              <year>2008</year>
+              <volume>102</volume>
+              <fpage>1531</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 610 patients with advanced prostate cancer treated with degarelix or leuprolide, common adverse events included injection site reactions [40% vs &#x0003c;1%], hot flashes [26% vs 21%], weight gain [10% vs 12%], and ALT elevations [9% vs 5%]; one patient on degarelix stopped therapy because of liver test abnormalities, but there were no instances of clinically apparent liver injury or liver injury with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19035858</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.frampton.2009.1967">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Frampton</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Lyseng-Williamson</surname><given-names>KA</given-names></name>
+</person-group>
+              <article-title>Degarelix.</article-title>
+              <source>Drugs</source>
+              <year>2009</year>
+              <volume>69</volume>
+              <fpage>1967</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the structure, mechanism of action, pharmacology, clinical efficacy and safety of degarelix mentions that it is "generally well tolerated", with adverse events largely due to subcutaneous injections and androgen deprivation and that ALT elevations above 3 times the ULN occurred in 7% of degarelix- vs 6% of leuprolide-treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19747011</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Degarelix (firmagon) for prostate cancer.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2009</year>
+              <volume>51</volume>
+              <issue>1323</issue>
+              <fpage>82</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, rationale, clinical efficacy, safety and costs of degarelix as therapy for prostate cancer shortly after its approval in the US; mentions that "increases in hepatic transaminases" are common adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19838145</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.boccongibod.2011.127">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boccon-Gibod</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>van der Meulen</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+</person-group>
+              <article-title>An update on the use of gonadotropin-releasing hormone antagonists in prostate cancer.</article-title>
+              <source>Ther Adv Urol</source>
+              <year>2011</year>
+              <volume>3</volume>
+              <fpage>127</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(GnRH antagonists such as degarelix have similar efficacy to GnRH agonists in therapy of prostate cancer but have a more rapid onset of action and do not cause the initial testosterone surge that occurs with the agonists, which can be particularly troublesome in patients with a large tumor burden).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21904569</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.van_poppel.2012.594">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Van Poppel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Klotz</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone: an update review of the antagonists versus agonists.</article-title>
+              <source>Int J Urol</source>
+              <year>2012</year>
+              <volume>19</volume>
+              <fpage>594</fpage>
+              <lpage>601</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of androgen deprivation therapy for prostate cancer using GnRH agonists and antagonists, stressing the more rapid onset of action and similar if not better safety profile of GnRH antagonists).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22416801</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to degarelix or other GnRH analogues).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.crawford.2014.1122">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Crawford</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Moul</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Tombal</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Schr&#x000f6;</surname><given-names>FH</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Boccon-Gibod</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term tolerability and efficacy of degarelix: 5-year results from a phase III extension trial with a 1-arm crossover from leuprolide to degarelix.</article-title>
+              <source>Urology</source>
+              <year>2014</year>
+              <volume>83</volume>
+              <fpage>1122</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among participants in the initial controlled trial of degarelix vs leuprolide [Klotz 2008], 544 were then treated with degarelix for up to 5 years and generally continued to have potent suppression of testosterone and PSA levels; ALT elevations occurred in 6% of patients, but there was no mention of cases of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24661333</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.carter.2014.699">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carter</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Keam</surname><given-names>SJ</given-names></name>
+</person-group>
+              <article-title>Degarelix: a review of its use in patients with prostate cancer.</article-title>
+              <source>Drugs</source>
+              <year>2014</year>
+              <volume>74</volume>
+              <fpage>699</fpage>
+              <lpage>712</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanism of action, clinical efficacy and safety of degarelix for advanced prostate cancer mentions that liver test abnormalities occur but are usually mild and transient and that ALT elevations above 3 times ULN occurred in less than 1% of treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24756432</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.miller.2015.105">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miller</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Simson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Goble</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+</person-group>
+              <article-title>Efficacy of degarelix in prostate cancer patients following failure on luteinizing hormone-releasing hormone agonist treatment: results from an open-label, multicentre, uncontrolled, phase II trial(CS27).</article-title>
+              <source>Ther Adv Urol</source>
+              <year>2015</year>
+              <volume>7</volume>
+              <fpage>105</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 37 patients with advanced prostate cancer who had failed therapy with a GnRH agonist, switching to degarelix for up to 1 year yielded a low rate of response [8%] with poor tolerance and a high dropout rate; changes in clinical chemistry results were "small, with no consistent trends").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26161141</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to GnRH analogues such as degarelix).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.dearnaley.2020.184">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dearnaley</surname><given-names>DP</given-names></name>
+<name name-style="western"><surname>Saltzstein</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Sylvester</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Karsh</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mehlhaff</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Pieczonka</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bailen</surname><given-names>JL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The oral gonadotropin-releasing hormone receptor antagonist relugolix as neoadjuvant/adjuvant androgen deprivation therapy to external beam radiotherapy in patients with localised intermediate-risk prostate cancer: a randomised, open-label, parallel-group phase 2 trial.</article-title>
+              <source>Eur Urol.</source>
+              <year>2020</year>
+              <volume>78</volume>
+              <fpage>184</fpage>
+              <lpage>192</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 103 men with prostate cancer receiving radiotherapy who were treated with androgen deprivation therapy with relugolix [120 mg tablets daily] or degarelix [80 mg injections monthly], suppression of testosterone and PSA levels were similar in the two groups and adverse events were slightly fewer with relugolix [86% vs 97%], ALT elevations arising in none vs 13% but none were greater than 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32273183</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.sawazaki.2020.425">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sawazaki</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kitamura</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yagi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Arai</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Impact of androgen deprivation therapy on non-alcoholic fatty liver disease in patients with prostate cancer: a CT evaluation.</article-title>
+              <source>Urol Int.</source>
+              <year>2020</year>
+              <volume>104</volume>
+              <fpage>425</fpage>
+              <lpage>430</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 77 patients with prostate cancer treated with androgen deprivation therapy [32 with leuprolide and 45 degarelix] for 6 months, computerized tomography demonstrated development of fatty liver in 7 patients but little change in body weight).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32396918</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.wallach.2021.e2130587">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wallach</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McCoy</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Dhruva</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Herrin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Berkowitz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Polley</surname><given-names>EC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real-world cardiovascular outcomes associated with degarelix vs leuprolide for prostate cancer treatment.</article-title>
+              <source>JAMA Netw Open.</source>
+              <year>2021</year>
+              <volume>4</volume>
+              <elocation-id>e2130587</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2226 men with advanced prostate cancer who initiated degarelix or leuprolide therapy between 2007 and 2019 who were propensity-matched for risk factors, major adverse cardiovascular event [MACE] rates were similar in the two groups [10.2 vs 8.6 per 100-patient years], although degarelix was associated with a high rate of death from any cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34677594</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Degarelix.REF.lopes.2021.1295">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lopes</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Higano</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Slovin</surname><given-names>SF</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Bigelow</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>S&#x000f8;rensen</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Melloni</surname><given-names>C</given-names></name>
+<etal/>
+<collab>PRONOUNCE Study Investigators</collab>
+</person-group>
+              <article-title>Cardiovascular safety of degarelix versus leuprolide in patients with prostate cancer: the primary results of the PRONOUNCE randomized trial.</article-title>
+              <source>Circulation.</source>
+              <year>2021</year>
+              <volume>144</volume>
+              <fpage>1295</fpage>
+              <lpage>1307</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 545 men with prostate cancer and concurrent atherosclerosis cardiovascular disease treated with degarelix or leuprolide for at least one year, major cardiovascular adverse events [MACE} arose in 5.5% vs 4.1% and rates of testosterone suppression, disease progression, discontinuations for adverse events and serious adverse event rates were similar in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34459214</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Degarelix.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Degarelix+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Degarelix: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Degarelix">Trials on Degarelix: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="REGN-EB3" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">REGN-EB3</book-part-id>
+      <title-group>
+        <title>REGN-EB3 &#x02013; Atoltivimab, Maftivimab, Odesivimab</title>
+        <subtitle>Short Chapter</subtitle>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>6</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Quizartinib" document-type="chapter">Quizartinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rabeprazole" document-type="chapter">Rabeprazole</related-object>
+    </book-part-meta>
+    <body>
+      <p>
+<italic toggle="yes">[Preliminary review chapter based on the FDA Product Labeling and Integrated Review only.]</italic>
+</p>
+      <sec id="REGN-EB3.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="REGN-EB3.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Atoltivimab, maftivimab, and odesivimab are three human monoclonal antibodies to Zaire ebolavirus that are given in combination and used to treat children and adults with acute Zaire ebolavirus infection. Therapy with atoltivimab, maftivimab, and odesivimab has not been associated with serum aminotransferase elevations nor to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="REGN-EB3.Background">
+          <title>Background</title>
+          <p>Atoltivimab, maftivimab, and odesivimab are three human monoclonal antibodies to the surface glycoprotein of Zaire ebolavirus that are co-formulated and used in combination to treat adults and children with acute ebolavirus infection. Ebolaviruses are single stranded RNA viruses that have caused multiple outbreaks of severe hemorrhagic fever in Western and Equatorial Africa. Ebolavirus is highly infectious and rapidly progressive. The incubation period ranges from 2 to 21 days and the disease presents with fever, muscle aches, and fatigue followed by diarrhea, vomiting, and abdominal pain. In severe cases, these symptoms are followed by coagulopathy, diffuse bleeding, circulatory collapse, and multiorgan failure. The fatality rate in most outbreaks has averaged 50% but is lower with aggressive supportive therapy. Monoclonal antibodies are the only approved antiviral therapy for ebolavirus infections. The antibodies bind to the major surface glycoprotein of the virus inducing immunologic clearance. All three monoclonal antibodies were found to reduce viral loads and improve survival in rhesus macaques with acute, experimental ebolavirus infection. The combination was used in human studies to avoid development of antiviral resistance and was shown to improve survival in children and adults with ebolavirus infection occurring during an outbreak in the Democratic Republic of the Congo. The combination of the three monoclonal antibodies is referred to as REGN-EB3 and by the proprietary name Inmazeb. REGN-EB3 was given accelerated approval by the FDA under Orphan Drug and Breakthrough Therapy designation in 2020. REGN-EB3 is available in single dose vials of 241.7 mg of atoltivimab, maftivimab, and odesivimab in 14.5 mL (16.67 mg of each per mL); and are available in single dose vials of 483.3 mg of each monoclonal antibody in 14.5 mL (33.33 mg of each per mL). The recommended dose regimen is 50 mg/kg of each as a single intravenous infusion. Common adverse events include infusion reactions, fever, chills, tachycardia, tachypnea, nausea, and vomiting. Serious adverse events include severe hypersensitivity reactions including anaphylaxis.</p>
+        </sec>
+        <sec id="REGN-EB3.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver injury is frequent in patients with acute ebolavirus infections but there is no evidence that treatment with REGN-EB3 exacerbates the injury. In healthy volunteers, a single intravenous administration of the three monoclonal antibodies did not cause serum aminotransferase or bilirubin elevations. The controlled clinical trial of REGN-EB3 was conducted in the Democratic Republic of Congo in 2018, and adverse events were largely the typical signs and symptoms of acute ebolavirus infection. In the clinical trial conducted in 322 adults and children, serum ALT elevations above 5 times the upper limit of normal (ULN) arose in 10% of REGN-EB3 recipients and 14% of monoclonal antibody control recipients. Since approval of the combination monoclonal antibody therapy in 2020, there have been no reports of clinically apparent liver injury attributed to their use. Prospective, open-label studies of REGN-EB3 in patients with ebolavirus infection continue to be monitored for safety and efficacy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="REGN-EB3.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Monoclonal antibodies are degraded by many tissues and metabolized to peptides and amino acids. The antiviral therapy is given as a single infusion. It is unlikely that the monoclonal antibodies could cause either direct or idiosyncratic liver injury. While hypersensitivity reactions to REGN-EB3 might be accompanied by mild elevations in serum enzymes, no such events have been reported.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object>, Ebolavirus Agents</p>
+        </sec>
+      </sec>
+      <sec id="REGN-EB3.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Atoltivimab, Maftivimab, Odesivimab &#x02013; Inmazeb&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Monoclonal Antibodies</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Inmazeb">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="REGN-EB3.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="REGN-EB3.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_REGN-EB3.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_REGN-EB3.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_REGN-EB3.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_REGN-EB3.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_REGN-EB3.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Atoltivimab</td>
+                <td headers="hd_h_REGN-EB3.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381126899">1299440-37-1</ext-link>
+</td>
+                <td headers="hd_h_REGN-EB3.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_REGN-EB3.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="REGN-EB3.SELECTED_BIBLIOGRAPHY">
+        <title>SELECTED BIBLIOGRAPHY</title>
+        <p>References updated: 14 June 2024</p>
+        <p>Abbreviations: ULN, upper limit of the normal range.</p>
+        <p><bold><italic toggle="yes">[Short Chapter</italic></bold>
+<italic toggle="yes">information is based largely on FDA Product Labeling and the FDA Integrated Review accessible from the FDA website</italic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm"><italic toggle="yes">https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm</italic></ext-link><italic toggle="yes">. All other references have not been fully reviewed and annotated.]</italic></p>
+        <ref-list id="REGN-EB3.SELECTED_BIBLIOGRAPHY.reflist0">
+          <ref id="REGN-EB3.REF1">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2020. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761169Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761169Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA summary data on the safety and efficacy of the combination of atoltivimab, maftivimab, and odesivimab [REGN-EB3], submitted in support of the application for approval as therapy of Zaire ebolavirus infection, mentions that ALT elevations arose in 31.8% of 154 patients receiving REGN-EB3 vs 31.0% of 168 receiving a control monoclonal antibody, while ALT values above 5 times ULN arose in 10.4% vs 14.3%).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="REGN-EB3.REF.sivapalasingam.2018.884">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sivapalasingam</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kamal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Slim</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Hosain</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Shao</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stoltz</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Yen</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety, pharmacokinetics, and immunogenicity of a co-formulated cocktail of three human monoclonal antibodies targeting Ebola virus glycoprotein in healthy adults: a randomised, first-in-human phase 1 study.</article-title>
+<source>Lancet Infect Dis.</source>
+<year>2018</year>;<volume>18</volume>:<fpage>884</fpage>-<lpage>893</lpage>.<pub-id pub-id-type="pmid">29929783</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="REGN-EB3.REF.mulangu.2019.2293">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mulangu</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Dodd</surname>
+<given-names>LE</given-names></string-name>, <string-name name-style="western"><surname>Davey</surname>
+<given-names>RT</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Tshiani Mbaya</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Proschan</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mukadi</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Lusakibanza Manzo</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <article-title>PALM Consortium Study Team. A randomized, controlled trial of Ebola virus disease therapeutics.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>381</volume>:<fpage>2293</fpage>-<lpage>2303</lpage>.<pub-id pub-id-type="pmid">31774950</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="REGN-EB3.REF.shears.2020.100038">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shears</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Garavan</surname>
+<given-names>C.</given-names></string-name>
+<article-title>The 2018/19 Ebola epidemic the Democratic Republic of the Congo (DRC): epidemiology, outbreak control, and conflict.</article-title>
+<source>Infect Prev Pract.</source>
+<year>2020</year>;<volume>2</volume>:<elocation-id>100038</elocation-id>.<pub-id pub-id-type="pmid">34368690</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="REGN-EB3.REF.markham.2021.175">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>REGN-EB3: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>175</fpage>-<lpage>178</lpage>.<pub-id pub-id-type="pmid">33432551</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="REGN-EB3.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=REGN-EB3+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on REGN-EB3: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=REGN-EB3">Trials on REGN-EB3: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

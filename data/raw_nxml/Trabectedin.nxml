@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Trabectedin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Trabectedin</book-part-id>
+      <title-group>
+        <title>Trabectedin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tositumomab" document-type="chapter">Tositumomab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="TraceElementsAndMeta" document-type="chapter">Trace Elements and Metals</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Trabectedin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Trabectedin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Trabectedin is a natural product derived from the Caribbean sea squirt which has antineoplastic activity and is used to treat soft tissue sarcoma. Trabectedin therapy is associated with a high rate of transient serum enzyme elevations during treatment and with occasional instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Trabectedin.Background">
+          <title>Background</title>
+          <p>Trabectedin (tra bek' te din) is a novel antineoplastic agent initially derived from extracts of the Caribbean sea squirt, Ecteinascidia turbinata or mangrove tunicate. It was the first drug to be isolated from a sea animal. Trabectedin binds to the minor groove of DNA, allowing for alkylation of guanine and resulting in DNA damage. Biosynthesis of the active product allowed for clinical trials of trabectedin which demonstrated evidence of cytotoxic activity against soft tissue sarcomas. Trabectedin was approved for use in the United States in 2014 as therapy of advanced, refractory liposarcoma and leiomyosarcoma. Trabectedin is given intravenously and is available as 1 mg of lyophilized powder in single use vials under the brand name Yondelis. The typical dose is 1.5 mg/m<sup>2</sup> body surface area as a 24 hour infusion every 3 weeks. It is usually given after premedication with 20 mg of dexamethasone. Side effects are common and include bone marrow suppression, nausea, vomiting, diarrhea, anorexia, fatigue, peripheral edema, dyspnea, and headache. Serious adverse events include neutropenic sepsis, rhabdomyolysis, cardiomyopathy, capillary leak syndrome, and embryo-fetal toxicity. Lurbinectedin, a synthetic derivative of trabectedin with similar antineoplastic activity and adverse event profile, was approved for use in small cell lung cancer in 2020.</p>
+        </sec>
+        <sec id="Trabectedin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevations in serum aminotransferase levels arise in almost all patients treated with trabectedin and elevations above 5 times the upper limit of normal occur 20% to 50% of patients. Pretreatment with dexamethasone appears to decrease the degree and frequency of enzyme elevations. The elevations arise within 2 to 5 days of the intravenous infusion, rise to maximal levels between 5 and 9 days and generally fall to baseline values within 3 to 4 weeks. Minor elevations in serum alkaline phosphatase and bilirubin are also common. However, clinically apparent liver injury with jaundice from trabectedin is rare. On the other hand, patients with underlying liver disease appear to be at increased risk for septicemia and multiorgan failure, and monitoring of liver tests before and during therapy is recommended. The liver injury typically mimics acute decompensation of an underlying cirrhosis with modest elevations in serum enzymes and worsening jaundice and hepatic synthetic dysfunction. Immunoallergic and autoimmune features are uncommon. Fatalities are generally due to sepsis and multiorgan failure.</p>
+          <p>Likelihood score: C[HD] (probable cause of clinically apparent liver injury, generally in the setting of preexisting liver disease and use of high doses).</p>
+        </sec>
+        <sec id="Trabectedin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The transient serum aminotransferase elevations that occur with trabectedin therapy are most likely due to direct hepatotoxicity. Trabectedin is extensively metabolized by the hepatic cytochrome P450 system, predominantly CYP 3A4, and is susceptible to drug-drug interactions with agents that induce or inhibit CYP 3A activity.</p>
+        </sec>
+        <sec id="Trabectedin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury from trabectedin ranges from mild elevations in liver enzymes to marked aminotransferase elevations to clinically apparent liver injury with jaundice and hepatic failure. Most severe cases occur in patients with preexisting liver disease. For these reasons, patients should be monitored with routine liver tests before and during therapy and therapy delayed or stopped if liver test abnormalities persist. In animal models, hepatotoxicity is lessened by pretreatment with dexamethasone and pretreatment with 20 mg of dexamethasone 30 minutes before each infusion is recommended.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="AlkylatingAgents" document-type="chapter">Alkylating Agents</related-object></p>
+          <p>Other Drugs in Same Class: <related-object link-type="booklink" source-id="livertox" document-id="Lurbinectedin" document-type="chapter">Lurbinectedin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Trabectedin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Trabectedin &#x02013; Yondelis&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Alkylating Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Trabectedin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Trabectedin.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Trabectedin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Trabectedin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Trabectedin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Trabectedin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Trabectedin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Trabectedin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Trabectedin</td>
+                <td headers="hd_h_Trabectedin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135256695">114899-77-3</ext-link>
+</td>
+                <td headers="hd_h_Trabectedin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C39-H43-N3-O11-S</td>
+                <td headers="hd_h_Trabectedin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135256695" document-id-type="sid" document-type="summary" object-id="135256695" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Trabectedin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 22 November 2022</p>
+        <ref-list id="Trabectedin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Trabectedin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 before the availability of trabectedin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trabectedin.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; trabectedin is listed as causing serum enzyme elevations and rare instances of liver failure when given in high doses).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trabectedin.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Trabectedin. Cytotoxic agents. Chemotherapy of neoplastic diseases. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1194.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trabectedin.REF.brain.2002.s11">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brain</surname><given-names>EG</given-names></name>
+</person-group>
+              <article-title>Safety and efficacy of ET-743: the French experience.</article-title>
+              <source>Anticancer Drugs</source>
+              <year>2002</year>
+              <volume>13</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S11</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 54 patients with advanced, refractory soft tissue sarcoma treated with trabectedin [1500 &#x003bc;g/m<sup>2</sup> intravenously every 3 weeks], 3 [6%] had a partial response, and side effects included asymptomatic and reversible neutropenia and aminotransferase elevations in 60% of patients and 2 cases of rhabdomyolysis).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.van_kesteren.2003.487">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Kesteren</surname><given-names>Ch</given-names></name>
+<name name-style="western"><surname>de Vooght</surname><given-names>MMM</given-names></name>
+<name name-style="western"><surname>L&#x000f3;pez-L&#x000e1;zaro</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Math&#x000f4;t</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Schellens</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Jimeno</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Beijnen</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>Yondelis (trabectedin, ET-743): the development of an anticancer agent of marine origin.</article-title>
+              <source>Anticancer Drugs</source>
+              <year>2003</year>
+              <volume>14</volume>
+              <fpage>487</fpage>
+              <lpage>502</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the development, chemistry, mode of action and preclinical and clinical studies of trabectedin suggests that it acts by binding to the minor groove of DNA, thereby interfering with transcription factor binding to DNA and blocking transcription).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12960733</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.yovine.2004.890">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yovine</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Riofrio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Blay</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Brain</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Alexandre</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kahatt</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Taamma</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase II study of ecteinascidin-743 in advanced pretreated soft tissue sarcoma patients.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2004</year>
+              <volume>22</volume>
+              <fpage>890</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 54 patients with advanced, refractory soft tissue sarcoma treated with trabectedin [1-20 cycles], 6 had a partial or minor response, and side effects included ALT or AST elevations above 5 times ULN in 50% of patients with 2 treatment related deaths, one from rhabdomyolysis and one from febrile neutropenia which resulted in decompensation of a preexisting alcoholic cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14990645</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.beumer.2005.391">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Beumer</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Schellens</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Beijnen</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity and metabolism of trabectedin: a literature review.</article-title>
+              <source>Pharmacol Res</source>
+              <year>2005</year>
+              <volume>51</volume>
+              <fpage>391</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of trabectedin hepatotoxicity in preclinical and clinical studies; mentions that hepatotoxicity is seen in mice, rats, dogs, and rhesus monkeys and is partially abrogated by dexamethasone pretreatment; the ALT elevations in humans start to rise 2-5 days after an infusion, reach at maximum at 5-9 days, and resolve within 4 weeks, the abnormalities often lessening with repeated cycles).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15749453</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.le_cesne.2005.576">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Le Cesne</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Blay</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Judson</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Van Oosterom</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Verweij</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Radford</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lorigan</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase II study of ET-743 in advanced soft tissue sarcomas: a European Organisation for the Research and Treatment of Cancer (EORTC) soft tissue and bone sarcoma group trial.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2005</year>
+              <volume>23</volume>
+              <fpage>576</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 104 patients with soft tissue or bone sarcoma treated with trabectedin [1500 mg/m<sup>2</sup> every 3 weeks], ALT elevations above 5 times ULN arose in 45%, bilirubin elevations in 42%, Alk P in 63% and neutropenia in 52%, while 4 patients died usually of multiorgan failure, but correlating best with preexisting liver abnormalities, particularly any elevation in Alk P).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15659504</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.grosso.2006.1484">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grosso</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Dileo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sanfilippo</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Stacchiotti</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bertulli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Piovesan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jimeno</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Steroid premedication markedly reduces liver and bone marrow toxicity of trabectedin in advanced sarcoma.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2006</year>
+              <volume>42</volume>
+              <fpage>1484</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 54 patients with advanced, refractory sarcomas treated with trabectedin, 31 did and 23 did not receive pretreatment with oral dexamethasone [4 mg twice daily for the 24 hours before infusions], and adverse events were less with pretreatment including aminotransferase elevations [above 5 times ULN] in 2% vs 34%, neutropenia in 2% vs 24% and thrombocytopenia in none vs 25%, while objective response rates and progression free survival appeared unaffected).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16737808</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.krasner.2007.1618">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Krasner</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>McMeekin</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Braly</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Renshaw</surname><given-names>FG</given-names></name>
+<name name-style="western"><surname>Kaye</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Provencher</surname><given-names>DM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A Phase II study of trabectedin single agent in patients with recurrent ovarian cancer previously treated with platinum-based regimens.</article-title>
+              <source>Br J Cancer</source>
+              <year>2007</year>
+              <volume>97</volume>
+              <fpage>1618</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 147 women with recurrent ovarian carcinoma after platinum based therapy who were treated with trabectedin [0.58 mg/m<sup>2</sup> every week], ALT elevations occurred in 28% and were above 5 times ULN in 11%, but all were self-limited in course).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18000504</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.demetri.2009.4188">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Demetri</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Chawla</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>von Mehren</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ritch</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Blay</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Hande</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of trabectedin in patients with advanced or metastatic liposarcoma or leiomyosarcoma after failure of prior anthracyclines and ifosfamide: results of a randomized phase II study of two different schedules.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2009</year>
+              <volume>27</volume>
+              <fpage>4188</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 270 patients with advanced or metastatic, refractory soft tissue sarcoma treated with 1 of 2 regimens of trabectedin [weekly or every 3rd week], response rates were higher with every 3 week dosing as were adverse events including ALT elevations above 5 times ULN [45% vs 9%], but there were no instances of hepatic failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19652065</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.pick.2010.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pick</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Nystrom</surname><given-names>KK</given-names></name>
+</person-group>
+              <article-title>Fatal hepatic and renal toxicity as a complication of trabectedin therapy for radiation-induced sarcoma.</article-title>
+              <source>J Oncol Pharm Pract</source>
+              <year>2010</year>
+              <volume>16</volume>
+              <fpage>269</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(79 year old man with sarcoma developed progressive renal and hepatic failure 1 week after a 2nd [every 3 weeks] intravenous infusion of trabectedin [bilirubin initially 2.4 and rising to 12 mg/dL, ALT 73 to 502 U/L, Alk P 473 U/L] and dying 3 weeks later [no autopsy]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20015930</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.fayette.2010.113">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fayette</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Boyle</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chabaud</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Favier</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Cassier</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Thiesse</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy of trabectedin for advanced sarcomas in clinical trials versus compassionate use programs: analysis of 92 patients treated in a single institution.</article-title>
+              <source>Anticancer Drugs</source>
+              <year>2010</year>
+              <volume>21</volume>
+              <fpage>113</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 92 patients with advanced sarcoma treated with trabectedin [1.5 mg/m<sup>2</sup> every 3 weeks], adverse events included ALT or AST elevations above 5 times ULN in 37%, but no &#x0201c;toxic deaths&#x0201d; occurred).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19887935</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.le_cesne.2012.1193">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Le Cesne</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Yovine</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Blay</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Delaloge</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Maki</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Misset</surname><given-names>JL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A retrospective pooled analysis of trabectedin safety in 1,132 patients with solid tumors treated in phase II clinical trials.</article-title>
+              <source>Invest New Drugs</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>1193</fpage>
+              <lpage>202</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1132 patients treated with trabectedin in various regimens in 19 trials, common side effects including nausea [65%], fatigue [58%], neutropenia [69%], ALT elevations [91%], ALT elevations above 5 times ULN [44%] and bilirubin elevations [21%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21484250</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.baruchel.2012.579">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baruchel</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pappo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Krailo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Villaluna</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lee-Scott</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase 2 trial of trabectedin in children with recurrent rhabdomyosarcoma, Ewing sarcoma and non-rhabdomyosarcoma soft tissue sarcomas: a report from the Children's Oncology Group.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2012</year>
+              <volume>48</volume>
+              <fpage>579</fpage>
+              <lpage>85</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 50 children with recurrent sarcomas who were treated with trabectedin [1.3 or 1.5 mg/m<sup>2</sup> every 3 weeks], only one patient had a partial response and 3 others had stable disease, while adverse events were common including ALT elevations above 5 times ULN in 32%, but all were asymptomatic and resolved without dose adjustment).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22088484</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.monk.2012.48">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Monk</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Blessing</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Street</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Muller</surname><given-names>CY</given-names></name>
+<name name-style="western"><surname>Burke</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Hensley</surname><given-names>ML</given-names></name>
+</person-group>
+              <article-title>A phase II evaluation of trabectedin in the treatment of advanced, persistent, or recurrent uterine leiomyosarcoma: a gynecologic oncology group study.</article-title>
+              <source>Gynecol Oncol</source>
+              <year>2012</year>
+              <volume>124</volume>
+              <fpage>48</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 20 women with advanced uterine leiomyosarcoma treated with 2-29 cycles of trabectedin, the progression free survival rate was 5.8 months and adverse events included ALT elevations in 55% which were above 5 times ULN in 10%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21996263</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.laurenty.2013.1389">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Laurenty</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Chatelut</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>B&#x000e9;trian</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Le Guellec</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hennebelle</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Le Guellec</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Irreversible hepatotoxicity after administration of trabectedin to a pleiomorphic sarcoma patient with a rare ABCC2 polymorphism: a case report.</article-title>
+              <source>Pharmacogenomics.</source>
+              <year>2013</year>
+              <volume>14</volume>
+              <fpage>1389</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(66 year old man with pleiomorphic sarcoma developed liver injury 3 weeks after a second infusion of trabectedin [bilirubin 0.5 mg/dL, ALT 7 times ULN, Alk P 5 times ULN], with subsequent slow rise of bilirubin to 9.5 mg/dL and persistently high Alk P], liver biopsy showing cholangitis and jaundice persisting until his death from metastatic sarcoma 10 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24024892</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.ploner.2013.1337">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ploner</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Lamm</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Schur</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Eisterer</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>K&#x000fc;hr</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Lindorfer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tinchon</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The Austrian experience with trabectedin in non-selected patients with metastatic soft tissue sarcoma (STS).</article-title>
+              <source>J Cancer Res Clin Oncol</source>
+              <year>2013</year>
+              <volume>139</volume>
+              <fpage>1337</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 101 adult Austrian patients with metastatic soft tissue sarcoma treated with trabectedin, the extent and severity of toxicity &#x0201c;were low and manageable&#x0201d;, including ALT elevations in 25% with values above 5 times ULN in 3%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23666164</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.samuels.2013.1703">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Samuels</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Chawla</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>von Mehren</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hamm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kaiser</surname><given-names>PE</given-names></name>
+<name name-style="western"><surname>Schuetze</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical outcomes and safety with trabectedin therapy in patients with advanced soft tissue sarcomas following failure of prior chemotherapy: results of a worldwide expanded access program study.</article-title>
+              <source>Ann Oncol</source>
+              <year>2013</year>
+              <volume>24</volume>
+              <fpage>1703</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1895 adults with advanced soft tissue sarcomas treated with trabectedin [1.5 mg/m<sup>2</sup> every 3 weeks], best results were achieved in leiomyosarcoma and liposarcoma, while ALT elevations arose in 19% and were above 5 times ULN in 11%; no mention of clinically apparent liver injury, although 23 patients [1%] died of suspected drug related complications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23385197</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.vincenzi.2015.12077">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vincenzi</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Stumbo</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Maltese</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cerbone</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Spalato Ceruso</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Badalamenti</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Santini</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Lack of correlation between liver tests abnormalities and trabectedin efficacy in the treatment of soft tissue sarcoma: a retrospective study.</article-title>
+              <source>Sci Rep</source>
+              <year>2015</year>
+              <volume>5</volume>
+              <fpage>12077</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 113 patients with advanced sarcoma treated with trabectedin in 3 Italian oncology centers, 40% developed ALT or AST elevations above 5 times ULN, and retrospective analyses found no associations between ALT elevations and tumor response or progression free or overall survival).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26235506</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.buinguyen.2015.1312">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bui-Nguyen</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Butrynski</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Penel</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Blay</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Isambert</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Milhem</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kerst</surname><given-names>JM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>European Organisation for Research and Treatment of Cancer Soft Tissue and Bone Sarcoma Group (EORTC/STBSG) and the Sarcoma Alliance for Research through Collaboration (SARC). A phase IIb multicentre study comparing the efficacy of trabectedin to doxorubicin in patients with advanced or metastatic untreated soft tissue sarcoma: the TRUSTS trial.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2015</year>
+              <volume>51</volume>
+              <fpage>1312</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 133 patients with soft tissue sarcoma treated with trabectedin [as 3 or 24 hour infusions] vs doxorubicin [standard therapy], median progression free survival was less with trabectedin [2.8 and 3.1 vs 5.5 months] and side effects were more common, requiring discontinuation in 15% and 20% vs 3% and with ALT elevations above 5 times ULN in 67% and 49% vs 2.5%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25912752</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.kawai.2015.406">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kawai</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Araki</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sugiura</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ueda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yonemoto</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Takahashi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Morioka</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Trabectedin monotherapy after standard chemotherapy versus best supportive care in patients with advanced, translocation-related sarcoma: a randomised, open-label, phase 2 study.</article-title>
+              <source>Lancet Oncol</source>
+              <year>2015</year>
+              <volume>16</volume>
+              <fpage>406</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 76 Japanese patients with advanced sarcoma treated with trabectedin [1.2 mg/m<sup>2</sup> every 3 weeks] vs supportive case, median progression-free survival was 5.6 vs 0.9 months and adverse events included nausea [89% vs 8%], anorexia [53% vs 5%], neutropenia [83% vs 0%] and elevated ALT [67% vs 0%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25795406</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.schack.2015.34">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schack</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Mouritsen</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Elowsson</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Krarup-Hansen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Safwat</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>The Danish experience with trabectedin treatment for metastatic sarcoma: Importance of hyponatremia.</article-title>
+              <source>Acta Oncol</source>
+              <year>2015</year>
+              <volume>54</volume>
+              <fpage>34</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 117 patients with metastatic sarcoma treated with trabectedin in 3 oncology centers in Denmark, adverse events were frequent including 22% with &#x0201c;elevated liver enzymes&#x0201d; and there were 3 deaths, all related to severe infections).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25263179</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.martinbroto.2016.2294">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Martin-Broto</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pousa</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>de Las Pe&#x000f1;as</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a Del Muro</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gutierrez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Martinez-Trufero</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cruz</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Randomized phase II study of trabectedin and doxorubicin compared with doxorubicin alone as first-line treatment in patients with advanced soft tissue sarcomas: a Spanish group for research on sarcoma study.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2016</year>
+              <volume>34</volume>
+              <fpage>2294</fpage>
+              <lpage>302</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 115 patients with soft tissue sarcoma treated with doxorubicin with or without trabectedin [1.1 mg/m<sup>2</sup> every 3 weeks], progression-free survival was minimally longer with the combination [5.7 vs 5.5 months] and adverse events were more frequent including ALT elevations [71% vs 14%] and those greater than 5 times ULN [19% vs none]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27185843</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF25">
+            <element-citation publication-type="journal">
+              <article-title>In brief: Two drugs for soft-tissue sarcoma.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1494</issue>
+              <elocation-id>e62</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of the mechanism of action, efficacy and safety of trabectedin and eribulin shortly after their approval in the US as therapy of soft tissue sarcoma; mentions that trabectedin therapy is associated with serum aminotransferase elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27148925</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.demetri.2016.786">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Demetri</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>von Mehren</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Hensley</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Schuetze</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Staddon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Milhem</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of trabectedin or dacarbazine for metastatic liposarcoma or leiomyosarcoma after failure of conventional chemotherapy: results of a phase III randomized multicenter clinical trial.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2016</year>
+              <volume>34</volume>
+              <fpage>786</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 518 patients with metastatic lipo- or leiomyosarcoma treated with trabectedin vs dacarbazine, progression-free survival was longer with trabectedin [4.2 vs 1.5 months], but overall survival similar [12.4 vs 12.9 months], while ALT elevations arose in 45% vs 6% and were above 5 times ULN in 26% vs 1%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26371143</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.angarita.2016.30">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Angarita</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Cannell</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Abdul Razak</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Dickson</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Blackstein</surname><given-names>ME</given-names></name>
+</person-group>
+              <article-title>Trabectedin for inoperable or recurrent soft tissue sarcoma in adult patients: a retrospective cohort study.</article-title>
+              <source>BMC Cancer</source>
+              <year>2016</year>
+              <volume>16</volume>
+              <fpage>30</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 77 adults with advanced soft tissue sarcoma treated with trabectedin, elevations in liver enzymes occurred in 26% of subjects including values above 5 times ULN in 19%, but there were no serious liver related adverse events and two deaths attributed to therapy were both due to rhabdomyolysis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26786213</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.barone.2017.7448">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Barone</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chi</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Theoret</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kufrin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Helms</surname><given-names>WS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>FDA approval summary: trabectedin for unresectable or metastatic liposarcoma or leiomyosarcoma following an anthracycline-containing regimen.</article-title>
+              <source>Clin Cancer Res.</source>
+              <year>2017</year>
+              <volume>23</volume>
+              <fpage>7448</fpage>
+              <lpage>7453</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(FDA description of the clinical results of trabectedin therapy that led to its approval for soft tissue sarcomas in 2015, which was based upon a single, randomized active controlled trial in 518 patients in which median progression-free survival was 4.2 months with trabectedin vs 1.5 months with dacarbazine; serious adverse events included anaphylaxis, neutropenic sepsis, rhabdomyolysis, hepatotoxicity, cardiomyopathy and local tissue necrosis from extravasation during intravenous therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28774898</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.kobayashi.2020.1253">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kobayashi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Iwata</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wakamatsu</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hayakawa</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Yonemoto</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wasa</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Oka</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of trabectedin for patients with unresectable and relapsed soft-tissue sarcoma in Japan: A Japanese Musculoskeletal Oncology Group study.</article-title>
+              <source>Cancer.</source>
+              <year>2020</year>
+              <volume>126</volume>
+              <fpage>1253</fpage>
+              <lpage>1263</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 140 Japanese patients with soft tissue sarcomas treated with trabectedin [1.2 mg/m<sup>2</sup> every 3 weeks] and enrolled in a postmarketing study of safety, 96% had an adverse event, and ALT or AST elevations arose in 89 [64%] which were above 5 times ULN in 53 [38%], but there were no deaths from liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31825533</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.palmerini.2021.1053">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Palmerini</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Sanfilippo</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Grignani</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Buonadonna</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Romanini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Badalamenti</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Ferraresi</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Trabectedin for patients with advanced soft tissue sarcoma: a non-interventional, retrospective, multicenter study of the Italian Sarcoma Group.</article-title>
+              <source>Cancers (Basel)</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <fpage>1053</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 512 patients with advanced soft tissue sarcoma treated with trabectedin in 20 Italian centers, median survival was 21.6 months and adverse events included bone marrow toxicity in 61% and ALT or AST elevations in 22%, but there were no deaths attributed to therapy and no mention of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33801399</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.cortinovis.2021.361">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cortinovis</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Grosso</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Carlucci</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zucali</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Pasello</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Tiseo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sperandi</surname><given-names>F</given-names></name>
+<etal/>
+<collab>ATREUS investigators</collab>
+</person-group>
+              <article-title>Trabectedin in malignant pleural mesothelioma: results from the multicentre, single arm, phase II ATREUS Study.</article-title>
+              <source>Clin Lung Cancer.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>361</fpage>
+              <lpage>370.e3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 132 patients with malignant pleural mesothelioma treated with trabectedin [1.1 or 1.3 mg/m<sup>2</sup> intravenously every 3 weeks], the clinical efficacy was described as &#x0201c;modest&#x0201d; and &#x0201c;at the expense of relevant liver toxicity&#x0201d;, with ALT or AST elevations above 5 times ULN arising in 59% of patients and contributing to death from multiorgan failure in one).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32732073</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.le_cesne.2021.1034">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Le Cesne</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Blay</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Cupissol</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Italiano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Delcambre</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Penel</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Isambert</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized phase III trial comparing trabectedin to best supportive care in patients with pre-treated soft tissue sarcoma: T-SAR, a French Sarcoma Group trial.</article-title>
+              <source>Ann Oncol.</source>
+              <year>2021</year>
+              <volume>32</volume>
+              <fpage>1034</fpage>
+              <lpage>1044</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 103 patients with advanced soft tissue sarcoma treated with trabectedin or standard therapy in 16 French centers, the median progression-free survival was longer with trabectedin [3.1 vs 1. 5 months], and 33% of patients developed ALT or AST elevations above 5 times ULN, although there were no deaths due to liver injury and no mention of clinically apparent liver injury ).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33932507</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trabectedin.REF.lorusso.2022">
+            <mixed-citation publication-type="other">Lorusso D, Pignata S, Tamberi S, Mangili G, Bologna A, Nicoloso MS, Giolitto S, et al. Efficacy and safety of trabectedin for the treatment of advanced uterine or ovarian carcinosarcoma: Results of a phase II multicenter clinical trial (MITO-26). Gynecol Oncol. 2022:S0090-8258(22)01851-0. Epub ahead of print.<annotation><p><italic toggle="yes">(Among 45 women with advanced refractory ovarian or uterine carcinoma treated with trabectedin [1.3 mg/m<sup>2</sup> every 3 weeks], the objective response rate was only 12% and ALT or AST elevations above 3 times ULN arose in 14%, none rising above 5 times ULN and all ultimately resolving).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trabectedin.REF.chaigneau.2022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chaigneau</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Jary</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nerich</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Hervieu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Aubry</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Charon Barra</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Meynard</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real-world experience of efficacy and safety of trabectedin in patients with soft tissue sarcoma: a bicentric retrospective analysis.</article-title>
+              <source>Oncology.</source>
+              <year>2022</year>
+              <month>Oct</month>
+              <day>25</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 126 patients with advanced soft tissue sarcoma treated with trabectedin in 2 French centers between 2002 and 2019, overall median survival was 12.3 months with disease control in 46% of patients, while &#x0201c;adverse events were manageable&#x0201d;, GGT elevations arising in 83% [above 5 times ULN in 27%], and with 4 deaths due to therapy, 3 with rhabdomyolysis and 1 with febrile neutropenia).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Trabectedin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Trabectedin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Trabectedin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Trabectedin">Trials on Trabectedin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

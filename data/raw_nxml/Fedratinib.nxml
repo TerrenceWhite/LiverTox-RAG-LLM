@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fedratinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fedratinib</book-part-id>
+      <title-group>
+        <title>Fedratinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>8</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Febuxostat" document-type="chapter">Febuxostat</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Felbamate" document-type="chapter">Felbamate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fedratinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fedratinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fedratinib is an oral selective inhibitor of Janus associated kinase 2 (JAK-2) and FMS-like tyrosine kinase 3 (FLT3) that is used in the therapy of intermediate or high-risk, primary or secondary myelofibrosis. Fedratinib has been associated with a high rate of serum enzyme elevations during therapy, but has been associated with only rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Fedratinib.Background">
+          <title>Background</title>
+          <p>Fedratinib (fed ra&#x02019; ti nib) is an orally available, small molecule inhibitor of Janus associated kinase-2 (JAK-2) and the FMS-like tyrosine kinase 3 (FLT-3), which are often mutated in patients with primary and secondary myelofibrosis. Myelofibrosis is a myeloproliferative, neoplastic syndrome that can present de novo (primary) or after transformation of polycythemia vera or essential thrombocytopenia (secondary). Clinical features include splenomegaly and debilitating constitutional symptoms of fatigue, fever, weight loss, bone pain, pruritus and failure to thrive. The bone marrow exhibits progressive replacement of marrow by fibrosis with associated anemia and thrombocytopenia. The marrow also frequently harbors mutated forms of JAK-2 [V617F] that are associated with dysregulation of the signal transducer and activator of transcription (STAT) pathway, resulting in abnormal cell proliferation and unregulated production of growth factors and pro-inflammatory cytokines. Myelofibrosis is a pre-malignant syndrome that eventually transforms into leukemia in up to 20% of cases. Therapy for myelofibrosis is unsatisfactory. The JAK-1/2 inhibitor ruxolitinib is approved for use in myelofibrosis, but the response rate is less than 50%, and it is often poorly tolerated. The finding of frequent mutations in JAK-2 and FLT-3 in the bone marrow of patients with primary or secondary myelofibrosis led to the clinical evaluation of fedratinib. In several preregistration trials, fedratinib resulted in reduction of splenomegaly and improvement in symptoms in 40% to 50% of patients, including those who were resistant to or intolerant of ruxolitinib. Fedratinib was approved in the United States as therapy for intermediate- or high-risk primary or secondary myelofibrosis in 2019. Fedratinib is available in capsules of 100 mg under the brand name Inrebic. The recommended dose is 400 mg once daily with dose reductions for adverse events. Common side effects include mild-to-moderate symptoms of diarrhea, nausea and vomiting, anemia, thrombocytopenia, fatigue, headache, pruritus, muscle spasms, and elevations in serum creatinine, lipase, amylase and aminotransferase levels. Uncommon, but potentially serious side effects include severe anemia and thrombocytopenia, renal, pancreatic and liver toxicity, Wernicke&#x02019;s encephalopathy, secondary malignancies, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Fedratinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of fedratinib in patients with myelofibrosis, liver test abnormalities were common but also found in a proportion of patients treated with placebo or with a comparator drug. Some degree of ALT elevation arose in up to 58% of fedratinib treated patients, compared to 14% to 17% of those treated with placebo, but were above 5 times the upper limit of normal (ULN) in 9% or less and were usually not accompanied by symptoms or jaundice. Nevertheless, at least one case of severe acute hepatitis with hepatic failure was reported in an early study of fedratinib. Subsequently, with more careful monitoring, instances of clinically apparent liver injury were not reported. Clinical experience with fedratinib since its approval has been limited.</p>
+          <p>In addition, long term treatment with fedratinib and other Janus kinase inhibitors has been linked to rare instances of reactivation of hepatitis B that can be severe and even fatal. Reactivation often becomes clinically apparent after the JAK inhibitor is discontinued, when immune restoration results in an immunologic response to the heightened viral replication.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury including reactivation of hepatitis B in susceptible patients).</p>
+        </sec>
+        <sec id="Fedratinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury from fedratinib is unknown, but the pattern of abnormalities suggests some degree of low level, direct hepatotoxicity. Thus, minor ALT elevations levels occur in over 40% of treated patients, but they are usually asymptomatic and transient, resolving even without dose modification or interruption. Fedratinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+          <p>Reactivation of hepatitis B by JAK inhibitors, in contrast, is likely due to indirect effects caused by immune suppression, which may to lead to increased HBV replication and which, if followed by immune recovery, can result in acute liver injury.</p>
+        </sec>
+        <sec id="Fedratinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients receiving fedratinib should be tested before starting therapy for thiamine levels, complete blood count, creatinine, blood urea nitrogen, routine liver tests and amylase and lipase levels. These tests should then be monitored as clinically indicated during therapy. Serum aminotransferase elevations typically arise within 1 to 3 months of starting fedratinib and are mild. Levels above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary interruption. In patients who develop clinical symptoms or jaundice with these elevations, fedratinib should be promptly discontinued, and restarting therapy should be done with caution and close monitoring. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors but there is no information on shared adverse event sensitivity between other JAK inhibitors (such as ruxolitinib) and fedratinib.</p>
+          <p>Other JAK inhibitors such as baricitinib, tofacitinib, ruxolitinib, and upadacitinib have been linked to cases of reactivation of hepatitis B which can be severe. Importantly, patients who are to receive long term therapy with fedratinib should be screened for hepatitis B (HBsAg and anti-HBc). Patients with HBsAg in serum should be treated prophylactically with an oral antiviral agent with activity against HBV such as entecavir or tenofovir. An alternative, which is applicable to those with anti-HBc without HBsAg, is to monitor patients carefully for HBV DNA levels to detect evidence of reactivation early and initiate appropriate therapy for HBV infection.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs in the Subclass, Janus Kinase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="chapter">Baricitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="chapter">Ruxolitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tofacitinib" document-type="chapter">Tofacitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Upadacitinib" document-type="chapter">Upadacitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fedratinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Fedratinib &#x02013; Inrebic&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Tyrosine Kinase Inhibitor</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fedratinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Fedratinib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fedratinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Fedratinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fedratinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Fedratinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fedratinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fedratinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Fedratinib</td>
+                <td headers="hd_h_Fedratinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642944">936091-26-8</ext-link>
+</td>
+                <td headers="hd_h_Fedratinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H36-N6-O3-S</td>
+                <td headers="hd_h_Fedratinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163642944" document-id-type="sid" document-type="summary" object-id="163642944" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fedratinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 August 2022</p>
+        <p>Abbreviations: FLT-3, FMS-like tyrosine kinase; HBV, hepatitis B virus; JAK, Janus associated kinase; STAT, signal transducer and activator of transcription.</p>
+        <ref-list id="Fedratinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fedratinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p>(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fedratinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p>(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss fedratinib).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fedratinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p>(Textbook of pharmacology and therapeutics).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fedratinib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212327Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212327Orig1s000MultidisciplineR.pdf</ext-link><annotation><p>(FDA website with product labels and initial multidiscipline review of the safety and efficacy of fedratinib; states that patients with myelofibrosis frequently have elevations in bilirubin and serum enzymes, but patients treated with fedratinib have a higher rate of ALT elevations [58%] compared to placebo [17%], but these elevations are generally mild and above 5 times ULN in 9% vs 1% with placebo; despite this, significant liver injury attributable to fedratinib is uncommon).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fedratinib.REF.zhang.2014.415">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhang</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Shamiyeh</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>von Moltke</surname><given-names>LL</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>WB</given-names></name>
+</person-group>
+              <article-title>A randomized, placebo-controlled study of the pharmacokinetics, pharmacodynamics, and tolerability of the oral JAK2 inhibitor fedratinib (SAR302503) in healthy volunteers.</article-title>
+              <source>J Clin Pharmacol.</source>
+              <year>2014</year>
+              <volume>54</volume>
+              <fpage>415</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>(A pharmacologic study in 57 healthy controls given one of 7 doses of fedratinib, found significant inhibition of STAT-signaling with doses of 300 mg or higher).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24165976</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.pardanani.2015.643">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pardanani</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Cortes</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Cervantes</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Mesa</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Milligan</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Masszi</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of fedratinib in patients with primary or secondary myelofibrosis: a randomized clinical trial.</article-title>
+              <source>JAMA Oncol.</source>
+              <year>2015</year>
+              <volume>1</volume>
+              <issue>5</issue>
+              <fpage>643</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>(Among 289 adults with myelofibrosis treated with fedratinib [400 or 500 mg] or placebo daily for 24 weeks, spleen responses occurred in 36% and 40% on fedratinib vs 1% on placebo and symptom responses in 36% and 34% vs 7%, while adverse events occurred in almost all patients, including ALT elevations in 46% and 53% vs 17%, but values above 5 times ULN arose in only 3% and 3% vs none; severe adverse events included 4 cases of suspected Wernicke&#x02019;s encephalopathy in fedratinib treated subjects).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26181658</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.pardanani.2015.e335">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pardanani</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tefferi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jamieson</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gabrail</surname><given-names>NY</given-names></name>
+<name name-style="western"><surname>Lebedinsky</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase 2 randomized dose-ranging study of the JAK2-selective inhibitor fedratinib (SAR302503) in patients with myelofibrosis.</article-title>
+              <source>Blood Cancer J.</source>
+              <year>2015</year>
+              <volume>5</volume>
+              <elocation-id>e335</elocation-id>
+              <annotation>
+                <p>(Among 31 patients with myelofibrosis treated with fedratinib [400, 500 or 600 mg once daily] for 24 weeks, reduction in spleen size averaged 30%, 33% and 43%, and all patients had at least one adverse event, ALT elevations being frequent [30%, 50%, and 91% ), two patients developing ALT levels above 5 times and one above 20 times ULN accompanied by jaundice, symptoms and signs of hepatic failure which resolved after fedratinib was discontinued).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26252788</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.harrison.2017.e317">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Harrison</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Schaap</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Vannucchi</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Kiladjian</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Tiu</surname><given-names>RV</given-names></name>
+<name name-style="western"><surname>Zachee</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jourdan</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Janus kinase-2 inhibitor fedratinib in patients with myelofibrosis previously treated with ruxolitinib (JAKARTA-2): a single-arm, open-label, non-randomised, phase 2, multicentre study.</article-title>
+              <source>Lancet Haematol.</source>
+              <year>2017</year>
+              <volume>4</volume>
+              <fpage>e317</fpage>
+              <lpage>e324</lpage>
+              <annotation>
+                <p>(Among 83 patients with myelofibrosis resistant or intolerant to ruxolitinib who were treated with fedratinib for 24 weeks, 55% had a clinical response [at least a 35% reduction in spleen size] while side effects included diarrhea [58%], nausea [56%] constipation [21%], pruritus [16%], fatigue [15%], headache [13%], ALT elevations [6%], cardiac failure [3%], and tumor lysis syndrome [2%]).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28602585</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF9">
+            <element-citation publication-type="journal">
+              <article-title>Fedratinib becomes new option in myelofibrosis.</article-title>
+              <source>Cancer Discov.</source>
+              <year>2019</year>
+              <volume>9</volume>
+              <fpage>1332</fpage>
+              <annotation>
+                <p>(News report on the approval of fedratinib for therapy of myelofibrosis after a hold had been placed on it for several years because of cases of Wernicke&#x02019;s encephalopathy, although only one was proven).</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.blair.2019.1719">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blair</surname><given-names>HA</given-names></name>
+</person-group>
+              <article-title>Fedratinib: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1719</fpage>
+              <lpage>1725</lpage>
+              <annotation>
+                <p>(Review of the history of development, mechanism of action, pharmacology, clinically efficacy and safety of fedratinib shortly after its approval in the US for immediate- and high-risk myelofibrosis mentions that common adverse reactions are diarrhea, nausea and anemia, less common but potentially serious reactions include Wernicke&#x02019;s encephalopathy, myelosuppression, gastrointestinal toxicity, amylase and lipase elevations and serum aminotransferase elevations, which occur in 43% of treated subjects versus 14% in placebo controls, but are above 5 times ULN in only 9% vs 1%).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31571162</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.talpaz.2021.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Talpaz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kiladjian</surname><given-names>JJ</given-names></name>
+</person-group>
+              <article-title>Fedratinib, a newly approved treatment for patients with myeloproliferative neoplasm-associated myelofibrosis.</article-title>
+              <source>Leukemia.</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <fpage>1</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>(Review of the clinical features and pathogenesis of myelofibrosis and the mechanism of action, pharmacology, clinical efficacy and safety of fedratinib).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32647323</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.coltro.2021.139">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Coltro</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Vannucchi</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>The safety of JAK kinase inhibitors for the treatment of myelofibrosis.</article-title>
+              <source>Expert Opin Drug Saf.</source>
+              <year>2021</year>
+              <volume>20</volume>
+              <fpage>139</fpage>
+              <lpage>154</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action and safety of JAK inhibitors used in the treatment of myelofibrosis including fedratinib and ruxolitinib as well as several experimental agents; mentions that fedratinib has been associated with ALT elevations during therapy).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33327810</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.pardanani.2021.244">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pardanani</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tefferi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Masszi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mishchenko</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Drummond</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jourdan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vannucchi</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Updated results of the placebo-controlled, phase III JAKARTA trial of fedratinib in patients with intermediate-2 or high-risk myelofibrosis.</article-title>
+              <source>Br J Haematol.</source>
+              <year>2021</year>
+              <volume>195</volume>
+              <fpage>244</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>(Updated analysis of the randomized controlled trial of fedratinib in patients with myelofibrosis that had been placed on hold in 2013 because of serious adverse events [Wernicke&#x02019;s encephalopathy], based up 96 enrolled subjects treated with 400 mg of fedratinib vs 96 treated with placebo for 24 weeks, in whom spleen responses occurred in 47% vs 1% and improved symptom burden in 40% vs 9%, common adverse events being diarrhea [66%], nausea [62%], anemia [40%], vomiting [39%], fatigue [19%], muscle spasms [12%], creatinine elevations [59% vs 19%], lipase elevations [35% vs 7%] and ALT elevations [43% vs 14%] being 5 times ULN or more [1% vs none] with no patient developing clinically apparent liver injury).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34331348</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fedratinib.REF.harrison.2022.317">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Harrison</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Schaap</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Vannucchi</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Kiladjian</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Passamonti</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Zweegman</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Talpaz</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of fedratinib, a selective oral inhibitor of Janus kinase-2 (JAK2), in patients with myelofibrosis and low pretreatment platelet counts.</article-title>
+              <source>Br J Haematol.</source>
+              <year>2022</year>
+              <volume>198</volume>
+              <fpage>317</fpage>
+              <lpage>327</lpage>
+              <annotation>
+                <p>(Reanalysis of trials of fedratinib in patients with myelofibrosis comparing those with low vs higher platelet counts [50,000 to 100,000 vs &#x0003e;100,000 per &#x000b5;L] found that response rates were similar and adverse event rates were similar except for thrombocytopenia; no mention of ALT elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35476316</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Fedratinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Fedratinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Fedratinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fedratinib">Trials on Fedratinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Trilaciclib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Trilaciclib</book-part-id>
+      <title-group>
+        <title>Trilaciclib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trihexyphenidyl" document-type="chapter">Trihexyphenidyl</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Trimethobenzamide" document-type="chapter">Trimethobenzamide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Trilaciclib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Trilaciclib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Trilaciclib is an intravenously administered, small molecule inhibitor of cyclin-dependent kinases 4 and 6, that is used to decrease chemotherapy-induced myelosuppression. Serum aminotransferase elevations arise in a small proportion of patients treated with the highest doses of trilaciclib, but episodes of clinically apparent liver injury have not been reported with its use.</p>
+        </sec>
+        <sec id="Trilaciclib.Background">
+          <title>Background</title>
+          <p>Trilaciclib (trye&#x0201d; la sye&#x02019; klib) is a first-in-class, short acting inhibitor of cyclin-dependent kinases 4 and 6, that is used to prevent bone marrow suppression by anticancer therapies. Trilaciclib causes transient G1 cell cycle arrest in hematopoietic cells protecting them against the myelosuppression caused by cytotoxic antineoplastic medications. In animal models and in pilot clinical trials, administration of trilaciclib shortly before starting infusions of cytotoxic antineoplastic agents, lessened the typical decrease in red and white cell counts that occurred with cancer chemotherapy. In several prospective, placebo-controlled randomized trials, infusions of trilaciclib within 4 hours of starting chemotherapeutic agents such as cisplatin, etoposide, and topotecan were associated with fewer episodes of severe neutropenia and neutropenic sepsis but with no change in antineoplastic activity. Trilaciclib was granted accelerated approval for use in chemotherapy in 2021 in the United States for adults with advanced or metastatic small cell lung cancer receiving a platinum-based regimen or a topotecan-based regimen. Trilaciclib is available as a powder for reconstitution in single use vials of 300 mg under the brand name Cosela. The recommended regimen is 240 mg/m<sup>2</sup> infused over 30 minutes within 4 hours of starting chemotherapy for each day of antineoplastic administration (typically days 1 to 3 of 28-day cycles). Trilaciclib is under evaluation in other chemotherapeutic regimens for other advanced cancers. Side effects can include infusion and hypersensitivity reactions as well as fatigue, headache, nausea and vomiting, poor appetite, weight loss, infusion reactions, and thrombophlebitis. Therapy can also cause decreases in serum calcium, phosphate, and potassium, and elevations in creatinine and aminotransferase levels. Uncommon but potentially severe adverse events include severe hypersensitivity reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Trilaciclib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of trilaciclib in patients with advanced cancer receiving cytotoxic chemotherapy, serum AST elevations arose in 17% of trilaciclib vs 14% of placebo recipients. The AST elevations were usually self-limited and mild and elevations above 5 times the upper limit of normal (ULN) were uncommon, being found in &#x0003c;1% of treated patients. In the randomized controlled trials supporting the approval of trilaciclib, there were no instances of clinically apparent liver injury, hepatic failure or deaths from liver injury. Since its approval and more general use, there have been no published reports of hepatoxicity attributed to trilaciclib.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Trilaciclib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from trilaciclib is unknown, but the pattern of abnormalities suggests a minor degree of direct toxicity. Trilaciclib is metabolized in the liver via the cytochrome P450 system, largely by CYP 3A4 and to a lesser extent by CYP 2C8. Trilaciclib is susceptible to drug-drug interactions with agents that inhibit or induce CYP 3A4 activity, which should be avoided while it is being used.</p>
+        </sec>
+        <sec id="Trilaciclib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for trilaciclib does not recommend regular monitoring of liver tests, but if serum aminotransferase levels above 5 times the ULN are identified, therapy should be held until levels fall into the normal or near normal range, at which point it can be started at the same or a reduced dose as clinically indicated and with close continued monitoring. Cross sensitivity to liver injury is uncommon among the antineoplastic small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of trilaciclib with other antineoplastic protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Trilaciclib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Trilaciclib &#x02013; Cosela&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Trilaciclib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Trilaciclib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Trilaciclib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Trilaciclib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Trilaciclib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Trilaciclib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Trilaciclib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Trilaciclib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Trilaciclib</td>
+                <td headers="hd_h_Trilaciclib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://329726894">1374743-00-6</ext-link>
+</td>
+                <td headers="hd_h_Trilaciclib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C24-H30-N8-O</td>
+                <td headers="hd_h_Trilaciclib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="329726894" document-id-type="sid" document-type="summary" object-id="329726894" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Trilaciclib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 October 2023</p>
+        <p>Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; PR, progesterone receptor.</p>
+        <ref-list id="Trilaciclib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Trilaciclib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss trilaciclib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214200Orig1s000SumR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214200Orig1s000SumR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial product label and multidiscipline review of the safety and efficacy of trilaciclib describes 240 patients treated with trilaciclib [122] vs placebo [118] in whom deaths occurred in 75% of each group, serious adverse events in 30% vs 25%, febrile neutropenia 3% vs 6%, any infection 7% vs 10%, fatigue 34% vs 27%, hypocalcemia 24% vs 21%, hypokalemia 22% vs 18%, AST elevations 17% vs 14%, headache 13% vs 9%, infusion site reactions 13% vs 3%, rash 9% vs 6%, and thrombophlebitis 4% vs &#x0003c;1%; no mention of clinically apparent liver injury or deaths from liver failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.tan.2019.1587">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tan</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Wright</surname>
+<given-names>GS</given-names></string-name>, <string-name name-style="western"><surname>Thummala</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Danso</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Popovic</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Pluard</surname>
+<given-names>TJ</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>HS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Trilaciclib plus chemotherapy versus chemotherapy alone in patients with metastatic trip le-negative breast cancer: a multicentre, randomised, open-label, phase 2 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2019</year>;<volume>20</volume>:<fpage>1587</fpage>-<lpage>1601</lpage>.<annotation><p><italic toggle="yes">(Among 102 adults with recurrent or metastatic triple negative breast cancer treated with gemcitabine and carboplatin with or without one of two regimens of trilaciclib, indices of myelosuppression and rates of febrile neutropenia were similar in all groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31575503</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.hart.2021.350">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hart</surname>
+<given-names>LL</given-names></string-name>, <string-name name-style="western"><surname>Ferrarotto</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Andric</surname>
+<given-names>ZG</given-names></string-name>, <string-name name-style="western"><surname>Beck</surname>
+<given-names>JT</given-names></string-name>, <string-name name-style="western"><surname>Subramanian</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Radosavljevic</surname>
+<given-names>DZ</given-names></string-name>, <string-name name-style="western"><surname>Zaric</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>
+<article-title>Myelopreservation with trilaciclib in patients receiving topotecan for small cell lung cancer: results from a randomized, double-blind, placebo-controlled phase II study.</article-title>
+<source>Adv Ther.</source>
+<year>2021</year>;<volume>38</volume>:<fpage>350</fpage>-<lpage>365</lpage>.<annotation><p><italic toggle="yes">(Among 61 adults with extensive small cell lung cancer treated with topotecan [days 1 to 5 of 21-day cycles] with or without pretreatment with trilaciclib, serious neutropenia was less frequent [41% vs 76%] and shorter in duration [median 1 vs 7 days] as were rates of thrombocytopenia [63% vs 68%] and anemia [53% vs 61%] while side effect rates were usually similar [except headache at 41% vs 36%]; no mention of infusion reactions, ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33123968</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.daniel.2020.2557">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Daniel</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Kuchava</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Bondarenko</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Ivashchuk</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Jaal</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kudaba</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Trilaciclib prior to chemotherapy and atezolizumab in patients with newly diagnosed extensive-stage small cell lung cancer: A multicentre, randomised, double-blind, placebo-controlled Phase II trial.</article-title>
+<source>Int J Cancer.</source>
+<year>2020</year>;<volume>148</volume>:<fpage>2557</fpage>&#x02013;<lpage>70</lpage>.<annotation><p><italic toggle="yes">(Among 105 adults with advanced or metastatic small cell lung cancer treated with trilaciclib vs placebo at the time of intravenous platin/etoposide-based chemotherapy, the rate of severe neutropenia was 1.9% vs 49% and duration of neutropenia 0 vs 4 days, while adverse events were mostly mild and transient, AST elevations arising in 12% vs 4% and being above 5 times ULN in 2% vs none, but there were no liver related discontinuations or fatalities).</italic></p></annotation><pub-id pub-id-type="pmid">33348420</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.dhillon.2021.867">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Trilaciclib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>(<issue>7</issue>):<fpage>867</fpage>-<lpage>874</lpage>.<annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of trilaciclib shortly after its approval in the US, the first agent approved for prophylaxis against chemotherapy induced myelosuppression).</italic></p></annotation><pub-id pub-id-type="pmid">33861388</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.roskoski.2022.106037">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Roskoski</surname>
+<given-names>R</given-names>
+<suffix>Jr</suffix></string-name>. <article-title>Properties of FDA-approved small molecule protein kinase inhibitors: a 2022 update.</article-title>
+<source>Pharmacol Res.</source>
+<year>2022</year>;<volume>175</volume>:<elocation-id>106037</elocation-id>.<annotation><p><italic toggle="yes">(Comprehensive review of human protein kinases and the 68 small molecular inhibitors that have been approved for use in neoplastic [n=58], autoimmune, cardiovascular, neurologic, and inflammatory diseases; the 68 drugs can be categorized as serine/threonine [n=12], tyrosine [n=42], or dual [n=4] kinase inhibitors, and as tyrosine receptor [n=39] or nonreceptor [n=13] inhibitors; trilaciclib is a non-receptor tyrosine kinase inhibitor and unlike most kinase protein inhibitors is given intravenously to achieve high levels of inhibition of hematopoietic cells to protect them against the cytotoxicity of anticancer drugs, a controversial issue being whether it also protects cancer cell from the cytotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34921994</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF10">
+            <mixed-citation publication-type="journal"><article-title>Trilaciclib (Cosela) for prevention of chemotherapy-related myelosuppression.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>:<fpage>174</fpage>-<lpage>175</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and cost of trilaciclib shortly after its approval in the US mentions that AST elevations occur in more than 10% of treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">35085207</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trilaciclib.REF.goel.2022.3701">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Goel</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Rugo</surname>
+<given-names>HS</given-names></string-name>, <string-name name-style="western"><surname>Aftimos</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Andri&#x00107;</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Beelen</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Trilaciclib prior to gemcitabine plus carboplatin for metastatic triple-negative breast cancer: phase III PRESERVE 2.</article-title>
+<source>Future Oncol.</source>
+<year>2022</year>;<volume>18</volume>:<fpage>3701</fpage>-<lpage>3711</lpage>.<annotation><p><italic toggle="yes">(Rationale for and design of a phase 3 placebo-controlled trial of trilaciclib in adults with metastatic breast cancer negative for estrogen, progesterone and human epidermal growth factor 2 receptors).</italic></p></annotation><pub-id pub-id-type="pmid">36135712</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Trilaciclib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Trilaciclib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Trilaciclib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Trilaciclib">Trials on Trilaciclib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

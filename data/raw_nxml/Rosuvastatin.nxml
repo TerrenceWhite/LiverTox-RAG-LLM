@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rosuvastatin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rosuvastatin</book-part-id>
+      <title-group>
+        <title>Rosuvastatin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rosiglitazone" document-type="chapter">Rosiglitazone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rotigotine" document-type="chapter">Rotigotine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rosuvastatin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rosuvastatin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rosuvastatin is a commonly used cholesterol lowering agent (statin) that is associated with mild, asymptomatic and self-limited serum aminotransferase elevations during therapy, and rarely with clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Rosuvastatin.Background">
+          <title>Background</title>
+          <p>Rosuvastatin (roe soo" va stat' in) is a potent, orally available inhibitor of hepatic 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the major rate-limiting enzyme in cholesterol synthesis. Like other members of its class (the &#x0201c;statins&#x0201d;), rosuvastatin lowers total serum cholesterol and low density lipoprotein (LDL) concentrations, thereby reducing the risk of atherosclerosis and its complications &#x02013; myocardial infarction and stroke. Rosuvastatin was approved for use in the United States in 2003 and currently more than 40 million prescriptions are filled yearly. Rosuvastatin is indicated for the treatment of hypercholesterolemia in persons at high risk for coronary, cerebrovascular and peripheral artery disease and for children and adults with homozygous familial hypercholesterolemia. Rosuvastatin has been shown to slow progression of atherosclerosis and to prevent cardiovascular disease and is approved for those indications. Rosuvastatin is available in tablets of 5, 10, 20, and 40 mg generically and under the trade name Crestor. Rosuvastatin is one of the more potent statins available and is typically used in a comparably lower dose. The recommended dose in adults is 5 to 40 mg once daily, based upon tolerability and lipid levels. Persons of Asian descent should receive a lower dose (5 to 10 mg daily) because of alternations in its metabolism. More recent recommendations are that rosuvastatin be started at a maximum dose of 20 mg daily (10 mg in Asians, children, patients with renal impairment, and those on CYP 3A4 inhibitors). Common side effects are a major reason for dose adjustment and include muscle cramps, headache, joint aches, abdominal pain, nausea, and weakness, symptoms that occur with all currently available statins. Rare but potentially severe adverse events include liver injury, myopathy, rhabdomyolysis, and immune-mediated necrotizing myopathy.</p>
+        </sec>
+        <sec id="Rosuvastatin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Rosuvastatin therapy is associated with mild, asymptomatic and usually transient serum aminotransferase elevations in 1% to 3% of patients. ALT levels above 3 times the upper limit of normal (ULN) occur slightly more frequently among rosuvastatin treated [1.1%] than placebo [0.5%] recipients. Serum enzyme elevations are more common with higher doses of rosuvastatin, being 2.2% with 40 mg daily. Most of these elevations are self-limited and do not require dose modification. Rosuvastatin is also associated with frank, clinically apparent hepatic injury but this is rare, estimated to occur in only 1:16,000 patients, a rate that is lower than atorvastatin (1:10,000) but higher than simvastatin (1:52,000). The onset is typically after 2 to 4 months and the pattern of serum enzyme elevations is usually hepatocellular, although cholestatic cases have also been reported. Rash, fever and eosinophilia are uncommon. Several statins including rosuvastatin have been linked to hepatitis with autoimmune features marked by ANA positivity, elevations in serum immunoglobulin levels, and a clinical response to corticosteroids. Such features are not, however, invariable (Case 1). The injury is usually self-limited and resolves rapidly once rosuvastatin is stopped, but it can be severe and fatal instances have been reported.</p>
+          <p>A challenge in the diagnosis of drug induced liver injury in patients on statins and particularly those on rosuvastatin is the rare occurrence of severe myopathy and rhabdomyolysis, which is often accompanied by serum ALT and AST elevations. These patients, however, present with muscle pain and weakness rather than fatigue, dark urine and jaundice. While ALT levels may be elevated, they are generally mild-to-moderate in severity and greatly overshadowed by marked elevations in AST and CPK which are typical of muscle injury. A further clue for the diagnosis is lack of elevations in Alk P and bilirubin and other specific markers of liver injury.</p>
+          <p>Likelihood score: A (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rosuvastatin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of hepatic injury from rosuvastatin is unknown. Rosuvastatin is minimally (~10%) metabolized in the liver via CYP 2C9. The mild, self-limited ALT elevations may be due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation. The idiosyncratic, clinically apparent liver injury associated with rosuvastatin is often accompanied by autoimmune features and may, therefore, be caused by immune mechanisms.</p>
+        </sec>
+        <sec id="Rosuvastatin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for rosuvastatin recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The mild ALT elevations associated with rosuvastatin therapy are usually self-limited and do not require dose modification. Rosuvastatin should be stopped if ALT levels rise above 10-fold the ULN or persist in being above 5-fold elevated or are associated with symptoms. In the clinically apparent liver injury attributed to rosuvastatin, recovery is usually complete within 1 to 2 months. Recurrence of injury with rechallenge has been reported and should be avoided. Cases of chronic hepatitis, but no instances of vanishing bile duct syndrome attributable to rosuvastatin have been reported. In cases of autoimmune hepatitis-like injury, corticosteroids have been used when recovery does not occur promptly. If corticosteroids are used, the dose and duration of treatment should be kept to a minimum, and careful follow up after stopping is essential. Switching therapy to another statin after rosuvastatin induced injury is apparently safe, but few instances have been reported, and it should be done with careful monitoring for recurrence.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Lipid-LoweringAgents" document-type="book-part">Antilipemic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="Statins" document-type="book-part">Statins</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Atorvastatin" document-type="book-part">Atorvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ezetimibe" document-type="book-part">Ezetimibe [used in combination]</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluvastatin" document-type="book-part">Fluvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lovastatin" document-type="book-part">Lovastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pitavastatin" document-type="book-part">Pitavastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pravastatin" document-type="book-part">Pravastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Simvastatin" document-type="book-part">Simvastatin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rosuvastatin.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Rosuvastatin.Case_1_Acute_selflimited_he">
+          <title>Case 1. Acute self-limited hepatitis during rosuvastatin therapy.(<xref ref-type="bibr" rid="Rosuvastatin.REF.1">1</xref>)</title>
+          <p>A 64 year old man developed jaundice approximately 15 weeks after starting rosuvastatin (10 mg daily) for hypercholesterolemia. He had a history of acute myocardial infarction four months previously, which was treated with angioplasty and stenting. Discharge medications included clopidogrel, aspirin, metoprolol, ramipril and atorvastatin. One week later he developed skin rash and minor ALT elevations (55 U/L), and rosuvastatin was substituted for atorvastatin. Subsequently, he felt well until 3 months later when he developed malaise, anorexia and upper abdominal discomfort followed by jaundice. On examination, he had no fever, rash or signs of chronic liver disease. Laboratory results showed elevations in serum bilirubin and aminotransferase levels, but normal alkaline phosphatase and GGT values (Table). Tests for hepatitis A, B, C, and E were negative as were routine autoantibodies. Ultrasonography of the liver and biliary tree was normal. Rosuvastatin was stopped while blood pressure and antiplatelet medications were continued. Liver test abnormalities improved promptly and were normal two weeks later.</p>
+          <sec id="Rosuvastatin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Rosuvastatin.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Rosuvastatin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Rosuvastatin.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Rosuvastatin (10 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Rosuvastatin.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Rosuvastatin.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (aminotransferase elevations only)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Rosuvastatin.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Rosuvastatin.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Rosuvastatin.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Rosuvastatin.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">15 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Rosuvastatin.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Rosuvastatin.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Rosuvastatin.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Rosuvastatin.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Clopidogrel, aspirin, metoprolol, ramipril, atorvastatin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Rosuvastatin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Rosuvastatin.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P*<break/>(U/L)</th>
+                    <th id="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Discharge after heart attack</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Atorvastatin stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1 hd_h_Rosuvastatin.Td_1_1_1_2 hd_h_Rosuvastatin.Td_1_1_1_3 hd_h_Rosuvastatin.Td_1_1_1_4 hd_h_Rosuvastatin.Td_1_1_1_5 hd_h_Rosuvastatin.Td_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Atorvastatin stopped and rosuvastatin started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">775</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.6</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admission: rosuvastatin stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">198</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR Normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">17 weeks</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_1 hd_h_Rosuvastatin.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;36</bold>
+</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;117</bold>
+</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Rosuvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Rosuvastatin.TF.d.1">
+                  <label>* </label>
+                  <p>Some values estimated from Figure 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Rosuvastatin.Comment">
+            <title>Comment</title>
+            <p>The onset of hepatocellular injury approximately 3 months after starting rosuvastatin and the rapid recovery with stopping therapy makes the diagnosis of rosuvastatin induced acute hepatitis highly likely. Other diagnoses were appropriately ruled out, and there was documentation of normal liver tests before starting statin therapy. Acute, clinically apparent liver injury is rare with rosuvastatin therapy (~1:16,000 patients treated) and is rapidly reversible with prompt discontinuation of therapy. Rechallenge with rosuvastatin is inadvisable, but other statins might be initiated with careful monitoring of serum enzymes.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Rosuvastatin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Rosuvastatin &#x02013; Generic, Crestor&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antilipemic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=rosuvastatin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Rosuvastatin.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rosuvastatin.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Rosuvastatin.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rosuvastatin.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Rosuvastatin.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rosuvastatin.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rosuvastatin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Rosuvastatin</td>
+                <td headers="hd_h_Rosuvastatin.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135084331">287714-41-4</ext-link>
+</td>
+                <td headers="hd_h_Rosuvastatin.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C22-H28-F-N3-O6-S</td>
+                <td headers="hd_h_Rosuvastatin.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135084331" document-id-type="sid" document-type="summary" object-id="135084331" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rosuvastatin.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Rosuvastatin.CITED_REFERENCE.reflist0">
+          <ref id="Rosuvastatin.REF.1">
+            <label>1</label>
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Famularo</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Miele</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Minisola</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Grieco</surname>
+<given-names>A</given-names></string-name>. <article-title>Liver toxicity of rosuvastatin therapy.</article-title>
+<source>World J Gastroenterol</source>
+<year>2007</year>; <volume>13</volume>: <fpage>1286</fpage>-<lpage>8</lpage>.<pub-id pub-id-type="pmid">17451217</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Rosuvastatin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 March 2025</p>
+        <p>Abbreviations used: ANA, antinuclear antibody; HDL, high density lipoprotein; LDL, low density lipoprotein; OD, odds ratio.</p>
+        <ref-list id="Rosuvastatin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Rosuvastatin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the statins have dose related hepatic effects in guinea pigs and rabbits, and transient elevations in aminotransferases occur in 1-5% of humans treated; several cases of clinically apparent liver injury from lovastatin and simvastatin have been published).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic medications. Lipid lowering agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 519-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering agents; asymptomatic elevations in aminotransferases are common in patients receiving statins, but clinically significant hepatotoxicity is rare).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.gurgle.2018">
+            <mixed-citation publication-type="book">Gurgle H, Blumenthal DK. Drug therapy for dyslipidemias. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 605-618.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; &#x0201c;Serious hepatotoxicity is rare and unpredictable, with a rate of about 1 case per million person-years of use.&#x0201d; Multiple academic societies and the FDA recommend testing all patients for routine liver tests before starting statins but monitoring or retesting only if symptoms arise).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.brewer.2003.23k">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brewer</surname>
+<given-names>HB</given-names>
+<suffix>Jr</suffix></string-name>. <article-title>Benefit-risk assessment of rosuvastatin 10 to 40 milligrams.</article-title>
+<source>Am J Cardiol</source>
+<year>2003</year>; <volume>92</volume> (<supplement>Suppl</supplement>): <fpage>23K</fpage>-<lpage>29K</lpage>.<annotation><p><italic toggle="yes">(Review of efficacy and safety of rosuvastatin in doses of up to 80 mg daily in 12,569 patients [14,231 patient years]: ALT elevations &#x0003e;3 times ULN occurred in 0.2% and similar rate in comparators: atorvastatin, simvastatin, and pravastatin).</italic></p></annotation><pub-id pub-id-type="pmid">12948873</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.simonson.2003.669">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Simonson</surname>
+<given-names>SG</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>PD</given-names></string-name>, <string-name name-style="western"><surname>Mitchell</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Schneck</surname>
+<given-names>DW</given-names></string-name>, <string-name name-style="western"><surname>Lasseter</surname>
+<given-names>KC</given-names></string-name>, <string-name name-style="western"><surname>Warwick</surname>
+<given-names>MJ</given-names></string-name>. <article-title>Pharmacokinetics and pharmacodynamics of rosuvastatin in subjects with hepatic impairment.</article-title>
+<source>Eur J Clin Pharmacol.</source>
+<year>2003</year>;<volume>58</volume>:<fpage>669</fpage>-<lpage>75</lpage>.<annotation><p><italic toggle="yes">(Pharmacokinetic studies of rosuvastatin [10 mg daily for 10 days] in 18 subjects, found normal peak and total area under the curve levels in 6 of 6 with Child Class A and 4 of 6 with Child Class B cirrhosis [alcoholic] compared to 6 of 6 subjects with normal liver function).</italic></p></annotation><pub-id pub-id-type="pmid">12610743</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.shepherd.2004.882">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shepherd</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hunninghake</surname>
+<given-names>DB</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Kastelein</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Harris</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Pears</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hutchinson</surname>
+<given-names>HG</given-names></string-name>. <article-title>Safety of rosuvastatin.</article-title>
+<source>Am J Cardiol</source>
+<year>2004</year>; <volume>94</volume>: <fpage>882</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Overview of safety of rosuvastatin based upon data from 12,400 patients in clinical trials using 5-40 mg daily; rates of adverse events similar to those with placebo, rates of ALT elevations &#x0003e;3 times ULN were 0.5% with 5, 0.1% with 10, 0.1% with 20, and 0.3% with 40 mg, with overall rates 0.2% similar to comparator statins).</italic></p></annotation><pub-id pub-id-type="pmid">15464670</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.wolters.2005.589">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wolters</surname>
+<given-names>LMM</given-names></string-name>, <string-name name-style="western"><surname>Van Buuren</surname>
+<given-names>HR</given-names></string-name>. <article-title>Rosuvastatin-associated hepatitis with autoimmune features</article-title>
+<comment>(letter)</comment>. <source>Eur J Gastroenterol Hepatol</source>
+<year>2005</year>; <volume>17</volume>: <fpage>589</fpage>-<lpage>90</lpage>.<annotation><p><italic toggle="yes">(46 year old developed jaundice 9 weeks after starting rosuvastatin [bilirubin 7.9 mg/dL, ALT 2539 U/L, Alk P 151 U/L, IgG 2.4 g/dL, SMA1:160], improved upon stopping rosuvastatin, but eventually required long term corticosteroid therapy [during follow up for more than 4 years after this publication]).</italic></p></annotation><pub-id pub-id-type="pmid">15827453</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.alsheikhali.2005.3051">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Alsheikh-Ali</surname>
+<given-names>AA</given-names></string-name>, <string-name name-style="western"><surname>Ambrose</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Kuvin</surname>
+<given-names>JT</given-names></string-name>, <string-name name-style="western"><surname>Karas</surname>
+<given-names>RH</given-names></string-name>. <article-title>The safety of rosuvastatin as used in common clinical practice: a postmarketing analysis.</article-title>
+<source>Circulation</source>
+<year>2005</year>; <volume>111</volume>: <fpage>3051</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Review of MedWatch adverse event reports on rosuvastatin over the first year of marketing; rates of liver related reports were 25 per million prescriptions for rosuvastatin compared to 4-5 for simvastatin, pravastatin and atorvastatin and rates also higher for comparable marketing period of the other statins).</italic></p></annotation><pub-id pub-id-type="pmid">15911706</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.mckenney.2006.s310">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>McKenney</surname>
+<given-names>JM</given-names></string-name>. <article-title>An assessment of statin safety.</article-title>
+<source>Am J Manag Care</source>
+<year>2006</year>; <volume>12</volume>: <fpage>S310</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Review of the safety of the statins; liver failure reported at a rate of 1 per million, which is similar to nonstatin-taking population, recommends monitoring based upon symptoms rather than blood test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">17042673</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.conforti.2006.1163">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Conforti</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Magro</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Moretti</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Scotto</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Motola</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Salvo</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Ros</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>
+<article-title>Fluvastatin and hepatic reactions: a signal from spontaneous reporting in Italy.</article-title>
+<source>Drug Safety</source>
+<year>2006</year>; <volume>29</volume>: <fpage>1163</fpage>-<lpage>72</lpage>.<annotation><p><italic toggle="yes">(Italian Pharmacovigilance Group review of 35,757 adverse reaction reports; 1260 due to statins of which 178 were hepatic: 69 [36%] fluvastatin, 37 [21%] atorvastatin, 50 [28%] simvastatin, 16 [9%] pravastatin, 6 [3%] rosuvastatin; proportion reporting rate based on number of prescriptions was highest for fluvastatin [~9] compared to other agents [~2-3]).</italic></p></annotation><pub-id pub-id-type="pmid">17147462</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.zipes.2006.73">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zipes</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Zvaifler</surname>
+<given-names>NJ</given-names></string-name>, <string-name name-style="western"><surname>Glassock</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Gilman</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mu&#x000f1;oz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gogolak</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Gordis</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Rosuvastatin: an independent analysis of risks and benefits.</article-title>
+<source>MedGenMed</source>
+<year>2006</year>; <volume>8</volume>: <fpage>73</fpage>.<annotation><p><italic toggle="yes">(Expert review of the literature concludes that safety and tolerability of rosuvastatin is similar to other statins, and rates of liver injury are very low).</italic></p></annotation><pub-id pub-id-type="pmid">16926812</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.mcafee.2006.444">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>McAfee</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Ming</surname>
+<given-names>EE</given-names></string-name>, <string-name name-style="western"><surname>Seeger</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Quinn</surname>
+<given-names>SG</given-names></string-name>, <string-name name-style="western"><surname>Ng</surname>
+<given-names>EW</given-names></string-name>, <string-name name-style="western"><surname>Danielson</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Cutone</surname>
+<given-names>JA</given-names></string-name>, <etal>et al.</etal>
+<article-title>The comparative safety of rosuvastatin: a retrospective matched cohort study in over 48,000 initiators of statin therapy.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2006</year>; <volume>15</volume>: <fpage>444</fpage>-<lpage>53</lpage>.<annotation><p><italic toggle="yes">(Analysis of electronic records on 11,249 patients starting rosuvastatin compared to 37,282 starting another statin; over the first 6 months of treatment, hepatic dysfunction reported in 2 [0.020%] starting rosuvastatin vs 8 [0.024%] starting other statins).</italic></p></annotation><pub-id pub-id-type="pmid">16761308</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.goettsch.2006.435">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Goettsch</surname>
+<given-names>WG</given-names></string-name>, <string-name name-style="western"><surname>Heintjes</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Kastelein</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Rabelink</surname>
+<given-names>TJ</given-names></string-name>, <string-name name-style="western"><surname>Johansson</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Herings</surname>
+<given-names>RM</given-names></string-name>. <article-title>Results from a rosuvastatin historical cohort study in more than 45,000 Dutch statin users, a PHARMO study.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2006</year>; <volume>15</volume>: <fpage>435</fpage>-<lpage>43</lpage>.<annotation><p><italic toggle="yes">(Analysis of electronic database on more than 2 million Dutch residents comparing those on rosuvastatin [10,147], other statins [37,396] and non-users [99,935]; hepatic impairment identified in none on rosuvastatin, 4 [0.011%] on statins and 7 [0.006%] controls).</italic></p></annotation><pub-id pub-id-type="pmid">16761304</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.silva.2006.26">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Silva</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Swanson</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Gandhi</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Tataronis</surname>
+<given-names>GR</given-names></string-name>. <article-title>Statin-related adverse events: a meta-analysis.</article-title>
+<source>Clin Ther</source>
+<year>2006</year>; <volume>28</volume>: <fpage>26</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Metaanalysis of adverse event rates in 18 placebo controlled trials of six statins in 71,108 patients; ALT elevations &#x0003e;3 times ULN in 1.7% of statin vs 1.4% placebo recipients; event rates highest with atorvastatin, lowest with fluvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">16490577</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.antonopoulos.2006.233">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Antonopoulos</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mikros</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mylonopoulou</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kokkoris</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Giannoulis</surname>
+<given-names>G</given-names></string-name>. <article-title>Rosuvastatin as a novel treatment of non-alcoholic fatty liver disease in hyperlipidemic patients.</article-title>
+<source>Atherosclerosis</source>
+<year>2006</year>; <volume>184</volume>: <fpage>233</fpage>-<lpage>4</lpage>.<annotation><p><italic toggle="yes">(Open label study of rosuvastatin [10 mg/day] for 8 months in 23 patients with nonalcoholic fatty liver disease; ALT levels fell to normal in all patients and no instance of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16168995</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.clearfield.2006.35">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Clearfield</surname>
+<given-names>MB</given-names></string-name>, <string-name name-style="western"><surname>Amerena</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Bassand</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Hern&#x000e1;ndez Garc&#x000ed;a</surname>
+<given-names>HR</given-names></string-name>, <string-name name-style="western"><surname>Miller</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Sosef</surname>
+<given-names>FF</given-names></string-name>, <string-name name-style="western"><surname>Palmer</surname>
+<given-names>MK</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comparison of the efficacy and safety of rosuvastatin 10 mg and atorvastatin 20 mg in high-risk patients with hypercholesterolemia &#x02013; Prospective study to evaluate the Use of Low doses of the Statins Atorvastatin and Rosuvastatin (PULSAR).</article-title>
+<source>Trials</source>
+<year>2006</year>; <volume>7</volume>: <fpage>35</fpage>.<annotation><p><italic toggle="yes">(Controlled trial comparing rosuvastatin [10 mg] vs atorvastatin [20 mg] daily for 6 weeks; one patient on atorvastatin had confirmed ALT elevations &#x0003e;3 times ULN; no clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17184550</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.law.2006.52c">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Law</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Rudnicka</surname>
+<given-names>AR</given-names></string-name>. <article-title>Statin safety: a systematic review.</article-title>
+<source>Am J Cardiol</source>
+<year>2006</year>; <volume>97</volume> (<issue>8A</issue>): <fpage>52C</fpage>-<lpage>60C</lpage>.<annotation><p><italic toggle="yes">(Review of safety of statins; 38 cases of acute liver failure attributed to statins were submitted to MedWatch by end of 1999, which gives an estimated rate of 1 per million person years of use; rate of confirmed ALT elevations &#x0003e;3 times ULN is 0.1% with statins and 0.04% with placebo).</italic></p></annotation><pub-id pub-id-type="pmid">16581329</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.guthrie.2007.573">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Guthrie</surname>
+<given-names>RM</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>DR</given-names></string-name>. <article-title>The safety of rosuvastatin: effects on renal and hepatic function.</article-title>
+<source>Expert Opin Drug Saf</source>
+<year>2007</year>; <volume>6</volume>: <fpage>573</fpage>-<lpage>81</lpage>.<annotation><p><italic toggle="yes">(Review of hepatic adverse events due to rosuvastatin without new information; ALT elevations occur at a similar rate during rosuvastatin as with other statins and average ~0.4%; acute liver failure has not been definitely linked to statins, estimated rate being ~1 per million patient years, similar to background rate; authors argue against routine monitoring of liver enzymes during rosuvastatin therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17877444</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.kasliwal.2007.157">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kasliwal</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wilton</surname>
+<given-names>LV</given-names></string-name>, <string-name name-style="western"><surname>Cornelius</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Aurich-Barrera</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Shakir</surname>
+<given-names>SA</given-names></string-name>. <article-title>Safety profile of rosuvastatin: results of a prescription-event monitoring study of 11,680 patients.</article-title>
+<source>Drug Saf</source>
+<year>2007</year>; <volume>30</volume>: <fpage>157</fpage>-<lpage>70</lpage>.<annotation><p><italic toggle="yes">(Postmarketing study of 11,680 patients on rosuvastatin; therapy stopped in 17.5% because of adverse events, myalgias being most frequent reason; ALT or AST elevations in 101 patients [~1%], but only 9 [~0.1%] had confirmed ALT values &#x0003e;3 times ULN, one patient developed an autoimmune hepatitis-like syndrome 4 months after starting rosuvastatin, resolving spontaneously with stopping, another patient had cholestatic jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">17253880</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.bhardwaj.2007.597">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bhardwaj</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>. <article-title>Lipid-lowering agents that cause drug-induced hepatotoxicity.</article-title>
+<source>Clin Liver Dis</source>
+<year>2007</year>; <volume>11</volume>: <fpage>597</fpage>-<lpage>613</lpage>.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of statins; reported rates of ALT or AST elevations &#x0003e;3 times ULN: atorvastatin 0.7%, fluvastatin 1.2%, lovastatin 0.6%, pravastatin 1.4%, rosuvastatin 0%, and simvastatin 1.8%. Usually asymptomatic, individual case reports of autoimmune hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">17723922</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.stein.2007.1387">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Stein</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Amerena</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ballantyne</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Brice</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Farnier</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Guthrie</surname>
+<given-names>RM</given-names></string-name>, <string-name name-style="western"><surname>Harats</surname>
+<given-names>D</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term efficacy and safety of rosuvastatin 40 mg in patients with severe hypercholesterolemia.</article-title>
+<source>Am J Cardiol</source>
+<year>2007</year>; <volume>100</volume>: <fpage>1387</fpage>-<lpage>96</lpage>.<annotation><p><italic toggle="yes">(Open label, extension study of rosuvastatin [40 mg daily] for 2 years in 1,380 patients with severe hypercholesterolemia; confirmed ALT elevations &#x0003e;3 times ULN occurred in 0.8%, half resolved despite continuing therapy, no clinically apparent hepatitis or jaundice and no deaths from liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">17950795</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.merz.2007.1818">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Merz</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fuller</surname>
+<given-names>SH</given-names></string-name>. <article-title>Elevated serum transaminase levels resulting from concomitant use of rosuvastatin and amiodarone.</article-title>
+<source>Am J Health Syst Pharm</source>
+<year>2007</year>; <volume>64</volume>: <fpage>1818</fpage>-<lpage>21</lpage>.<annotation><p><italic toggle="yes">(73 year old developed minimal ALT elevations on rosuvastatin which worsened two weeks after starting amiodarone [ALT 13&#x02192;91&#x02192;336 U/L], improving with stopping rosuvastatin despite continuing amiodarone, possibly demonstrating interaction between the two agents).</italic></p></annotation><pub-id pub-id-type="pmid">17724362</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.famularo.2007.1286">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Famularo</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Miele</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Minisola</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Grieco</surname>
+<given-names>A</given-names></string-name>. <article-title>Liver toxicity of rosuvastatin therapy.</article-title>
+<source>World J Gastroenterol</source>
+<year>2007</year>; <volume>13</volume>: <fpage>1286</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(64 year old man developed jaundice ~3 months after starting rosuvastatin [bilirubin 2.6 mg/dL, ALT 775 U/L, normal GGT, ANA negative], resolving within 2 weeks of stopping: case 1).</italic></p></annotation><pub-id pub-id-type="pmid">17451217</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.crouse.2007.1344">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Crouse</surname>
+<given-names>JR</given-names>
+<suffix>3rd</suffix></string-name>, <string-name name-style="western"><surname>Raichlen</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Riley</surname>
+<given-names>WA</given-names></string-name>, <string-name name-style="western"><surname>Evans</surname>
+<given-names>GW</given-names></string-name>, <string-name name-style="western"><surname>Palmer</surname>
+<given-names>MK</given-names></string-name>, <string-name name-style="western"><surname>O'Leary</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>Grobbee</surname>
+<given-names>DE</given-names></string-name>, <etal>et al.</etal>; <collab>METEOR Study Group</collab>. <article-title>Effect of rosuvastatin on progression of carotid intima-media thickness in low-risk individuals with subclinical atherosclerosis: the METEOR Trial.</article-title>
+<source>JAMA</source>. <year>2007</year>;<volume>297</volume>:<fpage>1344</fpage>-<lpage>53</lpage>.<annotation><p><italic toggle="yes">(Among 984 patients with hypercholesterolemia but no history of cardiovascular disease treated with rosuvastatin [40 mg] or placebo daily for a period of 2 years, LDL-cholesterol levels decreased by 49% in statin treated patients who had less progression of carotid intima-media thickening, while adverse event rates were similar to placebo treatment including myalgia [12.7% vs 12.1%] and ALT elevations above 3 times ULN [0.6% vs 0.4%], and there were no cases of clinically apparent hepatitis or rhabdomyolysis).</italic></p></annotation><pub-id pub-id-type="pmid">17384434</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.ridker.2008.2195">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ridker</surname>
+<given-names>PM</given-names></string-name>, <string-name name-style="western"><surname>Danielson</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Fonseca</surname>
+<given-names>FA</given-names></string-name>, <string-name name-style="western"><surname>Genest</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Gotto</surname>
+<given-names>AM</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Kastelein</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Koenig</surname>
+<given-names>W</given-names></string-name>, <etal>et al.</etal>; <collab>JUPITER Study Group</collab>. <article-title>Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein.</article-title>
+<source>N Engl J Med.</source>
+<year>2008</year>;<volume>359</volume>:<fpage>2195</fpage>-<lpage>207</lpage>.<annotation><p><italic toggle="yes">(Among 17,802 healthy adults with low risk for cardiovascular events [LDL-C less than 130 mg/dL] but elevated C-reactive protein treated with rosuvastatin [20 mg] or placebo once daily for a median of 1.9 years, LDL-cholesterol levels decreased by 50% and major cardiovascular event rates were lower with statin therapy, while adverse event rates were similar, such as serious events [15.2% vs 15.5%], muscle symptoms [16% vs 15.4%], myopathy [0.1% vs 0.1%], and ALT elevations above 3 times ULN [0.3% vs 0.2%], although new onset diabetes was more frequent with rosuvastatin [3.0% vs 2.4%]).</italic></p></annotation><pub-id pub-id-type="pmid">18997196</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.chalasani.2008.1924">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Serrano</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Rochon</surname>
+<given-names>J</given-names></string-name>; <collab>Drug-Induced Liver Injury Network (DILIN)</collab>. <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+<source>Gastroenterology</source>
+<year>2008</year>; <volume>135</volume>: <fpage>1924</fpage>-<lpage>34</lpage>.<annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 3 cases were attributed to atorvastatin, 3 to simvastatin/ezetimibe, and one each to pravastatin, fluvastatin, and simvastatin, but most cases were mild or not clearly attributable to the statin therapy; none related to rosuvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.oteri.2008.768">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Oteri</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Catania</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Russo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Salvo</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Giacci</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Caputi</surname>
+<given-names>AP</given-names></string-name>, <string-name name-style="western"><surname>Polimeni</surname>
+<given-names>G</given-names></string-name>. <article-title>Reversible acute hepatitis induced by rosuvastatin.</article-title>
+<source>South Med J</source>
+<year>2008</year>; <volume>101</volume>: <fpage>768</fpage>.<annotation><p><italic toggle="yes">(62 year old man developed jaundice 2 months after switching from simvastatin to rosuvastatin [10 mg daily] [bilirubin 6.1 mg/dL, ALT 2317 U/L, Alk P levels and ANA not reported], resolving within 3 weeks of stopping drug).</italic></p></annotation><pub-id pub-id-type="pmid">19209117</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.garc_arodr_guez.2008.943">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garc&#x000ed;a-Rodr&#x000ed;guez</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Mass&#x000f3;-Gonz&#x000e1;lez</surname>
+<given-names>EL</given-names></string-name>, <string-name name-style="western"><surname>Wallander</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Johansson</surname>
+<given-names>S</given-names></string-name>. <article-title>The safety of rosuvastatin in comparison with other statins in over 100,000 statin users in UK primary care.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2008</year>; <volume>17</volume>: <fpage>943</fpage>-<lpage>52</lpage>.<annotation><p><italic toggle="yes">(Analysis of electronic records on 10,289 patients starting rosuvastatin and 117,102 starting other statins [mostly simvastatin and atorvastatin] for adverse events; 4 cases [0.003%] of myopathy, 4 [0.003%] of rhabdomyolysis, and 6 [0.05%] of acute liver injury identified, but none in rosuvastatin users).</italic></p></annotation><pub-id pub-id-type="pmid">18425988</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.garc_arodr_guez.2008.953">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garc&#x000ed;a-Rodr&#x000ed;guez</surname>
+<given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez-P&#x000e9;rez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Stang</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Wallander</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Johansson</surname>
+<given-names>S</given-names></string-name>. <article-title>The safety of rosuvastatin in comparison with other statins in over 25,000 statin users in the Saskatchewan Health Databases.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2008</year>; <volume>17</volume>: <fpage>953</fpage>-<lpage>61</lpage>.<annotation><p><italic toggle="yes">(Analysis of electronic medical records on 25,238 first time statin users, 10,384 starting rosuvastatin; 2 cases each of myopathy, rhabdomyolysis and acute liver injury [all 0.008%], but both liver related adverse events occurred in atorvastatin treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">18425987</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.rubba.2009.343">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rubba</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Marotta</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gentile</surname>
+<given-names>M</given-names></string-name>. <article-title>Efficacy and safety of rosuvastatin in the management of dyslipidemia.</article-title>
+<source>Vasc Health Risk Manag</source>
+<year>2009</year>; <volume>5</volume>: <fpage>343</fpage>-<lpage>52</lpage>.<annotation><p><italic toggle="yes">(Review of mechanism of action, pharmacology, safety and efficacy of rosuvastatin; elevations of ALT levels &#x0003e;3 times ULN during rosuvastatin therapy are uncommon [&#x0003c;0.2%]).</italic></p></annotation><pub-id pub-id-type="pmid">19436657</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.hippisleycox.2010.c2197">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hippisley-Cox</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Coupland</surname>
+<given-names>C</given-names></string-name>. <article-title>Unintended effects of statins in men and women in England and Wales: population based cohort study using the QResearch database.</article-title>
+<source>BMJ</source>
+<year>2010</year>; <volume>340</volume>: <fpage>c2197</fpage>.<annotation><p><italic toggle="yes">(Among 225,922 new users of statins in a UK health care database, there was an increased risk of moderate or severe liver dysfunction [ALT &#x0003e;3 times ULN], usually within first 6 months and associated with higher doses of statins; relative risks were highest with fluvastatin [2.53 in women, 1.97 in men] and lowest with pravastatin [0.93 to 1.58], and intermediate for rosuvastatin [1.31 to 1.46]).</italic></p></annotation><pub-id pub-id-type="pmid">20488911</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.reuben.2010.2065">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+<source>Hepatology</source>
+<year>2010</year>; <volume>52</volume>: <fpage>2065</fpage>-<lpage>76</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 2 due to atorvastatin, 2 simvastatin and 2 cerivastatin, but none to rosuvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.saku.2011.1493">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Saku</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Noda</surname>
+<given-names>K</given-names></string-name>; <collab>The PATROL Trial Investigators</collab>. <article-title>Randomized head-to-head comparison of pitavastatin, atorvastatin, and rosuvastatin for safety and efficacy (quantity and quality of LDL).</article-title>
+<source>Circ J</source>
+<year>2011</year>; <volume>75</volume>: <fpage>1493</fpage>-<lpage>1505</lpage>.<annotation><p><italic toggle="yes">(Controlled trial comparing 3 potent statins in 302 patients for 16 weeks; ALT elevations above 3 times ULN occurred in 2 on atorvastatin, 2 on rosuvastatin, and 1 on pitavastatin, but none developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21498906</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.toth.2011.969">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Toth</surname>
+<given-names>PP</given-names></string-name>, <string-name name-style="western"><surname>Dayspring</surname>
+<given-names>TD</given-names></string-name>. <article-title>Drug safety evaluation of rosuvastatin.</article-title>
+<source>Expert Opin Drug Saf</source>
+<year>2011</year>; <volume>10</volume>: <fpage>969</fpage>-<lpage>86</lpage>.<annotation><p><italic toggle="yes">(Review of pharmacology, safety and efficacy of rosuvastatin; "compared to other statins, it has no excess signal for liver, skeletal muscle or renal toxicity").</italic></p></annotation><pub-id pub-id-type="pmid">21999163</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.kato.2012.182">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kato</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>CT</given-names></string-name>. <article-title>Cardiac rehabilitation participant with sickle cell trait and statin-related hepatotoxicity: a case report.</article-title>
+<source>J Cardiopulm Rehabil Prev</source>
+<year>2012</year>; <volume>32</volume>: <fpage>182</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(51 year old man developed marked aminotransferase elevations [ALT 2498 U/L, AST 1452 U/L; Alk P and bilirubin not given] 75 days after starting rosuvastatin, which fell to normal within 3 months of stopping, but rose again 1 month after restarting).</italic></p></annotation><pub-id pub-id-type="pmid">22595892</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.bj_rnsson.2012.374">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Jacobsen</surname>
+<given-names>EI</given-names></string-name>, <string-name name-style="western"><surname>Kalaitzakis</surname>
+<given-names>E</given-names></string-name>. <article-title>Hepatotoxicity associated with statins: reports of idiosyncratic liver injury post-marketing.</article-title>
+<source>J Hepatol</source>
+<year>2012</year>; <volume>56</volume>: <fpage>374</fpage>-<lpage>80</lpage>.<annotation><p><italic toggle="yes">(Between 1988 and 2010, the Swedish registry received 217 adverse event reports possibly related to statins, 124 [57%] being liver related, 73 of which could be evaluated: 2 were fatal and one led to liver transplant; 3 had positive rechallenge; 43 [59%] were hepatocellular, 22 [30%] cholestatic and 8 [11%] mixed; 30 were due to atorvastatin, 28 simvastatin, 11 fluvastatin, 2 pravastatin and 2 rosuvastatin, arising after 30-248 days; atorvastatin injury was more likely to be cholestatic and was estimated to occur in 2.9 per 100,000 person years).</italic></p></annotation><pub-id pub-id-type="pmid">21889469</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.reuben.2010.2065_1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+<source>Hepatology</source>
+<year>2010</year>; <volume>52</volume>: <fpage>2065</fpage>-<lpage>76</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 6 were attributed to statins: 2 atorvastatin, 2 simvastatin [one with ezetimibe] and 2 cerivastatin, but none to rosuvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.vaverkova.2012.61">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vaverkova</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Farnier</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Averna</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Missault</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Viigimaa</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dong</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Lipid-altering efficacy of ezetimibe/simvastatin 10/20 mg compared to rosuvastatin 10 mg in high-risk patients with and without type 2 diabetes mellitus inadequately controlled despite prior statin monotherapy.</article-title>
+<source>Cardiovasc Ther</source>
+<year>2012</year>; <volume>30</volume>: <fpage>61</fpage>-<lpage>74</lpage>.<annotation><p><italic toggle="yes">(In a randomized trial in patients with hypercholesterolemia, ALT or AST elevations &#x0003e;3 times ULN occurred in none of 303 patients receiving rosuvastatin versus 0.7% of 312 on the combination of simvastatin and ezetimibe).</italic></p></annotation><pub-id pub-id-type="pmid">20626402</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.degorter.2013.400">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>DeGorter</surname>
+<given-names>MK</given-names></string-name>, <string-name name-style="western"><surname>Tirona</surname>
+<given-names>RG</given-names></string-name>, <string-name name-style="western"><surname>Schwarz</surname>
+<given-names>UI</given-names></string-name>, <string-name name-style="western"><surname>Choi</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Dresser</surname>
+<given-names>GK</given-names></string-name>, <string-name name-style="western"><surname>Suskin</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Myers</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Clinical and pharmacogenetic predictors of circulating atorvastatin and rosuvastatin concentrations in routine clinical care.</article-title>
+<source>Circ Cardiovasc Genet.</source>
+<year>2013</year>;<volume>6</volume>:<fpage>400</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Measurement of plasma levels of atorvastatin and rosuvastatin in two cohorts [299 and 576 patients] found levels varied 45-fold and were consistently higher in Chinese and Japanese compared to European subjects and that differences could not be completely explained by racial variation in frequencies of SLCO and ABCG2 polymorphisms known to affect peak drug levels).</italic></p></annotation><pub-id pub-id-type="pmid">23876492</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.bj_rnsson.2013.1419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Bergmann</surname>
+<given-names>OM</given-names></string-name>, <string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>HK</given-names></string-name>, <string-name name-style="western"><surname>Kvaran</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Olafsson</surname>
+<given-names>S</given-names></string-name>. <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+<source>Gastroenterology</source>
+<year>2013</year>; <volume>144</volume>: <fpage>1419</fpage>-<lpage>25</lpage>.<annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 2 cases due to atorvastatin and 1 to simvastatin, but none to rosuvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.hern_ndez.2014.231">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hern&#x000e1;ndez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>S&#x000e1;nchez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>di Pace</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Brahm</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zapata</surname>
+<given-names>R, A</given-names></string-name>
+<string-name name-style="western"><surname>Chirino</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+<source>Ann Hepatol</source>
+<year>2014</year>; <volume>13</volume>: <fpage>231</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to statins or lipid lowering agents).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.russo.2014.679">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Russo</surname>
+<given-names>MW</given-names></string-name>, <string-name name-style="western"><surname>Hoofnagle</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Gu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Kleiner</surname>
+<given-names>DE</given-names></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <etal>et al.</etal>
+<article-title>Spectrum of statin hepatotoxicity: Experience of the drug-induced liver injury network.</article-title>
+<source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>679</fpage>-<lpage>86</lpage>.<annotation><p><italic toggle="yes">(Among 1,188 cases of drug induced liver disease collected in the US between 2004 to 2012, 22 [2%] were attributed to statins, including atorvastatin [8], simvastatin [5], rosuvastatin [4], fluvastatin [2], pravastatin [2], and lovastatin [1]; median age was 60 years and 68% were women; 9 cases were cholestatic and 12 hepatocellular [6 with autoimmune features]; the latency ranged widely, from 1 month to 10 years; only one case was fatal [a man with preexisting cirrhosis presenting with acute-on-chronic liver failure]).</italic></p></annotation><pub-id pub-id-type="pmid">24700436</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.bays.2014.s47">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bays</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Cohen</surname>
+<given-names>DE</given-names></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Harrison</surname>
+<given-names>SA</given-names></string-name>. <article-title>An assessment by the Statin Liver Safety Task Force: 2014 update.</article-title>
+<source>J Clin Lipidol</source>
+<year>2014</year>; <volume>8</volume> (<issue>3</issue>
+<supplement>Suppl</supplement>): <fpage>S47</fpage>-<lpage>57</lpage>.<annotation><p><italic toggle="yes">(Review of the safety of statins including their use in patients with liver disease recommending that liver tests be obtained before therapy, but that routine monitoring is not necessary and that statins can be safety used in patients with nonalcoholic liver disease and are probably safe in other forms of chronic liver disease and after liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">24793441</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.ooba.2014.e96919">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ooba</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Sato</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wakana</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Orii</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kitamura</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kokan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Kurata</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>A prospective stratified case-cohort study on statins and multiple adverse events in Japan.</article-title>
+<source>PLoS One</source>
+<year>2014</year>; <volume>9</volume>: <elocation-id>e96919</elocation-id>.<annotation><p><italic toggle="yes">(Among 6877 patients started on statins between 2008 and 2010, 139 developed an increase in ALT or AST deemed likely due to the drug with no significant differences among those treated with pra-, ator-, flu-, pita- or rosu-vastatin).</italic></p></annotation><pub-id pub-id-type="pmid">24810427</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.macedo.2014.51">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Macedo</surname>
+<given-names>AF</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>FC</given-names></string-name>, <string-name name-style="western"><surname>Casas</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Adler</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Prieto-Merino</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ebrahim</surname>
+<given-names>S</given-names></string-name>. <article-title>Unintended effects of statins from observational studies in the general population: systematic review and meta-analysis.</article-title>
+<source>BMC Med</source>
+<year>2014</year>; <volume>12</volume>: <fpage>51</fpage>.<annotation><p><italic toggle="yes">(Systematic review of 90 studies of 48 different "unintended effects" of statins with evidence of an increased risk of myopathy [Odds Ratio: OR=2.6] and raised liver enzymes [OR=1.5]).</italic></p></annotation><pub-id pub-id-type="pmid">24655568</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF47">
+            <mixed-citation publication-type="journal"><article-title>Drugs for lipids.</article-title>
+<source>Treat Guidel Med Lett</source>
+<year>2014</year>; <volume>12</volume> (<issue>137</issue>): <fpage>1</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Concise recommendations on management of hyperlipidemia mentions that 1-2% of patients on high doses of statins develop ALT elevations [above 3 times ULN], but that there is not always cross sensitivity to this side effect and that patients with mild-to-moderate ALT elevations can tolerate statins; no discussion of clinically apparent liver).</italic></p></annotation><pub-id pub-id-type="pmid">24419209</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.vishwakarma.2014.343">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vishwakarma</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Nehra</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Kumar</surname>
+<given-names>A</given-names></string-name>. <article-title>Acute hepatic injury with atorvastatin: an unusual occurrence.</article-title>
+<source>Indian J Pharmacol</source>
+<year>2014</year>; <volume>46</volume>: <fpage>343</fpage>-<lpage>4</lpage>.<annotation><p><italic toggle="yes">(63 year old man developed jaundice 2 months after starting 20 mg daily of atorvastatin [bilirubin 5.2 mg/dL, ALT 1124 U/L, Alk P 214 U/L], falling to normal within a month of switching to 10 mg daily of rosuvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">24987187</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.perdices.2014.246">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Perdices</surname>
+<given-names>EV</given-names></string-name>, <string-name name-style="western"><surname>Medina-C&#x000e1;liz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Hernando</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ortega</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Mart&#x000ed;n-Oca&#x000f1;a</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Navarro</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Pel&#x000e1;ez</surname>
+<given-names>G</given-names></string-name>, <etal>et al.</etal>
+<article-title>Hepatotoxicity associated with statin use: analysis of the cases included in the Spanish Hepatotoxicity Registry.</article-title>
+<source>Rev Esp Enferm Dig</source>
+<year>2014</year>; <volume>106</volume>: <fpage>246</fpage>-<lpage>54</lpage>.<annotation><p><italic toggle="yes">(Among 858 cases of drug induced liver injury enrolled in a Spanish Registry between 1994 and 2012, 47 [5.5%] were attributed to statins [16 atorvastatin, 13 simvastatin, 12 fluvastatin, 4 lovastatin, and 2 pravastatin], usually with a hepatocellular pattern of injury, 8.5% with autoimmune features, chronic injury in 19%, and no liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">25075655</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.chen.2014.719">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chen</surname>
+<given-names>GL</given-names></string-name>, <string-name name-style="western"><surname>Hsiao</surname>
+<given-names>FY</given-names></string-name>, <string-name name-style="western"><surname>Dong</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Shen</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>FL</given-names></string-name>. <article-title>Statins and the risk of liver injury: a population-based case-control study.</article-title>
+<source>Pharmacoepidemiol Drug Saf</source>
+<year>2014</year>; <volume>23</volume>: <fpage>719</fpage>-<lpage>25</lpage>.<annotation><p><italic toggle="yes">(Among 2165 Taiwanese patients hospitalized for liver injury between 2002 and 2009, use of statins was not more frequent than among 16,600 hospitalized controls, except for use of high doses of rosuvastatin [adjusted odds ratio of 2.29]).</italic></p></annotation><pub-id pub-id-type="pmid">24829162</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.birmingham.2015.329">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Birmingham</surname>
+<given-names>BK</given-names></string-name>, <string-name name-style="western"><surname>Bujac</surname>
+<given-names>SR</given-names></string-name>, <string-name name-style="western"><surname>Elsby</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Azumaya</surname>
+<given-names>CT</given-names></string-name>, <string-name name-style="western"><surname>Zalikowski</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Rosuvastatin pharmacokinetics and pharmacogenetics in Caucasian and Asian subjects residing in the United States.</article-title>
+<source>Eur J Clin Pharmacol.</source>
+<year>2015</year>;<volume>71</volume>:<fpage>329</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Pharmacokinetic studies using a single oral dose of rosuvastatin [20 mg] showed that East-Asian subjects [Chinese, Filipino, Korean, Vietnamese and Japanese] had greater area under the curve concentrations [64-84% higher] and higher maximum drug concentrations [70-98% higher] than Caucasians, while Asian-Indians demonstrated intermediate levels; higher values were also seen in subjects with polymorphisms in SLCO1B1 and ABCG2 hepatic transporter genes, which may have accounted for some of the differences).</italic></p></annotation><pub-id pub-id-type="pmid">25630984</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.birmingham.2015.341">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Birmingham</surname>
+<given-names>BK</given-names></string-name>, <string-name name-style="western"><surname>Bujac</surname>
+<given-names>SR</given-names></string-name>, <string-name name-style="western"><surname>Elsby</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Azumaya</surname>
+<given-names>CT</given-names></string-name>, <string-name name-style="western"><surname>Wei</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Mosqueda-Garcia</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Impact of ABCG2 and SLCO1B1 polymorphisms on pharmacokinetics of rosuvastatin, atorvastatin and simvastatin acid in Caucasian and Asian subjects: a class effect?</article-title>
+<source>Eur J Clin Pharmacol.</source>
+<year>2015</year>;<volume>71</volume>:<fpage>341</fpage>-<lpage>55</lpage>.<annotation><p><italic toggle="yes">(Among 96 subjects treated in an open-label, 3-way crossover study of a single oral dose of rosuvastatin [20 mg], atorvastatin [40 mg], or simvastatin [40%], Chinese and Japanese subjects had higher plasma levels than European subjects, and the differences could not be attributed entirely to hepatic transporter polymorphisms {SLCO1B1*1a and ABCG2c.421] known to be associated with higher statin levels).</italic></p></annotation><pub-id pub-id-type="pmid">25673568</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.hwang.2015.1693">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hwang</surname>
+<given-names>NK</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Cha</surname>
+<given-names>KS</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>
+<given-names>JS</given-names></string-name>. <article-title>Hepatotoxicity associated with a short course of rosuvastatin.</article-title>
+<source>Chin Med J (Engl)</source>
+<year>2015</year>; <volume>128</volume>: <fpage>1693</fpage>-<lpage>4</lpage>.<annotation><p><italic toggle="yes">(76 year old Korean man with coronary artery disease developed abdominal pain and jaundice 12 days after a percutaneous intervention and starting rosuvastatin [bilirubin 10.3 mg/dL, ALT 612 U/L, Alk P 174 U/L], which resolved rapidly [&#x0003c; 1 week] upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">26063377</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 31 cases [3.4%] were attributed to statins, including 8 to atorvastatin, 8 simvastatin, 7 rosuvastatin, 4 pravastatin, 2 fluvastatin and 2 lovastatin).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.chang.2015.155">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chang</surname>
+<given-names>CH</given-names></string-name>, <string-name name-style="western"><surname>Chang</surname>
+<given-names>YC</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>YC</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>YC</given-names></string-name>, <string-name name-style="western"><surname>Chuang</surname>
+<given-names>LM</given-names></string-name>, <string-name name-style="western"><surname>Lin</surname>
+<given-names>JW</given-names></string-name>. <article-title>Severe hepatic injury associated with different statins in patients with chronic liver disease: a nationwide population-based cohort study.</article-title>
+<source>J Gastroenterol Hepatol</source>
+<year>2015</year>; <volume>30</volume>: <fpage>155</fpage>-<lpage>62</lpage>.<annotation><p><italic toggle="yes">(Among 37,929 Taiwanese persons with chronic liver disease started on statin therapy for hyperlipidemia between 2005 and 2009, there were 912 incident cases of hospitalization for liver injury, rates being similar for the 6 different statins used [1.94-2.95 per 100,000 person-days], but higher in those on high doses of atorvastatin [40 or 80 mg daily]).</italic></p></annotation><pub-id pub-id-type="pmid">25041076</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.kim.2016.266">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kim</surname>
+<given-names>HS</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SH</given-names></string-name>, <string-name name-style="western"><surname>Cho</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Yim</surname>
+<given-names>HW</given-names></string-name>, <etal>et al.</etal>
+<article-title>Statin-related aminotransferase elevation according to baseline aminotransferases level in real practice in Korea.</article-title>
+<source>J Clin Pharm Ther</source>
+<year>2016</year>; <volume>41</volume>: <fpage>266</fpage>-<lpage>72</lpage>.<annotation><p><italic toggle="yes">(Among 21,233 Korean patients starting statin therapy between 2009 and 2013, abnormal ALT or AST values above 3 times ULN were more frequent among those with mild baseline elevations).</italic></p></annotation><pub-id pub-id-type="pmid">27015878</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.yusuf.2016.2021">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yusuf</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Bosch</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Dagenais</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Xavier</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Pais</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>; <collab>HOPE-3 Investigators</collab>. <article-title>cholesterol lowering in intermediate-risk persons without cardiovascular disease.</article-title>
+<source>N Engl J Med.</source>
+<year>2016</year>;<volume>374</volume>:<fpage>2021</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(Among 12,705 adults with intermediate cardiovascular risk treated with rosuvastatin [10 mg] or placebo daily for a median period of 5.6 years, LDL-cholesterol levels were 26.5% lower and cardiovascular endpoints 24% lower with statin therapy, while muscle pain or weakness was more frequent with statins [5.8% vs 4.7%], myopathy and liver test abnormalities were rare [&#x0003c;1% in both groups]).</italic></p></annotation><pub-id pub-id-type="pmid">27040132</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.wang.2016.823">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>LY</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>YS</given-names></string-name>, <string-name name-style="western"><surname>Perng</surname>
+<given-names>CL</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Lin</surname>
+<given-names>HC</given-names></string-name>. <article-title>Statin-induced liver injury in an area endemic for hepatitis B virus infection: risk factors and outcome analysis.</article-title>
+<source>Br J Clin Pharmacol</source>
+<year>2016</year>; <volume>82</volume>: <fpage>823</fpage>-<lpage>30</lpage>.<annotation><p><italic toggle="yes">(Analysis of the Taipei Veterans Hospital database from 2008 to 2012 identified 108 patients with statin associated liver injury [including 28 rosu-, 20 flu-, 17 sim-, 11 pra-, 8 lo-, and 8 pita-vastatin] most of which 75 [69%] were mild and only one fatal [80 year old on rosu-], and there were no differences in disease features or peak enzyme or bilirubin levels between HBsAg positive vs negative subjects [n=16 vs 92]).</italic></p></annotation><pub-id pub-id-type="pmid">27197051</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.wu.2017.2751">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wu</surname>
+<given-names>HF</given-names></string-name>, <string-name name-style="western"><surname>Hristeva</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Chang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Liang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Frassetto</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Benet</surname>
+<given-names>LZ</given-names></string-name>. <article-title>Rosuvastatin pharmacokinetics in Asian and White subjects wild type for both OATP1B1 and BCRP under control and inhibited conditions.</article-title>
+<source>J Pharm Sci.</source>
+<year>2017</year>;<volume>106</volume>:<fpage>2751</fpage>-<lpage>2757</lpage>.<annotation><p><italic toggle="yes">(Pharmacokinetic studies of rosuvastatin in Asian and White subjects found differences in peak plasma levels that could not be attributed to differences in hepatic transporter alleges [SLCO1B1*1a or ABCG2c.421]).</italic></p></annotation><pub-id pub-id-type="pmid">28385543</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.bj_rnsson.2017.173">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>ES</given-names></string-name>. <article-title>Hepatotoxicity of statins and other lipid-lowering agents.</article-title>
+<source>Liver Int</source>
+<year>2017</year>; <volume>37</volume>: <fpage>173</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Review of the hepatotoxicity of statins mentions that atorvastatin has been the most frequently implicated statin [accounting for 30-40% of cases] in drug induced liver injury estimated to arise in 1 in 17,000 users, cholestatic in 56% and with autoimmune features in 10% and rarely fatal).</italic></p></annotation><pub-id pub-id-type="pmid">27860156</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.s_nchez.2018.311">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>S&#x000e1;nchez</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Castiella</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Zapata</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Zubiaurre</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>P&#x000e9;rez-Yeboles</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Mendibil</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Iribarren</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Autoimmune hepatitis (immune-mediated liver injury) induced by rosuvastatin.</article-title>
+<source>Gastroenterol Hepatol.</source>
+<year>2018</year>;<volume>41</volume>:<fpage>311</fpage>-<lpage>313</lpage>.<annotation><p><italic toggle="yes">(47 year old man was found to have abnormal liver tests 10 months after switching from atorvastatin to rosuvastatin [bilirubin 0.7 mg/dL, ALT 201 U/L, Alk P 77 U/L, ANA 1:160], with worsening for several weeks after stopping but ultimate spontaneous complete resolution with normal liver tests and ANA negativity).</italic></p></annotation><pub-id pub-id-type="pmid">28655408</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.hong.2018.226">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hong</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Jeong</surname>
+<given-names>HS</given-names></string-name>, <string-name name-style="western"><surname>Ahn</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Cha</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>Won</surname>
+<given-names>KH</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Cho</surname>
+<given-names>SK</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase III, multicenter, randomized, double-blind, active comparator clinical trial to compare the efficacy and safety of combination therapy with ezetimibe and rosuvastatin versus rosuvastatin monotherapy in patients with hypercholesterolemia: I-ROSETTE (Ildong Rosuvastatin &#x00026; Ezetimibe for Hypercholesterolemia) randomized controlled trial.</article-title>
+<source>Clin Ther.</source>
+<year>2018</year>;<volume>40</volume>:<fpage>226</fpage>-<lpage>241.e4</lpage>.<annotation><p><italic toggle="yes">(Among 396 Korean patients with hypercholesterolemia treated with rosuvastatin [5, 10 or 20 mg daily] with or without ezetimibe [10 mg daily] for 8 weeks, the percent decrease in LDL-cholesterol was higher at each dose of rosuvastatin combined with ezetimibe [overall -57% vs -44%] and the proportion of patients achieving a targeted goal of LDL-cholesterol was also higher [92% vs 80%], while there were similar rates of total adverse events [11.2% vs 11.3%], serious adverse events [0.5% vs 0.5%] as well as ALT elevations above 3 times the ULN [0.6% vs 0]).</italic></p></annotation><pub-id pub-id-type="pmid">29402522</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.tirona.2018.485">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tirona</surname>
+<given-names>RG</given-names></string-name>, <string-name name-style="western"><surname>Kassam</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Strapp</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Ramu</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schwarz</surname>
+<given-names>UI</given-names></string-name>, <etal>et al.</etal>
+<article-title>Apixaban and rosuvastatin pharmacokinetics in nonalcoholic fatty liver disease.</article-title>
+<source>Drug Metab Dispos.</source>
+<year>2018</year>;<volume>46</volume>:<fpage>485</fpage>-<lpage>492</lpage>.<annotation><p><italic toggle="yes">(Analysis of pharmacokinetics of rosuvastatin in patients with nonalcoholic fatty liver were not different from those in healthy volunteers but did vary by body weight).</italic></p></annotation><pub-id pub-id-type="pmid">29472495</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.teschke.2018.1169">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Teschke</surname>
+<given-names>R.</given-names></string-name>
+<article-title>Top-ranking drugs out of 3312 drug-induced liver injury cases evaluated by the Roussel Uclaf Causality Assessment Method.</article-title>
+<source>Expert Opin Drug Metab Toxicol.</source>
+<year>2018</year>;<volume>14</volume>:<fpage>1169</fpage>-<lpage>1187</lpage>.<annotation><p><italic toggle="yes">(A compilation of national and international databases on drug induced liver injury identified the ten top-ranking causes which included two statins, atorvastatin [ranking 3<sup>rd</sup>], and simvastatin [ranking 6<sup>th</sup>]).</italic></p></annotation><pub-id pub-id-type="pmid">30354694</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.moore.2019.559">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Moore</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Duret</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Grolleau</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lassalle</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Barbet</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Duong</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Thurin</surname>
+<given-names>N</given-names></string-name>, <etal>et al.</etal>
+<article-title>Previous drug exposure in patients hospitalised for acute liver injury: a case-population study in the French National Healthcare Data System.</article-title>
+<source>Drug Saf.</source>
+<year>2019</year>;<volume>42</volume>:<fpage>559</fpage>-<lpage>572</lpage>.<annotation><p><italic toggle="yes">(Analysis of a French nationwide health database for medication use and hospitalizations for unexplained acute liver injury identified 4807 cases, 76% of which had been exposed to at least one medication in the previous 7-60 days, 263 cases [5.5%] had taken atorvastatin, but the exposed/case ratio was 15,742; 182 cases [3.8%} had taken rosuvastatin, the exposed/case ratio being 20,359; while only 10 cases had taken pyrazinamide but with an exposed/case ratio of 770).</italic></p></annotation><pub-id pub-id-type="pmid">30361989</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.yebyo.2019.18">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yebyo</surname>
+<given-names>HG</given-names></string-name>, <string-name name-style="western"><surname>Aschmann</surname>
+<given-names>HE</given-names></string-name>, <string-name name-style="western"><surname>Kaufmann</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Puhan</surname>
+<given-names>MA</given-names></string-name>. <article-title>Comparative effectiveness and safety of statins as a class and of specific statins for primary prevention of cardiovascular disease: A systematic review, meta-analysis, and network meta-analysis of randomized trials with 94,283 participants.</article-title>
+<source>Am Heart J.</source>
+<year>2019</year>;<volume>210</volume>:<fpage>18</fpage>-<lpage>28</lpage>.<annotation><p><italic toggle="yes">(Metaanalyses of 40 trials of statins that enrolled 94,283 patients followed for a median of 1 year for efficacy and safety reported that statins as a class increased the risk of hepatic dysfunction by 6% with fluvastatin having the highest relative risk).</italic></p></annotation><pub-id pub-id-type="pmid">30716508</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF67">
+            <mixed-citation publication-type="journal"><article-title>Lipid-lowering drugs.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2019</year>;<volume>61</volume>(<issue>1565</issue>):<fpage>17</fpage>-<lpage>24</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, relative efficacy, safety and costs of lipid lowering drugs including statins, ezetimibe, PCSK9 inhibitors, bile acid sequestrants, fibric acid derivatives, niacin and fish oil, mentions that statin therapy is associated with ALT elevations above 3 times ULN in 1-3% of patients but &#x0201c;whether statins actually cause liver damage is unclear&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">30845106</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.hung.2019.e0215839">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hung</surname>
+<given-names>TH</given-names></string-name>, <string-name name-style="western"><surname>Tsai</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>HF</given-names></string-name>. <article-title>Statin use in cirrhotic patients with infectious diseases: A population-based study.</article-title>
+<source>PLoS One.</source>
+<year>2019</year>;<volume>14</volume>:<elocation-id>e0215839</elocation-id>.<annotation><p><italic toggle="yes">(Analysis of the Taiwan National Health Insurance Database identified 816 patients with cirrhosis receiving statins [including rosuvastatin] who were hospitalized for bacterial infections and similar number of cirrhotic controls not on statins, found a lower 30-day mortality with statins: 5.3% vs 9.8%).</italic></p></annotation><pub-id pub-id-type="pmid">31017946</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.shah.2019.263">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shah</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lingiah</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Pyrsopoulos</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Galan</surname>
+<given-names>M</given-names></string-name>. <article-title>Acute liver injury in a patient treated with rosuvastatin: a rare adverse effect.</article-title>
+<source>Gastroenterology Res.</source>
+<year>2019</year>;<volume>12</volume>:<fpage>263</fpage>-<lpage>266</lpage>.<annotation><p><italic toggle="yes">(47 year old Peruvian man developed jaundice 6 weeks after starting rosuvastatin [5 mg daily] [bilirubin 3.5 rising to 17.2 mg/dL, ALT 2260 U/L, Alk P 277 U/L, INR 1.1, ANA negative], liver biopsy with changes suggestive of autoimmune hepatitis, treated with methylprednisolone with gradual resolution of injury).</italic></p></annotation><pub-id pub-id-type="pmid">31636777</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.courlet.2020.1972">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Courlet</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Livio</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Alves Saldanha</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Scherrer</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Battegay</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Cavassini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stoeckle</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <collab>Swiss HIV Cohort Study</collab>. <article-title>Real-life management of drug-drug interactions between antiretrovirals and statins.</article-title>
+<source>J Antimicrob Chemother.</source>
+<year>2020</year>;<volume>75</volume>:<fpage>1972</fpage>-<lpage>1980</lpage>.<annotation><p><italic toggle="yes">(Assessment of lipid levels in persons living with HIV who were taking rosuvastatin found that one-third had suboptimal lipid control despite high doses, perhaps due to drug-drug interactions including inhibition of OATP1b1 causing poor hepatic uptake of statin).</italic></p></annotation><pub-id pub-id-type="pmid">32240298</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.kawasaki.2020.1673">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kawasaki</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Fukuyama</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kuriyama</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Uchida</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Sagara</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Tamai</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Nakano</surname>
+<given-names>Y</given-names></string-name>, <etal>et al.</etal>
+<article-title>Statin-induced autoimmune hepatitis in patients with type&#x000a0;1 diabetes: A report of two cases and literature review.</article-title>
+<source>J Diabetes Investig.</source>
+<year>2020</year>;<volume>11</volume>:<fpage>1673</fpage>-<lpage>1676</lpage>.<annotation><p><italic toggle="yes">(Two men, ages 46 and 54, with type 1 diabetes developed hepatitis 6 and 8 months after starting atorvastatin and rosuvastatin [bilirubin 5.1 and unknown mg/dL, ALT 1632 and 709 U/L, Alk P not given and 2055 U/L, ANA 1:80 and negative, IgG 1495 and 1857 mg/dL], both with autoimmune hepatitis-like features on liver biopsy and both with response to corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">32277861</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.balasubramanian.2021.328">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Balasubramanian</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Maideen</surname>
+<given-names>NMP</given-names></string-name>. <article-title>HMG-CoA reductase inhibitors (statins) and their drug interactions involving CYP enzymes, P-glycoprotein and OATP transporters-an overview.</article-title>
+<source>Curr Drug Metab.</source>
+<year>2021</year>;<volume>22</volume>:<fpage>328</fpage>-<lpage>341</lpage>.<annotation><p><italic toggle="yes">(Systematic review of literature on drug-drug interactions with statins and their clinical significance mentions that toxicity can be enhanced by inhibitors of CYP3A4 [atorva-, simva- and lova-statin] as well as by inhibitors of P glycoprotein and OATP1B1 [most statins including rosuvastatin], with specific recommendations for the most common inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">33459228</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.sung.2021.120">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sung</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Al-Karaghouli</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kalainy</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cabrera Garcia</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Abraldes</surname>
+<given-names>JG</given-names></string-name>. <article-title>A systematic review on pharmacokinetics, cardiovascular outcomes and safety profiles of statins in cirrhosis.</article-title>
+<source>BMC Gastroenterol.</source>
+<year>2021</year>;<volume>21</volume>:<fpage>120</fpage>.<annotation><p><italic toggle="yes">(Systematic review of literature suggests that rosuvastatin and pitavastatin pharmacokinetics are unchanged in patients with Child Class A cirrhosis as opposed to atorvastatin and pravastatin, although unlike rosuvastatin, simvastatin, atorvastatin and pravastatin have been assessed in clinical trials in cirrhotic patients).</italic></p></annotation><pub-id pub-id-type="pmid">33726685</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.onfiani.2021.1151">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Onfiani</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Nascimbeni</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Carubbi</surname>
+<given-names>F.</given-names></string-name>
+<article-title>A case of statin-induced liver injury with positive rechallenge with a second statin. Is there a class effect?</article-title>
+<source>J Basic Clin Physiol Pharmacol.</source>
+<year>2021</year>; <volume>32</volume>:<fpage>1151</fpage>-<lpage>155</lpage>.<annotation><p><italic toggle="yes">(58 year old woman on long term simvastatin therapy developed ALT elevations 2 months after dose increase from 10 mg to 20 mg daily [ALT 314 U/L] without symptoms, Alk P or bilirubin elevations, which was normal 2 months after stopping but was elevated again without symptoms or jaundice 2 months after starting rosuvastatin in a dose of 5 mg daily [ALT 542 U/L], slowing falling to normal 5 months after stopping statins a second time).</italic></p></annotation><pub-id pub-id-type="pmid">33882199</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.cai.2021">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cai</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Abel</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Langford</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Monaghan</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Aronson</surname>
+<given-names>JK</given-names></string-name>, <string-name name-style="western"><surname>Stevens</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Lay-Flurrie</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Associations between statins and adverse events in primary prevention of cardiovascular disease: systematic review with pairwise, network, and dose-response meta-analyses.</article-title>
+<source>BMJ</source>. <year>2021</year>;<volume>374</volume>:<issue>n1537</issue>.<annotation><p><italic toggle="yes">(Systematic review of placebo controlled trials of statins for cardiovascular disease prevention identified 62 publications with 120,456 patients and found an increased risk of muscle symptoms, liver test abnormalities, renal insufficiency and eye conditions for all 7 statins, but not muscle disorders or diabetes, rosuvastatin having relatively high risk for muscle symptoms and renal abnormalities and also was also associated with eye conditions and diabetes, while atorvastatin and lovastatin had highest risk for liver abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">34261627</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.vijayakanthi.2021.789">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vijayakanthi</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Felner</surname>
+<given-names>EI</given-names></string-name>, <string-name name-style="western"><surname>Romero</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Daley</surname>
+<given-names>TC</given-names></string-name>. <article-title>Rhabdomyolysis due to rosuvastatin in a patient with ROHHAD syndrome.</article-title>
+<source>J Clin Lipidol.</source>
+<year>2021</year>; <volume>15</volume>:<fpage>789</fpage>-<lpage>792</lpage>.<annotation><p><italic toggle="yes">(13 year old with obesity, NASH and panhypopituitarism developed rhabdomyolysis two weeks after switching from lovastatin [40 mg/daily taken for 8 years] to rosuvastatin [40 mg daily] [bilirubin not given, ALT 298 U/L, AST 558 U/L, Alk P not given, CPK 53,000 U/L, creatinine 2.2 mg/dL, drug levels not given], with rapid improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">34600840</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.castermans.2022.53">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Castermans</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hias</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Van der Linden</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Spriet</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Tournoy</surname>
+<given-names>J.</given-names></string-name>
+<comment>[Case of hepatotoxicity of atorvastatin: the search for a possible etiology]</comment>. <source>Tijdschr Gerontol Geriatr.</source>
+<year>2022</year>;<fpage>53</fpage>. <comment>Dutch.</comment><annotation><p><italic toggle="yes">(75 year old woman with a history of liver test abnormalities while taking 20 mg of atorvastatin daily [bilirubin 0.6 mg/dL, ALT 460 U/L, Alk P 341 U/L] re-developed abnormalities on restarting 80 mg of atorvastatin 7 years later [bilirubin 0.4 mg/dL, ALT 121 U/L, Alk P 312 U/L], later tolerating rosuvastatin without liver test abnormalities).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.verma.2022.1535">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Verma</surname>
+<given-names>SK</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hutchinson</surname>
+<given-names>HG</given-names></string-name>, <string-name name-style="western"><surname>Estevez</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Kuang</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Reynolds</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Schneeweiss</surname>
+<given-names>S</given-names></string-name>. <article-title>Statin use and severe acute liver Injury among patients with elevated alanine aminotransferase.</article-title>
+<source>Clin Epidemiol.</source>
+<year>2022</year>;<volume>14</volume>:<fpage>1535</fpage>-<lpage>1545</lpage>.<annotation><p><italic toggle="yes">(Among 149,410 adults identified in two health insurance databases who initiated statin therapy, 32 developed serious liver injury [20 per 100,000 person years], a rate similar to that of a matched cohort of 517,200 who did not start statins [25 per 100,000]; furthermore, the presence of preexisting ALT elevations was not associated with development of serious liver injury [16 vs 19 per 100,000]).</italic></p></annotation><pub-id pub-id-type="pmid">36540900</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.malani.2024.e66180">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Malani</surname>
+<given-names>SK</given-names></string-name>, <string-name name-style="western"><surname>Chigullapalli</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Sujanyal</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Sharma</surname>
+<given-names>V</given-names></string-name>. <article-title>Rosuvastatin-Induced myopathy: a case series.</article-title>
+<source>Cureus.</source>
+<year>2024</year>;<volume>16</volume>:<elocation-id>e66180</elocation-id>.<annotation><p><italic toggle="yes">(Description of 3 patients who developed severe myopathy months after starting rosuvastatin [40 mg daily], with muscle weakness with variable elevations in serum ALT [56, 514, 724 U/L], but greater increases in AST [35, 1290, 1074 U/L] and CPK [2030, 46,868, 53,240 U/L], no increase in Alk P, and no or minimal increase in bilirubin [0.4, 1.5, 0.4 mg/dL], and recovery within 2 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">39233949</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.su.2024.419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Su</surname>
+<given-names>FY</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>WH</given-names></string-name>, <string-name name-style="western"><surname>Zhao</surname>
+<given-names>XD</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Geng</surname>
+<given-names>T</given-names></string-name>. <article-title>Risk factors analysis of severe liver injury induced by statins.</article-title>
+<source>Horm Metab Res.</source>
+<year>2024</year>;<volume>56</volume>:<fpage>419</fpage>-<lpage>423</lpage>.<annotation><p><italic toggle="yes">(Among 1,211 cases of statin induced liver injury reported to a Chinese database between 2013 and 2021, 157 were considered &#x0201c;severe&#x0201d; [ALT &#x02265;400 U/L or bilirubin &#x02265;2.0 mg/dL], and risk factors for severity included older age, combination with other drugs or herbs, and atorvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">37956980</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.torgersen.2024.943">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Torgersen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Mezochow</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Newcomb</surname>
+<given-names>CW</given-names></string-name>, <string-name name-style="western"><surname>Carbonari</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Hennessy</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Rentsch</surname>
+<given-names>CT</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>LS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Severe acute liver injury after hepatotoxic medication initiation in real-world data.</article-title>
+<source>JAMA Intern Med.</source>
+<year>2024</year>;<volume>184</volume>:<fpage>943</fpage>-<lpage>952</lpage>.<annotation><p><italic toggle="yes">(Analysis of the US Veterans Administration electronic health records from between 1999 and 2021 identified 1739 hospitalizations for acute liver injury suspected to be due to medications, at a rate of 1 per10,100 patients exposed to atorvastatin and 1 per 14,285 exposed to rosuvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">38913369</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.lammert.2024">
+            <mixed-citation publication-type="other">Lammert C, Teal E, Ghabril M, Chalasani N. Incidence of possible drug-induced liver injury due to commonly implicated agents in the United States. Clin Gastroenterol Hepatol. 2024: Oct 22. [online ahead of print].<annotation><p><italic toggle="yes">(Analysis of a health database of 16 Indiana University Health hospitals, identified 54 cases of drug induced liver injury 918 per 100,000 persons exposed, the incidence being 1:23,510 for those treated with atorvastatin, no data available on rosuvastatin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.chen.2025.151">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chen</surname>
+<given-names>VL</given-names></string-name>, <string-name name-style="western"><surname>Rockey</surname>
+<given-names>DC</given-names></string-name>, <string-name name-style="western"><surname>Bjornsson</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Hoofnagle</surname>
+<given-names>JH</given-names></string-name>; <collab>Drug-Induced Liver Injury Network Investigators</collab>. <article-title>Incidence of idiosyncratic drug-induced liver Injury caused by prescription drugs.</article-title>
+<source>Drug Saf.</source>
+<year>2025</year>;<volume>48</volume>:<fpage>151</fpage>-<lpage>160</lpage>.<annotation><p><italic toggle="yes">(Analysis of 1284 cases of drug induced liver injury enrolled in a US prospective study identified 7 cases of rosuvastatin, which was consistent with an incidence of 1 per 16,000 persons treated with rosuvastatin compared to 1 per 10,000 with atorvastatin, and 1 per 52,000 with simvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">39317916</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Rosuvastatin.REF.wang.2025.1502791">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Deng</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>X</given-names></string-name>, <etal>et al.</etal>
+<article-title>Hepatotoxicity of statins: a real-world study based on the US Food and Drug Administration Adverse Event Reporting System database.</article-title>
+<source>Front Pharmacol.</source>
+<year>2025</year>;<volume>15</volume>:<elocation-id>1502791</elocation-id>.<annotation><p><italic toggle="yes">(Analysis of the FDA Adverse Event Reporting System for reports of liver injury attributed to statins between 2004 and 2024 identified 14,511 instances, atorvastatin being the most frequently listed [n=7,903] followed by simvastatin [3,074], rosuvastatin [2,512], pravastatin [458], fluvastatin [262], pitavastatin [178], and lovastatin [124], fatal cases accounting for 2.5% to 5.6%).</italic></p></annotation><pub-id pub-id-type="pmid">39840096</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Rosuvastatin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=rosuvastatin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Rosuvastatin: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=rosuvastatin">Trials on Rosuvastatin: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

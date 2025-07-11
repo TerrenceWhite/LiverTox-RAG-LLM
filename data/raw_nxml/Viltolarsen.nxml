@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Viltolarsen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Viltolarsen</book-part-id>
+      <title-group>
+        <title>Viltolarsen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Viloxazine" document-type="chapter">Viloxazine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="VincaAlkaloids" document-type="chapter">Vinca Alkaloids</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Viltolarsen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Viltolarsen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Viltolarsen is a synthetic antisense oligonucleotide designed to cause skipping of abnormal exons in the synthesis of the dystrophin gene and that is used to treat Duchenne muscular dystrophy. Viltolarsen has not been reported to cause ALT elevations during therapy and has not been linked to instances of acute liver injury with symptoms and jaundice.</p>
+        </sec>
+        <sec id="Viltolarsen.Background">
+          <title>Background</title>
+          <p>Viltolarsen (vil&#x0201d; toe lar&#x02019; sen) is a synthetic antisense oligonucleotide designed to cause exon 53 skipping during the processing of the mRNA of the dystrophin gene, which encodes an essential protein for muscle integrity and is mutated in Duchenne muscular dystrophy. Patients with Duchenne muscular dystrophy typically have deletion mutations in exons [43 to 55], which disrupt the open-reading frame and the normal synthesis of dystrophin. The lack of functional dystrophin leads to damage to muscles during contraction that eventually results in replacement of normal muscle by fibrous tissue and fat. Duchenne muscle dystrophy is an X-linked disorder that presents clinically in boys by the age of 2 or 3 years and often results in loss of ambulation by age 10, ventilation dependency by age 20, and premature death within 5 to 20 years thereafter. In animal models of muscular dystrophy, viltolarsen resulted in skipping of exon 53 and creation of a truncated but functional dystrophin gene. In small placebo controlled trials of viltolarsen in patients with Duchenne muscular dystrophy with mutations in exon 53 amenable to correction by the drug, dystrophin protein levels increased in treated subjects and not in controls. The studies demonstrated evidence of mild clinical improvement in 6 minute walk tests after 25 weeks of therapy, which compared favorably to historical controls among whom such tests typically worsened. Longer term studies are underway to determine whether ambulation and ventilation can be maintained with continued treatment. Based upon changes in dystrophin levels and some degree of clinical improvement, viltolarsen was granted accelerated approval for use in the United States in 2020. Its indications are limited to patients with Duchenne muscular dystrophy with a confirmed mutation that is correctable by exon 53 skipping. Viltolarsen is available in solution in single dose vials of 250 mg in 5 mL (50 mg/mL). The recommended regimen is 80 mg per kg body weight once weekly by intravenous infusion. Side effects of viltolarsen are generally mild but can include injection site reactions, cough, fever, headache, symptoms of upper respiratory infection, diarrhea, arthralgia, and urticaria. Renal toxicity, which was observed in preclinical studies in animals was not found in human trials but monitoring for renal function is recommended. The weekly intravenous infusions of viltolarsen sometimes necessitate insertion of an indwelling venous access catheter, which can result in serious complications of infection, thrombosis or septicemia with long term use.</p>
+        </sec>
+        <sec id="Viltolarsen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Duchenne muscular dystrophy is rare affecting ~1:5000 newborn boys, and those with deletion mutants in exon 53 that would be amenable to viltolarsen therapy account for only 8% of patients with the disease. The pivotal trials of viltolarsen were conducted in rather small numbers of patients, and the full spectrum of hepatotoxicity may not be fully known. Nevertheless, serum aminotransferase elevations were not described in the registration trials of viltolarsen and there were no discontinuations for liver adverse events and no episodes of clinically apparent liver injury. Thus, viltolarsen has not been linked to instances of acute hepatitis or jaundice, but it has had limited clinical use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Viltolarsen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why viltolarsen or other RNA antisense therapeutics for Duchenne muscular dystrophy might cause hepatic injury is unknown. One possibility is that exon skipping may cause disruption of translation of other genes in hepatocytes. Viltolarsen and other antisense molecules are largely excreted unchanged in the urine and have little effect on cytochrome P450 enzyme activities or metabolism of other drugs.</p>
+        </sec>
+        <sec id="Viltolarsen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Viltolarsen therapy has not been associated with liver injury, either in the form of minor serum enzyme elevations or clinically apparent liver injury. There is no reason to suspect cross reactivity of the hepatic injury with other antisense therapies or drugs used to treat Duchenne muscular dystrophy. Regular monitoring of liver tests during therapy is not generally recommended.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+          <p>Other Therapeutic Antisense RNA Agents for Duchenne Muscular Dystrophy: <related-object link-type="booklink" source-id="livertox" document-id="Casimersen" document-type="chapter">Casimersen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Eteplirsen" document-type="chapter">Eteplirsen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Golodirsen" document-type="chapter">Golodirsen</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Viltolarsen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Viltolarsen &#x02013; Viltepso&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Viltolarsen">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Viltolarsen.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Viltolarsen.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Viltolarsen.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Viltolarsen.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Viltolarsen.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Viltolarsen.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Viltolarsen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Viltolarsen</td>
+                <td headers="hd_h_Viltolarsen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377483949">2055732-84-6</ext-link>
+</td>
+                <td headers="hd_h_Viltolarsen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C244-H381-N113-O88-P20</td>
+                <td headers="hd_h_Viltolarsen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="377483949" document-id-type="sid" document-type="summary" object-id="377483949" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Viltolarsen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 29 November 2022</p>
+        <p>Abbreviations: siRNA, small interfering RNA; RNAi, RNA interference.</p>
+        <ref-list id="Viltolarsen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Viltolarsen.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to siRNAs or antisense therapies or medications for muscular dystrophy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.chi.2017.823">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chi</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gatti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Papoian</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Safety of antisense oligonucleotide and siRNA-based therapeutics.</article-title>
+              <source>Drug Discov Today</source>
+              <year>2017</year>
+              <volume>22</volume>
+              <fpage>823</fpage>
+              <lpage>833</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Oligonucleotide and siRNA based treatments are currently being evaluated in several diseases and have been found to have unexpected toxicities including antisense thrombocytopenia [mipomersen, drisapersen] and peripheral neuropathy [revusiran]; no discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28159625</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.levin.2019.57">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Levin</surname><given-names>AA</given-names></name>
+</person-group>
+              <article-title>Treating disease at the RNA level with oligonucleotides.</article-title>
+              <source>N Engl J Med</source>
+              <year>2019</year>
+              <volume>380</volume>
+              <fpage>57</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, current status and future promise of RNA based therapies that use synthetic oligonucleotides to modulate RNA function and have been applied to diseases ranging from hemophilia, amyloidosis, muscular dystrophy and hyperlipidemia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30601736</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.messina.2018.1837">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Messina</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Vita</surname><given-names>GL</given-names></name>
+</person-group>
+              <article-title>Clinical management of Duchenne muscular dystrophy: the state of the art.</article-title>
+              <source>Neurol Sci</source>
+              <year>2018</year>
+              <volume>39</volume>
+              <fpage>1837</fpage>
+              <lpage>1845</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of current optimal clinical management of Duchenne muscular dystrophy focusing upon standard respiratory, cardiovascular, orthopedic and nutritional support as well as recent innovative approaches to therapy including exon skipping and premature stop codon suppression).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30218397</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.setten.2019.421">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Setten</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>SP</given-names></name>
+</person-group>
+              <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+              <source>Nat Rev Drug Discov</source>
+              <year>2019</year>
+              <volume>18</volume>
+              <fpage>421</fpage>
+              <lpage>446</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of RNAi therapeutics which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30846871</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.verhaart.2019.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Verhaart</surname><given-names>IEC</given-names></name>
+<name name-style="western"><surname>Aartsma-Rus</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Therapeutic developments for Duchenne muscular dystrophy.</article-title>
+              <source>Nat Rev Neurol</source>
+              <year>2019</year>
+              <volume>15</volume>
+              <fpage>373</fpage>
+              <lpage>386</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanisms of action, challenges, and clinical efficacy of new molecular approaches to therapy of muscular dystrophy including gene therapy with viral vectors, exon skipping using antisense oligonucleotides [casimersen, eteplirsen, drisapersen, golodirsen, viltolarsen], stop coding readthrough [ataluren], gene addition, CRISPR-Cas9 genome editing, and myoblast transplantation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31147635</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.multidisciplinary.2020">
+            <mixed-citation publication-type="web">FDA Multi-Disciplinary Review and Evaluation. Viltolarsen. 2020. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212154Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212154Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(The FDA clinical review of viltolarsen for efficacy and safety found minor increases in dystrophin levels in muscle biopsies but no improvement in clinical measures such as 6 minute walk test distances; therapy required intravenous infusions once weekly and insertion of a venous access port, but there were no serious adverse events attributable to the medication and no hepatic related serious adverse events or discontinuations because of liver toxicity; no mention of changes in ALT levels during therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.heo.2020.329">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Heo</surname><given-names>Y-A</given-names></name>
+</person-group>
+              <article-title>Golodirsen: First approval.</article-title>
+              <source>Drugs</source>
+              <year>2020</year>
+              <volume>80</volume>
+              <fpage>329</fpage>
+              <lpage>333</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, clinical efficacy and safety of golodirsen shortly after its approval for use in Duchenne muscular dystrophy mentions that in the registration trial, all patients showed exon 53 skipping responses and the mean dystrophin levels from muscle biopsies increased from baseline, but that clinical improvement rates were not reported, while adverse events in treated vs control subjects included headache [41% vs 10%], fever [41% vs 14%], falls [29% vs 19%], abdominal pain [27% vs 10%], cough [27% vs 19%], and nausea [20% vs 10%], but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32026421</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.dhillon.2020.1027">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dhillon</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Viltolarsen: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2020</year>
+              <volume>80</volume>
+              <fpage>1027</fpage>
+              <lpage>1031</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the structure, mechanism of action, pharmacokinetics, clinical efficacy and safety of viltolarsen a phosphorodiamidate morpholino antisense oligonucleotide that skips exon 53 of the dystrophin gene resulting in a shortened but active dystrophin molecule; adverse events are generally mild and nonspecific and there were no serious adverse events or liver related adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32519222</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.clemens.2020.982">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Clemens</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Rao</surname><given-names>VK</given-names></name>
+<name name-style="western"><surname>Connolly</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Harper</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Mah</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>McDonald</surname><given-names>CM</given-names></name>
+<etal/>
+<collab>CINRG DNHS Investigators</collab>
+</person-group>
+              <article-title>Safety, tolerability, and efficacy of viltolarsen in boys with Duchenne muscular dystrophy amenable to exon 53 skipping: a phase 2 randomized clinical trial.</article-title>
+              <source>JAMA Neurol.</source>
+              <year>2020</year>
+              <volume>77</volume>
+              <fpage>982</fpage>
+              <lpage>991</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 16 boys ages 4 to 9 years with Duchenne muscular dystrophy treated with viltolarsen in doses of 40 or 80 mg/kg weekly for 24 weeks, serum dystrophin levels and 6 minute walk tests improved and there were no treatment emergent adverse reactions requiring dose adjustment and &#x0201c;no changes from baseline in clinical laboratory values for blood and urine were clinically meaningful&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32453377</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Viltolarsen (Viltepso) for Duchenne muscular dystrophy.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1609</issue>
+              <fpage>167</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of viltolarsen shortly after its approval for use in Duchenne muscular dystrophy in the US mentions that it was the second exon-skipping RNA antisense molecule approved for this indication and had evidence of improving the 6 minute walk test after 25 weeks of therapy; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33429411</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.clemens.2022.493">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Clemens</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Rao</surname><given-names>VK</given-names></name>
+<name name-style="western"><surname>Connolly</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Harper</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Mah</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>McDonald</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>EC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term functional efficacy and safety of viltolarsen in patients with Duchenne muscular dystrophy.</article-title>
+              <source>J Neuromuscul Dis.</source>
+              <year>2022</year>
+              <volume>9</volume>
+              <fpage>493</fpage>
+              <lpage>501</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among the 16 boys who participated in the U.S. phase II trial of viltolarsen in Duchenne muscular dystrophy, all agreed to enroll in a long term open label continuation study and were found to have stable disease without worsening of physical symptoms as occurred in a cohort of matched historical controls).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35634851</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.alhamadani.2022.879">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alhamadani</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Parikh</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rasmussen</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Bahal</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhong</surname><given-names>XB</given-names></name>
+<name name-style="western"><surname>Manautou</surname><given-names>JE</given-names></name>
+</person-group>
+              <article-title>Adverse drug reactions and toxicity of the Food and Drug Administration-approved antisense oligonucleotide drugs.</article-title>
+              <source>Drug Metab Dispos.</source>
+              <year>2022</year>
+              <volume>50</volume>
+              <fpage>879</fpage>
+              <lpage>887</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the adverse side effects of oligonucleotide therapies approved in the US or Europe, including specific discussions of fomivirsen, mipomersen, nusinersen, inotersen, eteplirsen, golodirsen, viltolarsen and casimersen; hepatotoxicity has been described with use of mipomersen [now withdrawn] and inotersen but not with the agents used for Duchenne muscular dystrophy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35221289</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Viltolarsen.REF.roshmi.2023.31">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roshmi</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Yokota</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Viltolarsen: from preclinical studies to FDA approval.</article-title>
+              <source>Methods Mol Biol.</source>
+              <year>2023</year>
+              <volume>2587</volume>
+              <fpage>31</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the efficacy and safety of 10 oligonucleotide therapies approved in the US or Europe, including specific discussions of fomivirsen, mipomersen, eteplirsen, nusinersen, patisiran, givosiran and golodirsen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36401022</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Viltolarsen.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Viltolarsen/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Viltolarsen: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Viltolarsen">Trials on Viltolarsen: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

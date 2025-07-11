@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cenobamate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cenobamate</book-part-id>
+      <title-group>
+        <title>Cenobamate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cemiplimab" document-type="chapter">Cemiplimab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Centella" document-type="chapter">Centella asiatica</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cenobamate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cenobamate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cenobamate is a tetrazole carbamate anticonvulsant used as therapy of partial onset seizures in adults. Cenobamate is associated with a low-to-moderate rate of serum aminotransferase elevations during therapy and has been linked to cases of clinically apparent liver injury usually in the context of a multiorgan hypersensitivity syndrome such as drug reaction with eosinophilia and systemic symptoms (DRESS).</p>
+        </sec>
+        <sec id="Cenobamate.Background">
+          <title>Background</title>
+          <p>Cenobamate (sen&#x0201d; oh bam&#x02019; ate) is a novel tetrazole alkyl carbamate anticonvulsant that reduces repetitive neuronal firing by inhibiting voltage-gated sodium channels. It also is a positive allosteric modulator of GABA<sub>A</sub> ion channels. In several controlled trials, cenobamate was shown to be effective in reducing focal-onset seizures in patients refractory to conventional therapy. Cenobamate was approved for use in the United States in 2020. Current indications include therapy of partial-onset seizures in adults. Cenobamate is available in tablets of 12.5, 25, 50, 100, 150 and 200 mg under the brand name Xcopri. The recommended initial dose is 12.5 mg once daily with subsequent increases to 25, 50, 100, 150 and 200 mg daily every two weeks (12 week initial titration period). The recommended maintenance dose is 200 mg daily in adults, and maximum daily dose is 400 mg. Side effects include fatigue, somnolence, dizziness, diplopia and headaches. Rare, but potentially severe adverse events include severe nausea and vomiting, prolongation of the QT interval, suicidal ideation and behaviors, cognitive dysfunction, rash, and multiorgan hypersensitivity reactions including drug reaction with eosinophilia and systemic symptoms (DRESS syndrome). The prolonged, slow titration period is believed to help prevent the more severe side effects.</p>
+        </sec>
+        <sec id="Cenobamate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In controlled clinical trials, addition of cenobamate to standard anticonvulsant therapy was associated with transient, mild-to-moderate serum aminotransferase elevations in 1% to 4% of patients. In the preregistration trials of cenobamate, there were no cases of clinically apparent liver injury with jaundice. However, among 953 patients with exposure to cenobamate in these trials, there were three cases of DRESS syndrome accompanied by serum aminotransferase elevations, which arose during the first 3 to 6 weeks of treatment in subjects who had a relative rapid initial titration (4 to 6 weeks). In large open label studies using a more prolonged titration period (12 weeks), no instances of DRESS syndrome were reported among more than 1000 participants. Felbamate, a structurally related carbamate anticonvulsant, is a well-known cause of drug induced liver injury and has a boxed warning and restricted availability because of severe hypersensitivity reactions including acute liver failure and aplastic anemia. Thus, clinically significant liver injury from cenobamate may occur and can be severe, but is rare.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury in the context of generalized hypersensitivity syndrome).</p>
+        </sec>
+        <sec id="Cenobamate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Cenobamate is a carbamate anticonvulsant and is metabolized extensively in the liver via several of the cytochrome P450 enzymes. Cenobamate is a weak inhibitor of CYP 2C19 and an inducer of CYP 2B6, 2C8 and 3A4 and thus capable of causing drug-drug interactions. In higher doses it can cause euphoria and it is classified as a Schedule V drug with potential for dependency and abuse.</p>
+        </sec>
+        <sec id="Cenobamate.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients who have developed serious hypersensitivity reactions to cenobamate should discontinue therapy promptly and avoid reexposure. The potential cross reactivity of hypersensitivity reactions to cenobamate with the aromatic anticonvulsants, such as phenytoin, carbamazepine and lamotrigine, is unknown. The structure of cenobamate would suggest that it may share sensitivity to other anticonvulsant agents.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anticonvulsants" document-type="chapter">Anticonvulsants</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cenobamate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Cenobamate &#x02013; Xcopri&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Anticonvulsants</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cenobamate">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Cenobamate.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cenobamate.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Cenobamate.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cenobamate.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Cenobamate.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cenobamate.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cenobamate.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Cenobamate</td>
+                <td headers="hd_h_Cenobamate.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252300150">913088-80-9</ext-link>
+</td>
+                <td headers="hd_h_Cenobamate.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H10-Cl-N5-O2</td>
+                <td headers="hd_h_Cenobamate.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="252300150" document-id-type="sid" document-type="summary" object-id="252300150" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cenobamate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 August 2021</p>
+        <p>Abbreviation used: DRESS, drug reaction with eosinophilia and systemic symptoms.</p>
+        <ref-list id="Cenobamate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cenobamate.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Anticonvulsants. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 498-516.<annotation><p><italic toggle="yes">(Expert review of anticonvulsants and liver injury published in 1999 before the availability of cenobamate).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cenobamate.REF.pirmohamed.2013">
+            <mixed-citation publication-type="book">Pirmohamed M, Leeder SJ. Anticonvulsant agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp 423-42.<annotation><p><italic toggle="yes">(Review of anticonvulsant induced liver injury; cenobamate is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cenobamate.REF.smith.2018">
+            <mixed-citation publication-type="book">Smith MD, Metcalf CS, Wilcox KS. Pharmacology of the epilepsies. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 303-26.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cenobamate.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212839Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212839Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA review of efficacy and safety of cenobamate, in support of its approval in the US, mentions that higher doses of cenobamate were associated with small increases in ALT levels but only 5 treated subjects [and no placebo recipients] developed transient ALT levels more than twice ULN, but more strikingly 3 patients developed DRESS syndrome [after 24-32 days] with fever, rash, facial swelling and other organ involvement including serum ALT elevations [peak values 1327, 568 and 158 U/L]; one patient dying due to eosinophilic myocarditis; all three subjects had a rapid [weekly] titration of dose).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cenobamate.REF.vidaurre.2017.23">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vidaurre</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gedela</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yarosz</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Antiepileptic drugs and liver disease.</article-title>
+              <source>Pediatr Neurol</source>
+              <year>2017</year>
+              <volume>77</volume>
+              <fpage>23</fpage>
+              <lpage>36</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Review of the use of anticonvulsants in patients with liver disease recommends use of agents that have little hepatic metabolism such as</italic>&#x000a0;<italic toggle="yes">levetiracetam</italic><italic toggle="yes">, lacosamide, topiramate, gabapentin and pregabalin,</italic>&#x000a0;<italic toggle="yes">levetiracetam</italic>&#x000a0;<italic toggle="yes">being an "ideal" first line therapy for patients with liver disease because of its safety and lack of pharmacokinetic interactions).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29097018</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF6">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for epilepsy.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1526</issue>
+              <fpage>121</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the drugs available for therapy of epilepsy; does not discuss cenobamate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28746301</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.borrelli.2018.2318">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Borrelli</surname><given-names>EP</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>EY</given-names></name>
+<name name-style="western"><surname>Descoteaux</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Kogut</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Caffrey</surname><given-names>AR</given-names></name>
+</person-group>
+              <article-title>Stevens-Johnson syndrome and toxic epidermal necrolysis with antiepileptic drugs: An analysis of the US Food and Drug Administration Adverse Event Reporting System.</article-title>
+              <source>Epilepsia</source>
+              <year>2018</year>
+              <volume>59</volume>
+              <fpage>2318</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of adverse event reports to the FDA between 2014 and 2018 identified ~2.9 million reports, 1034 for SJS/TEN, the most common class of drugs being anticonvulsants with 17 of 34 having at least one report, those most frequently linked being lamotrigine [n=106], carbamazepine [22], levetiracetam [14], phenytoin [14], valproate [9], clonazepam [8] and zonisamide [7]; cenobamate is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30395352</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.krauss.2020.38">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Krauss</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Brandt</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Milanov</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Milovanovic</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Steinhoff</surname><given-names>BJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of adjunctive cenobamate (YKP3089) in patients with uncontrolled focal seizures: a multicentre, double-blind, randomised, placebo-controlled, dose-response trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2020</year>
+              <volume>19</volume>
+              <fpage>38</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 434 adults with uncontrolled focal-onset epilepsy treated with cenobamate [100, 200 or 400 mg] or placebo once daily for 6 weeks of titration and 12 weeks of maintenance, changes in seizure frequency were -35.5%, -55% and -55% with cenobamate vs -24% for placebo, and common adverse events were somnolence, dizziness, headache, fatigue and ataxia while 3 patients had hypersensitivity reactions including one with DRESS arising at day 24, resolving with discontinuation and corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31734103</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.keam.2020.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keam</surname><given-names>SJ</given-names></name>
+</person-group>
+              <article-title>Cenobamate: first approval.</article-title>
+              <source>Drugs</source>
+              <year>2020</year>
+              <volume>80</volume>
+              <fpage>73</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the structure, mechanism of action, history of development, pharmacology, clinical efficacy and safety of cenobamate mentions common [&#x0003e;10%] side effects of somnolence, dizziness, fatigue, diplopia, and headache and rare serious adverse events of DRESS syndrome, which occurred in 3 of the first 953 patients exposed; no drug related fatalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31933170</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.vossler.2020.85">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vossler</surname><given-names>DG</given-names></name>
+</person-group>
+              <article-title>Remarkably high efficacy of cenobamate in adults with focal-onset seizures: a double-blind, randomized, placebo-controlled trial.</article-title>
+              <source>Epilepsy Curr</source>
+              <year>2020</year>
+              <volume>20</volume>
+              <fpage>85</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary on the placebo controlled study of cenobamate [Krauss 2020] mentions that the seizure-free rate in these refractory patients was 21% for cenobamate [400 mg] vs 1% for placebo, which is much higher than other anticonvulsants [0% to 6.5%] and that cases of DRESS syndrome were seen only with relatively rapid initial titration periods).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32313503</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.sperling.2020.1099">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sperling</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Aboumatar</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gelfand</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Halford</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Krauss</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Rosenfeld</surname><given-names>WE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cenobamate (YKP3089) as adjunctive treatment for uncontrolled focal seizures in a large, phase 3, multicenter, open-label safety study.</article-title>
+              <source>Epilepsia</source>
+              <year>2020</year>
+              <volume>61</volume>
+              <fpage>1099</fpage>
+              <lpage>108</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1347 patients enrolled in an open label study of cenobamate for uncontrolled focal seizures with an initial 12-week titration phase with a median duration of therapy of 9 months, 20% of patients discontinued treatment, 10% because of adverse events, but there were no instances of DRESS syndrome or serious hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32396252</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.chung.2020.e2311">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chung</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>French</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Kowalski</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Krauss</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Maciejowski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rosenfeld</surname><given-names>WE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Randomized phase 2 study of adjunctive cenobamate in patients with uncontrolled focal seizures.</article-title>
+              <source>Neurology</source>
+              <year>2020</year>
+              <volume>94</volume>
+              <fpage>e2311</fpage>
+              <lpage>e2322</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 222 patients with refractory focal seizures treated with cenobamate [200 mg] or placebo once daily for 12 weeks [6 week titration and 6 week maintenance], seizure frequency decreased by 56% on cenobamate vs 22% on placebo and adverse events were mostly mild-to-moderate, one patient developing a hypersensitivity reaction with the first dose [rash, itching responding to antihistamines], and there were &#x0201c;no clinically meaningful trends in changes from baseline in mean laboratory values&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32409485</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF13">
+            <element-citation publication-type="journal">
+              <article-title>Cenobamate (Xcopri) for focal seizures.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1605</issue>
+              <fpage>134</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety and costs of cenobamate shortly after its approval in the US mentions that adverse events are largely dose related and can include shortening of the QT interval, drug-drug interactions, physical dependence, and DRESS syndrome).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32970044</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.elizebath.2021.107796">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Elizebath</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Coe</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gutierrez</surname><given-names>EG</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Krauss</surname><given-names>GL</given-names></name>
+</person-group>
+              <article-title>Cenobamate treatment of focal-onset seizures: Quality of life and outcome during up to eight years of treatment.</article-title>
+              <source>Epilepsy Behav</source>
+              <year>2021</year>
+              <volume>116</volume>
+              <elocation-id>107796</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 49 patients with refractory focal-onset seizures enrolled from a single medical center into controlled trials of cenobamate, 37 of whom continued on open label therapy for 3-8 years, 45% achieved a 75% reduction in seizure frequency, and adverse events included one case of DRESS syndrome with liver enzyme elevations occurring during the first few months of therapy and while seizure-free, the syndrome resolving on stopping therapy but seizure activity then resumed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33567400</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.roberti.2021.609">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roberti</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>De Caro</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Iannone</surname><given-names>LF</given-names></name>
+<name name-style="western"><surname>Zaccara</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Lattanzi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Pharmacology of cenobamate: mechanism of action, pharmacokinetics, drug-drug interactions and tolerability.</article-title>
+              <source>CNS Drugs</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <fpage>609</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacokinetics, mechanisms of action, drug-drug interactions and safety of cenobamate mentions that its pharmacokinetics are not linear and it has many drug-drug interactions and important side effects including hypersensitivity reactions and shortening of the QT interval).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33993416</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.latimer.2021.252">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Latimer</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Edinoff</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Ruff</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Rooney</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Penny</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Sabbenahalli</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cenobamate, a sodium channel inhibitor and positive allosteric modulator of GABA<sub>A</sub> ion channels, for partial onset seizures in adults: a comprehensive review and clinical implications.</article-title>
+              <source>Neurol Int</source>
+              <year>2021</year>
+              <volume>13</volume>
+              <fpage>252</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of cenobamate discusses its activity as a positive allosteric modulator of GABA<sub>A</sub> ion channels and inhibition of voltage-gated sodium channels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34207493</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Cenobamate.REF.french.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>French</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Chung</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Krauss</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Maciejowski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rosenfeld</surname><given-names>WE</given-names></name>
+<name name-style="western"><surname>Sperling</surname><given-names>MR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term safety of adjunctive cenobamate in patients with uncontrolled focal seizures: open-label extension of a randomized clinical study.</article-title>
+              <source>Epilepsia</source>
+              <year>2021</year>
+              <month>Jul</month>
+              <day>13</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 149 patients enrolled in an open-label extension study after participating in controlled trials of cenobamate, adverse events arose in 89%, resulted in discontinuation in 10%, were serious in 26% [including seizures, vomiting, pneumonia, sepsis and osteoarthritis], and resulted in death in 3 patients, one from suicide; no mention of DRESS, ALT elevations, hepatotoxicity or serious hepatic adverse events).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Cenobamate.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Cenobamate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Cenobamate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cenobamate">Trials on Cenobamate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

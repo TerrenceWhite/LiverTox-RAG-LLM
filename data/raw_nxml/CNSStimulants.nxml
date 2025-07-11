@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CNSStimulants" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CNSStimulants</book-part-id>
+      <title-group>
+        <title>Central Nervous System (CNS) Stimulants</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Centella" document-type="chapter">Centella asiatica</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cephalosporins" document-type="chapter">Cephalosporins</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CNSStimulants.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Central nervous system stimulants used for attention deficit disorder, narcolepsy or excessive sleepiness include the amphetamines, methylphenidate, atomoxetine, modafinil, armodafinil, pitolisant and solriamfetol. Stimulants that are no longer used for medical conditions, but that are abused, include cocaine and ecstasy or methylenedioxymethamphetamine (MDMA). The individual agents discussed include the following:</p>
+        <p content-type="pubmed-excerpt">The following links are to individual drug records.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Amphetamines" document-type="chapter">Amphetamines</related-object> (including ecstasy or methylenedioxymethamphetamine)</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Armodafinil</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Atomoxetine" document-type="chapter">Atomoxetine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Cocaine" document-type="chapter">Cocaine</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Modafinil</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Oxybate" document-type="chapter">Oxybate</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Pitolisant" document-type="chapter">Pitolisant</related-object>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Solriamfetol" document-type="chapter">Solriamfetol</related-object>
+</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="CNSStimulants.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Armodafinil &#x02013; Generic, Nuvigil&#x000ae;</p>
+        <p>Atomoxetine &#x02013; Generic, Strattera&#x000ae;</p>
+        <p>Dextroamphetamine &#x02013; Generic, Adderall&#x000ae;, Dexedrine&#x000ae;</p>
+        <p>Dextroamphetamine and Amphetamine &#x02013; Generic, Adderall&#x000ae;</p>
+        <p>Lisdexamfetamine &#x02013; Vyvanse&#x000ae;</p>
+        <p>Methamphetamine &#x02013; Generic, Desoxyn&#x000ae;</p>
+        <p>Modafinil &#x02013; Generic, Provigil&#x000ae;</p>
+        <p>Oxybate &#x02013; Xyrem&#x000ae;</p>
+        <p>Pitolisant &#x02013; Wakix&#x000ae;</p>
+        <p>Solriamfetol &#x02013; Sunosi&#x000ae;</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Dextroamphetamine">COMPLETE LABELING</ext-link> [Dextroamphetamine]</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="CNSStimulants.CHEMICAL_FORMULAS_AND_STRU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="CNSStimulants.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Armodafinil</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135200656">112111-43-0</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H15-N-O2-S</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135200656" document-id-type="sid" document-type="summary" object-id="135200656" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Atomoxetine</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013193">83015-26-3</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H21-N-O</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135013193" document-id-type="sid" document-type="summary" object-id="135013193" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Dextroamphetamine</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972590">51-64-9</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C9-H13-N</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134972590" document-id-type="sid" document-type="summary" object-id="134972590" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lisdexamfetamine</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135195272">608137-32-2</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H25-N3-O</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135195272" document-id-type="sid" document-type="summary" object-id="135195272" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Methamphetamine</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134977993">537-46-2</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H15-N</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134977993" document-id-type="sid" document-type="summary" object-id="134977993" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Methylphenidate</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134974024">113-45-1</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H19-N-O2</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134974024" document-id-type="sid" document-type="summary" object-id="134974024" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Modafinil</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135010588">68693-11-8</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H15-N-O2-S</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135010588" document-id-type="sid" document-type="summary" object-id="135010588" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Sodium Oxybate</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134978781">502-85-2</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C4-H7-Na-O3</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134978781" document-id-type="sid" document-type="summary" object-id="134978781" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pitolisant</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135267132">362665-56-3</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H26-Cl-N-O</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135267132" document-id-type="sid" document-type="summary" object-id="135267132" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Solriamfetol</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://328083296">178429-62-4</ext-link>
+</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H14-N2-O2</td>
+                <td headers="hd_h_CNSStimulants.Tc_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="328083296" document-id-type="sid" document-type="summary" object-id="328083296" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+<bold>ANNOTATED BIBLIOGRAPHY</bold>
+</p>
+        <p>References updated: 12 August 2021</p>
+        <ref-list id="CNSStimulants.CHEMICAL_FORMULAS_AND_STRU.reflist0">
+          <ref id="CNSStimulants.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p>(Review of hepatotoxicity of psychotropic agents does not discuss modafinil and armodafinil).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.westfall.2018">
+            <mixed-citation publication-type="book">Westfall TC, Macarthur H, Westfall DP. Narcolepsy and sleep/wake imbalance. Adrenergic agonists and antagonists. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 207.<annotation><p>(Textbook of pharmacology and therapeutics).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="CNSStimulants.REF3">
+            <element-citation publication-type="journal">
+              <article-title>Randomized trial of modafinil for the treatment of pathological somnolence in narcolepsy. US Modafinil in Narcolepsy Multicenter Study Group.</article-title>
+              <source>Ann Neurol</source>
+              <year>1998</year>
+              <volume>43</volume>
+              <fpage>88</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>(Controlled trial of modafinil [200 or 400 mg] vs placebo for 9 weeks; modafinil demonstrated an excellent safety profile for up to 40 weeks of open label treatment; &#x0201c;there were few clinically meaningful changes in laboratory values&#x0201d;).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9450772</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF4">
+            <element-citation publication-type="journal">
+              <article-title>Randomized trial of modafinil as a treatment for the excessive daytime somnolence of narcolepsy. US Modafinil in Narcolepsy Multicenter Study Group.</article-title>
+              <source>Neurology</source>
+              <year>2000</year>
+              <volume>54</volume>
+              <fpage>1166</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>(Controlled 9 week trial of two doses of modafinil [200 and 400 mg] vs placebo in 271 patients with narcolepsy: &#x0201c;There were no meaningful differences among treatment groups at week 9 in clinical laboratory test results&#x0201d;).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10720292</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.mitler.2000.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mitler</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Harsh</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hirshkowitz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Guilleminault</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Long-term efficacy and safety of modafinil (PROVIGIL((R))) for the treatment of excessive daytime sleepiness associated with narcolepsy.</article-title>
+              <source>Sleep Med</source>
+              <year>2000</year>
+              <volume>1</volume>
+              <fpage>231</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>(478 adults with narcolepsy were enrolled in two 40-week, open label extension studies using 200-400 mg of modafinil daily; common side effects were headache, nervousness, and nausea; clinically significant elevations in ALT occurred in 6 [1.5%] and total bilirubin in 1 patient, but no other details given).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10828434</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF6">
+            <element-citation publication-type="journal">
+              <article-title>A new indication for gamma hydroxybutyrate (Xyrem) in narcolepsy.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2006</year>
+              <volume>48</volume>
+              <issue>1227</issue>
+              <fpage>11</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>(Concise review of narcolepsy and the mechanism of action, clinical efficacy, and adverse effects of oxybate, shortly after the broadening of its indications to include excessive daytime sleepiness in patients with narcolepsy; no mention of serum enzyme elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16444137</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including one attributed to cocaine and one to ecstasy but none to methylphenidate, modafinil, or oxybate).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, one was attributed to methylphenidate, but none to amphetamines, modafinil, armodafinil, or oxybate).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.kaplan.2018.1182">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaplan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Goehring</surname><given-names>EL</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Melamed-Gal</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nguyen-Khoa</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Knebel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>JK</given-names></name>
+</person-group>
+              <article-title>Modafinil and the risk of cardiovascular events: Findings from three US claims databases.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2018</year>
+              <volume>27</volume>
+              <fpage>1182</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>(Analysis of 3 large US health care claims database systems [2006-2008] found no increased risk for myocardial infarction or cardiovascular hospitalization among modafinil users vs non-users).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30106194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF10">
+            <element-citation publication-type="journal">
+              <article-title>Solriamfetol (Sunosi) for excessive daytime sleepiness.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1579</issue>
+              <fpage>132</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>(Concise review of the mechanism of action, clinical efficacy, safety and cost of solriamfetol for excess sleepiness associated with narcolepsy and obstructive sleep apnea mentions adverse events of headache, nausea, anorexia, dry mouth, anxiety, and insomnia, but does not discuss ALT elevations of hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31581157</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.thorpy.2020.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thorpy</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Recently approved and upcoming treatments for narcolepsy.</article-title>
+              <source>CNS Drugs</source>
+              <year>2020</year>
+              <volume>34</volume>
+              <fpage>9</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action, pharmacology, drug-drug interactions, clinical efficacy and safety of newly approved medications for narcolepsy including pitolisant and solriamfetol; no mention of ALT elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31953791</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.drugs_for_adhd.2020.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for ADHD</collab>
+</person-group>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1590</issue>
+              <fpage>9</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>(Concise review of drugs for attention deficit/hyperactivity disorder mentions that methylphenidate and the CNS stimulants are the first line agents for school age children and adolescents and that adverse events can include decreased appetite, abdominal pain, headache and insomnia, but does not mention ALT elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31999670</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF.nourbakhsh.2021.38">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nourbakhsh</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Revirajan</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Cordano</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Creasman</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Manguinao</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Krysko</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of amantadine, modafinil, and methylphenidate for fatigue in multiple sclerosis: a randomised, placebo-controlled, crossover, double-blind trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2021</year>
+              <volume>20</volume>
+              <fpage>38</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>(In a placebo controlled, 4-period, crossover trial of amantadine, modafinil and methylphenidate for up to 6 weeks, none of the drugs were superior to placebo in improving fatigue, but all three were associated with more side effects than placebo; ALT elevations and hepatotoxicity were not mentioned).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33242419</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="CNSStimulants.REF14">
+            <element-citation publication-type="journal">
+              <article-title>Pitolisant (Wakix) for narcolepsy.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1617</issue>
+              <fpage>19</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>(Concise review of the mechanism of action, and relative efficacy, safety and costs of pitolisant in relation to other medications for narcolepsy shortly after its approval for use in the US, mentions side effects of headache, insomnia, nausea and prolongation of the QTc interval).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33647004</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

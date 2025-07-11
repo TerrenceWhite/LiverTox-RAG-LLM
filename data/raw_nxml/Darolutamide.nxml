@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Darolutamide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Darolutamide</book-part-id>
+      <title-group>
+        <title>Darolutamide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Darifenacin" document-type="chapter">Darifenacin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Darunavir" document-type="chapter">Darunavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Darolutamide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Darolutamide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Darolutamide is a third generation, oral nonsteroidal antiandrogen used to treat nonmetastatic castration-resistant prostate cancer. Darolutamide is associated with a low rate of serum enzyme elevation during therapy, but has not been linked to cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Darolutamide.Background">
+          <title>Background</title>
+          <p>Darolutamide (dar&#x0201d; oh loo' ta mide) is a small molecule androgen receptor antagonist which binds to the intracellular receptor and prevents its translocation to the nucleus and subsequent DNA binding, thereby blocking its activity. Therapy with darolutamide lowers residual testosterone levels after surgical castration in men with prostate cancer and has been shown to prolong metastatic free survival in castration-resistant prostate cancer patients with rising levels of prostate-associated antigen (PSA) without measurable metastatic disease. Darolutamide was approved for use in the United States in 2019 and is available as 300 mg tablets under brand name Nubeqa. The recommended initial dose is 600 mg (two tablets) twice daily. Darolutamide should be used in combination with testosterone suppression either with a gonadotrophin releasing hormone (GnRH) analogue or after bilateral orchiectomy to insure optimal androgen suppression. Common side effects include symptoms of androgen deficiency including fatigue, diarrhea, nausea, anorexia, weight loss, constipation, joint and muscle pain, hot flushes, headaches, dizziness, and edema. Rare, but potentially serious side effects associated with long term therapy include seizures, osteoporosis, bone fractures, and cardiovascular events.</p>
+        </sec>
+        <sec id="Darolutamide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure controlled trials with 1508 patients, serum AST elevations were more common with darolutamide than placebo therapy [23% vs 14%], but were rarely above 5 times the ULN [&#x0003c;1%] and ALT elevations were uncommon, although the results were not provided. Similarly, serum bilirubin levels were more frequently elevated on darolutamide therapy than placebo [16% vs 7%] but were rarely markedly elevated [less than 0.5%], and there were no cases of clinically apparent liver injury. Since approval and general availability of darolutamide, there have been no published reports of liver injury attributed to darolutamide therapy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Darolutamide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum AST and bilirubin elevations that occur during darolutamide therapy is unknown. Darolutamide is extensively metabolized in the liver predominantly by CYP 3A4. Its use with strong inducers of CYP 3A4 could result in decreased drug levels and reduced efficacy, while use with strong CYP 3A4 inhibitors could result in elevated drug levels and potentially increased adverse events.</p>
+        </sec>
+        <sec id="Darolutamide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The elevations in serum AST and bilirubin during darolutamide therapy have been asymptomatic, mild and transient, not requiring dose adjustments. Routine monitoring of liver tests is not recommended, but finding AST elevations above 5 times the upper limit of normal would warrant search for another cause of liver injury and stopping therapy or modifying the dose if no other cause is found. There is no information on cross sensitivity for hepatic injury between darolutamide and other antiandrogens, such as flutamide, bicalutamide, apalutamide, enzalutamide, or abiraterone.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Anti-androgens" document-type="chapter">Antiandrogens</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Darolutamide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Darolutamide &#x02013; Nubeqa&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Darolutamide">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Darolutamide.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Darolutamide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Darolutamide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Darolutamide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Darolutamide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Darolutamide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Darolutamide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Darolutamide</td>
+                <td headers="hd_h_Darolutamide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://295371166">1297538-32-9</ext-link>
+</td>
+                <td headers="hd_h_Darolutamide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H19-Cl-N6-O2</td>
+                <td headers="hd_h_Darolutamide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="295371166" document-id-type="sid" document-type="summary" object-id="295371166" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Darolutamide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 March 2023</p>
+        <p>Abbreviations: PSA, prostate-specific antigen; LHRH, luteinizing hormone releasing hormone.</p>
+        <ref-list id="Darolutamide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Darolutamide.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 before the availability of antineoplastic antiandrogens such as darolutamide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Darolutamide.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam, Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; darolutamide is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Darolutamide.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. Natural products in cancer chemotherapy: hormones and related agents. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-48.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics discusses the androgen receptor antagonists flutamide, bicalutamide, nilutamide and enzalutamide, but not apalutamide or darolutamide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Darolutamide.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212099Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212099Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that AST elevations were more frequent on darolutamide than placebo [23% vs 14%] as were bilirubin elevations [16% vs 7%], but that other liver test abnormalities were uncommon, and there were no cases of clinically apparent liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Darolutamide.REF.tran.2009.787">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tran</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ouk</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Clegg</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Watson</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Arora</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Wongvipat</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Development of a second-generation antiandrogen for treatment of advanced prostate cancer.</article-title>
+              <source>Science</source>
+              <year>2009</year>
+              <volume>324</volume>
+              <fpage>787</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of development of unique antiandrogen molecules that block the translocation of the androgen receptor to the nucleus and the transcriptional activity of the receptor).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19359544</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF.fizazi.2014.975">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fizazi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Massard</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bono</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kataja</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>James</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Garcia</surname><given-names>JA</given-names></name>
+<etal/>
+<collab>ARADES study group</collab>
+</person-group>
+              <article-title>Activity and safety of ODM-201 in patients with progressive metastatic castration-resistant prostate cancer (ARADES): an open-label phase 1 dose-escalation and randomised phase 2 dose expansion trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2014</year>
+              <volume>15</volume>
+              <fpage>975</fpage>
+              <lpage>85</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 110 patients with castration-resistant, metastatic prostate cancer treated with 200, 400 or 1400 mg of darolutamide daily, PSA response rates were similar in all three doses and adverse events included fatigue [31%], back pain [21%], arthralgia [15%] and pain [15%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24974051</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF.fizazi.2017.606">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fizazi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Massard</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bono</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kataja</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>James</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Tammela</surname><given-names>TL</given-names></name>
+<name name-style="western"><surname>Joensuu</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and antitumour activity of ODM-201 (BAY-1841788) in castration-resistant, CYP17 inhibitor-na&#x000ef;ve prostate cancer: results from extended follow-up of the ARADES trial.</article-title>
+              <source>Eur Urol Focus.</source>
+              <year>2017</year>
+              <volume>3</volume>
+              <fpage>606</fpage>
+              <lpage>614</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 patients with castration-resistant prostate cancer participating in preliminary trials of darolutamide who were enrolled in open label extension studies, results after 15 months of follow up showed continued antitumor activity and continued rates of mild-to-moderate adverse events; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28753849</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF.crawford.2018.956">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Crawford</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Schellhammer</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>McLeod</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Moul</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Higano</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Denis</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Androgen receptor targeted treatments of prostate cancer: 35 years of progress with antiandrogens.</article-title>
+              <source>J Urol.</source>
+              <year>2018</year>
+              <volume>200</volume>
+              <fpage>956</fpage>
+              <lpage>966</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the development of antiandrogen therapies of prostate cancer starting with discovery of the androgen sensitive nature of prostate cancer, the effects of orchiectomy, followed by the development of androgen receptor antagonists, first generation agents flutamide and nilutamide, second generation agent bicalutamide and third generation agents enzalutamide, apalutamide and darolutamide that have more potent androgen receptor inhibition).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29730201</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF9">
+            <element-citation publication-type="journal">
+              <article-title>Darolutamide (Nubeqa) for prostate cancer.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1587</issue>
+              <fpage>201</fpage>
+              <lpage>202</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of darolutamide shortly after its approval for use in the US, mentions side effects of fatigue, pain, rash, neutropenia and elevations in AST and bilirubin without mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31999669</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF.fizazi.2020.1040">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fizazi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Tammela</surname><given-names>TL</given-names></name>
+<name name-style="western"><surname>Ulys</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vjaters</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Polyakov</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jievaltas</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>ARAMIS Investigators. Nonmetastatic, castration-resistant prostate cancer and survival with darolutamide.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1040</fpage>
+              <lpage>1049</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1509 men with non-metastatic, castration-resistant prostate cancer treated in a controlled trial for a median of 29 months, metastasis free survival was longer and risk of death lower with darolutamide than placebo treatment; adverse events that were more frequent with active drug included fatigue, pain and rash; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32905676</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF.halabi.2021.298">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Halabi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Terasawa</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Garcia-Horton</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Ayyagari</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Waldeck</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Indirect comparison of darolutamide versus apalutamide and enzalutamide for nonmetastatic castration-resistant prostate cancer.</article-title>
+              <source>J Urol.</source>
+              <year>2021</year>
+              <volume>206</volume>
+              <fpage>298</fpage>
+              <lpage>307</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comparison of outcome and adverse events in published randomized, placebo-controlled trials of darolutamide, apalutamide and enzalutamide for castration-resistant prostate cancer suggested that efficacy as assessed by improvement in metastasis-free survival was similar for all three agents, but that darolutamide therapy was associated with lower rates of adverse events, particularly fatigue, rash, falls, seizures, fractures and cognitive disorders; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33818140</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Darolutamide.REF.gillessen.2023.jco2201726">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gillessen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Procopio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Hayoz</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kremer</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Schwitter</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Caffo</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Lorente</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Darolutamide maintenance in patients with metastatic castration-resistant prostate cancer with nonprogressive disease after taxane treatment (SAKK 08/16).</article-title>
+              <source>J Clin Oncol.</source>
+              <year>2023</year>
+              <volume>8</volume>
+              <elocation-id>JCO2201726</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 92 patients with metastatic, castration-resistant prostate cancer treated with addition of darolutamide or placebo, radiologic progression free survival was 5.5 months with darolutamide vs 4.5 months with placebo and overall adverse event rates were similar, although fatigue was less with darolutamide [11% vs 20%]; no mention of ALT elevation or hepatotoxicity).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Darolutamide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Darolutamide+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Darolutamide: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Darolutamide">Trials on Darolutamide: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

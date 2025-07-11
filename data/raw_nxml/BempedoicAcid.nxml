@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="BempedoicAcid" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">BempedoicAcid</book-part-id>
+      <title-group>
+        <title>Bempedoic Acid</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Belzutifan" document-type="chapter">Belzutifan</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Benazepril" document-type="chapter">Benazepril</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="BempedoicAcid.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="BempedoicAcid.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Bempedoic acid is a small molecule inhibitor of adenosine triphosphate-citrate lyase that is used as a cholesterol lowering agent in patients with hypercholesterolemia and high risk or with known atherosclerotic cardiovascular disease who fail to have an adequate response or are intolerant of conventional statin therapy. Bempedoic acid is associated with a low rate of mild, asymptomatic and self-limited serum aminotransferase elevations during therapy and to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="BempedoicAcid.Background">
+          <title>Background</title>
+          <p>Bempedoic (bem&#x0201d; pe doe&#x02019; ik) acid is an orally available, small molecule inhibitor of adenosine triphosphate-citrate lyase (ACL), a hepatic enzyme involved in cholesterol synthesis. Inhibition of ACL results in a lowering of intrahepatic cholesterol levels which leads to an increase in LDL cholesterol (LDL-C) receptors on hepatocytes and increased uptake of LDL-C from serum resulting in lower serum levels. In large, randomized placebo-controlled trials, bempedoic acid resulted in a 17% to 24% decrease in LDL cholesterol levels. Bempedoic acid was approved for use in the United States in 2020 as an adjunct to diet and statins for control of LDL cholesterol levels in patients with heterozygous familial hypercholesterolemia or patients with established atherosclerotic cardiovascular disease who fail to have an adequate response or are intolerant of conventional statin therapy. Bempedoic acid has been shown to decrease the risk of morbidity and mortality from atherosclerotic cardiovascular disease but with less efficacy than statins, for which reason it is generally reserved for patients who have an inadequate response to maximal tolerated doses of statins. Bempedoic acid is available under the brand name Nexletol in tablets of 180 mg and the recommended dose is 180 mg once daily. Common side effects include symptoms of upper respiratory infection, muscle cramps and pain, back pain, abdominal pain, hyperuricemia, bronchitis, headache, nausea, and weakness. Rare but potentially severe adverse events include severe hyperuricemia and tendon rupture.</p>
+        </sec>
+        <sec id="BempedoicAcid.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Bempedoic acid is associated with low rate of mild, asymptomatic and typically transient serum aminotransferase elevations during therapy. In prelicensure controlled trials, elevations in either ALT or AST arose in 2% of treated patients compared to less than 1% of placebo recipients. ALT elevations above 3 times the upper limit of normal (ULN) arise in less than 1% of bempedoic treated patients, a rate similar to that in placebo recipients (most of the participants were taking other cholesterol lowering agents such as statins or ezetimibe). There were no instances of serum ALT elevations associated with symptoms or jaundice in the prelicensure trials. Since the approval and more widespread use of bempedoic acid, there have been no published reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="BempedoicAcid.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The potential cause of hepatic injury from bempedoic acid is unknown. It is metabolized in the liver (via CYP 2C9). The mild, self-limited ALT elevations may be due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation.</p>
+        </sec>
+        <sec id="BempedoicAcid.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations that sometimes arise in patients taking bempedoic acid generally resolve even without dose modification or discontinuation. There is no evidence for cross sensitivity to hepatic injury among the various cholesterol lowering drugs.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Lipid-LoweringAgents" document-type="chapter">Antilipemic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="Statins" document-type="chapter">Statins</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Atorvastatin" document-type="chapter">Atorvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ezetimibe" document-type="chapter">Ezetimibe [used in combination]</related-object></p>
+        </sec>
+      </sec>
+      <sec id="BempedoicAcid.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Bempedoic Acid &#x02013; Nexletol&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antilipemic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Bempedoic%20Acid">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="BempedoicAcid.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="BempedoicAcid.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_BempedoicAcid.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_BempedoicAcid.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_BempedoicAcid.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_BempedoicAcid.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_BempedoicAcid.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bempedoic Acid</td>
+                <td headers="hd_h_BempedoicAcid.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135268434">738606-46-7</ext-link>
+</td>
+                <td headers="hd_h_BempedoicAcid.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H36-O5</td>
+                <td headers="hd_h_BempedoicAcid.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135268434" document-id-type="sid" document-type="summary" object-id="135268434" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="BempedoicAcid.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 July 2023</p>
+        <p>Abbreviations used: HDL, high density lipoprotein; LDL, low density lipoprotein; ULN, upper limit of the normal range.</p>
+        <ref-list id="BempedoicAcid.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="BempedoicAcid.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of bempedoic acid).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.gurgle.2018">
+            <mixed-citation publication-type="book">Gurgle H, Blumenthal DK. Drug therapy for dyslipidemias. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 605-618.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/211616Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/211616Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and FDA review of the safety and efficacy of bempedoic acid based upon submission of data by the sponsor in support of its approval, mentions that in a large preregistration trial, ALT elevations above 3 times the upper limit of normal arose in less than 1% of treated patients and at a rate similar to that of patients receiving placebo).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.pinkosky.2016.13457">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pinkosky</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Newton</surname>
+<given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Day</surname>
+<given-names>EA</given-names></string-name>, <string-name name-style="western"><surname>Ford</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Lhotak</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Austin</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Birch</surname>
+<given-names>CM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver-specific ATP-citrate lyase inhibition by bempedoic acid decreases LDL-C and attenuates atherosclerosis.</article-title>
+<source>Nat Commun.</source>
+<year>2016</year>;<volume>7</volume>:<fpage>13457</fpage>.<annotation><p><italic toggle="yes">(Demonstration that bempedoic acid inhibits ATP-citrate lyase [ACL], a cytoplastic enzyme involved in synthesis of cholesterol upstream of HMG-CoA reductase, the target of statins; ACL is found in liver but not muscle cells and thus might lower cholesterol levels without causing myalgias and myopathy).</italic></p></annotation><pub-id pub-id-type="pmid">27892461</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.ray.2019.1022">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ray</surname>
+<given-names>KK</given-names></string-name>, <string-name name-style="western"><surname>Bays</surname>
+<given-names>HE</given-names></string-name>, <string-name name-style="western"><surname>Catapano</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Lalwani</surname>
+<given-names>ND</given-names></string-name>, <string-name name-style="western"><surname>Bloedon</surname>
+<given-names>LT</given-names></string-name>, <string-name name-style="western"><surname>Sterling</surname>
+<given-names>LR</given-names></string-name>, <string-name name-style="western"><surname>Robinson</surname>
+<given-names>PL</given-names></string-name>, <etal>et al.</etal>; <collab>CLEAR Harmony Trial</collab>. <article-title>Safety and efficacy of bempedoic acid to reduce LDL cholesterol.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>380</volume>:<fpage>1022</fpage>-<lpage>1032</lpage>.<annotation><p><italic toggle="yes">(Among 2230 patients with heterozygous familial hypercholesterolemia or with known atherosclerotic cardiovascular disease and LDL cholesterol levels above 70 mg/dL on maximal tolerated doses of statins who were treated with bempedoic acid [180 mg] or placebo once daily for 52 weeks, LDL cholesterol levels decreased by an average of 19.2 mg/dL or -16.5% on bempedoic acid compared to an increase of 1% in placebo recipients, while total and serious adverse event rates were similar in the two groups, and ALT or AST elevations above 3 times ULN arose in 0.5% vs 0.1%, and there were no liver related deaths or serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">30865796</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.bays.2020.649">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bays</surname>
+<given-names>HE</given-names></string-name>, <string-name name-style="western"><surname>Banach</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Catapano</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Duell</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Gotto</surname>
+<given-names>AM</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Laufs</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Leiter</surname>
+<given-names>LA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Bempedoic acid safety analysis: Pooled data from four phase 3 clinical trials.</article-title>
+<source>J Clin Lipidol.</source>
+<year>2020</year>;<volume>14</volume>:<fpage>649</fpage>-<lpage>659.e6</lpage>.<annotation><p><italic toggle="yes">(Analysis of adverse event rates in pooled results from 4 randomized, placebo-controlled trials of bempedoic acid in patients with hypercholesterolemia found overall adverse event rates per 100 patient exposure years similar in the two groups [87.1 vs 82.9] but discontinuations of adverse events more frequent with bempedoic acid [13.4 vs 8.9], while ALT elevations above 3 times ULN were uncommon [0.8 vs 0.3] all of which were transient and not associated with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">32980290</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF7">
+            <mixed-citation publication-type="journal"><article-title>Bempedoic acid (Nexletol) for lowering LDL-cholesterol.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2020</year>;<volume>62</volume>:<fpage>53</fpage>-<lpage>55</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of bempedoic acid, mentions that therapy has been linked to elevations in liver enzymes but does not mention clinically apparent hepatotoxicity and does not recommend monitoring ALT or AST).</italic></p></annotation><pub-id pub-id-type="pmid">32324179</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF8">
+            <mixed-citation publication-type="journal"><article-title>Lipid-lowering drugs.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2022</year>;<volume>64</volume>:<fpage>145</fpage>-<lpage>152</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, relative efficacy, safety and costs of lipid lowering drugs including statins, ezetimibe, PCSK9 inhibitors, bile acid sequestrants, fibric acid derivatives, niacin, fish oil, and bempedoic acid, mentions that it can cause elevations in liver enzymes).</italic></p></annotation><pub-id pub-id-type="pmid">36094548</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.ballantyne.2022.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ballantyne</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Banach</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bays</surname>
+<given-names>HE</given-names></string-name>, <string-name name-style="western"><surname>Catapano</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Laufs</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Stroes</surname>
+<given-names>ESG</given-names></string-name>, <string-name name-style="western"><surname>Robinson</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term safety and efficacy of bempedoic acid in patients with atherosclerotic cardiovascular disease and/or heterozygous familial hypercholesterolemia (from the CLEAR Harmony Open-Label Extension Study).</article-title>
+<source>Am J Cardiol.</source>
+<year>2022</year>;<volume>174</volume>:<fpage>1</fpage>-<lpage>11</lpage>.<annotation><p><italic toggle="yes">(Among 1462 patients with hypercholesterolemia who participated in the 52 week, randomized placebo- controlled trial of bempedoic acid [Ray, 2019] and were then enrolled in a 78 week open-label extension study, the cholesterol lowering effect of therapy was maintained and no new safety issues arose, laboratory abnormalities did not worsen, and ALT elevations arose in only 5 subjects [0.3%]).</italic></p></annotation><pub-id pub-id-type="pmid">35483979</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF10">
+            <mixed-citation publication-type="journal"><article-title>In brief: Cardiovascular outcomes with bempedoic acid (Nexletol).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>: <fpage>62</fpage>-<lpage>63</lpage>.<annotation><p><italic toggle="yes">(Concise summary of recent trial of bempedoic acid vs placebo in 13,970 patients with intolerance to statins and high risk for cardiovascular disease followed for a median of 42 months, found a reduction in a combined endpoint of myocardial infarction, stroke, cardiovascular death and coronary revascularization with bempedoic acid [11.7% vs 13.3%] and lowering of LDL cholesterol by 21% vs 0.8%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37039614</pub-id></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.banach.2023">
+            <mixed-citation publication-type="other">Banach M, Penson PE, Farnier M, Fras Z, Latkovskis G, Laufs U, Paneni F, et al. Bempedoic acid in the management of lipid disorders and cardiovascular risk. 2023 position paper of the International Lipid Expert Panel (ILEP). Prog Cardiovasc Dis. 2023:S0033-0620(23)00026-9.<annotation><p><italic toggle="yes">(Expert opinion recommendations on the use of bempedoic acid in management of dyslipidemia mentions that it is associated with a small increase in the rate of aminotransferase elevations to above 3 times ULN [0.8 vs 0.3 per 100 patient-years of exposure to drug vs placebo], but that the effect is transient and reversible upon discontinuation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BempedoicAcid.REF.nissen.2023.1353">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Nissen</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Lincoff</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Brennan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ray</surname>
+<given-names>KK</given-names></string-name>, <string-name name-style="western"><surname>Mason</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Kastelein</surname>
+<given-names>JJP</given-names></string-name>, <string-name name-style="western"><surname>Thompson</surname>
+<given-names>PD</given-names></string-name>, <etal>et al.</etal>; <collab>CLEAR Outcomes Investigators</collab>. <article-title>Bempedoic acid and cardiovascular outcomes in statin-intolerant patients.</article-title>
+<source>N Engl J Med.</source>
+<year>2023</year>;<volume>388</volume>:<fpage>1353</fpage>-<lpage>1364</lpage>.<annotation><p><italic toggle="yes">(Among 13,970 adults with hypercholesterolemia and statin-intolerance treated with bempedoic acid [180 mg] or placebo once daily for a median of 41 months, the combined primary endpoint of non-fatal myocardial infarction, non-fatal stroke, cardiovascular death, and coronary revascularization was less frequent in bempedoic acid treated patients [13.3% vs 11.7%] as was myocardial infarction [3.7% vs 4.8%] and LDL-cholesterol levels lower [-21% vs -1%], but adverse event rates were similar between the two groups except for slight increases in rates of ALT elevations above 3 times ULN [1.2% vs 0.8%], gout [3.1% vs 2.1%] and cholelithiasis [2.2% vs 1.2%], but there were no serious hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36876740</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="BempedoicAcid.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Bempedoic+Acid+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Bempedoic Acid: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bempedoic%20Acid">Trials on Bempedoic Acid: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

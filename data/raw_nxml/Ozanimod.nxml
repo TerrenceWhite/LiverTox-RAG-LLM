@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ozanimod" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ozanimod</book-part-id>
+      <title-group>
+        <title>Ozanimod</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>7</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="OxyELITEPro" document-type="chapter">OxyELITE Pro</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Paclitaxel" document-type="chapter">Paclitaxel</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ozanimod.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ozanimod.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ozanimod is an orally available immunomodulatory drug used to treat relapsing forms of multiple sclerosis. Ozanimod is associated with transient serum enzyme elevations during therapy but has not been linked to instances of clinically apparent liver injury with jaundice, although experience with its use has been limited.</p>
+        </sec>
+        <sec id="Ozanimod.Background">
+          <title>Background</title>
+          <p>Ozanimod (oh zan&#x02019; i mod) is an immunomodulatory agent used in the treatment of multiple sclerosis that is believed to act by modulating sphingosine-1-phosphate (S1P) receptors. Ozanimod is an analogue of sphingosine and is related in structure to fingolimod, the first S1P receptor inhibitor approved for use in multiple sclerosis. While fingolimod has nonspecific S1P receptor activity affecting receptor subtypes 1, 3, 4 and 5, siponimod, the second such analogue approved and ozanimod, the third, have a more limited specificity and primarily block S1P receptor 1 and 5 activity. The S1P receptor modulators, once phosphorylated intracellularly, render T and B cells insensitive to signals necessary for egress from lymphoid tissue. In animal models of multiple sclerosis, ozanimod resulted in reduced recirculation of autoaggressive lymphocytes to the central nervous system. Subsequently, in several large, randomized controlled trials, ozanimod was shown to reduce relapse rates and improve neuro-radiologic outcomes in adult patients with relapsing multiple sclerosis. Ozanimod was approved for use in the United States in 2020 as therapy of relapsing multiple sclerosis in adults. It is available in tablets of 0.23, 0.46 and 0.92 mg under the brand name Zeposia. As with other S1P receptor modulators, a short period of dose escalation is recommended for initiation of therapy with ozanimod. The recommended maintenance dose in adults is 0.92 mg orally once daily. Ozanimod has also been shown to have beneficial effects in ulcerative colitis and Crohn disease, but has yet to be approved for these indications. Common side effects of ozanimod, as with other S1P receptor modulators, are lymphopenia, headache, diarrhea, cough, rhinorrhea and back and abdominal pain. Rare, but potentially severe adverse events include severe viral, bacterial or fungal infections, atrial arrhythmias and bradycardia, macular edema, decrease in pulmonary function, progressive multifocal leukoencephalopathy (PML), and embryonal-fetal toxicity. Patients on long term ozanimod therapy should be monitored for infectious complications as well as for cardiac, pulmonary and ophthalmologic status.</p>
+        </sec>
+        <sec id="Ozanimod.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large controlled trials of ozanimod in patients with multiple sclerosis, serum ALT elevations were common (~5% of recipients) but were typically mild and asymptomatic, and they returned to baseline values within a few months of stopping and often even with continuation of therapy. Aminotransferase elevations above 3 times upper limit of normal (ULN) were reported in 4% of ozanimod recipients compared to less than 1% of placebo recipients and elevations above 5 times ULN in 1%. In these prelicensure clinical trials, there were no cases of acute hepatitis or clinically apparent liver injury but elevations in liver tests led to discontinuation in approximately 1% of subjects. While ozanimod is associated with lymphopenia and long term therapy is associated with risk for reactivation of herpes simplex and zoster infections, it has not been linked to cases of reactivation of hepatitis B although one such instance has been reported with fingolimod. Thus, mild-to-moderate and transient serum enzyme elevations during therapy are not uncommon, but clinically apparent liver injury with jaundice due to ozanimod has not been reported, although the clinical experience with its use has been limited.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ozanimod.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which ozanimod might cause liver injury is not known. It is extensively metabolized by liver via the cytochrome P450 system, predominantly CYP 2C9 and 3A4 and drug-drug interactions with agents that induce or inhibit these enzymes are likely to occur. Serum enzyme elevations have been frequent with all of the oral S1P receptor modulators, particularly with fingolimod.</p>
+        </sec>
+        <sec id="Ozanimod.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While chronic therapy with ozanimod can be associated with mild-to-moderate serum aminotransferase elevations, it has not been linked to any cases of clinically apparent liver injury. Because of the frequency of enzyme elevations detected during therapy, the product label for ozanimod recommends obtaining baseline liver tests before initiation of treatment. However, no specific recommendations for monitoring liver tests during treatment have been made. Any ALT or AST elevation associated with symptoms or jaundice should lead to prompt discontinuation of ozanimod. Patients with persistent elevations above 3 times ULN should be assessed for other causes of liver injury and discontinue ozanimod if not other cause is found. There is no known cross sensitivity of the hepatic injury from ozanimod with other agents used to treat multiple sclerosis. Because of the similarity in chemical structure and mechanism of action, there may be cross sensitivity to side effects with fingolimod, siponimod and ponesimod.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MultipleSclerosisAge" document-type="chapter">Multiple Sclerosis Agents</related-object></p>
+          <p>Other Drugs in the Subclass, S1P Receptor Modulators: <related-object link-type="booklink" source-id="livertox" document-id="Fingolimod" document-type="chapter">Fingolimod</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ponesimod" document-type="chapter">Ponesimod</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Siponimod" document-type="chapter">Siponimod</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ozanimod.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Ozanimod &#x02013; Zeposia&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Multiple Sclerosis Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ozanimod">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ozanimod.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ozanimod.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ozanimod.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ozanimod.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ozanimod.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ozanimod.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ozanimod.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ozanimod</td>
+                <td headers="hd_h_Ozanimod.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://249820345">1306760-87-1</ext-link>
+</td>
+                <td headers="hd_h_Ozanimod.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C23-H24-N4-O3</td>
+                <td headers="hd_h_Ozanimod.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="249820345" document-id-type="sid" document-type="summary" object-id="249820345" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ozanimod.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 July 2021</p>
+        <ref-list id="Ozanimod.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ozanimod.REF1">
+            <mixed-citation publication-type="other">Abbreviations: HBV, hepatitis B virus; MRI, magnetic resonance imaging; S1P, sphingosine-1-phosphate.</mixed-citation>
+          </ref>
+          <ref id="Ozanimod.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 697-8.<annotation><p>(Expert review of hepatotoxicity published in 1999 before the availability of S1P receptor modulators).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ozanimod.REF.kaplowitz.2013">
+            <mixed-citation publication-type="book">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p>(Multi-authored textbook of hepatotoxicity published in 2013, does not discuss the drugs for multiple sclerosis).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ozanimod.REF.krensky.2018">
+            <mixed-citation publication-type="book">Krensky AM, Azzi JR, Hafler DA. Immunotherapy for multiple sclerosis. Immunosuppressants and Tolerogens. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 649-52.<annotation><p>(Textbook of pharmacology and therapeutics).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ozanimod.REF.medical">
+            <mixed-citation publication-type="web">FDA Medical Review of NDA for Ozanimod: Pages 92-99. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/209899Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/209899Orig1s000MedR.pdf</ext-link><annotation><p>(FDA website with product labels and medical review of the efficacy and safety of ozanimod mentions that serum aminotransferase elevations above 5 times ULN arose in 10 of 1944 [1%] patients treated with ozanimod and led to dose interruption/discontinuation in ~1%, but careful analysis of specific cases did not find any instance of clinically apparent acute liver injury with jaundice).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ozanimod.REF.kappos.2010.387">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kappos</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Radue</surname><given-names>EW</given-names></name>
+<name name-style="western"><surname>O'Connor</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Polman</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hohlfeld</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Calabresi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Selmaj</surname><given-names>K</given-names></name>
+<etal/>
+<collab>FREEDOMS Study Group</collab>
+</person-group>
+              <article-title>A placebo-controlled trial of oral fingolimod in relapsing multiple sclerosis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2010</year>
+              <volume>362</volume>
+              <fpage>387</fpage>
+              <lpage>401</lpage>
+              <annotation>
+                <p>(Among 1272 patients with relapsing multiple sclerosis treated with fingolimod [0.5 or 1.25 mg daily] or placebo for 24 months, 8.5-12.5% of fingolimod, but only 1.7% of placebo recipients developed ALT elevations above 3 times ULN, and ALT levels fell to normal with or without discontinuation, and serum bilirubin levels did not change).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20089952</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Oral fingolimod (gilenya) for multiple sclerosis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <issue>1353-1354</issue>
+              <fpage>98</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>(Concise review of mechanism of action, efficacy, safety and costs of fingolimod shortly after is approval for use for multiple sclerosis in the US, mentions that common side effects are headache, cough, diarrhea, back pain and aminotransferase elevations; no mention of clinically apparent liver injury).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21344782</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.subei.2015.565">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Subei</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Sphingosine 1-phosphate receptor modulators in multiple sclerosis.</article-title>
+              <source>CNS Drugs</source>
+              <year>2015</year>
+              <volume>29</volume>
+              <fpage>565</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>(Review of the function of the S1P receptors [subtypes 1 to 5] and the clinical implications of their differential modulation by different inhibitors).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26239599</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.cohen.2016.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cohen</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Comi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gujrathi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hartung</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Cravets</surname><given-names>M</given-names></name>
+<etal/>
+<collab>RADIANCE Study Group</collab>
+</person-group>
+              <article-title>Safety and efficacy of the selective sphingosine 1-phosphate receptor modulator ozanimod in relapsing multiple sclerosis (RADIANCE): a randomised, placebo-controlled, phase 2 trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2016</year>
+              <volume>15</volume>
+              <fpage>373</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>(Among 258 adults with relapsing multiple sclerosis treated with ozanimod [0.5 or 1.0 mg] or placebo once daily for 24 weeks, the accumulative number of brain MRI enhancing lesions were less with ozanimod [1.5] than placebo [11] and adverse event rates were similar, ALT elevations above 3 times the ULN arose in 1.5% vs none on placebo, but no patient required drug discontinuation because of an adverse event).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26879276</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.sandborn.2016.1754">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sandborn</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Feagan</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>Wolf</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>D'Haens</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Vermeire</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hanauer</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Ghosh</surname><given-names>S</given-names></name>
+<etal/>
+<collab>TOUCHSTONE Study Group</collab>
+</person-group>
+              <article-title>Ozanimod induction and maintenance treatment for ulcerative colitis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2016</year>
+              <volume>374</volume>
+              <fpage>1754</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>(Among 197 adults with ulcerative colitis treated with ozanimod [0.5 or 1.0 mg] vs placebo once daily for up to 32 weeks, clinical remissions by 8 weeks occurred in 14% and 16% on ozanimod vs 6% on placebo, while adverse event rates were similar in all groups, ALT elevations above 3 times ULN arose in 3% on ozanimod vs none on placebo, but there were no severe hepatic adverse events).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27144850</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.filippi.2018.43">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Filippi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Piehl</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Preziosa</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Solari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vukusic</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rocca</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Multiple sclerosis.</article-title>
+              <source>Nat Rev Dis Primers</source>
+              <year>2018</year>
+              <volume>4</volume>
+              <fpage>43</fpage>
+              <annotation>
+                <p>(Review of the pathogenesis, clinical features, natural history, management and therapy of multiple sclerosis).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30410033</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF12">
+            <element-citation publication-type="journal">
+              <article-title>Siponimod (Mayzent)--a new drug for multiple sclerosis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1571</issue>
+              <fpage>70</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>(Concise review of the mechanism of action, clinical efficacy, safety and costs of siponimod in comparison to other agents used to treat multiple sclerosis; mentions that serum aminotransferase elevations can occur with siponimod therapy and that patients should be tested for liver function tests and have CYP 2C9 genotype testing before starting treatment).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31169805</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.alsalama.2019.1009">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Al-Salama</surname><given-names>ZT</given-names></name>
+</person-group>
+              <article-title>Siponimod: first global approval.</article-title>
+              <source>Drugs</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1009</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action, history of development, clinical efficacy and safety of siponimod; mentions the common side effects include headache, hypertension, aminotransferase elevations, peripheral edema, nausea, dizziness, diarrhea, bradycardia and musculoskeletal pain, but that the aminotransferase levels were rarely severely elevated).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31144287</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.cohen.2019.1255">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cohen</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Comi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Selmaj</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Steinman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Havrdov&#x000e1;</surname><given-names>EK</given-names></name>
+<etal/>
+<collab>RADIANCE Trial Investigators</collab>
+</person-group>
+              <article-title>Efficacy and safety of ozanimod in multiple sclerosis: Dose-blinded extension of a randomized phase II study.</article-title>
+              <source>Mult Scler</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>1255</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>(In a two year extension study of ozanimod [0.5 or 1.0 mg once daily] in 247 adults with relapsing multiple sclerosis [Cohen 2016], 5% of patients developed ALT or AST elevations above 3 times ULN and 4 subjects [1.6%] required drug discontinuation for ALT elevations above 5 times ULN, but all resolved rapidly and none developed symptoms or jaundice).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30043658</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.comi.2019.1009">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Comi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Kappos</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Selmaj</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Steinman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hartung</surname><given-names>HP</given-names></name>
+<etal/>
+<collab>SUNBEAM Study Investigators</collab>
+</person-group>
+              <article-title>Safety and efficacy of ozanimod versus interferon beta-1a in relapsing multiple sclerosis (SUNBEAM): a multicentre, randomised, minimum 12-month, phase 3 trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2019</year>
+              <volume>18</volume>
+              <fpage>1009</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>(Among 1346 adults with relapsing multiple sclerosis treated with ozanimod [0.5 or 1.0 mg orally once daily] or interferon beta [30 &#x000b5;g intramuscularly once weekly] for at least 12 months, the annual relapse rate was less with ozanimod [0.18 and 0.24] than interferon beta [0.35], and while adverse event rates were less with ozanimod, ALT elevations above 3 times ULN arose in 3.0% vs 2.2% and discontinuations for ALT elevations in 0.6% vs 0.2%, but there were no cases of clinically apparent liver injury with jaundice).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31492651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.cohen.2019.1021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cohen</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Comi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Selmaj</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Steinman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hartung</surname><given-names>HP</given-names></name>
+<etal/>
+<collab>RADIANCE Trial Investigators</collab>
+</person-group>
+              <article-title>Safety and efficacy of ozanimod versus interferon beta-1a in relapsing multiple sclerosis (RADIANCE): a multicentre, randomised, 24-month, phase 3 trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2019</year>
+              <volume>18</volume>
+              <fpage>1021</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>(Among 1313 adults with relapsing multiple sclerosis treat with oral ozanimod [0.5 or 1.0 mg daily] or intramuscular interferon beta 1a [30 &#x000b5;g weekly], annualized relapse rates over 2 years were lower with ozanimod, while adverse event rates and discontinuations were more frequent with interferon beta, and ALT elevations above 3 times ULN arose in 6.3% on ozanimod vs 4.5% on interferon beta, although there were no instances of clinically apparent liver injury with jaundice).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31492652</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.lamb.2020.841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lamb</surname><given-names>YN</given-names></name>
+</person-group>
+              <article-title>Ozanimod: first approval.</article-title>
+              <source>Drugs</source>
+              <year>2020</year>
+              <volume>80</volume>
+              <fpage>841</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action, pharmacology, clinical efficacy and safety of ozanimod shortly after its approval for use in multiple sclerosis in the US mentions that ALT and AST elevations arose in 10% of patients treated in large controlled trials in comparison to 5% in patients receiving interferon beta-1a; no mention of clinically apparent hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32385738</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.feagan.2020.819">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Feagan</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>Sandborn</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Danese</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wolf</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Hua</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Minton</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ozanimod induction therapy for patients with moderate to severe Crohn's disease: a single-arm, phase 2, prospective observer-blinded endpoint study.</article-title>
+              <source>Lancet Gastroenterol Hepatol</source>
+              <year>2020</year>
+              <volume>5</volume>
+              <fpage>819</fpage>
+              <lpage>28</lpage>
+              <annotation>
+                <p>(Among 69 patients with active Crohn disease treated with ozanimod [1 mg daily] for 12 weeks, improvements occurred in clinical, endoscopic and histologic features, and adverse events were largely due to the underlying disease; 7% of patients had ALT elevations, 4% rising to above 3 times the ULN, but none were associated with jaundice or required drug discontinuation).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32553149</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF19">
+            <element-citation publication-type="journal">
+              <article-title>Ozanimod (Zeposia) for multiple sclerosis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1605</issue>
+              <fpage>132</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>(Concise review of the mechanism of action, clinical efficacy, toxicity and costs of ozanimod shortly after its approval for use in relapsing multiple sclerosis in the US mentions that ozanimod is associated with ALT and AST elevations and that therapy lowers lymphocyte counts and increases the risk of infections including herpes zoster).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32970043</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.lu.2020.886">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lu</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Shih</surname><given-names>YL</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>TY</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>JC</given-names></name>
+</person-group>
+              <article-title>Flare of hepatitis B virus after fingolimod treatment for relapsing and remitting multiple sclerosis.</article-title>
+              <source>J Formos Med Assoc</source>
+              <year>2020</year>
+              <volume>119</volume>
+              <fpage>886</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>(Letter describing 41 year old Taiwanese woman with relapsing multiple sclerosis and inactive HBsAg carrier state who developed reactivation of hepatitis B after 35 months of treatment with fingolimod [ALT 385 U/L, HBV DNA 8 log<sub>10</sub> IU/mL, bilirubin not given] who responded to tenofovir, with resolution of ALT elevations and decrease of HBV DNA levels to undetectable despite continuation of fingolimod).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31679907</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF21">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for multiple sclerosis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1620</issue>
+              <fpage>42</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>(Concise review of the relative clinical efficacy, safety and costs of drugs for relapsing multiple sclerosis including parenteral agents [such as interferon-beta, glatiramer acetate, natalizumab, alemtuzumab, ocreliumab, ofatumumab, rituximab and mitoxantrone] and the oral agents [such as the S1P receptor modulators, cladribine, fumarates, and teriflunomide], many of which are associated with serum ALT elevations and several have been reported to cause clinically apparent liver injury or reactivation of hepatitis B).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33976089</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.selmaj.2021.102844">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Selmaj</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Comi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bar-Or</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Steinman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hartung</surname><given-names>HP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ozanimod in relapsing multiple sclerosis: pooled safety results from the clinical development program.</article-title>
+              <source>Mult Scler Relat Disord</source>
+              <year>2021</year>
+              <volume>51</volume>
+              <elocation-id>102844</elocation-id>
+              <annotation>
+                <p>(Analysis of treatment emergent adverse events from pooled results of 5 preregistration trials in 2631 patients who received ozanimod for a mean of 32 months, identified no serious opportunistic infections, 37 cases of herpes zoster and 40 of oral herpes; elevations in ALT arose in 5% which were above 3 times the ULN in 3.9%, but with no clear temporal pattern and with no case of severe drug induced liver injury).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33892317</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.sandborn.2021.1120">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sandborn</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Feagan</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>Hanauer</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Vermeire</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ghosh</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Petersen</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term efficacy and safety of ozanimod in moderately to severely active ulcerative colitis: results from the open-label extension of the randomized, phase 2 TOUCHSTONE Study.</article-title>
+              <source>J Crohns Colitis</source>
+              <year>2021</year>
+              <volume>15</volume>
+              <fpage>1120</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>(Among 170 patients with ulcerative colitis who participated in a placebo controlled trial and were then enrolled in an open-label extension study of ozanimod [1 mg daily], clinical improvements were frequent and usually sustained; ALT elevations arose in 3.5% of subjects, but &#x0201c;no clinically significant elevations in hepatic transaminases and no evidence of serious hepatocellular injury were observed&#x0201d;).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33438008</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ozanimod.REF.mcginley.2021">
+            <mixed-citation publication-type="other">McGinley MP, Cohen JA. Sphingosine 1-phosphate receptor modulators in multiple sclerosis and other conditions. Lancet 2021 Jun 24: S0140-6736(21)00244-0. Epub ahead of print.<annotation><p>(Review of the function of S1P receptors and the mechanism of action of S1P receptor modulators in affecting lymphocyte tracking out of lymph nodes into the circulation and tissues; fingolimod is a nonspecific modulator affecting all 5 forms of S1P receptors, whereas siponimod and ozanimod act predominantly on S1P receptors 1 and 5 and ponesimod against S1P receptor-1 alone, the activity against S1P receptor-1 accounting for most of the beneficial effects in multiple sclerosis and the restricted specificity perhaps accounting for the lower rate of cardiac, lung and eye adverse events driven mostly by the inhibition of the other S1P receptor subtypes).</p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ozanimod.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ozanimod/AE)%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Ozanimod: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ozanimod">Trials on Ozanimod: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

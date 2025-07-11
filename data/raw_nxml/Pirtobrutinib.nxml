@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pirtobrutinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pirtobrutinib</book-part-id>
+      <title-group>
+        <title>Pirtobrutinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Piroxicam" document-type="chapter">Piroxicam</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pitavastatin" document-type="chapter">Pitavastatin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pirtobrutinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pirtobrutinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pirtobrutinib is an orally available small molecule inhibitor of Bruton tyrosine kinase that is used to treat chronic lymphocytic leukemia and lymphomas. Pirtobrutinib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Pirtobrutinib.Background">
+          <title>Background</title>
+          <p>Pirtobrutinib (pir&#x0201d; toe broo&#x02019; tin ib) is an orally available, specific inhibitor of Bruton tyrosine kinase, an important signaling molecule in B cell activation and proliferation that is used to treat chronic lymphocytic leukemia and several forms of B cell related lymphomas. The inhibition of Bruton tyrosine kinase down regulates the activation and proliferation of malignant B cells. Pirtobrutinib was shown to have activity in animal models of lymphoma and chronic lymphocytic leukemia. In an open label trial of pirtobrutinib in adult patients with relapsed or refractory B cell related malignancies, the overall objective response rate in those with mantle cell lymphoma was 50%, and 13% of patients had a complete response. The median duration of response was 8 months. Based upon these results, pirtobrutinib was given accelerated approval as therapy for adults with relapsed or refractory mantle cell lymphoma after at least two lines of systemic therapy, including a bruton tyrosine kinase inhibitor (such as ibrutinib or acalabrutinib). Subsequently, indications were expanded to include adults with chronic lymphocytic leukemia or small cell lymphoma who had received at least two prior lines of therapy, including both a Bruton tyrosine kinase and a B cell lymphoma 2 (BCL-2) inhibitor. Pirtobrutinib is available in tablets of 50 and 100 mg under the brand name Jaypirca. The recommended dose is 200 mg orally once daily with reductions for renal impairment and for managing toxicity. Common adverse events include fatigue, musculoskeletal pain, diarrhea, bruising, cough, and infections. Laboratory abnormalities include reductions in neutrophil, lymphocyte, platelet counts and hemoglobin. Potential severe adverse events include febrile neutropenia, severe infections, hemorrhage, cardiac arrythmias, hepatotoxicity, second primary malignancies, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Pirtobrutinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the open label prelicensure clinical trials of pirtobrutinib in patients with various B cell related malignancies serum aminotransferase elevations occurred in up to 23% of pirtobrutinib treated subjects. The elevations were typically mild and transient, but 2% to 3% of patients developed values above 5 times the upper limit of normal (ULN). The elevations occasionally led to temporary discontinuations, but more often resolved even without dose adjustment. In prelicensure studies, there were no instances of acute liver injury with symptoms or jaundice attributed to pirtobrutinib. Since approval and more widescale availability of pirtobrutinib, there have been no published reports of hepatotoxicity associated with its use. However, drug induced liver injury including acute liver failure and deaths have been reported with other Bruton tyrosine kinase inhibitors (mainly with ibrutinib) and several have been linked to instances of reactivation of hepatitis B which can be fatal.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury as well as reactivation of chronic hepatitis B).</p>
+        </sec>
+        <sec id="Pirtobrutinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of mild serum enzyme elevations during pirtobrutinib therapy is not known. Because it affects B cell maturation and proliferation, pirtobrutinib may reactivate latent infections such as hepatitis B, herpes zoster, or tuberculosis. Pirtobrutinib is metabolized in the liver predominantly by cytochrome P450 CYP 3A4 and serum levels are affected by agents that inhibit or induce this microsomal drug metabolizing enzyme.</p>
+        </sec>
+        <sec id="Pirtobrutinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Monitoring of serum aminotransferase levels is recommended for patients starting pirtobrutinib based largely on experience with other Bruton tyrosine kinase inhibitors such as ibrutinib. De novo elevations in serum aminotransferases levels above 5 times the upper limit of normal should lead to at least temporary cessation. If no other cause of the serum enzyme elevations is identified, or if they do not resolve or improve within a few weeks, or if symptoms of liver injury or jaundice arise, pirtobrutinib should be discontinued. Because of the risk of hepatitis B virus (HBV) reactivation by Bruton tyrosine kinase inhibitors, screening for HBV markers (HBsAg and anti-HBc) before starting therapy is appropriate. In patients with evidence of ongoing (HBsAg) or previous (anti-HBc) HBV infection, either prophylaxis or careful monitoring should be considered. There does not appear to be cross reactivity in risk for hepatic injury between pirtobrutinib and other Bruton kinase inhibitors or other biologic or non-biologic therapies for chronic lymphocytic leukemia or lymphoma.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Bruton Tyrosine Kinase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Acalabrutinib" document-type="book-part">Acalabrutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ibrutinib" document-type="book-part">Ibrutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zanubrutinib" document-type="book-part">Zanubrutinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pirtobrutinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Pirtobrutinib &#x02013; Jaypirca&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Protein Kinase Inhibitors</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Pirtobrutinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pirtobrutinib.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pirtobrutinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pirtobrutinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pirtobrutinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Pirtobrutinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pirtobrutinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pirtobrutinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pirtobrutinib</td>
+                <td headers="hd_h_Pirtobrutinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://434370477">2101700-15-4</ext-link>
+</td>
+                <td headers="hd_h_Pirtobrutinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C22-H21-F4-N5-O3</td>
+                <td headers="hd_h_Pirtobrutinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="434370477" document-id-type="sid" document-type="summary" object-id="434370477" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pirtobrutinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 July 2024</p>
+        <p>Abbreviations used: GvHD, graft-vs-host disease; ULN, upper limit of normal.</p>
+        <ref-list id="Pirtobrutinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pirtobrutinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as pirtobrutinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not the Bruton tyrosine kinase inhibitors such as ibrutinib and pirtobrutinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; discusses ibrutinib but not acalabrutinib, zanubrutinib, or pirtobrutinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF4">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216059Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216059Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application of pirtobrutinib for safety and efficacy, mentions that in a pooled safety cohort of 583 treated subjects, treatment emergent ALT elevations arose in 15% which were above 5 times ULN in 2%, but there were no instances of ALT elevations with jaundice attributed to pirtobrutinib, concluding that &#x0201c;Safety data&#x02026;did not identify any risk of drug-induced liver injury&#x02026;&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.mato.2021.892">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mato</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>NN</given-names></string-name>, <string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Cheah</surname>
+<given-names>CY</given-names></string-name>, <string-name name-style="western"><surname>Pagel</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Woyach</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Fakhri</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pirtobrutinib in relapsed or refractory B-cell malignancies (BRUIN): a phase 1/2 study.</article-title>
+<source>Lancet.</source>
+<year>2021</year>;<volume>397</volume>(<issue>10277</issue>): <fpage>892</fpage>-<lpage>901</lpage>.<annotation><p><italic toggle="yes">(Among 323 patients with previously treated B cell malignancies treated with 7 different doses of pirtobrutinib, no dose limiting toxicity was found and 200 mg daily was chosen for evaluation of efficacy which yielded an overall response rate of 52% in 56 patients with mantle cell lymphoma, 63% in 139 with chronic lymphocytic leukemia, and 68% in 19 with Waldenstr&#x000f6;m macroglobulinemia; while adverse events in the safety population included fatigue in 20%, diarrhea 17%, bruising 13%, neutropenia 13%, nausea 9%, and headache 9%, with only 1% requiring permanent discontinuation; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">33676628</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.michot.2021.855">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Michot</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Ribrag</surname>
+<given-names>V</given-names></string-name>. <article-title>Pirtobrutinib shows evidence to inaugurate a third generation of BTK inhibitors.</article-title>
+<source>Lancet.</source>
+<year>2021</year>;<volume>397</volume>(<issue>10277</issue>):<fpage>855</fpage>-<lpage>857</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Mato [2021] mentions that pirtobrutinib is a 3rd generation Bruton tyrosine kinase inhibitor that has greater selectivity, lack of cross resistance, and perhaps fewer off-target adverse events than ibrutinib [1st generation] as well as acalabrutinib and zanubrutinib [2nd generation] all of which bind covalently with the C481 kinase binding site while pirtobrutinib binds non-covalently [reversibly] to different site).</italic></p></annotation><pub-id pub-id-type="pmid">33676615</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.wang.2022.735">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Mi</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Thompson</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Montoya</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Notti</surname>
+<given-names>RQ</given-names></string-name>, <string-name name-style="western"><surname>Afaghani</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Durham</surname>
+<given-names>BH</given-names></string-name>, <string-name name-style="western"><surname>Penson</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Mechanisms of resistance to noncovalent Bruton's tyrosine kinase inhibitors.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>(<issue>8</issue>):<fpage>735</fpage>-<lpage>743</lpage>.<annotation><p><italic toggle="yes">(Among 55 patients with chronic lymphocytic leukemia who developed resistance to pirtobrutinib, all had mutations in the catalytic domain of Bruton tyrosine kinase [not in the C481 binding site of the kinase], and some of these mutations also conferred resistance to covalent inhibitors such as ibrutinib).</italic></p></annotation><pub-id pub-id-type="pmid">35196427</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.perutelli.2022.757">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Perutelli</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Montalbano</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Boccellato</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Coscia</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Vitale</surname>
+<given-names>C</given-names></string-name>. <article-title>Beyond ibrutinib: novel BTK inhibitors for the treatment of chronic lymphocytic leukemia.</article-title>
+<source>Curr Opin Oncol.</source>
+<year>2022</year>;<volume>34</volume>(<issue>6</issue>):<fpage>757</fpage>-<lpage>767</lpage>.<annotation><p><italic toggle="yes">(Review of the FDA approved Bruton tyrosine kinase inhibitors including the non-covalently and reversibly binding 3<sup>rd</sup> generation pirtobrutinib as well as several agents in development; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35993294</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pirtobrutinib.REF.eyre.2022.3961">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Eyre</surname>
+<given-names>TA</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>NN</given-names></string-name>, <string-name name-style="western"><surname>Dreyling</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Cheah</surname>
+<given-names>CY</given-names></string-name>, <string-name name-style="western"><surname>Song</surname>
+<given-names>Y</given-names></string-name>, <etal>et al.</etal>
+<article-title>BRUIN MCL-321: phase III study of pirtobrutinib versus investigator choice of BTK&#x000a0;inhibitor in BTK&#x000a0;inhibitor&#x000a0;na&#x000ef;ve mantle cell lymphoma.</article-title>
+<source>Future Oncol.</source>
+<year>2022</year>;<volume>18</volume>:<fpage>3961</fpage>-<lpage>3969</lpage>.<annotation><p><italic toggle="yes">(Description of a planned trial comparing pirtobrutinib vs other Bruton kinase inhibitors in subjects with mantle cell lymphoma not previously treated with a Bruton tyrosine kinase inhibitor).</italic></p></annotation><pub-id pub-id-type="pmid">36377973</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pirtobrutinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pirtobrutinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pirtobrutinib: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pirtobrutinib">Trials on Pirtobrutinib: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

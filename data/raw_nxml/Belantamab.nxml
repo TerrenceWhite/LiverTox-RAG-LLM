@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Belantamab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Belantamab</book-part-id>
+      <title-group>
+        <title>Belantamab Mafodotin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>11</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="beeprod" document-type="chapter">Bee Products: Beeswax, Bee Pollen, Propolis</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Belimumab" document-type="chapter">Belimumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Belantamab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Belantamab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Belantamab mafodotin is a humanized monoclonal antibody conjugate that was given accelerated approval for therapy of relapsed or refractory multiple myeloma in 2020 but was withdrawn in 2022 after failing to demonstrate a significant increase in survival compared to conventional therapies. Belantamab mafodotin has been linked to transient serum enzyme elevations during therapy and has been implicated in at least one case of fatal sinusoidal obstruction syndrome.</p>
+        </sec>
+        <sec id="Belantamab.Background">
+          <title>Background</title>
+          <p>Belantamab (bel an&#x02019; ta mab) mafodotin (ma foe doe&#x02019; tin) is a humanized monoclonal antibody to the B cell maturation antigen (BCMA) conjugated by a linker sequence to mafodotin, a direct cellular toxin. BCMA is a cell surface receptor that is highly expressed on multiple myeloma cells as well as normal plasma cells and some mature B lymphocytes. Mafodotin, also known as monomethyl auristatin F (MMAF), is a cytotoxic inhibitor of microtubule formation. The monoclonal antibody conjugate binds to and is taken up by BCMA-expressing malignant myeloma cells, and the microtubule inhibitor is released intracellularly by lysosomal protease hydrolysis of the linker sequence. The intracellular mafodotin inhibits microtubule formation causing cell cycle arrest resulting in apoptotic cell death of myeloma cells. This monoclonal antibody conjugate was shown to be effective in inducing remissions in adults with relapsed or refractory multiple myeloma. Belantamab mafodotin was given accelerated approval in 2020 in the United States for treatment of adults with advanced multiple myeloma after failure of at least four prior therapies. Belantamab mafodotin became available as a powder for reconstitution in single dose vials of 100 mg under the brand name Blenrep. The typical recommended dose regimen was 2.5 mg/kg administered by intravenous infusion every 3 weeks until disease progression or unacceptable toxicity. Side effects were common and included ocular toxicity of keratopathy with decreased visual acuity and blurred vision, nausea, abdominal pain, diarrhea, constipation, anorexia, weakness, headache, fatigue, fever, thrombocytopenia, lymphopenia, anemia, neutropenia, and increases in serum creatinine. Less common, but potentially serious side effects included severe infusion reactions, severe myelosuppression and thrombocytopenia, and embryo-fetal toxicity. Belantamab mafodotin should be administered only by physicians and health care providers with training and expertise in cancer chemotherapy and management of its potential adverse effects.</p>
+        </sec>
+        <sec id="Belantamab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In publications of the registration trials of belantamab mafodotin, serum aminotransferase elevations arose in up to 57% of treated patients, but were above 5 times the upper limit of normal (ULN) in only 2% to 3%, and no patient developed clinically apparent liver injury attributed to therapy. After its approval and more widespread use, a case of fatal sinusoidal obstruction syndrome was reported in an elderly man with extensively treated multiple myeloma after a 9<sup>th</sup> cycle of belantamab mafodotin. Belantamab mafodotin was withdrawn from availability in 2022 after an ongoing clinical trial found that it did not significantly prolong progression free survival compared to conventional chemotherapy regimens for advanced and refractory multiple myeloma.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury most likely due to sinusoidal obstruction syndrome).</p>
+        </sec>
+        <sec id="Belantamab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of the serum enzyme elevations and sinusoidal obstruction syndrome noted during belantamab mafodotin therapy are not known, but are likely due to direct toxicity of the mafodotin conjugate rather than the monoclonal antibody.</p>
+        </sec>
+        <sec id="Belantamab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occurred during belantamab mafodotin therapy were generally transient, mild and asymptomatic, and rarely required dose modification or delay in therapy. The product label for belantamab mafodotin did not recommend routine monitoring of liver tests. Serum aminotransferase elevations above 5 times the upper limit of normal, if detected, should lead to more careful monitoring and suspension of further infusions, at least until enzyme levels return to normal or near normal values. Elevations above 20 times the ULN or any elevation accompanied by jaundice or symptoms or any indications of sinusoidal obstruction syndrome should lead to prompt and permanent discontinuation.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Monoclonal Antibody Conjugates: Ado-Trastuzumab Emtansine, Brentuximab Vedotin, Enfortumab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Sacituzumab Govitecan, Tisotumab Vedotin, Trastuzumab Deruxtecan</p>
+        </sec>
+      </sec>
+      <sec id="Belantamab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Belantamab Mafodotin &#x02013; Blenrep&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Belantamab%20Mafodotin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Belantamab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Belantamab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Belantamab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Belantamab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Belantamab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Belantamab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Belantamab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Belantamab Mafodotin</td>
+                <td headers="hd_h_Belantamab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Mafodotin">2050232-20-5</ext-link>
+</td>
+                <td headers="hd_h_Belantamab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Belantamab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Belantamab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 November 2023</p>
+        <ref-list id="Belantamab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Belantamab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761158Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761158Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline review of approved drugs; analysis of belantamab mafodotin was taken down in October 2023 when the drug was voluntarily withdrawn by the sponsor).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.markham.2020.1607">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Belantamab mafodotin: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1607</fpage>-<lpage>1613</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of belantamab mafodotin, mentions that serum AST elevations occurred in 57% and alkaline phosphatase elevations in 26% of patients, but does not mention hepatotoxicity or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">32936437</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.joubert.2020.245">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Joubert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Beck</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dumontet</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Denevault-Sabourin</surname>
+<given-names>C.</given-names></string-name>
+<article-title>Antibody-drug conjugates: the last decade.</article-title>
+<source>Pharmaceuticals (Basel)</source>. <year>2020</year>;<volume>13</volume>:<fpage>245</fpage>.<annotation><p><italic toggle="yes">(Review of the development, structure, efficacy, adverse event rates and approval of vector-based chemotherapy using selective delivery by a monoclonal antibody and cancer cell injury by a conjugated cellular toxin [payload], including nine that are FDA approved and six others in pivotal trials).</italic></p></annotation><pub-id pub-id-type="pmid">32937862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.lonial.2020.207">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lonial</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>HC</given-names></string-name>, <string-name name-style="western"><surname>Badros</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Trudel</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Nooka</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Chari</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Abdallah</surname>
+<given-names>AO</given-names></string-name>, <etal>et al.</etal>
+<article-title>Belantamab mafodotin for relapsed or refractory multiple myeloma (DREAMM-2): a two-arm, randomised, open-label, phase 2 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2020</year>;<volume>21</volume>:<fpage>207</fpage>-<lpage>221</lpage>.<annotation><p><italic toggle="yes">(Among 196 patients with relapsed or refractory multiple myeloma and disease progression despite 3 or more lines of therapy who were treated with open-label belantamab mafodotin in a dose of 2.5 or 3.4 mg/kg intravenously every 3 weeks, the overall response rates were 31% and 34% and serious adverse events were slightly more common with the higher dose [40% vs 47%] as were ALT elevations [20% vs 24%, of which 2% vs 6% were &#x02265; 5 times ULN] and alkaline phosphatase elevations [8% vs 12%]).</italic></p></annotation><pub-id pub-id-type="pmid">31859245</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.lonial.2021.4198">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lonial</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>HC</given-names></string-name>, <string-name name-style="western"><surname>Badros</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Trudel</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Nooka</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Chari</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Abdallah</surname>
+<given-names>AO</given-names></string-name>, <etal>et al.</etal>
+<article-title>Longer term outcomes with single-agent belantamab mafodotin in patients with relapsed or refractory multiple myeloma: 13-month follow-up from the pivotal DREAMM-2 study.</article-title>
+<source>Cancer.</source>
+<year>2021</year>;<volume>127</volume>:<fpage>4198</fpage>-<lpage>4212</lpage>.<annotation><p><italic toggle="yes">(Continued follow up in the DREAMM-2 study [Lonial 2020] demonstrated that responses were generally maintained and there were no new adverse events, AST elevations occurred in 21% of subjects receiving 2.5 mg/kg of belantamab mafodotin, which were above 5 times ULN in 2% among 196 patients with relapsed or refractory multiple myeloma).</italic></p></annotation><pub-id pub-id-type="pmid">34314018</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.baines.2022.4629">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Baines</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Ershler</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Kanapuru</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Shen</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: belantamab mafodotin for patients with relapsed or refractory multiple myeloma.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>4629</fpage>-<lpage>4633</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on efficacy and safety upon which the FDA gave accelerated approval to belantamab mafodotin as therapy for adults with refractory, advanced multiple myeloma after previous treatment with at least 4 approved regimens; among 291 patients treated in two clinical trials who could be assessed for safety, the adverse event rate was 82%, resulting in drug modification in 54%, dose reductions in 29%, and discontinuations in 8%, with serious adverse events in 71%, including keratopathy in 44%, pneumonia in 7% and sepsis in 5%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35736811</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.pessach.2023.904">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pessach</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Argyrakopoulou</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Petropoulos</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Rapti</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Danglis</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Trajce</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Chandrinou</surname>
+<given-names>E.</given-names></string-name>
+<article-title>Hepatic Veno-occlusive disease (VOD) in multiple myeloma patient receiving belantamab mafodotin.</article-title>
+<source>Leuk Lymphoma.</source>
+<year>2023</year>;<volume>64</volume>:<fpage>904</fpage>-<lpage>906</lpage>.<annotation><p><italic toggle="yes">(74 year old man with advanced, refractory multiple myeloma developed abdominal pain and ascites two weeks after a 9th cycle of belantamab mafodotin, a liver biopsy demonstrating sinusoidal obstruction syndrome, with rapidly progressive course and death from hepatic and multiorgan failure).</italic></p></annotation><pub-id pub-id-type="pmid">36794387</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belantamab.REF.dimopoulos.2023.e801">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dimopoulos</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Hungria</surname>
+<given-names>VTM</given-names></string-name>, <string-name name-style="western"><surname>Radinoff</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Delimpasi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mikala</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Masszi</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of single-agent belantamab mafodotin versus pomalidomide plus low-dose dexamethasone in patients with relapsed or refractory multiple myeloma (DREAMM-3): a phase 3, open-label, randomised study.</article-title>
+<source>Lancet Haematol.</source>
+<year>2023</year>;<volume>10</volume>:<fpage>e801</fpage>-<lpage>e812</lpage>.<annotation><p><italic toggle="yes">(Among 319 adults with refractory or relapsed multiple myeloma treated with either belantamab mafodotin or pomalidomide and dexamethasone, the median progression free survival was 11 vs 7 months and overall survival 21 vs 21 months [neither of which were statistically significantly different], while total and severe adverse event rates were similar, although ocular adverse events were more frequent with belantamab that the pomalidomide regimen; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37793771</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Belantamab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Belantamab+AND+Mafodotin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Belantamab Mafodotin: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Belantamab%20Mafodotin">Trials on Belantamab Mafodotin: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

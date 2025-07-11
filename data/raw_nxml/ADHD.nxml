@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ADHD" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ADHD</book-part-id>
+      <title-group>
+        <title>Attention Deficit/Hyperactivity Disorder (ADHD) Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Atropine_Homatropine" document-type="chapter">Atropine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Avacopan" document-type="chapter">Avacopan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ADHD.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="ADHD.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Attention deficit/hyperactivity disorder (ADHD) is neurodevelopment condition marked by variable degrees of inattention, inability to concentrate or focus, impulsivity and hyperactivity that are inconsistent with developmental levels and that impair daily life. ADHD is the most common neurodevelopment disorder of children and persists into adulthood in at least 20% of cases. Approximately 9% of children in the United States are affected by ADHD and its incidence appears to be rising. ADHD has major effects on learning and academic achievement as well as social interactions and occupational success.</p>
+          <p>Pharmacologic therapies can alleviate many of the symptoms of ADHD, but they are not always well tolerated. Currently approved drugs for ADHD are separated into those that are neurostimulatory (amphetamines and methylphenidate) versus nonstimulatory (clonidine, guanfacine, atomoxetine, and viloxazine). Amphetamines used to treat ADHD include miscellaneous specific forms such as dextroamphetamine and lisdexamfetamine as well as mixtures of amphetamines (Adderall and other generics). Methylphenidate is perhaps the most commonly used agent in treatment of ADHD and is available in short-, immediate-, and long-acting formulations generically and under the brand name Ritalin. Both amphetamines and methylphenidate are schedule II controlled substances, indicating that they have a high potential for abuse but a recognized medical usefulness. Nonstimulatory agents for ADHD are not controlled substances and do not have a potential for abuse. Guanfacine and clonidine are alpha-2 adrenergic agonists and were originally approved for treatment of hypertension and were later repurposed as therapy for ADHD. Atomoxetine and viloxazine are selective norepinephrine reuptake inhibitors both of which have also been used to treat depression, although neither is approved for this indication in the United States.</p>
+          <p>Most drugs used to treat ADHD have no or minimal hepatotoxicity when given in therapeutic doses. The amphetamines and methylphenidate can cause liver injury when given in high doses or as an overdose. Methylphenidate and atomoxetine have also been implicated in rare cases of idiosyncratic liver injury with therapeutic doses. In contrast, guanfacine and clonidine have not been linked to cases of clinically apparent liver injury despite years of clinical experience with their use. Finally, viloxazine, a selective norepinephrine reuptake inhibitor and modulator of serotonin receptor activity has recently been approved for ADHD and has not been linked to clinically apparent instances of acute liver injury.</p>
+          <p>An important factor in management of ADHD is that behavioral therapies are recommended as the first line of therapy, particularly for children and adolescents, and pharmacologic treatment should complement rather than replace behavioral therapy. These interventions include parent training and classroom interventions for children and adolescents. These behavioral therapies may allow for clinical improvements with lower doses of medications for ADHD.</p>
+          <p>The medications currently approved as therapy for ADHD are each discussed in detail in the specific chapters in LiverTox, links to which are provided below. Each chapter has an annotated bibliography of references to the specific agents, while general references are provided in the Annotated Bibliography given with this Overview.</p>
+          <p>Stimulants:</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Amphetamines" document-type="chapter">Amphetamines</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>
+</p>
+          <p>Nonstimulants:</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Atomoxetine" document-type="chapter">Atomoxetine</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Clonidine" document-type="chapter">Clonidine</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Guanfacine" document-type="chapter">Guanfacine</related-object>
+</p>
+          <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Viloxazine" document-type="chapter">Viloxazine</related-object>
+</p>
+        </sec>
+      </sec>
+      <sec id="ADHD.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 August 2021</p>
+        <p>Abbreviations: ADHD, attention deficit/hyperactivity disorder; SNRI, selective norepinephrine reuptake inhibitor.</p>
+        <ref-list id="ADHD.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="ADHD.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 mentions cases of acute hepatitis attributed to abuse of amphetamines; at least 3 instances of acute liver injury attributed to methylphenidate; states that &#x0201c;viloxazine has been mentioned as a cause of jaundice but there are no specific descriptions&#x0201d;; no mention of clonidine, guanfacine or atomoxetine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ADHD.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants and drugs of abuse mentions that methylphenidate has been implicated in hepatocellular injury and that amphetamine and its derivatives can cause acute liver injury, most likely due to hypothermia).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ADHD.REF.westfall.2018">
+            <mixed-citation publication-type="book">Westfall TC, Macarthur H, Westfall DP. Adrenergic agonists and antagonists. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 191-224.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ADHD.REF.lim.2006.831">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lim</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Faught</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>NP</given-names></name>
+<name name-style="western"><surname>Molleston</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Severe liver injury after initiating therapy with atomoxetine in two children.</article-title>
+              <source>J Pediatr</source>
+              <year>2006</year>
+              <volume>148</volume>
+              <fpage>831</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases: 12 year old girl developed jaundice 3 weeks after restarting atomoxetine [bilirubin 9.1 mg/dL, ALT 3264 U/L, Alk P 231 U/L, ANA 1:160, IgG 769 mg/dL], resolving in 8 weeks of stopping; 11 year old girl developed fatigue 3 months after starting atomoxetine [bilirubin 0.5 mg/dL, ALT 675 U/L, Alk P 96 U/L, ANA 1:320, IgG 7,390 mg/dL] and biopsy suggesting chronic hepatitis, hepatitis improving within a few weeks of starting prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16769398</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including one attributed to cocaine and one to ecstasy [MDMA] but none to methylphenidate, guanfacine, clonidine or atomoxetine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.vanga.2013.902892">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vanga</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Bal</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Olden</surname><given-names>KW</given-names></name>
+</person-group>
+              <article-title>Adderall induced acute liver injury: a rare case and review of the literature.</article-title>
+              <source>Case Rep Gastrointest Med</source>
+              <year>2013</year>
+              <volume>2013</volume>
+              <elocation-id>902892</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman developed acute liver injury with hepatic encephalopathy 9 months after starting amphetamine for ADHD and 5 days after increasing the dose [bilirubin 1.8 rising to 3.3 mg/dL, ALT ~5500 U/L], resolving rapidly within 2 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23864967</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, of which none were attributed to amphetamines, methylphenidate or other drug used for treatment of ADHD).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to amphetamines or other drugs used for treatment of ADHD).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 3 cases were attributed to atomoxetine and one to methylphenidate, but none to cocaine, ecstasy, guanfacine, clonidine or viloxazine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Verhamme</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Schuemie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Sturkenboom</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, two agents used for ADHD were among the top 40 causes; methylphenidate [11th, 96 cases] and atomoxetine [14th, 64 cases]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 313 cases of drug induced liver injury seen between 1997 and 2008 at a large hospital in Bangalore, India, one case was attributed to atomoxetine, none to methylphenidate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.drugs_for_adhd.2020.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for ADHD</collab>
+</person-group>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1590</issue>
+              <fpage>9</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of mechanism of action, clinical efficacy, toxicity and costs of drugs for ADHD mentions that atomoxetine can rarely cause acute hepatitis, but does not mention ALT elevations or hepatotoxicity in discussion of other drugs for ADHD including the amphetamines, methylphenidate, guanfacine and clonidine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31999670</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.cortese.2020.1050">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cortese</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Pharmacologic treatment of attention deficit-hyperactivity disorder.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1050</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacological therapy of ADHD with discussion of amphetamines, methylphenidate, atomoxetine, guanfacine and clonidine; no mention of ALT elevations during therapy or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32905677</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ADHD.REF.viloxazine.2021.98">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Viloxazine</surname><given-names>ER</given-names></name>
+</person-group>
+              <article-title>(Qelbree) for ADHD.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1627</issue>
+              <fpage>98</fpage>
+              <lpage>100</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and costs of viloxazine shortly after its approval for use in the US for ADHD, mentions side effects of somnolence, fatigue, insomnia, anorexia, irritability, nausea, vomiting, headache, weight loss, suicidal ideation and behavior and embryo-fetal toxicity; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34181631</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="ADHD.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=ADHD+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on ADHD: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=ADHD">Clinical Trials in ADHD: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

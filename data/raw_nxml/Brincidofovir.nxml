@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Brincidofovir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Brincidofovir</book-part-id>
+      <title-group>
+        <title>Brincidofovir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Brigatinib" document-type="chapter">Brigatinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Brivaracetam" document-type="chapter">Brivaracetam</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Brincidofovir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Brincidofovir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Brincidofovir is an orally available antiviral agent with activity against smallpox and several other DNA viruses that is currently approved for use against smallpox virus (variola) infection in humans and has been given emergency use authorization for treatment of monkeypox (now renamed &#x0201c;mpox&#x0201d;) infection. Brincidofovir therapy has been linked to a low rate of serum aminotransferase elevations during therapy, but has not been implicated in instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Brincidofovir.Background">
+          <title>Background</title>
+          <p>Mpox</p>
+          <p>inhibits the orthopoxvirus DNA polymerase, which is required for its replication and is highly conserved among orthopoxviruses. The lipid conjugate consists of a lipophosphatidylcholine that allows intestinal absorption by lipid uptake pathways. Inside cells the lipid ester linkage is cleaved releasing cidofovir, which is phosphorylated by intracellular enzymes to its active antiviral moiety, cidofovir diphosphate. Brincidofovir has a similar spectrum of activity as cidofovir which is an approved therapy for cytomegalovirus (CMV) retinitis in patients with HIV infection. Cidofovir, however, requires parenteral administration and has major, dose limiting adverse effects of renal injury and neutropenia. In contrast, brincidofovir is orally available and has a broad and potent antiviral activity that allows for short term therapy. It also appears to be better tolerated than cidofovir. Brincidofovir was approved as therapy of smallpox virus infection in 2021 based the Animal Rule using efficacy trials conducted in animal models of smallpox and safety studies conducted in human volunteers and in trials of brincidofovir for other viral infections (adenovirus, Ebola, cytomegalovirus [CMV]). Brincidofovir is available in tablets of 100 mg and as an oral solution in vials of 10 mg/mL for pediatric and enteral administration. The recommended dose in adults is 200 mg orally once weekly for two doses (day 1 and day 8). The dose in children is based upon body weight. Longer term therapy is not recommended because of increase in adverse events and occurrence of excess mortality with prolonged brincidofovir therapy in one preregistration controlled trial. Currently, brincidofovir is being actively evaluated for efficacy and safety in treating patients with mpox and vaccinia infections, and is used off label as prevention or therapy of adenovirus and cytomegalovirus infection after hematopoietic stem cell transplantation (HSCT). Brincidofovir appears to be generally well tolerated with major adverse events being gastrointestinal intolerance due to diarrhea, dyspepsia, nausea and vomiting. Other adverse events include headache, myalgia, rash, pruritus and serum aminotransferase elevations. The total clinical experience with brincidofovir has been limited and its safety is not fully defined. It demonstrates embryo-fetal toxicity in animals and is contraindicated in women of child bearing potential not on effective contraception.</p>
+        </sec>
+        <sec id="Brincidofovir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration clinical trials of brincidofovir as prevention of cytomegalovirus and adenovirus infection in adults and children after hematopoietic stem cell transplantation (HSCT), serum aminotransferase elevations were more frequent with brincidofovir (22%) than placebo (16%) treatment, the usual rate of hepatic enzyme elevations being high after HSCT. ALT elevations above 5 times the upper limit of normal (ULN) arose in 1.8% vs 1.4% , and one of 269 brincidofovir recipients discontinued therapy because of ALT elevations above 10 times ULN. The ALT and AST elevations arose early as brincidofovir was given only 2 or 3 times, on days 1 and 8 and in some trials day 21 of treatment. In the same trials mild-to-moderate elevations in serum bilirubin arose in 6.5% of those on brincidofovir vs 5.9% of placebo recipients, again reflecting the high rate of bilirubin elevations in patients after HSCT. In small studies in healthy human volunteers abnormalities of liver tests were not observed. Since approval of brincidofovir, there have been no instances of smallpox infection that qualified for its use. However, the emergence of mpox infection shortly after its approval has led to its use for this non-approved indication. Aminotransferase elevations were frequent in the mpox virus infected subjects treated with brincidofovir but were invariably asymptomatic, transient and without symptoms or concurrent bilirubin elevations. Thus, the total clinical experience with use of brincidofovir is limited. While transient serum aminotransferase elevations have been reported with its use, there have been no reports of clinically apparent liver injury linked to brincidofovir therapy.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Brincidofovir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The relative lack of serious adverse events and clinically apparent hepatic injury from brincidofovir may be due to its short duration of administration, being recommended for two doses only given one week apart. Whether longer term brincidofovir is also without serious hepatic adverse events remains to be seen. Brincidofovir is an inhibitor of several drug-metabolizing cytochrome P450 enzymes but has few clinically significant drug-drug interactions. Its metabolism, however, is affected by inhibitors of the organic anion transport protein (OATP) 1B1 and the concomitant use of such inhibitors (e.g., cyclosporine, clarithromycin, tenofovir and agents for chronic hepatitis C) increases plasma levels of brincidofovir and should be avoided.</p>
+        </sec>
+        <sec id="Brincidofovir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for brincidofovir recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The mild ALT elevations associated with brincidofovir therapy are usually self-limited and do not require dose modification.&#x000a0;Because brincidofovir is usually given only in two doses one week apart, monitoring of liver tests is generally done before the second dose (day 8). In this situation, the second dose should be held if symptoms of hepatitis arise or if serum aminotransferases are known to rise and persist above 10 times ULN.&#x000a0;Abnormalities in liver tests usually resolve rapidly when brincidofovir is stopped.&#x000a0;Clinically apparent liver injury with jaundice attributable to brincidofovir has not been described but the overall experience with use of this medication has been limited.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object></p>
+          <p>Other Drugs in the Subclass: <related-object link-type="booklink" source-id="livertox" document-id="NucleosideAnalogues" document-type="chapter">Nucleoside Analogues</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tecovirimat" document-type="chapter">Tecovirimat</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Brincidofovir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Brincidofovir &#x02013; Tembexa&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiviral Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Brincidofovir">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Brincidofovir.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Brincidofovir.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Brincidofovir.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Brincidofovir.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Brincidofovir.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Brincidofovir.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Brincidofovir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Brincidofovir</td>
+                <td headers="hd_h_Brincidofovir.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642354">444805-28-1</ext-link>
+</td>
+                <td headers="hd_h_Brincidofovir.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H52-N3-O7-P</td>
+                <td headers="hd_h_Brincidofovir.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163642354" document-id-type="sid" document-type="summary" object-id="163642354" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Brincidofovir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 October 2022</p>
+        <p>Abbreviations used: CMV, cytomegalovirus; HSCT, hematopoietic stem cell transplantation.</p>
+        <ref-list id="Brincidofovir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Brincidofovir.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214460Orig1s000,%20214461Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214460Orig1s000,%20214461Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA website is medical review of the application for licensure of brincidofovir as therapy of smallpox infection in humans based upon proof of efficacy in animal models with safety data based upon treatment of healthy volunteers mentions that the common adverse events are largely gastrointestinal (diarrhea, nausea, vomiting), but also hepatic with slightly higher rates of ALT, AST and bilirubin elevations in brincidofovir treated subjects compared to controls; ALT elevations arose in 22% of 392 subjects on brincidofovir vs 16% of 208 placebo treated subjects and were above 5 times ULN in 1.8% vs 1.4% and none in association with elevations in bilirubin or clinically apparent hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.quenelle.2007.4118">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Quenelle</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Prichard</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Keith</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Hruby</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Jordan</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Painter</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Synergistic efficacy of the combination of ST-246 with CMX001 against orthopoxviruses.</article-title>
+              <source>Antimicrob Agents Chemother.</source>
+              <year>2007</year>
+              <volume>51</volume>
+              <fpage>4118</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Tecovirimat [ST-146] and brincidofovir [CMX001] showed synergy in antiviral activity against cowpox and vaccinia virus in cell culture as well in reducing mortality in a mouse model of cowpox infection; results that are compatible with the different viral targets of the two agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17724153</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.parker.2008.39">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Parker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Touchette</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Oberle</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Almond</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Trost</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Lampert</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy of therapeutic intervention with an oral ether-lipid analogue of cidofovir (CMX001) in a lethal mousepox model.</article-title>
+              <source>Antiviral Res.</source>
+              <year>2008</year>
+              <volume>77</volume>
+              <fpage>39</fpage>
+              <lpage>49</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brincidofovir provided protection against fatal mousepox virus infection equal to that of cidofovir even when given 1-5 days after intranasal exposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17904231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.florescu.2012.731">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Florescu</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Pergam</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Neely</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Qiu</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Johnston</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Way</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sande</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of CMX001 as salvage therapy for severe adenovirus infections in immunocompromised patients.</article-title>
+              <source>Biol Blood Marrow Transplant.</source>
+              <year>2012</year>
+              <volume>18</volume>
+              <fpage>731</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 13 immunodeficient or post-transplant patients with adenovirus infection resistant to intravenous cidofovir who were switched to oral brincidofovir [1-3 mg/kg/week], 9 had a virologic response, renal status was stable or improved and there were no serious or grade 3 or 4 adverse events attributed to the drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21963623</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.painter.2012.2726">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Painter</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Trost</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Godkin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lampert</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Painter</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>First pharmacokinetic and safety study in humans of the novel lipid antiviral conjugate CMX001, a broad-spectrum oral drug active against double-stranded DNA viruses.</article-title>
+              <source>Antimicrob Agents Chemother.</source>
+              <year>2012</year>
+              <volume>56</volume>
+              <fpage>2726</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In single and multiple dose [days 0, 6 and 12] studies of different doses of brincidofovir given to 108 healthy volunteers, the drug was well tolerated and &#x0201c;no clinically significant changes in blood chemistry, hematology, renal function, or intraocular pressure were observed&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22391537</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.dunning.2016.e0162199">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dunning</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kennedy</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Antierens</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Whitehead</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ciglenecki</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Carson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Kanapathipillai</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>RAPIDE-BCV trial team. Experimental treatment of Ebola virus disease with brincidofovir.</article-title>
+              <source>PLoS One.</source>
+              <year>2016</year>
+              <volume>11</volume>
+              <elocation-id>e0162199</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(None of the first 4 Liberian patients with acute Ebola virus disease enrolled in an open label trial of brincidofovir to be given on days 0, 3, 7, 10 and 14 survived for 14 days and the trial was discontinued).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27611077</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.grimley.2017.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grimley</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Chemaly</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Englund</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Kurtzberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chittick</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Brundage</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Bae</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Brincidofovir for asymptomatic adenovirus viremia in pediatric and adult allogeneic hematopoietic cell transplant recipients: a randomized placebo-controlled phase II trial.</article-title>
+              <source>Biol Blood Marrow Transplant.</source>
+              <year>2017</year>
+              <volume>23</volume>
+              <fpage>512</fpage>
+              <lpage>521</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 48 patients with asymptomatic adenovirus infection after hematopoietic stem cell transplant [HSCT] treated with brincidofovir [100 mg twice weekly or 200 mg once weekly] or placebo for 6-12 weeks, virologic failure occurred in similar proportions of those on brincidofovir vs placebo [30% vs 33%] while adverse events that were more frequent included diarrhea [47% vs 28%] and graft vs host disease [37% vs 17%], but ALT elevations above 5 times ULN arose in fewer [7% vs 22%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28063938</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.hiwarkar.2017.2033">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hiwarkar</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Amrolia</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sivaprakasam</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lum</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Doss</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>O'Rafferty</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Petterson</surname><given-names>T</given-names></name>
+<etal/>
+<collab>United Kingdom Paediatric Bone Marrow Transplant Group</collab>
+</person-group>
+              <article-title>Brincidofovir is highly efficacious in controlling adenoviremia in pediatric recipients of hematopoietic cell transplant.</article-title>
+              <source>Blood.</source>
+              <year>2017</year>
+              <volume>129</volume>
+              <fpage>2033</fpage>
+              <lpage>2037</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 333 children undergoing HCT in 7 transplant centers in the UK in 2015 and 2016, 47 developed adenovirus infection, with significant viral levels in 27 who were treated with cidofovir or brincidofovir or both after failure of the first, of whom major virologic responses occurred in 72% [12 of 16] given brincidofovir compared to only 9% [2 of 23] given cidofovir, and only 1 brincidofovir treated patients required early discontinuation, which was due to diarrhea and abdominal cramps; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28153824</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.chittick.2017.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chittick</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Morrison</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brundage</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nichols</surname><given-names>WG</given-names></name>
+</person-group>
+              <article-title>Short-term clinical safety profile of brincidofovir: A favorable benefit-risk proposition in the treatment of smallpox.</article-title>
+              <source>Antiviral Res.</source>
+              <year>2017</year>
+              <volume>143</volume>
+              <fpage>269</fpage>
+              <lpage>277</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In short term controlled trials in patients with various viral infections, elevations in serum ALT occurred in 8% [24 of 292] of those treated with brincidofovir in optimal recommended dose compared to 2% [5 of 208] of placebo controls but elevations were asymptomatic, transient and mild-to-moderate in severity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28093339</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.foster.2017.320">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Foster</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Parker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lanier</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>The role of brincidofovir in preparation for a potential smallpox outbreak.</article-title>
+              <source>Viruses.</source>
+              <year>2017</year>
+              <volume>9</volume>
+              <fpage>320</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary on the potential role of brincidofovir in response to bioterrorism with smallpox virus, describes its efficacy in animal models of smallpox [rabbitpox and mousepox] and the advantage of having two agents with activity against smallpox that are directed at different viral targets and exhibit no cross resistance if a genetically engineered smallpox virus was used).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29773767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.ramsay.2017.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ramsay</surname><given-names>ID</given-names></name>
+<name name-style="western"><surname>Attwood</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Irish</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Griffiths</surname><given-names>PD</given-names></name>
+<name name-style="western"><surname>Kyriakou</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lowe</surname><given-names>DM</given-names></name>
+</person-group>
+              <article-title>Disseminated adenovirus infection after allogeneic stem cell transplant and the potential role of brincidofovir &#x02013; Case series and 10 year experience of management in an adult transplant cohort.</article-title>
+              <source>J Clin Virol.</source>
+              <year>2017</year>
+              <volume>96</volume>
+              <fpage>73</fpage>
+              <lpage>79</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 733 adults undergoing HSCT between 2005 and 2015 at a single UK referral center, 10 developed disseminated adenovirus infection of whom 3 died and 3 were treated with brincidofovir [50-100 mg twice weekly for 5-18 doses], all having a virologic response, but one dying despite decrease in viremia).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29017084</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.marty.2019.369">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marty</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Winston</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Chemaly</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Mullane</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>TB</given-names></name>
+<name name-style="western"><surname>Papanicolaou</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Chittick</surname><given-names>G</given-names></name>
+<etal/>
+<collab>SUPPRESS Trial Clinical Study Group</collab>
+</person-group>
+              <article-title>A randomized, double-blind, placebo-controlled phase 3 trial of oral brincidofovir for cytomegalovirus prophylaxis in allogeneic hematopoietic cell transplantation.</article-title>
+              <source>Biol Blood Marrow Transplant.</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>369</fpage>
+              <lpage>381</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 230 CMV-positive transplant recipients treated with placebo or varying dose regimens of brincidofovir after engraftment for 9-11 weeks, subsequent CMV events arose in 10% receiving the higher doses of brincidofovir vs 37% on placebo, while adverse events more frequent with the higher doses included nausea, vomiting, and diarrhea but not renal or bone marrow dysfunction; ALT levels above 3 times ULN arose in 15% on placebo vs 32-40% of higher doses of brincidofovir).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30292744</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.londeree.2020.e13769">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Londeree</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Winterberg</surname><given-names>PD</given-names></name>
+<name name-style="western"><surname>Garro</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>George</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Shin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Liverman</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Serluco</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Brincidofovir for the treatment of human adenovirus infection in pediatric solid organ transplant recipients: A case series.</article-title>
+              <source>Pediatr Transplant.</source>
+              <year>2020</year>
+              <volume>24</volume>
+              <elocation-id>e13769</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4 children who developed adenovirus disease after solid organ transplant treated with brincidofovir, all 4 became virus negative within 15-32 days of treatment but all also developed ALT elevations [peak 69 to 719 U/L], which resolved with resolution of viremia well before stopping therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32558134</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.ehlert.2021.987">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ehlert</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Schulte</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>K&#x000fc;hl</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Lang</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Eggert</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Voigt</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Efficacy of brincidofovir in pediatric stem cell transplant recipients with adenovirus infections.</article-title>
+              <source>Pediatric Infect Dis Soc.</source>
+              <year>2021</year>
+              <volume>10</volume>
+              <fpage>987</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 8 children with resistant adenovirus infection after HSCT treated with 6 to 12 doses of brincidofovir, adenovirus was cleared in 6 but only 4 survived; ALT elevations and hepatic dysfunction occurred in 2 patients but were attributed to the adenovirus infection and graft vs host disease).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.chantack.2021.105182">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chan-Tack</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Harrington</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bensman</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Donaldson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>O'Rear</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>McMillan</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Benefit-risk assessment for brincidofovir for the treatment of smallpox: U.S. Food and Drug Administration's Evaluation.</article-title>
+              <source>Antiviral Res.</source>
+              <year>2021</year>
+              <volume>195</volume>
+              <elocation-id>105182</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of the FDA evaluation of the efficacy and safety of brincidofovir in support of its approval as therapy of smallpox, which was based upon the Animal Rule that requires proof of efficacy in at least 2 appropriate animal models and safety analyses in healthy volunteers or patients with other viral infections; mentions that in pooled analyses on 392 patients who were treated with brincidofovir in the dose recommended for smallpox, elevations in ALT, AST and bilirubin were observed but there were no severe hepatic adverse events or instances of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34582915</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.perruccio.2021.3104">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Perruccio</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Menconi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Galaverna</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pagliara</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Carraro</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Fagioli</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Calore</surname><given-names>E</given-names></name>
+<etal/>
+<collab>AIEOP Infectious Disease and Stem Cell Transplantation Working Parties</collab>
+</person-group>
+              <article-title>Safety and efficacy of brincidofovir for adenovirus infection in children receiving allogeneic stem cell transplantation: an AIEOP retrospective analyses.</article-title>
+              <source>Bone Marrow Transplant.</source>
+              <year>2021</year>
+              <volume>56</volume>
+              <fpage>3104</fpage>
+              <lpage>3107</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30 Italian children undergoing HSCT who developed 44 episodes of adenovirus infection between 2012 and 2019, 23 received cidofovir and 21 brincidofovir which demonstrated superior viral suppression and response rates with lesser toxicity and shorter courses of treatment; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34608274</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.rao.2022.509">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rao</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Schulte</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Davidson</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Neff</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Markarian</surname><given-names>M</given-names></name>
+<etal/>
+<collab>July 2021 Monkeypox Response Team</collab>
+</person-group>
+              <article-title>Monkeypox in a traveler returning from Nigeria &#x02013; Dallas, Texas, July 2021.</article-title>
+              <source>MMWR Morb Mortal Wkly Rep.</source>
+              <year>2022</year>
+              <volume>71</volume>
+              <fpage>509</fpage>
+              <lpage>516</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case report of a middle aged man who developed fever, fatigue, cough and rash during travel in Nigeria and who presented with an extensive pustula rash 4 days after return to the United States where a West African clade of mpox virus was identified from a swab of a lesion, this being the first imported case of mpox virus infection in the US; follow up found no secondary cases in contacts).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35389974</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.adler.2022.1153">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Adler</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Gould</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hine</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Snell</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Houlihan</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Osborne</surname><given-names>JC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>NHS England High Consequence Infectious Diseases (Airborne) Network. Clinical features and management of human monkeypox: a retrospective observational study in the UK.</article-title>
+              <source>Lancet Infect Dis.</source>
+              <year>2022</year>
+              <volume>22</volume>
+              <fpage>1153</fpage>
+              <lpage>1162</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 7 patients diagnosed with mpox virus in the UK between 2018 and 2021, 3 were treated with brincidofovir [200 mg given as 3 weekly doses], all of whom developed ALT elevations [331, 550 and 127 U/L, without jaundice] and did not complete therapy, while 1 patient received tecovirimat [600 mg twice daily for 2 weeks], with rapid resolution of rash and clearance of virus; all patients ultimately recovered).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35623380</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.oshea.2022.1023">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>O'Shea</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Filardo</surname><given-names>TD</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Weiser</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Petersen</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Brooks</surname><given-names>JT</given-names></name>
+</person-group>
+              <article-title>Interim guidance for prevention and treatment of monkeypox in persons with HIV infection &#x02013; United States, August 2022.</article-title>
+              <source>MMWR Morb Mortal Wkly Rep.</source>
+              <year>2022</year>
+              <volume>71</volume>
+              <fpage>1023</fpage>
+              <lpage>1028</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidance for prevention and treatment of mpox infections in persons with HIV infection from the Centers for Disease Control and Prevention [CDC] in response to the multinational outbreak of mpox virus infections in May 2022; discussion of brincidofovir does not include mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35951495</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.rizk.2022.957">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rizk</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Lippi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Henry</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Forthal</surname><given-names>DN</given-names></name>
+<name name-style="western"><surname>Rizk</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Prevention and treatment of monkeypox.</article-title>
+              <source>Drugs.</source>
+              <year>2022</year>
+              <volume>82</volume>
+              <fpage>957</fpage>
+              <lpage>963</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the prevention and treatment of mpox virus infection mentions 2 live virus vaccines against smallpox [JYNNEOS and ACAM2000] that are approximately 85% effective against mpox; and discusses 4 antiviral agents [tecovirimat, cidofovir, brincidofovir, and vaccinia immune globulin] which are not formally approved for use in mpox but can be obtained under an expanded access IND program; mentions that brincidofovir can cause serum aminotransferase and bilirubin elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35763248</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.siegrist.2022">
+            <mixed-citation publication-type="other">Siegrist EA, Sassine J. Antivirals with activity against monkeypox: a clinically oriented review. Clin Infect Dis. 2022 Jul 29:ciac622. Epub ahead of print.<annotation><p><italic toggle="yes">(Review of the efficacy and safety of three drugs with activity against mpox virus infection that are available in the US: cidofovir, brincidofovir and tecovirimat, mentions that brincidofovir has been associated with transient elevations in serum aminotransferase and bilirubin levels).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brincidofovir.REF.see.2022.1342">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>See</surname><given-names>KC</given-names></name>
+</person-group>
+              <article-title>Vaccination for monkeypox virus infection in humans: a review of key considerations.</article-title>
+              <source>Vaccines (Basel)</source>
+              <year>2022</year>
+              <volume>10</volume>
+              <fpage>1342</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, epidemiology, prevention and treatment of mpox virus infection discusses tecovirimat, brincidofovir and vaccinia immunoglobulin; mentions that brincidofovir therapy is associated with ALT elevations and has the potential for carcinogenesis, while not mentioning adverse events attributed to tecovirimat or vaccinia immunoglobulin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36016230</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Brincidofovir.REF23">
+            <element-citation publication-type="journal">
+              <article-title>Prevention and treatment of monkeypox.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <issue>1658</issue>
+              <fpage>137</fpage>
+              <lpage>139</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review on the global outbreak of mpox disease in 2022 that was associated with human-to-human transmission, most frequently in men who have sex with men, and a summary of prevention [vaccination with ACAM2000 or Jynneos, which are live vaccinia virus vaccines approved for prevention of smallpox], and treatment [two agents that are approved as therapy of smallpox which are available under an expanded access protocol for mpox]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36094551</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Brincidofovir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Brincidofovir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Brincidofovir: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Brincidofovir">Trials on Brincidofovir: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

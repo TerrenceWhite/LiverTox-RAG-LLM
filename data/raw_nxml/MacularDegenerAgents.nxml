@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="MacularDegenerAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">MacularDegenerAgents</book-part-id>
+      <title-group>
+        <title>Macular Degeneration Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>31</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MacrolideAntibiotics" document-type="chapter">Macrolide Antibiotics</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="MahoganySeed" document-type="chapter">Mahogany Seed</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="MacularDegenerAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="MacularDegenerAgents.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Macular degeneration is an age-related disease of the retina marked by progressive loss of central visual acuity. It is the major cause of visual loss above the age of 60 and risk factors include family history, smoking, being overweight or obese, and hypertension. Age-related macular degeneration occurs in two forms: &#x0201c;dry&#x0201d; and &#x0201c;wet&#x0201d;.</p>
+          <p>Dry macular degeneration accounts for 80% to 90% of cases and is caused by thinning of the retina, retinal cell loss, and subretinal accumulation of abnormal protein in clumps (drusen). In advanced forms there is patchy atrophy, referred to as geographic atrophy. Recently, agents have been developed for treatment of age-related dry macular degeneration with geographic atrophy. Approved agents include drugs that inhibit complement activation (avacincaptad pegol and pegcetacoplan). The agents are given by intravitreal injections every 1 to 2 months.</p>
+          <p>Wet macular degeneration accounts for 10% to 20% of cases and is due to neovascularization in the subretinal space with abnormal and leaky blood vessels. The vascularization is dependent, at least in part, on action of vascular endothelial growth factor (VEGF). Wet macular degeneration is treatable with agents that specifically target VEGF which, when given as intravitreal injections, slow the progression of (but do not cure) the neovascularization. These include monoclonal antibodies to VEGF (bevacizumab, brolucizumab, ranibizumab, faricimab), aptamers (small oligonucleotides that bind to VEGF: pegaptanib), and fusion VEGF receptor proteins that act as a decoy of the circulating growth factor (aflibercept). The agents are given as intravitreal injections every 4 to 8 weeks.</p>
+          <p>Most adverse events of these agents are ocular and relate to their local injection. Systemic exposure is limited and ex-ocular adverse events are rare. Some of the agents have been implicated in cardiovascular or cerebrovascular thromboembolic events, but these are uncommon. None of the drugs for macular degeneration have been implicated in causing hepatotoxicity, either serum enzyme elevations during treatment or clinically apparent liver injury, at least when administered by intravitreal injection. The lack of hepatotoxicity is probably due largely to the lack of significant systemic absorption and exposure. When given intravenously as therapy of neoplastic conditions, several have been linked to rare instances of liver injury.</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Aflibercept">
+          <title>Aflibercept</title>
+          <p>Aflibercept (a flib&#x02019; er sept) is a unique fusion protein consisting of VEGF receptors 1 and 2 fused to the Fc portion of IgG that acts as a decoy receptor that competes for the binding of endogenous VEGF. It was approved for use in neovascular age-related macular degeneration and for macular edema after central retinal vein occlusion in 2011. Indications have been broadened and aflibercept is approved for use also for diabetic macular edema and retinopathy and for the retinopathy of prematurity. Aflibercept is available in single use vials of 2 mg/0.05 mL generically (as biosimilars) and under the brand name Eylea. The recommended dose is 2 mg by intravitreal injection in each affected eye every 4 weeks for the first 3 doses and every 8 weeks thereafter. In 2023, a high dose formulation (Eylea HD) was approved, available in single use vials of 8 mg/0.07 mL that can be administered every 4 weeks for the first 3 doses and every 8 to 16 weeks thereafter.</p>
+          <p>Aflibercept is also available in a form for parenteral administration (ziv-aflibercept: Zaltrap), which is approved for use in combination with other antineoplastic agents (fluorouracil, leucovorin and irinotecan: FOLFIRI) for metastatic colon cancer. Administration of FOLFIRI is associated with fairly high rates of serum ALT and AST elevations and with occasional liver related serious adverse events. The addition of ziv-aflibercept to FOLFIRI has not been associated with higher rates of either serum enzyme elevations or clinically apparent liver injury, but experience with this combination has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury when given in low doses by intravitreal injection).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Bevacizumab">
+          <title>Bevacizumab</title>
+          <p>Bevacizumab (bev&#x02019; a ciz&#x0201d; ue mab) is a humanized monoclonal antibody to VEGF that is approved for use intravenously for metastatic colon, renal cell, non-small cell lung, cervical, ovarian, all fallopian tube cancer and for brain glioblastoma and hepatocellular carcinoma. Bevacizumab has been used off label to treat macular degeneration and, in controlled trials, was as effective as ranibizumab in improving or stabilizing vision in persons with age-related neovascular (wet) macular degeneration. Bevacizumab is available in vials of 100 mg in 4 mL and 400 mg 16 mL in a concentration of 25 mg/mL generically (as biosimilars) and under the brand name Avastin. The dosage used off label for macular degeneration is 1.25 mg (0.05 mL) by intravitreal injection in each affected eye every 4 weeks.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury when given in low doses by intravitreal injection).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Brolucizumab">
+          <title>Brolucizumab</title>
+          <p>Brolucizumab (broe&#x02019; lue siz&#x0201d; ue mab) is a recombinant humanized monoclonal antibody fragment (Fab) to VEGF (similar to bevacizumab). It was approved for use in neovascular (wet) age-related macular degeneration and diabetic macular edema in 2019. Brolucizumab is available in single use vials of 6 mg in 0.05 mL under the brand name Beovu. The recommended dose is 6 mg by intravitreal injection in each affected eye every 4 weeks for 3 to 5 doses followed by once every 8 to 12 weeks.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Faricimab">
+          <title>Faricimab</title>
+          <p>Faricimab (far ik&#x0201d; i mab) is a bispecific, human monoclonal antibody to both vascular endothelial growth factor (VEGF) and angiopoietin-2 (Ang-2), a cell surface protein involved in the pathway of maintaining vascular homeostasis. Faricimab has been shown to be non-inferior to aflibercept in preventing progression and improving visual acuity in both neovascular (wet) macular degeneration and diabetic macular edema. Faricimab was approved for therapy of these two forms of macular disease in 2022. It is available in single use vials of 6 mg in 0.05 mL (300 mg/mL) under the brand name Vabysmo. The recommended dose is 6 mg by intravitreal injection in each affected eye every 4 weeks for 4 doses followed by variable dosing regimens based upon indication and disease severity for up to 48 weeks.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Pegaptanib">
+          <title>Pegaptanib</title>
+          <p>Pegaptanib (peg ap&#x02019; ta nib) is a pegylated aptamer, a modified oligonucleotide which binds with and inactivates extracellular VEGF. It was approved for use in neovascular (wet) age-related macular degeneration in 2004. Pegaptanib was available in single use glass syringes of 0.3 mg/90 &#x003bc;L under the brand name Macugen. The recommended dose was 0.3 mg by intravitreal injection in each affected eye every six weeks. Pegaptanib was subsequently withdrawn from the United States by the sponsor because of poor performance in the face of competing products, but it may be still available abroad.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Ranibizumab">
+          <title>Ranibizumab</title>
+          <p>Ranibizumab (ra&#x02019; ni biz&#x0201d; ue mab) is a recombinant humanized monoclonal antibody fragment (Fab) to VEGF (similar to bevacizumab). It was approved for use in neovascular (wet) age-related macular degeneration, macular edema following retinal vein occlusion and diabetic macular edema in 2006. Indications have subsequently expanded to other causes of wet macular degeneration. Ranibizumab is available in single use syringes designed to provide 0.5 mg in 0.05 mL (10mg/mL) or 0.3 mg in 0.05 mL (6 mg/mL) under the brand name Lucentis as well as generically as equivalent biosimilars. The recommended dose is 0.5 mg by intravitreal injection in each affected eye every 4 weeks which may be extended to less frequent dosing after 4 doses. The dosage for diabetic macular edema is 0.3 mg every 4 weeks.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Avacincaptad_pegol">
+          <title>Avacincaptad pegol</title>
+          <p>Avacincaptad (a&#x02019; va sin kap&#x0201d; tad) pegol is a pegylated RNA aptamer than binds to and inactivates complement factor C5 preventing its cleavage and decreasing the activation of complement and formation of membrane attachment complexes. In placebo controlled clinical trials, monthly intravitreal injections of avacincaptad were associated with a decrease in growth of geographic atrophy due to dry macular degeneration. It was approved for use geographic atrophy in 2023. Avacincaptad is available in single use vials of 2 mg in 0.1 mL (20 mg/mL) under the brand name Izervay. The recommended dose is 2 mg by intravitreal injection in each affected eye once monthly for up to 12 months.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="MacularDegenerAgents.Pegcetacoplan">
+          <title>Pegcetacoplan</title>
+          <p>Pegcetacoplan (peg set&#x0201d; a koe&#x02019; plan) consists of two identical 15-amino acid peptides joined by a molecule of polyethylene glycol and acts as an inhibitor of complement C3 blocking complement activation at an early step in the cascade. Pegcetacoplan is used mainly as therapy of paroxysmal nocturnal hemoglobinuria (PNH) given subcutaneously twice weekly in 30 mL infusions (Empaveli: approved 2021). When given in small doses by intravitreal injection, pegcetacoplan has been shown to decrease the growth of geographic atrophy in age-related macular degeneration. Pegcetacoplan was approved for therapy of dry macular degeneration with geographic atrophy in 2023. It is available in single use vials of 15 mg in 0.1 mL (150 mg/mL) under the brand name Syfovre. The recommended dose is 15 mg by intravitreal injection in each affected eye every 25 to 60 days.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury when given in low doses by intravitreal injection).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MacularDegenerAgents" document-type="book-part">Macular Degeneration Agents</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="MacularDegenerAgents.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Aflibercept &#x02013; Eylea&#x000ae;</p>
+        <p>Bevacizumab &#x02013; Avastin&#x000ae;</p>
+        <p>Brolucizumab &#x02013; Beovu&#x000ae;</p>
+        <p>Faricimab &#x02013; Vabysmo&#x000ae;</p>
+        <p>Pegaptanib &#x02013; Macugen&#x000ae;</p>
+        <p>Ranibizumab &#x02013; Lucentis&#x000ae;</p>
+        <p>Avacincaptad pegol &#x02013; Izervay&#x000ae;</p>
+        <p>Pegcetacoplan &#x02013; Syfovre&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Macular Degeneration Agents</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Aflibercept">COMPLETE LABELING</ext-link> &#x02013; Aflibercept</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Bevacizumab">COMPLETE LABELING</ext-link> &#x02013; Bevacizumab</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Brolucizumab">COMPLETE LABELING</ext-link> &#x02013; Brolucizumab</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Faricimab">COMPLETE LABELING</ext-link> &#x02013; Faricimab</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pegaptanib">COMPLETE LABELING</ext-link> &#x02013; Pegaptanib <italic toggle="yes">[Withdrawn}</italic></p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ranibizumab">COMPLETE LABELING</ext-link> &#x02013; Ranibizumab</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Avacincaptad%20pegol">COMPLETE LABELING</ext-link> &#x02013; Avacincaptad pegol</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pegcetacoplan">COMPLETE LABELING</ext-link> &#x02013; Pegcetacoplan</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="MacularDegenerAgents.CHEMICAL_FORMULAS_A">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="MacularDegenerAgents.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Aflibercept</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">862111-32-8</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Aberrant Angiogenesis Inhibitor</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Bevacizumab</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">216974-75-3</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Brolucizumab</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1531589-13-5</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Faricimab</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1607793-29-2</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pegaptanib</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">222716-86-1</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Ribonucleic Acid Aptamer</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ranibizumab</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">347396-82-1</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Avacincaptad</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1613641-69-2</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Complement C5 Inhibitor</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pegcetacoplan</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2019171-69-6</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Complement C3 Inhibitor</td>
+                <td headers="hd_h_MacularDegenerAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="MacularDegenerAgents.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 31 July 2024</p>
+        <ref-list id="MacularDegenerAgents.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="MacularDegenerAgents.REF.henderer.2018">
+            <mixed-citation publication-type="book">Henderer JD, Rapuano CJ. Treatment of retinal neovascularization, macular degeneration, and vitreomacular traction. Ocular pharmacology. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1266-1267.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.cunningham.2005.1747">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cunningham</surname>
+<given-names>ET</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Adamis</surname>
+<given-names>AP</given-names></string-name>, <string-name name-style="western"><surname>Altaweel</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Aiello</surname>
+<given-names>LP</given-names></string-name>, <string-name name-style="western"><surname>Bressler</surname>
+<given-names>NM</given-names></string-name>, <string-name name-style="western"><surname>D'Amico</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Goldbaum</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <collab>Macugen Diabetic Retinopathy Study Group</collab>. <article-title>A phase II randomized double-masked trial of pegaptanib, an anti-vascular endothelial growth factor aptamer, for diabetic macular edema.</article-title>
+<source>Ophthalmology</source>
+<year>2005</year>; <volume>112</volume>: <fpage>1747</fpage>-<lpage>57</lpage>.<annotation><p><italic toggle="yes">(Among 172 patients with diabetic macular edema treated with intraocular pegaptanib or sham injections for 20 weeks, visual acuity was more likely to be improved or stable with pegaptanib, and adverse events were uncommon and largely due to the intravitreal injections).</italic></p></annotation><pub-id pub-id-type="pmid">16154196</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF3">
+            <mixed-citation publication-type="journal"><article-title>Pegaptanib sodium (Macugen) for macular degeneration.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2005</year>; <volume>47</volume>: <fpage>55</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and cost of pegaptanib shortly after its approval in the US mentions that intraocular pegaptanib and bevacizumab may be associated with a higher rate of cardiovascular and cerebrovascular thromboses due to their inhibitory effects on angiogenesis).</italic></p></annotation><pub-id pub-id-type="pmid">15988400</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF4">
+            <mixed-citation publication-type="journal"><article-title>Ranibizumab (Lucentis) for macular degeneration.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2006</year>; <volume>48</volume>: <fpage>85</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and costs of ranibizumab shortly after its approval for use in the US, along with comparison to other agents used in macular degeneration including bevacizumab and pegaptanib).</italic></p></annotation><pub-id pub-id-type="pmid">17051134</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.de_jong.2006.1474">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>de Jong</surname>
+<given-names>PT</given-names></string-name>. <article-title>Age-related macular degeneration.</article-title>
+<source>N Engl J Med</source>
+<year>2006</year>; <volume>355</volume>: <fpage>1474</fpage>-<lpage>85</lpage>.<annotation><p><italic toggle="yes">(Review of the clinical features, course and outcome, pathogenesis and risk factors for age-related macular degeneration).</italic></p></annotation><pub-id pub-id-type="pmid">17021323</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.avery.2006.363">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Avery</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Pieramici</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Rabena</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Castellarin</surname>
+<given-names>AA</given-names></string-name>, <string-name name-style="western"><surname>Nasir</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Giust</surname>
+<given-names>MJ</given-names></string-name>. <article-title>Intravitreal bevacizumab (Avastin) for neovascular age-related macular degeneration.</article-title>
+<source>Ophthalmology.</source>
+<year>2006</year>; <volume>113</volume>(<issue>3</issue>): <fpage>363</fpage>-<lpage>72.e5</lpage>.<annotation><p><italic toggle="yes">(Among 79 patients with age-related macular degeneration treated with bevacizumab by intravitreal injection monthly, there were no significant systemic side effects).</italic></p></annotation><pub-id pub-id-type="pmid">16458968</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.vegf_inhibition_study_in_ocular_neovascularization_v.i.s.i.o.n._clinical_trial_group.2006.992">
+            <mixed-citation publication-type="journal"><collab>VEGF Inhibition Study in Ocular Neovascularization (V.I.S.I.O.N.) Clinical Trial Group</collab>, <article-title>D'Amico DJ, Masonson HN, Patel M, Adamis AP, Cunningham ET Jr, Guyer DR, Katz B. Pegaptanib sodium for neovascular age-related macular degeneration: two-year safety results of the two prospective, multicenter, controlled clinical trials.</article-title>
+<source>Ophthalmology</source>
+<year>2006</year>; <volume>113</volume>: <fpage>992</fpage>-<lpage>1001.e6</lpage>.<annotation><p><italic toggle="yes">(Among 147 patients with age-related macular degeneration treated with varying doses of pegaptanib for 54 weeks, ocular adverse events were common, but usually mild-to-moderate, while nonocular events were uncommon and there was no evidence of systemic toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16647134</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.rosenfeld.2006.1419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rosenfeld</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Boyer</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Kaiser</surname>
+<given-names>PK</given-names></string-name>, <string-name name-style="western"><surname>Chung</surname>
+<given-names>CY</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>RY</given-names></string-name>; <collab>MARINA Study Group</collab>. <article-title>Ranibizumab for neovascular age-related macular degeneration.</article-title>
+<source>N Engl J Med</source>
+<year>2006</year>; <volume>355</volume>: <fpage>1419</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(Among 716 patients with neovascular age-related macular degeneration, average visual acuity at 24 months improved in ranibizumab treated subjects, but decreased in controls; no mention of ALT changes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17021318</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.kourlas.2007.1850">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kourlas</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Abrams</surname>
+<given-names>P</given-names></string-name>. <article-title>Ranibizumab for the treatment of neovascular age-related macular degeneration: a review.</article-title>
+<source>Clin Ther</source>
+<year>2007</year>; <volume>29</volume>: <fpage>1850</fpage>-<lpage>61</lpage>.<annotation><p><italic toggle="yes">(Review and summary of 3 clinical trials of ranibizumab for macular degeneration mentions that nonocular adverse events were uncommon and similar in frequency in standard of care and ranibizumab treated subjects; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">18035187</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.macugen_amd_study_group.2007.1702">
+            <mixed-citation publication-type="journal"><collab>Macugen AMD Study Group</collab>, <article-title>Apte RS, Modi M, Masonson H, Patel M, Whitfield L, Adamis AP. Pegaptanib 1-year systemic safety results from a safety-pharmacokinetic trial in patients with neovascular age-related macular degeneration.</article-title>
+<source>Ophthalmology</source>
+<year>2007</year>; <volume>114</volume>: <fpage>1702</fpage>-<lpage>12</lpage>.<annotation><p><italic toggle="yes">(Among 147 patients with neovascular age-related macular degeneration from two clinical studies receiving varying high doses of pegaptanib by intravitreal injection for up to 54 weeks, nonocular adverse events were uncommon and there was no evidence of systemic toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17509689</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.chalasani.2008.1924">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Serrano</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Rochon</surname>
+<given-names>J</given-names></string-name>; <collab>Drug Induced Liver Injury Network (DILIN)</collab>. <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+<source>Gastroenterology</source>
+<year>2008</year>; <volume>135</volume>: <fpage>1924</fpage>-<lpage>34</lpage>.<annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to agents used to treat macular degeneration).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.do.2009.144">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Do</surname>
+<given-names>DV</given-names></string-name>, <string-name name-style="western"><surname>Nguyen</surname>
+<given-names>QD</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Browning</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Haller</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Chu</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>An exploratory study of the safety, tolerability and bioactivity of a single intravitreal injection of vascular endothelial growth factor Trap-Eye in patients with diabetic macular oedema.</article-title>
+<source>Br J Ophthalmol</source>
+<year>2009</year>; <volume>93</volume>: <fpage>144</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Pilot study of a single intravitreal injection of aflibercept in 5 patients with diabetes and macular degeneration showed clinical improvements in 4 patients and no systemic effects).</italic></p></annotation><pub-id pub-id-type="pmid">19174400</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.wroblewski.2009.374">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wroblewski</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Wells</surname>
+<given-names>JA</given-names>
+<suffix>3rd</suffix></string-name>, <string-name name-style="western"><surname>Adamis</surname>
+<given-names>AP</given-names></string-name>, <string-name name-style="western"><surname>Buggage</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Cunningham</surname>
+<given-names>ET</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Goldbaum</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Guyer</surname>
+<given-names>DR</given-names></string-name>, <etal>et al.</etal>; <collab>Pegaptanib in Central Retinal Vein Occlusion Study Group</collab>. <article-title>Pegaptanib sodium for macular edema secondary to central retinal vein occlusion.</article-title>
+<source>Arch Ophthalmol</source>
+<year>2009</year>; <volume>127</volume>: <fpage>374</fpage>-<lpage>80</lpage>.<annotation><p><italic toggle="yes">(Among 98 patients with macular edema from central retinal vein occlusion treated with pegaptanib or sham intravitreal injections, visual acuity tended to be better among the pegaptanib treated patients and there was "no evidence of an increased risk of systemic adverse events").</italic></p></annotation><pub-id pub-id-type="pmid">19365011</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.tufail.2010.c2459">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tufail</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Patel</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Egan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hykin</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>da Cruz</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Gregor</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Dowler</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>; <collab>ABC Trial Investigators</collab>. <article-title>Bevacizumab for neovascular age related macular degeneration (ABC Trial): multicentre randomised double masked study.</article-title>
+<source>BMJ</source>
+<year>2010</year>; <volume>340</volume>: <fpage>c2459</fpage>.<annotation><p><italic toggle="yes">(Among 131 patients with neovascular macular degeneration, improved vision at one year occurred in 32% of bevacizumab vs 3% of standard therapy treated subjects and side effects were largely related to the intravitreal injections).</italic></p></annotation><pub-id pub-id-type="pmid">20538634</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.sultan.2011.1107">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sultan</surname>
+<given-names>MB</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Loftus</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Dombi</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Ice</surname>
+<given-names>KS</given-names></string-name>; <collab>Macugen 1013 Study Group</collab>. <article-title>A phase 2/3, multicenter, randomized, double-masked, 2-year trial of pegaptanib sodium for the treatment of diabetic macular edema.</article-title>
+<source>Ophthalmology</source>
+<year>2011</year>; <volume>118</volume>
+<fpage>1107</fpage>-<lpage>18</lpage>.<annotation><p><italic toggle="yes">(Among 282 patients with diabetic macular edema treated with pegaptanib or placebo for up to 2 years, there were no differences in nonocular adverse events between the two groups).</italic></p></annotation><pub-id pub-id-type="pmid">21529957</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.martin.2011.1897">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Martin</surname>
+<given-names>DF</given-names></string-name>, <string-name name-style="western"><surname>Maguire</surname>
+<given-names>MG</given-names></string-name>, <string-name name-style="western"><surname>Ying</surname>
+<given-names>GS</given-names></string-name>, <string-name name-style="western"><surname>Grunwald</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Fine</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Jaffe</surname>
+<given-names>GJ</given-names></string-name>. <article-title>Ranibizumab and bevacizumab for neovascular age-related macular degeneration.</article-title>
+<source>N Engl J Med</source>
+<year>2011</year>; <volume>364</volume>: <fpage>1897</fpage>-<lpage>1908</lpage>.<annotation><p><italic toggle="yes">(Among 1208 patients with neovascular age-related macular degeneration, ranibizumab and bevacizumab had similar effects on visual acuity and systemic adverse effects were uncommon; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21526923</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.comparison_of_agerelated_macular_degeneration_treatments_trials_catt_research_group.2012.1388">
+            <mixed-citation publication-type="journal"><collab>Comparison of Age-related Macular Degeneration Treatments Trials (CATT) Research Group</collab>, Martin DF, Maguire MG, Fine SL, Ying GS, Jaffe GJ, Grunwald JE, Toth C, et al. <article-title>Ranibizumab and bevacizumab for treatment of neovascular age-related macular degeneration: two-year results.</article-title>
+<source>Ophthalmology</source>
+<year>2012</year>; <volume>119</volume>: <fpage>1388</fpage>-<lpage>98</lpage>.<annotation><p><italic toggle="yes">(Among 1107 patients who were followed during year 2 of ranibizumab or bevacizumab therapy for neovascular age-related macular degeneration, systemic adverse events could not be definitely linked to the intravitreal injections of anti-VEGF therapy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22555112</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.heier.2012.2537">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Chong</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Korobelnik</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Kaiser</surname>
+<given-names>PK</given-names></string-name>, <string-name name-style="western"><surname>Nguyen</surname>
+<given-names>QD</given-names></string-name>, <string-name name-style="western"><surname>Kirchhof</surname>
+<given-names>B</given-names></string-name>, <etal>et al.</etal>; <article-title>VIEW 1 and VIEW 2 Study Groups. Intravitreal aflibercept (VEGF trap-eye) in wet age-related macular degeneration.</article-title>
+<source>Ophthalmology</source>
+<year>2012</year>; <volume>119</volume>(<issue>12</issue>): <fpage>2537</fpage>-<lpage>48</lpage>.<annotation><p><italic toggle="yes">(Among 2419 patients with neovascular age-related macular degeneration treated with intravitreal injections of aflibercept or ranibizumab, response rates were similar with the two drugs and the incidence of systemic adverse events was similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23084240</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.tang.2012.6023">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tang</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Cohen</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Kollmannsberger</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Bjarnason</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Virik</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>MacKenzie</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Lourenco</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase II clinical and pharmacokinetic study of aflibercept in patients with previously treated metastatic colorectal cancer.</article-title>
+<source>Clin Cancer Res</source>
+<year>2012</year>; <volume>18</volume>: <fpage>6023</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(Among 75 patients with metastatic colorectal cancer treated with aflibercept, few had an objective response and adverse events included fatigue, hypertension and proteinuria; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22977191</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.ho.2012.2179">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ho</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Scott</surname>
+<given-names>IU</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>GC</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Ip</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Recchia</surname>
+<given-names>FM</given-names></string-name>. <article-title>Anti-vascular endothelial growth factor pharmacotherapy for diabetic macular edema: a report by the American Academy of Ophthalmology.</article-title>
+<source>Ophthalmology</source>
+<year>2012</year>; <volume>119</volume>: <fpage>2179</fpage>-<lpage>88</lpage>.<annotation><p><italic toggle="yes">(Systematic review of safety and efficacy of anti-VEGF therapies of diabetic macular edema mentions that there is no greater risk of systemic adverse events from intravitreal infusions of anti-VEGF therapies including bevacizumab, ranibizumab, pegaptanib and aflibercept).</italic></p></annotation><pub-id pub-id-type="pmid">22917890</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF21">
+            <mixed-citation publication-type="journal"><article-title>Aflibercept (Eylea) for age-related macular degeneration.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2012</year>; <volume>54</volume>: <fpage>9</fpage>-<lpage>10</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, efficacy, safety and costs of aflibercept shortly after its approval in the US mentions that adverse events were virtually identical to ranibizumab and largely ophthalmologic).</italic></p></annotation><pub-id pub-id-type="pmid">22354219</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.gotlieb.2012.154">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gotlieb</surname>
+<given-names>WH</given-names></string-name>, <string-name name-style="western"><surname>Amant</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Advani</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Goswami</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Hirte</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Provencher</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Somani</surname>
+<given-names>N</given-names></string-name>, <etal>et al.</etal>
+<article-title>Intravenous aflibercept for treatment of recurrent symptomatic malignant ascites in patients with advanced ovarian cancer: a phase 2, randomised, double-blind, placebo-controlled study.</article-title>
+<source>Lancet Oncol</source>
+<year>2012</year>; <volume>13</volume>: <fpage>154</fpage>-<lpage>62</lpage>.<annotation><p><italic toggle="yes">(Among 55 women with advanced ovarian cancer and ascites treated with intravenous aflibercept or placebo, side effects included fatigue and dehydration; ALT elevations occurred in 10% of aflibercept, but no placebo recipient and one patient developed both ALT and bilirubin elevations during first 30 days of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">22192729</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.mackay.2012.136">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mackay</surname>
+<given-names>HJ</given-names></string-name>, <string-name name-style="western"><surname>Buckanovich</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Hirte</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Correa</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Hoskins</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Biagi</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>LP</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase II study single agent of aflibercept (VEGF Trap) in patients with recurrent or metastatic gynecologic carcinosarcomas and uterine leiomyosarcoma. A trial of the Princess Margaret Hospital, Chicago and California Cancer Phase II Consortia.</article-title>
+<source>Gynecol Oncol</source>
+<year>2012</year>; <volume>125</volume>: <fpage>136</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Among 63 women with gynecologic soft tissue sarcomas who were treated with intravenous aflibercept, no objective responses occurred and side effects were common; 6 [10%] patients had mild Alk P elevations, but there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22138373</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.heier.2014.1414">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Clark</surname>
+<given-names>WL</given-names></string-name>, <string-name name-style="western"><surname>Boyer</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Vitti</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Berliner</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Kazmi</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Intravitreal aflibercept injection for macular edema due to central retinal vein occlusion: two-year results from the COPERNICUS Study.</article-title>
+<source>Ophthalmology</source>
+<year>2014</year>; <volume>121</volume> (<issue>7</issue>): <fpage>1414</fpage>-<lpage>1420.e1</lpage>.<annotation><p><italic toggle="yes">(Among 188 patients with macular edema due to central retinal vein occlusion for up to 2 years, improvement in visual acuity was greater with aflibercept than sham intravitreal injections, and rates of nonocular adverse events were similar; ALT elevations and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">24679444</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.semeraro.2014.785">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Semeraro</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Morescalchi</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Duse</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gambicorti</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Romano</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Costagliola</surname>
+<given-names>C</given-names></string-name>. <article-title>Systemic thromboembolic adverse events in patients treated with intravitreal anti-VEGF drugs for neovascular age-related macular degeneration: an overview.</article-title>
+<source>Expert Opin Drug Saf</source>
+<year>2014</year>; <volume>13</volume>: <fpage>785</fpage>-<lpage>802</lpage>.<annotation><p><italic toggle="yes">(Review of the evidence for systemic absorption of anti-VEGF agents used in ophthalmology and their possible adverse effects, focusing upon thromboembolic cardiovascular and cerebrovascular events).</italic></p></annotation><pub-id pub-id-type="pmid">24809388</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.perkins.2014.93">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Perkins</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Cole</surname>
+<given-names>SW</given-names></string-name>. <article-title>Ziv-aflibercept (Zaltrap) for the treatment of metastatic colorectal cancer.</article-title>
+<source>Ann Pharmacother</source>
+<year>2014</year>; <volume>48</volume>: <fpage>93</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Review of efficacy and safety of aflibercept as therapy of metastatic colorectal cancer does not include ALT elevations or hepatotoxicity in list of adverse events occurring in more than 10% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">24259608</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.schmidterfurth.2014.193">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schmidt-Erfurth</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Kaiser</surname>
+<given-names>PK</given-names></string-name>, <string-name name-style="western"><surname>Korobelnik</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Chong</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Nguyen</surname>
+<given-names>QD</given-names></string-name>, <string-name name-style="western"><surname>Ho</surname>
+<given-names>AC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six-week results of the VIEW studies.</article-title>
+<source>Ophthalmology</source>
+<year>2014</year>; <volume>121</volume>: <fpage>193</fpage>-<lpage>201</lpage>.<annotation><p><italic toggle="yes">(Among 2457 patients with neovascular age-related macular degeneration, improvement and stability of visual acuity was similar with intravitreal injections of aflibercept and ranibizumab, and nonocular adverse events were similar).</italic></p></annotation><pub-id pub-id-type="pmid">24084500</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.korobelnik.2014.202">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Korobelnik</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Holz</surname>
+<given-names>FG</given-names></string-name>, <string-name name-style="western"><surname>Roider</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ogura</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Simader</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Schmidt-Erfurth</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Lorenz</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>; <collab>GALILEO Study Group</collab>. <article-title>Intravitreal aflibercept injection for macular edema resulting from central retinal vein occlusion: one-year results of the phase 3 GALILEO study.</article-title>
+<source>Ophthalmology</source>
+<year>2014</year>; <volume>121</volume>: <fpage>202</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 177 patients with macular edema due to central retinal vein occlusion, visual acuity improved with aflibercept and nonocular adverse events were similar in the sham and aflibercept treated subjects; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24084497</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.chang.2015.84">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chang</surname>
+<given-names>AA</given-names></string-name>, <string-name name-style="western"><surname>Broadhead</surname>
+<given-names>GK</given-names></string-name>, <string-name name-style="western"><surname>Hong</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Joachim</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Syed</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Schlub</surname>
+<given-names>TE</given-names></string-name>, <string-name name-style="western"><surname>Toth</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>Intravitreal aflibercept for treatment-resistant neovascular age-related macular degeneration: 12-month safety and efficacy outcomes.</article-title>
+<source>Ophthalmic Res</source>
+<year>2015</year>; <volume>55</volume>: <fpage>84</fpage>-<lpage>90</lpage>.<annotation><p><italic toggle="yes">(Among 49 patients with macular degeneration treated with intravitreal aflibercept every 1 to 2 months for 1 year, there were 22 serious adverse events, but none were liver related).</italic></p></annotation><pub-id pub-id-type="pmid">26637166</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.brown.2015.2044">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Schmidt-Erfurth</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Do</surname>
+<given-names>DV</given-names></string-name>, <string-name name-style="western"><surname>Holz</surname>
+<given-names>FG</given-names></string-name>, <string-name name-style="western"><surname>Boyer</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Midena</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <etal>et al.</etal>
+<article-title>intravitreal aflibercept for diabetic macular edema: 100-week results from the VISTA and VIVID Studies.</article-title>
+<source>Ophthalmology</source>
+<year>2015</year>; <volume>122</volume>: <fpage>2044</fpage>-<lpage>52</lpage>.<annotation><p><italic toggle="yes">(Among 872 patients treated with intravitreal aflibercept every 4 or 8 weeks or with laser photocoagulation for up to 2 years, adverse event rates including myocardial infarction and stroke were similar in all three groups; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26198808</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.scott.2015.379">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Scott</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Chakravarthy</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Reeves</surname>
+<given-names>BC</given-names></string-name>, <string-name name-style="western"><surname>Rogers</surname>
+<given-names>CA</given-names></string-name>. <article-title>Systemic safety of anti-VEGF drugs: a commentary.</article-title>
+<source>Expert Opin Drug Saf</source>
+<year>2015</year>; <volume>14</volume>: <fpage>379</fpage>-<lpage>88</lpage>.<annotation><p><italic toggle="yes">(Review of trials of different anti-VEGF agents for macular degeneration found no increase in rates of all-cause mortality as well as arterio-thrombotic and gastrointestinal serious adverse events; no specific mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25489638</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to drugs used to treat macular degeneration).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.ziemssen.2016.75">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ziemssen</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Sobolewska</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Deissler</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Deissler</surname>
+<given-names>H</given-names></string-name>. <article-title>Safety of monoclonal antibodies and related therapeutic proteins for the treatment of neovascular macular degeneration: addressing outstanding issues.</article-title>
+<source>Expert Opin Drug Saf</source>
+<year>2016</year>; <volume>15</volume>: <fpage>75</fpage>-<lpage>87</lpage>.<annotation><p><italic toggle="yes">(Review of safety of monoclonal anti-VEGF therapy of macular degeneration states that systemic levels and effects are detectable after intravitreal injections and that extra-ocular serious adverse effects may include cerebrovascular events; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26568279</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.avery.2016.21">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Avery</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Gordon</surname>
+<given-names>GM</given-names></string-name>. <article-title>Systemic Safety of prolonged monthly anti-vascular endothelial growth factor therapy for diabetic macular edema: a systematic review and meta-analysis.</article-title>
+<source>JAMA Ophthalmol</source>
+<year>2016</year>; <volume>134</volume>: <fpage>21</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Metaanalysis of 4 controlled trials of long term intravitreal anti-VEGF therapy of diabetic macular edema found increased risk for arterio-thrombotic events and death, occurring in 30 of 791 [4%] treated vs 7 of 537 [1.3%] controls; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26513684</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.kitchens.2016.1511">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kitchens</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Do</surname>
+<given-names>DV</given-names></string-name>, <string-name name-style="western"><surname>Boyer</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Thompson</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Gibson</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Saroj</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Vitti</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comprehensive review of ocular and systemic safety events with intravitreal aflibercept injection in randomized controlled trials.</article-title>
+<source>Ophthalmology</source>
+<year>2016</year>; <volume>123</volume>: <fpage>1511</fpage>-<lpage>20</lpage>.<annotation><p><italic toggle="yes">(Review of safety outcomes from more than 4000 patients enrolled in 10 controlled trials of intravitreal aflibercept therapy of macular degeneration, found no increase in systemic adverse events with aflibercept treatment compared to controls).</italic></p></annotation><pub-id pub-id-type="pmid">27084563</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.mansour.2017.1374">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mansour</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Ashraf</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dedhia</surname>
+<given-names>CJ</given-names></string-name>, <string-name name-style="western"><surname>Charbaji</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Souka</surname>
+<given-names>AAR</given-names></string-name>, <string-name name-style="western"><surname>Chhablani</surname>
+<given-names>J</given-names></string-name>. <article-title>Long-term safety and efficacy of ziv-aflibercept in retinal diseases.</article-title>
+<source>Br J Ophthalmol</source>
+<year>2017</year>; <volume>101</volume>: <fpage>1374</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Among 55 patients with macular degeneration treated off-label with ziv-aflibercept by intravitreal injection, visual acuity improved and "systemic adverse effects were not registered").</italic></p></annotation><pub-id pub-id-type="pmid">28270485</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.bevacizumabranibizumab_international_trials_group.2017.375">
+            <mixed-citation publication-type="journal"><collab>Bevacizumab-Ranibizumab International Trials Group</collab>. <article-title>Serious adverse events with bevacizumab or ranibizumab for age-related macular degeneration: meta-analysis of individual patient data.</article-title>
+<source>Ophthalmol Retina</source>
+<year>2017</year>; <volume>1</volume>: <fpage>375</fpage>-<lpage>81</lpage>.<annotation><p><italic toggle="yes">(Independent review of pooled data from 3052 patients participating in 5 large randomized controlled trials comparing bevacizumab and ranibizumab as therapy of macular degeneration, found rates of systemic serious adverse events to be the same with the two anti-VEGF monoclonal antibodies).</italic></p></annotation><pub-id pub-id-type="pmid">29038796</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.thulliez.2018.557">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Thulliez</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Angoulvant</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Pisella</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Bejan-Angoulvant</surname>
+<given-names>T</given-names></string-name>. <article-title>Overview of systematic reviews and meta-analyses on systemic adverse events associated with intravitreal anti-vascular endothelial growth factor medication use.</article-title>
+<source>JAMA Ophthalmol</source>
+<year>2018</year>; <volume>136</volume> (<issue>5</issue>): <fpage>557</fpage>-<lpage>66</lpage>.<annotation><p><italic toggle="yes">(Review of 21 systematic reviews suggested that intravitreal therapy of macular degeneration is not associated with a higher rate of systemic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">29566105</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.dugel.2020.72">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dugel</surname>
+<given-names>PU</given-names></string-name>, <string-name name-style="western"><surname>Koh</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ogura</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Jaffe</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Schmidt-Erfurth</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Gomes</surname>
+<given-names>AV</given-names></string-name>, <etal>et al.</etal>; <collab>HAWK and HARRIER Study Investigators</collab>. <article-title>HAWK and HARRIER: Phase 3, multicenter, randomized, double-masked trials of brolucizumab for neovascular age-related macular degeneration.</article-title>
+<source>Ophthalmology.</source>
+<year>2020</year>;<volume>127</volume>:<fpage>72</fpage>-<lpage>84</lpage>.<annotation><p><italic toggle="yes">(Among 1817 patients with untreated neovascular age-related macular degeneration treated with brolucizumab [3 or 6 mg] or aflibercept [2 mg] by intravitreal injection for 48 weeks, brolucizumab demonstrated non-inferiority to aflibercept in change in best correct visual acuity, and adverse event rates were similar, nonocular hepatobiliary serious adverse events arose in less than 1% of subjects; no details given except that they were considered unrelated to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">30986442</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF40">
+            <mixed-citation publication-type="journal"><article-title>Brolucizumab (Beovu) for age-related macular degeneration.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2020</year>;<volume>62</volume>:<fpage>23</fpage>-<lpage>24</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of brolucizumab shortly after its approval as therapy of macular degeneration, no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">32022789</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.heier.2022.729">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Khanani</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Quezada Ruiz</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Basu</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Ferrone</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Brittain</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Figueroa</surname>
+<given-names>MS</given-names></string-name>, <etal>et al.</etal>; <collab>TENAYA and LUCERNE Investigators</collab>. <article-title>Efficacy, durability, and safety of intravitreal faricimab up to every 16 weeks for neovascular age-related macular degeneration (TENAYA and LUCERNE): two randomised, double-masked, phase 3, non-inferiority trials.</article-title>
+<source>Lancet.</source>
+<year>2022</year>;<volume>399</volume>(<issue>10326</issue>):<fpage>729</fpage>-<lpage>740</lpage>.<annotation><p><italic toggle="yes">(Among 1329 patients with neovascular macular degeneration enrolled in two controlled trials of intravitreal injections of faricimab [6 mg] every 4 to 16 weeks vs aflibercept every 8 weeks for 48 weeks, improvements in visual acuity were similar in both groups as were total and serious adverse events; extra-ocular events arising in 52% vs 55%; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">35085502</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.wykoff.2022.741">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wykoff</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Abreu</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Adamis</surname>
+<given-names>AP</given-names></string-name>, <string-name name-style="western"><surname>Basu</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Eichenbaum</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Haskova</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Lin</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>; <collab>YOSEMITE and RHINE Investigators</collab>. <article-title>Efficacy, durability, and safety of intravitreal faricimab with extended dosing up to every 16 weeks in patients with diabetic macular oedema (YOSEMITE and RHINE): two randomised, double-masked, phase 3 trials.</article-title>
+<source>Lancet.</source>
+<year>2022</year>;<volume>399</volume>(<issue>10326</issue>):<fpage>741</fpage>-<lpage>755</lpage>.<annotation><p><italic toggle="yes">(Among 1891 patients with diabetic macular edema enrolled in two controlled trials of intravitreal faricimab [6 mg] every 4 to 18 weeks vs aflibercept [2 mg] every 8 weeks for up to 100 weeks, improvements in visual acuity were similar in the two groups as were total and serious adverse events, extra-ocular events arising in 66% and 57% vs 65% and 60%; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">35085503</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF43">
+            <mixed-citation publication-type="journal"><article-title>Faricimab (Vabysmo) for age-related macular degeneration and diabetic macular edema.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2022</year>;<volume>64</volume>:<fpage>45</fpage>-<lpage>46</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of faricimab shortly after its approval as therapy of age-related neovascular macular degeneration, no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">35294428</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.heier.2023.1434">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Lad</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Holz</surname>
+<given-names>FG</given-names></string-name>, <string-name name-style="western"><surname>Rosenfeld</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Guymer</surname>
+<given-names>RH</given-names></string-name>, <string-name name-style="western"><surname>Boyer</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Grossi</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>; <collab>OAKS and DERBY study investigators</collab>. <article-title>Pegcetacoplan for the treatment of geographic atrophy secondary to age-related macular degeneration (OAKS and DERBY): two multicentre, randomised, double-masked, sham-controlled, phase 3 trials.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>(<issue>10411</issue>):<fpage>1434</fpage>-<lpage>1448</lpage>.<annotation><p><italic toggle="yes">(Among 1258 patients with age-related macular degeneration enrolled in two 24 month randomized sham controlled trials of intravitreal injections of pegcetacoplan, there was a 16-22% slowing of growth of geographic atrophy lesions but no differences in visual function or acuity; no mention of ALT levels or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">37865470</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.brown.2023.44">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Nowik</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bouillaud</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Dugel</surname>
+<given-names>APU</given-names></string-name>; <collab>HAWK Extension Study Investigators</collab>. <article-title>HAWK Extension Study: Safety and efficacy of intravitreal brolucizumab in neovascular age-related macular degeneration.</article-title>
+<source>Curr Eye Res.</source>
+<year>2023</year>;<volume>48</volume>:<fpage>44</fpage>-<lpage>50</lpage>.<annotation><p><italic toggle="yes">(Long term follow up of controlled trials of brolucizumab for macular degeneration identified no new safety signals; no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36398628</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF46">
+            <mixed-citation publication-type="journal"><article-title>Pegcetacoplan (Syfovre) for geographic atrophy in age-related macular degeneration.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>49</fpage>-<lpage>50</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of pegcetacoplan shortly after its approval as therapy of age-related macular degeneration given as intravitreal injections every one to two months, no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">37020339</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.khanani.2023.1449">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Khanani</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Patel</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Staurenghi</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Tadayoni</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Danzig</surname>
+<given-names>CJ</given-names></string-name>, <string-name name-style="western"><surname>Eichenbaum</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Hsu</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>; <article-title>GATHER2 trial investigators. Efficacy and safety of avacincaptad pegol in patients with geographic atrophy (GATHER2): 12-month results from a randomised, double-masked, phase 3 trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>(<issue>10411</issue>):<fpage>1449</fpage>-<lpage>1458</lpage>.<annotation><p><italic toggle="yes">(Among 448 patients with age-related macular degeneration and geographic atrophy treated with avacincaptad pegol or sham intravitreal injections monthly for 12 months, the area of atrophy growth was less with avacincaptad and nonocular adverse event rates were similar in the two groups [56% vs 57%] and &#x0201c;laboratory parameters&#x0201d; did not change from baseline).</italic></p></annotation><pub-id pub-id-type="pmid">37696275</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF.patel.2023.3551">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Patel</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Lally</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Hsu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wykoff</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Eichenbaum</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Jaffe</surname>
+<given-names>GJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Avacincaptad pegol for geographic atrophy secondary to age-related macular degeneration: 18-month findings from the GATHER1 trial.</article-title>
+<source>Eye (Lond)</source>. <year>2023</year>;<volume>37</volume>:<fpage>3551</fpage>-<lpage>3557</lpage>.<annotation><p><italic toggle="yes">(Among 286 patients with geographic atrophy due to age-related macular degeneration treated with avacincaptad pegol [2 or 4 mg] or sham intravitreal injections every month for 18 months, mean geographic atrophy growth was 28% and 30% less with avacincaptad, and systemic adverse event rates were similar between groups [61% and 64% vs 60%] and none were considered drug related).</italic></p></annotation><pub-id pub-id-type="pmid">36964259</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MacularDegenerAgents.REF49">
+            <mixed-citation publication-type="journal"><article-title>Avacincaptad pegol (Izervay) for geographic atrophy in age-related macular degeneration.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2024</year>;<volume>66</volume>:<fpage>15</fpage>-<lpage>16</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of avacincaptad pegol shortly after its approval as therapy of geographic atrophy in age-related macular degeneration; no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">38212259</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="MacularDegenerAgents.OTHER_REFERENCE_LIN">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Aflibercept+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Aflibercept: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Bevacizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Bevacizumab: from PubMed.gov</ext-link></p>
+        <p>3. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Brolucizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Brolucizumab: from PubMed.gov</ext-link></p>
+        <p>4. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Faricimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Faricimab: from PubMed.gov</ext-link></p>
+        <p>5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pegaptanib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pegaptanib: from PubMed.gov</ext-link></p>
+        <p>6. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ranibizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ranibizumab: from PubMed.gov</ext-link></p>
+        <p>7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Avacincaptad+pegol+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Avacincaptad pegol: from PubMed.gov</ext-link></p>
+        <p>8. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pegcetacoplan+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pegcetacoplan: from PubMed.gov</ext-link></p>
+        <p>9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/search?term=Aflibercept&#x00026;viewType=Table">Trials on Aflibercept: from ClinicalTrials.gov</ext-link></p>
+        <p>10. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bevacizumab">Trials on Bevacizumab: from ClinicalTrials.gov</ext-link></p>
+        <p>11. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/search?term=Brolucizumab&#x00026;viewType=Table">Trials on Brolucizumab: from ClinicalTrials.gov</ext-link></p>
+        <p>12. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/search?term=Faricimab&#x00026;viewType=Table">Trials on Faricimab: from ClinicalTrials.gov</ext-link></p>
+        <p>13. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pegaptanib">Trials on Pegaptanib: from ClinicalTrials.gov</ext-link></p>
+        <p>14. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ranibizumab">Trials on Ranibizumab: from ClinicalTrials.gov</ext-link></p>
+        <p>15. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/search?term=Avacincaptad%20pegol&#x00026;viewType=Table">Trials on Avacincaptad pegol: from ClinicalTrials.gov</ext-link></p>
+        <p>16. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/search?term=Pegcetacoplan&#x00026;viewType=Table">Trials on Pegcetacoplan: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

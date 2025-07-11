@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Zepatier" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Zepatier</book-part-id>
+      <title-group>
+        <title>Zepatier</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>2</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Zavegepant" document-type="chapter">Zavegepant</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Zidovudine" document-type="chapter">Zidovudine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Zepatier.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Zepatier.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Zepatier is an oral, fixed combination of two antiviral agents, elbasvir and grazoprevir, that is used to treat chronic hepatitis C, genotypes 1 and 4. This antiviral combination has been associated with low rate of transient serum enzyme elevations during therapy, but has not been implicated in cases of clinically apparent idiosyncratic liver injury with jaundice. However, like all effective direct acting antiviral agents for hepatitis C, Zepatier is considered capable of causing reactivation of hepatitis B in susceptible patients and transient hepatic decompensation in patients with cirrhosis.</p>
+        </sec>
+        <sec id="Zepatier.Background">
+          <title>Background</title>
+          <p>Zepatier is the commercial name for a combination of elbasvir and grazoprevir, two antiviral agents used to treat chronic hepatitis C associated with HCV genotypes 1 and 4. The hepatitis C virus (HCV) encodes several nonstructural (NS) polypeptides that are essential for its replication, NS3/4 that has protease and helicase activities, NS5A that is a membrane bound polypeptide of uncertain purpose, and NS5B an HCV specific, RNA-dependent, RNA polymerase. These polypeptides are effective targets for antiviral therapy of hepatitis C. Zepatier is a fixed dose combination of grazoprevir (graz oh&#x02019; pre vir) which is a potent HCV NS3/4 protease inhibitor and elbasvir (elb&#x02019; as vir) an NS5A inhibitor. In cell culture and in humans infected with HCV, each of these agents has potent activity against HCV, but antiviral resistance arises rapidly with continued exposure. The combination of the two direct acting agents with different molecular targets allows for a sustained viral suppression while avoiding antiviral resistance. The combination of these two agents with and without the ribavirin (an antiviral nucleoside analogue with activity against HCV) was shown to be very effective in suppressing HCV replication in patients infected with HCV genotypes 1 and 4, and to result in sustained virological responses and eradication of HCV in more than 95% of patients when given for 12 or 16 weeks. Zepatier was approved for use in the United States in 2016, the third all-oral antiviral combination to receive approval for chronic hepatitis C. It is available as tablets with the fixed dose combination of 100 mg of grazoprevir and 50 mg of elbasvir. The recommended dose in adults is 1 tablet daily for 12 weeks. The addition of ribavirin for 12 weeks and prolongation of therapy to 16 weeks is recommended for some groups of HCV infected patients, such as those with previous non-response to antiviral therapy and those with genotype 1a and preexisting resistance associated viral variants. Current indications are limited to patients with HCV genotypes 1 and 4. Side effects are uncommon, but are generally mild and can include fatigue, headache and nausea.</p>
+        </sec>
+        <sec id="Zepatier.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials, serum aminotransferase elevations more than 5 times the upper limit of normal (ULN) occurred in 1% of Zepatier treated patients, but were infrequent in placebo recipients. The elevations were generally asymptomatic and short-lived, often arising after the first 4 weeks of therapy and resolving with or without dose modification and only rarely requiring early discontinuation. In some instances, ALT levels rose above 10 times the upper limit of normal, but these elevations were not accompanied by symptoms or jaundice and were invariably self-limited. In the many preregistration trials, Zepatier was not associated with instances of clinically apparent liver injury.</p>
+          <p>However, two forms of liver injury have been associated with direct-acting antiviral agents used to treat chronic hepatitis C, and these reactions appear to occur with all regimens. The first is acute decompensation of HCV-related cirrhosis. The liver injury usually arises within 2 to 6 weeks of starting antiviral therapy, but can occur later and even after discontinuation. The injury is marked by worsening jaundice and appearance of signs of hepatic failure such as ascites or hepatic encephalopathy, often with little or no change in serum aminotransferase levels. Lactic acidosis may be present early. The course is variable but calls for prompt discontinuation of treatment despite successful suppression of HCV RNA levels. Some instances have led to death or need for emergency liver transplantation. For this reason, patients with cirrhosis undergoing antiviral therapy with potent direct acting agents, such as Zepatier, should be monitored carefully, particularly during the first few weeks of treatment. This syndrome has not been clearly linked to therapy with grazoprevir and elbasvir, but this regimen has not been evaluated in patients with advanced cirrhosis due to hepatitis C.</p>
+          <p>A second, liver complication of therapy of chronic hepatitis C is reactivation of hepatitis B. This occurs most frequently in patients who have HBsAg in serum but rare instances have arisen in subjects with anti-HBc without HBsAg. The cause of the reactivation of hepatitis B during antiviral therapy of hepatitis C is unknown, but may relate to the inhibition of HBV replication during HCV replication. For this reason, patients with hepatitis C who are to receive antiviral therapy should be screened for HBsAg and anti-HBc. Those with HBsAg are best managed by concurrent treatment with an antiviral agent active against HBV, such as entecavir or tenofovir. Subjects with anti-HBc without HBsAg rarely experience reactivation and can be managed by careful monitoring for HBV DNA levels during treatment and institution of therapy for HBV if levels appear de novo or rise significantly. Reactivation of hepatitis B has been described with many regimens, although not specifically with grazoprevir and elbasvir.</p>
+          <p>Likelihood score: C (probable, rare cause of liver injury, including decompensation of chronic hepatitis C and reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Zepatier.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which elbasvir and grazoprevir might cause liver injury is not known. Both are metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 1A2, and liver injury may be due to production of a toxic or immunogenic metabolite. Zepatier is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4. Reactivation of hepatitis B during therapy of chronic hepatitis C is probably due to eradication of a competing virus for replicative space.</p>
+        </sec>
+        <sec id="Zepatier.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While chronic therapy with grazoprevir and elbasvir can be associated with mild-to-moderate serum aminotransferase elevations, it has not been convincingly linked to cases of clinically apparent liver injury. Nevertheless, monitoring of serum aminotransferase levels monthly during the 12 weeks of therapy is recommended. Patients who develop aminotransferase elevations on therapy should be monitored more carefully, and Zepatier should be permanently discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels are persistently above 5 times the ULN. Patients with cirrhosis should be monitored for signs and symptoms of hepatic decompensation and therapy stopped promptly if these arise. All patients receiving antiviral therapy for hepatitis C should be screened for HBsAg and anti-HBc and either monitored carefully for evidence of reactivation or given prophylaxis with agents active against hepatitis B during therapy and for several weeks thereafter.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="HepatitisCDrugs" document-type="chapter">Hepatitis C Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Zepatier.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Elbasvir, Grazoprevir &#x02013; Zepatier&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Hepatitis C Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=zepatier%3Cbr%3EGrazoprevir,%20Elbasvir">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Zepatier.CHEMICAL_FORMULAS_AND_STRUCTURE">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Zepatier.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Zepatier.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Zepatier.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Zepatier.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Zepatier.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Elbasvir</td>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://164117636">1370468-36-2</ext-link>
+</td>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C49-H55-N9-O7</td>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="164117636" document-id-type="sid" document-type="summary" object-id="164117636" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Grazoprevir</td>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://310264793">1350462-55-3</ext-link>
+</td>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C38-H50-N6-O9-S.H2-O</td>
+                <td headers="hd_h_Zepatier.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="310264793" document-id-type="sid" document-type="summary" object-id="310264793" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Zepatier.ANNOTATED_BIBLIOGRAPHY_Zepatier">
+        <title>ANNOTATED BIBLIOGRAPHY: Zepatier, Elbasvir, Grazoprevir</title>
+        <p>References updated: 07 February 2022</p>
+        <ref-list id="Zepatier.ANNOTATED_BIBLIOGRAPHY_Zepatier.reflist0">
+          <ref id="Zepatier.REF.forns.2015.564">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Forns</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Zuckerman</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Lawitz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Calleja</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Hofer</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Grazoprevir and elbasvir plus ribavirin for chronic HCV genotype-1 infection after failure of combination therapy containing a direct-acting antiviral agent.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>63</volume>
+              <fpage>564</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 79 adults with previously treated chronic hepatitis C, genotype 1, who received grazoprevir, elbasvir and ribavirin for 12 weeks, the overall response rate was 96%, 5 had a serious adverse event, but none were hepatic and no patient had ALT elevations above baseline).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25895428</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.lawitz.2015.1075">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lawitz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Gane</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Pearlman</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Tam</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ghesquiere</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Guyader</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Alric</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of 12 weeks versus 18 weeks of treatment with grazoprevir (MK-5172) and elbasvir (MK-8742) with or without ribavirin for hepatitis C virus genotype 1 infection in previously untreated patients with cirrhosis and patients with previous null response with or without cirrhosis (C-WORTHY): a randomised, open-label phase 2 trial.</article-title>
+              <source>Lancet</source>
+              <year>2015</year>
+              <volume>385</volume>
+              <issue>9973</issue>
+              <fpage>1075</fpage>
+              <lpage>86</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 253 patients with chronic hepatitis C genotype 1 treated with grazoprevir and elbasvir with or without ribavirin for 12 or 18 weeks, response rates averaged 95% [90-100%] and were independent of ribavirin or duration; serious adverse events occurred in 3% and late elevations in ALT in 6 [2%], which were self-limited in all and above 5 times ULN in only 1 patient).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25467591</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.sulkowski.2015.1087">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sulkowski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hezode</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gerstoft</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Vierling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Mallolas</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pol</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kugelmas</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of 8 weeks versus 12 weeks of treatment with grazoprevir (MK-5172) and elbasvir (MK-8742) with or without ribavirin in patients with hepatitis C virus genotype 1 mono-infection and HIV/hepatitis C virus co-infection (C-WORTHY): a randomised, open-label phase 2 trial.</article-title>
+              <source>Lancet</source>
+              <year>2015</year>
+              <volume>385</volume>
+              <issue>9973</issue>
+              <fpage>1087</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 218 patients with chronic hepatitis C, genotype 1 with or without HIV infection who were treated with grazoprevir and elbasvir with or without ribavirin in 5 different treatment groups, the overall response rate was 80% with 8 weeks and 87-96% with 12 weeks of treatment; late elevations in ALT or AST occurred in 3 patients, but all were less than 5 times ULN and did not result in dose modification or early discontinuations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25467560</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 were attributed to antiviral agents, but none for the oral direct acting agents used to treat chronic hepatitis C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.zeuzem.2015.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeuzem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ghalib</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<name name-style="western"><surname>Pockros</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Ben Ari</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>DD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Grazoprevir-elbasvir combination therapy for treatment-naive cirrhotic and noncirrhotic patients with chronic hepatitis C virus genotype 1, 4, or 6 infection: a randomized trial.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2015</year>
+              <volume>163</volume>
+              <fpage>1</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 421 patients with chronic hepatitis C, genotypes 1, 4 and 6, treated with grazoprevir and elbasvir or placebo for 12 weeks, the overall response rate was 95% and serious adverse events occurred in 3% of both groups; late ALT or AST elevations above twice normal occurred in 7 patients and were above 5 times ULN in 4 [1.3%], leading to early discontinuation in 2 patients but not associated with elevations in bilirubin or symptoms).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25909356</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.buti.2016.32">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Buti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Zuckerman</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Lawitz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Calleja</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Hofer</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Grazoprevir, elbasvir, and ribavirin for chronic hepatitis C virus genotype 1 infection after failure of pegylated interferon and ribavirin with an earlier-generation protease inhibitor: final 24-week results from C-SALVAGE.</article-title>
+              <source>Clin Infect Dis</source>
+              <year>2016</year>
+              <volume>62</volume>
+              <fpage>32</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 79 patients with chronic hepatitis C, genotype 1, who had failed previous therapy with peginterferon, ribavirin and a protease inhibitor and who were treated with a 12 week course of grazoprevir, elbasvir and ribavirin, the overall response rate was 96%; no mention of adverse events [see Forns 2015]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26371152</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.rockstroh.2015.e319">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rockstroh</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Katlama</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lalezari</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mallolas</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bloch</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Matthews</surname><given-names>GV</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of grazoprevir (MK-5172) and elbasvir (MK-8742) in patients with hepatitis C virus and HIV co-infection (C-EDGE CO-INFECTION): a non-randomised, open-label trial.</article-title>
+              <source>Lancet HIV</source>
+              <year>2015</year>
+              <volume>2</volume>
+              <issue>8</issue>
+              <fpage>e319</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 218 patients with chronic hepatitis C, genotypes 1 and 4, and HIV coinfection treated with grazoprevir and elbasvir for 12 weeks, the overall response rate was 96%, 2 patients had unexplained elevations in ALT and AST above 5 times ULN, but both resolved without dose modification and without symptoms or jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26423374</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.roth.2015.1537">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Bruchfeld</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Liapakis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Silva</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Monsour</surname><given-names>H</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Martin</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Grazoprevir plus elbasvir in treatment-naive and treatment-experienced patients with hepatitis C virus genotype 1 infection and stage 4-5 chronic kidney disease (the C-SURFER study): a combination phase 3 study.</article-title>
+              <source>Lancet</source>
+              <year>2015</year>
+              <volume>386</volume>
+              <fpage>1537</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 224 patients with chronic hepatitis C, genotype 1, and renal insufficiency who were treated with grazoprevir and elbasvir or placebo for 12 weeks, the response rate to active therapy was 94% and adverse events were similar if not less among antiviral vs placebo treated patients, serious adverse events occurring in 14% vs 17%, deaths in 0.8% vs 2.7% and ALT elevations in 3% vs 38%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26456905</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.european_association_for_study_of_liver.2015.199">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>European Association for Study of Liver</collab>
+</person-group>
+              <article-title>EASL Recommendations on Treatment of Hepatitis C 2015.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>63</volume>
+              <fpage>199</fpage>
+              <lpage>236</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver disease research and academic society).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25911336</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.aasldidsa_hcv_guidance_panel.2015.932">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>AASLD/IDSA HCV Guidance Panel</collab>
+</person-group>
+              <article-title>Hepatitis C guidance: AASLD-IDSA recommendations for testing, managing, and treating adults infected with hepatitis C virus.</article-title>
+              <source>Hepatology</source>
+              <year>2015</year>
+              <volume>62</volume>
+              <fpage>932</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the US liver and infectious diseases research and academic societies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26111063</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Elbasvir/grazoprevir (Zepatier) for hepatitis C.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1489</issue>
+              <fpage>25</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, side effects and costs of the fixed combination of elbasvir and grazoprevir known as Zepatier, shortly after its approval for use in the United States, mentions minor side effects of fatigue, headache and nausea and that ALT elevations occurred in 1% of treated patients and that the agent is contraindicated in patients with cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26938699</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.dore.2016.625">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dore</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Altice</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Litwin</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Dalgard</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Gane</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Shibolet</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Luetkemeyer</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>C-EDGE CO-STAR Study Group. Elbasvir-grazoprevir to treat hepatitis C virus infection in persons receiving opioid agonist therapy: a randomized trial.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2016</year>
+              <volume>165</volume>
+              <fpage>625</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 301 adults with chronic hepatitis C [genotype 1, 4 or 6] who were receiving opioid agonist therapy and were treated with elbasvir and grazoprevir vs placebo for 12 weeks, the SVR rates were 91% vs 0%, and ALT elevations above 3 times baseline occurred in placebo recipients only [2%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27537841</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.sperl.2016.1112">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sperl</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Horvath</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Halota</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Ruiz-Tapiador</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Streinu-Cercel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jancoriene</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Werling</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of elbasvir/grazoprevir and sofosbuvir/pegylated interferon/ribavirin: A phase III randomized controlled trial.</article-title>
+              <source>J Hepatol</source>
+              <year>2016</year>
+              <volume>65</volume>
+              <fpage>1112</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of the efficacy, side effects, drug interactions and costs of grazoprevir and elbasvir shortly after the approval of Zepatier in the US mentions that ALT elevations occur in 1% of patients but are generally transient and asymptomatic, and that Zepatier is considered contraindicated in patients with advanced cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27542322</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.brown.2018.457">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brown</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>H&#x000e9;zode</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zuckerman</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Foster</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Zekry</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Lahser</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>C-SCAPE Study Investigators. Efficacy and safety of 12 weeks of elbasvir &#x000b1; grazoprevir &#x000b1; ribavirin in participants with hepatitis C virus genotype 2, 4, 5 or 6 infection: The C-SCAPE study.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2018</year>
+              <volume>25</volume>
+              <issue>5</issue>
+              <fpage>457</fpage>
+              <lpage>464</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 98 adults with chronic hepatitis C with genotypes 2, 4, 5 and 6 treated with grazoprevir and elbasvir, two had late rises in ALT, but details were not provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29152828</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.gane.2017.895">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gane</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Nahass</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Luketic</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Asante-Appiah</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hwang</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wahl</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy of 12 or 18 weeks of elbasvir plus grazoprevir with ribavirin in treatment-na&#x000ef;ve, noncirrhotic HCV genotype 3-infected patients.</article-title>
+              <source>J Viral Hepat</source>
+              <year>2017</year>
+              <volume>24</volume>
+              <fpage>895</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 patients with chronic hepatitis C, genotype 3, without cirrhosis who were treated with elbasvir, grazoprevir and ribavirin, SVR rates were 45% [12 weeks] and 57% [18 weeks of therapy], and there were no late rises in ALT or AST levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28470815</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.boyd.2017.317">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boyd</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Tracy</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Komatsu</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Harrington</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Viswanathan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sherwat</surname><given-names>A. US</given-names></name>
+</person-group>
+              <article-title>FDA perspective on elbasvir/grazoprevir treatment for patients with chronic hepatitis C virus genotype 1 or 4 infection.</article-title>
+              <source>Clin Drug Investig</source>
+              <year>2017</year>
+              <volume>37</volume>
+              <fpage>317</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of data on efficacy of elbasvir and grazoprevir that supported their FDA approval as therapy of hepatitis C, mentions SVR rates of 92-94% for genotype 1a, 96-99% for genotype 1b, and 96-100% for genotype 4; no discussion of adverse events, ALT elevations or hepatic decompensation during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28102520</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.zeuzem.2018.679">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeuzem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Serfaty</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vierling</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>George</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sperl</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Strasser</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The safety and efficacy of elbasvir and grazoprevir in participants with hepatitis C virus genotype 1b infection.</article-title>
+              <source>J Gastroenterol</source>
+              <year>2018</year>
+              <volume>53</volume>
+              <fpage>679</fpage>
+              <lpage>88</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1070 adults with chronic hepatitis C, genotype 1b, treated with elbasvir and grazoprevir for 12 weeks in 11 prelicensure studies, the overall SVR rate was 97%, and 12 patients [1%] had a late rise in ALT levels to above 5 times ULN, none of whom developed jaundice, but 2 had therapy discontinued early with peak ALT levels of 472 and 703 U/L).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29344726</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.nassar.2018.e6">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nassar</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Abdul-Jawad</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Barnes</surname><given-names>DS</given-names></name>
+</person-group>
+              <article-title>Hepatic failure due to cholestatic hepatitis C in an immunosuppressed patient treated With elbasvir and grazoprevir.</article-title>
+              <source>ACG Case Rep J</source>
+              <year>2018</year>
+              <volume>5</volume>
+              <elocation-id>e6</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(73 year old man with chronic inflammatory demyelinating polyneuropathy on prednisone and intravenous immunoglobulin therapy developed acute hepatitis C with a fulminant cholestatic course was started on elbasvir and grazoprevir, but continued to worsen and died 12 days later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29392153</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.matsumoto.2018.2669">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Matsumoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kikuchi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kajiyama</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Takano</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Mabuchi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Doi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sato</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Development of autoimmune hepatitis during direct-acting antiviral therapy for chronic hepatitis C virus infection.</article-title>
+              <source>Intern Med.</source>
+              <year>2018</year>
+              <volume>57</volume>
+              <fpage>2669</fpage>
+              <lpage>2673</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(81 year old Japanese woman with chronic hepatitis C, genotype 1, with normal liver enzymes was treated with elbasvir and grazoprevir and developed an acute hepatitis 2 months later despite having cleared HCV RNA [bilirubin 0.9 mg/dL, ALT 739 U/L Alk P 378 U/L, ANA positive, IgG 3182 mg/dL] with a biopsy suggestive of autoimmune hepatitis and a subsequent response to prednisone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29709942</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.hern_ndezconde.2019.55">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez-Conde</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Perell&#x000f3;</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gallego</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bonacci</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pascasio</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Romero-G&#x000f3;mez</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effectiveness and safety of elbasvir/grazoprevir therapy in patients with chronic HCV infection: results from the Spanish HEPA-C real-world cohort.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2019</year>
+              <volume>26</volume>
+              <fpage>55</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 588 patients with chronic hepatitis C treated with elbasvir and grazoprevir and enrolled in a national Spanish registry, the SVR rate was 97% and adverse events were reported in 80 patients [14%], leading to discontinuation in three [headache, rash, and psychiatric event], and one patient with pre-existing cirrhosis developed hepatic decompensation that was considered incidental).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30265418</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.jacobson.2019.e00007">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobson</surname><given-names>IM</given-names></name>
+<name name-style="western"><surname>Poordad</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Firpi-Morell</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Everson</surname><given-names>GT</given-names></name>
+<name name-style="western"><surname>Verna</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Bhanja</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hwang</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Elbasvir/grazoprevir in people with hepatitis C genotype 1 infection and Child-Pugh class B cirrhosis: The C-SALT Study.</article-title>
+              <source>Clin Transl Gastroenterol.</source>
+              <year>2019</year>
+              <volume>10</volume>
+              <elocation-id>e00007</elocation-id>
+              <annotation>
+                <p>(<italic toggle="yes">Among 30 patients with chronic hepatitis C and Child&#x02019;s class B cirrhosis treated with elbasvir and grazoprevir for 12 weeks, the SVR rate was 90% and adverse events were common [85%,] but none were considered severe; one patient had a mild transient ALT elevation [&#x0003c;2.5 times ULN] and one patient died of spontaneous bacterial peritonitis and decompensation during follow up of therapy who had no ALT elevations during treatment and had an SVR).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30939489</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.quaranta.2020.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Quaranta</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Rosato</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ferrigno</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Amoruso</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Monti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Di Stefano</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Filomia</surname><given-names>R</given-names></name>
+<etal/>
+<collab>PITER collaborating group</collab>
+</person-group>
+              <article-title>Real-life use of elbasvir/grazoprevir in adults and elderly patients: a prospective evaluation of comedications used in the PITER cohort.</article-title>
+              <source>Antivir Ther.</source>
+              <year>2020</year>
+              <volume>25</volume>
+              <fpage>73</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 356 Italian adults with chronic hepatitis C [15% with cirrhosis] treated with elbasvir and grazoprevir with or without ribavirin for 12 weeks, the SVR rate was 95% and there were no serious adverse events, minor elevations in ALT levels at the end of therapy occurred in 2 subjects [&#x0003c;1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32242526</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.fianchi.2020.1435">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fianchi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ponziani</surname><given-names>FR</given-names></name>
+<name name-style="western"><surname>Pompili</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Primary biliary cholangitis development after hepatitis C virus eradication with direct acting antivirals: a case report and review of the literature.</article-title>
+              <source>Eur Rev Med Pharmacol Sci.</source>
+              <year>2020</year>
+              <volume>24</volume>
+              <fpage>1435</fpage>
+              <lpage>1439</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(84 year old man with chronic hepatitis C but normal liver tests was treated with elbasvir and grazoprevir with rapid and sustained loss of HCV RNA, but rise of liver tests by the end of therapy [bilirubin 0.6 mg/dL, ALT 1.5 times ULN, Alk P 252 U/L rising thereafter to 583 U/L], with positive AMA [1:40] and prompt improvement with ursodiol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32096193</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.hsieh.2020.505">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hsieh</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Hung</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Tung</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>CY</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>TH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real-world experience of elbasvir/grazoprevir in Taiwan: This study was focused on liver and renal adverse effects.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2020</year>
+              <volume>27</volume>
+              <fpage>505</fpage>
+              <lpage>513</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 350 adults with chronic hepatitis C [94% with advanced fibrosis or cirrhosis] treated with elbasvir and grazoprevir at 4 Taiwanese centers, the SVR rate was 95% and severe adverse events arose in 7 patients [2%], including autoimmune hepatitis in one 6 year old woman with rising ALT levels despite HCV RNA negativity and compatible biopsy responding promptly to prednisone and azathioprine; ALT elevations occurred in 28%, 23% were mild, with only 5.2% above 3 times ULN; one patient died of hepatic failure after the end of treatment, and 2 developed a flare of preexisting hepatitis B).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32039536</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.puenpatom.2020.355">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Puenpatom</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Kanwal</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>El-Serag</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Kramer</surname><given-names>JR</given-names></name>
+</person-group>
+              <article-title>Effectiveness of elbasvir/grazoprevir in US veterans with chronic hepatitis C virus genotype 1b infection.</article-title>
+              <source>Infect Dis Ther.</source>
+              <year>2020</year>
+              <volume>9</volume>
+              <issue>2</issue>
+              <fpage>355</fpage>
+              <lpage>365</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3371 adults with chronic hepatitis C [25% with cirrhosis] and genotype 1b treated with elbasvir and grazoprevir for 8, 12 or 16 weeks with or without ribavirin from a national VA database, the SVR rate was 97.5%; no mention of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32297307</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.liu.2020.e21898">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liu</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Jeng</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>YT</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Teng</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>CY</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Incidence and predictors for abnormal liver function during direct-acting antiviral agents in chronic hepatitis C patients.</article-title>
+              <source>Medicine (Baltimore)</source>
+              <year>2020</year>
+              <volume>99</volume>
+              <elocation-id>e21898</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1563 patients with chronic hepatitis C treated with direct acting antiviral agents between 2015-2019 at a single Chinese medical center, the SVR rate was 98% and on treatment ALT elevations arose in 11%, with higher rates in those with cirrhosis, with elevated levels pretreatment, and in those receiving asunaprevir with daclatasvir [40%], compared to Zepatier [12.3%], sofosbuvir-based regimens [11.6%] and Mavyret [5.4%]; on-treatment ALT elevations were not associated with a lower SVR rate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32925725</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.nangia.2020.1222">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nangia</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Vierling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kwo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>DD</given-names></name>
+<name name-style="western"><surname>Klopfer</surname><given-names>SO</given-names></name>
+<name name-style="western"><surname>Robertson</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Haber</surname><given-names>BA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and tolerability of elbasvir/grazoprevir in chronic hepatitis C virus therapy: Integrated analysis from clinical trials.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2020</year>
+              <volume>27</volume>
+              <fpage>1222</fpage>
+              <lpage>1233</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1743 adults with chronic hepatitis C treated with elbasvir and grazoprevir for 12 weeks in 12 clinical trials, the overall adverse event rate was 61%, considered drug related in 28%, serious in 2.1%, and resulting in early discontinuation in 0.7%; most common were headache [11%], fatigue [9%], nasopharyngitis [6%], nausea [5%], diarrhea [9%] and ALT elevations [5%], which were above 5 times ULN in 1.5%; adverse event rates were similar in cirrhotic and non-cirrhotic subjects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32594612</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.sulkowski.2021.2952">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sulkowski</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Moon</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Sherman</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Morelli</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Darling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Muir</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Khalili</surname><given-names>M</given-names></name>
+<etal/>
+<collab>PRIORITIZE Study Team</collab>
+</person-group>
+              <article-title>A pragmatic, randomized controlled trial of oral antivirals for the treatment of chronic hepatitis C: The PRIORITIZE Study.</article-title>
+              <source>Hepatology.</source>
+              <year>2021</year>
+              <volume>74</volume>
+              <fpage>2952</fpage>
+              <lpage>2964</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1128 adults with chronic hepatitis C, genotype 1, treated with either elbasvir and grazoprevir or sofosbuvir and ledipasvir for 12 weeks with or without ribavirin, SVR rates were similar [95% vs 97%], and 58% of subjects developed adverse events [severe in 1.8%], including liver related events in 7 patients [0.6%], one of which was severe: reactivation of hepatitis while on elbasvir and grazoprevir).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34255381</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zepatier.REF.torgersen.2021.1312">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Torgersen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Newcomb</surname><given-names>CW</given-names></name>
+<name name-style="western"><surname>Carbonari</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Rentsch</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Mezochow</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>RL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Protease inhibitor-based direct-acting antivirals are associated with increased risk of aminotransferase elevations but not hepatic dysfunction or decompensation.</article-title>
+              <source>J Hepatol.</source>
+              <year>2021</year>
+              <volume>75</volume>
+              <fpage>1312</fpage>
+              <lpage>1322</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among propensity matched subgroups of 71,391 adults with chronic hepatitis C treated in the Veterans Administration Medical system with oral, direct acting antiviral agents, patients with higher baseline fibrosis scores compared to those with lower scores were more likely to have serum ALT elevations [&#x0003e;200 U/L] [0.5% vs 0.3%] and hepatic decompensation [0.41% vs 0.03%], and ALT elevations were more frequent with Viekira Pak and Technive [1.1-1.2%] compared to Mavyret, Zepatier, Epclusa, and Harvoni [0.11-0.39%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34333102</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Zepatier.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(zepatier%3Cbr%3EGrazoprevir,%20Elbasvir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Zepatier, Elbasvir, Grazoprevir: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=zepatier%3Cbr%3EGrazoprevir,%20Elbasvir">Trials on Zepatier, Elbasvir, Grazoprevir: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

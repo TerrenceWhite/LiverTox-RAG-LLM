@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="HAEAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">HAEAgents</book-part-id>
+      <title-group>
+        <title>Hereditary Angioedema Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Herbalife" document-type="chapter">Herbalife</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="HerionOpium" document-type="chapter">Heroin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="HAEAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="HAEAgents.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Multiple parenterally administered agents are available as prophylaxis or treatment of acute attacks of hereditary angioedema (HAE), including plasma derived and recombinant preparations of the C1-esterase Inhibitor as well as small protein and monoclonal antibody inhibitors of kallikrein and bradykinin activity. While several of these have been linked to transient serum aminotransferase elevations during therapy, the abnormalities are usually mild-to-moderate in severity, transient in duration, and sometimes due to the underlying condition rather than the treatment. None of the agents used to prevent or treat acute attacks of HAE have been convincingly implicated in cases of acute liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="HAEAgents.Background">
+          <title>Background</title>
+          <p>Hereditary angioedema (HAE) is an autosomal dominant condition caused by mutations in the gene that encodes C1-esterase inhibitor and is marked clinically by intermittent episodes of moderate-to-severe swelling and pain affecting the gastrointestinal tract, genitourinary tract, skin, hands, feet, face, or larynx. The attacks are intermittent and unpredictable and can be disabling although usually self-limited, lasting hours or a few days. Most critical are attacks of laryngeal edema that can result in airway compromise and fatal respiratory failure. HAE is caused by mutations in the SERPIN-G1 gene that encodes the C1-esterase inhibitor that is important in regulation of kallikrein and release of bradykinin. Elevated bradykinin levels cause an increase in vascular permeability resulting in the swelling and pain of acute attacks. Several medications have been developed for prophylaxis against or treatment of acute attacks (Table), including human plasma derived (Cinryze, Haegarda, Berinert) and recombinant C1-esterase inhibitors (Ruconest). These require parenteral administration and are only partially effective in preventing attacks. Also available are small protein or polypeptide inhibitors of the kallikrein pathway (Kalbitor: ecallantide, and Firazyr: icatibant) and monoclonal antibodies to kallikrein (Takhzyro: lanadelumab). These therapies are all given parenterally either at the time of an acute attack or chronically to prevent attacks. While sometimes associated with serum aminotransferase elevations, the enzyme abnormalities are generally mild-to-moderate in severity, and more likely due to the underlying acute attack or comorbidities associated with HAE and its chronic therapy.</p>
+          <p><bold>Berotralstat</bold>, an orally available agent used to prevent acute attacks of HAE, is a small molecule inhibitor of bradykinin and was approved for use in preventing acute attacks of HAE in 2020. It is not considered effective as therapy of acute attacks of HAE. It is described in a separate chapter of LiverTox: <related-object link-type="booklink" source-id="livertox" document-id="Berotralstat" document-type="book-part">Berotralstat</related-object>.</p>
+          <p><bold>Danazol</bold> is a weak androgenic steroid that was previously used off-label to decrease HAE attacks, but is now rarely employed.</p>
+        </sec>
+        <sec id="HAEAgents.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p><bold>Cinryze</bold> is the proprietary name for a human plasma derived preparation of C1-esterase inhibitor that was approved for prevention of acute attacks of HAE in 2008 and remains available as a lyophilized powder for reconstitution in single use vials of 500 IU. The recommended dose for adults and adolescents is 1000 IU intravenously every 3 to 4 days (twice weekly). For children ages 6 to 11 years the dose is 500 IU intravenously every 3 to 4 days. Common adverse events include infusion reactions, headache, nausea and vomiting, rash, and fever. Potentially serious but uncommon adverse events include hypersensitivity reactions, an increased risk of arterial and venous thromboembolic events, and the potential of viral transmission because the protein is purified from human plasma that might harbor an infectious agent despite screening of the plasma and the purification process. The product label of Cinryze does not mention ALT elevations or hepatotoxicity and controlled trials and observational studies do not mention hepatic adverse events. Since its approval, there have been no published reports of drug induced liver injury attributed to Cinryze.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p><bold>Haegarda</bold> is the proprietary name for a human plasma derived preparation of C1-esterase inhibitor that was approved for prophylaxis of acute attacks of HAE in 2017 and is available as a lyophilized powder for reconstitution in single use vials of 2000 or 3000 IU. The recommended dose for both adults and children 6 years of age and older is 60 IU/kg subcutaneously twice weekly (every 3 to 4 days). Common adverse events include injection site reactions, hypersensitivity, nasopharyngitis, and dizziness. Potentially serious but uncommon adverse events include severe hypersensitivity reactions, increased risk for arterial and venous thromboembolic events, and the potential risk of viral transmission because the protein is purified from human plasma that might harbor infectious agents despite screening of the plasma and the purification process. The product label of Haegarda does not mention ALT elevations or hepatotoxicity and controlled trials and observational studies do not mention hepatic adverse events. Since its approval and more widescale use there have been no published reports of drug induced liver injury attributed to Haegarda. There have been no reports of transmission of viral agents ascribed to Haegarda thus far.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p><bold>Berinert</bold> is the proprietary name for a human plasma derived preparation of C1-esterase inhibitor that was approved for the treatment of acute attacks of HAE in 2009 and is available as a freeze-dried powder for reconstitution in single use vials of 500 IU. The recommended dose for both adults and children is 20 IU/kg body weight intravenously once for each acute attack. Common adverse events include injection site reactions, dysgeusia, headache, and abdominal discomfort. Potentially serious but uncommon adverse events include severe hypersensitivity reactions, increased risk of arterial and venous thromboembolic events, and the potential risk of viral transmission because the protein is purified from human plasma that might harbor an infectious agent despite screening of the plasma and the purification process. The product label of Berinert does not mention ALT elevations or hepatotoxicity, and controlled trials and observational studies do not mention hepatic adverse events. Since its approval and more widescale use there have been no published reports of drug induced liver injury attributed to Berinert. There have been no reports of transmission of viral agents ascribed to Berinert thus far.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p><bold>Ruconest</bold> is the proprietary name for a recombinant, human C1-esterase inhibitor that was approved for treatment of adults and adolescents with acute attacks of HAE in 2014 and is available as a lyophilized powder for reconstitution in single dose vials of 2100 U. The recombinant protein is produced in transgenic rabbits that secrete the protein in milk. The recommended dose is 50 U per kg body weight if less than 84 kg and 4200 U if body weight is 84 kg or greater given as an intravenous infusion upon recognition of an HAE attack. The first dose should be given by a qualified healthcare professional, but patients can be trained in how to self-administer the infusions so that they can be given with the first evidence of an acute attack. Common adverse events include hypersensitivity reactions, headache, nausea and diarrhea. Potentially serious but uncommon adverse events include severe hypersensitivity reactions, including anaphylaxis, and an increased risk of arterial and venous thromboembolic events. Subsequent to its approval and more widescale use, there have been no published reports of clinically apparent liver injury attributed to Ruconest.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p><bold>Kalbitor</bold> is the proprietary name for ecallantide, a 60 amino acid protein inhibitor of plasma kallikrein that was approved for treatment of acute attacks of HAE adults or children 12 years of age or older in 2009 and is available as a solution for subcutaneous injection in single use glass vials of 10 mg/mL. The recommended dose is 30 mg (three 10 mL subcutaneous injections) which can be repeated once within a 24 hour period, if necessary. The usual regimen is a single injection [more than 90%] and few have required more than two injections. Common adverse events of ecallantide therapy include injection site reactions, hypersensitivity reactions, headache, nausea, diarrhea, fever, and nasopharyngitis. Rare but potentially severe adverse reactions include severe hypersensitivity reactions including anaphylaxis for which reason it should be administered only by a healthcare professional with appropriate medical support to manage anaphylaxis. Because ecallantide is a recombinant protein, it is metabolized by proteolytic enzymes to smaller peptides or amino acids and not by hepatic cytochrome P450 isoenzymes. Hypersensitivity reactions are likely due to non-human source of the recombinant protein. The product label for ecallantide does not mention ALT elevations or hepatotoxicity. Subsequent to the approval of ecallantide, there have been no published reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p><bold>Firazyr</bold> is the proprietary name for icatibant, a synthetic decapeptide inhibitor of the bradykinin B2 receptor that was approved for treatment of adults with acute attacks of HAE in 2011 and is available in solution in prefilled single dose syringes of 30 mg in 3 mL (10 mg/mL). The recommended dose is 30 mg subcutaneously with subsequent injections at least 6 hours apart and no more than 3 injections per day. The usual regimen is a single 30 mg dosage [more than 90%] and few are for more two 30 mg injections. Common adverse events of icatibant therapy include injection site reactions and, less commonly, rash, fever, and dizziness. Icatibant is metabolized by intracellular proteolytic enzymes and does not involve the hepatic cytochrome P450 system. Despite this, elevations in serum aminotransferase levels arose in 4% of patients enrolled in preregistration studies but were usually mild, invariably self-limited in course, not associated with bilirubin elevations, and not requiring dose modification or discontinuation. There were no severe adverse events that were attributed to icatibant therapy. Subsequent to the approval of icatibant in 2011, there have been no published reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p><bold>Takhzyro</bold> is the proprietary name for lanadelumab a human monoclonal antibody to plasma kallikrein that was approved for prophylaxis of acute attacks of HAE in 2018 and is available in solution in a prefilled single dose syringe of 150 mg in 1 mL and 300 mg in 2 mL, as well as in vials of 300 mg in 2 mL. The recommended dose for adults and children above the age of 12 years is 300 mg subcutaneously every 2 or 4 weeks. The dose for children between 2 and 12 years of age is 150 mg subcutaneously every 2 or 4 weeks. Common adverse events include injection site reactions, hypersensitivity, nasopharyngitis, headache, rash, diarrhea, myalgia, and dizziness. Potentially serious but uncommon adverse events include severe hypersensitivity reactions. In preregistration trials in HAE, serum aminotransferase elevations arose in 2% of lanadelumab treated subjects vs 0% of placebo recipients. The aminotransferase elevations were transient and asymptomatic and not accompanied by symptoms or jaundice. Since its approval and more widespread use, there have been no reports of clinically apparent liver injury attributed to lanadelumab. Lanadelumab is described in a separate chapter in LiverTox: <related-object link-type="booklink" source-id="livertox" document-id="Lanadelumab" document-type="book-part">Lanadelumab</related-object>.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <table-wrap id="HAEAgents.Tc" orientation="portrait" position="anchor">
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Agent</th>
+                  <th id="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Brand<break/>Name</th>
+                  <th id="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">Indication</th>
+                  <th id="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">Route</th>
+                  <th id="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">Adult<break/>Dose</th>
+                  <th id="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Frequency</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">C1-Esterase Inhibitor (plasma)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Cinryze</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Prevention</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">iv</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">1000 IU</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Twice weekly</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">C1-Esterase Inhibitor (plasma)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Haegarda</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Prevention</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">sc</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">60 IU/kg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Twice weekly</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">C1-Esterase Inhibitor (plasma)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Berinert</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Treatment</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">iv</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">20 IU/kg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Once</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">C1-Esterase Inhibitor (recomb)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Ruconest</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Treatment</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">iv</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">50 U/kg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Once</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ecallantide (kallikrein inhibitor)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Kalbitor</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Treatment</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">sc</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">30 mg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Once</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Icatibant (bradykinin B2 R inhibitor)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Firazyr</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Treatment</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">sc</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">30 mg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Once</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Berotralstat (kallikrein inhibitor)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Orladeyo</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Prevention</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">oral</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">150 mg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Daily</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lanadelumab (mab kallikrein)</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Takhzyro</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Prevention</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">sc</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">300 mg</td>
+                  <td headers="hd_h_HAEAgents.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Every 2 weeks</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="HAEAgents.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product labels for the various parenteral therapies of acute attacks of HAE do not recommend monitoring of routine liver tests during therapy, but testing HAE patients before starting long term prophylaxis therapy is appropriate because of the frequency of comorbidities including liver disease in patients with HAE. Rise in serum aminotransferase levels during therapy should trigger evaluation for other possible causes. Persistence of unexplained ALT levels above 5 times the ULN or appearance of symptoms of liver injury or jaundice should lead to at least temporary discontinuation and more careful monitoring.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+          <p>Other Drugs for HAE: <related-object link-type="booklink" source-id="livertox" document-id="Berotralstat" document-type="book-part">Berotralstat</related-object>, Danazol, <related-object link-type="booklink" source-id="livertox" document-id="Lanadelumab" document-type="book-part">Lanadelumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="HAEAgents.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Human Plasma Derived C1-Esterase Inhibitor &#x02013; Cinryze&#x000ae;</p>
+        <p>Human Plasma Derived C1-Esterase Inhibitor &#x02013; Haegarda&#x000ae;</p>
+        <p>Human Plasma Derived C1-Esterase Inhibitor &#x02013; Berinert&#x000ae;</p>
+        <p>Human Recombinant C1-Esterase Inhibitor &#x02013; Ruconest&#x000ae;</p>
+        <p>Ecallantide &#x02013; Kalbitor&#x000ae;</p>
+        <p>Icatibant &#x02013; Firazyr&#x000ae;</p>
+        <p>Berotralstat &#x02013; Orladeyo&#x000ae;</p>
+        <p>Lanadelumab &#x02013; Takhzyro&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cinryze">COMPLETE LABELING</ext-link>, Cinryze&#x000ae;</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Haegarda">COMPLETE LABELING</ext-link>, Haegarda&#x000ae;</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Berinert">COMPLETE LABELING</ext-link>, Berinert&#x000ae;</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ruconest">COMPLETE LABELING</ext-link>, Ruconest&#x000ae;</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Kalbitor">COMPLETE LABELING</ext-link>, Kalbitor&#x000ae;</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Firazyr">COMPLETE LABELING</ext-link>, Firazyr&#x000ae;</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="HAEAgents.CHEMICAL_FORMULAS_AND_STRUCTUR">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="HAEAgents.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_HAEAgents.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_HAEAgents.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_HAEAgents.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_HAEAgents.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">C1-Esterase Inhibitor</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>80295-38-1</p>
+</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Protein</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ecallantide</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135263125">460738-38-9</ext-link>
+</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C305-H442-N88-O91-S8</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135263125" document-id-type="sid" document-type="summary" object-id="135263125" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Icatibant</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135029601">138614-30-9</ext-link>
+</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C59-H89-N19-O13-S</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135029601" document-id-type="sid" document-type="summary" object-id="135029601" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lanadelumab</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127378">1426055-14-2</ext-link>
+</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_HAEAgents.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="HAEAgents.SELECTED_BIBLIOGRAPHY">
+        <title>SELECTED BIBLIOGRAPHY</title>
+        <p>References updated: 20 June 2024</p>
+        <p>Abbreviations: HAE, hereditary angioedema; ULN, upper limit of the normal range.</p>
+        <ref-list id="HAEAgents.SELECTED_BIBLIOGRAPHY.reflist0">
+          <ref id="HAEAgents.REF.skidgel.2018">
+            <mixed-citation publication-type="book">Skidgel RA. Histamine, bradykinin, and their antagonists. In, Brunton LL, Hilal-Dandan R, Knollmann BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 711-26.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2009. Kalbitor (Ecallantide). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/125277s000MedrR_P1.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/125277s000MedrR_P1.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Summary of the data on the safety and efficacy of ecallantide submitted in support of the application for approval as treatment of acute attacks of HAE, discusses tolerance in 187 patients with HAE among whom 10 [4%] had anaphylactic reactions, often after repeated doses but none were fatal; no mention or discussion of ALT elevations or hepatic adverse events).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF3">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2017. Takhzyro (Lanadelumab). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761090Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761090Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Summary of the data on the safety and efficacy of lanadelumab submitted in support of the application for its approval for prevention of attacks of HAE, mentions that ALT elevations above 3 times ULN arose in 5 of 84 [6%] subjects treated with lanadelumab, arising after 1 month of treatment with no clear pattern which were invariably transient and not associated with symptoms or jaundice, although leading to early discontinuation in one patient [peak ALT 142 U/L] with obesity and pre-existent minor ALT and AST elevations).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF4">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2017. Firazyr (Icatibant). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022150Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022150Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Summary of the data on the safety and efficacy of icatibant submitted in support of the application for its approval for therapy of acute attacks of HAE, mentions that there were no clinically significant changes in laboratory values from baseline [pretreatment] to the end of the 14-day observation period; one subject had an ALT elevation to 246 U/L before receiving icatibant for a second attack of HAE, which ultimately resolved after therapy of the attack).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF5">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2020. Orladeyo (Berotralstat). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214094Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214094Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Summary of the data on the safety and efficacy of berotralstat, submitted in support of the application for approval as means of prevention of acute attacks of hereditary angioedema [HAE], mentions that ALT elevations were more frequent with placebo [10%] than berotralstat [2.4% to 5.1%], although one patient on drug developed ALT elevations of above 5 times the upper limit of normal [ULN] and discontinued treatment with prompt resolution; no serious hepatic adverse events or liver injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.levy.2010.523">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Levy</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Lumry</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>McNeil</surname>
+<given-names>DL</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Campion</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Horn</surname>
+<given-names>PT</given-names></string-name>, <string-name name-style="western"><surname>Pullman</surname>
+<given-names>WE</given-names></string-name>. <article-title>EDEMA4: a phase 3, double-blind study of subcutaneous ecallantide treatment for acute attacks of hereditary angioedema.</article-title>
+<source>Ann Allergy Asthma Immunol.</source>
+<year>2010</year>;<volume>104</volume>:<fpage>523</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 96 patients with HAE treated with ecallantide or placebo for a moderate-to-severe acute attack, mean symptom scores improved more quickly with drug than placebo and adverse events were less frequent with ecallantide [17% vs 40%] that included nausea, headache, dizziness and abdominal pain, symptoms typical of attacks of HAE, while &#x0201c;no clinically significant changes were seen regarding&#x02026;clinical laboratory test results&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">20568386</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.sheffer.2011.153">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sheffer</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Campion</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Levy</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Horn</surname>
+<given-names>PT</given-names></string-name>, <string-name name-style="western"><surname>Pullman</surname>
+<given-names>WE</given-names></string-name>. <article-title>Ecallantide (DX-88) for acute hereditary angioedema attacks: integrated analysis of 2 double-blind, phase 3 studies.</article-title>
+<source>J Allergy Clin Immunol.</source>
+<year>2011</year>;<volume>128</volume>:<fpage>153</fpage>-<lpage>159.e4</lpage>.<annotation><p><italic toggle="yes">(Combined analysis of two controlled trials of ecallantide vs placebo in 168 patients with an acute attack of HAE found similar rates of total and severe adverse events in the two groups [36% vs 35% and 3.0% vs 3.7%], and no patient had an anaphylactic or severe hypersensitivity reaction and there were no &#x0201c;clinically relevant changes in&#x02026; hepatic function&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">21481442</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.lumry.2011.529">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lumry</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Levy</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Potter</surname>
+<given-names>PC</given-names></string-name>, <string-name name-style="western"><surname>Farkas</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Moldovan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Riedl</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized placebo-controlled trial of the bradykinin B<sub>2</sub> receptor antagonist icatibant for the treatment of acute attacks of hereditary angioedema: the FAST-3 trial.</article-title>
+<source>Ann Allergy Asthma Immunol.</source>
+<year>2011</year>;<volume>107</volume>:<fpage>529</fpage>-<lpage>37</lpage>.<annotation><p><italic toggle="yes">(Among 88 patients with an acute attack of HAE treated with icatibant [30 mg] or placebo subcutaneously, the time to improvement and resolution of attacks was shortened by icatibant, while adverse event rates were lower than with placebo [41% vs 52%] and there were no serious adverse events or discontinuations; one patient in each group had a transient ALT elevation but there were &#x0201c;no clinically related changes in laboratory safety&#x0201d; findings).</italic></p></annotation><pub-id pub-id-type="pmid">22123383</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.zuraw.2012.938.e1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zuraw</surname>
+<given-names>BL</given-names></string-name>, <string-name name-style="western"><surname>Kalfus</surname>
+<given-names>I</given-names></string-name>. <article-title>Safety and efficacy of prophylactic nanofiltered C1-inhibitor in hereditary angioedema.</article-title>
+<source>Am J Med.</source>
+<year>2012</year>;<volume>125</volume>:<fpage>938.e1</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Open label study of Cinryze [human plasma C1 inhibitor: 1000 IU] given every 3 to 7 days for up to 2.6 years in 146 patients with HAE resulted in a 94% reduction in numbers of acute attacks with mostly mild-to-moderate adverse events, none resulting in discontinuation and no serious adverse events attributed to therapy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22800873</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.ba_.2013.1452">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ba&#x0015f;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Greve</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hoffmann</surname>
+<given-names>TK</given-names></string-name>, <string-name name-style="western"><surname>Reshef</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Aberer</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kivity</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Repeat treatment with icatibant for multiple hereditary angioedema attacks: FAST-2 open-label study.</article-title>
+<source>Allergy.</source>
+<year>2013</year>;<volume>68</volume>:<fpage>1452</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 54 patients in a controlled trial of icatibant for acute attacks of HAE enrolled in a open-label extension study, repeat treatments [30 mg subcutaneously] yielded similarly shortened times to resolution and while all patients had injection site reactions, there were no clinically relevant changes in safety laboratory measures).</italic></p></annotation><pub-id pub-id-type="pmid">24111645</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.riedl.2014.163">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Riedl</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Reshef</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lumry</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Moldovan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Farkas</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>; <collab>Study 1310 Investigators</collab>. <article-title>Recombinant human C1-esterase inhibitor relieves symptoms of hereditary angioedema attacks: phase 3, randomized, placebo-controlled trial.</article-title>
+<source>Ann Allergy Asthma Immunol.</source>
+<year>2014</year>;<volume>112</volume>:<fpage>163</fpage>-<lpage>169.e1</lpage>.<annotation><p><italic toggle="yes">(Among 75 patients with an acute attack of HAE treated with recombinant C1-esterase inhibitor [Ruconest: 50 IU/kg to maximum of 4200 IU] or placebo, the time to resolution of symptoms was shorter with Ruconest while adverse events were less with treatment and &#x0201c;there were no clinically significant changes from baseline&#x0201d; in any biochemistry values).</italic></p></annotation><pub-id pub-id-type="pmid">24468257</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.riedl.2016.963">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Riedl</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Bygum</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lumry</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Magerl</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Busse</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Craig</surname>
+<given-names>T</given-names></string-name>, <etal>et al.</etal>; <collab>Berinert Registry investigators</collab>. <article-title>Safety and usage of C1-inhibitor in hereditary angioedema: Berinert Registry Data.</article-title>
+<source>J Allergy Clin Immunol Pract.</source>
+<year>2016</year>;<volume>4</volume>:<fpage>963</fpage>-<lpage>71</lpage>.<annotation><p><italic toggle="yes">(Among 296 patients with HAE treated with subcutaneous C1-esterase inhibitor [Berinert] enrolled in a prospective registry, 29% had adverse events but most were considered unrelated to therapy including two episodes of thrombotic events, and there were no instances of anaphylaxis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27286778</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.longhurst.2017.1131">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Longhurst</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Cicardi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Craig</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Bork</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Grattan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Baker</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>HH</given-names></string-name>, <article-title>Ret al; COMPACT Investigators. Prevention of hereditary angioedema attacks with a subcutaneous C1 inhibitor.</article-title>
+<source>N Engl J Med.</source>
+<year>2017</year>;<volume>376</volume>:<fpage>1131</fpage>-<lpage>1140</lpage>.<annotation><p><italic toggle="yes">(Among 90 patients enrolled in a randomized controlled crossover trial of 16 treatment periods of subcutaneous C1-esterase inhibitor [Haegarda] vs placebo for prophylaxis against acute attacks of HAE, numbers of attacks decreased by 76% with 40 IU/kg and 90% with 60 IU/kg given twice weekly, while the overall adverse event rates were similar to that with placebo; one patient on the higher dose developed mild ALT elevations but was also on minocycline).</italic></p></annotation><pub-id pub-id-type="pmid">28328347</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.riedl.2017.1595">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Riedl</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Grivcheva-Panovska</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Moldovan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Baker</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>WH</given-names></string-name>, <string-name name-style="western"><surname>Giannetti</surname>
+<given-names>BM</given-names></string-name>, <string-name name-style="western"><surname>Reshef</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Recombinant human C1 esterase inhibitor for prophylaxis of hereditary angio-oedema: a phase 2, multicentre, randomised, double-blind, placebo-controlled crossover trial.</article-title>
+<source>Lancet.</source>
+<year>2017</year>;<volume>390</volume>(<issue>10102</issue>):<fpage>1595</fpage>-<lpage>1602</lpage>.<annotation><p><italic toggle="yes">(Among 32 patients with HAE treated with recombinant C1-esterase inhibitor [Ruconest: 50 IU/kg] vs placebo once or twice weekly in a cross-over trial of4 week periods, numbers of acute attacks were 2.7 per month with twice weekly, 4.4 per month with once weekly, and 7.2 per month with placebo, while adverse events were mostly headaches, nasopharyngitis, and fatigue and there were no treatment related serious adverse events; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28754491</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF15">
+            <mixed-citation publication-type="journal"><article-title>Haegarda--a subcutaneous C1 esterase inhibitor for prevention of hereditary angioedema.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2018</year>;<volume>60</volume>(<issue>1541</issue>):<fpage>39</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of Haegarda, shortly after its approval for use in prevention of attacks of HAE, mentions adverse reactions of hypersensitivity reactions and injection site reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29485978</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.craig.2019.1793">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Craig</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Zuraw</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Longhurst</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Cicardi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bork</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Grattan</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Katelaris</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>; <article-title>COMPACT Investigators. Long-term outcomes with subcutaneous C1-inhibitor replacement therapy for prevention of hereditary angioedema attacks.</article-title>
+<source>J Allergy Clin Immunol Pract.</source>
+<year>2019</year>;<volume>7</volume>:<fpage>1793</fpage>-<lpage>1802.e2</lpage>.<annotation><p><italic toggle="yes">(Among 126 patients in a long term extension study of 40 or 60 IU/kg of subcutaneous C1-esterase inhibitor [Haegarda] given twice weekly, the acute attack rate was 0.4 per month and adverse events were largely injection site reactions, headache, and nasopharyngitis; there were no therapy related serious adverse reactions and no anaphylaxis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30772477</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.ayg_renp_rs_n.2019.553">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ayg&#x000f6;ren-P&#x000fc;rs&#x000fc;n</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Soteres</surname>
+<given-names>DF</given-names></string-name>, <string-name name-style="western"><surname>Nieto-Martinez</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Christensen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Jacobson</surname>
+<given-names>KW</given-names></string-name>, <string-name name-style="western"><surname>Moldovan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Van Leerberghe</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>A randomized trial of human C1 inhibitor prophylaxis in children with hereditary angioedema.</article-title>
+<source>Pediatr Allergy Immunol.</source>
+<year>2019</year>;<volume>30</volume>:<fpage>553</fpage>-<lpage>561</lpage>.<annotation><p><italic toggle="yes">(A randomized crossover trial of two doses [500 or 1000 U] of human plasma derived C1-esterase inhibitor[Cinryze] intravenously twice weekly for prophylaxis of HAE in 12 children ages 6 to 11 years demonstrated a 71% and 85% decrease in acute attacks with mild symptoms of fatigue and irritability but no serious adverse events or discontinuations; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30968444</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.levy.2020.136">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Levy</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Caballero</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Hussain</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Reshef</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Anderson</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Baker</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Schwartz</surname>
+<given-names>LB</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term efficacy of subcutaneous C1 inhibitor in pediatric patients with hereditary angioedema.</article-title>
+<source>Pediatr Allergy Immunol Pulmonol.</source>
+<year>2020</year>;<volume>33</volume>:<fpage>136</fpage>-<lpage>141</lpage>.<annotation><p><italic toggle="yes">(Among 10 children with HAE treated with human plasma derived C1-esterase inhibitor [Haegarda: 40 or 60 IU/kg] subcutaneously twice weekly for 1-2 years, all 10 responded with decreases in acute attacks [by 76% to 100%; to 0.11 per month], adverse events being injection site reactions in 3, but there were no serious adverse events, no thrombotic events and no discontinuations).</italic></p></annotation><pub-id pub-id-type="pmid">32953229</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF19">
+            <mixed-citation publication-type="journal"><article-title>Lanadelumab (Takhzyro) for prevention of hereditary angioedema.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>
+<month>Mar</month>
+<day>8</day>;<volume>63</volume>(<issue>1619</issue>):<fpage>e41</fpage>-<lpage>e42</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of lanadelumab shortly after its approval for prevention of attacks of HAE, mentions injection site reactions, headache, rash, myalgia, and dizziness, but states that no serious adverse events occurred and makes no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33755657</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF20">
+            <mixed-citation publication-type="journal"><article-title>Berotralstat (Orladeyo) for prevention of hereditary angioedema.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>(<issue>1629</issue>):<fpage>e7</fpage>-<lpage>e8</lpage>.<annotation><p><italic toggle="yes">(Concise review of HAE, the mechanism of action of berotralstat, clinical efficacy, safety, and costs shortly after its approval in the US for prevention of acute attacks of HAE, mentions common adverse events of abdominal pain, vomiting, diarrhea, back pain, and reflux, and the possibility of prolongation of the QTc interval, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34544111</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.banerji.2022.979">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Banerji</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Johnston</surname>
+<given-names>DT</given-names></string-name>, <string-name name-style="western"><surname>Lumry</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Magerl</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Martinez-Saguer</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>; <collab>HELP OLE Investigators</collab>. <article-title>Long-term prevention of hereditary angioedema attacks with lanadelumab: The HELP OLE Study.</article-title>
+<source>Allergy.</source>
+<year>2022</year>;<volume>77</volume>:<fpage>979</fpage>-<lpage>990</lpage>.<annotation><p><italic toggle="yes">(Among 212 patients followed for up to 30 months on long term prophylactic therapy against acute attacks of HAE with lanalumab [30 mg every two weeks], the acute attack rate was reduced by 87% compared to baseline, and there were no drug related serious adverse events or deaths, 10 patients developed ALT elevations above 3 times ULN, but all were self-limited in course and not associated with symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">34287942</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.maurer.2022.1048">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Aberer</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Caballero</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Bouillet</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Grumach</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Botha</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Andresen</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>; <collab>IOS Study Group</collab>. <article-title>The Icatibant Outcome Survey: 10&#x02009;years of experience with icatibant for patients with hereditary angioedema.</article-title>
+<source>Clin Exp Allergy.</source>
+<year>2022</year>;<volume>52</volume>:<fpage>1048</fpage>-<lpage>1058</lpage>.<annotation><p><italic toggle="yes">(Among 549 patients with HAE treated with icatibant [30 mg subcutaneously] for 5995 acute attacks in a prospective postmarketing survey, self-administration of the injections was associated with a more rapid resolution of symptoms while adverse events were generally mild-to-moderate and mostly injection site reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35861129</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="HAEAgents.REF.riedl.2024.505">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Riedl</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Soteres</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Sublett</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Desai</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Tomita</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Collis</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Bernstein</surname>
+<given-names>JA</given-names></string-name>; <article-title>APeX-S Study Investigators. Hereditary angioedema outcomes in US patients switched from injectable long-term prophylactic medication to oral berotralstat.</article-title>
+<source>Ann Allergy Asthma Immunol.</source>
+<year>2024</year>;<volume>132</volume>:<fpage>505</fpage>-<lpage>511.e1</lpage>.<annotation><p><italic toggle="yes">(Among 34 US patients with HAE who were switched from injectable long term prophylaxis [with either a plasma derived C1-esterase inhibitor or lanadelumab] to oral berotralstat monotherapy, the monthly attack rate was 0.29 to 0.58 while mild-to-moderate gastrointestinal adverse events occurred in 35% but there were no serious adverse events; ALT elevations and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">38006972</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="HAEAgents.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=hereditary+angioedema+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Drugs for HAE: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=hereditary%20angioedema">Trials on Drugs for HAE: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

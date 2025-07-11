@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Acoramidis" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Acoramidis</book-part-id>
+      <title-group>
+        <title>Acoramidis</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>2</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Aclidinium" document-type="chapter">Aclidinium</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Acrivastine" document-type="chapter">Acrivastine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Acoramidis.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Acoramidis.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Acoramidis is transthyretin stabilizer used for the treatment of adults with the cardiomyopathy of both wild-type and hereditary transthyretin-mediated amyloidosis to reduce cardiovascular morbidity and mortality. Acoramidis has been associated with minor liver test abnormalities during therapy but has not been linked instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Acoramidis.Background">
+          <title>Background</title>
+          <p>Acoramidis (a&#x02019; co ram&#x0201d; i dis ) is a stabilizer of transthyretin, a serum protein made in the liver whose major function is transport of vitamin A and thyroxine. Rare mutations in the transthyretin gene result in misfolding of the protein and accumulation of large amyloid deposits of transthyretin molecules, most prominently in peripheral nerves and the heart. Patients with hereditary transthyretin amyloidosis typically present with polyneuropathy or autonomic dysfunction followed by cardiomyopathy, which if untreated is usually fatal within 5 to 12 years. Rarely, wild-type transthyretin also can result in overproduction and deposition of misfolded transthyretin in amyloid clusters. Acoramidis causes stabilization of the transthyretin molecule in the full tetrameric form such that it is less likely to break into monomers that can misfold and create amyloid clusters. In preregistration open label studies, acoramidis increased stable transthyretin levels and led to improvements all-cause mortality and decrease in cardiovascular hospitalizations. Acoramidis was the second transthyretin stabilizer to be approved for use in the United States as treatment of the cardiomyopathy of wild-type and hereditary transthyretin-mediated amyloidosis in adults in 2024 (the first being tafamidis in 2019). Acoramidis is available in tablets of 356 mg under the brand name Attruby, the recommended dose being 712 mg (2 tablets) twice daily. In clinical trials of acoramidis, side effects were uncommon and similar in frequency overall to those of placebo. Slightly more frequent with acoramidis therapy was diarrhea (23% vs 8%) and upper abdominal pain (5.5% vs 1.4%). Mild and reversable serum creatinine levels were also increased with acoramidis therapy. Transthyretin functions as a carrier and transporter of vitamin A and thyroxine, and therapy with acoramidis can alter serum concentrations of these molecules but does not appear to affect thyroid function or vitamin A status.</p>
+        </sec>
+        <sec id="Acoramidis.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the registration trial of acoramidis, transient mild ALT and AST elevations were not uncommon, but elevations in ALT above 3 times ULN were infrequent and no more common with acoramidis than placebo (0.9% vs 0.5%), most of which were attributed to heart failure or its treatment. No patient required drug discontinuation because of liver test abnormalities and none developed clinically apparent liver injury or elevations in serum aminotransferases accompanied by jaundice. Since its approval, clinical experience with acoramidis has been limited, but there have been no published case reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Acoramidis.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which acoramidis might cause liver injury is not clear. Acoramidis is a small molecule that binds to transthyretin and is metabolized by glucuronidation. Acoramidis is not metabolized by P450 enzymes, but drug levels may be decreased by glucuronosyltransferase inducers and strong CYP3A inducers which increase glucuronidation.</p>
+        </sec>
+        <sec id="Acoramidis.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on acoramidis therapy are unlikely to be due to the drug therapy and rarely require dose modification or discontinuation. Persistent ALT or AST elevations arising during therapy should lead to evaluation of their possible causes. There is no information on cross sensitivity to liver injury among the various other therapies for transthyretin-associated amyloidosis.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+          <p>Drugs for Hereditary Transthyretin Amyloidosis: <related-object link-type="booklink" source-id="livertox" document-id="Eplontersen" document-type="book-part">Eplontersen</related-object>, Inotersen, <related-object link-type="booklink" source-id="livertox" document-id="Patisiran" document-type="book-part">Patisiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tafamidis" document-type="book-part">Tafamidis</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vutrisiran" document-type="book-part">Vutrisiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Acoramidis.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Acoramidis &#x02013; Attruby&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Acoramidis">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Acoramidis.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Acoramidis.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Acoramidis.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Acoramidis.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Acoramidis.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Acoramidis.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Acoramidis.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Acoramidis</td>
+                <td headers="hd_h_Acoramidis.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://348351269">1446711-81-4</ext-link>
+</td>
+                <td headers="hd_h_Acoramidis.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H17-FN2-O3</td>
+                <td headers="hd_h_Acoramidis.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="348351269" document-id-type="sid" document-type="summary" object-id="348351269" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Acoramidis.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 February 2025</p>
+        <ref-list id="Acoramidis.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Acoramidis.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of acoramidis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Acoramidis.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216540Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216540Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with the product labels and integrated review of the data on efficacy and safety provided by the sponsor in support of approval of acoramidis as therapy of transthyretin amyloid cardiomyopathy mentions that &#x0201c;hepatic injury&#x0201d; arose in 2.1% of acoramidis vs 3.3% of placebo recipients, and ALT elevations above 3 times ULN arose in 0.9% vs 0.5%).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Acoramidis.REF.maurer.2022.s23">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Overview of current and emerging therapies for amyloid transthyretin cardiomyopathy.</article-title>
+<source>Am J Cardiol.</source>
+<year>2022</year>;<volume>185</volume>
+<supplement>Suppl 1</supplement>:<fpage>S23</fpage>-<lpage>S34</lpage>.<annotation><p><italic toggle="yes">(Review of approaches to therapy of amyloid transthyretin cardiomyopathy including the transthyretin stabilizers [tafamidis, acoramidis] and transthyretin gene silencing or knockdown agents [patisiran, vutrisiran, inotersen, eplontersen, CRISPR-Cas9]; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36371281</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Acoramidis.REF.razvi.2024.e012135">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Razvi</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Judge</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Martinez-Naharro</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ioannou</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Venneri</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Patel</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>JD</given-names></string-name>, <etal>et al.</etal>
+<article-title>Effect of acoramidis on myocardial structure and function in transthyretin amyloid cardiomyopathy: insights from the ATTRibute-CM Cardiac Magnetic Resonance (CMR) Substudy.</article-title>
+<source>Circ Heart Fail.</source>
+<year>2024</year>;<volume>17</volume>:<elocation-id>e012135</elocation-id>.<annotation><p><italic toggle="yes">(Among 52 adults with transthyretic amyloid cardiomyopathy being treated in a placebo controlled trial who underwent repeat cardiac magnetic resonance imaging, those receiving acoramidis showed favorable trends in improved or stable left ventricular mass and function).</italic></p></annotation><pub-id pub-id-type="pmid">39465243</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Acoramidis.REF.gillmore.2024.132">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gillmore</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Judge</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Cappelli</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Pavia</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Gibbs</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Grogan</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <article-title>ATTRibute-CM Investigators. Efficacy and safety of acoramidis in transthyretin amyloid cardiomyopathy.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>;<volume>390</volume>:<fpage>132</fpage>-<lpage>142</lpage>.<annotation><p><italic toggle="yes">(Among 632 adults with transthyretin amyloid cardiomyopathy treated with acoramidis [800 mg] or placebo twice daily for up to 30 months, &#x0201c;a significant treatment effect for acoramidis in a four-step hierarchical analysis&#x0201d; was found and adverse event rates were similar in the two groups [all 98% vs 98%, serious 55% vs 65%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38197816</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Acoramidis.REF.judge.2025.601">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Judge</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Alexander</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Ambardekar</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Cappelli</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Garc&#x000ed;a-Pav&#x000ed;a</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term efficacy and safety of acoramidis in ATTR-CM: initial report from the open-label extension of the ATTRibute-CM Trial.</article-title>
+<source>Circulation.</source>
+<year>2025</year>;<volume>151</volume>(<issue>9</issue>):<fpage>601</fpage>-<lpage>611</lpage>.<annotation><p><italic toggle="yes">(Among 389 patients with transthyretin amyloid cardiomyopathy who participated in the large, placebo-controlled registration trial of acoramidis for 30 months [Gillmore 2024] who were subsequently enrolled in an open label extension study, cardiovascular mortality and hospitalization rates in those on continuous therapy from month 0 to 42 remained below those who were crossed over to acoramidis at month 30, and there were &#x0201c;no clinically important safety issues newly identified&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39556242</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Acoramidis.REF.ruberg.2024.778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ruberg</surname>
+<given-names>FL</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Cardiac amyloidosis due to transthyretin protein: a review.</article-title>
+<source>JAMA</source>. <year>2024</year>;<volume>331</volume>:<fpage>778</fpage>-<lpage>791</lpage>.<annotation><p><italic toggle="yes">(Review of the epidemiology, pathophysiology, clinical presentation, diagnosis, and treatment of transthyretin amyloid cardiomyopathy; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">38441582</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Acoramidis.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Acoramidis/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Acoramidis: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Acoramidis">Trials on Acoramidis: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

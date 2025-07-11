@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Avapritinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Avapritinib</book-part-id>
+      <title-group>
+        <title>Avapritinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Avanafil" document-type="chapter">Avanafil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Avelumab" document-type="chapter">Avelumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Avapritinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Avapritinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Avapritinib is a tyrosine kinase receptor inhibitor that targets mutant forms of several genes (KIT, PDGFRA) involved in gastrointestinal stromal tumors which are often found in refractory cases. Serum aminotransferase elevations arise in a small proportion of patients treated with the highest doses of avapritinib, but episodes of clinically apparent liver injury have not been reported with its use.</p>
+        </sec>
+        <sec id="Avapritinib.Background">
+          <title>Background</title>
+          <p>Avapritinib (a&#x0201d; va prit&#x02019; tin ib) is an orally available, tyrosine kinase inhibitor that targets activation loop mutants of platelet-derived growth factor receptor alpha (PDGFRA), which are often found in patients with resistant gastrointestinal stromal tumors (GIST) and overexpression of KIT which is often present in systemic mastocytosis. Disregulation of these genes results in constitutive kinase activity and uncontrolled growth and proliferation. Avapritinib has potent specificity against gain of function mutants KIT D816V and PDGRA D842V that are resistant to standard tyrosine kinase inhibitors such as imatinib, sunitinib, and regorafenib, the first-, second-, and third-line therapies of GIST. Avapritinib was granted accelerated approval in the United States in 2020 for adults with unresectable to metastatic GIST with documented PDGFRA alpha exon 18 mutations including D842V, the first drug to be approved for this indication. Indications were subsequently expanded to adults with advanced systemic mastocytosis and indolent systemic mastocytosis. Avapritinib is available in tablets of 25, 50, 100, 200 and 300 mg under the brand name Ayvakit. The recommended oral dose varies by indication, being 300 mg once daily for GIST, 200 mg once daily advanced mastocytosis, but only 25 mg once daily for indolent mastocytosis. Therapy should continue until disease progression or unacceptable toxicity. Side effects are dose related, but at the highest dose are common, arising in almost all patients. In preregistration clinical trials, dose interruptions or reductions were needed in 57% and permanent discontinuations in 9% of patients being treated with avapritinib for GIST. Common side effects include anemia, neutropenia, diarrhea, nausea and vomiting, abdominal pain, fatigue, cognitive impairment, dizziness, headache, rash, hair color changes, alopecia, dyspnea, hyperbilirubinemia, weight loss and insomnia. Uncommon but potentially severe adverse events include major cognitive effects, intracranial hemorrhage, photosensitivity, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Avapritinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of avapritinib in patients with GIST harboring the PDGFRA D842V mutation, ALT elevations arose in 20% of patients but were usually self-limited and mild. ALT elevations above 5 times the upper limit of normal (ULN) were uncommon, being found in 1% to 3% of treated patients. In the open label trials supporting the approval of avapritinib, there were no instances of clinically apparent liver injury, hepatic failure or deaths from liver injury. Avapritinib is associated with frequent elevations in serum bilirubin, but the increases are largely indirect and resolve rapidly with discontinuation.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Avapritinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from avapritinib is unknown, but the pattern of abnormalities suggests some degree of direct toxicity. Avapritinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+        </sec>
+        <sec id="Avapritinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for avapritinib does not recommend regular monitoring of liver tests, but if serum aminotransferase levels above 5 times the upper limit of normal are identified, therapy should be held until levels fall into the normal or near normal range, at which point avapritinib therapy can be resumed at the same or a reduced dose as clinically indicated and with continued monitoring. Cross sensitivity to liver injury is uncommon among the antineoplastic small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of avapritinib with other antineoplastic tyrosine kinase receptor inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs for Gastrointestinal Stromal Tumors: <related-object link-type="booklink" source-id="livertox" document-id="Imatinib" document-type="chapter">Imatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Regorafenib" document-type="chapter">Regorafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sunitinib" document-type="chapter">Sunitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Avapritinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Avapritinib &#x02013; Ayvakit&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Avapritinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Avapritinib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Avapritinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Avapritinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Avapritinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Avapritinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Avapritinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Avapritinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Avapritinib</td>
+                <td headers="hd_h_Avapritinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://348351325">1703793-34-3</ext-link>
+</td>
+                <td headers="hd_h_Avapritinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C26-H27-F-N10</td>
+                <td headers="hd_h_Avapritinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="348351325" document-id-type="sid" document-type="summary" object-id="348351325" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Avapritinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 September 2023</p>
+        <p>Abbreviations: GIST, gastrointestinal stromal tumor; KIT, a classical proto-oncogene that encodes a tyrosine kinase receptor that responds to stem cell factor; PDGFRA, platelet-derived growth factor receptor alpha.</p>
+        <ref-list id="Avapritinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Avapritinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss avapritinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212608Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212608Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of avapritinib; describes the adverse events observed in a pooled safety population of 335 patients that included edema in 74%, bilirubin elevations 65%, fatigue 57%, nausea 56%, cognitive impairment 43%, diarrhea 36%, abdominal pain 32%, anemia 49%, hair color change 22%, rash 20%, dyspnea 15%, and ALT elevations 20% which were above 5 times ULN in only 1% [n=3], and there were no discontinuations for ALT elevations and no instances of clinically apparent liver injury, hepatic failure, or fatalities due to liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.heinrich.2020.935">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heinrich</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Jones</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>von Mehren</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sch&#x000f6;ffski</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Serrano</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>
+<given-names>YK</given-names></string-name>, <string-name name-style="western"><surname>Cassier</surname>
+<given-names>PA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Avapritinib in advanced PDGFRA D842V-mutant gastrointestinal stromal tumour (NAVIGATOR): a multicentre, open-label, phase 1 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2020</year>;<volume>21</volume>:<fpage>935</fpage>-<lpage>946</lpage>.<annotation><p><italic toggle="yes">(Among 56 patients with advanced GIST and PDGFRA D842V-mutations treated with avapritinib in a phase 1 open-label trial, the overall response rate was 88% [complete responses in 9%] and almost all patients had adverse events including nausea in 69%, fatigue 41%, anorexia 38%, hair color change e25%, anemia 22%, and neutropenia 19%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32615108</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.dhillon.2020.433">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Avapritinib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>433</fpage>-<lpage>439</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of avapritinib shortly after its approval for use in advanced or metastatic GIST in the U.S.; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32100250</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.deangelo.2021.2183">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>DeAngelo</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Radia</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>George</surname>
+<given-names>TI</given-names></string-name>, <string-name name-style="western"><surname>Robinson</surname>
+<given-names>WA</given-names></string-name>, <string-name name-style="western"><surname>Quiery</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Drummond</surname>
+<given-names>MW</given-names></string-name>, <string-name name-style="western"><surname>Bose</surname>
+<given-names>P</given-names></string-name>, <article-title>Heet al. Safety and efficacy of avapritinib in advanced systemic mastocytosis: the phase 1 EXPLORER trial.</article-title>
+<source>Nat Med.</source>
+<year>2021</year>;<volume>27</volume>:<fpage>2183</fpage>-<lpage>2191</lpage>.<annotation><p><italic toggle="yes">(Among 86 patients with advanced systemic mastocytosis enrolled in a phase 1 trial of avapritinib, the overall response rate was 75% and complete remission rate 36% while adverse events were common and included intracranial bleeds in 9 patients, largely in those with preexisting thrombocytopenia [n=7]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34873347</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.gotlib.2021.2192">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Gotlib</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reiter</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Radia</surname>
+<given-names>DH</given-names></string-name>, <string-name name-style="western"><surname>Deininger</surname>
+<given-names>MW</given-names></string-name>, <string-name name-style="western"><surname>George</surname>
+<given-names>TI</given-names></string-name>, <string-name name-style="western"><surname>Panse</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Vannucchi</surname>
+<given-names>AM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of avapritinib in advanced systemic mastocytosis: interim analysis of the phase 2 PATHFINDER trial.</article-title>
+<source>Nat Med.</source>
+<year>2021</year>;<volume>27</volume>:<fpage>2192</fpage>-<lpage>2199</lpage>.<annotation><p><italic toggle="yes">(Among 62 patients with advanced systemic mastocytosis treated in a phase 2 open-label trial excluding those with platelet count below 50,000/uL, the overall response rate was 75% and side effects were common, but there was only one case with intracranial hemorrhage and no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34873345</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.jones.2021.132">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jones</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Serrano</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>von Mehren</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>George</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Heinrich</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>
+<given-names>YK</given-names></string-name>, <string-name name-style="western"><surname>Sch&#x000f6;ffski</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Avapritinib in unresectable or metastatic PDGFRA D842V-mutant gastrointestinal stromal tumours: Long-term efficacy and safety data from the NAVIGATOR phase I trial.</article-title>
+<source>Eur J Cancer.</source>
+<year>2021</year>;<volume>145</volume>:<fpage>132</fpage>-<lpage>142</lpage>.<annotation><p><italic toggle="yes">(Among 250 patients [56 with PDGFRA D824V mutant GIST] treated in phase 1 trials of avapritinib, treatment related adverse events occurred in 98% of patients and included cognitive effects in 46%, intracranial bleeding in 3%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33465704</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.avapritinib_ayvakit_for_gist.2021.23">
+            <mixed-citation publication-type="journal"><collab>Avapritinib (Ayvakit) for GIST</collab>. <source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>(<issue>1617</issue>):<fpage>23</fpage>-<lpage>24</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, adverse effects, drug interactions, and costs of avapritinib shortly after its approval in the U.S. mentions that serious adverse effects occur in 52% of patients and include anemia [9%] and intracranial hemorrhage [1%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33647006</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.reiter.2022.5750">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reiter</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Schwaab</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>DeAngelo</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Gotlib</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Deininger</surname>
+<given-names>MW</given-names></string-name>, <string-name name-style="western"><surname>Pettit</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Alvarez-Twose</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of avapritinib in previously treated patients with advanced systemic mastocytosis.</article-title>
+<source>Blood Adv.</source>
+<year>2022</year>;<volume>6</volume>:<fpage>5750</fpage>-<lpage>5762</lpage>.<annotation><p><italic toggle="yes">(Among 53 patients with advanced systemic mastocytosis treated with avapritinib [200 mg daily] for a median of 15 months, the overall response rate was 71% and adverse events arose in most patients resulting in dose reductions in 57% and including thrombocytopenia [32%], periorbital edema [30%], diarrhea [21%], cognitive disorders [15%], change in hair color [15%], and two instances of subdural hematoma; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35640224</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.cavazos.2022.5630">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cavazos</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Eswaran</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Maidlow</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Keklik Karadag</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Idilman</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Idilman</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver fibrosis and its response to avapritinib in 2 patients with systemic mastocytosis.</article-title>
+<source>Blood Adv.</source>
+<year>2022</year>;<volume>6</volume>:<fpage>5630</fpage>-<lpage>5633</lpage>.<annotation><p><italic toggle="yes">(Two patients with advanced systemic mastocytosis were found to have advanced hepatic fibrosis or cirrhosis as shown by elastography and liver biopsy, but had normal liver tests and imaging and tolerated therapy with avapritinib, the hepatic stiffness improving with therapy and without any worsening of liver tests suggesting that avapritinib does not worsen hepatic fibrosis and may improve mastocytosis-associated liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">35839085</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.li.2023.187">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Li</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Deng</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Zheng</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Cai</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of avapritinib in treating unresectable or metastatic gastrointestinal stromal tumors: a phase I/II, open-label, multicenter study.</article-title>
+<source>Oncologist.</source>
+<year>2023</year>;<volume>28</volume>:<fpage>187</fpage>-<lpage>e114</lpage>.<annotation><p><italic toggle="yes">(Among 56 Chinese patients with unresectable or metastatic GIST treated with avapritinib [300 mg daily] in phase 1 and 2 clinical trials, the overall response rate was 75% in those with PDGFRA D842V mutations, while adverse events arose in 98% of patients including ALT elevations in 14% which were above 5 times ULN in only 1 patient).</italic></p></annotation><pub-id pub-id-type="pmid">36477870</pub-id></mixed-citation>
+          </ref>
+          <ref id="Avapritinib.REF.pardanani.2023.1097">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pardanani</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Systemic mastocytosis in adults: 2023 update on diagnosis, risk stratification and management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1097</fpage>-<lpage>1116</lpage>.<annotation><p><italic toggle="yes">(Review of the clinical features, diagnosis, histology, molecular findings, classification and management of systemic mastocytosis including both advanced and indolent forms of the disease condition).</italic></p></annotation><pub-id pub-id-type="pmid">37309222</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Avapritinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Avapritinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Avapritinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Avapritinib">Trials on Avapritinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

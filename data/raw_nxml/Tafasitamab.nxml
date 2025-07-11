@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tafasitamab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tafasitamab</book-part-id>
+      <title-group>
+        <title>Tafasitamab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>5</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tafamidis" document-type="chapter">Tafamidis</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tafenoquine" document-type="chapter">Tafenoquine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tafasitamab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tafasitamab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tafasitamab is a cytotoxic monoclonal antibody against CD19 that is used in combination with other antineoplastic agents to treat adults with relapsed or refractory diffuse large B cell lymphoma. Tafasitamab therapy is associated with a low rate of mild serum aminotransferase elevations during therapy but has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Tafasitamab.Background">
+          <title>Background</title>
+          <p>Tafasitamab (ta&#x0201d; fa sit&#x02019; a mab) is Fc modified, humanized, cytolytic monoclonal antibody against CD19 that is used to treat adults with advanced, relapsed or refractory B cell malignancies, including diffuse large B cell lymphoma (DLBCL). Tafasitamab binds to CD19 which is expressed on pre- and mature B lymphocytes inducing antibody dependent cytolysis or apoptosis. Tafasitamab treatment lowers peripheral B cells, and chronic therapy is effective in inducing remissions in patients with relapsed or refractory B cell lymphomas. Tafasitamab in combination with lenalidomide was approved in the United States in 2020 for treatment of adults with relapsed or refractory DLBCL who are not candidates for autologous hematopoietic stem cell transplant. Tafasitamab is available as a powder for reconstitution in single use vials of 200 mg under the brand name Monjuvi. The recommended dose regimen is 12 mg/kg intravenously on 2 to 5 days of each 28 day course; for the initial 28 day cycle on days 1, 4, 8, 15, and 22, for cycles 2 and 3 on days 1, 8, 15 and 22, and for subsequent cycles on days 1 and 15. Tafasitamab should be administered with daily oral lenalidomide for no more than 12 cycles, but can be continued as monotherapy thereafter. Therapy should be continued until disease progression or unacceptable toxicity occur. Premedication with antihistamines, H2 blockers, or glucocorticoids is recommended. The combination of tafasitamab and lenalidomide has many adverse events that require monitoring and careful management. Common adverse events include neutropenia, anemia, thrombocytopenia, fatigue, cough, pyrexia, peripheral edema, respiratory tract infections, diarrhea, constipation, nausea, decreased appetite, and rash. Serious adverse events include severe myelosuppression, severe infections, infusion site reactions, and embryo-fetal toxicity. Tafasitamab should be administered only by health care providers with knowledge and experience with myelosuppressive immunotherapy of cancer.</p>
+        </sec>
+        <sec id="Tafasitamab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In small, preregistration open label trials, serum ALT elevations occurred in 11% of tafasitamab treated subjects but were generally transient and mild, and there were no instances of ALT elevations above 5 times the upper limit of normal (ULN) or clinically apparent liver injury with symptoms or jaundice. Since the approval of tafasitamab in 2020, there have been no case reports of clinically apparent liver injury attributed to its use. Monoclonal antibodies to CD19 have been used for other indications and similarly have been free of liver injury. These B cell directed monoclonal antibodies, however, are considered possible causes of reactivation of hepatitis B and prescreening for hepatitis B status is usually recommended. At least one case of reactivation of hepatitis B was reported in the follow up of the open label registration trial of tafasitamab and lenalidomide therapy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury except as a result of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Tafasitamab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of the mild liver test abnormalities during tafasitamab therapy are not clearly known but appear to be related to the underlying condition, other neoplastic agents (lenalidomide for instance) or comorbidities. Tafasitamab can cause hypersensitivity reactions including urticaria and rash, and liver injury might be a part of the immunoallergic reaction. Cases of reactivation of hepatitis B were not observed during prelicensure studies and should not occur with adequate prescreening and prophylaxis against reactivation.</p>
+        </sec>
+        <sec id="Tafasitamab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for tafasitamab does not recommend monitoring of routine liver tests during therapy. Nevertheless, if detected, de novo elevations of serum aminotransferase levels above 5 times the ULN or baseline values should lead to temporary discontinuation and evaluation for other possible causes of liver injury, restarting therapy only when values return to normal or near normal and with careful subsequent monitoring. Screening of candidates for therapy for evidence of hepatitis B (for HBsAg and anti-HBc) is appropriate and, if positive, consultation for advice on the need for prophylaxis or prospective monitoring.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tafasitamab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tafasitamab &#x02013; Monjuvi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Monoclonal Antibodies</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tafasitamab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tafasitamab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tafasitamab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tafasitamab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tafasitamab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tafasitamab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tafasitamab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tafasitamab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tafasitamab</td>
+                <td headers="hd_h_Tafasitamab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127365">1422527-84-1</ext-link>
+</td>
+                <td headers="hd_h_Tafasitamab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Tafasitamab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tafasitamab.SELECTED_BIBLIOGRAPHY">
+        <title>SELECTED BIBLIOGRAPHY</title>
+        <p>References updated: 14 May 2024</p>
+        <p>Abbreviations: DLBCL, diffuse large B cell lymphoma; ULN, upper limit of the normal range.</p>
+        <ref-list id="Tafasitamab.SELECTED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tafasitamab.REF1">
+            <mixed-citation publication-type="other">FDA. Clinical Review. 2020.</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF2">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761163Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761163Orig1s000MultidisciplineR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(FDA Summary of the data the safety and efficacy of tafasitamab, submitted in support of the application for approval as therapy of diffuse large B cell lymphoma [DLBCL] mentions that tafasitamab had &#x0201c;acceptable safety&#x0201d; and ALT elevations arose in 11.1% of 222 treated patients in the safety cohort, but that all elevations were less than 5 times ULN, and no patient developed clinically apparent liver injury attributable to the monoclonal antibody).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.jurczak.2018.1266">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Zinzani</surname>
+<given-names>PL</given-names></string-name>, <string-name name-style="western"><surname>Gaidano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Goy</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Provencio</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Nagy</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Robak</surname>
+<given-names>T</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase IIa study of the CD19 antibody MOR208 in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma.</article-title>
+<source>Ann Oncol.</source>
+<year>2018</year>;<volume>29</volume>:<fpage>1266</fpage>-<lpage>1272</lpage>.<annotation><p><italic toggle="yes">(Among 92 adults with relapsed or refractory non-Hodgkin lymphoma treated with tafasitamab, the objective response rate and duration of response was highest in patients with DLBCL, and while adverse events were common, they were largely infusion reactions, myelosuppression, and infections; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29444231</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.salles.2020.978">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Salles</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Duell</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez Barca</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Tournilhac</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Liberati</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Nagy</surname>
+<given-names>Z</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tafasitamab plus lenalidomide in relapsed or refractory diffuse large B-cell lymphoma (L-MIND): a multicentre, prospective, single-arm, phase 2 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2020</year>;<volume>21</volume>:<fpage>978</fpage>-<lpage>988</lpage>.<annotation><p><italic toggle="yes">(Among 81 adults with relapsed or refractory DLBCL treated with tafasitamab and lenalidomide in 28 day cycles for a median of 13 months, the objective response rate was 60% [complete 43%] and adverse events arose in all patients, which were serious in 51%, comprising largely myelosuppression and infections, but the authors state that therapy &#x0201c;was well tolerated&#x0201d;; aminotransferase elevations arose in 3% but no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">32511983</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.hoy.2020.1731">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoy</surname>
+<given-names>SM</given-names></string-name>. <article-title>Tafasitamab: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1731</fpage>-<lpage>1737</lpage>.<annotation><p><italic toggle="yes">(Review of the history of development, mechanism of action, pharmacology, clinical efficacy, and safety of tafasitamab shortly after its approval for use in the United States, mentions that virtually all recipients develop adverse events that are serious in half, but that tafasitamab has a &#x0201c;manageable safety profile&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32946059</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.delgado.2021.e666">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Delgado</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Papadouli</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Sarac</surname>
+<given-names>SB</given-names></string-name>, <string-name name-style="western"><surname>Moreau</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Hovgaard</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Gisselbrecht</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Enzmann</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>The European Medicines Agency review of tafasitamab in combination with lenalidomide for the treatment of adult patients with relapsed/refractory diffuse large B-cell lymphoma.</article-title>
+<source>Hemasphere.</source>
+<year>2021</year>;<volume>5</volume>:<elocation-id>e666</elocation-id>.<annotation><p><italic toggle="yes">(Summary of the European Medicines Agency review of tafasitamab for DLBCL mentions that adverse events arose in all 222 patients exposed to tafasitamab in the safety cohort, but that there were no cases of drug induced liver injury &#x0201c;and only 5 cases of elevated liver enzymes, all considered unrelated to therapy&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">34805769</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF7">
+            <mixed-citation publication-type="other">In brief: tafasitamab (Monjuvi) for diffuse large B-cell. Med Lett Drugs Ther. 20237;65(1682):e133.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of tafasitamab shortly after its approval for use in relapsed or refractory DLBCL; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.belada.2023.1348">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Belada</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Kopeckova</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Bergua Burgues</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Stevens</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Andr&#x000e9;</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Persona</surname>
+<given-names>EP</given-names></string-name>, <string-name name-style="western"><surname>Pichler</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and efficacy of tafasitamab with or without lenalidomide added to first-line R-CHOP for DLBCL: the phase 1b First-MIND study.</article-title>
+<source>Blood.</source>
+<year>2023</year>;<volume>142</volume>:<fpage>1348</fpage>-<lpage>1358</lpage>.<annotation><p><italic toggle="yes">(Among 83 adults with untreated DLBCL treated with open label tafasitamab and R-CHOP with or without lenalidomide, the overall response rate was slightly higher with lenalidomide [82% vs 76%] as was the serious adverse event rate [51% vs 42%]; no mention of ALT elevations of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37369099</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.qualls.2023.2327">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Qualls</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Lambert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Caimi</surname>
+<given-names>PF</given-names></string-name>, <string-name name-style="western"><surname>Merrill</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Pullarkat</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Godby</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Bond</surname>
+<given-names>DA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tafasitamab and lenalidomide in large B-cell lymphoma: real-world outcomes in a multicenter retrospective study.</article-title>
+<source>Blood.</source>
+<year>2023</year>;<volume>142</volume>:<fpage>2327</fpage>-<lpage>2331</lpage>.<annotation><p><italic toggle="yes">(Among 178 patients with DLBCL treated with tafasitamab and lenalidomide in routine practice at 11 institutions, the overall response rate was only 31% and progression-free survival only 1.9 months, while adverse event rates were similar including aminotransferase elevations in 1.3%).</italic></p></annotation><pub-id pub-id-type="pmid">37738563</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafasitamab.REF.duell.2024.553">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Duell</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Abrisqueta</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Andre</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gaidano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gonzales-Barca</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Kalakonda</surname>
+<given-names>N</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tafasitamab for patients with relapsed or refractory diffuse large B-cell lymphoma: final 5-year efficacy and safety findings in the phase II L-MIND study.</article-title>
+<source>Haematologica.</source>
+<year>2024</year>;<volume>109</volume>:<fpage>553</fpage>-<lpage>566</lpage>.<annotation><p><italic toggle="yes">(A final 5 year follow up on the open label registration trial of tafasitamab and lenalidomide for relapsed or refractory DLBCL [Salles 2020] demonstrated an objective response rate of 58%, complete response rate of 41%, progression-free survival of 11.6 months and overall survival of 33.5 months with no new safety signals and no mention of ALT elevations or hepatotoxicity, but one case of reactivation of hepatitis B was reported for the initial year of tafasitamab and lenalidomide therapy; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">37646664</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tafasitamab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tafasitamab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tafasitamab: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tafasitamab">Trials on Tafasitamab: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

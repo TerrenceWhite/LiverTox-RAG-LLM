@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="TrastuzumabDeruxtecam" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">TrastuzumabDeruxtecam</book-part-id>
+      <title-group>
+        <title>Trastuzumab Deruxtecan</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>1</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trastuzumab" document-type="chapter">Trastuzumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="TrastuzumabEmtansine" document-type="chapter">Trastuzumab Emtansine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="TrastuzumabDeruxtecam.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="TrastuzumabDeruxtecam.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Trastuzumab deruxtecan (also known as fam-trastuzumab deruxtecan) is a monoclonal antibody to the human epidermal growth factor receptor 2 (HER2) conjugated to a cytotoxic topoisomerase inhibitor, which is used in the therapy of refractory, unresectable or metastatic breast cancer. Trastuzumab deruxtecan has been implicated in causing instances of transient, serum enzyme elevations, but has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="TrastuzumabDeruxtecam.Background">
+          <title>Background</title>
+          <p>Trastuzumab (tras tooz&#x02019; ue mab) deruxtecan (de rux&#x0201d; tee can) is a humanized monoclonal antibody to the human epidermal growth factor receptor 2 (HER2) conjugated to deruxtecan, a cytotoxic inhibitor of topoisomerase which is used in the therapy of advanced or metastatic forms of cancer. HER2 is over-expressed in a proportion of cancers including breast, gastric, and non-small cell lung cancer. The monoclonal antibody is linked by a cleavable tetrapeptide molecule to deruxtecan, a topoisomerase inhibitor. Binding of trastuzumab conjugate to the HER2 receptor leads to its uptake by HER2-expressing cancer cells, where intracellular lysosomal enzymes cleave the conjugate releasing the topoisomerase inhibitor which causes growth arrest and apoptotic cell death. Trastuzumab was shown to decrease recurrences and prolong survival in women with HER2 positive breast cancer who had failed to respond to conventional chemotherapy including other anti-HER2-based agents. Trastuzumab was approved for use in the United States in 2019 and current indications include unresectable or metastatic breast, gastric, and non-small cell lung cancers (NSCLC) that express HER2 and have failed previous therapies. Trastuzumab deruxtecan is available in single use vials of 100 mg lyophilized powder under the brand name Enhertu. The recommended dose varies by indication, but is generally 5.4 or 6.4 mg/kg given intravenously every three weeks until disease progression or intolerability. Side effects are common and include fatigue, nausea and vomiting, diarrhea, constipation, decreased appetite, myalgia, headache, fever, cough, dyspnea, infusion reactions, neutropenia, anemia and thrombocytopenia. Uncommon but serious adverse events include severe infusion reactions, interstitial lung disease, neutropenic fever, infections, QTc prolongation, heart failure, and embryo-fetal toxicity. Pretreatment with antiemetics before each infusion is recommended as is monitoring for neutropenia, left ventricular dysfunction, and symptoms of pulmonary toxicity. Trastuzumab deruxtecan should be prescribed and administered only by health care workers with expertise and experience in cancer chemotherapy and management of its adverse events.</p>
+        </sec>
+        <sec id="TrastuzumabDeruxtecam.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large registration trials, therapy with trastuzumab deruxtecan was linked to serum aminotransferase elevations in 34% to 53% of patients, but in most studies levels rose to above 5 times the upper limit of normal (ULN) in only 1% to 2% of treated participants. Furthermore, no instances of acute liver injury or deaths from hepatic failure were reported. Since its initial approval and more expanded indications and widespread use, trastuzumab deruxtecan has continued to be linked to appreciable rates of serum aminotransferase elevations during therapy, but has not been convincingly linked to cases of clinically apparent liver injury.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="TrastuzumabDeruxtecam.Mechanism_of_Injur">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations during trastuzumab deruxtecan therapy has not been fully defined, but is most likely due to the topoisomerase rather than the monoclonal antibody of the drug-antibody conjugate.</p>
+        </sec>
+        <sec id="TrastuzumabDeruxtecam.Outcome_and_Manage">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations attributed to trastuzumab alone and to trastuzumab deruxtecan have been self-limited and not associated with symptoms or jaundice. There is no information on possible cross sensitivity to the injury among different monoclonal antibodies or therapies directed at epidermal growth factor receptors. In contrast, the monoclonal conjugate trastuzumab emtansine has been linked to acute liver injury with symptoms and jaundice, probably representing sinusoidal obstruction syndrome. More marked serum aminotransferase elevations (above 5 times ULN) arising during therapy with trastuzumab deruxtecan and trastuzumab alone can generally be managed by temporary dose interruption or dose reduction.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Monoclonal Antibody Conjugates: Benlantamab Mafodotin, Brentuximab Vedotin, Enfortumab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Sacituzumab Govitecan, Tisotumab Vedotin, Trastuzumab Emtansine</p>
+        </sec>
+      </sec>
+      <sec id="TrastuzumabDeruxtecam.PRODUCT_INFORMATIO">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Trastuzumab Deruxtecan &#x02013; Enhertu&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Trastuzumab%20Deruxtecan">COMPLETE LABELING</ext-link> (Trastuzumab Deruxtecan)</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="TrastuzumabDeruxtecam.CHEMICAL_FORMULA_A">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="TrastuzumabDeruxtecam.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Trastuzumab</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Trastuzumab">180288-69-1</ext-link>
+</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Trastuzumab<break/>Deruxtecan</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128090">1826843-81-5</ext-link>
+</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody with<break/>Microtubular Inhibitor</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">SID: 381128090</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Trastuzumab<break/>Emtansine</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135353969">1018448-65-1</ext-link>
+</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody with<break/>Microtubular Inhibitor</td>
+                <td headers="hd_h_TrastuzumabDeruxtecam.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">SID: 135353969</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="TrastuzumabDeruxtecam.ANNOTATED_BIBLIOGR">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 January 2024</p>
+        <p>Abbreviations: CT, computerized tomography; HER2, human epidermal growth factor receptor 2; MR, magnetic resonance; NRH, nodular regenerative hyperplasia.</p>
+        <ref-list id="TrastuzumabDeruxtecam.ANNOTATED_BIBLIOGR.reflist0">
+          <ref id="TrastuzumabDeruxtecam.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive drugs mentions that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761139Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761139Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website medical review of data on safety and efficacy provided by the sponsor in support of the 2019 approval of trastuzumab deruxtecan as therapy of refractory metastatic HER2 breast cancer, mentions that ALT elevations occurred in 10% to 38% of patients during therapy which were above 5 times ULN in 1% or less, and that there were no hepatic serious adverse events or deaths from hepatic failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.cobleigh.1999.2639">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cobleigh</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Vogel</surname>
+<given-names>CL</given-names></string-name>, <string-name name-style="western"><surname>Tripathy</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Robert</surname>
+<given-names>NJ</given-names></string-name>, <string-name name-style="western"><surname>Scholl</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Fehrenbacher</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Wolter</surname>
+<given-names>JM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Multinational study of the efficacy and safety of humanized anti-HER2 monoclonal antibody in women who have HER2-overexpressing metastatic breast cancer that has progressed after chemotherapy for metastatic disease.</article-title>
+<source>J Clin Oncol</source>
+<year>1999</year>; <volume>17</volume>: <fpage>2639</fpage>-<lpage>48</lpage>.<annotation><p><italic toggle="yes">(Among 222 women with HER2 overexpressing metastatic breast cancer who were treated with anti-HER2 monoclonal antibody once weekly, one developed an anaphylactoid reaction and 20 [9%] had grade 3, and 7 [3%] grade 4 hepatic adverse events [mostly ALT or Alk P elevations], usually in those with progressive disease involving the hepatobiliary system; no mention of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">10561337</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.mu_oz.2007.2045">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mu&#x000f1;oz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Carrera</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ferreiro</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>de Lobera</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Ma&#x000f1;&#x000e9;</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>L&#x000f3;pez-Vivanco</surname>
+<given-names>G</given-names></string-name>. <article-title>Reversible liver toxicity with adjuvant trastuzumab for localized breast cancer.</article-title>
+<source>Ann Oncol</source>
+<year>2007</year>; <volume>18</volume>: <fpage>2045</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(31 year old woman with breast cancer developed marked ALT elevations [1403 U/L] after first infusion of trastuzumab [8 mg/kg], which resolved within 4 weeks and did not recur with subsequent lower dose regimens, although minor ALT continued to occur thereafter).</italic></p></annotation><pub-id pub-id-type="pmid">18083694</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.srinivasan.2008.1497">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Srinivasan</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Parsa</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>CY</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>JA</given-names></string-name>. <article-title>Trastuzumab-induced hepatotoxicity.</article-title>
+<source>Ann Pharmacother</source>
+<year>2008</year>; <volume>42</volume>: <fpage>1497</fpage>-<lpage>501</lpage>.<annotation><p><italic toggle="yes">(54 year old woman with breast cancer on paclitaxel and trastuzumab developed progressive increases in ALT, starting with first dose and resulting in discontinuation after 8th cycle, falling to normal thereafter).</italic></p></annotation><pub-id pub-id-type="pmid">18780811</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.verma.2012.1783">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Verma</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Miles</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Gianni</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Krop</surname>
+<given-names>IE</given-names></string-name>, <string-name name-style="western"><surname>Welslau</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Baselga</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Pegram</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <collab>EMILIA Study Group</collab>. <article-title>Trastuzumab emtansine for HER2-positive advanced breast cancer.</article-title>
+<source>N Engl J Med</source>
+<year>2012</year>; <volume>367</volume>: <fpage>1783</fpage>-<lpage>91</lpage>.<annotation><p><italic toggle="yes">(Among 991 women with HER2 expressing breast cancer who had failed previous therapy who received either trastuzumab emtansine or lapatinib with capecitabine, overall survival was improved with the antibody conjugate, but ALT levels were elevated in 17%, AST in 22%, and platelets decreased in 28% of patients; 3 patients stopped therapy early because of aminotransferase elevations, but no patient had both bilirubin and marked ALT elevations and there were no liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">23020162</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.vucicevic.2013.146">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vucicevic</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Carey</surname>
+<given-names>EJ</given-names></string-name>, <string-name name-style="western"><surname>Karlin</surname>
+<given-names>NJ</given-names></string-name>. <article-title>Trastuzumab-induced hepatotoxicity: a case report.</article-title>
+<source>Breast Care (Basel)</source>
+<year>2013</year>; <volume>8</volume>: <fpage>146</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(60 year old woman was found to have serum enzyme elevations without symptoms 41 days after finishing 6 months [8 cycles] of trastuzumab and while receiving trastuzumab exemestane [bilirubin 1.0 mg/dL, ALT 91 rising to 523 U/L, Alk P 100 rising to 231 U/L, INR 0.94], resolving incompletely 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">24419371</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF10">
+            <mixed-citation publication-type="journal"><article-title>Ado-trastuzumab emtansine (Kadcyla) for HER2-positive metastatic breast cancer.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2013</year>; <volume>55</volume> (<issue>1425</issue>): <fpage>75</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Concise summary of mechanism of action, efficacy, safety and costs of ado-trastuzumab emtansine, a conjugate of trastuzumab with a microtubule inhibitor mentions that increased aminotransferase levels occurred in more than 25% of patients and serious, sometimes fatal, liver toxicity has been reported).</italic></p></annotation><pub-id pub-id-type="pmid">24662957</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.force.2016.e9">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Force</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Saxena</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Schneider</surname>
+<given-names>BP</given-names></string-name>, <string-name name-style="western"><surname>Storniolo</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Sledge</surname>
+<given-names>GW</given-names>
+<suffix>Jr</suffix></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Vuppalanchi</surname>
+<given-names>R</given-names></string-name>. <article-title>Nodular regenerative hyperplasia after treatment with trastuzumab emtansine.</article-title>
+<source>J Clin Oncol</source>
+<year>2016</year>; <volume>34</volume> (<issue>3</issue>): <fpage>e9</fpage>-<lpage>12</lpage>.<annotation><p><italic toggle="yes">(Two women, ages 66 and 50 years, with metastatic breast cancer presented with evidence of portal hypertension [ascites, varices, low platelet counts] 16 months after starting cyclic therapy with ado-trastuzumab emtansine [bilirubin normal, ALT 48 and ~120 U/L, Alk P 400 U/L and not given], biopsy showing nodular regenerative hyperplasia and both patients improving when the agent was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">24778392</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.miller.2014.1437">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Miller</surname>
+<given-names>KD</given-names></string-name>, <string-name name-style="western"><surname>Di&#x000e9;ras</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Harbeck</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Andre</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Mahtani</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Gianni</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Albain</surname>
+<given-names>KS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase IIa trial of trastuzumab emtansine with pertuzumab for patients with human epidermal growth factor receptor 2-positive, locally advanced, or metastatic breast cancer.</article-title>
+<source>J Clin Oncol</source>
+<year>2014</year>; <volume>32</volume>: <fpage>1437</fpage>-<lpage>44</lpage>.<annotation><p><italic toggle="yes">(Among 64 women with HER2 positive metastatic breast cancer [HER2 positive] treated with the combination of pertuzumab and trastuzumab emtansine [every 3 weeks], common side effects were fatigue [61%], nausea [50%] and diarrhea [39%] and "hepatic dysfunction" in 38% with ALT levels above 5 times ULN in 9%).</italic></p></annotation><pub-id pub-id-type="pmid">24733796</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.ishizuna.2014.417">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ishizuna</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Ninomiya</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ogawa</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Tsuji</surname>
+<given-names>E</given-names></string-name>. <article-title>Hepatotoxicity induced by trastuzumab used for breast cancer adjuvant therapy: a case report.</article-title>
+<source>J Med Case Rep</source>
+<year>2014</year>; <volume>8</volume>: <fpage>417</fpage>.<annotation><p><italic toggle="yes">(60 year old Japanese woman with breast cancer developed liver test abnormalities after a second cycle of trastuzumab [bilirubin normal, ALT 246 U/L, Alk P 553 U/L] which recurred one year later after readministration of a single infusion [bilirubin normal, ALT 102 U/L, Alk P 377 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">25491149</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.yan.2016.480">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yan</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Endo</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shen</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Rotstein</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Dokmanovic</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Mohan</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Mukhopadhyay</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>Ado-trastuzumab emtansine targets hepatocytes via human epidermal growth factor receptor 2 to induce hepatotoxicity.</article-title>
+<source>Mol Cancer Ther</source>
+<year>2016</year>; <volume>15</volume>: <fpage>480</fpage>-<lpage>90</lpage>.<annotation><p><italic toggle="yes">(In cultured human and mouse hepatocytes and in mouse models, trastuzumab emtansine can cause hepatocellular injury after binding to cell surface HER2 receptors and uptake into hepatocytes).</italic></p></annotation><pub-id pub-id-type="pmid">26712117</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.liu.2017.191">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>ZY</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>JN</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>QA</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>Y</given-names></string-name>. <article-title>Liver toxicity of chemotherapy and targeted therapy for breast cancer patients with hepatitis virus infection.</article-title>
+<source>Breast</source>
+<year>2017</year>; <volume>35</volume>: <fpage>191</fpage>-<lpage>195</lpage>.<annotation><p><italic toggle="yes">(Among 835 patients with breast cancer receiving targeted therapy, rates of ALT elevations were slightly higher in the 52 with HBsAg [35%] and the 21 with anti-HCV [43%] than controls [28%], as were rates of chemotherapy disruption for liver test abnormalities [9.6% and 9.5% vs 5%], but no patient developed viral reactivation, although the proportion of those with HBsAg who were receiving antiviral prophylaxis was not provided).</italic></p></annotation><pub-id pub-id-type="pmid">28800545</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.hidalgoblanco.2018.111">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hidalgo-Blanco</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Aguirresarobe-Gil de San Vicente</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Aresti</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>de Miguel</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Cabriada-Nuno</surname>
+<given-names>JL</given-names></string-name>. <article-title>Pseudocirrhosis in metastatic breast cancer.</article-title>
+<source>Gastroenterol Hepatol</source>
+<year>2018</year>; <volume>41</volume>: <fpage>111</fpage>-<lpage>3</lpage>.<annotation><p><italic toggle="yes">(39 year old woman with HER2 positive breast cancer received a 1 year course of trastuzumab at the end of which she had normal ALT levels and CT appearance of the liver, but 18 months later she presented with abnormalities of both suggestive of pseudocirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">28187872</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.fujii.2019.18">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fujii</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Doi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Tsukiyama</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Hattori</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Ohya</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Shiroma</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Morio</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sinusoidal obstruction syndrome post-treatment with trastuzumab emtansine (T-DM1) in advanced breast cancer.</article-title>
+<source>Int Cancer Conf J</source>
+<year>2019</year>; <volume>9</volume>: <fpage>18</fpage>-<lpage>23</lpage>.<annotation><p><italic toggle="yes">(Two women with metastatic HER2 positive breast cancer developed noncirrhotic portal hypertension 2.5 and 4.5 years of trastuzumab emtansine therapy, in both of whom liver biopsy showed sinusoidal obstruction syndrome and disordered hepatic plates).</italic></p></annotation><pub-id pub-id-type="pmid">31950012</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.modi.2020.610">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Modi</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Saura</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yamashita</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>SB</given-names></string-name>, <string-name name-style="western"><surname>Tamura</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Andre</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>; <article-title>DESTINY-Breast01 Investigators. Trastuzumab deruxtecan in previously treated HER2-positive breast cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>382</volume>:<fpage>610</fpage>-<lpage>621</lpage>.<annotation><p><italic toggle="yes">(Among 184 patients with unresectable or metastatic refractory HER2 positive breast cancer treated with trastuzumab deruxtecan the objective response rate was 61% and overall adverse event rate was 99.5%, most commonly with nausea, fatigue, alopecia, vomiting, constipation, decreased appetite, and 14% of patients developed interstitial lung disease, 5% a prolonged QT interval, 2.7% infusion reactions, and ALT elevations in 12% which were above 5 times ULN in 2%; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">31825192</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.shitara.2020.2419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shitara</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Bang</surname>
+<given-names>YJ</given-names></string-name>, <string-name name-style="western"><surname>Iwasa</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Sugimoto</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Ryu</surname>
+<given-names>MH</given-names></string-name>, <string-name name-style="western"><surname>Sakai</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Chung</surname>
+<given-names>HC</given-names></string-name>, <etal>et al.</etal>; <article-title>DESTINY-Gastric01 Investigators. Trastuzumab deruxtecan in previously treated HER2-positive gastric cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>382</volume>:<fpage>2419</fpage>-<lpage>2430</lpage>.<annotation><p><italic toggle="yes">(Among 187 patients with advanced, previously treated HER2 positive gastric cancer treated with trastuzumab deruxtecan or chemotherapy, the objective response rates were 51% vs 16% and overall survival 12.5 vs 8.4 months, and while overall adverse event rates were high [100% vs 98%], drug discontinuations were higher with trastuzumab deruxtecan [15%vs 6%] as were interstitial lung disease [10% vs 0%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32469182</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF20">
+            <mixed-citation publication-type="journal"><article-title>Two drugs for advanced HER2-positive breast cancer (Enhertu and Tukysa).</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2020</year>;<volume>62</volume>(<issue>1611</issue>):<fpage>182</fpage>-<lpage>184</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and cost of trastuzumab deruxtecan shortly after its approval in the US for use in advanced HER-2 positive breast cancer refractory to other treatments; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33429416</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.narayan.2021.4478">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Narayan</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Osgood</surname>
+<given-names>CL</given-names></string-name>, <string-name name-style="western"><surname>Singh</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Chiu</surname>
+<given-names>HJ</given-names></string-name>, <string-name name-style="western"><surname>Ricks</surname>
+<given-names>TK</given-names></string-name>, <string-name name-style="western"><surname>Chiu Yuen Chow</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Qiu</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: fam-trastuzumab deruxtecan-nxki for the treatment of unresectable or metastatic HER2-positive breast cancer.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2021</year>;<volume>27</volume>:<fpage>4478</fpage>-<lpage>4485</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on efficacy and safety of trastuzumab deruxtecan that provided the basis for its approval as therapy of advanced or metastatic HER-2 positive breast cancer after failure of 2 previous therapies states that deaths from adverse events arose in 4% of treated subjects [2.6% from interstitial pneumonitis], but no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">33753456</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.li.2022.241">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Li</surname>
+<given-names>BT</given-names></string-name>, <string-name name-style="western"><surname>Smit</surname>
+<given-names>EF</given-names></string-name>, <string-name name-style="western"><surname>Goto</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Nakagawa</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Udagawa</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Mazi&#x000e8;res</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Nagasaka</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <collab>DESTINY-Lung01 Trial Investigators</collab>. <article-title>Trastuzumab deruxtecan in HER2-mutant non-small-cell lung cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>:<fpage>241</fpage>-<lpage>251</lpage>.<annotation><p><italic toggle="yes">(Among 91 patients with refractory, metastatic non-small cell lung cancer treated with trastuzumab deruxtecan, the objective response rate was 55% while the overall adverse event rate was 100%, 43% had a serious adverse event, 32% discontinued therapy because of adverse events, and 26% developed interstitial lung disease which was fatal in 2 subjects; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34534430</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.cort_s.2022.1143">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cort&#x000e9;s</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>SB</given-names></string-name>, <string-name name-style="western"><surname>Chung</surname>
+<given-names>WP</given-names></string-name>, <string-name name-style="western"><surname>Im</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Hegg</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>MH</given-names></string-name>, <etal>et al.</etal>; <collab>DESTINY-Breast03 Trial Investigators</collab>. <article-title>Trastuzumab deruxtecan versus trastuzumab emtansine for breast cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>; <volume>386</volume>: <fpage>1143</fpage>-<lpage>1154</lpage>.<annotation><p><italic toggle="yes">(Among 524 patients with refractory, advanced or metastatic HER2-positive breast cancer treated with trastuzumab deruxtecan or trastuzumab emtansine, progression free survival at 1 year was 76% vs 34% and adverse event rates 98% vs 87%, with deruxtecan having higher rates of neutropenia and anemia but lower rates of ALT elevations [19.5% vs 27%] which were above 5 times ULN in 1.6% vs 4.6%).</italic></p></annotation><pub-id pub-id-type="pmid">35320644</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF24">
+            <mixed-citation publication-type="journal"><article-title>In brief: Fam-trastuzumab deruxtecan (Enhertu) for breast cancer.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>: <fpage>e60</fpage>-<lpage>e61</lpage>.<annotation><p><italic toggle="yes">(Concise review of the clinical efficacy, safety, and cost of trastuzumab deruxtecan as a second line therapy of unresectable or metastatic breast cancer that is either HER2 positive or HER2-low, mentions that therapy can be associated with elevations in &#x0201c;liver enzymes&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">37020344</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.yoshino.2023.3332">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yoshino</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Di Bartolomeo</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Raghav</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Masuishi</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Loupakis</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Kawakami</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Yamaguchi</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>; <collab>DESTINY-CRC01 investigators</collab>. <article-title>Final results of DESTINY-CRC01 investigating trastuzumab deruxtecan in patients with HER2-expressing metastatic colorectal cancer.</article-title>
+<source>Nat Commun.</source>
+<year>2023</year>;<volume>14</volume>:<fpage>3332</fpage>.<annotation><p><italic toggle="yes">(Among 58 patients with metastatic HER2 positive refractory colorectal cancer treated with trastuzumab deruxtecan [6.4 mg/kg every 3 weeks], the objective response rate was 45% [all &#x0201c;partial&#x0201d;], mean overall survival was 15.5 months, adverse event rate was 100%, interstitial lung disease arose in 7% with 3 deaths; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37286557</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.ma.2023.685">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ma</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Tian</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Qi</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>Y</given-names></string-name>. <article-title>High risks adverse events associated with trastuzumab emtansine and trastuzumab deruxtecan for the treatment of HER2-positive/mutated malignancies: a pharmacovigilance study based on the FAERS database.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>;<volume>22</volume>:<fpage>685</fpage>-<lpage>696</lpage>.<annotation><p><italic toggle="yes">(Analysis of the FDA Adverse Event Reporting System [FARES] from 2004 to 2022 identified 2113 reports for trastuzumab emtansine [Tm] and 1269 for trastuzumab deruxtecan [Td], and while liver test abnormalities were reported with both, Tm had high report rates of hepatic cirrhosis [n=35], portal hypertension [24], and nodular regenerative hyperplasia [17], while Td had none for these diagnoses).</italic></p></annotation><pub-id pub-id-type="pmid">37068935</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.van_cutsem.2023.744">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Van Cutsem</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>di Bartolomeo</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Smyth</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Chau</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Siena</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Lonardi</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Trastuzumab deruxtecan in patients in the USA and Europe with HER2-positive advanced gastric or gastroesophageal junction cancer with disease progression on or after a trastuzumab-containing regimen (DESTINY-Gastric02): primary and updated analyses from a single-arm, phase 2 study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2023</year>;<volume>24</volume>:<fpage>744</fpage>-<lpage>756</lpage>.<annotation><p><italic toggle="yes">(Among 79 patients with advanced HER2-positive gastric or gastro-esophageal junction cancer treated with trastuzumab deruxtecan [5.4 mg/kg], the objective response rate was 30% [3 were complete], and adverse events were frequent including ALT elevations in 9%, 1% were above 5 times ULN, but there were no hepatic severe adverse events reported).</italic></p></annotation><pub-id pub-id-type="pmid">37329891</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.goto.2023.4852">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Goto</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Goto</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Kubo</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Ninomiya</surname>
+<given-names>K, D</given-names></string-name>, <string-name name-style="western"><surname>Ahn</surname>
+<given-names>MJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Trastuzumab deruxtecan in patients with HER2-mutant metastatic non-small-cell lung cancer: primary results from the randomized, phase II DESTINY-Lung02 Trial.</article-title>
+<source>J Clin Oncol.</source>
+<year>2023</year>;<volume>41</volume>:<fpage>4852</fpage>-<lpage>4863</lpage>.<annotation><p><italic toggle="yes">(Among 152 patients with metastatic, refractory HER2-mutant NSCLC treated with trastuzumab deruxtecan in doses of 5.4 or 6.4 mg/kg every 3 weeks, the objective response rates were 49% vs 56% and adverse event rates 100% in both, but most adverse events were less frequent with the lower dose, nausea being reported in 67% vs 82% and interstitial lung disease in 13% vs 28%, the exception being ALT elevations in 22% vs 20%, which were above 5 times ULN in 3% vs 0%).</italic></p></annotation><pub-id pub-id-type="pmid">37694347</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.mericbernstam.2024.47">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Meric-Bernstam</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Makker</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Oaknin</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Oh</surname>
+<given-names>DY</given-names></string-name>, <string-name name-style="western"><surname>Banerjee</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez-Mart&#x000ed;n</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Jung</surname>
+<given-names>KH</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of trastuzumab deruxtecan in patients with HER2-expressing solid tumors: primary results from the DESTINY-PanTumor02 phase II trial.</article-title>
+<source>J Clin Oncol.</source>
+<year>2024</year>;<volume>42</volume>:<fpage>47</fpage>-<lpage>58</lpage>.<annotation><p><italic toggle="yes">(Among 267 patients with refractory, advanced or metastatic, HER2-positive tumors [7 types] treated with trastuzumab deruxtecan, the objective response rate was 37% with responses in all groups [lowest in pancreatic cancer], and adverse events being common with 28 [11%] cases of interstitial lung disease [3 fatal], but no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37870536</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="TrastuzumabDeruxtecam.REF.sun.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sun</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>J.</given-names></string-name>
+<article-title>A pharmacovigilance study on drug-induced liver injury associated with antibody-drug conjugates (ADCs) based on the Food and Drug Administration adverse event reporting system.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>:<fpage>1</fpage>-<lpage>12</lpage>.<annotation><p><italic toggle="yes">(Analysis of the FDA reporting system [FAERS] for cases of drug induced liver injury submitted between 2004 and 2022, found 17,784 reports, 504 [3%] attributed to antibody-drug conjugates, 202 from the US, the implicated agents being gemtuzumab ozogamicin [n=98], brentuximab vedotin [n=37], trastuzumab emtansine [n=25], enfortumab vedotin [n=16], inotuzumab ozogamicin [n=15], trastuzumab deruxtecan [n=8], and polatuzumab vedotin [3]).</italic></p></annotation><pub-id pub-id-type="pmid">37898875</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="TrastuzumabDeruxtecam.OTHER_REFERENCE_LI">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Trastuzumab+Deruxtecan+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Trastuzumab: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Trastuzumab%20Deruxtecan">Trials on Trastuzumab: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

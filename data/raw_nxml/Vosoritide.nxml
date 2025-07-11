@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Vosoritide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Vosoritide</book-part-id>
+      <title-group>
+        <title>Vosoritide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>31</day>
+          <month>1</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Vortioxetine" document-type="chapter">Vortioxetine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Voxelotor" document-type="chapter">Voxelotor</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Vosoritide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Vosoritide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Vosoritide is a modified recombinant C type natriuretic peptide analog which is used to promote linear growth in children and adolescents with achondroplasia who still have open epiphyses. Vosoritide is given in daily subcutaneous injections and its use has not been associated with elevations in serum aminotransferase levels or with cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Vosoritide.Background">
+          <title>Background</title>
+          <p>Vosoritide (voe&#x02019; soe re&#x02019; i tide) is a modified, recombinant 39 amino acid analogue of human C type natriuretic peptide which is used to increase linear growth in children and adolescents with achondroplasia. Achondroplasia is a rare (1:25,000 live births) autosomal dominant genetic disease marked by impaired conversion of cartilage to bone resulting in short stature and in skeletal abnormalities of long bones, spine, face and skull. Achondroplasia is due to gain-of-function mutations in fibroblast growth factor receptor 3 (FGFR3), a negative regulator of bone growth and endochondral ossification. Affected individuals have short limbs but fairly normal truncal size and resultant skeletal abnormalities that affect cranial, musculoskeletal, cardiovascular, ear, nose and throat structure and function. Human type C natriuretic peptide acts as an antagonist to the downstream signaling of FGFR3. In animal models of achondroplasia, treatment with vosoritide led to increases in linear growth and improvement in endochondral ossification, ameliorating the structural abnormalities and secondary consequences of the excessive FGFR3 signaling. In a single, randomized controlled trial in 121 pediatric patients (ages 5 to 14) with achondroplasia, vosoritide given by injection daily for 52 weeks led to a significant increase in annualized growth velocity. All subjects were then treated with open label vosoritide and evaluated for its long term effects. Vosoritide was granted accelerated approval for use in the United States in 2021. Current indications are for pediatric patients with achondroplasia with open epiphyses. Vosoritide is available under the brand name Voxzogo as a lyophilized powder for reconstitution in 0.40, 0.56 and 1.2 mg amounts in single dose vials. The recommended dose is based upon weight at approximately 15 mcg/kg given subcutaneously once daily, with monitoring of weight and appropriate adjustment of dose and stopping once epiphyses are closed. Vosoritide relaxes vascular muscle and can cause mild hypotension. Other adverse events include injection site reactions (erythema, swelling, rash, urticaria), nausea, vomiting, diarrhea, gastroenteritis, ear pain and arthralgia. The long- term effects on bone growth and structure are still being assessed in prospective studies, but improved rates of linear growth appear to be maintained.</p>
+        </sec>
+        <sec id="Vosoritide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the registration studies submitted in support of approval of vosoritide, &#x0201c;overall, there were no clinically meaningful changes in any laboratory parameter in the clinical program.&#x0201d; Serum ALT levels rose to above the upper limit of normal (ULN) in 22% of vosoritide treated participants vs 18% of controls, but there were no increases above 5 times ULN or elevations accompanied by jaundice or symptoms. Alkaline phosphatase elevations arose in at least 17% of treated patients vs 7% of controls, but the abnormalities were possibly a result of bone growth rather than liver or biliary injury. In the initial clinical trial and in subsequent more widespread use of vosoritide, there have been no reports of clinically apparent liver injury or jaundice.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Vosoritide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which vosoritide might cause liver injury is unknown. It is a polypeptide and is metabolized to individual amino acids intracellularly in many tissues. Vosoritide is not metabolized by the cytochrome P450 system and has not been associated with drug-drug interactions.</p>
+        </sec>
+        <sec id="Vosoritide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Vosoritide has not been implicated in marked serum aminotransferase elevations or instances of acute liver injury. While minor elevations in serum enzymes may occur during therapy, these are generally transient, asymptomatic, and most likely unrelated to treatment.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+        </sec>
+      </sec>
+      <sec id="Vosoritide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Vosoritide &#x02013; Voxzogo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Vosoritide">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Vosoritide.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Vosoritide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Vosoritide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Vosoritide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Vosoritide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Vosoritide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Vosoritide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Vosoritide</td>
+                <td headers="hd_h_Vosoritide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://313371293">1480724-61-5</ext-link>
+</td>
+                <td headers="hd_h_Vosoritide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C176-H290-N56-O51-S3</td>
+                <td headers="hd_h_Vosoritide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="313371293" document-id-type="sid" document-type="summary" object-id="313371293" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Vosoritide.BIBLIOGRAPHY">
+        <title>BIBLIOGRAPHY</title>
+        <p>References updated: 31 January 2025</p>
+        <ref-list id="Vosoritide.BIBLIOGRAPHY.reflist0">
+          <ref id="Vosoritide.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert textbook on hepatotoxicity published in 1999, before the availability of vosoritide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.nolin.2018">
+            <mixed-citation publication-type="book">Nolin TD, Friedman PA. Agents affecting mineral ion homeostasis and bone turnover. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 887-906.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF3">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214938Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214938Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and integrated review of the data on efficacy and safety submitted by the sponsor in support of approval in the US, mentions that &#x0201c;overall, there were no clinically meaningful changes in any laboratory parameter in the clinical program&#x0201d; and that elevations in ALT arose in 22% of vosoritide vs 18% of placebo recipients, AST in 10% vs 7%, and alkaline phosphatase in 17% vs 7%).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.lorget.2012.1108">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lorget</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Kaci</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Peng</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Benoist-Lasselin</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Mugniery</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Oppeneer</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wendt</surname>
+<given-names>DJ</given-names></string-name>, <etal>et al.</etal>
+<article-title>Evaluation of the therapeutic potential of a CNP analog in a Fgfr3 mouse model recapitulating achondroplasia.</article-title>
+<source>Am J Hum Genet.</source>
+<year>2012</year>;<volume>91</volume>:<fpage>1108</fpage>-<lpage>14</lpage>.<annotation><p><italic toggle="yes">(A synthetic 39 amino acid analogue of C-type natriuretic peptide, with modifications allowing for longer half-life, improved bone growth and clinical features of achondroplasia in a mouse model).</italic></p></annotation><pub-id pub-id-type="pmid">23200862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.savarirayan.2019.25">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savarirayan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Irving</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Bacino</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Bostwick</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Charrow</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Cormier-Daire</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Le Quan Sang</surname>
+<given-names>KH</given-names></string-name>, <etal>et al.</etal>
+<article-title>C-type natriuretic peptide analogue therapy in children with achondroplasia.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>381</volume>:<fpage>25</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Among 35 children with achondroplasia, ages 5 to 14 years, treated with once daily sc injections of vosoritide in 4 dose regimens for 6 months and then with the optimal dose for up to 42 months, there was a dose-dependent increase in annualized growth velocity and adverse events were &#x0201c;generally mild&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31269546</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.savarirayan.2020.684">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savarirayan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Tofts</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Irving</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wilcox</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Bacino</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Hoover-Fong</surname>
+<given-names>J</given-names></string-name>, <article-title>Ullot Font Ret al. Once-daily, subcutaneous vosoritide therapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial.</article-title>
+<source>Lancet.</source>
+<year>2020</year>;<volume>396</volume>(<issue>10252</issue>):<fpage>684</fpage>-<lpage>692</lpage>.<annotation><p><italic toggle="yes">(Among 121 children, ages 5 to 18 years, with achondroplasia and open epiphyses treated with vosoritide [15 &#x000b5;g/kg] vs placebo sc once daily for 52 weeks, the mean change in annualized growth velocity was 1.71 vs 0.13 cm/year while adverse events arose in similar rates in both groups [98% vs 98%], with injection site reactions and mild hypotension being more frequent with vosoritide; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32891212</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.duggan.2021.2057">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Duggan</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Vosoritide: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>2057</fpage>-<lpage>2062</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, clinical efficacy, and safety of vosoritide, mentions that it was well tolerated in registration trials and in long term extension studies, the major adverse event being injection reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34694597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.schneider.2022.e2201067119">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schneider</surname>
+<given-names>EL</given-names></string-name>, <string-name name-style="western"><surname>Carreras</surname>
+<given-names>CW</given-names></string-name>, <string-name name-style="western"><surname>Reid</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Ashley</surname>
+<given-names>GW</given-names></string-name>, <string-name name-style="western"><surname>Santi</surname>
+<given-names>DV</given-names></string-name>. <article-title>A long-acting C-natriuretic peptide for achondroplasia.</article-title>
+<source>Proc Natl Acad Sci U S A.</source>
+<year>2022</year>;<volume>119</volume>:<elocation-id>e2201067119</elocation-id>.<annotation><p><italic toggle="yes">(A modified analogue of human C type natriuretic peptide conjugated to polyethylene glycol gel proved to have a long half-life and was effective in a mouse model of achondroplasia given every 1 or 2 weeks.)</italic></p></annotation><pub-id pub-id-type="pmid">35858423</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.savarirayan.2024.40">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savarirayan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wilcox</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Harmatz</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Phillips</surname>
+<given-names>J</given-names>
+<suffix>3rd</suffix></string-name>, <string-name name-style="western"><surname>Polgreen</surname>
+<given-names>LE</given-names></string-name>, <string-name name-style="western"><surname>Tofts</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Ozono</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Vosoritide therapy in children with achondroplasia aged 3-59 months: a multinational, randomised, double-blind, placebo-controlled, phase 2 trial.</article-title>
+<source>Lancet Child Adolesc Health.</source>
+<year>2024</year>;<volume>8</volume>:<fpage>40</fpage>-<lpage>50</lpage>.<annotation><p><italic toggle="yes">(Among 32 children with achondroplasia below the age of 5 years treated with daily injections of vosoritide [15 or 30 &#x003bc;g/kg] or placebo for 52 weeks, annualized growth velocity varied by age and was higher with vosoritide therapy, while adverse events were frequent but most often mild injection site reactions; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37984383</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.savarirayan.2024.100566">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savarirayan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Irving</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wilcox</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Bacino</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Hoover-Fong</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Harmatz</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Polgreen</surname>
+<given-names>LE</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sustained growth-promoting effects of vosoritide in children with achondroplasia from an ongoing phase 3 extension study.</article-title>
+<source>Med.</source>
+<year>2024</year>
+<month>Dec</month>
+<day>30</day>:<elocation-id>100566</elocation-id>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 119 children with achondroplasia enrolled in a controlled trial of vosoritide [Savarirayan 2019] and subsequently in an extension study, 111 have continued in the study with follow up of 1.7 to 6.2 years, maintaining a higher annualized growth velocity than in untreated patients and similar velocity to that of average normal children; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39740666</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vosoritide.REF.cormierdaire.2025.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cormier-Daire</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Edouard</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Isidor</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Mukherjee</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Pimenta</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schaefer</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>
+<article-title>Real-world safety and effectiveness of vosoritide in children with achondroplasia: French early access program.</article-title>
+<source>Horm Res Paediatr.</source>
+<year>2025</year>:<fpage>1</fpage>-<lpage>17</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 62 children with achondroplasia enrolled in an early access program for therapy with vosoritide in France, 22 received drug for 12 months and achieved an average annualized growth velocity of 6.0 cm with mild adverse events only, and no discontinuations for adverse events; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39864410</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Vosoritide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Vosoritide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Vosoritide: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Vosoritide">Trials on Vosoritide: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

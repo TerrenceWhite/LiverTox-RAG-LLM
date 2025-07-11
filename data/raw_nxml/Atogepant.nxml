@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Atogepant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Atogepant</book-part-id>
+      <title-group>
+        <title>Atogepant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>1</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Atezolizumab" document-type="chapter">Atezolizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Atomoxetine" document-type="chapter">Atomoxetine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Atogepant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Atogepant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Atogepant is a small molecule inhibitor of the calcitonin gene-related peptide (CGRP) receptor that blocks the action of CGRP, a potent vasodilator believed to play a role in migraine headaches. Atogepant is approved for prevention of acute migraine attacks. In clinical trials, atogepant was generally well tolerated with only rare instances of transient serum aminotransferase elevations during therapy and with no reported instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Atogepant.Background">
+          <title>Background</title>
+          <p>Atogepant (a toe&#x02019; je pant) is a small molecule inhibitor of the receptor for the calcitonin gene-related peptide (CGRP), which is believed to play a role in the pathogenesis of migraine headaches. CGRP is a potent vasodilator and pain-signaling neurotransmitter that is found throughout the central and peripheral nervous system but is particularly common in trigeminal ganglia. Levels of CGRP in the blood are elevated during episodes of migraine headache, and administration of the peptide can induce migraines in susceptible patients. For this reason, approaches to inhibition of CGRP signaling were developed as potential therapies for migraine, both as preventive therapies to decrease the frequency of migraine attacks, as well as for treatment of acute attacks. Several monoclonal antibodies that block CGRP or its receptor are approved for use in prevention of migraines, and several other small molecule inhibitors of the CGRP receptor (the &#x0201c;gepants&#x0201d;: rimegepant and ubrogepant) are available for treatment of acute migraine. In several randomized, placebo-controlled trials, atogepant in oral doses of 10, 30 or 60 mg daily was found to decrease the number of migraine days per month by 0.7 to 1.7 migraine days per month. Atogepant was approved for prevention of acute migraine in the United States in 2021 and is available in tablets of 10, 30, and 60 mg under the brand name Qulipta. The recommended dose is 10, 30, or 60 mg daily depending upon response, tolerance, and the pattern of migraines experienced (episodic vs chronic). Atogepant is generally well tolerated with side effects of nausea, dizziness, somnolence, and constipation, that are generally uncommon (&#x0003c;5%), transient and mild-to-moderate in severity. Severe adverse events can include hypersensitivity reactions, including anaphylaxis and dyspnea, which can occur days after administration.</p>
+        </sec>
+        <sec id="Atogepant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration, controlled trials of atogepant in several thousand patients, mild-to-moderate serum aminotransferase elevations arose in a small percentage of patients (1% to 2%) and overall rates were not different from those in placebo recipients (1.0% vs 1.8%). In the controlled trials and subsequently with general use, there have been no reports of clinically apparent liver injury attributed to atogepant. In contrast, telcagepant, the initial oral CGRP receptor antagonist evaluated as therapy for migraine headaches, was abandoned during development because of several instances of clinically apparent liver injury in recipients that was characterized by marked elevations in serum aminotransferase levels and symptoms of fatigue, nausea and abdominal discomfort arising within 2 to 4 weeks of starting therapy. These symptoms rapidly resolved after prompt stopping of therapy. Similar episodes have not been reported with atogepant. Careful analysis of all cases of ALT or AST elevations in atogepant treated subjects demonstrated 6 instances that were considered possibly or probably due to drug treatment, but all were asymptomatic, anicteric, and self-limited in course once atogepant was stopped.</p>
+          <p>Likelihood score: E* (unproven but possibly rate cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Atogepant.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Possible mechanisms of liver injury due to atogepant are not known. It is metabolized in the liver largely by CYP 3A4 and is susceptible to drug-drug interactions with agents that induce or inhibit this microsomal enzyme. Lower doses should be used in patients receiving CYP 3A4 inhibitors.</p>
+        </sec>
+        <sec id="Atogepant.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MigraineHeadacheAgen" document-type="book-part">Migraine Headache Agents</related-object></p>
+          <p>Other Small Molecule Inhibitors of CGRP Receptors: <related-object link-type="booklink" source-id="livertox" document-id="Rimegepant" document-type="book-part">Rimegepant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ubrogepant" document-type="book-part">Ubrogepant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zavegepant" document-type="book-part">Zavegepant</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Atogepant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Atogepant &#x02013; Qulipta&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Migraine Headache Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Atogepant">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Atogepant.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Atogepant.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Atogepant.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Atogepant.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Atogepant.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Atogepant.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Atogepant.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Atogepant</td>
+                <td headers="hd_h_Atogepant.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://336270067">1374248-81-3</ext-link>
+</td>
+                <td headers="hd_h_Atogepant.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H23-F6-N5-O3</td>
+                <td headers="hd_h_Atogepant.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="336270067" document-id-type="sid" document-type="summary" object-id="336270067" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Atogepant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 January 2025</p>
+        <p>Abbreviations: CGRP, calcitonin gene-related peptide.</p>
+        <ref-list id="Atogepant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Atogepant.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of CGRP antagonists).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215206Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215206Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA integrated scientific review of the atogepant application including specific discussion of hepatic adverse events among 1319 patients treated with atogepant focusing on 2 instances of ALT or AST elevations considered &#x0201c;probable&#x0201d; and 4 &#x0201c;possible&#x0201d; liver injury, despite similar rate elevations above 3 times ULN between drug vs placebo groups [1.0% vs 1.8%]; all suspected cases were asymptomatic, without bilirubin elevations, and resolving rapidly once drug was stopped).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.ho.2014.958">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ho</surname>
+<given-names>TW</given-names></string-name>, <string-name name-style="western"><surname>Connor</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Pearlman</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Koppenhaver</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Fan</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Lines</surname>
+<given-names>C</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized controlled trial of the CGRP receptor antagonist telcagepant for migraine prevention.</article-title>
+<source>Neurology</source>
+<year>2014</year>; <volume>83</volume>: <fpage>958</fpage>-<lpage>66</lpage>.<annotation><p><italic toggle="yes">(Among 660 patients with migraine enrolled in a controlled trial of telcagepant [140 or 280 mg] vs placebo twice daily for 12 weeks, 13 patients on telcagepant developed ALT elevations above 3 times ULN, generally between weeks 4 and 6 of treatment, and in two instances rising to 33 and 39 times ULN accompanied by symptoms but not jaundice leading to prompt discontinuation and to early termination of the trial because of the risk of significant hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25107879</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.tfelthansen.2019.113">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tfelt-Hansen</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Loder</surname>
+<given-names>E</given-names></string-name>. <article-title>The emperor's new gepants: are the effects of the new oral CGRP antagonists clinically meaningful?</article-title>
+<source>Headache</source>
+<year>2019</year>; <volume>59</volume>: <fpage>113</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Commentary on the relative efficacy of two oral CGRP receptor antagonists, ubrogepant and rimegepant, which show only modest efficacy in acute migraine [therapeutic gain of 5-8%] and only when compared to placebo as compared to well-known effective therapies such as aspirin and other nonsteroidal antiinflammatory agents [8-14%] and the triptans [16-32%]).</italic></p></annotation><pub-id pub-id-type="pmid">30451300</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF5">
+            <mixed-citation publication-type="journal"><article-title>Drugs for migraine.</article-title>
+<source>Med Lett Drugs Ther</source>
+<year>2020</year>; <volume>62</volume>: <fpage>153</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the relative clinical efficacy, safety, and costs of drugs to treat acute migraine headache [such as analgesics, opiates, triptans, ergots and oral CGRP receptor antagonists] and to prevent migraines [such as anticonvulsants, beta blockers, antidepressants, and the monoclonal antibodies to CGRP and its receptor]).</italic></p></annotation><pub-id pub-id-type="pmid">33434187</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.goadsby.2020.727">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Goadsby</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Dodick</surname>
+<given-names>DW</given-names></string-name>, <string-name name-style="western"><surname>Ailani</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Trugman</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Finnegan</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Lu</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Szegedi</surname>
+<given-names>A</given-names></string-name>. <article-title>Safety, tolerability, and efficacy of orally administered atogepant for the prevention of episodic migraine in adults: a double-blind, randomised phase 2b/3 trial.</article-title>
+<source>Lancet Neurol.</source>
+<year>2020</year>;<volume>19</volume>:<fpage>727</fpage>-<lpage>737</lpage>.<annotation><p><italic toggle="yes">(Among 825 adults with chronic migraine headaches treated with 5 doses of atogepant [10, 30, or 60 mg once or twice daily] vs placebo, reduction in migraine days per month was similar across all dose regimens [-3.8 to -4.1] and higher than with placebo [-2.9], while adverse event rates with slightly higher [58 to 66% vs 49%] and ALT elevations above 3 times ULN were uncommon and similar in rate to those with placebo [1 to 2% vs 1%], and were all without symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">32822633</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.min.2021.599">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Min</surname>
+<given-names>KC</given-names></string-name>, <string-name name-style="western"><surname>Kraft</surname>
+<given-names>WK</given-names></string-name>, <string-name name-style="western"><surname>Bondiskey</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Col&#x000f3;n-Gonz&#x000e1;lez</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Panebianco</surname>
+<given-names>D</given-names></string-name>, <etal>et al.</etal>
+<article-title>Atogepant Is not associated with clinically meaningful alanine aminotransferase elevations in healthy adults.</article-title>
+<source>Clin Transl Sci.</source>
+<year>2021</year>;<volume>14</volume>:<fpage>599</fpage>-<lpage>605</lpage>.<annotation><p><italic toggle="yes">(Among 34 healthy adults treated with atogepant [170 mg] or placebo once daily for 28 days, adverse events in atogepant treated subjects were mild and included nausea, fatigue, dizziness and decreased appetite, while mean ALT levels decreased and remained within the normal range with no individual value rising about 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">33142014</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.ailani.2021.695">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ailani</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Goadsby</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Guo</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Miceli</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Severt</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Finnegan</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Trugman</surname>
+<given-names>JM</given-names></string-name>; <collab>ADVANCE Study Group</collab>. <article-title>Atogepant for the preventive treatment of migraine.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>385</volume>:<fpage>695</fpage>-<lpage>706</lpage>.<annotation><p><italic toggle="yes">(Among 873 adults with episodic migraine headaches treated with atogepant [10, 30, or 60 mg] or placebo once daily for 12 weeks, mean difference from placebo with atogepant ranged from -1.2 to -1.7 days per month, while adverse events rates were similar with ALT elevations above 3 times ULN being lower with atogepant [0.4 to 0.9%] vs placebo [2.7%], no ALT elevation being associated with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">34407343</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF9">
+            <mixed-citation publication-type="journal"><article-title>Atogepant (Qulipta) for migraine prevention.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2021</year>;<volume>63</volume>:<fpage>169</fpage>-<lpage>171</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of atogepant discusses minor adverse events of nausea, constipation, and fatigue but does not mention ALT elevations or hepatoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35085204</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.robbins.2021.1874">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Robbins</surname>
+<given-names>MS</given-names></string-name>. <article-title>Diagnosis and management of headache: a review.</article-title>
+<source>JAMA</source>
+<year>2021</year>; <volume>325</volume>: <fpage>1874</fpage>-<lpage>85</lpage>.<annotation><p><italic toggle="yes">(Review of the diagnosis and management of headache including use of calcitonin gene-related peptide antagonists for acute migraine attacks, which have uncommon side effects of dry mouth and dizziness; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33974014</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.deeks.2022.65">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Deeks</surname>
+<given-names>ED</given-names></string-name>. <article-title>Atogepant: First approval.</article-title>
+<source>Drugs.</source>
+<year>2022</year>;<volume>82</volume>:<fpage>65</fpage>-<lpage>70</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of atogepant shortly after its approval for prevention of episodic migraine mentions that rates of ALT elevations above 3 times ULN were less frequent with atogepant than placebo [1.0 vs 1.8% in short term and 2.4 vs 3.2% in longer term studies], and no patient with ALT elevations developed symptoms or jaundice and abnormalities resolved rapidly with discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">34813050</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.woodhead.2022.108">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Woodhead</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Siler</surname>
+<given-names>SQ</given-names></string-name>, <string-name name-style="western"><surname>Howell</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Conway</surname>
+<given-names>C</given-names></string-name>. <article-title>Comparing the liver safety profiles of 4 next-generation CGRP receptor antagonists to the hepatotoxic CGRP inhibitor telcagepant using quantitative systems toxicology modeling.</article-title>
+<source>Toxicol Sci.</source>
+<year>2022</year>;<volume>188</volume>:<fpage>108</fpage>-<lpage>116</lpage>.<annotation><p><italic toggle="yes">(Mechanism simulation of hepatotoxicity indicated that telcagepant had multiple potential adverse effects on liver function compared to the more recently developed CGRP antagonists, rimegepant, ubrogepant, atogepant, and zavegepant).</italic></p></annotation><pub-id pub-id-type="pmid">35556143</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF13">
+            <mixed-citation publication-type="journal"><article-title>Drugs for migraine.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>89</fpage>-<lpage>96</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the relative clinical efficacy, safety, and costs of drugs to treat and to prevent migraine headaches, states that systemic adverse effects are uncommon with use of oral CGRP receptor antagonists, but that nausea and somnolence can occur; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37266987</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF14">
+            <mixed-citation publication-type="journal"><article-title>Zavegepant (Zavzpret) for acute treatment of migraine.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>116</fpage>-<lpage>118</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of zavegepant mentions adverse events of dysgeusia, nausea, nasal discomfort, and vomiting as well as hypersensitivity reactions [facial swelling, urticaria], but does not mention ALT elevations or hepatoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37460143</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.pozorosich.2023.775">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pozo-Rosich</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Ailani</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ashina</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Goadsby</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Lipton</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Reuter</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Guo</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Atogepant for the preventive treatment of chronic migraine (PROGRESS): a randomised, double-blind, placebo-controlled, phase 3 trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>(<issue>10404</issue>):<fpage>775</fpage>-<lpage>785</lpage>.<annotation><p><italic toggle="yes">(Among 755 adults with chronic migraine treated with atogepant [30 mg twice or 60 mg once daily] vs placebo for 12 weeks, reduction of days with migraine headaches was greater with drug [-7.5 and -6.9 vs -5.1 days per month] and adverse events were generally mild and included constipation, nausea, fatigue, and weight loss, while ALT or AST elevations above 3 times ULN arose in 0.8% on atogepant vs 0.4% on placebo and no patient had concurrent symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">37516125</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.tassorelli.2024.382">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tassorelli</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Nagy</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Pozo-Rosich</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Lanteri-Minet</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sacco</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ne&#x0017e;&#x000e1;dal</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Guo</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and efficacy of atogepant for the preventive treatment of episodic migraine in adults for whom conventional oral preventive treatments have failed (ELEVATE): a randomised, placebo-controlled, phase 3b trial.</article-title>
+<source>Lancet Neurol.</source>
+<year>2024</year>;<volume>23</volume>:<fpage>382</fpage>-<lpage>392</lpage>.<annotation><p><italic toggle="yes">(Among 315 adults with refractory, episodic migraines treated with atogepant [60 mg] or placebo once daily for 12 weeks, the mean decrease in migraine days per month decreased more with drug [-4.1] than placebo [-1.9], while adverse events of atogepant included constipation [10%], nausea [7%], and decreased appetite [3%], but no patient developed ALT or AST elevations above 3 times ULN or any elevation with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">38364831</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.liang.2024.1431562">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liang</surname>
+<given-names>Q</given-names></string-name>, <string-name name-style="western"><surname>Liao</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Liang</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>H</given-names></string-name>. <article-title>Real-world study of adverse events associated with gepant use in migraine treatment based on the VigiAccess and U.S. Food and Drug Administration's adverse event reporting system databases.</article-title>
+<source>Front Pharmacol.</source>
+<year>2024</year>;<volume>15</volume>:<elocation-id>1431562</elocation-id>.<annotation><p><italic toggle="yes">(Search of two large registry databases on spontaneous reports of adverse events due to -gepants [rimegepant, ubrogepant, and atogepant] identified 23,542 reports, but only 0.09% to 0.27% were liver related, attesting to the lack of severe liver injury due to the currently available oral CGRP receptor antagonists).</italic></p></annotation><pub-id pub-id-type="pmid">39144633</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Atogepant.REF.zhang.2024.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Sun</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>Y</given-names></string-name>. <article-title>Adverse events associated with atogepant: a FAERS-based pharmacovigilance analysis.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2024</year>
+<month>Sep</month>
+<day>12</day>:<fpage>1</fpage>-<lpage>7</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Search of atogepant adverse event reports made to the FDA&#x02019;s Adverse Event Reporting System [FAERS] from 2021 through 2023, identified 3015 reports involving 27 body systems, most commonly neurologic [1651], general [1282], and gastrointestinal [1003], but very few related to hepatobiliary disorders [8]).</italic></p></annotation><pub-id pub-id-type="pmid">39242080</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Atogepant.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Atogepant+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Atogepant: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Atogepant">Trials on Atogepant: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

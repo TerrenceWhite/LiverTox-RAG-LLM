@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Relugolix" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Relugolix</book-part-id>
+      <title-group>
+        <title>Relugolix</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Regorafenib" document-type="chapter">Regorafenib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Remdesivir" document-type="chapter">Remdesivir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Relugolix.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Relugolix.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Relugolix is an orally administered, small molecule antagonist of gonadotropin releasing hormone (GnRH) that effectively blocks androgen production and is used to treat advanced prostate cancer. Relugolix therapy may be associated with a low rate of serum enzyme elevations during therapy, but has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Relugolix.Background">
+          <title>Background</title>
+          <p>Relugolix (rel&#x02019; ue goe&#x0201d; lix) is a small molecule, non-peptide antagonist of gonadotropin releasing hormone (GnRH) that blocks GnRH stimulation of luteinizing hormone (LH) and follicular stimulating hormone (FSH) production by the pituitary gland, thereby decreasing the synthesis of testosterone by the testes in men and estrogen by the ovaries in women. Relugolix has been found to be palliative in advanced prostate cancer with equivalent efficacy to the parenterally administered GnRH peptide analogues, such as leuprolide and degarelix. Because relugolix is an antagonist of GnRH, it does not cause the initial increase in testosterone synthesis that occurs with use of GnRH agonists and generally has a more rapid onset of action. Relugolix was approved for use in the United States in 2020, and current indications are limited to therapy of advanced prostate cancer. GnRH analogues have also been used off label for precocious puberty, infertility, and as a part of gender affirming therapy. Relugolix is available under the brand name Orgovyk as tablets of 120 mg. It is typically initiated with a loading dose of 360 mg (3 tablets) followed by 120 mg daily. Common side effects include symptoms of hypogonadism such as hot flashes, decreased libido, hair thinning or loss, erectile dysfunction, nausea, diarrhea, weight gain and fluid retention. Rare but potentially severe adverse reactions include QT/QTc prolongation, hypersensitivity reactions [including angioedema] and embryo-fetal toxicity.</p>
+          <p>Relugolix in fixed combination with estradiol (an estrogen) and norethindrone acetate (a progestin) has been evaluated as therapy of endometriosis and uterine fibroids and was approved in the United States for therapy of heavy menstrual bleeding associated with leiomyomas (fibroids) in premenopausal women in 2021. Indications were broadened to include pain from uterine fibroids in 2022. This combination is available under the brand name Myfembree. Each tablet contains 40 mg of relugolix, 1 mg of estradiol (E2) and 0.5 mg of norethindrone acetate (NA), the latter two agents being the constituents of a previously FDA approved therapy for menopausal symptoms and are added to lessen the symptoms of estrogen deprivation and bone loss. In registration trials, the relugolix/E2/NA combination was associated with a marked decrease in menstrual bleeding and decreased in pain associated with uterine fibroids, and was generally well tolerated with few of the typical adverse events caused by GnRH antagonist induced hypogonadism.</p>
+        </sec>
+        <sec id="Relugolix.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Relugolix therapy has been associated with serum aminotransferase elevations above 3 times the upper limit of normal (ULN) in 1% to 3% of patients and in similar proportions of patients receiving comparator agents such as leuprolide or degarelix. The serum enzyme elevations are generally mild and self-limited, resolving even without dose adjustment. ALT values above 5 times the ULN occur in less than 1% of patients, and episodes of ALT elevations with symptoms or jaundice were not observed in preregistration clinical trials of relugolix alone or in combination with estradiol and norethindrone. Since its approval and more widescale use, there have been no published reports of clinically apparent liver injury attributed to relugolix.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Relugolix.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which relugolix might cause liver injury is unknown. It is a synthetic small molecule that is metabolized in the liver by the cytochrome P450 system (predominantly CYP 3A4] and is a substrate for P glycoprotein. Strong inhibitors of CYP 3A4 and P glycoprotein can increase serum levels and the risk of toxicity, while inducers can result in suboptimal drug levels.</p>
+        </sec>
+        <sec id="Relugolix.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that arise in 1% to 3% of patients during relugolix therapy are generally transient, mild, and not accompanied by symptoms or jaundice, and the elevations rarely require dose adjustment or drug discontinuation. Routine monitoring of liver tests is not recommended except in patients with known, preexisting liver disease. There is no evidence of cross sensitivity to liver injury among the various GnRH analogues.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GnRHAnalogues" document-type="chapter">GnRH Analogues</related-object></p>
+          <p>Other Drugs in the Subclass, GnRH Analogues: <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Degarelix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Goserelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Leuprolide" document-type="chapter">Leuprolide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Triptorelin" document-type="chapter">Triptorelin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Relugolix.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Relugolix &#x02013; Orgovyk&#x000ae;, Myfembree&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Relugolix">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Relugolix.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Relugolix.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Relugolix.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Relugolix.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Relugolix.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Relugolix.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Relugolix.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Relugolix</td>
+                <td headers="hd_h_Relugolix.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642570">737789-87-6</ext-link>
+</td>
+                <td headers="hd_h_Relugolix.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H27-F2-N7-O5-S</td>
+                <td headers="hd_h_Relugolix.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163642570" document-id-type="sid" document-type="summary" object-id="163642570" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Relugolix.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 May 2023</p>
+        <p>Abbreviations: FSH, follicle stimulating hormone; GnRH, gonadotropin releasing hormone; LH, luteinizing hormone; PSA, prostate specific antigen.</p>
+        <ref-list id="Relugolix.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Relugolix.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the GnRH antagonists such as leuprolide and relugolix are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.chitturi.2013">
+            <mixed-citation publication-type="book">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hormonal products, does not discuss the GnRH analogues such as leuprolide, goserelin, degarelix, and relugolix).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.levin.2018">
+            <mixed-citation publication-type="book">Levin ER, Vitek WS, Hammes SR. Estrogens, progestins, and the female reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 803-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.snyder.2018">
+            <mixed-citation publication-type="book">Snyder PJ. Androgens and the male reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 833-43.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-47.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214621Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214621Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with the multidisciplinary review of the application for approval with data and analysis of its safety and efficacy, mentions that in the large registration trial of 930 patients with advanced prostate cancer, there were no hepatic deaths or serious hepatic adverse events, and serum aminotransferase elevations above 3 times ULN arose in 9 of 622 [1.4%] patients receiving relugolix vs 4 of 308 [1.3%] receiving leuprolide, none of whom developed clinical symptoms or jaundice or required drug discontinuation for the hepatic enzyme elevations).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to GnRH analogues such as goserelin, leuprolide, histrelin, or degarelix).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.markham.2019">
+            <mixed-citation publication-type="other">Markham A. Relugolix: first global approval. drugs. 2019;79:675-679.<annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, history of development, pharmacology, clinical efficacy, and safety of relugolix shortly after its approval in Japan as therapy of uterine fibroids, mentions that serum aminotransferase elevations arose in 2.2% of patients on relugolix vs 1.4% on leuprolide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Relugolix.REF.dearnaley.2020.184">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dearnaley</surname><given-names>DP</given-names></name>
+<name name-style="western"><surname>Saltzstein</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Sylvester</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Karsh</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mehlhaff</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Pieczonka</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bailen</surname><given-names>JL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The oral gonadotropin-releasing hormone receptor antagonist relugolix as neoadjuvant/adjuvant androgen deprivation therapy to external beam radiotherapy in patients with localised intermediate-risk prostate cancer: a randomised, open-label, parallel-group phase 2 trial.</article-title>
+              <source>Eur Urol.</source>
+              <year>2020</year>
+              <volume>78</volume>
+              <fpage>184</fpage>
+              <lpage>192</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 103 men with prostate cancer receiving radiotherapy who were treated with androgen deprivation therapy with relugolix [120 mg tablets daily] or degarelix [80 mg injections monthly], suppression of testosterone and PSA levels were similar in the two groups and adverse events were slightly fewer with relugolix [86% vs 97%], ALT elevations arising in none vs 13% but none were greater than 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32273183</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.shore.2020.2187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shore</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Saad</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Cookson</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>George</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Saltzstein</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Tutrone</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Akaza</surname><given-names>H</given-names></name>
+<etal/>
+<collab>HERO Study Investigators</collab>
+</person-group>
+              <article-title>Oral relugolix for androgen-deprivation therapy in advanced prostate cancer.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>2187</fpage>
+              <lpage>2196</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 930 men with advanced prostate cancer treated with relugolix [120 mg daily by mouth] or leuprolide [by injection every 3 months] for 48 weeks, sustained suppression of testosterone to castration levels was achieved by 97% on relugolix vs 89% on leuprolide, while common adverse event rates were similar with ALT elevations above 3 times ULN in 1.4% vs 1.3%, although major adverse cardiovascular events arose in 2.8% vs 5.6%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32469183</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.sawazaki.2020.425">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sawazaki</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kitamura</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yagi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Arai</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Impact of androgen deprivation therapy on non-alcoholic fatty liver disease in patients with prostate cancer: a CT evaluation.</article-title>
+              <source>Urol Int.</source>
+              <year>2020</year>
+              <volume>104</volume>
+              <fpage>425</fpage>
+              <lpage>430</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 77 patients with prostate cancer treated with androgen deprivation therapy [32 with leuprolide and 45 degarelix] for 6 months, computerized tomography demonstrated development of fatty liver in 7 patients but little change in body weight).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32396918</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.alhendy.2021.630">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Al-Hendy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lukes</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Poindexter</surname><given-names>AN</given-names><suffix>3rd</suffix></name>
+<name name-style="western"><surname>Venturella</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Villarroel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Critchley</surname><given-names>HOD</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McKain</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Treatment of uterine fibroid symptoms with relugolix combination therapy.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>630</fpage>
+              <lpage>642</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 770 women with uterine fibroids and heavy menstrual bleeding enrolled in two prospective clinical trials comparing the combination of relugolix [120 mg] with estrogen and progesterone vs placebo once daily for 24 weeks vs relugolix alone for 12 weeks followed by [delayed] combination therapy for 12 weeks [delayed], response rates were higher with combination relugolix [71% to 80% vs 15% and 17%] and monotherapy was associated with a decrease in bone mineral density and more frequent hot flashes; ALT elevations above 3 times ULN arose in less than 1% of all groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33596357</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.osuga.2021.397">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Osuga</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Seki</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Tanimoto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kusumoto</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kudou</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Terakawa</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Relugolix, an oral gonadotropin-releasing hormone receptor antagonist, reduces endometriosis-associated pain in a dose-response manner: a randomized, double-blind, placebo-controlled study.</article-title>
+              <source>Fertil Steril.</source>
+              <year>2021</year>
+              <volume>115</volume>
+              <fpage>397</fpage>
+              <lpage>405</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 women with heavy menstrual bleeding with uterine leiomyomas were treated with relugolix [40 mg daily] or leuprorelin [injections of 1.88 or 3.75 mg monthly], response rates were similar in the two groups [82% vs 83%] but with a more rapid onset of action with relugolix; adverse event rates were similar in the two groups with ALT elevations above 5 times ULN in 2.2% vs 1.4% and there were no episodes with symptoms or jaundice and no hepatic serious adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32912633</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.wallach.2021.e2130587">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wallach</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McCoy</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Dhruva</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Herrin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Berkowitz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Polley</surname><given-names>EC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real-world cardiovascular outcomes associated with degarelix vs leuprolide for prostate cancer treatment.</article-title>
+              <source>JAMA Netw Open.</source>
+              <year>2021</year>
+              <volume>4</volume>
+              <elocation-id>e2130587</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2226 men with advanced prostate cancer who initiated degarelix or leuprolide therapy between 2007 and 2019 who were propensity-matched for risk factors, major adverse cardiovascular event [MACE] rates were similar in the two groups [10.2 vs 8.6 per 100-patient years], although degarelix was associated with a high rate of death from any cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34677594</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.lopes.2021.1295">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lopes</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Higano</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Slovin</surname><given-names>SF</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Bigelow</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>S&#x000f8;rensen</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Melloni</surname><given-names>C</given-names></name>
+<etal/>
+<collab>PRONOUNCE Study Investigators</collab>
+</person-group>
+              <article-title>Cardiovascular safety of degarelix versus leuprolide in patients with prostate cancer: the primary results of the PRONOUNCE randomized trial.</article-title>
+              <source>Circulation.</source>
+              <year>2021</year>
+              <volume>144</volume>
+              <fpage>1295</fpage>
+              <lpage>1307</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 545 men with prostate cancer and concurrent atherosclerosis cardiovascular disease treated with degarelix or leuprolide for at least one year, major cardiovascular adverse events [MACE} arose in 5.5% vs 4.1% and rates of testosterone suppression, disease progression, discontinuations for adverse events and serious adverse event rates were similar in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34459214</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF16">
+            <element-citation publication-type="journal">
+              <article-title>Myfembree for fibroid-associated heavy menstrual bleeding.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1621</issue>
+              <fpage>51</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of the combination of relugolix, estradiol and norethindrone for heavy menstrual bleeding associated with fibroids, mentions adverse events of headache, hot flushes and hypertension, hair thinning, mood disorders, arthralgia and serum aminotransferase elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33830967</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.syed.2022.1549">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Syed</surname><given-names>YY</given-names></name>
+</person-group>
+              <article-title>Relugolix/estradiol/norethisterone (norethindrone) acetate: a review in symptomatic uterine fibroids.</article-title>
+              <source>Drugs.</source>
+              <year>2022</year>
+              <volume>82</volume>
+              <fpage>1549</fpage>
+              <lpage>1556</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the chemical structure, mechanism of action, history of development, pharmacology, clinical efficacy, and safety of the fixed combination of relugolix, estradiol and norethindrone acetate [Myfembree] for heavy menstrual bleeding and pelvic pain in premenopausal women with fibroids, mentions adverse events of hot flushes, sweating, alopecia, loss of libido, hypertension, irritability, dyspepsia, and slight decline in bone mineral density; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36331779</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Relugolix.REF.giudice.2022.2267">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Giudice</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>As-Sanie</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Arjona Ferreira</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Becker</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Abrao</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Lessey</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Once daily oral relugolix combination therapy versus placebo in patients with endometriosis-associated pain: two replicate phase 3, randomised, double-blind, studies (SPIRIT 1 and 2).</article-title>
+              <source>Lancet.</source>
+              <year>2022</year>
+              <volume>399</volume>
+              <issue>10343</issue>
+              <fpage>2267</fpage>
+              <lpage>2279</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1261 women with endometriosis and dysmenorrhea or pelvic pain enrolled in two prospective clinical trials comparing the combination of relugolix [120 mg] with estradiol and norethindrone vs placebo once daily for 24 weeks vs relugolix alone for 12 weeks followed by [delayed] combination therapy for 12 weeks, improvement in pain was achieved in 75% in the combination treatment group vs 27-30% in the placebo groups, and there were no &#x0201c;clinically important&#x0201d; differences in &#x0201c;laboratory parameters, including liver function tests&#x0201d; between the treatment groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35717987</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Relugolix.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Relugolix+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Relugolix: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Relugolix">Trials on Relugolix: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

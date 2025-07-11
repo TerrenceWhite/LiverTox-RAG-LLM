@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="MahoganySeed" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">MahoganySeed</book-part-id>
+      <title-group>
+        <title>Mahogany Seed</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>10</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MacularDegenerAgents" document-type="chapter">Macular Degeneration Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Maralixibat" document-type="chapter">Maralixibat</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="MahoganySeed.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="MahoganySeed.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Mahogany, Swietenia macrophylla, is a lofty fruit-bearing tree native to tropical areas of the Americas that is a valuable source of timber and also of herbal products made from its seeds, fruit (Skyfruit), leaves, stems, or bark. Recently, extracts of mahogany seeds have been reported to cause clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="MahoganySeed.Background">
+          <title>Background</title>
+          <p>Mahogany (Swietenia macrophylla and other species) is a lofty, fruit-bearing tree native to tropical areas of the Americas including Florida, Mexico, Central and South America, that is widely used for its valuable timber but also for herbal products made from extracts of its fruit, seeds, leaves, stems, and bark. Extracts of mahogany seeds (from Swietenia macrophylla, humulis, and mahagoni) have been used in traditional Indian, South Asian and Chinese medicine as therapy of a variety of conditions, including diabetes, hypertension, viral and parasitic infections, and pain. Studies in cell culture and animal models suggest that these extracts have hypoglycemic, antiinflammatory, antihypertensive, analgesic, antiviral and even antineoplastic activities, but none of these biologic actions has been demonstrated in humans. Phytochemical analyses of extracts demonstrate over 50 different limonoids such as swietenine, swietenolide, augustineolide, andirobin, swietemahonins, swietenitins, and proceranolide. Mahogany extracts also have multiple steroids, fatty acid esters, polyphenols (catechins), essential oils, coumarin and lignan. The biologically active component(s) of mahogany fruit and seed extracts are unknown but suspected to be limonoids. Various forms of mahogany seed are available either as the raw seeds or an extract, alone or combined with other herbs and nutritional agents in multi-ingredient dietary products. It is generally used to treat hypertension and diabetes, but also to improve wellness and energy. There is little information about common side effects of mahogany seed extracts in humans.</p>
+        </sec>
+        <sec id="MahoganySeed.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mahogany seed extracts have not been subjected to prospective trials of their safety and efficacy, but they are widely described in traditional medicine as being well tolerated and without side effects. Nevertheless, there have been a small number of reports from China, India, and South Asia of clinically apparent liver injury attributed to Mahogany seeds or their extracts. The latency to onset was typically 1 to 2 months but ranged from a week to as long as 6 months, presenting with symptoms of fatigue, nausea, poor appetite, dark urine, and jaundice. In published cases, the liver injury has been hepatocellular, and immune allergic reactions (fever, rash) were not common. In some instances, low levels of autoantibodies were found but immunoglobulins were typically normal and liver biopsies were more suggestive of drug induced liver injury than autoimmune hepatitis. Severity in published cases ranged from mild and asymptomatic elevations in serum aminotransferase levels to clinically apparent hepatitis and even severe hepatitis with signs of hepatic failure. Recovery was rapid once the herbal product was stopped and complete within 1 to 3 months with or without corticosteroid therapy. There have been no reports of chronicity.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="MahoganySeed.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism and the ingredient in mahogany seeds responsible for the liver injury have not been identified. The most characteristic ingredients are the limonoids such as swietenine which has been studied in animal models for effects of blood glucose and other metabolic factors.</p>
+        </sec>
+        <sec id="MahoganySeed.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Cases of liver injury from mahogany seed have ranged in severity from minimally symptomatic elevations in serum aminotransferase levels to cases of mild hepatitis resolving rapidly upon stopping, to severe hepatitis with symptoms and signs of acute liver failure. Liver injury from mahogany seed is typically hepatocellular but self-limited in course and chronic injury has not been well described. Corticosteroids have been used in some cases but with unclear benefit. Cases of rechallenge have not been reported but it should be avoided.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="book-part">Herbal and Dietary Supplements</related-object></p>
+          <p>Other names: Skyfruit, Swietenine, Large Leaf Mahogany</p>
+        </sec>
+      </sec>
+      <sec id="MahoganySeed.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Mahogany Seed &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+      </sec>
+      <sec id="MahoganySeed.CHEMICAL_FORMULAS_AND_STRUC">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="MahoganySeed.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_MahoganySeed.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_MahoganySeed.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_MahoganySeed.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_MahoganySeed.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Swietenine</td>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4801-97-2</td>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C32-H40-O9</td>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Swietenolide</td>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3776-48-5</td>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H34-O8</td>
+                <td headers="hd_h_MahoganySeed.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="MahoganySeed.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 October 2024</p>
+        <p>Abbreviations: DILI, drug-induced liver injury; HDS, herbal and dietary supplements.</p>
+        <ref-list id="MahoganySeed.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="MahoganySeed.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not mahogany seed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.dewanjee.2009.249">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dewanjee</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Maiti</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Das</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Mandal</surname>
+<given-names>SC</given-names></string-name>, <string-name name-style="western"><surname>Dey</surname>
+<given-names>SP</given-names></string-name>. <article-title>Swietenine: a potential oral hypoglycemic from Swietenia macrophylla seed.</article-title>
+<source>Fitoterapia.</source>
+<year>2009</year>;<volume>80</volume>:<fpage>249</fpage>-<lpage>51</lpage>.<annotation><p><italic toggle="yes">(Assessment of the hypoglycemic effects of an extract of mahogany seeds [swietenine] demonstrated reduction in fasting blood glucose in a streptozocin-treated rat model of diabetes).</italic></p></annotation><pub-id pub-id-type="pmid">19239921</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.moghadamtousi.2013.10465">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Moghadamtousi</surname>
+<given-names>SZ</given-names></string-name>, <string-name name-style="western"><surname>Goh</surname>
+<given-names>BH</given-names></string-name>, <string-name name-style="western"><surname>Chan</surname>
+<given-names>CK</given-names></string-name>, <string-name name-style="western"><surname>Shabab</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kadir</surname>
+<given-names>HA</given-names></string-name>. <article-title>Biological activities and phytochemicals of Swietenia macrophylla King.</article-title>
+<source>Molecules.</source>
+<year>2013</year>;<volume>18</volume>:<fpage>10465</fpage>-<lpage>83</lpage>.<annotation><p><italic toggle="yes">(Phytochemical analysis of the components found in extracts from Swietenia macrophylla [Mahogany tree] demonstrated multiple limonoids including swietenine and related compounds as well as steroids, fatty acid esters, polyphenols, essential oils, coumarin, and lignan, with a summary of the various biologic activities described in in vivo studies).</italic></p></annotation><pub-id pub-id-type="pmid">23999722</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.teschke.2012.1543">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Teschke</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Wolff</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Frenzel</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Schulze</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Eickhoff</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+<source>Liver Int</source>
+<year>2012</year>; <volume>32</volume>: <fpage>1543</fpage>-<lpage>56</lpage>.<annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbal products identified 185 publications on 60 different herbs, herbal drugs and supplements but does not list or mention mahogany seed).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.navarro.2013.715">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Seeff</surname>
+<given-names>LB</given-names></string-name>. <article-title>Liver injury induced by herbal complementary and alternative medicine.</article-title>
+<source>Clin Liver Dis</source>
+<year>2013</year>; <volume>17</volume>: <fpage>715</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Review of the epidemiology, regulatory status, diagnosis, pathogenesis and causes of liver injury from herbal products with specific discussion of conjugated linoleic acid, ephedra, germander, green tea, usnic acid, flavocoxid, aloe vera, chaparral, greater celandine, black cohosh, comfrey, kava, skullcap, valerian, noni juice, pennyroyal, and traditional herbal remedies; no mention of mahogany seed).</italic></p></annotation><pub-id pub-id-type="pmid">24099027</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.navarro.2014.1399">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Navarro</surname>
+<given-names>VJ</given-names></string-name>, <string-name name-style="western"><surname>Barnhart</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Grant</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Rleddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+<source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>1399</fpage>-<lpage>408</lpage>.<annotation><p><italic toggle="yes">(Among 839 cases of liver injury from drugs collected in the US between 2004 and 2013, 130 were due to HDS products, including 45 from body building agents [probably anabolic steroids] and 85 from diverse HDS products, but no case was attributed specifically to mahogany seed).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.brown.2017.472">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Brown</surname>
+<given-names>AC</given-names></string-name>. <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+<source>Food Chem Toxicol</source>
+<year>2017</year>; <volume>107</volume>: <fpage>472</fpage>-<lpage>501</lpage>.<annotation><p><italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products, does not list or discuss mahogany seed).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.chng.2018.289">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ch'ng</surname>
+<given-names>YS</given-names></string-name>, <string-name name-style="western"><surname>Loh</surname>
+<given-names>YC</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>CS</given-names></string-name>, <string-name name-style="western"><surname>Ahmad</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Asmawi</surname>
+<given-names>MZ</given-names></string-name>, <string-name name-style="western"><surname>Wan Omar</surname>
+<given-names>WM</given-names></string-name>, <string-name name-style="western"><surname>Yam</surname>
+<given-names>MF</given-names></string-name>. <article-title>Vasodilation and antihypertensive activities of Swietenia macrophylla (Mahogany) seed extract.</article-title>
+<source>J Med Food.</source>
+<year>2018</year>;<volume>21</volume>:<fpage>289</fpage>-<lpage>301</lpage>.<annotation><p><italic toggle="yes">(Ethanolic extracts of mahogany seeds decreased systolic and diastolic blood pressure in a spontaneous hypertensive rat model and led to vasodilation in assays using rat thoracic aortic rings).</italic></p></annotation><pub-id pub-id-type="pmid">29420109</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.medinacaliz.2018.1495">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Cortes</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gonzalez-Jimenez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Cabello</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Robles-Diaz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sanabria-Cabrera</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Sanjuan-Jimenez</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>; <collab>Spanish DILI Registry</collab>. <article-title>Herbal and dietary supplement-induced liver injuries in the Spanish DILI Registry.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2018</year>;<volume>16</volume>:<fpage>1495</fpage>-<lpage>1502</lpage>.<annotation><p><italic toggle="yes">(Among 856 cases of hepatotoxicity enrolled in the Spanish Drug-Induced Liver Injury Registry between 1994 and 2016, 32 were attributed to herbal products, the most frequent cause being green tea [n=8] and Herbalife products [n=6], no mention of mahogany seed).</italic></p></annotation><pub-id pub-id-type="pmid">29307848</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.yeap.2018.bcr2018225382">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yeap</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>TJY</given-names></string-name>, <string-name name-style="western"><surname>Loh</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kumar</surname>
+<given-names>R</given-names></string-name>. <article-title>Liver failure associated with mahogany seed extract consumption.</article-title>
+<source>BMJ Case Rep.</source>
+<year>2018</year>;<volume>2018</volume>:<elocation-id>bcr2018225382</elocation-id>.<annotation><p><italic toggle="yes">(45 year old Indian woman developed fatigue, nausea, dark urine and jaundice 6 months after starting a Swietenia mahagoni seed [Skyfruit] extract [bilirubin 15.1 mg/dL, ALT 1267 U/L, Alk P 124 U/L, protime 16.8 sec], biopsy showing hepatitis with bridging necrosis, with rapid recovery upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">30061133</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.tan.2019.406">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tan</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Sun</surname>
+<given-names>L.</given-names></string-name>
+<article-title>RUCAM-based assessment of liver injury by xiang-tian-guo (Swietenia macrophylla) seeds, a plant used for treatment of hypertension and diabetes.</article-title>
+<source>Ann Hepatol.</source>
+<year>2019</year>;<volume>18</volume>:<fpage>406</fpage>-<lpage>407</lpage>.<annotation><p><italic toggle="yes">(Brief report from China of 3 elderly male patients who developed liver injury 1-2 months after starting mahogany seeds [1 raw Swietenia macrophylla seed three times daily], one with jaundice [bilirubin 12.4 mg/dL, ALT 678 U/L, Alk P 254], resolving 8 weeks after stopping and the other two without jaundice [ALT 363 and 224 U/L, Alk P 122 and 108 U/L], resolving within 4 and 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">31056362</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.sukardiman.2020.e03536">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sukardiman</surname>, <given-names>Ervina M.</given-names></string-name>
+<article-title>The recent use of <italic toggle="yes">Swietenia mahagoni</italic> (L.) Jacq. as antidiabetes type 2 phytomedicine: A systematic review.</article-title>
+<source>Heliyon.</source>
+<year>2020</year>;<volume>6</volume>:<elocation-id>e03536</elocation-id>.<annotation><p><italic toggle="yes">(Review of the phytochemistry and in vitro and in vivo evidence of antidiabetic activity of several species of Swietenia, including mahagoni [West Indies], humilis [Pacific Coast], and macrophylla [Honduran]; no discussion of clinical studies in humans or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32190758</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.xia.2020.300060520917569">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Xia</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Yao</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Ding</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Jin</surname>
+<given-names>J</given-names></string-name>. <article-title>Causality assessment of skyfruit-induced liver injury using the updated RUCAM: a case report and review of the literature.</article-title>
+<source>J Int Med Res.</source>
+<year>2020</year>;<volume>48</volume>:<elocation-id>300060520917569</elocation-id>.<annotation><p><italic toggle="yes">(63 year old woman developed epigastric pain, nausea, and fever a week after taking 3 Skyfruit seeds daily for 3 days [bilirubin 1.3 mg/dL, ALT 466 U/L, Alk P 104 U/L], with rapid resolution within the following month; review of the literature mentions 7 cases, 2 reported in Chinese).</italic></p></annotation><pub-id pub-id-type="pmid">32293220</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.ballotin.2021.5490">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ballotin</surname>
+<given-names>VR</given-names></string-name>, <string-name name-style="western"><surname>Bigarella</surname>
+<given-names>LG</given-names></string-name>, <string-name name-style="western"><surname>Brand&#x000e3;o</surname>
+<given-names>ABM</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Balbinot</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Soldera</surname>
+<given-names>J</given-names></string-name>. <article-title>Herb-induced liver injury: systematic review and meta-analysis.</article-title>
+<source>World J Clin Cases.</source>
+<year>2021</year>;<volume>9</volume>:<fpage>5490</fpage>-<lpage>5513</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the literature on HDS induced liver injury identified 446 references describing 936 cases due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90] Herbalife products [64], kava kava [62] and greater celandine [48]; mahogany seed is not listed or discussed).</italic></p></annotation><pub-id pub-id-type="pmid">34307603</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="MahoganySeed.REF.bessone.2022.e548">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Medina-Caliz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Hernandez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Parana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Mendizabal</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schinoni</surname>
+<given-names>MI</given-names></string-name>, <etal>et al.</etal>
+<article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+<source>Clin Gastroenterol Hepatol.</source>
+<year>2022</year>;<volume>20</volume>:<fpage>e548</fpage>-<lpage>e563</lpage>.<annotation><p><italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American Drug-Induced Liver Injury Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5] and garcinia [n=3]; mahogany seed is not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">33434654</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="MahoganySeed.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Mahogany+seed%20or%20Swietenine+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Mahogany seed or Swietenine: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Mahogany%20seed%20OR%20Swietenine">Trials on Mahogany seed or Swietenine: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

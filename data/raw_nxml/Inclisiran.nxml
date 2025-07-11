@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Inclisiran" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Inclisiran</book-part-id>
+      <title-group>
+        <title>Inclisiran</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Imipramine" document-type="chapter">Imipramine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="IncretinBasedDrugs" document-type="chapter">Incretin-Based Drugs</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Inclisiran.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Inclisiran.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Inclisiran is a synthetic small interfering RNA (siRNA) molecule directed against PCSK-9 that is used to treat hypercholesterolemia. Inclisiran has not been linked to ALT elevations during therapy or to instances of clinically apparent liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Inclisiran.Background">
+          <title>Background</title>
+          <p>Inclisiran (in clis&#x02019; er an) is a synthetic, double-stranded, small interfering RNA (siRNA) directed against the mRNA of PCSK9 (proprotein convertase subtilisin/kexin type 9), a small polypeptide produced in the liver than binds to and causes degradation of the low density lipoprotein (LDL) cholesterol receptor. The binding of PCSK9 to the receptor leads to its internalization and lysosomal digestion, resulting in less uptake of LDL cholesterol from the serum and rise in cholesterol levels. Inhibition of this protein prevents the breakdown of the LDL cholesterol receptor, resulting in an increase in LDL cholesterol by the liver and a marked decrease in serum LDL cholesterol. The siRNA molecule is covalently linked to three N-acetylgalactosamine residues, which facilitate its uptake by hepatocytes. Once taken up by cells, the siRNA is cleaved into smaller fragments and separated into single strands that bind and silence the mRNA of PCSK9. In animal models, inclisiran reduced PCSK9 mRNA levels in liver and PCSK9 protein in serum, which was accompanied by an increase in hepatocyte LDL cholesterol receptors and decrease in serum LDL cholesterol. In placebo controlled trials of inclisiran in patients with hypercholesterolemia, single subcutaneous injections resulted in dose related reductions in serum cholesterol levels that persisted for several weeks. With 3 to 6 monthly injections of higher doses, serum LDL cholesterol levels fell by 50%. Inclisiran was approved for use in the United States in 2021 for patients with heterozygous familial hypercholesterolemia or patients with a history of cardiovascular disease with inadequate lowering of serum LDL cholesterol by statins due to resistance or intolerance of statin side effects. Inclisiran is available in solution in single dose prefilled syringes of 284 mg in 1.5 mL under the brand name Leqvio. The recommended dose regimen is 284 mg initially and again 3 months later, followed by every 6 months. Administration should be by a health care provider. Inclisiran is generally well tolerated, but side effects can include injection site reactions, fatigue, arthralgias, diarrhea and musculoskeletal pains. In preregistration studies, 5% to 13% of inclisiran treated patients developed anti-drug antibodies, but their presence was not associated with decreased efficacy or safety.</p>
+        </sec>
+        <sec id="Inclisiran.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In multiple pivotal trials, inclisiran therapy was well tolerated and serum ALT elevations arose in less than 1% of patients that were invariably transient, mild-to-moderate in severity, and without accompanying symptoms or jaundice. In controlled trials, rates of ALT and AST elevations during inclisiran therapy were similar to those with placebo or comparator agents. Since its approval and more widescale use, there have been no published reports of liver injury attributed to inclisiran therapy. Thus, inclisiran is an unlikely cause of clinically apparent liver injury, although it still has had limited clinical use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Inclisiran.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of hepatic injury from inclisiran or other siRNA therapeutics is not known. One possibility is that suppression of intracellular PCSK9 levels might cause or predispose to liver injury. Inclisiran, like other siRNA therapeutic agents, is metabolized intracellularly by nucleases and is not a substrate of cytochrome P450 enzymes or hepatic transporters.</p>
+        </sec>
+        <sec id="Inclisiran.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Inclisiran has not been linked to ALT elevations or to clinically apparent liver injury and regular monitoring of routine liver tests is not recommended.</p>
+          <p>Drug Class: Genetic Disorder Agents, <related-object link-type="booklink" source-id="livertox" document-id="Lipid-LoweringAgents" document-type="chapter">Antilipemic Agents</related-object></p>
+          <p>Other Therapeutic siRNA-based Agents: <related-object link-type="booklink" source-id="livertox" document-id="Eteplirsen" document-type="chapter">Eteplirsen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Givosiran" document-type="chapter">Givosiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Golodirsen" document-type="chapter">Golodirsen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Patisiran" document-type="chapter">Patisiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Inclisiran.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Inclisiran &#x02013; Leqvio&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents, Antilipemic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Inclisiran.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Inclisiran.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Inclisiran.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Inclisiran.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Inclisiran.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Inclisiran.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Inclisiran.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Inclisiran</td>
+                <td headers="hd_h_Inclisiran.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127835">1639324-58-5</ext-link>
+</td>
+                <td headers="hd_h_Inclisiran.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C529-H707-F12-N176-O316-P43-S6</td>
+                <td headers="hd_h_Inclisiran.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Inclisiran.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 January 2023</p>
+        <p>Abbreviations: mRNA, messenger RNA; PCSK9, proprotein convertase subtilisin/kexin type 9; siRNA, small interfering RNA.</p>
+        <ref-list id="Inclisiran.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Inclisiran.REF.inclisiran.2021">
+            <mixed-citation publication-type="book">FDA. Inclisiran. Clinical Review. 2021. Available at:</mixed-citation>
+          </ref>
+          <ref id="Inclisiran.REF2">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214012Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214012Orig1s000MedR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(The FDA clinical review of inclisiran for efficacy and safety; reported ALT elevations above 5 times ULN arose in 6 of 2990 [0.2%] inclisiran treated patients, all of which were transient and asymptomatic and none were associated with jaundice).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Inclisiran.REF.setten.2019.421">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Setten</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>SP</given-names></name>
+</person-group>
+              <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+              <source>Nat Rev Drug Discov</source>
+              <year>2019</year>
+              <volume>18</volume>
+              <fpage>421</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of RNAi therapeutics, which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30846871</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.fitzgerald.2014.60">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fitzgerald</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Frank-Kamenetsky</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shulga-Morskaya</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Liebow</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bettencourt</surname><given-names>BR</given-names></name>
+<name name-style="western"><surname>Sutherland</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Hutabarat</surname><given-names>RM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effect of an RNA interference drug on the synthesis of proprotein convertase subtilisin/kexin type 9 (PCSK9) and the concentration of serum LDL cholesterol in healthy volunteers: a randomised, single-blind, placebo-controlled, phase 1 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2014</year>
+              <volume>383</volume>
+              <issue>9911</issue>
+              <fpage>60</fpage>
+              <lpage>68</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a phase 1, dose-finding and safety study of single injections of inclisiran or placebo in 32 patients not receiving medications for hypercholesterolemia, inclisiran led to a rapid 50% decline in PCSK9 levels and marked decline in LDL cholesterol levels at the highest doses that was sustained for several weeks, and there were no drug related serious adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24094767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.fitzgerald.2017.41">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fitzgerald</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Borodovsky</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bettencourt</surname><given-names>BR</given-names></name>
+<name name-style="western"><surname>Strahs</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Clausen</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Wijngaard</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A highly durable RNAi therapeutic inhibitor of PCSK9.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2017</year>
+              <volume>376</volume>
+              <fpage>41</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a phase 1 dose findings of single or multiple doses of inclisiran, maximum reduction in LDL cholesterol was achieved with 300 mg doses, which were sustained for 6 months while adverse events were mild-to-moderate in severity and self-limited in course, one patient on inclisiran developing ALT levels above 2 times ULN improved on stopping atorvastatin and had recurrence on restarting it).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27959715</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.ray.2017.1430">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ray</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Landmesser</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Leiter</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kallend</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Dufour</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Karakas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hall</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Inclisiran in patients at high cardiovascular risk with elevated LDL cholesterol.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2017</year>
+              <volume>376</volume>
+              <fpage>1430</fpage>
+              <lpage>1440</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a phase 2 trial of multiple ascending doses of one or two doses of inclisiran vs placebo, the 2 dose regimen of 300 mg of inclisiran yielded the greatest reduction in LDL cholesterol, and adverse event rates were similar between two groups with ALT levels above 3 times ULN in 2 of 370 [0.5%] on inclisiran vs none of 127 on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28306389</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.page.2018.270">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Page</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Watts</surname><given-names>GF</given-names></name>
+</person-group>
+              <article-title>PCSK9 in context: A contemporary review of an important biological target for the prevention and treatment of atherosclerotic cardiovascular disease.</article-title>
+              <source>Diabetes Obes Metab.</source>
+              <year>2018</year>
+              <volume>20</volume>
+              <fpage>270</fpage>
+              <lpage>282</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the role of PCSK9 in cholesterol metabolism and the efficacy and safety of monoclonal antibody inhibitors of circulating levels [evolocumab and alirocumab ] and siRNA inhibitors of its synthesis [inclisiran].</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28736830</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.ray.2020.1507">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ray</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Wright</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Kallend</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Koenig</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Leiter</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Raal</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Bisch</surname><given-names>JA</given-names></name>
+<etal/>
+<collab>ORION-10 and ORION-11 Investigators</collab>
+</person-group>
+              <article-title>Two phase 3 trials of inclisiran in patients with elevated LDL cholesterol.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1507</fpage>
+              <lpage>1519</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3178 patients with atherosclerotic cardiovascular disease [or at high risk for it] and high LDL cholesterol levels despite statin therapy in 2 placebo controlled trials of inclisiran [300 mg at 0, 90, 270and 450 days], LDL cholesterol levels decreased by 50-52% with inclisiran and adverse event rates were similar to placebo except for injection site reactions [4.7% vs 0.5%]; ALT levels rising above 3 times ULN in 0.4% of both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32187462</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.raal.2020.1520">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raal</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Kallend</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ray</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Turner</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Koenig</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wright</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Wijngaard</surname><given-names>PLJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>ORION-9 Investigators. Inclisiran for the treatment of heterozygous familial hypercholesterolemia.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1520</fpage>
+              <lpage>1530</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 482 adults with heterozygous familial hypercholesterolemia treated with inclisiran [300 mg] or placebo on days 0, 90, 270 and 450, LDL cholesterol levels decreased by 40% on inclisiran but increased by 8% on placebo, while adverse event rates were similar in the two groups except for injection site reactions [17% vs 1.7%], ALT levels above 3 times ULN occurring in 1.2% [3 of 241 inclisiran-] vs 0.4% [1 of 240 placebo recipients]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32197277</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF10">
+            <element-citation publication-type="journal">
+              <article-title>Inclisiran (Leqvio) for LDL-cholesterol lowering.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <issue>1646</issue>
+              <fpage>43</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of inclisiran shortly after its approval for use in the United States, mentions side effects of injection site reactions [8%], arthralgia, urinary tract infections, diarrhea, bronchitis, extremity pain and dyspnea; no mention of ALT elevations or hepatotoxicity.</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35294427</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Lipid-lowering drugs.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <issue>1659</issue>
+              <fpage>145</fpage>
+              <lpage>152</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of efficacy, safety and costs of lipid-lowering drugs approved for use in the US mentions that inclisiran lowers LDL cholesterol levels by about 50% when added to maximally tolerated statin therapy, but includes no mention of serious adverse events, ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36094548</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Inclisiran.REF.ranasinghe.2022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ranasinghe</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Addison</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Dear</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Webb</surname><given-names>DJ</given-names></name>
+</person-group>
+              <article-title>Small interfering RNA: Discovery, pharmacology and clinical development&#x02013;An introductory review.</article-title>
+              <source>Br J Pharmacol.</source>
+              <year>2022</year>
+              <month>Oct</month>
+              <day>17</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the history of development, mechanism of action, methods of delivery, clinical efficacy and safety of RNA silencing drugs including lumasiran, givosiran, inclisiran, patisiran and vutrisiran, discusses adverse events from inclisiran of injection site reactions, but does not mention hepatotoxicity or ALT elevations).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Inclisiran.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Inclisiran/AE)%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Inclisiran: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/results?term=Inclisiran">Trials on Inclisiran: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Riociguat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Riociguat</book-part-id>
+      <title-group>
+        <title>Riociguat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rimegepant" document-type="chapter">Rimegepant</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ripretinib" document-type="chapter">Ripretinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Riociguat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Riociguat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Riociguat is a stimulator of guanylate cyclase which causes relaxation of vascular smooth muscle and is used to treat severe pulmonary arterial hypertension. Riociguat has not been linked to significant serum enzyme elevations during therapy or to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Riociguat.Background">
+          <title>Background</title>
+          <p>Riociguat (rye" oh sig' ue at) is small molecular weight stimulator of soluble guanylate cyclase, an enzyme responsible for synthesis of cyclic guanine monophosphate (cyclic GMP), an important mediator of endothelial cell relaxation. By stimulating cyclic GMP, riociguat leads to relaxation of vascular smooth muscle cells, particularly in the pulmonary vasculature. In humans, riociguat induces pulmonary arterial vasodilation and reduces pulmonary artery pressure. In several clinical trials, prolonged therapy with riociguat has been shown to improve exercise capacity and pulmonary function in patients with severe idiopathic as well as chronic thromboembolic pulmonary arterial hypertension (PAH). Riociguat was approved for use in chronic idiopathic and thromboembolic PAH in 2013 and it is currently available in tablets of 0.5, 1.0, 1.5, 2.0 and 2.5 mg under the brand name Adempas. The recommended starting dose is 1 mg three times daily which can be increased in 0.5 mg amounts every two weeks based upon tolerance to a maximum of 2.5 mg thrice daily. Side effects are generally dose related and can include hypotension, syncope, dizziness, headache, diarrhea, gastrointestinal upset, nausea, vomiting and constipation, symptoms that are frequent with most vasodilator therapies. Rare, but potentially severe adverse reactions include pulmonary hemorrhage and fetal toxicity. Women of childbearing potential can receive riociguat only as a part of a risk evaluation and mitigation strategy (REMS) program that requires regular monitoring.</p>
+        </sec>
+        <sec id="Riociguat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration studies, riociguat was not associated with serum enzyme elevations or with episodes of clinically apparent liver injury. Since approval of riociguat, there have been no published reports of hepatotoxicity, and the product label does not mention liver injury as an adverse event.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Riociguat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which riociguat might cause serum aminotransferase elevations or liver injury is not known. It is metabolized by the hepatic cytochrome P450 system (predomination 3A4 and is susceptible to drug-drug interactions. The absence of significant hepatotoxicity from riociguat may related to the relatively low daily doses used (3.0 to 7.5 mg).</p>
+        </sec>
+        <sec id="Riociguat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations associated with riociguat use have been rare, mild-to-moderate and self-limited in course, usually resolving despite drug continuation. Clinically apparent liver injury from riociguat has not been described. There is no information on cross sensitivity to hepatic injury among the various agents used to treat pulmonary artery hypertension.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="PulmonaryArterialHyp" document-type="chapter">Pulmonary Arterial Hypertension Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Guanylate Cyclase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Vericiguat" document-type="chapter">Vericiguat</related-object></p>
+          <p>Other Drugs in the Class: Ambrisentan, <related-object link-type="booklink" source-id="livertox" document-id="Bosentan" document-type="chapter">Bosentan</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Macitentan" document-type="chapter">Macitentan</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Selexipag" document-type="chapter">Selexipag</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="ProstacyclinAnalogs" document-type="chapter">Prostacyclin Analogs</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProstacyclinAnalogs" document-type="chapter">Epoprostenol</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProstacyclinAnalogs" document-type="chapter">Iloprost</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProstacyclinAnalogs" document-type="chapter">Treprostinil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Riociguat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Riociguat &#x02013; Adempas&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Pulmonary Arterial Hypertension Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Riociguat">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Riociguat.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Riociguat.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Riociguat.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Riociguat.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Riociguat.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Riociguat.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Riociguat.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Riociguat</td>
+                <td headers="hd_h_Riociguat.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135263495">625115-55-1</ext-link>
+</td>
+                <td headers="hd_h_Riociguat.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C20-H19-F-N8-O2</td>
+                <td headers="hd_h_Riociguat.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135263495" document-id-type="sid" document-type="summary" object-id="135263495" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Riociguat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 June 2018</p>
+        <p>Abbreviations used: PAH, pulmonary arterial hypertension.</p>
+        <ref-list id="Riociguat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Riociguat.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Acetaminophen toxicity. Syndromes of environmental hepatotoxicity. In, Zimmerman, HJ. Hepatotoxicity. The adverse effects of drugs and other chemicals upon the liver. 2nd edition. Philadelphia. Lippincott, 1999. pp 337-46.<annotation><p><italic toggle="yes">(Textbook of drug induced liver injury published in 1999 before the availability of riociguat).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Riociguat.REF.barnes.2011">
+            <mixed-citation publication-type="book">Barnes PJ. Pharmacotherapy of pulmonary arterial hypertension. Pulmonary Pharmacology. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1059-61.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Riociguat.REF.ghofrani.2013.330">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ghofrani</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Gali&#x000e8;</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Grimminger</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gr&#x000fc;nig</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Humbert</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jing</surname><given-names>ZC</given-names></name>
+<name name-style="western"><surname>Keogh</surname><given-names>AM</given-names></name>
+<etal/>
+<collab>PATENT-1 Study Group</collab>
+</person-group>
+              <article-title>Riociguat for the treatment of pulmonary arterial hypertension.</article-title>
+              <source>N Engl J Med</source>
+              <year>2013</year>
+              <volume>369</volume>
+              <fpage>330</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 443 patients with pulmonary arterial hypertension [PAH] treated with riociguat or placebo for 12 weeks, exercise capacity improved with riociguat and side effects included headache, dyspepsia, peripheral edema, nausea, dizziness and diarrhea, and one patient required early discontinuation of therapy because of serum enzyme elevations, but no details provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23883378</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.ghofrani.2013.319">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ghofrani</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>D'Armini</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Grimminger</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Hoeper</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Jansa</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>E</given-names></name>
+<etal/>
+<collab>CHEST-1 Study Group</collab>
+</person-group>
+              <article-title>Riociguat for the treatment of chronic thromboembolic pulmonary hypertension.</article-title>
+              <source>N Engl J Med</source>
+              <year>2013</year>
+              <volume>369</volume>
+              <issue>4</issue>
+              <fpage>319</fpage>
+              <lpage>29</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 261 patients with chronic thromboembolic PAH treated with riociguat or placebo for 16 weeks, exercise capacity improved with riociguat and side effects included headache, dizziness, dyspepsia, sinusitis, nausea, vomiting, diarrhea and hypotension; there were no liver related serious adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23883377</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF5">
+            <element-citation publication-type="journal">
+              <article-title>Riociguat (Adempas) for pulmonary hypertension.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2014</year>
+              <volume>56</volume>
+              <issue>1437</issue>
+              <fpage>17</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of riociguat shortly after its approval for use in the US mentions the common side effects and teratogenicity, but makes no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.rubin.2015.1303">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rubin</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Gali&#x000e8;</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Grimminger</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gr&#x000fc;nig</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Humbert</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jing</surname><given-names>ZC</given-names></name>
+<name name-style="western"><surname>Keogh</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Riociguat for the treatment of pulmonary arterial hypertension: a long-term extension study (PATENT-2).</article-title>
+              <source>Eur Respir J</source>
+              <year>2015</year>
+              <volume>45</volume>
+              <fpage>1303</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 396 patients with PAH who were treated with riociguat or placebo in a randomized controlled trial and were then continued or started riociguat, improvements in exercise capacity persisted for the year of therapy and side effects included hypotension, syncope, dizziness and headache; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25614164</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.hill.2015.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hill</surname><given-names>NS</given-names></name>
+<name name-style="western"><surname>Badesch</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Benza</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>D'Eletto</surname><given-names>TA</given-names></name>
+<name name-style="western"><surname>Farber</surname><given-names>HW</given-names></name>
+<name name-style="western"><surname>Gomberg-Maitland</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hassoun</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Preston</surname><given-names>I</given-names></name>
+</person-group>
+              <article-title>Perspectives on oral pulmonary hypertension therapies recently approved by the U.S. Food and Drug Administration.</article-title>
+              <source>Ann Am Thorac Soc</source>
+              <year>2015</year>
+              <volume>12</volume>
+              <fpage>269</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of recently approved drugs for PAH including macitentan, riociguat and oral treprostinil mentions that riociguat can cause significant hypotension and is embryotoxic; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25590376</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, one was attributed to bosentan, but none to riociguat or other agents used primarily to treat pulmonary artery hypertension).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.ghofrani.2016.361">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ghofrani</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Grimminger</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gr&#x000fc;nig</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Jansa</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jing</surname><given-names>ZC</given-names></name>
+<name name-style="western"><surname>Kilpatrick</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Predictors of long-term outcomes in patients treated with riociguat for pulmonary arterial hypertension: data from the PATENT-2 open-label, randomised, long-term extension trial.</article-title>
+              <source>Lancet Respir Med</source>
+              <year>2016</year>
+              <volume>4</volume>
+              <fpage>361</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 396 patients with PAH who had participated in a placebo controlled trial and then were treated with open label riociguat, exercise capacity was maintained for the duration of therapy [up to 2 years] and no new side effects were evident; no mention of serum ALT elevations or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27067479</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.simonneau.2016.372">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Simonneau</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>D'Armini</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Ghofrani</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Grimminger</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Jansa</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Predictors of long-term outcomes in patients treated with riociguat for chronic thromboembolic pulmonary hypertension: data from the CHEST-2 open-label, randomised, long-term extension trial.</article-title>
+              <source>Lancet Respir Med</source>
+              <year>2016</year>
+              <volume>4</volume>
+              <fpage>372</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 237 patients with chronic thromboembolic PAH who had participated in a placebo controlled trial and then were treated with open label riociguat, exercise capacity was maintained for the duration of therapy [up to 2 years] and no new side effects were evident; no mention of serum ALT elevations or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27067478</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.humbert.2017.422">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Humbert</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Coghlan</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Ghofrani</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Grimminger</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Riemekasten</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Vizza</surname><given-names>CD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Riociguat for the treatment of pulmonary arterial hypertension associated with connective tissue disease: results from PATENT-1 and PATENT-2.</article-title>
+              <source>Ann Rheum Dis</source>
+              <year>2017</year>
+              <volume>76</volume>
+              <fpage>422</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 111 patients with connective tissue disease associated PAH from previous controlled trials of riociguat [Ghofrani et al 2013 and 2016] found similar rates of improvements and side effects as found in the entire treated population; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27457511</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.halank.2017.50">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Halank</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hoeper</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Ghofrani</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Meyer</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>St&#x000e4;hler</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Behr</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ewert</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Riociguat for pulmonary arterial hypertension and chronic thromboembolic pulmonary ypertension: Results from aphase II long-term extension study.</article-title>
+              <source>Respir Med</source>
+              <year>2017</year>
+              <volume>128</volume>
+              <fpage>50</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 68 patients with PAH treated with riociguat in a long term extension study following a controlled trial [Ghofrani 2013], clinical improvements were maintained and no new adverse events were found; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28610669</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Riociguat.REF.mclaughlin.2017.216">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McLaughlin</surname><given-names>VV</given-names></name>
+<name name-style="western"><surname>Jansa</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Nielsen-Kudsk</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Halank</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Simonneau</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Gr&#x000fc;nig</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ulrich</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Riociguat in patients with chronic thromboembolic pulmonary hypertension: results from an early access study.</article-title>
+              <source>BMC Pulm Med</source>
+              <year>2017</year>
+              <volume>17</volume>
+              <fpage>216</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 262 patients with recurrent or persistent chronic thromboembolic PAH treated with riociguat in an open access study for an average of 1 year, common adverse events included dizziness, headache, syncope, peripheral edema and gastrointestinal symptoms; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29282032</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Riociguat.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Riociguat+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Riociguat: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Riociguat">Trials on Riociguat: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

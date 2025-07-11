@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="GastrointestinalAgen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">GastrointestinalAgen</book-part-id>
+      <title-group>
+        <title>Gastrointestinal Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="GarciniaCambogia" document-type="chapter">Garcinia Cambogia</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="GaucherDiseaseAgents" document-type="chapter">Gaucher Disease Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="GastrointestinalAgen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="GastrointestinalAgen.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Medications for gastrointestinal diseases and symptoms include prescription and nonprescription drugs, conventional and unconventional agents, simple small molecules, complex macromolecules and large recombinant proteins. These medications are can be classified based upon their use: drugs for nausea and vomiting (antiemetics), prokinetic agents, laxatives, antidiarrheal agents, drugs for acid peptic disease, drugs for irritable bowel syndrome, inflammatory bowel disease and, of course, miscellaneous. Agents used for gastrointestinal disease rarely cause liver injury. One reason for this is that they are often locally active and result in little systemic exposure. The immunomodulatory agents used to treat inflammatory bowel disease are an exception, being given systemically, often intravenously and capable of causing liver injury, although not very frequently.</p>
+          <p>Antidiarrheal agents include bulk forming agents, hydroscopic agents, bile acid resins, bismuth, inhibitors of intestinal motility, non-absorbed antibiotics and hormones. Bulk forming agents include methylcellulose; hydroscopic agents include pectin and kaolin; bile acid resins are cholestyramine, colestipol and colesevalam; inhibitors of intestinal motility include opioids such as diphenoxylate and loperamide. Antibiotics include rifamycin and rifaximin which are non-absorbed and are used for travelers' diarrhea. Hormones with antidiarrheal activity include octretide and somatostatin. Most antidiarrheal agents are active locally in the small intestine and colon and are largely not absorbed. Some, however, have been implicated in rare causes of liver injury (senna, cascara, cholestyramine). Telotristat is a relatively new agent that inhibits the synthesis of serotonin and is used specifically for the diarrhea of carcinoid syndrome. Agents discussed in LiverTox include the following, which are linked to the specific drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Bismuth</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Cholestyramine" document-type="book-part">Cholestyramine</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Colesevelam" document-type="book-part">Colesevelam</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Colestipol" document-type="book-part">Colestipol</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Crofelemer" document-type="book-part">Crofelemer</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Difenoxin</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Diphenoxylate" document-type="book-part">Diphenoxylate</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Kaolin</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Loperamide" document-type="book-part">Loperamide</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Methylcellulose</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Octreotide" document-type="book-part">Octreotide</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Pectin</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Rifamycin" document-type="book-part">Rifamycin</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Rifaximin" document-type="book-part">Rifaximin</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Somatostatin</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Telotristat" document-type="book-part">Telotristat</related-object>
+</p>
+            </list-item>
+          </list>
+          <p>Antiemetics are a diverse group of medications that act at different points in the pathways that regulate nausea and vomiting. These include antihistamines, anticholinergic agents, phenothiazines, serotonin type 3 receptor blockers, centrally acting benzamides, cannabinoid receptor agonists, substance P antagonists and miscellaneous. Agents discussed in LiverTox include the following, which have links to the specific drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Anticholinergics" document-type="book-part">Anticholinergic Agents</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Hyoscyamine" document-type="book-part">Hyoscyamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ScopolamineMethscop" document-type="book-part">Methscopolamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ScopolamineMethscop" document-type="book-part">Scopolamine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Antihistamines" document-type="book-part">Antihistamines</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="CyclizineChlorcycl" document-type="book-part">Cyclizine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dimenhydrinate" document-type="book-part">Dimenhydrinate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Hydroxyzine" document-type="book-part">Hydroxyzine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Meclizine" document-type="book-part">Meclizine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Promethazine" document-type="book-part">Promethazine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Cannabinoid Receptor Agonists</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Dronabinol" document-type="book-part">Dronabinol</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nabilone" document-type="book-part">Nabilone</related-object>, Tetrahydrocannabinol</p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Phenothiazines [See <related-object link-type="booklink" source-id="livertox" document-id="AntipsychoticAgents" document-type="book-part">Antipsychotic Agents</related-object>]</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Chlorpromazine" document-type="book-part">Chlorpromazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Prochlorperazine" document-type="book-part">Prochlorperazine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Serotonin 5-HT3 Receptor Antagonists</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Alosetron</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Dolasetron</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Granisetron</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Ondansetron</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Palonosetron</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Substance P/Neurokinin 1 Receptor Antagonists</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Aprepitant" document-type="book-part">Aprepitant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Aprepitant" document-type="book-part">Fosaprepitant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fosnetupitant" document-type="book-part">Fosnetupitant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rolapitant" document-type="book-part">Rolapitant</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Miscellaneous</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Amisulpride" document-type="book-part">Amisulpride</related-object>, Dexamethasone, <related-object link-type="booklink" source-id="livertox" document-id="Metoclopramide" document-type="book-part">Metoclopramide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trimethobenzamide" document-type="book-part">Trimethobenzamide</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+          <p>Acid peptic disease/antiulcer agents that include antacids, the histamine type 2 receptor blockers (H2 blockers), and the proton pump inhibitors (PPIs). These agents are some of the most commonly taken medications and are very well tolerated, most being available both by prescription and over-the-counter. While many of these drugs are approved for use in duodenal and gastric ulcer disease, their major use is for acid reflux and indigestion. Agents discussed in LiverTox include the following, which are linked to the specific drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="H2ReceptorBlockers" document-type="book-part">Histamine H2 Receptor Antagonists (H2 Blockers)</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Cimetidine" document-type="book-part">Cimetidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Famotidine" document-type="book-part">Famotidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nizatidine" document-type="book-part">Nizatidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ranitidine" document-type="book-part">Ranitidine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ProtonPumpInhibitors" document-type="book-part">Proton Pump Inhibitors</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Lansoprazole" document-type="book-part">Dexlansoprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Omeprazole" document-type="book-part">Esomeprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lansoprazole" document-type="book-part">Lansoprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Omeprazole" document-type="book-part">Omeprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pantoprazole" document-type="book-part">Pantoprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rabeprazole" document-type="book-part">Rabeprazole</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+          <p>Cathartics, laxatives or agents for constipation include bulk forming agents, osmotic agents, stool wetting agents, nonspecific stimulants, prokinetic agents and agents that increase fluid secretion. Many of these therapies are not systemically absorbed and none are considered particularly hepatotoxic. Naldemedine and naloxegol are opioid antagonists and are used to treat the constipation associated with opioid use. Not all of these agents are discussed in LiverTox, but those that are have links to the specific drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Bisacodyl" document-type="book-part">Bisacodyl</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Cascara" document-type="book-part">Cascara Sagrada</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Castor Oil</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Docusate" document-type="book-part">Docusate</related-object>
+</p>
+            </list-item>
+            <list-item>
+              <p>Fiber, Bran</p>
+            </list-item>
+            <list-item>
+              <p>Lactulose</p>
+            </list-item>
+            <list-item>
+              <p>Magnesium Sulfate</p>
+            </list-item>
+            <list-item>
+              <p>Methylcellulose</p>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="Naldemedine" document-type="book-part">Naldemedine</related-object> (Opioid Antagonist)</p>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="Naloxegol" document-type="book-part">Naloxegol</related-object> (Opioid Antagonist)</p>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="Plecanatide" document-type="book-part">Plecanatide</related-object> (for Chronic Idiopathic Constipation)</p>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="Prucalopride" document-type="book-part">Prucalopride</related-object> (for Chronic Idiopathic Constipation)</p>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Senna" document-type="book-part">Senna</related-object>
+</p>
+            </list-item>
+          </list>
+          <p>Inflammatory bowel disease encompasses several disorders, most commonly ulcerative colitis and Crohn colitis. Agents can be classified as 5-aminosalicyclic acid (5-ASA) based agents, immunosuppressive drugs, antitumor necrosis factor agents, corticosteroids, antibiotics and miscellaneous. Agents discussed in LiverTox include the following, which are linked to the specific drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>5-Aminosalicyclic Acid (5-ASA) Derivatives</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Mesalamine" document-type="book-part">Balsalazide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mesalamine" document-type="book-part">Mesalamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mesalamine" document-type="book-part">Olsalazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mesalamine" document-type="book-part">Sulfasalazine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Immunosuppressive Agents</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Azathioprine" document-type="book-part">Azathioprine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mercaptopurine" document-type="book-part">Mercaptopurine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Methotrexate" document-type="book-part">Methotrexate</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+<related-object link-type="booklink" source-id="livertox" document-id="TNFAntagonists" document-type="book-part">Tumor Necrosis Factor Antagonists</related-object>
+</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Adalimumab" document-type="book-part">Adalimumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Certolizumab" document-type="book-part">Certolizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Golimumab" document-type="book-part">Golimumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Infliximab" document-type="book-part">Infliximab</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Miscellaneous</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Metronidazole" document-type="book-part">Metronidazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Natalizumab" document-type="book-part">Natalizumab</related-object>, Vedolizumab</p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+          <p><bold>Irritable bowel syndrome</bold> or functional bowel disease is a common, but not well understood syndrome or collection of symptoms marked by variable degrees of diarrhea and constipation with abdominal bloating and pain. Symptomatic therapies with antidiarrheal agents, drugs for constipation, analgesics, prokinetic agents or antispasmotics are often applied. Medications developed specifically for irritable bowel syndrome include agents that affect specific gastrointestinal receptors or hormones and include tegaserod, alosetron, linaclotide, plecanatide, prucalopride, and lubiprostone. None of these agents, however, is particularly hepatotoxic. Eluxadoline is a unique agent that is used to treat diarrhea-predominant irritable bowel syndrome. It is a mixed opioid receptor agonist (mu) and antagonist (delta) and can cause spasm of the sphincter of Oddi and pancreatitis accompaniend by marked serum aminotransferase elevations. Linaclotide and plecanatide are guanylate cyclase C receptor agonists and are used to treat chronic idiopathic constipation or "constipation predominant" irritable bowel syndrome. Similarly, cisapride, prucalopride and tegaserod are serotonin type 4 receptor agonists that are used for chronic idiopathic constipation. Agents discussed in LiverTox include the following, which are linked to the specific drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Antimuscarinics/Antispasmodics [See <related-object link-type="booklink" source-id="livertox" document-id="Anticholinergics" document-type="book-part">Anticholinergic Agents</related-object>]</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Dicyclomine, <related-object link-type="booklink" source-id="livertox" document-id="Glycopyrrolate" document-type="book-part">Glycopyrrolate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Hyoscyamine" document-type="book-part">Hyoscyamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ScopolamineMethscop" document-type="book-part">Methscopolamine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Prokinetic Agents [See <related-object link-type="booklink" source-id="livertox" document-id="S5HT4RcptAgonist" document-type="book-part">Serotonin 5-HT4 Receptor Agonists]</related-object></p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="S5HT3RcptAntagonist" document-type="book-part">Alosetron</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="S5HT4RcptAgonist" document-type="book-part">Cisapride</related-object>, Domperidone, <related-object link-type="booklink" source-id="livertox" document-id="Linaclotide" document-type="book-part">Linaclotide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lubiprostone" document-type="book-part">Lubiprostone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Metoclopramide" document-type="book-part">Metoclopramide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Plecanatide" document-type="book-part">Plecanatide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Prucalopride" document-type="book-part">Prucalopride</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="S5HT4RcptAgonist" document-type="book-part">Tegaserod</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Opioid receptor mixed agonist/antagonist; Other</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Eluxadoline" document-type="book-part">Eluxadoline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tenapanor" document-type="book-part">Tenapanor</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="GastrointestinalAgen.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 April 2019</p>
+        <ref-list id="GastrointestinalAgen.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="GastrointestinalAgen.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. H1 Receptor antagonists. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 717-8.<annotation><p><italic toggle="yes">(Single author review of hepatotoxicity published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="GastrointestinalAgen.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of drugs for inflammatory bowel disease).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="GastrointestinalAgen.REF.sharkey.2018">
+            <mixed-citation publication-type="book">Sharkey KA, MacNaughton WK. Pharmacotherapy for gastric acidity, peptic ulcers, and gastroesophageal reflux disease. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 909-20.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="GastrointestinalAgen.REF.sharkey.2018_1">
+            <mixed-citation publication-type="book">Sharkey KA, MacNaughton WK. Gastroinestinal motility and water flux, emesis, and biliary and pancreatic disease. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 921-44.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="GastrointestinalAgen.REF.macnaughton.2018">
+            <mixed-citation publication-type="book">MacNaughton WK, Sharkey KA. Pharmacotherapy of inflammatory bowel disease. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 945-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

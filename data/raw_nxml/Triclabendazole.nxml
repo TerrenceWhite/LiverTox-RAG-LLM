@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Triclabendazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Triclabendazole</book-part-id>
+      <title-group>
+        <title>Triclabendazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tribulus" document-type="chapter">Tribulus</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Trientine" document-type="chapter">Trientine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Triclabendazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Triclabendazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Triclabendazole is an oral anthelmintic used in the treatment of chronic fascioliasis. Triclabendazole therapy is generally well tolerated but can be accompanied by abdominal pain, nausea and mild liver test abnormalities, which are probably due to the expulsion of dead or dying flukes rather than hepatic injury due to the therapy.</p>
+        </sec>
+        <sec id="Triclabendazole.Background">
+          <title>Background</title>
+          <p>Triclabendazole (tri cla ben&#x02019; a zole) is a benzimidazole derivative and anthelmintic used as therapy of fascioliasis. Fasciola hepatica and gigantica are two species of trematodes that infect livestock and can secondarily infect humans. Fascioliasis is found in more than 50 countries, especially where sheep or cattle are reared. Except for parts of Western Europe, human fascioliasis occurs mainly in developing countries. The life cycle of Fasciola starts with release of immature eggs in the stool of infected humans or animals, which after several weeks release miracidia. The miracidia attach to amphibian snails, penetrate their skin and undergo asexual reproduction into hundreds of cercariae which leave the snails and encyst and attach to aquatic vegetation becoming metacercariae, the form that infects humans, livestock and other mammals. Once ingested Fasciola passes through the duodenal wall into the peritoneum, through Glisson&#x02019;s capsule into the liver where it migrates to the biliary tree and matures into adult flukes. Acute fascioliasis occurs as the organism traverses the duodenum and liver is associated with fever, abdominal pains, urticaria, eosinophilia, hepatosplenomegaly and jaundice. With chronic infection, biliary symptoms and obstruction can occur with recurrent cholangitis and pancreatitis. The diagnosis of chronic fascioliasis is made by finding Fasciola eggs in stool or by specific serologic tests for antibodies. Triclabendazole is currently the drug of choice for therapy of chronic fascioliasis and, with correct dosing, can achieve cure in 75% to 95% of patients. Triclabendazole has been used as an anthelmintic in humans for three decades, but was first formally approved for use in the United States in 2019 on the basis of published and historic studies of its efficacy and safety. Current indications are for patients, 6 years and older, with documented chronic fascioliasis. The recommended treatment regimen is two doses of 10 mg/kg given orally 12 hours apart. Documentation of the absence of Fasciola eggs in stool samples taken 3 months after therapy is generally considered evidence of efficacy and cure. Side effects starting on the day of treatment and lasting a few days include abdominal pain [in 50% to 95% of patients], nausea and vomiting, loss of appetite, diarrhea, rash, urticaria, pruritus and eosinophilia. Severe adverse events are rare. In laboratory animals, triclabendazole can prolong the QT interval.</p>
+        </sec>
+        <sec id="Triclabendazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>The published and historic controlled trials of triclabendazole in chronic fascioliasis rarely described adverse event rates or blood test results except for eosinophilia. Instances of enzyme elevations and jaundice have been described, but patients with chronic fascioliasis often have minor elevations in liver tests. Furthermore, the common side effects of treatment are most likely due to the effects of sudden expulsion of the liver flukes from the biliary tree, which can result in transient serum ALT and alkaline phosphatase elevations and even jaundice. There are no reports of serious liver injury, acute liver failure, vanishing bile duct syndrome or chronic hepatitis after triclabendazole therapy. There are reports of cholestatic hepatic injury and vanishing bile duct syndrome linked to other benzimidazole anthelmintic agents such as thiabendazole and albendazole. There is also reported association between Fasciola infection with the potential for bile duct obstruction and sequelae.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Triclabendazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The most likely reason for lack of clinically apparent hepatotoxicity from triclabendazole is the single day therapeutic regimen. Triclabendazole is metabolized in the liver, largely by CYP 1A2 and 2C19 and it is theoretically susceptible to drug-drug interactions. Even with repeated dosing, there have been no reports of serious adverse events from triclabendazole therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntihelminthicAgents" document-type="chapter">Anthelmintic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Triclabendazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Triclabendazole &#x02013; Egaten&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Anthelmintic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Triclabendazole">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Triclabendazole.CHEMICAL_FORMULA_AND_STR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Triclabendazole.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Triclabendazole.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Triclabendazole.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Triclabendazole.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Triclabendazole.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Triclabendazole.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Triclabendazole</td>
+                <td headers="hd_h_Triclabendazole.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135010594">68786-66-3</ext-link>
+</td>
+                <td headers="hd_h_Triclabendazole.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H9-Cl3-N2-O-S</td>
+                <td headers="hd_h_Triclabendazole.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135010594" document-id-type="sid" document-type="summary" object-id="135010594" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Triclabendazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 September 2021</p>
+        <ref-list id="Triclabendazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Triclabendazole.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Anthelminthics. Hepatic injury from the treatment of infectious and parasitic disease. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 626-8.<annotation><p><italic toggle="yes">(Expert review of anthelmintics discusses albendazole, mebendazole and thiabendazole but not triclabendazole, the bendazoles being often associated with transient liver enzyme elevations and rarely linked to acute, symptomatic cholestatic liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.keiser.2018">
+            <mixed-citation publication-type="book">Keiser J, McCarthy J, Hotez P. Chemotherapy of helminth infections. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1001-9.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics mentions that liver dysfunction is the most common side effect of albendazole, but that the bendazoles as a group have excellent safety profiles).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/208711Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/208711Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA review of efficacy and safety of triclabendazole in supports of its approval in the US, mentions that liver test abnormalities can be seen in some patients as a part of their Fasciola infection and some abnormalities arising shortly after treatment could be related to expulsion of the dead or dying flukes being associated with abdominal pain, urticaria and eosinophilia).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.hien.2008.388">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hien</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Truong</surname><given-names>NT</given-names></name>
+<name name-style="western"><surname>Minh</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>Dat</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Dung</surname><given-names>NT</given-names></name>
+<name name-style="western"><surname>Hue</surname><given-names>NT</given-names></name>
+<name name-style="western"><surname>Dung</surname><given-names>TK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized controlled pilot study of artesunate versus triclabendazole for human fascioliasis in central Vietnam.</article-title>
+              <source>Am J Trop Med Hyg.</source>
+              <year>2008</year>
+              <volume>78</volume>
+              <fpage>388</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 100 Vietnamese patients with chronic fascioliasis treated with artesunate or triclabendazole, cure rates at 3 months were 76% vs 92%; serum enzyme and bilirubin levels were similar between the two groups before and after therapy; side effects were not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18337331</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.keiser.2011.e1285">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keiser</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sayed</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>el-Ghanam</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sabry</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Anani</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>el-Wakeel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hatz</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of artemether in the treatment of chronic fascioliasis in Egypt: exploratory phase-2 trials.</article-title>
+              <source>PLoS Negl Trop Dis.</source>
+              <year>2011</year>
+              <volume>5</volume>
+              <elocation-id>e1285</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 20 adults with chronic fascioliasis wo had failed therapy with artemether, response rates to triclabendazole were 67-75% while adverse events were similar to those with artemether, being abdominal pain, nausea, vomiting, diarrhea, headache and fatigue, and liver tests results showed &#x02018;no significant differences following administration of triclabendazole&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21909440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.webb.2018.409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Webb</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Cabada</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Recent developments in the epidemiology, diagnosis, and treatment of Fasciola infection.</article-title>
+              <source>Curr Opin Infect Dis.</source>
+              <year>2018</year>
+              <volume>31</volume>
+              <fpage>409</fpage>
+              <lpage>414</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the fascioliasis, the most widely distributed trematode infection worldwide, the life-cycle of Fasciola hepatica, clinical course of the infection, diagnosis, and management; states that triclabendazole is the drug of choice for its therapy with response rates as high as 90%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30113327</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.gandhi.2019.797">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gandhi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Schmitt</surname><given-names>EK</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>CW</given-names></name>
+<name name-style="western"><surname>Samantray</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Venishetty</surname><given-names>VK</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Triclabendazole in the treatment of human fascioliasis: a review.</article-title>
+              <source>Trans R Soc Trop Med Hyg.</source>
+              <year>2019</year>
+              <volume>113</volume>
+              <fpage>797</fpage>
+              <lpage>804</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the efficacy and safety of triclabendazole for human fascioliasis, first used in veterinary medicine was evaluated in humans in the 1990s leading to approval for use in Egypt in 1997, in France in 2002 but not in the US until 2019; cure rates of 69-100% in human trials, it &#x0201c;appears to be well tolerated&#x0201d; most adverse events being due to expulsion of the dead or dying flukes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31638149</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.caravedo.2020.149">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Caravedo</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Cabada</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Human fascioliasis: current epidemiological status and strategies for diagnosis, treatment, and control.</article-title>
+              <source>Res Rep Trop Med.</source>
+              <year>2020</year>
+              <volume>11</volume>
+              <fpage>149</fpage>
+              <lpage>158</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the life-cycle, epidemiology, clinical features and therapy of fascioliasis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33273878</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.de_moraes.2020.573">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Moraes</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Geary</surname><given-names>TG</given-names></name>
+</person-group>
+              <article-title>FDA-Approved antiparasitic drugs in the 21st century: a success for helminthiasis?</article-title>
+              <source>Trends Parasitol.</source>
+              <year>2020</year>
+              <volume>36</volume>
+              <fpage>573</fpage>
+              <lpage>575</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Helminthiasis affects a sizeable proportion of the world&#x02019;s population but largely in resource limited countries and among people living in poverty; the FDA has recently approved two novel agents for helminthic diseases including moxidectin for onchocerciasis in 2018 and triclabendazole for fascioliasis in 2019, agents that will play a very important role in world health).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32387059</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.terashima.2021.264">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Terashima</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Canales</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Maco</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Marcos</surname><given-names>LA</given-names></name>
+</person-group>
+              <article-title>Observational study on the effectiveness and safety of multiple regimens of triclabendazole in human fascioliasis after failure to standard-of-care regimens.</article-title>
+              <source>J Glob Antimicrob Resist.</source>
+              <year>2021</year>
+              <volume>25</volume>
+              <fpage>264</fpage>
+              <lpage>267</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 27 patients with chronic fascioliasis seen at a single center in Peru between 2002 and 2018, who had failed an initial standard of care course of triclabendazole and were treated with 1 to 9 repeated courses for longer period or with higher doses, 20 [74%] were ultimately cured and &#x0201c;it seemed to be well tolerated&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33862276</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Triclabendazole.REF.morales.2021.1850">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Morales</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Tanabe</surname><given-names>MB</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>AC</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Lopez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bascope</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cabada</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Triclabendazole treatment failure for Fasciola hepatica infection among preschool and school-age children, Cusco, Peru.</article-title>
+              <source>Emerg Infect Dis.</source>
+              <year>2021</year>
+              <volume>27</volume>
+              <fpage>1850</fpage>
+              <lpage>1857</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 53 Peruvian children with chronic fascioliasis treated with directly observed therapy with triclabendazole [usually single dose], only 54% achieved a cure with the first treatment and fewer with each subsequent treatment course, so that after 4 courses, 12% of children were still infected; no mention of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34152949</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Triclabendazole.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Triclabendazole/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Triclabendazole: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Triclabendazole">Trials on Triclabendazole: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

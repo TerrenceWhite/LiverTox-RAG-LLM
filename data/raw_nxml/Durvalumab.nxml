@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Durvalumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Durvalumab</book-part-id>
+      <title-group>
+        <title>Durvalumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dupilumab" document-type="chapter">Dupilumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dutasteride" document-type="chapter">Dutasteride</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Durvalumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Durvalumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Durvalumab is a human monoclonal antibody to programmed cell death ligand 1 (PD-L1), which acts as a checkpoint inhibitor and is used in the immunotherapy of several forms of advanced or metastatic cancer. Durvalumab like other checkpoint inhibitors has major side effects and particularly immune related conditions, including acute hepatocellular and cholestatic liver injury which can be serious and even life threatening.</p>
+        </sec>
+        <sec id="Durvalumab.Background">
+          <title>Background</title>
+          <p>Durvalumab (dur val&#x02019; ue mab) is a human recombinant monoclonal IgG1 kappa-isotype antibody to the ligand for the programmed cell death receptor (PD-L1), which has distinctive immunomodulatory activity and is used as a checkpoint inhibitor in cancer immunotherapy. The programmed cell death receptor 1 (PD-1) is an important checkpoint molecule that is expressed on activated T and B cells. Binding of the ligand to PD-1 activates programmed cell death pathways that terminate or down regulate cytotoxic T cell responses. Monoclonal antibody binding to PD-L1 prevents its engagement with the PD-1 receptor and subsequent induction of the cellular pathways that down regulate T cell responses. Inhibition of this pathway allows for a continued activation and proliferation of cytotoxic T cells and proinflammatory cytokines. The enhancement of cytotoxic reactivity may play a beneficial role in cancer immunotherapy by breaking immunological tolerance to cancer cell neo-antigens. In several large multicenter studies, durvalumab therapy resulted in a prolongation of progression free survival in patients with advanced, metastatic or unresectable urothelial carcinoma. Durvalumab was granted accelerated approved for use in advanced urothelial cancer in the United States in 2017. This specific indication was withdrawn in 2021 when postmarketing trials failed to show improvement in survival with durvalumab therapy more than with conventional therapy. However, indications for durvalumab were expanded to include advanced, refractory non-small cell lung cancer (NSCLC) and extensive-stage small cell lung cancer (SCLC), and it continues to be evaluated as therapy of other advanced malignancies. Durvalumab is available as a solution in single use vials of 120 and 500 mg (50 mg/mL) under the brand name Imfinzi. The typical regimen is 10 mg/kg by intravenous infusion over 60 minutes every 2 weeks or 1500 mg every 4 weeks until disease progression or intolerance occurs.</p>
+          <p>As with most checkpoint inhibitors, side effects of durvalumab are common and can include fatigue, headache, musculoskeletal pain, arthralgia, abdominal pain, diarrhea, nausea, vomiting, decreased appetite, weight loss, fever, cough, dyspnea, pruritus, and rash. Importantly, as a result of the immune enhancement, between 15% and 25% of treated patients develop immune related side effects. These reactions are high grade in 10% of patients and can include enterocolitis, dermatitis, endocrinopathy, pneumonitis, neuropathy, nephritis and hepatitis. Most of these reactions respond to discontinuation and corticosteroid therapy, but some have resulted in fatalities and some have required permanent discontinuation of the checkpoint inhibitor and long term immunosuppressive therapy. Baseline screening and regular monitoring for these adverse events during durvalumab therapy is recommended. Early recognition and prompt management of side effects is an integral component of proper use of checkpoint inhibitors. Checkpoints inhibitors should be used only by health care professionals with training in immunotherapy and experience in the management of the side effects of immunomodulatory agents. Other rare but potentially severe adverse effects of durvalumab include infusion hypersensitivity reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Durvalumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations are not uncommon (20% to 30%) during durvalumab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. These rates of serum enzyme elevations are similar to those with other forms of chemotherapy for advanced malignancies. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients and generally lead to temporary or permanent discontinuation. Importantly, in 1% to 2% of treated patients the serum enzyme elevations evolve into an immune mediated liver injury that can be clinically apparent and can be severe. The onset of injury is typically after 2 to 4 cycles or 1 to 3 months after starting treatment. The pattern of enzyme elevation is usually hepatocellular but can be mixed or even cholestatic. Liver histology demonstrates a pan-lobular hepatitis with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, compatible with an immune mediated hepatic injury. More severe forms of hepatitis may demonstrate centrilobular (zone 3) necrosis. Despite features of immune mediated liver injury, autoantibodies are usually not present and immunoglobulin levels are typically normal. Because of the serious nature of the liver injury, monitoring with routine liver tests (including alkaline phosphatase) is recommended for patients who receive checkpoint inhibitor therapy. Treatment with corticosteroids generally results in a rapid improvement, allowing for their discontinuation within 1 to 2 months. In some instances, however, the clinical and biochemical response is inadequate, calling for addition of a second immunosuppressive agent such as azathioprine or mycophenolate mofetil. Restarting durvalumab or another checkpoint inhibitor after resolution of the hepatic injury is sometimes possible but can result in recurrence of injury and has not been shown to improve outcome of the cancer chemotherapy.</p>
+          <p>A proportion of patients receiving durvalumab develop cholestatic rather than hepatocellular liver injury. Cholestatic forms of immune mediated liver injury generally arise later than the hepatocellular forms (after 3 to 10 cycles) and are often accompanied by abdominal pain and jaundice. Alkaline phosphatase levels are markedly elevated while aminotransferase levels are only modestly increased. Imaging studies may show irregular dilatation of the intra- and/or extrahepatic bile ducts and thickening of the gall bladder and bile duct wall, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis or cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely leads to complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not manifest the large bile duct changes but demonstrate loss and paucity of smaller intrahepatic bile ducts compatible with vanishing bile duct syndrome and similar to primary biliary cholangitis (PBC).</p>
+          <p>The effects of PD-L1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with durvalumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent, immune mediated liver injury and probable cause of reactivation of hepatitis).</p>
+        </sec>
+        <sec id="Durvalumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The liver injury due to durvalumab is likely immunologically mediated and is usually at least partially responsive to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.</p>
+        </sec>
+        <sec id="Durvalumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving durvalumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN and discontinuing treatment for values above 8 times the ULN in patients without pre-existing abnormalities or tumor involvement of the liver [in whom elevations of 5 and 10 times the ULN are used]. Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days.</p>
+          <p>Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, infliximab or tacrolimus) and prolonged immunosuppression may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had an immune-related cholangiopathy or severe acute hepatitis resistant to immunosuppressive therapy. Restarting durvalumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors (ipilimumab or anti-PD-1 inhibitors) is more likely to be tolerated. However, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Durvalumab.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <p>Case 1. Acute mixed liver injury due to durvalumab.(<xref ref-type="bibr" rid="Durvalumab.REF.1">1</xref>)</p>
+        <p>A 77 year old woman with metastatic breast cancer developed elevations in serum enzymes after starting durvalumab therapy. She had no history of liver disease, and liver tests were normal before starting checkpoint inhibitor therapy. With the initial two infusions of durvalumab she was found to have mild to moderate serum ALT elevations (3 to 5 times ULN) one week later which resolved by the time of the next planned infusion (Table). The degree of aminotransferase elevations after infusions appeared to decline with the third and fourth infusions. At the time of the 6<sup>th</sup> planned cycle, however, her aminotransferase and alkaline phosphatase levels were both markedly elevated (Table). Serum total bilirubin levels and INR were normal. Tests for hepatitis A, B and C were negative. Antinuclear and smooth muscle antibodies were negative. Abdominal ultrasound and CT scans showed no evidence of bile duct dilation or abnormalities. Liver biopsy was not done. She was started on high dose oral prednisone (1 mg/kg daily), which was followed by a slow improvement in enzymes, but worsening when prednisone doses were lowered. She was also found to be hypothyroid and was started on levothyroxine. After 3 months of corticosteroid therapy, azathioprine was added which allowed for discontinuation of prednisone. Six months after onset her liver tests were normal while on azathioprine alone. Checkpoint inhibitor therapy was not restarted. Subsequently, azathioprine was stopped and liver tests remained normal. She was treated with capecitabine and doxorubicin, but died of complications of advanced breast cancer 6 months later.</p>
+        <p>Key Points</p>
+        <table-wrap id="Durvalumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Durvalumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                <td headers="hd_b_Durvalumab.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>Durvalumab (1120 mg iv every 3 weeks)</p>
+</td>
+              </tr>
+              <tr>
+                <th id="hd_b_Durvalumab.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                <td headers="hd_b_Durvalumab.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>Mixed initially (R=2.3), cholestatic thereafter (R=0.6 to 1.6)</p>
+</td>
+              </tr>
+              <tr>
+                <th id="hd_b_Durvalumab.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                <td headers="hd_b_Durvalumab.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>1+ (liver enzyme elevations without jaundice)</p>
+</td>
+              </tr>
+              <tr>
+                <th id="hd_b_Durvalumab.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                <td headers="hd_b_Durvalumab.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>4 months</p>
+</td>
+              </tr>
+              <tr>
+                <th id="hd_b_Durvalumab.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                <td headers="hd_b_Durvalumab.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>4-6 months</p>
+</td>
+              </tr>
+              <tr>
+                <th id="hd_b_Durvalumab.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                <td headers="hd_b_Durvalumab.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">
+<p>None mentioned</p>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Laboratory Values</p>
+        <table-wrap id="Durvalumab.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Days After<break/>Starting</th>
+                <th id="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Days After<break/>Stopping</th>
+                <th id="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                <th id="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                <th id="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                <th id="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comment</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>-21</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>32</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>129</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.2</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>0 (1<sup>st</sup> dose)</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>30</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>125</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.3</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Durvalumab started</p>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>7</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>190</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>107</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>21 (2<sup>nd</sup> dose)</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>38</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>120</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>28</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>112</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>114</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.3</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>42 (3<sup>rd</sup> dose)</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>25</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>99</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>49</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>43</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>86</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.3</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>63 (4<sup>th</sup> dose)</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>17</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>98</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.3</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>70</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>41</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>109</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>84 (5<sup>th</sup> dose)</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>26</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>105</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>91</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>33</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>89</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>105 (dose held)</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>0</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>417</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>511</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.6</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone (1 mg/kg)</p>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>114</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>9</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>86</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>293</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone taper</p>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>119</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>14</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>54</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>245</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>126</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>21</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>70</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>244</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>133</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>28</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>165</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>312</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>140</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>35</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>267</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>713</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.3</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone dose increase</p>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>162</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>57</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>67</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>499</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.6</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>176</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>71</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>34</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>109</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>1.2</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Azathioprine added</p>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>232</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>127</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>51</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>61</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>1.4</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">
+<p>Prednisone stopped</p>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<p>301</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>196</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>39</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>72</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>0.7</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_1 hd_h_Durvalumab.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<p>
+<bold>Normal Values</bold>
+</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<p>&#x0003c;45</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<p>&#x0003c;130</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<p>&#x0003c;1.2</p>
+</td>
+                <td headers="hd_h_Durvalumab.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Comment</p>
+        <p>The mild-to-moderate and transient elevations of ALT after initial infusions of durvalumab represent the well known frequent ALT elevations that occur during checkpoint inhibitor therapy. Following 5 cycles, however, more substantial and persistent elevations of both ALT and alkaline phosphatase occurred and immunosuppressive therapy with corticosteroids was started. The liver injury was cholestatic but there was no evidence of bile duct dilation or cholangiopathy. Ultimately, prednisone was stopped and she was maintained on azathioprine alone. While checkpoint inhibitor liver injury has been described as usually hepatocellular and monitoring for ALT and AST are recommended, cholestatic cases with prominent elevations in alkaline phosphatase such as in this case occur and are typically more resistant to immunosuppressive therapy.</p>
+      </sec>
+      <sec id="Durvalumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Durvalumab &#x02013; Imfinzi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Durvalumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Durvalumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Durvalumab.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Durvalumab.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Durvalumab.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Durvalumab.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Durvalumab.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Durvalumab.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Durvalumab</td>
+                <td headers="hd_h_Durvalumab.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381127393">1428935-60-7</ext-link>
+</td>
+                <td headers="hd_h_Durvalumab.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Durvalumab.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Durvalumab.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Durvalumab.CITED_REFERENCE.reflist0">
+          <ref id="Durvalumab.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Hayashi</surname><given-names>PH</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Odin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>S</given-names></name>
+<collab>Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Checkpoint inhibitor hepatotoxicity is characterized by peripheral eosinophilia and hepatocellular or mixed injury at onset but a low risk of liver failure during follow up.</article-title>
+              <source>Hepatology</source>
+              <year>2020</year>
+              <volume>72</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>A1185</fpage>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Durvalumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 June 2022</p>
+        <p>Abbreviations used: CPI, checkpoint inhibitor; CTLA-4, cytotoxic T lymphocyte associated antigen 4; HCC, hepatocellular carcinoma; irAE, immune related adverse event; PD-1, programmed cell death receptor 1; PD-L1, programmed cell death receptor ligand-1; NSCLC, non-small cell lung cancer; SCLC, small cell lung cancer.</p>
+        <ref-list id="Durvalumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Durvalumab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Durvalumab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/761069Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/761069Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with current and previous product labels and the initial 2017 medical review of the New Drug Application for durvalumab; ALT elevations above 5 times ULN arose in 1% and Alk P elevations in 4% of recipients;</italic>
+<italic toggle="yes">includes descriptions of cases of immune mediated hepatitis, one of which was fatal: pages 74-9).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Durvalumab.REF.phan.2003.8372">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Phan</surname><given-names>GQ</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Sherry</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Hwu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Topalian</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Schwartzentruber</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Restifo</surname><given-names>NP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cancer regression and autoimmunity induced by cytotoxic T lymphocyte-associated antigen 4 blockade in patients with metastatic melanoma.</article-title>
+              <source>Proc Natl Acad Sci U S A</source>
+              <year>2003</year>
+              <volume>100</volume>
+              <fpage>8372</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Initial study of anti-CTLA-4 therapy in 14 patients with melanoma, 6 of whom developed clinically apparent immune adverse reactions including one with hepatitis arising after the third infusion [ALT 6820 U/L], resolving over the ensuing 4 months with corticosteroid therapy: Case 1, ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12826605</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.kleiner.2012.2233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Berman</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>2233</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical and histological features of 5 patients with acute liver injury due to ipilimumab [anti-CTLA-4]; 3 men and 2 women, ages 43 to 76 years, arising after 2-4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1 Ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22434096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.topalian.2012.2443">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Topalian</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Brahmer</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Gettinger</surname><given-names>SN</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>McDermott</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Powderly</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety, activity, and immune correlates of anti-PD-1 antibody in cancer.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>366</volume>
+              <fpage>2443</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 296 patients with advanced cancers [melanoma, NSCLC, renal, prostate and colorectal] treated with 1 of 5 doses of nivolumab every 2 weeks, response rates were highest with melanoma and renal cancer, and drug related adverse events were common, including immune related conditions such as pneumonitis [3 fatal], vitiligo, colitis, hepatitis [reversible in all cases], hypophysitis and thyroiditis; ALT elevations occurred in 11 patients [4%] and were greater than 5 times ULN in 2 [1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22658127</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.teply.2014.30">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teply</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Lipson</surname><given-names>EJ</given-names></name>
+</person-group>
+              <article-title>Identification and management of toxicities from immune checkpoint-blocking drugs.</article-title>
+              <source>Oncology (Williston Park)</source>
+              <year>2014</year>
+              <month>Nov</month>
+              <volume>28</volume>
+              <supplement>Suppl 3</supplement>
+              <fpage>30</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical review of the toxicities of immune checkpoint blocking drugs such as ipilimumab, pembrolizumab and nivolumab; mentions that elevations of serum aminotransferase elevations should lead to careful exclusion of other causes of liver injury and increased monitoring; that elevations above 3 times ULN should lead to withholding the drug and starting corticosteroids; that elevations above 5 times ULN should lead to hospital admission and immediate administration of high doses of corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25384885</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.tumeh.2014.568">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tumeh</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Harview</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Yearley</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Shintaku</surname><given-names>IP</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Robert</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chmielowski</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PD-1 blockade induces responses by inhibiting adaptive immune resistance.</article-title>
+              <source>Nature</source>
+              <year>2014</year>
+              <month>Nov</month>
+              <day>27</day>
+              <volume>515</volume>
+              <issue>7528</issue>
+              <fpage>568</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of expression of PD-1 and its ligand on CD8+ T cells at the margins of melanoma tumors before and after treatment with pembrolizumab showed that high levels of PD-1 and its ligand are found in responders to therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25428505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.sharma.2015.56">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sharma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Allison</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>The future of immune checkpoint therapy.</article-title>
+              <source>Science</source>
+              <year>2015</year>
+              <volume>348</volume>
+              <issue>6230</issue>
+              <fpage>56</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary and review of the rationale, history, clinical efficacy and mechanism of action of immune checkpoint therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25838373</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.abdelrahman.2015.1507">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abdel-Rahman</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>El Halawani</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fouad</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Risk of elevated transaminases in cancer patients treated with immune checkpoint inhibitors: a meta-analysis.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2015</year>
+              <volume>14</volume>
+              <fpage>1507</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of publications on checkpoint inhibitors indicated that therapy was associated with higher rates of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26394770</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.davar.2015.737389">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Davar</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pruckner</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kirkwood</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>PD-1 blockade in advanced melanoma in patients with hepatitis C and/or HIV.</article-title>
+              <source>Case Rep Oncol Med</source>
+              <year>2015</year>
+              <volume>2015</volume>
+              <elocation-id>737389</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(59 year old woman and 47 year old man with metastatic melanoma and combined HIV and hepatitis C infection were treated with pembrolizumab, tolerating therapy with no worsening of liver disease or HIV infection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26448890</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.syed.2017.1369">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Syed</surname><given-names>YY</given-names></name>
+</person-group>
+              <article-title>Durvalumab: First global approval.</article-title>
+              <source>Drugs</source>
+              <year>2017</year>
+              <volume>77</volume>
+              <issue>12</issue>
+              <fpage>1369</fpage>
+              <lpage>76</lpage>
+              <comment>Erratum in: Drugs. 2017 Oct 10</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, pharmacology, clinical efficacy and safety of durvalumab shortly after its approval for use in metastatic urothelial carcinoma in the US; mentions that liver injury occurred in 3.3% of patients and fatalities of acute liver injury have occurred).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28643244</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF13">
+            <element-citation publication-type="journal">
+              <article-title>Three drugs approved for urothelial carcinoma by FDA.</article-title>
+              <source>Cancer Discov</source>
+              <year>2017</year>
+              <volume>7</volume>
+              <fpage>659</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(News report on the approval of 3 new checkpoint inhibitors for therapy of advanced or metastatic urothelial carcinoma in patients whose disease has advanced despite treatment with platinum-containing chemotherapies: pembrolizumab [anti-PD-1], avelumab [anti-PD-L1] and durvalumab [anti-PD-L1]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28546286</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.massard.2016.3119">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Massard</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Sharma</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rafi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wainberg</surname><given-names>ZA</given-names></name>
+<name name-style="western"><surname>Luke</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of durvalumab (MED 14736), an anti-programmed cell death ligand-1 immune checkpoint inhibitor, in patients with advanced urothelial bladder cancer.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2016</year>
+              <volume>34</volume>
+              <fpage>3119</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 patients with advanced, refractory urothelial bladder cancer treated with durvalumab for up to 12 months, the objective response rate was 31% and adverse event rate 64%; most frequently fatigue [13%], diarrhea [10%] and anorexia [8%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27269937</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.antonia.2016.299">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Antonia</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Goldberg</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Balmanoukian</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chaft</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Sanborn</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Narwal</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and antitumour activity of durvalumab plus tremelimumab in non-small cell lung cancer: a multicentre, phase 1b study.</article-title>
+              <source>Lancet Oncol</source>
+              <year>2016</year>
+              <volume>17</volume>
+              <fpage>299</fpage>
+              <lpage>308</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 102 patients with refractory NSCLC treated with various doses of durvalumab [anti-PD-L1] and tremelimumab [anti-CTLA-4], side effects were common leading to discontinuations in 28% and ALT elevations in 0% to 12% of regimens).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26858122</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.antonia.2017.1919">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Antonia</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Villegas</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Daniel</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vicente</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Murakami</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Yokoi</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PACIFIC Investigators. Durvalumab after chemoradiotherapy in Stage III non-small-cell lung cancer.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2017</year>
+              <volume>377</volume>
+              <fpage>1919</fpage>
+              <lpage>1929</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 709 patients with NSCLC treated with durvalumab [10 mg/kg] or placebo intravenously every two weeks for up to 12 months after chemoradiotherapy, the mean progression-free survival was 16.8 vs 5.6 months and immune related adverse events occurred in 24% vs 8%, most commonly pneumonitis and thyroid dysfunction; no mention of immune related liver adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28885881</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.santini.2018.1093">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Santini</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Rizvi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Plodkowski</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Ni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lacouture</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Gambarin-Gelwan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wilkins</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of re-treating with immunotherapy after immune-related adverse events in patients with NSCLC.</article-title>
+              <source>Cancer Immunol Res.</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>1093</fpage>
+              <lpage>1099</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 482 patients with metastatic or advanced NSCLC treated with checkpoint inhibitors at a single US referral center between 2011 and 2016, 68 [14%] developed a serious immune related adverse event [irAE] that required discontinuation, and when 38 were retreated, 18 had no recurrence, 10 had recurrence of the same immune related event, 10 had a new one [2 of which were fatal]; restarting therapy appeared to be beneficial only in those without a tumor response before onset of the event).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29991499</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.huffman.2018.760">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Huffman</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Kottschade</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kamath</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Markovic</surname><given-names>SN</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity after immune checkpoint inhibitor therapy in melanoma: natural progression and management.</article-title>
+              <source>Am J Clin Oncol.</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <fpage>760</fpage>
+              <lpage>765</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 patients with cancer treated with checkpoint inhibitors at the Mayo Clinic over a 5 year period, 17 [6%] developed liver injury within 16-151 [median=52] days of starting [ipilimumab alone in 12, with nivolumab in 2 and pembrolizumab alone in 3], all with ALT elevations [59 to 2355 U/L], often with Alk P elevations [up to 1728 U/L], 6 with jaundice [bilirubin 2.5 to 15.7 mg/dL], all but one treated with corticosteroids, responding in 6-56 [median 31] days, 2 requiring a second agent [azathioprine or cycloserine], none fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28749795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.postow.2018.158">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Postow</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Sidlow</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hellmann</surname><given-names>MD</given-names></name>
+</person-group>
+              <article-title>Immune-related adverse events associated with immune checkpoint blockade.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2018</year>
+              <volume>378</volume>
+              <fpage>158</fpage>
+              <lpage>168</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, outcomes, pathogenesis and therapy of immune related adverse events of checkpoint inhibitor therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29320654</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.de_martin.2018.1181">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>De Martin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Michot</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Papouin</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Champiat</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mateus</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lambotte</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Roche</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Characterization of liver injury induced by cancer immunotherapy using immune checkpoint inhibitors.</article-title>
+              <source>J Hepatol.</source>
+              <year>2018</year>
+              <volume>68</volume>
+              <fpage>1181</fpage>
+              <lpage>1190</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 536 patients treated with checkpoint inhibitors, 19 [3.5%] were referred to a liver service for high grade hepatitis and 16 underwent liver biopsy; ages 33 to 84 years, 56% female, injury arising after 1-36 [median=5] weeks and after 1-36 [median=2] doses, 38% presenting with fever, 31% rash, with ALT 266 to 3137 [460] U/L, Alk P 54 to 768 [309] U/L, bilirubin 0.4 to 19 [1.1] mg/dL, enzyme pattern mostly mixed, 10 given corticosteroids, 6 resolving spontaneously, no deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29427729</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.jennings.2019.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jennings</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Mandaliya</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Nakshabandi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity induced by immune checkpoint inhibitors: a comprehensive review including current and alternative management strategies.</article-title>
+              <source>Expert Opin Drug Metab Toxicol.</source>
+              <year>2019</year>
+              <volume>15</volume>
+              <fpage>231</fpage>
+              <lpage>244</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comprehensive review of the clinical features, diagnosis, histology, outcomes and management of checkpoint inhibitor related liver injury including serum aminotransferase elevations and immune related hepatic injury, with recommendations on use of corticosteroids based upon the grade of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30677306</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.abusbeih.2019.118">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Ge</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Bhutani</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Alasadi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jazaeri</surname><given-names>AA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Case series of cancer patients who developed cholecystitis related to immune checkpoint inhibitor treatment.</article-title>
+              <source>J Immunother Cancer.</source>
+              <year>2019</year>
+              <volume>7</volume>
+              <fpage>118</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4253 patients treated with checkpoint inhibitors at the MD Anderson Cancer Center between 2010 and 2018, 25 [0.6%] developed acalculous cholecystitis attributed to the immunotherapy most frequently with anti-CTLA-4 agents alone [1.6%], than with anti-PD-1/PD-L1 [0.4%] or combination [0.9%], mean age was 60 years, 60% male, 64% white, median peak ALT 55 U/L, bilirubin 1.4 mg/dL, 20% underwent cholecystectomy, all recovered, 10 [40%] restarted therapy, all without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31053161</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.fouchard.2019.107">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fouchard</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jantzem</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Quere</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Descourt</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Robinet</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Poureau</surname><given-names>PG</given-names></name>
+</person-group>
+              <article-title>Three cases of immune cholangitis related to anti-programmed cell death and programmed cell death ligand agents for the treatment of non-small cell lung cancer.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2019</year>
+              <volume>115</volume>
+              <fpage>107</fpage>
+              <lpage>110</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 patients with metastatic lung cancer developed cholangitis 2, 4 and 9 months after starting checkpoint inhibitor therapy [nivolumab, durvalumab/tremelimumab, pembrolizumab] presenting with abdominal pain and fever, modest ALT but marked Alk P elevations and minimal jaundice; imaging showing biliary dilation and thickening of the gallbladder wall, biopsies showing inflammation with CD8+ lymphocytes, and slow clinical response to corticosteroids but long term remission in cancer).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31132740</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.zen.2020.470">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>YY</given-names></name>
+<name name-style="western"><surname>Jeng</surname><given-names>YM</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>HW</given-names></name>
+<name name-style="western"><surname>Yeh</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Immune-related adverse reactions in the hepatobiliary system: second-generation check-point inhibitors highlight diverse histological changes.</article-title>
+              <source>Histopathology.</source>
+              <year>2020</year>
+              <volume>76</volume>
+              <fpage>470</fpage>
+              <lpage>480</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 10 cases of second generation checkpoint inhibitor induced immune liver injury mentions 3 patterns, hepatocellular, cholestatic and granulomatous injury, the cholestatic form often with a delayed latency and poor response to corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31550390</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.cheung.2019.364">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cheung</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Payne</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Middleton</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Collier</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Simmons</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Klenerman</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immunotherapy-related hepatitis: real-world experience from a tertiary centre.</article-title>
+              <source>Frontline Gastroenterol.</source>
+              <year>2019</year>
+              <volume>10</volume>
+              <issue>4</issue>
+              <fpage>364</fpage>
+              <lpage>371</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 453 patients treated with checkpoint inhibitors for cancer between 2022 and 2018, 20 [4%] developed immune related hepatitis, with highest rates with the combination of ipilimumab and nivolumab, 18 treated with immunosuppression using corticosteroids, 8 with addition of mycophenolate and 2 with infliximab, none fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31656561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.peeraphatdit.2020.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Peeraphatdit</surname><given-names>TB</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Odenwald</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hart</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Charlton</surname><given-names>MR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity from immune checkpoint inhibitors: a systematic review and management recommendation.</article-title>
+              <source>Hepatology.</source>
+              <year>2020</year>
+              <volume>72</volume>
+              <fpage>315</fpage>
+              <lpage>329</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, biochemical findings, histology, pathogenesis, diagnosis and management of immune related liver injury due to the checkpoint inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32167613</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.mizuno.2020.653">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mizuno</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ito</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ishigami</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ishizu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kuzuya</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Honda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kawashima</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real world data of liver injury induced by immune checkpoint inhibitors in Japanese patients with advanced malignancies.</article-title>
+              <source>J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>55</volume>
+              <fpage>653</fpage>
+              <lpage>661</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 546 patients with advanced malignancies treated with checkpoint inhibitors at two Japanese referral centers between 2014 and 2019, high grade, immune mediated liver injury occurred in 29 [5%], mean age 69 years, 73% male, mean onset 52 [range 1-273] days, after 3 [1-15] doses of ipilimumab [6%], nivolumab [54%], pembrolizumab [30%], atezolizumab [6%], durvalumab [2.4%], combination [1.3%], presenting with hepatocellular [21%], cholestatic [59%] or mixed [21%] enzyme elevations, 4 with cholangitis and biliary dilatation without obstruction, only 1 case fatal; predictive factors for injury included ipilimumab [hazard ratio 4.2]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32124082</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.miller.2020.251">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miller</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Styskel</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Nogueras Gonzalez</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Blechacz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical characteristics and adverse impact of hepatotoxicity due to immune checkpoint inhibitors.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>251</fpage>
+              <lpage>261</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 5762 recipients of checkpoint inhibitor therapy of cancer at the MD Anderson Cancer Center between 2010 and 2018, 433 [8%] developed ALT levels and 100 had levels above 5 times ULN [2%), the rate being 8% with combination therapy, 1.7% with anti-CTLA agents and 1.1% with PD-1 and PD-L1 blockers, the abnormalities arising after a median 59 days; all had the checkpoint inhibitor therapy held, 67 received corticosteroids [for a median of 43 days], 3 with mycophenolate, and 31 were rechallenged after resolution of the hepatitis, of whom 8 [26%] had a recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31789632</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.vitale.2020.1047">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vitale</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Lamberti</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Comito</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Di Nunno</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Massari</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Morelli</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Ardizzoni</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Anti-programmed cell death-1 and anti-programmed cell death ligand-1 immune-related liver diseases: from clinical pivotal studies to real-life experience.</article-title>
+              <source>Expert Opin Biol Ther.</source>
+              <year>2020</year>
+              <volume>20</volume>
+              <fpage>1047</fpage>
+              <lpage>1059</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatic complications of anti-PD1 and anti-PD-L1 checkpoint inhibitors that includes immune mediated hepatitis [typically panlobular inflammation and injury], small and large duct cholangitis [similar to primary biliary and sclerosing cholangitis], immune mediated cholecystitis, nodular regenerative hyperplasia and vanishing bile duct syndrome).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32425081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.ruggiero.2020.830">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ruggiero</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fraenza</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Scavone</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>di Mauro</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Piscitelli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mascolo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immune checkpoint inhibitors and immune-related adverse drug reactions: data from Italian Pharmacovigilance Database.</article-title>
+              <source>Front Pharmacol.</source>
+              <year>2020</year>
+              <volume>11</volume>
+              <fpage>830</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2088 safety reports of check point inhibitors enrolled in an Italian pharmacovigilance registry, 801 were immune related including gastrointestinal [33%], skin [17%] and liver [2.7%] due to nivolumab [70%], pembrolizumab [11%], ipilimumab [15%], atezolizumab [4%] and avelumab [&#x0003c;1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32581796</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.nakamura.2020.2711">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nakamura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Otsuka</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hayashi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Horita</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ota</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sakurai</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Takano</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Durvalumab-induced immune-related hepatitis in a patient with non-small cell lung cancer.</article-title>
+              <source>Intern Med.</source>
+              <year>2020</year>
+              <volume>59</volume>
+              <fpage>2711</fpage>
+              <lpage>2717</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(79 year old man with NCSLC developed liver test abnormalities on day 208 of durvalumab maintenance therapy [bilirubin 1.0 mg/dL, ALT 1425 U/L, Alk P 757 U/L, INR normal], biopsy showing a panlobular hepatitis and liver tests falling into the normal range within a month of starting corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32669493</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.nakashima.2020.3055">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nakashima</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Demura</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Oi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tabata</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tada</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Shiozaki</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Akai</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Infliximab was found to be effective for treating immunosuppressive drug-resistant hepatitis due to durvalumab.</article-title>
+              <source>Intern Med.</source>
+              <year>2020</year>
+              <volume>59</volume>
+              <fpage>3055</fpage>
+              <lpage>3059</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old man with squamous cell lung cancer developed jaundice 38 days after a single dose of durvalumab [bilirubin 7.5 mg/dL, ALT 337 U/L, Alk P 3196 U/L], with minimal improvement despite therapy with prednisolone, mycophenolate, azathioprine and tacrolimus, but prompt improvement with a first dose of infliximab, but Alk P remained above 1000 U/L 4 months later still on corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32727989</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.powles.2020.1574">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Powles</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>van der Heijden</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Castellano</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Galsky</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Loriot</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Petrylak</surname><given-names>DP</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>O</given-names></name>
+<etal/>
+<collab>DANUBE study investigators</collab>
+</person-group>
+              <article-title>Durvalumab alone and durvalumab plus tremelimumab versus chemotherapy in previously untreated patients with unresectable, locally advanced or metastatic urothelial carcinoma (DANUBE): a randomised, open-label, multicentre, phase 3 trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2020</year>
+              <volume>21</volume>
+              <fpage>1574</fpage>
+              <lpage>1588</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1032 patients with advanced urothelial carcinoma treated with durvalumab [with or without tremelimumab] or conventional chemotherapy, survival was similar in the three groups, but high grade immune related adverse events were more common with durvalumab [6% and 17% vs &#x0003c;1%] and 2 of 345 treated with durvalumab alone died of liver failure [acute liver failure and progressive cholestasis]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32971005</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.goldman.2021.51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goldman</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Dvorkin</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Reinmuth</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hotta</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Trukhin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Statsenko</surname><given-names>G</given-names></name>
+<etal/>
+<collab>CASPIAN investigators</collab>
+</person-group>
+              <article-title>Durvalumab, with or without tremelimumab, plus platinum-etoposide versus platinum-etoposide alone in first-line treatment of extensive-stage small-cell lung cancer (CASPIAN): updated results from a randomised, controlled, open-label, phase 3 trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>51</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 805 patients with advanced small-cell lung cancer treated with platinum-etoposide alone or with durvalumab with or without tremelimumab, median survival was slightly better with durvalumab alone [12.9 vs 10.4 and 10.5 months] while high grade immune related adverse events were more frequent [5% and 14% vs &#x0003c;1%] and 2 patients on durvalumab died of liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33285097</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.mathieu.2021.433">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mathieu</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pai-Scherf</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Larkins</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vallejo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Rodriguez</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>FDA approval summary: atezolizumab and durvalumab in combination with platinum-based chemotherapy in extensive stage small cell lung cancer.</article-title>
+              <source>Oncologist.</source>
+              <year>2021</year>
+              <volume>26</volume>
+              <fpage>433</fpage>
+              <lpage>438</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(FDA summary of data supporting approval of atezolizumab and durvalumab in combination with conventional platinum based chemotherapy for advanced small cell lung cancer, clinical trials demonstrating a slight increase in median survival [12.3 and 13.0 months vs 10.3 months] for both PD-L1 monoclonal checkpoint inhibitors compared to conventional chemotherapy alone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33687763</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.forde.2021.1910">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Forde</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Anagnostou</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Dahlberg</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Kindler</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Niknafs</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Purcell</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Durvalumab with platinum-pemetrexed for unresectable pleural mesothelioma: survival, genomic and immunologic analyses from the phase 2 PrE0505 trial.</article-title>
+              <source>Nat Med.</source>
+              <year>2021</year>
+              <volume>27</volume>
+              <fpage>1910</fpage>
+              <lpage>1920</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 55 patients with unresectable pleural mesothelioma treated with durvalumab, platinum and pemetrexed, median survival was 20.4 months [compared to 12 months in historical controls], and adverse events were usually mild, there were no high grade immune related adverse events and only one patient had mild and transient ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34750557</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.godbert.2021.452">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Godbert</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Petitpain</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Lopez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nisse</surname><given-names>YE</given-names></name>
+<name name-style="western"><surname>Gillet</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Hepatitis B reactivation and immune check point inhibitors.</article-title>
+              <source>Dig Liver Dis.</source>
+              <year>2021</year>
+              <volume>53</volume>
+              <fpage>452</fpage>
+              <lpage>455</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old man with metastatic lung cancer developed acute liver injury 21 days after a single dose of durvalumab [bilirubin 8.1 mg/dL, ALT 1168 U/L, GGT 847 U/L, HBsAg positive, HBV DNA 10 million IU/mL], with progressive hepatic failure and death 19 days later despite tenofovir therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32921602</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.wong.2021.1274">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Yip</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Tse</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Lui</surname><given-names>RN</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatitis flare during immunotherapy in patients with current or past hepatitis B virus infection.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2021</year>
+              <volume>116</volume>
+              <fpage>1274</fpage>
+              <lpage>1283</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 990 patients in Hong Kong with advanced malignancies treated with checkpoint inhibitors between 2014 and 2019 [397 HBsAg positive, 482 with anti-HBc or anti-HBs, 111 negative for both at baseline], 39% of HBsAg-positive vs 30% of HBsAg-negative patients developed ALT elevations during therapy, but only two cases [both HBsAg positive and on prophylaxis] were due to HBV reactivation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33560651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.mustafayev.2022">
+            <mixed-citation publication-type="other">Mustafayev K, Torres H. Hepatitis B virus and hepatitis C virus reactivation in cancer patients receiving novel anticancer therapies. Clin Microbiol Infect. 2022:S1198-743X(22)00119-7.<annotation><p><italic toggle="yes">(Review of the literature on reactivation of HBV and HCV in patients on &#x0201c;novel&#x0201d; anticancer therapy concludes that reactivation can occur with checkpoint inhibitor therapy but largely among HBsAg positive patients and only rarely in patients with resolved hepatitis B).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Durvalumab.REF.yoo.2022.898">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yoo</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Shim</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Yoo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of hepatitis B virus reactivation in patients treated with immunotherapy for anti-cancer treatment.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>898</fpage>
+              <lpage>907</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3,465 patients with advanced malignancies treated with checkpoint inhibitors between 2015 and 2020 at a single referral center in Korean, 511 [15%] were HBsAg positive at baseline, reactivation of HBV occurred in 5 of 511 [1%] HBsAg positive vs none of 2,954 HBsAg negative patients, arising in 2 of 464 [0.4%] patients given prophylaxis [both having stopped antivirals] vs 3 of 47 not given prophylaxis [6.4%]; reactivation arising after 3-141 weeks [median 54 weeks] of nivolumab [n=2], pembrolizumab [n=2] or ipilimumab and nivolumab [n=1] treatment, ALT peak 53 to 1768 IU/mL, HBV DNA 6,100 to 3.9 million IU/mL, resolving with 2 to 6 weeks of starting antiviral therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34182151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.schoenfeld.2022.279">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schoenfeld</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Giobbie-Hurder</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ranasinghe</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kao</surname><given-names>KZ</given-names></name>
+<name name-style="western"><surname>Lako</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tsuji</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Durvalumab plus tremelimumab alone or in combination with low-dose or hypofractionated radiotherapy in metastatic non-small-cell lung cancer refractory to previous PD(L)-1 therapy: an open-label, multicentre, randomised, phase 2 trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2022</year>
+              <volume>23</volume>
+              <fpage>279</fpage>
+              <lpage>291</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 90 patients with NSCLC resistant to anti-PD-1 or anti-PD-L1 therapy who were treated with durvalumab combined with tremelimumab or low dose radiation, the objective response rate was 11% and 8% and the adverse event rate was 76% but only one patient had mild, transient ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35033226</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.avrillon.2022.95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Avrillon</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Daniel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Boisselier</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Le P&#x000e9;choux</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chouaid</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Nationwide real-life safety and treatment exposure data on durvalumab after concurrent chemoradiotherapy in unresectable stage III, locally advanced, non-small cell lung cancer: analysis of patients enrolled in the French early access program.</article-title>
+              <source>Lung.</source>
+              <year>2022</year>
+              <volume>200</volume>
+              <fpage>95</fpage>
+              <lpage>105</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 576 patients with advanced NSCLC treated with durvalumab at 188 French referral centers, the adverse event rate was 64% including serious events in 12%, 4 cases of which were hepatobiliary, but there were no liver related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35141799</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.naidoo.2022.84">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Naidoo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Vansteenkiste</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Faivre-Finn</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>&#x000d6;zg&#x000fc;ro&#x0011f;lu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Murakami</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Quantin</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Characterizing immune-mediated adverse events with durvalumab in patients with unresectable stage III NSCLC: A post-hoc analysis of the PACIFIC trial.</article-title>
+              <source>Lung Cancer.</source>
+              <year>2022</year>
+              <volume>166</volume>
+              <fpage>84</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Reanalysis of the PACIFIC trial of durvalumab in NSCLC found immune related adverse events in 20.1% [9.4% pneumonitis], which were high grade in 3.6% [1.9% pneumonitis] with only 2 patients with liver related immune mediated events [ALT elevation]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35245844</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.spigel.2022.1301">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spigel</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Faivre-Finn</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gray</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Vicente</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Planchard</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Paz-Ares</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vansteenkiste</surname><given-names>JF</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Five-year survival outcomes from the PACIFIC Trial: Durvalumab After Chemoradiotherapy in Stage III Non-Small-Cell Lung Cancer.</article-title>
+              <source>J Clin Oncol.</source>
+              <year>2022</year>
+              <volume>40</volume>
+              <fpage>1301</fpage>
+              <lpage>1311</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Follow up of patients with advanced NSCLC treated enrolled in the PACIFIC trial of adjuvant therapy found the overall 5-year estimated survival to be 43% for durvalumab vs 33% for placebo, a similar difference to what was found at 1 and 3 years; no further information on liver injury or its consequences).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35108059</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.park.2022.42">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Park</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Noh</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>YL</given-names></name>
+<name name-style="western"><surname>Chi</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Jung</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Durvalumab with chemoradiotherapy for limited-stage small-cell lung cancer.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2022</year>
+              <volume>169</volume>
+              <fpage>42</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 50 patients with small cell lung cancer treated with four 3-week cycles of etoposide, cisplatin and durvalumab, the 24 month progression-free survival was 42% and adverse events included one case of high grade immune related hepatitis that resolved with corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35500460</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Durvalumab.REF.ueno.2022">
+            <mixed-citation publication-type="other">Ueno M, Takabatake H, Hata A, Kayahara T, Morimoto Y, Notohara K, Mizuno M. Mycophenolate mofetil for immune checkpoint inhibitor-related hepatotoxicity relapsing during dose reduction of corticosteroid: a report of two cases and literature review. Cancer Rep (Hoboken). 2022 May 16:e1624. Epub ahead of print.<annotation><p><italic toggle="yes">(Two men, ages 74 and 46 years, with advanced or metastatic lung cancer developed immune related pneumonitis and hepatitis after a 2<sup>nd</sup> and a 1<sup>st</sup> cycle of chemotherapy with durvalumab, responding partially to high doses of prednisolone but relapsing with lower doses, and then responding more completely with addition of mycophenolate mofetil [2000 mg/daily]).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Durvalumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Durvalumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Durvalumab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Durvalumab">Trials on Durvalumab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

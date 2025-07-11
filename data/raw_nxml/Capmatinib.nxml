@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Capmatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Capmatinib</book-part-id>
+      <title-group>
+        <title>Capmatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Caplacizumab" document-type="chapter">Caplacizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Capreomycin" document-type="chapter">Capreomycin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Capmatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Capmatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Capmatinib is an orally available, small molecule inhibitor of the mesenchymal-epithelial transition (MET) factor tyrosine kinase receptor that is used is selected patients with non-small cell lung cancer (NSCLC). Serum aminotransferase elevations are common during therapy with capmatinib, but it has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Capmatinib.Background">
+          <title>Background</title>
+          <p>Capmatinib (kap ma&#x02019; ti nib) is an orally available, small molecule inhibitor of the mesenchymal-epithelial transition (MET) factor tyrosine kinase receptor that blocks the binding of its ligand, hepatocyte growth factor (HGF), which normally activates signaling pathways involved in cell proliferation, motility, and invasion. The MET gene is mutated or overexpressed in several human cancers, including lung, liver, breast, and ovarian leading to uncontrolled cell growth and proliferation. Capmatinib has potent activity against selected mutated forms of the MET receptor, including the variant produced by exon 14 skipping, and was found to inhibit cancer cell growth in several tissue culture and animal models of MET dysregulated cancers. In moderately sized, open label trials, capmatinib was found to induce objective responses in 41% of patients with refractory, metastatic non-small cell lung cancer harboring MET mutations and a higher proportion of treatment-na&#x000ef;ve subjects. Capmatinib was approved in the United States in 2020 for adults with NSCLC with documented mutations that cause MET exon 14 skipping, the first neoplastic agent approved for this indication. It remains under evaluation for other forms of cancer harboring MET mutations. Capmatinib is available in tablets of 150 and 200 mg under the brand name Tabrecta. The recommended dose is 400 mg orally twice daily until disease progression or unacceptable toxicity. Side effects are common and arise in almost all patients treated with capmatinib and lead to dose modification or discontinuation in approximately one quarter of treated patients. Common side effects include edema, nausea and vomiting, anorexia, diarrhea or constipation, musculoskeletal pain, fatigue, fever, cough, dyspnea, and rash. Uncommon but potentially severe adverse events include pneumonitis, interstitial lung disease, hepatotoxicity, photosensitivity, hypersensitivity reactions, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Capmatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of capmatinib in patients with solid tumors harboring MET mutations, liver test abnormalities were frequent although usually self-limited and mild. Some degree of ALT elevations arose in 39% of capmatinib treated patients and were above 5 times the upper limit of normal (ULN) in 7%. In these trials that enrolled 373 patients, capmatinib was discontinued early due to increased AST or ALT in only 1% of patients. The liver test abnormalities had a median onset of 2 months after initiation of therapy. While serum aminotransferase elevations were occasionally quite high (5 to 20 times upper limit of normal), there were no accompanying elevations in serum bilirubin and no patient developed clinically apparent liver injury with jaundice. The product label for capmatinib recommends monitoring for routine liver tests before, at 2 week intervals during the first 3 months of therapy, and monthly thereafter as clinically indicated.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Capmatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from capmatinib is unknown, but the pattern of abnormalities suggests direct liver injury. Capmatinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and 1A2, and is susceptible to drug-drug interactions with agents that inhibit or induce these CYPs. Therefore, drugs that inhibit CYP 3A4 or 1A2 activity should be avoided or the dose of capmatinib adjusted accordingly.</p>
+        </sec>
+        <sec id="Capmatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for capmatinib recommends monitoring for routine liver tests before starting treatment, at 2 week intervals during the first 3 months of treatment and monthly thereafter as clinically indicated. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation of capmatinib therapy and careful monitoring. Restarting therapy at a reduced dose can be done with caution and continued monitoring. In patients with jaundice or symptoms of liver injury accompanying the serum aminotransferase elevations, capmatinib should be promptly discontinued and not restarted. Cross sensitivity to liver injury is uncommon among the antineoplastic, small molecule enzyme and tyrosine receptor inhibitors, but currently there is no information on shared adverse event sensitivity of capmatinib with other antineoplastic kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Tepotinib" document-type="chapter">Tepotinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Capmatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Capmatinib &#x02013; Tabrecta&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Capmatinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Capmatinib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Capmatinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Capmatinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Capmatinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Capmatinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Capmatinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Capmatinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Capmatinib</td>
+                <td headers="hd_h_Capmatinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163643087">1029712-80-8</ext-link>
+</td>
+                <td headers="hd_h_Capmatinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C23-H17-F-N6-O</td>
+                <td headers="hd_h_Capmatinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163643087" document-id-type="sid" document-type="summary" object-id="163643087" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Capmatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 September 2023</p>
+        <p>Abbreviations: MET, mesenchymal epithelial transition receptor kinase gene; NSCLC, non-small cell lung cancer.</p>
+        <ref-list id="Capmatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Capmatinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss capmatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.fda.2020">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213591Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213591Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of capmatinib; states that the overall objective response rate was 68% in treatment na&#x000ef;ve and 41% in treatment refractory patients, and that adverse events arose in up to 50% of patients which were considered serious adverse events in 13%; ALT elevations occurred in 38% of patients and were above 5 times ULN in 8%, leading to dose interruption or adjustment in 5% and early discontinuation in 1%, but there were cases of acute liver injury with jaundice or hepatic failure and no fatalities due to liver injury attributed to capmatinib therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.awad.2016.721">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Awad</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Oxnard</surname>
+<given-names>GR</given-names></string-name>, <string-name name-style="western"><surname>Jackman</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Savukoski</surname>
+<given-names>DO</given-names></string-name>, <string-name name-style="western"><surname>Hall</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Shivdasani</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Heng</surname>
+<given-names>JC</given-names></string-name>, <etal>et al.</etal>
+<article-title>MET exon 14 mutations in non-small-cell lung cancer are associated with advanced age and stage-dependent MET genomic amplification and c-Met overexpression.</article-title>
+<source>J Clin Oncol.</source>
+<year>2016</year>;<volume>34</volume>:<fpage>721</fpage>-<lpage>30</lpage>.<annotation><p><italic toggle="yes">(Among 6376 cancers undergoing genome sequencing, MET exon 14 mutations were found in 28 of 933 [3%] NSCLC, KRAS mutations in 34%, EGFR in 19%, ALK 4% and BRAF in 4%; those with the MET exon 14 skipping mutations tended to be older than those with KRAS or EGFR mutations).</italic></p></annotation><pub-id pub-id-type="pmid">26729443</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.wolf.2020.944">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wolf</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Seto</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>JY</given-names></string-name>, <string-name name-style="western"><surname>Reguart</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Garon</surname>
+<given-names>EB</given-names></string-name>, <string-name name-style="western"><surname>Groen</surname>
+<given-names>HJM</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>DSW</given-names></string-name>, <etal>et al.</etal>; <article-title>GEOMETRY mono-1 Investigators. Capmatinib in <italic toggle="yes">MET</italic> exon 14-mutated or <italic toggle="yes">MET</italic>-Amplified non-small-cell lung cancer.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>:<fpage>944</fpage>-<lpage>957</lpage>.<annotation><p><italic toggle="yes">(Among 364 patients with MET-dysregulated advanced NSCLC treated with capmatinib [400 mg twice daily], overall response rates were 68% for treatment na&#x000ef;ve and 41% in previously treated refractory subjects, while adverse events arose in most patients [98%] and included peripheral edema [51%], nausea [45%], dyspnea [23%], fatigue [22%], anorexia [21%], and ALT elevations [13%] which were above 5 times ULN in 6%, and while one death was attributed to hepatitis, it was judged to be unrelated to treatment).</italic></p></annotation><pub-id pub-id-type="pmid">32877583</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.dhillon.2020.1125">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Capmatinib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1125</fpage>-<lpage>1131</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of capmatinib shortly after its accelerated approval as therapy of MET dysregulated NSCLC in the US, mentions that ALT elevations were a prominent reason for dose reductions during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">32557339</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.mathieu.2022.249">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mathieu</surname>
+<given-names>LN</given-names></string-name>, <string-name name-style="western"><surname>Larkins</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Akinboro</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Roy</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Amatya</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Fiero</surname>
+<given-names>MH</given-names></string-name>, <string-name name-style="western"><surname>Mishra-Kalyani</surname>
+<given-names>PS</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: capmatinib and tepotinib for the treatment of metastatic NSCLC harboring <italic toggle="yes">MET</italic> Exon 14 skipping mutations or alterations.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>249</fpage>-<lpage>254</lpage>.<annotation><p><italic toggle="yes">(Summary of the data supporting the FDA accelerated approvals of capmatinib and tepotinib for metastatic NSCLC with MET exon 14 skipping mutations or alterations, mentions that the safety profiles were similar for the two agents, both of which had evidence of hepatotoxicity considered serious enough to include in the &#x0201c;Warnings and Precautions&#x0201d; sections of the product labels).</italic></p></annotation><pub-id pub-id-type="pmid">34344795</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Capmatinib.REF.capmatinib_tabrecta_for_nsclc.2023.e65">
+            <mixed-citation publication-type="journal"><collab>Capmatinib (Tabrecta) for NSCLC</collab>. <source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>e65</fpage>-<lpage>e66</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, adverse effects, and costs of capmatinib shortly after it was granted regular approval for use in NSCLC with MET exon 14 skipping mutations, which occur in 3-4% of NSCLC cases, mentions that hepatotoxicity &#x0201c;can occur&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">37039616</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Capmatinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Capmatinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Capmatinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Capmatinib">Trials on Capmatinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

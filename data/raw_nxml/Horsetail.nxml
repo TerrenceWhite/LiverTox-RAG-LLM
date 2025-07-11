@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Horsetail" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Horsetail</book-part-id>
+      <title-group>
+        <title>Horsetail</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>7</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="HorseChestnut" document-type="chapter">Horse Chestnut</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Hydralazine" document-type="chapter">Hydralazine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Horsetail.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Horsetail.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Horsetail is an extract of the plant <italic toggle="yes">Equisetum arvense</italic> which has been used in traditional medicine for bladder and kidney conditions and to promote wound healing. Oral forms of horsetail have been implicated in instances of serum aminotransferase elevations, but it has not been convincingly linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Horsetail.Background">
+          <title>Background</title>
+          <p>Horsetail is derived from fresh or dried, green shoots of the plant <italic toggle="yes">Equisetum arvense</italic>, a fern-like, non-flowering weed found in low lying wetland areas in North America, Europe, the Middle East, and Asia. Extracts contain multiple flavonoids, flavone glycosides, caffeic acid ester, silicic acid and pyridine alkaloids. In animal models, horsetail has been shown to have diuretic and antispasmodic activities, and it has been used in traditional medicine for centuries for edema, bladder and renal conditions and to promote healing of wounds and burns. More recently, horsetail has been purported to have beneficial effects on arthritis, osteoporosis, asthma, chronic fatigue, dyspepsia, constipation, aging, well-being and various skin ailments. The bases of these claims have not been substantiated in controlled trials in humans, but laboratory studies suggest that components of horsetail have antioxidant, antiinflammatory and hepato-protective properties. Horsetail is found in multiple commercial forms, the recommended daily dose ranging widely to as high as several grams daily. Horsetail is generally well tolerated without adverse events; minor side effects may include diarrhea, abdominal discomfort and nausea. Rare instances of hypersensitivity reactions, skin rash and allergic dermatitis have been described.</p>
+        </sec>
+        <sec id="Horsetail.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In several small, rather short term clinical trials, horsetail in conventional oral doses (up to 6 grams daily) was typically described as having no adverse side effects, with no mention of either hepatotoxicity or ALT elevations. Isolated reports of serum enzyme elevations during horsetail therapy have been reported from large national registries, but usually without details of the timing, duration and severity of the abnormalities. Single case reports of liver injury with jaundice attributed to horsetail have appeared, but other possible diagnoses were not adequately excluded (Case 1). Thus, there is little evidence that horsetail in conventional oral doses or as herbal tea causes clinically apparent liver injury with jaundice in humans, but it has been implicated in rare instances of transient serum aminotransferase elevations without jaundice. Use of high doses given long term in persons with preexisting liver disease or cirrhosis is discouraged.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Horsetail.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which horsetail might cause liver injury is unknown. The typical daily dose is quite high (several grams) and the possibility of contamination or mislabeling of other species of Equisetum (such as E. palustre or marsh horsetail, E. hyenale or rough horsetail, and E. sylvaticum or wood horsetail) are possible reasons for occasional liver injury associated with its use.</p>
+        </sec>
+        <sec id="Horsetail.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Hepatotoxicity from horsetail is rare and generally mild; cases have been self-limiting upon stopping the herbal.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="chapter">Herbal and Dietary Supplements</related-object></p>
+          <p>Other names: Field Horsetail, Bottle-Brush, Dutch Rushes, Horse Willow, Pewter Wort and Toadpipe</p>
+        </sec>
+      </sec>
+      <sec id="Horsetail.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Horsetail.Case_1_Acute_hepatocellular_ja">
+          <title>Case 1. Acute hepatocellular jaundice attributed to horsetail.(<xref ref-type="bibr" rid="Horsetail.REF.1">1</xref>)</title>
+          <p>A 52 year old man developed jaundice 15 days after starting an herbal juice prepared from Equisetum arvense (horsetail) as phytotherapy of renal colic. During evaluation for renal colic before starting the herbal drink, he was found to have abnormal liver tests (ALT 150 U/L, AST 141 U/L, bilirubin 1.6 mg/dL) but the cause was not identified. He did not drink alcohol and had no risk factors or known history of liver disease. However, within two weeks of starting the herbal drink he developed jaundice, dark urine and itching. On presentation he was markedly jaundiced with a total bilirubin of 18.2 mg/dL and direct of 13.3 mg/dL, ALT 1117 U/L, AST 815 U/L and alkaline phosphatase 298 U/L. The prothrombin time was elevated at 17.1 seconds, the platelet count reduced at 120,000/&#x000b5;L, and serum albumin low at 3.0 g/dL. Tests for viral hepatitis revealed that he was positive for HBsAg, negative for HBeAg but with high levels of HBV DNA (3.5 million IU/mL). He tested positive for anti-HBc, but was negative for IgM anti-HBc. Tests for hepatitis A, C and D were negative as were autoantibodies (ANA and SMA). Imaging showed a normal appearing liver but prominent splenomegaly (17 cm by ultrasound). A liver biopsy was not done. His liver tests improved with stopping therapy (Table) and 8 weeks later were close to baseline levels but still distinctly elevated with an ALT of 166 U/L, AST 177 U/L, and bilirubin 2.7 mg/dL.</p>
+          <sec id="Horsetail.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Horsetail.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Horsetail.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Horsetail.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Equisetum arvense juice [900 mL] daily for 2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Horsetail.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Horsetail.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular [<italic toggle="yes">R</italic>=20]</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Horsetail.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Horsetail.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">4+ (jaundice, hospitalization, abnormal protime)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Horsetail.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Horsetail.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Horsetail.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Horsetail.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">~8 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Horsetail.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Horsetail.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Horsetail.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Horsetail.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Horsetail.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Horsetail.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Protime<break/>(sec)</th>
+                    <th id="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">171</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">12.6</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1">Routine tests before starting</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1117</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">298</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">18.2</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">17.1</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1">Admission, Horsetail stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">375</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">14.4</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">15.1</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">197</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.8</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">15.0</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">177</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.6</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">13.9</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_1 hd_h_Horsetail.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;50</bold>
+</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;270</bold>
+</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;14.5</bold>
+</td>
+                    <td headers="hd_h_Horsetail.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Horsetail.Comment">
+            <title>Comment</title>
+            <p>This was the first and the only published report of clinically apparent liver injury attributed to horsetail (Equisetum arvense). However, the history and course were also compatible with a spontaneous flare of chronic hepatitis B. The presence of splenomegaly and thrombocytopenia as well as the &#x0201c;reversal&#x0201d; of the ALT to AST ratio suggests the presence of cirrhosis, undoubtedly made worse by this transient flare of disease. Further follow up was not provided. Based upon this case report, the use of high doses of horsetail is not recommended for patients with underlying liver disease.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Horsetail.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Horsetail &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+        <p>
+<bold>SUMMARY INFORMATION</bold>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://medlineplus.gov/druginfo/natural/843.html#Safety">Fact Sheet at MedlinePlus, NLM</ext-link>
+</p>
+      </sec>
+      <sec id="Horsetail.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Horsetail.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Horsetail.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Horsetail.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Horsetail.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Horsetail.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Horsetail.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Horsetail</td>
+                <td headers="hd_h_Horsetail.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135297710">129677-90-3</ext-link>
+</td>
+                <td headers="hd_h_Horsetail.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Herbal</td>
+                <td headers="hd_h_Horsetail.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Horsetail.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Horsetail.CITED_REFERENCE.reflist0">
+          <ref id="Horsetail.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kilin&#x000e7;alp</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ekiz</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ba&#x0015f;ar</surname><given-names>&#x000d6;</given-names></name>
+<name name-style="western"><surname>Coban</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Y&#x000fc;ksel</surname><given-names>O.</given-names></name>
+</person-group>
+              <article-title>Equisetum arvense (field horsetail)-induced liver injury.</article-title>
+              <source>Eur J Gastroenterol Hepatol.</source>
+              <year>2012</year>
+              <volume>24</volume>
+              <fpage>213</fpage>
+              <lpage>4</lpage>
+              <pub-id pub-id-type="pmid">22228296</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Horsetail.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 July 2022</p>
+        <p>Abbreviations: EAE, Equisetum arvense extract; HCTZ, hydrochlorothiazide; HDS, herbal and dietary supplements.</p>
+        <ref-list id="Horsetail.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Horsetail.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not horsetail).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Horsetail.REF.liu.2007">
+            <mixed-citation publication-type="book">Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; no mention of horsetail).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Horsetail.REF4">
+            <mixed-citation publication-type="book">Horsetail. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 458-9.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Horsetail.REF.stedman.2002.195">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stedman</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Herbal hepatotoxicity.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2002</year>
+              <volume>22</volume>
+              <fpage>195</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review and description of patterns of liver injury due to herbals, including discussion of potential risk factors, and herb-drug interactions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12016550</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.estes.2003.852">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Estes</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Stolpman</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Olyaei</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Corless</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Ham</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Schwartz</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Orloff</surname><given-names>SL</given-names></name>
+</person-group>
+              <article-title>High prevalence of potentially hepatotoxic herbal supplement use in patients with fulminant hepatic failure.</article-title>
+              <source>Arch Surg</source>
+              <year>2003</year>
+              <volume>138</volume>
+              <fpage>852</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 20 patients undergoing liver transplantation for acute liver failure during 2001-2, 10 were attributed to herbal products, including Ma huang, usnic acid, kava, chaparral and skullcap; but none attributed to horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12912743</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.jacobsson.2009.1039">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobsson</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>J&#x000f6;nsson</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Gerd&#x000e9;n</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>H&#x000e4;gg</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2009</year>
+              <volume>18</volume>
+              <fpage>1039</fpage>
+              <lpage>47</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry found 6 attributed to horsetail, including 2 cases with ALT elevations; no details given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19650152</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, including several herbal mixtures, usnic acid, Ma Huang, black cohosh, and Hydroxycut, but not horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.stickel.2011.595">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stickel</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kessebohm</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Weimann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Seitz</surname><given-names>HK</given-names></name>
+</person-group>
+              <article-title>Review of liver injury associated with dietary supplements.</article-title>
+              <source>Liver Int</source>
+              <year>2011</year>
+              <volume>31</volume>
+              <fpage>595</fpage>
+              <lpage>605</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of current understanding of liver injury from herbals and dietary supplements focusing upon Herbalife and Hydroxycut products, green tea, usnic acid, noni juice, Chinese herbs, vitamin A and anabolic steroids; horsetail is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21457433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.teschke.2012.1543">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teschke</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wolff</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Frenzel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schulze</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Eickhoff</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+              <source>Liver Int</source>
+              <year>2012</year>
+              <volume>32</volume>
+              <fpage>1543</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements but does not list or mention horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22928722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.kilin_alp.2012.213">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kilin&#x000e7;alp</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ekiz</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ba&#x0015f;ar</surname><given-names>&#x000d6;</given-names></name>
+<name name-style="western"><surname>Coban</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Y&#x000fc;ksel</surname><given-names>O.</given-names></name>
+</person-group>
+              <article-title>Equisetum arvense (field horsetail)-induced liver injury.</article-title>
+              <source>Eur J Gastroenterol Hepatol.</source>
+              <year>2012</year>
+              <volume>24</volume>
+              <fpage>213</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed jaundice 15 days after starting Equisetum arvense juice [500 mL daily] for renal colic [bilirubin 18.2 mg/dL, ALT 181 U/L, Alk P 298 U/L, Protime 17.1 sec, HBsAg positive, HBV DNA 3.6 million IU/mL], which improved after stopping the herbal, but the diagnosis could also have been a spontaneous flare of a previously unsuspected chronic hepatitis B: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22228296</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the General population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, 15 of which [16%] were attributed to HDS products, but none were listed as containing horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.bunchorntavakul.2013.3">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bunchorntavakul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Review article: herbal and dietary supplement hepatotoxicity.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2013</year>
+              <volume>37</volume>
+              <fpage>3</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on HDS associated liver injury does not mention horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23121117</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.navarro.2013.715">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Seeff</surname><given-names>LB</given-names></name>
+</person-group>
+              <article-title>Liver injury induced by herbal complementary and alternative medicine.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2013</year>
+              <volume>17</volume>
+              <fpage>715</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the epidemiology, regulatory status, diagnosis, pathogenesis and causes of liver injury from herbal products with specific discussion of conjugated linoleic acid, ephedra, germander, green tea, usnic acid, flavocoxid, aloe vera, chaparral, greater celandine, black cohosh, comfrey, kava, skullcap, valerian, noni juice, pennyroyal and traditional herbal remedies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24099027</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.navarro.2014.1399">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Grant</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+              <source>Hepatology</source>
+              <year>2014</year>
+              <volume>60</volume>
+              <fpage>1399</fpage>
+              <lpage>408</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 839 cases of liver injury from drugs collected in the US between 2004 and 2013, 130 were due to HDS products, including 45 from body building agents [probably anabolic steroids] and 85 from diverse HDS products but no case was attributed specifically to horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25043597</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.navarro.2014.172">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity induced by herbal and dietary supplements.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>172</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the international regulatory framework for HDS products and the epidemiology, clinical presentation, diagnosis and cause of HDS associated liver injury with tables and discussion of the most commonly implicated agents, but does not include mention of horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24879982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.carneiro.2014.760683">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carneiro</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Freire</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Hon&#x000f3;rio</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Zoghaib</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Cardoso</surname><given-names>FF</given-names></name>
+<name name-style="western"><surname>Tresvenzol</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>de Paula</surname><given-names>JR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Randomized, double-blind clinical trial to assess the acute diuretic effect of Equisetum arvense (Field horsetail) in healthy volunteers.</article-title>
+              <source>Evid Based Complement Alternat Med.</source>
+              <year>2014</year>
+              <volume>2014</volume>
+              <elocation-id>760683</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 36 healthy male volunteers who received serial 4-day courses of Equisetum arvense extract [EAE: 900 mg], hydrochlorothiazide [HCTZ: 25 mg] or placebo, both EAE and HCTZ produced a diuresis and averse events were uncommon; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24723963</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.seeff.2015.517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Seeff</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Herbal products and the liver: a review of adverse effects and mechanisms.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>517</fpage>
+              <lpage>532.e3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of herbal associated liver injury does not discuss horsetail specifically).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25500423</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.brown.2017.472">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brown</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+              <source>Food Chem Toxicol</source>
+              <year>2017</year>
+              <volume>107</volume>
+              <fpage>472</fpage>
+              <lpage>501</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products, does not list or discuss horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27402097</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.medinacaliz.2018.1495">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Medina-Caliz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Garcia-Cortes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gonzalez-Jimenez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cabello</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Robles-Diaz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sanabria-Cabrera</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sanjuan-Jimenez</surname><given-names>R</given-names></name>
+<etal/>
+<collab>Spanish DILI Registry</collab>
+</person-group>
+              <article-title>Herbal and dietary supplement-induced liver injuries in the Spanish DILI Registry.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2018</year>
+              <volume>16</volume>
+              <fpage>1495</fpage>
+              <lpage>1502</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 856 cases of hepatotoxicity enrolled in the Spanish DILI Registry between 1994 and 2016, 32 were attributed to herbal products, the most frequent cause being green tea [n=8] and Herbalife products [n=6], while one anicteric, self-limited hepatocellular case was scored as probably due to horsetail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29307848</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.popovych.2019.265">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Popovych</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Koshel</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Malofiichuk</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Pyletska</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Semeniuk</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Filippova</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Orlovska</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>A randomized, open-label, multicenter, comparative study of therapeutic efficacy, safety and tolerability of BNO 1030 extract, containing marshmallow root, chamomile flowers, horsetail herb, walnut leaves, yarrow herb, oak bark, dandelion herb in the treatment of acute non-bacterial tonsillitis in children aged 6 to 18&#x0202f;years.</article-title>
+              <source>Am J Otolaryngol.</source>
+              <year>2019</year>
+              <volume>40</volume>
+              <fpage>265</fpage>
+              <lpage>273</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 224 children ages 6 to 18 years with non-bacterial tonsilitis treated with a commercially available herbal solution called &#x0201c;Tonsilgon&#x0201d; which consisted of extracts from 7 herbs including horsetail [Herba equiseti] for 10 days or given conventional therapy, symptoms improved more rapidly with the herbal mixture and &#x0201c;no adverse events were registered&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30554882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.greca.2020.107">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Greca</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Cunha-Silva</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Costa</surname><given-names>LBE</given-names></name>
+<name name-style="western"><surname>Costa</surname><given-names>JGF</given-names></name>
+<name name-style="western"><surname>Mazo</surname><given-names>DFC</given-names></name>
+<name name-style="western"><surname>Sev&#x000e1;-Pereira</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nascimento</surname><given-names>MMC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Vanishing bile duct syndrome related to DILI and Hodgkin lymphoma overlap: A rare and severe case.</article-title>
+              <source>Ann Hepatol.</source>
+              <year>2020</year>
+              <volume>19</volume>
+              <fpage>107</fpage>
+              <lpage>112</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(25 year old woman developed pruritus and jaundice 45 days after starting a regimen of multiple agents for weight loss including horsetail, garcinia, bupropion, sertraline, metformin and orlistat [bilirubin 19.6 mg/dL, ALT 199 U/L, Alk P 1395 U/L, INR 1.34], with only modest improvement on stopping and subsequent liver biopsy showing vanishing bile duct syndrome and further evaluation demonstrating Hodgkin disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31537508</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.schloss.2021.153783">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schloss</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ryan</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Steel</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>A randomised, double-blind, placebo-controlled clinical trial found that a novel herbal formula Urox&#x000ae; (Bedtime Buddy&#x000ae;) assisted children for the treatment of nocturnal enuresis.</article-title>
+              <source>Phytomedicine.</source>
+              <year>2021</year>
+              <volume>93</volume>
+              <elocation-id>153783</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 48 children with enuresis treated with &#x0201c;Urox Junior&#x0201d; [a commercial mixture of Crataeva nurvala, Lindera aggregate and horsetail] or placebo for 8 weeks, the mean number of nights with bed wetting decreased more with the herbal product [5.8 to 4.6 per week] than placebo [4.4 to 3.8 per week] and there were no adverse events attributable to the product but ALT levels were not monitored).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34628241</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.bessone.2022.e548">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Medina-Caliz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hernandez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Parana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mendizabal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schinoni</surname><given-names>MI</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>e548</fpage>
+              <lpage>e563</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American DILI Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5] and garcinia [n=3], while horsetail was listed as a concomitantly taken herb in 2 cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33434654</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.ballotin.2021.5490">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ballotin</surname><given-names>VR</given-names></name>
+<name name-style="western"><surname>Bigarella</surname><given-names>LG</given-names></name>
+<name name-style="western"><surname>Brand&#x000e3;o</surname><given-names>ABM</given-names></name>
+<name name-style="western"><surname>Balbinot</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Balbinot</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Soldera</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Herb-induced liver injury: Systematic review and meta-analysis.</article-title>
+              <source>World J Clin Cases.</source>
+              <year>2021</year>
+              <volume>9</volume>
+              <fpage>5490</fpage>
+              <lpage>5513</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of the literature on herb induced liver injury identified 446 references describing 936 cases due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90] Herbalife products [64], kava kava [62] and greater celandine [48]; horsetail was implicated in 7 cases but details were not provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34307603</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Horsetail.REF.carneiro.2022.153955">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carneiro</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Jardim</surname><given-names>TV</given-names></name>
+<name name-style="western"><surname>Ara&#x000fa;jo</surname><given-names>YCL</given-names></name>
+<name name-style="western"><surname>Arantes</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>de Sousa</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Barroso</surname><given-names>WKS</given-names></name>
+<name name-style="western"><surname>Sousa</surname><given-names>ALL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Antihypertensive effect of Equisetum arvense L.: a double-blind, randomized efficacy and safety clinical trial.</article-title>
+              <source>Phytomedicine.</source>
+              <year>2022</year>
+              <volume>99</volume>
+              <elocation-id>153955</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 58 adults with hypertension treated with Equisetum arvense [900 mg] or hydrochlorothiazide [25 mg] daily for 3 months, both systolic and diastolic blood pressure declined to a similar extent in both groups, adverse events were uncommon [3.6% vs 4.7% ) and there were no signs of liver toxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35168030</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Horsetail.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Horsetail+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Horsetail: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Horsetail">Trials on Horsetail: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

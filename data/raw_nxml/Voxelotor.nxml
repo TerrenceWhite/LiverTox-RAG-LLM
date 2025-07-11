@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Voxelotor" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Voxelotor</book-part-id>
+      <title-group>
+        <title>Voxelotor</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>7</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Vosoritide" document-type="chapter">Vosoritide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Vutrisiran" document-type="chapter">Vutrisiran</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Voxelotor.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Voxelotor.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Voxelotor is an oral inhibitor of hemoglobin S polymerase that is used in the therapy of sickle cell disease. Voxelotor has been associated with rare instances of mild-to-moderate serum enzyme elevations during therapy, but has not been linked to instances of idiosyncratic acute liver injury.</p>
+        </sec>
+        <sec id="Voxelotor.Background">
+          <title>Background</title>
+          <p>Voxelotor (vox el&#x02019; oh tor) is an orally available, small molecule inhibitor of hemoglobin S polymerase, an enzyme which promotes the aggregation of deoxygenated hemoglobin S. Inhibition of this enzyme decreases sickling of red blood cells. Sickle cell disease is caused by an inherited mutation in the &#x003b2; globin gene that creates hemoglobin S, which is prone to aggregation with deoxygenation resulting in sickling of red blood cells, hemolytic anemia, and recurrent painful crises involving different organs and tissues. Sickle cell disease affects at least 100,000 Americans and is most common in persons of African descent. Long term complications include disability due to recurrent painful crises, acute chest syndrome, pulmonary hypertension, stroke and cerebral infarcts, end-organ damage and early mortality. In clinical trials in patients with frequent sickle cell crises, voxelotor therapy was associated with a decrease in sickling, improvement in hemoglobin levels and decreases in reticulocytes and indirect bilirubin levels. Despite the apparent decrease in hemolysis, however, rates of vaso-occlusive crises were similar with voxelotor and placebo treatment. Furthermore, HbS when bound to voxelotor delivers very little oxygen and the increase in hemoglobin levels may therefore not equate with better oxygenation of tissues. Voxelotor was approved in the United States in 2019 as therapy for sickle cell disease in adults and children 12 years or older. Voxelotor is available in tablets of 500 mg under the brand name Oxbryta. The recommended dose in adults is 1,500 mg once daily. Side effects can include headache, diarrhea, abdominal pain, nausea, fatigue, rash and fever. Uncommon, but potentially serious side effects include hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Voxelotor.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials of voxelotor in patients with sickle cell disease, serum aminotransferase elevations occurred in 1% to 2% of patients during therapy, but the elevations were usually asymptomatic, self-limited in course and mild-to-moderate in degree. Patients with sickle cell disease frequently have liver test abnormalities and most have some degree of jaundice, due largely to hemolysis. They are also at risk for gall stone disease (from chronic hemolysis), chronic hepatitis B and C (from blood transfusions), iron overload (from frequent transfusions), congestive liver disease (due to pulmonary hypertension), and veno-occlusive crises involving the liver which can be associated with serum aminotransferase elevations. In preregistration trials of voxelotor, hepatic events were no more common with the active drug than with placebo. Rare instances of acute aminotransferase elevations of unknown cause occurred in patients receiving voxelotor, but were self-limited in course and were not associated with worsening of preexisting bilirubin elevations or need for dose modification or discontinuation.</p>
+          <p>Likelihood score: E* (unproven but possible cause of acute liver injury with jaundice).</p>
+        </sec>
+        <sec id="Voxelotor.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which voxelotor might cause liver injury is unknown, but may be due to an intermediate product of its metabolism. Voxelotor is metabolized in the liver largely by the CYP 3A4 and is susceptible to drug-drug interactions with inhibitors or inducers of this enzyme reactivity and with other CYP 3A4 substrates.</p>
+        </sec>
+        <sec id="Voxelotor.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury due to voxelotor is generally mild and asymptomatic. Elucidating the cause of liver test abnormalities in patients with sickle cell disease is difficult as they are susceptible to several forms of liver injury including acute viral hepatitis, iron overload, gallstone disease, congestive hepatopathy from pulmonary hypertension, and ischemic liver injury from hepatic sickling crises.</p>
+          <p>Drug Class: Genetic Disorder Agents, <related-object source-id="livertox" document-id="">Hematologic</related-object> Agents, <related-object link-type="booklink" source-id="livertox" document-id="SickleCellAg" document-type="chapter">Sickle Cell Disease Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Voxelotor.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Voxelotor &#x02013; Oxbryta&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Sickle Cell Disease Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Voxelotor">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Voxelotor.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Voxelotor.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Voxelotor.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Voxelotor.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Voxelotor.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Voxelotor.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Voxelotor.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Voxelotor</td>
+                <td headers="hd_h_Voxelotor.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://328083407">1446321-46-5</ext-link>
+</td>
+                <td headers="hd_h_Voxelotor.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H19-N3-O3</td>
+                <td headers="hd_h_Voxelotor.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="328083407" document-id-type="sid" document-type="summary" object-id="328083407" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Voxelotor.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 July 2021</p>
+        <ref-list id="Voxelotor.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Voxelotor.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of voxelotor).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Voxelotor.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213137Orig1s000Multidiscipline.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213137Orig1s000Multidiscipline.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA multidisciplinary scientific review of the voxelotor application for safety and efficacy which mentions one participant in the preregistration clinical trial who developed an acute, transient, anicteric hepatitis while receiving voxelotor).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Voxelotor.REF.koh.2013.e250">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Koh</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Turner</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Minniti</surname><given-names>CP</given-names></name>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Simpson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Demino</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver stiffness increases acutely during sickle cell vaso-occlusive crisis.</article-title>
+              <source>Am J Hematol</source>
+              <year>2013</year>
+              <volume>88</volume>
+              <fpage>E250</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 23 patients with sickle cell disease evaluated before and during an acute vaso-occlusive crisis, serum liver enzyme elevations did not change appreciably, but hepatic stiffness increased [measured by ultrasound transient elastography] as did serum total and indirect bilirubin and reticulocyte counts, while serum albumin and hemoglobin decreased).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23828202</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.feld.2015.912">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Feld</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Kato</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Koh</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Shields</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hildesheim</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>JG</given-names><suffix>6th</suffix></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury is associated with mortality in sickle cell disease.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2015</year>
+              <volume>42</volume>
+              <fpage>912</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 247 patients with sickle cell disease, liver disease was common, elevations in ALT were present in 16% and alkaline phosphatase in 33%; factors associated with mortality during follow up were iron indices [serum ferritin, transferrin, and iron] and liver abnormalities [direct bilirubin, albumin and alkaline phosphatase levels]; liver biopsy done in 40 patients revealed nodular regenerative hyperplasia in 36% and portal venopathy in 23%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26235444</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.blyden.2018.e188">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blyden</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bridges</surname><given-names>KR</given-names></name>
+<name name-style="western"><surname>Bronte</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Case series of patients with severe sickle cell disease treated with voxelotor (GBT440) by compassionate access.</article-title>
+              <source>Am J Hematol</source>
+              <year>2018</year>
+              <month>May</month>
+              <day>12</day>
+              <fpage>E188</fpage>
+              <lpage>E190</lpage>
+              <comment>Correspondence.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 7 patients with sickle cell disease and frequent vaso-occlusive crises treated with voxelotor on a compassionate use basis, therapy was well tolerated and hemoglobin levels increased in most, but one patient with preexisting severe hemosiderosis had progressive hepatic failure and died).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.howard.2019.1865">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Howard</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hemmaway</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Telfer</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Layton</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Porter</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Awogbade</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mant</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase 1/2 ascending dose study and open-label extension study of voxelotor in patients with sickle cell disease.</article-title>
+              <source>Blood</source>
+              <year>2019</year>
+              <volume>133</volume>
+              <issue>17</issue>
+              <fpage>1865</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 38 patients with sickle cell disease receiving voxelotor [500, 700 or 1000 mg daily for 28 days or 900 mg for up to 6 months] therapy was well tolerated overall, the most common adverse events being headache, diarrhea and rash, while only 2 patients had serum enzyme elevations which were mild and transient [1-3 times ULN]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30655275</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.vichinsky.2019.509">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vichinsky</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hoppe</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Ataga</surname><given-names>KI</given-names></name>
+<name name-style="western"><surname>Ware</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Nduba</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>El-Beshlawy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hassab</surname><given-names>H</given-names></name>
+<etal/>
+<collab>HOPE Trial Investigators</collab>
+</person-group>
+              <article-title>A phase 3 randomized trial of voxelotor in sickle cell disease.</article-title>
+              <source>N Engl J Med</source>
+              <year>2019</year>
+              <volume>381</volume>
+              <fpage>509</fpage>
+              <lpage>19</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 274 patients, ages 12 to 65 years, with sickle cell disease treated with voxelotor [900 or 1500 mg] or placebo once daily for an average of 42 weeks, hemoglobin levels increased with voxelotor [by 1.1 and 0.6 g/dL vs -0.1 g/dL with placebo] and reticulocyte counts and indirect bilirubin decreased, while adverse event rates were similar in the three groups, no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31199090</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.blair.2020.209">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blair</surname><given-names>HA</given-names></name>
+</person-group>
+              <article-title>Voxelotor: first approval.</article-title>
+              <source>Drugs</source>
+              <year>2020</year>
+              <volume>80</volume>
+              <fpage>209</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review and summary of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of voxelotor shortly after its initial approval in the US mentions that adverse events with therapy were mostly mild and most commonly diarrhea and headache; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32020554</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF9">
+            <element-citation publication-type="journal">
+              <article-title>Two drugs for sickle cell disease.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1595</issue>
+              <fpage>51</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of crizanlizumab and voxelotor shortly after their approval for use in sickle cell disease in the US; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32324178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.han.2020.525">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Han</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Saraf</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Gordeuk</surname><given-names>VR</given-names></name>
+</person-group>
+              <article-title>Systematic review of voxelotor: a first-in-class sickle hemoglobin polymerization inhibitor for management of sickle cell disease.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>525</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of voxelotor in sickle cell disease, does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32343424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.darbari.2020.237">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Darbari</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Sheehan</surname><given-names>VA</given-names></name>
+<name name-style="western"><surname>Ballas</surname><given-names>SK</given-names></name>
+</person-group>
+              <article-title>The vaso-occlusive pain crisis in sickle cell disease: definition, pathophysiology, and management.</article-title>
+              <source>Eur J Haematol</source>
+              <year>2020</year>
+              <volume>105</volume>
+              <fpage>237</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the pathogenesis of vaso-occlusive crisis in patients with sickle cell disease and therapies that target different steps in the process including inflammation, adhesion, oxidative stress and oxygen affinity and stability of hemoglobin; discusses efficacy of L-glutamine, voxelotor and crizanlizumab, mentioning that all three are well tolerated; no mention or discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32301178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.ali.2020.11">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ali</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Ahmad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chaudry</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Aiman</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Aamir</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Anwar</surname><given-names>MY</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of recently approved drugs for sickle cell disease: a review of clinical trials.</article-title>
+              <source>Exp Hematol</source>
+              <year>2020</year>
+              <volume>92</volume>
+              <fpage>11</fpage>
+              <lpage>18.e1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of randomized controlled trials of 3 recently approved drugs for sickle cell disease focusing upon L-glutamine, voxelotor, and crizanlizumab states that all three are &#x0201c;well tolerated without any alarming adverse effects&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32841705</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.tisdale.2020.1198">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tisdale</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Thein</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Eaton</surname><given-names>WA</given-names></name>
+</person-group>
+              <article-title>Treating sickle cell anemia.</article-title>
+              <source>Science</source>
+              <year>2020</year>
+              <volume>367</volume>
+              <issue>6483</issue>
+              <fpage>1198</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanism of action and efficacy of current [hydroxyurea and voxelotor] and the promise of future therapies of sickle cell anemia [including bone marrow transplantation and gene therapy], mentions that voxelotor binds to the high oxygen affinition, non-polymerizing R conformation of HbS, but when bound to the drug, the HbS delivers very little oxygen, so that the increase in hemoglobin concentrations with therapy may not result in better oxygenation of tissue).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32165573</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.pace.2021.240">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pace</surname><given-names>BS</given-names></name>
+<name name-style="western"><surname>Starlard-Davenport</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kutlar</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Sickle cell disease: progress towards combination drug therapy.</article-title>
+              <source>Br J Haematol</source>
+              <year>2021</year>
+              <volume>194</volume>
+              <issue>2</issue>
+              <fpage>240</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pathophysiology of sickle cell disease and vaso-occlusive crises and mechanism of action of drugs used to treat sickle cell disease and drugs currently under investigation for efficacy in decreasing the microvascular occlusive crises that mediate much of the morbidity and mortality of this disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33471938</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Voxelotor.REF.howard.2021.e323">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Howard</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ataga</surname><given-names>KI</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Achebe</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nduba</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>El-Beshlawy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hassab</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Voxelotor in adolescents and adults with sickle cell disease (HOPE): long-term follow-up results of an international, randomised, double-blind, placebo-controlled, phase 3 trial.</article-title>
+              <source>Lancet Haematol.</source>
+              <year>2021</year>
+              <volume>8</volume>
+              <issue>5</issue>
+              <fpage>e323</fpage>
+              <lpage>e333</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 247 patients with sickle cell disease treated with voxelotor [1500 or 900 mg] or placebo for up to 72 weeks, hemoglobin levels improved by 1.0 and 0.51 g/L with voxelotor vs 0.0 g/dL with placebo, while total and severe adverse event rates were similar in all groups; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33838113</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Voxelotor.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Voxelotor+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Voxelotor: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Voxelotor">Trials on Voxelotor: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

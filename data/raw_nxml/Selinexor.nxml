@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Selinexor" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Selinexor</book-part-id>
+      <title-group>
+        <title>Selinexor</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Selexipag" document-type="chapter">Selexipag</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Selpercatinib" document-type="chapter">Selpercatinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Selinexor.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Selinexor.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Selinexor is a small molecule inhibitor of a nuclear exporter of proteins which is used in combination with dexamethasone in the therapy of adults with relapsed or refractory multiple myeloma. Selinexor is associated with a low rate of transient serum enzyme elevation during therapy but has not been linked to cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Selinexor.Background">
+          <title>Background</title>
+          <p>Selinexor (sel&#x0201d; in nex&#x02019; or) is a small molecule inhibitor of nuclear exportin-1 (XPO1) which blocks the transport of tumor suppressor proteins, oncoproteins, and growth regulators such as c-myc and cyclin D1 from the nucleus into the cytoplasm. This results in cell cycle arrest and apoptosis of cancerous but not noncancerous cells. Selinexor therapy was found to result in prolongation of progression-free survival in highly pretreated patients with advanced, relapsed or refractory multiple myeloma. Selinexor was approved for use in the United States in 2019, with indications limited to adults with relapsed or refractory multiple myeloma after failure of at least 4 previous treatment regimens. Selinexor is available tablets of 20, 40, 50 and 60 mg under the brand name Xpovio. The recommended initial dose is 80 mg on days 1 and 3 each week to continue with subsequent dose adjustment based upon tolerance. Selinexor should be used in combination with dexamethasone and with careful monitoring for side effects, platelet counts and white counts. Common side effects include neutropenia, thrombocytopenia, anemia, nausea, vomiting, anorexia, weight loss, weakness, fatigue, hyponatremia, headaches, dizziness, and confusion. Rare, but potentially serious side effects include severe hematologic toxicities including thrombocytopenia and neutropenia, severe infections, acute neurotoxicity, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Selinexor.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure open label trials of selinexor in a total of 202 patients with advanced, refractory or relapsed multiple myeloma, serum ALT elevations arose in 8.4% of treated subjects and were above 5 times the ULN in 2.5%. The timing and character of the elevations were not described, but no patient developed raised serum enzymes with jaundice or symptoms. Since approval and general availability of selinexor, there have been no published reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E* (unproven, but possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Selinexor.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme and bilirubin elevations that occur during selinexor therapy is unknown. Selinexor is metabolized in the liver predominantly by CYP 3A4 but does not inhibit or induce the enzyme. Its use with strong inducers of CYP 3A4 could result in decreased drug levels and reduced efficacy, while use with strong CYP 3A4 inhibitors could result in elevated drug levels and potentially increased adverse events.</p>
+        </sec>
+        <sec id="Selinexor.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The elevations in serum ALT and bilirubin during selinexor therapy have been asymptomatic, mild and transient, not requiring dose adjustments. Routine monitoring of liver tests is not recommended. There is no information on cross sensitivity for hepatic injury between selinexor and other medications used in the therapy of multiple myeloma.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, Multiple Myeloma Agents</p>
+        </sec>
+      </sec>
+      <sec id="Selinexor.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Selinexor &#x02013; Xpovio&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Selinexor">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Selinexor.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Selinexor.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Selinexor.Tc_1_1_1_1" valign="middle" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Selinexor.Tc_1_1_1_2" valign="middle" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Selinexor.Tc_1_1_1_3" valign="middle" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Selinexor.Tc_1_1_1_4" valign="middle" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Selinexor.Tc_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Selinexor</td>
+                <td headers="hd_h_Selinexor.Tc_1_1_1_2" valign="middle" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://172650933">1393477-72-9</ext-link>
+</td>
+                <td headers="hd_h_Selinexor.Tc_1_1_1_3" valign="middle" align="left" rowspan="1" colspan="1">C17-H11-F6-N7O</td>
+                <td headers="hd_h_Selinexor.Tc_1_1_1_4" valign="middle" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="172650933" document-id-type="sid" document-type="summary" object-id="172650933" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Selinexor.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>SELECTED BIBLIOGRAPHY</p>
+        <p>References updated: 29 April 2023</p>
+        <ref-list id="Selinexor.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Selinexor.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 before the availability of selinexor).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selinexor.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam, Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; selinexor is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selinexor.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. Natural products in cancer chemotherapy: hormones and related agents. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-48.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selinexor.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212306Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212306Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that ALT elevations arose in 8.4% of treated patients and were above 5 times the ULN in 2.5% but no patient developed jaundice or symptoms of acute liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Selinexor.REF.grosicki.2020.1563">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grosicki</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Simonova</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Spicka</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Pour</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Kriachok</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Gavriatopoulou</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pylypenko</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Once-per-week selinexor, bortezomib, and dexamethasone versus twice-per-week bortezomib and dexamethasone in patients with multiple myeloma (BOSTON): a randomised, open-label, phase 3 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2020</year>
+              <volume>396</volume>
+              <issue>10262</issue>
+              <fpage>1563</fpage>
+              <lpage>1573</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 402 adults with relapsed or refractory multiple myeloma treated with bortezomib and dexamethasone with or without selinexor [100 mg once weekly], progression-free survival was longer with addition of Selinexor [13.2 vs 9.5 months]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33189178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Selinexor.REF.azmi.2021.152">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Azmi</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Uddin</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Mohammad</surname><given-names>RM</given-names></name>
+</person-group>
+              <article-title>The nuclear export protein XPO1 &#x02013; from biology to targeted therapy.</article-title>
+              <source>Nat Rev Clin Oncol.</source>
+              <year>2021</year>
+              <volume>18</volume>
+              <fpage>152</fpage>
+              <lpage>169</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of the nuclear export proteins, their role in cell integrity, and the development of specific small molecular inhibitors and their possible therapeutic activities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33173198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Selinexor.REF.kalakonda.2020.e511">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kalakonda</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Maerevoet</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cavallo</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Follows</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Goy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vermaat</surname><given-names>JSP</given-names></name>
+<name name-style="western"><surname>Casasnovas</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Selinexor in patients with relapsed or refractory diffuse large B-cell lymphoma (SADAL): a single-arm, multinational, multicentre, open-label, phase 2 trial.</article-title>
+              <source>Lancet Haematol.</source>
+              <year>2020</year>
+              <volume>7</volume>
+              <fpage>e511</fpage>
+              <lpage>e522</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 175 adults with relapsed or refractory diffuse large cell B cell lymphoma treated with selinexor [60 mg on days 1 and 3 weekly], the overall response rate was 28% and adverse events included thrombocytopenia, anemia, neutropenia, fatigue, and nausea, but there were no drug related deaths and no liver related severe adverse events; no mention of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32589977</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Selinexor.REF.chari.2019.727">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vogl</surname><given-names>DT</given-names></name>
+<name name-style="western"><surname>Gavriatopoulou</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nooka</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Yee</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Huff</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Moreau</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Oral selinexor-dexamethasone for triple-class refractory multiple myeloma.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2019</year>
+              <volume>381</volume>
+              <fpage>727</fpage>
+              <lpage>738</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 122 adults with relapsed or refractory multiple myeloma treated with selinexor [80 mg twice weekly], 26% had at least a partial response, the median progression-free survival was 3.7 months and overall survival 8.6 months, while side effects were frequent including thrombocytopenia [73%], anemia [62%], neutropenia [40%], fatigue [73%], nausea [72%], decreased appetite [56%], weight loss [50%], diarrhea [46%], and hyponatremia [37%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31433920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Selinexor.REF.syed.2019.1485">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Syed</surname><given-names>YY</given-names></name>
+</person-group>
+              <article-title>Selinexor: first global approval.</article-title>
+              <source>Drugs.</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1485</fpage>
+              <lpage>1494</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of Selinexor, the first-in-class, oral, small molecule inhibitor of nuclear Exportin-1; no mention of hepatotoxicity or serum ALT elevations during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31429063</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Selinexor.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Selinexor+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Selinexor: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Selinexor">Trials on Selinexor: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

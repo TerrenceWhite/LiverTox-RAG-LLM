@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Patisiran" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Patisiran</book-part-id>
+      <title-group>
+        <title>Patisiran</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>2</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Passionflower" document-type="chapter">Passionflower</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Paxlovid" document-type="chapter">Paxlovid</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Patisiran.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Patisiran.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Patisiran is a synthetic small interfering RNA (siRNA) molecule directed against the mRNA of transthyretin that is used to treat adults with the polyneuropathy of transthyretin-mediated amyloidosis. Patisiran has not been linked to serum aminotransferase elevations during therapy or to instances of clinically apparent liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Patisiran.Background">
+          <title>Background</title>
+          <p>Patisiran (pa&#x0201d; ti sir&#x02019; an) is a synthetic, double-stranded, small interfering RNA (siRNA) directed against the mRNA of transthyretin, a serum protein made in the liver whose major function is transport of vitamin A and thyroxine. Rare mutations in the transthyretin gene result in misfolding of the protein and accumulation of large amyloid deposits of transthyretin molecules most prominently in peripheral nerves and the heart. Patients with inherited transthyretin amyloidosis typically present with polyneuropathy or autonomic dysfunction followed by cardiomyopathy which, if untreated, is usually fatal within 5 to 12 years. Patisiran was developed to reduce production of transthyretin (both the wild type and mutant forms) and prevent accumulation of further amyloid deposits. Patisiran is administered intravenously, and uptake by the liver is facilitated by its packaging in lipid nanoparticles (which also protect against ribonuclease digestion). Once taken up by hepatocytes, the siRNA is cleaved into smaller fragments and separated into single strands that bind and silence the mRNA of transthyretin. In animal models, patisiran reduced transthyretin protein levels in blood and mRNA levels in liver. In trials of patisiran in patients with hereditary transthyretin amyloidosis with polyneuropathy, intravenous infusions resulted in rapid and sustained reductions in serum transthyretin levels (averaging ~78%) and significant improvements in neuropathy and quality of life scales compared to placebo therapy. Patisiran was approved for use in the United States in 2018 for adults with transthyretin amyloidosis and polyneuropathy. It is under evaluation for efficacy and safety in patients with cardiomyopathy due to transthyretin amyloidosis. Patisiran is available in a lipid complex solution in single dose vials of 10 mg in 5 mL (2 mg/mL) under the brand name Onpattro. The recommended dose regimen is 0.3 mg/kg (to a maximal dose 30 mg) administered intravenously every 3 weeks. Administration by a health care provider is required as is premedication with corticosteroids, acetaminophen, antihistamines and an H2 blocker. Patisiran is generally well tolerated the most common side effects being injection site reactions. Other potential adverse events include peripheral edema, fatigue, arthralgias, diarrhea and musculoskeletal pains. In preregistration studies, 3% of patisiran treated patients developed anti-drug antibodies, but their presence was not associated with decreased efficacy or safety. Because patisiran reduces serum transthyretin levels, it also reduces serum vitamin A levels and vitamin A supplementation is recommended using doses of the recommended daily allowance.</p>
+        </sec>
+        <sec id="Patisiran.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration trials, patisiran therapy was well tolerated except for infusion reactions. Patients with amyloidosis often have hepatomegaly and mild serum enzyme elevations. Serum aminotransferase elevations arose in approximately 20% of patisiran- vs 10% of placebo-recipients, but the elevations were usually mild (less than 5 times ULN), transient and without accompanying symptoms or jaundice. Since its approval, there have been no published reports of liver injury attributed to patisiran therapy. Thus, patisiran is an unlikely cause of clinically apparent liver injury, although it has had limited widescale clinical use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Patisiran.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of hepatic injury from patisiran or other siRNA therapeutics is not known. Patisiran has been linked to mild-to-moderate, transient serum aminotransferase elevations that usually resolve spontaneously without dose modification. The cause of these abnormalities is unknown, but patients with amyloidosis can have hepatomegaly and minor serum enzyme elevations while on no therapy. Alternatively, the serum ALT and AST elevations may relate to the lipid complex used to improve hepatic update of the siRNA. Patisiran, like other RNA therapeutic agents, is metabolized intracellularly by nucleases and is not a substrate of cytochrome P450 enzymes or hepatic transporters.</p>
+        </sec>
+        <sec id="Patisiran.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patisiran has not been linked to clinically significant liver test abnormalities or to clinically apparent liver injury and regular monitoring of routine liver tests is not recommended. The requirements for intravenous administration and premedication makes management of therapy challenging.</p>
+          <p>Drug Class: Genetic Disorder Agents, siRNA and Antisense Agents</p>
+          <p>Other Therapeutic siRNA-based Agents: <related-object link-type="booklink" source-id="livertox" document-id="Givosiran" document-type="book-part">Givosiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Inclisiran" document-type="book-part">Inclisiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lumasiran" document-type="book-part">Lumasiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vutrisiran" document-type="book-part">Vutrisiran</related-object></p>
+          <p>Other Drugs for Transthyretin-Mediated Amyloidosis: <related-object link-type="booklink" source-id="livertox" document-id="Acoramidis" document-type="book-part">Acoramidis</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Eplontersen" document-type="book-part">Eplontersen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tafamidis" document-type="book-part">Tafamidis</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vutrisiran" document-type="book-part">Vutrisiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Patisiran.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Patisiran &#x02013; Onpattro&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e87ec36f-b4b4-49d4-aea4-d4ffb09b0970">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Patisiran.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Patisiran.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Patisiran.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Patisiran.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Patisiran.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Patisiran.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Patisiran.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Patisiran</td>
+                <td headers="hd_h_Patisiran.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/350082694">1420706-45-1</ext-link>
+</td>
+                <td headers="hd_h_Patisiran.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C412-H480-N148-Na40-O290-P40</td>
+                <td headers="hd_h_Patisiran.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Patisiran.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 February 2025</p>
+        <p>Abbreviations: mRNA, messenger RNA; siRNA, small interfering RNA.</p>
+        <ref-list id="Patisiran.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Patisiran.REF.patisiran.2018">
+            <mixed-citation publication-type="other">FDA. Patisiran. Multi-Discipline Review. 2018.</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF2">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/210922Orig1s000MultiR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/210922Orig1s000MultiR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(The FDA clinical review of patisiran for efficacy and safety reported that ALT elevations arose in 20% of patisiran- vs 10% of placebo-recipients in preregistration controlled trials, but that all elevations were transient, less than 5 times the ULN, and were not associated with jaundice or symptoms; in addition, there were no hepatic serious adverse events or deaths).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.suhr.2015.109">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Suhr</surname>
+<given-names>OB</given-names></string-name>, <string-name name-style="western"><surname>Coelho</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Buades</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Pouget</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Conceicao</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Berk</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Schmidt</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of patisiran for familial amyloidotic polyneuropathy: a phase II multi-dose study.</article-title>
+<source>Orphanet J Rare Dis.</source>
+<year>2015</year>;<volume>10</volume>:<fpage>109</fpage>.<annotation><p><italic toggle="yes">(Among 29 patients with hereditary transthyretin amyloidosis with polyneuropathy treated with varying doses regimens of patisiran, there was a rapid marked decline in serum transthyretin levels [averaging -85%] and adverse events were mild-to-moderate, mostly infusion reactions, not requiring discontinuation, and &#x0201c;no clinically significant changes in liver function tests&#x02026;were recorded&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">26338094</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.butler.2016.109">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Butler</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Chan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Costelha</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Fishman</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Willoughby</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Borland</surname>
+<given-names>TD</given-names></string-name>, <string-name name-style="western"><surname>Milstein</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Preclinical evaluation of RNAi as a treatment for transthyretin-mediated amyloidosis.</article-title>
+<source>Amyloid.</source>
+<year>2016</year>;<volume>23</volume>:<fpage>109</fpage>-<lpage>18</lpage>.<annotation><p><italic toggle="yes">(In a murine model of hereditary transthyretin-mediated amyloidosis, patisiran resulted in knock down of transthyretin and dose related regression of amyloid deposits).</italic></p></annotation><pub-id pub-id-type="pmid">27033334</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.adams.2018.11">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Adams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Gonzalez-Duarte</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>O'Riordan</surname>
+<given-names>WD</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>CC</given-names></string-name>, <string-name name-style="western"><surname>Ueda</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kristen</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Tournev</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Patisiran, an RNAi therapeutic, for hereditary transthyretin amyloidosis.</article-title>
+<source>N Engl J Med.</source>
+<year>2018</year>;<volume>379</volume>:<fpage>11</fpage>-<lpage>21</lpage>.<annotation><p><italic toggle="yes">(Among 245 patients with hereditary transthyretin amyloidosis treated with patisiran [0.3 mg/kg] or placebo intravenously every 3 weeks for up to 6 months, neuropathy and quality of life scores improved with patisiran therapy and usually worsened with placebo, while adverse event rates were similar in the two groups except for infusion reactions [19% vs 9%] and peripheral edema [30% vs 22%], and there were no &#x0201c;clinically relevant changes in laboratory values&#x0201d; including indicators of liver function).</italic></p></annotation><pub-id pub-id-type="pmid">29972753</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.hoy.2018.1625">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoy</surname>
+<given-names>SM</given-names></string-name>. <article-title>Patisiran: first global approval.</article-title>
+<source>Drugs.</source>
+<year>2018</year>
+<month>Oct</month>;<volume>78</volume>(<issue>15</issue>):<fpage>1625</fpage>-<lpage>1631</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, structure, history of development, clinical efficacy and safety of patisiran shortly after its approval for use in hereditary transthyretin amyloidosis with polyneuropathy, mentions that there were no treatment related serious adverse events; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30251172</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.setten.2019.421">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Setten</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>SP</given-names></string-name>. <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+<source>Nat Rev Drug Discov</source>
+<year>2019</year>; <volume>18</volume>: <fpage>421</fpage>-<lpage>46</lpage>.<annotation><p><italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of RNAi therapeutics which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic></p></annotation><pub-id pub-id-type="pmid">30846871</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.zhang.2020.37">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Goel</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Attarwala</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Sweetser</surname>
+<given-names>MT</given-names></string-name>, <string-name name-style="western"><surname>Clausen</surname>
+<given-names>VA</given-names></string-name>, <string-name name-style="western"><surname>Robbie</surname>
+<given-names>GJ</given-names></string-name>. <article-title>Patisiran pharmacokinetics, pharmacodynamics, and exposure-response analyses in the phase 3 APOLLO Trial in patients with hereditary transthyretin-mediated (hATTR) amyloidosis.</article-title>
+<source>J Clin Pharmacol.</source>
+<year>2020</year>;<volume>60</volume>:<fpage>37</fpage>-<lpage>49</lpage>.<annotation><p><italic toggle="yes">(Pharmacokinetic studies conducted on 145 patients with hereditary transthyretin amyloidosis treated with patisiran for 18 months demonstrated stable drug levels and only 5 subjects developed anti-drug antibodies [3.4%] that had no appreciable effects on drug levels, efficacy or safety).</italic></p></annotation><pub-id pub-id-type="pmid">31322739</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.coelho.2020.179">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Coelho</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Adams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Concei&#x000e7;&#x000e3;o</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Waddington-Cruz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schmidt</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Buades</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Campistol</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase II, open-label, extension study of long-term patisiran treatment in patients with hereditary transthyretin-mediated (hATTR) amyloidosis.</article-title>
+<source>Orphanet J Rare Dis.</source>
+<year>2020</year>;<volume>15</volume>:<fpage>179</fpage>.<annotation><p><italic toggle="yes">(Among 27 patients with transthyretin amyloidosis participating in a phase 2 trial of patisiran which was then continued for 24 months, improvements in neuropathy and quality of life were sustained and adverse events were generally mild, with no discontinuations for adverse events and no significant changes in liver biochemical test results).</italic></p></annotation><pub-id pub-id-type="pmid">32641071</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.adams.2021.49">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Adams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Polydefkis</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez-Duarte</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Wixner</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Kristen</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Schmidt</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Berk</surname>
+<given-names>JL</given-names></string-name>, <etal>et al.</etal>; <article-title>patisiran Global OLE study group. Long-term safety and efficacy of patisiran for hereditary transthyretin-mediated amyloidosis with polyneuropathy: 12-month results of an open-label extension study.</article-title>
+<source>Lancet Neurol.</source>
+<year>2021</year>;<volume>20</volume>:<fpage>49</fpage>-<lpage>59</lpage>.<annotation><p><italic toggle="yes">(Among 211 patients with hereditary transthyretin amyloidosis and polyneuropathy enrolled in an open label extension study after phase 2 and 3 controlled trials of patisiran, improvements in neuropathy and quality of life scores arose in placebo groups when crossed over to active therapy and were sustained in active treatment groups, and there were &#x0201c;no clinically relevant safety concerns&#x02026;related to hepatic events&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">33212063</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.luigetti.2021.21">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Luigetti</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Servidei</surname>
+<given-names>S</given-names></string-name>. <article-title>Patisiran in hereditary transthyretin-mediated amyloidosis.</article-title>
+<source>Lancet Neurol.</source>
+<year>2021</year>;<volume>20</volume>:<fpage>21</fpage>-<lpage>23</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Adams [2021] summarizing results on the efficacy of patisiran in hereditary transthyretin amyloidosis and discussing the uncertainty related to long term therapy and treatment of advanced disease and cardiomyopathy).</italic></p></annotation><pub-id pub-id-type="pmid">33212064</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.suzuki.2021.100424">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Suzuki</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Ishihara</surname>
+<given-names>H</given-names></string-name>. <article-title>Difference in the lipid nanoparticle technology employed in three approved siRNA (Patisiran) and mRNA (COVID-19 vaccine) drugs.</article-title>
+<source>Drug Metab Pharmacokinet.</source>
+<year>2021</year>;<volume>41</volume>:<elocation-id>100424</elocation-id>.<annotation><p><italic toggle="yes">(Description of the lipid components used to create nanoparticles for administration of patisiran, the lipids protecting the RNA against nuclease digestion and allowing uptake by hepatocytes [via the LDL receptor] and release of the siRNA with acidification of the endosomes containing the incorporated patisiran).</italic></p></annotation><pub-id pub-id-type="pmid">34757287</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.schmidt.2022.1646">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schmidt</surname>
+<given-names>HH</given-names></string-name>, <string-name name-style="western"><surname>Wixner</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Plant&#x000e9;-Bordeneuve</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Mu&#x000f1;oz-Beamud</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Llad&#x000f3;</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Mazzeo</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <collab>Patisiran Post-LT Study Group</collab>. <article-title>Patisiran treatment in patients with hereditary transthyretin-mediated amyloidosis with polyneuropathy after liver transplantation.</article-title>
+<source>Am J Transplant.</source>
+<year>2022</year>;<volume>22</volume>:<fpage>1646</fpage>-<lpage>1657</lpage>.<annotation><p><italic toggle="yes">(Among 12 patients with hereditary transthyretin amyloidosis with polyneuropathy who had undergone liver transplant but continued to have neuropathy were treated with patisiran for at least 12 months, neuropathy and autonomic syndrome scores improved while disability and nutrition status were stable; 11 [48%] patients developed ALT elevations that were usually transient and mild, one developed acute rejection and one cholangitis, but all abnormalities resolved despite continued patisiran therapy without dose modification).</italic></p></annotation><pub-id pub-id-type="pmid">35213769</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.aimo.2022.655">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aimo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Castiglione</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Rapezzi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Franzini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Panichella</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Vergaro</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>RNA-targeting and gene editing therapies for transthyretin amyloidosis.</article-title>
+<source>Nat Rev Cardiol.</source>
+<year>2022</year>;<volume>19</volume>(<issue>10</issue>):<fpage>655</fpage>-<lpage>667</lpage>.<annotation><p><italic toggle="yes">(Extensive review of the molecular basis of hereditary transthyretin amyloidosis and the small molecule and RNA based therapies in current use and in experimental clinical trials, mentions the efficacy and relative safety of patisiran which has not been linked to instances of liver dysfunction).</italic></p></annotation><pub-id pub-id-type="pmid">35322226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.di_stefano.2022.499">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Di Stefano</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Fava</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gentile</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Guaraldi</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Leonardi</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Poli</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Tagliapietra</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Italian real-life experience of patients with hereditary transthyretin amyloidosis treated with patisiran.</article-title>
+<source>Pharmgenomics Pers Med.</source>
+<year>2022</year>;<volume>15</volume>:<fpage>499</fpage>-<lpage>514</lpage>.<annotation><p><italic toggle="yes">(Case histories of 9 patients with transthyretin amyloidosis with polyneuropathy who were treated long term with patisiran in &#x0201c;Italian real-life&#x0201d; with clinical improvement and excellent tolerance; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35592550</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.maurer.2022.s23">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Overview of current and emerging therapies for amyloid transthyretin cardiomyopathy.</article-title>
+<source>Am J Cardiol.</source>
+<year>2022</year>;<volume>185</volume>
+<supplement>Suppl 1</supplement>:<fpage>S23</fpage>-<lpage>S34</lpage>.<annotation><p><italic toggle="yes">(Review of approaches to therapy of amyloid transthyretin cardiomyopathy including the transthyretin stabilizers [tafamidis, acoramidis] and transthyretin gene silencing or knockdown agents [patisiran, vutrisiran, inotersen, eplontersen, CRISPR-Cas9], no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36371281</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.ranasinghe.2023.2697">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ranasinghe</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Addison</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Dear</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Webb</surname>
+<given-names>DJ</given-names></string-name>. <article-title>Small interfering RNA: Discovery, pharmacology and clinical development&#x02013;An introductory review.</article-title>
+<source>Br J Pharmacol.</source>
+<year>2023</year>;<volume>180</volume>(<issue>21</issue>):<fpage>2697</fpage>-<lpage>2720</lpage>.<annotation><p><italic toggle="yes">(Review of the history of development, mechanism of action, methods of delivery, clinical efficacy and safety of RNA silencing drugs including lumasiran, givosiran, inclisiran, patisiran and vutrisiran, discusses adverse events from patisiran of injection site reactions, but does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36250252</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.aimo.2022.655_1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aimo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Castiglione</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Rapezzi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Franzini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Panichella</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Vergaro</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>RNA-targeting and gene editing therapies for transthyretin amyloidosis.</article-title>
+<source>Nat Rev Cardiol.</source>
+<year>2022</year>;<volume>19</volume>:<fpage>655</fpage>-<lpage>667</lpage>.<annotation><p><italic toggle="yes">(Review of the molecular approaches to therapy of transthyretin-related amyloidosis including small interfering RNA [siRNA, patisiran, vutrisiran], antisense RNA [inotersen, eplontersen], CRISPR-Cas9 therapy, and molecular stabilization agents [acoramidis, tafamidis], some of which been linked to minor serum aminotransferase elevations during therapy [vutrisiran, eplontersen], but not to clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">35322226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.adams.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Adams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Tournev</surname>
+<given-names>IL</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Coelho</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Plant&#x000e9;-Bordeneuve</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Berk</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez-Duarte</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <article-title>HELIOS-A Collaborators. Efficacy and safety of vutrisiran for patients with hereditary transthyretin-mediated amyloidosis with polyneuropathy: a randomized clinical trial.</article-title>
+<source>Amyloid.</source>
+<year>2023</year>;<volume>30</volume>:<fpage>1</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 164 patients with hereditary transthyretin amyloidosis with polyneuropathy treated with vutrisiran [25 mg subcutaneously every 3 months] or patisiran 0.3 mg/kg intravenously every 3 weeks] for 18 months, vutrisiran was found to be non-inferior to patisiran and more effective than placebo [from an external placebo group] and most adverse events were mild and there were no drug related discontinuations or deaths; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35875890</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.maurer.2023.1553">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Kale</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Berk</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Grogan</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Gustafsson</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Hung</surname>
+<given-names>RR</given-names></string-name>, <etal>et al.</etal>; <collab>APOLLO-B Trial Investigators</collab>. <article-title>Patisiran treatment in patients with transthyretin cardiac amyloidosis.</article-title>
+<source>N Engl J Med.</source>
+<year>2023</year>;<volume>389</volume>(<issue>17</issue>):<fpage>1553</fpage>-<lpage>1565</lpage>.<annotation><p><italic toggle="yes">(Among 360 patients with transthyretin-mediated amyloidosis and cardiomyopathy treated with patisiran [0.3 mg/kg] or placebo intravenously every 3 weeks for 12 months, decline in 6 minute walk distance was lower with patisiran and cardiomyopathy questionnaire scores improved more with patisiran; while adverse event rates were similar [91% vs 94%], those attributed to the drug were infusion reactions, arthralgia and muscle spasms, and &#x0201c;no clinically relevant changes in laboratory measures (including &#x02026;liver-function tests&#x02026;] were observed&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">37888916</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.liu.2024.1368244">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Hu</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Yin</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Su</surname>
+<given-names>L.</given-names></string-name>
+<article-title>A real-world pharmacovigilance analysis for transthyretin inhibitors: findings from the FDA adverse event reporting database.</article-title>
+<source>Front Pharmacol.</source>
+<year>2024</year>;<volume>15</volume>:<elocation-id>1368244</elocation-id>.<annotation><p><italic toggle="yes">(Analysis of the FDA Adverse Event Reporting System [FAES] reports on transthyretin inhibitors made over a 5 year period, found the top 50 events for patisiran included fatigue, asthenia, and falls, but not liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">38873427</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.ruberg.2024.778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ruberg</surname>
+<given-names>FL</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Cardiac amyloidosis due to transthyretin protein: a review.</article-title>
+<source>JAMA</source>. <year>2024</year>;<volume>331</volume>:<fpage>778</fpage>-<lpage>791</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis, genetics, clinical features, diagnosis, and treatment of transthyretin-mediated amyloidosis cardiomyopathy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38441582</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Patisiran.REF.adams.2025">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Adams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Wixner</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Polydefkis</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Berk</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Concei&#x000e7;&#x000e3;o</surname>
+<given-names>IM</given-names></string-name>, <string-name name-style="western"><surname>Dispenzieri</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Peltier</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Five-year results with patisiran for hereditary transthyretin amyloidosis with polyneuropathy: a randomized clinical trial with open-Label extension.</article-title>
+<source>JAMA Neurol.</source>
+<year>2025</year>
+<month>Jan</month>
+<day>13</day>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 212 patients who completed the placebo controlled trial of patisiran for transthyretin amyloid polyneuropathy [Adams 2023] who were then enrolled in an open label extension study, polyneuropathy disability scores remained stable or improved, exposure adjusted survival rate was improved, and no new safety concerns were identified; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39804640</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Patisiran.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Patisiran/AE)%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Patisiran: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/results?term=Patisiran">Trials on Patisiran: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

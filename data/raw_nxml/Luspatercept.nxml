@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Luspatercept" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Luspatercept</book-part-id>
+      <title-group>
+        <title>Luspatercept</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lurbinectedin" document-type="chapter">Lurbinectedin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Maca" document-type="chapter">Maca</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Luspatercept.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Luspatercept.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Luspatercept is a recombinant fusion protein that combines the extracellular domain of the human activin receptor with the Fc fragment of immunoglobulin G and acts by interfering with transforming growth factor beta signaling and is used to treat severe forms of anemia due to beta thalassemia or myelodysplastic syndromes. Luspatercept has been linked to a low rate of serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Luspatercept.Background">
+          <title>Background</title>
+          <p>Luspatercept (lus pat&#x02019; er sept) is a recombinant fusion protein that combines the extracellular domain of human activin receptor type IIB with the Fc fragment of immunoglobulin G. Luspatercept stimulates the production of erythrocytes via inhibition of ligands, which activate intracellular pathways (by reducing SMAD2, SMAD3 signaling) that mediate intracellular apoptosis of erythrocytes. Inhibition of this pathway causes an increase in erythrocyte maturation and proliferation. In clinical trials in patients with refractory and severe anemia due to beta thalassemia, myelofibrosis and myelodysplastic syndromes, luspatercept therapy decreased transfusion requirements and increased hemoglobulin levels in 60% to 70% of patients. Luspatercept was approved as therapy of beta thalassemia in the United States in 2019, and a year later its indications were expanded to include patients with myelodysplastic syndromes who were transfusion dependent or not responding to growth factor therapy. Luspatercept is available under the brand name Reblozyl as a lyophilized power for subcutaneous administration in single use vials of 25 and 75 mg. Luspatercept is given subcutaneously every 3 weeks in doses based upon body weight, the initial dosage being 1.0 mg/kg with potential for dose increase (1.25, 1.33 or 1.75 mg/kg) or decrease (to 0.8 or 0.6 mg/kg) depending upon efficacy and tolerance. Common side effects include injection site reactions, hypertension and nonspecific symptoms of fatigue, headache, dizziness, body pain and rash. Acute hypersensitivity reactions occur in &#x0003c;1% of patients. Less common, but potentially severe side effects include an increased risk of thrombosis and thromboembolism, severe hypertension, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Luspatercept.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure controlled trials, serum ALT elevations occurred in 9% to 12% with luspatercept and a similar proportion of subjects treated with placebo (7% to 12%). The elevations were usually mild-to-moderate in severity, asymptomatic and self-limited in course. ALT elevations above 5 times the ULN occurred in 1% to 2% of recipients and rarely led to discontinuation of therapy. Luspatercept therapy was also associated with serum bilirubin elevations (11% vs 5% in placebo recipients), which occurred in some patients with concurrent serum aminotransferase elevations. However, no patient developed clinically apparent, symptomatic acute liver injury, and some of the bilirubin elevations were likely due to red blood cell hemolysis and enhanced production and turnover, particularly in patients with thalassemia. In preregistration clinical trials and subsequently with its more widespread use, luspatercept has not been linked to instances of clinically apparent liver injury.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Luspatercept.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Luspatercept is a recombinant human protein and as such is unlikely to be intrinsically hepatotoxic. Blocking essential intracellular pathways of TGF&#x003b2; ligands in the liver may lead to some degree of hepatic dysfunction and injury. Hypersensitivity reactions can occur with administration of luspatercept, which may be associated with mild liver enzyme elevations.</p>
+        </sec>
+        <sec id="Luspatercept.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Luspatercept has been linked to mild-to-moderate serum enzyme elevations during therapy. Discontinuation for serum enzyme elevations is rarely necessary, but should be done if the elevations are accompanied by symptoms or jaundice or for persistent ALT elevations of more than 5 times the upper limit of normal (ULN). There is no information on cross sensitivity to liver injury between luspatercept and other growth factors or therapies for anemia.</p>
+          <p>Drug Class: Hematologic Agents</p>
+          <p>Other drugs for myelodysplastic syndromes: <related-object link-type="booklink" source-id="livertox" document-id="Azacitidine" document-type="chapter">Azacitidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Decitabine" document-type="chapter">Decitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cedazuridine" document-type="chapter">Decitabine/Cedazuridine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Luspatercept.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Luspatercept &#x02013; Reblozyl&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Hematologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Luspatercept">COMPLETE LABELING</ext-link>
+</p>
+      </sec>
+      <sec id="Luspatercept.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Luspatercept.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Luspatercept.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Luspatercept.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Luspatercept.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Luspatercept.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Luspatercept.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Luspatercept</td>
+                <td headers="hd_h_Luspatercept.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127153">1373715-00-4</ext-link>
+</td>
+                <td headers="hd_h_Luspatercept.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Recombinant Protein</td>
+                <td headers="hd_h_Luspatercept.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Luspatercept.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 July 2023</p>
+        <p>Abbreviations used: MDS, myelodysplastic syndrome; sc, subcutaneously; TGF&#x003b2;, transforming growth factor beta.</p>
+        <ref-list id="Luspatercept.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Luspatercept.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761136Orig2s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761136Orig2s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website including product label and multidiscipline review of data submitted in support of luspatercept approval includes discussion of hepatotoxicity, therapy being associated with increase in ALT elevations [9% vs 4% with placebo] and bilirubin [11% vs 3%], with several patients having concurrent elevations in both).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.platzbecker.2017.1338">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Germing</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>G&#x000f6;tze</surname>
+<given-names>KS</given-names></string-name>, <string-name name-style="western"><surname>Kiewe</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Mayer</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Chromik</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Radsak</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Luspatercept for the treatment of anaemia in patients with lower-risk myelodysplastic syndromes (PACE-MDS): a multicentre, open-label phase 2 dose-finding study with long-term extension study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2017</year>;<volume>18</volume>(<issue>10</issue>):<fpage>1338</fpage>-<lpage>1347</lpage>.<annotation><p><italic toggle="yes">(Among 58 adults with myelodysplastic syndromes [MDS] treated with varying doses of luspatercept, doses of 0.75-1.75 mg/kg were associated with better responses in hemoglobin levels but also increases in adverse events of fatigue, bone pain and diarrhea; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28870615</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.fenaux.2019.790">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fenaux</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kiladjian</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>. <article-title>Luspatercept for the treatment of anemia in myelodysplastic syndromes and primary myelofibrosis.</article-title>
+<source>Blood.</source>
+<year>2019</year>;<volume>133</volume>:<fpage>790</fpage>-<lpage>794</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action and rationale for use of luspatercept and other activin inhibitors in MDS where it blocks TGF&#x003b2; signaling, which normally inhibits terminal erythroid differentiation; no mention of hepatotoxicity or effect on aminotransferase levels).</italic></p></annotation><pub-id pub-id-type="pmid">30602619</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.markham.2020.85">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Luspatercept: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>85</fpage>-<lpage>90</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy and safety of luspatercept shortly after its approval for use in beta thalassemia mentions side effects of bone pain [20% vs 8% in placebo controls], arthralgia [19% vs 12%], headaches [26% vs 24%], dizziness [11% vs 5%], nausea [9% vs 6%], and hypertension [8% vs 3%], with serious adverse events in 3.6% including cerebral vascular accidents and deep vein thrombosis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31939073</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.fenaux.2020.140">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fenaux</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Mufti</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Buckstein</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Santini</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>D&#x000ed;ez-Campelo</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Luspatercept in patients with lower-risk myelodysplastic syndromes.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>382</volume>:<fpage>140</fpage>-<lpage>151</lpage>.<annotation><p><italic toggle="yes">(Among 229 adults with MDS on transfusion therapy who were treated with luspatercept [1.0 to 1.75 mg/kg] vs placebo injections every 3 weeks for 48 weeks, transfusion independence for at least 8 weeks between weeks 1-24 was achieved by 38% vs 13%, while common adverse events included fatigue [27% vs 13%] diarrhea [22% vs 9%], asthenia [20% vs 12%], nausea [20% vs 9%], dizziness [20% vs 5%] and ALT elevations [5.9% vs 3.9%], which were above 5 times the ULN in 2% vs none, one leading to drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">31914241</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.cappellini.2020.1219">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cappellini</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Viprakasit</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Taher</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Georgiev</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kuo</surname>
+<given-names>KHM</given-names></string-name>, <string-name name-style="western"><surname>Coates</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Voskaridou</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>; <article-title>BELIEVE Investigators. A phase 3 trial of luspatercept in patients with transfusion-dependent &#x003b2;-thalassemia.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>382</volume>:<fpage>1219</fpage>-<lpage>1231</lpage>.<annotation><p><italic toggle="yes">(Among 336 adults with transfusion dependent beta thalassemia treated with luspatercept [1.0-1.25 mg/kg] or placebo injections every 3 weeks, transfusion burdens decreased by one-third in 21% of luspatercept- vs 4.5% of placebo-treated subjects, while adverse events included bone pain [20% vs 8%], arthralgia [19% vs 12%], dizziness [11% vs 5%], hypertension [8.1% vs 2.8%], uric acid elevations [7.2% vs none], and thromboembolic events [3.6% vs 0.9%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32212518</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.taher.2021.727">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Taher</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Musallam</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Cappellini</surname>
+<given-names>MD</given-names></string-name>. <article-title>&#x003b2;-Thalassemias.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>727</fpage>-<lpage>743</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis, clinical features, complications, management and therapy of beta thalassemia including the role of luspatercept, mentions the hepatic complications of transfusion therapy but not hepatotoxicity of luspatercept or other medical treatments).</italic></p></annotation><pub-id pub-id-type="pmid">33626255</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.delgado.2021.e616">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Delgado</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Voltz</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Stain</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Balkowiec-Iskra</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Mueller</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Wernsperger</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Malinowska</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>The European Medicines Agency review of luspatercept for the treatment of adult patients with transfusion-dependent anemia caused by low-risk myelodysplastic syndromes with ring sideroblasts or beta-thalassemia.</article-title>
+<source>Hemasphere.</source>
+<year>2021</year>;<volume>5</volume>:<elocation-id>e616</elocation-id>.<annotation><p><italic toggle="yes">(Summary of the review of luspatercept efficacy and safety supporting the European Medicines Agency&#x02019;s approval of luspatercept for beta-thalassemia and MDS, mentions that total adverse event rates were similar among the 571 patients on luspatercept and the 193 on placebo [95% vs 91%], but that serious adverse events were more frequent [24% vs 15%] with luspatercept as were discontinuations [8.8% vs 3.6%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34291195</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.santini.2021.681">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Santini</surname>
+<given-names>V.</given-names></string-name>
+<article-title>Advances in myelodysplastic syndrome.</article-title>
+<source>Curr Opin Oncol.</source>
+<year>2021</year>;<volume>33</volume>:<fpage>681</fpage>-<lpage>686</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis, clinical features, complications, diagnosis, cytogenetics, and therapy of MDS mentions the use of luspatercept as well as telomerase inhibitors and hypomethylating agents).</italic></p></annotation><pub-id pub-id-type="pmid">34474438</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.schulz.2021.509">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schulz</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Nachtkamp</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Kasprzak</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gattermann</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Haas</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Germing</surname>
+<given-names>U</given-names></string-name>. <article-title>Luspatercept as a therapy for myelodysplastic syndromes with ring sideroblasts.</article-title>
+<source>Expert Rev Hematol.</source>
+<year>2021</year>;<volume>14</volume>:<fpage>509</fpage>-<lpage>516</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, clinical efficacy, side effects, and role of luspatercept in management of myelodysplastic syndromes with ring sideroblasts; does not discuss ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34161752</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.piga.2022.20406207221134404">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Piga</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Longo</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Gamberini</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Voskaridou</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Ricchi</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Caruso</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Pietrangelo</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term safety and erythroid response with luspatercept treatment in patients with &#x003b2;-thalassemia.</article-title>
+<source>Ther Adv Hematol.</source>
+<year>2022</year>;<volume>13</volume>:<elocation-id>20406207221134404</elocation-id>.<annotation><p><italic toggle="yes">(Among 63 patients with beta thalassemia treated in a long term, open-label extension study of luspatercept [0.6-1.25 mg/kg sc every 3 weeks], increases in hemoglobin were sustained as were reductions in transfusion requirements, while safety was &#x0201c;acceptable&#x0201d;, 88% had an adverse event, 12.5% a severe adverse event, most commonly bone pain [42%], headache [31%], myalgia [22%], 1 case of biliary colic and 1 death [cardiac arrest], no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36505885</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.taher.2022.e733">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Taher</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Cappellini</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Kattamis</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Voskaridou</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Perrotta</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Piga</surname>
+<given-names>AG</given-names></string-name>, <string-name name-style="western"><surname>Filosa</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <article-title>BEYOND Investigators. Luspatercept for the treatment of anaemia in non-transfusion-dependent &#x003b2;-thalassaemia (BEYOND): a phase 2, randomised, double-blind, multicentre, placebo-controlled trial.</article-title>
+<source>Lancet Haematol.</source>
+<year>2022</year>;<volume>9</volume>:<fpage>e733</fpage>-<lpage>e744</lpage>.<annotation><p><italic toggle="yes">(Among 145 patients with non-transfusion dependent beta-thalassemia treated with luspatercept [1.0 to 1.25 mg/kg sc every 3 weeks] vs placebo for at least one year, hemoglobin levels rose by 1.0 mg/dL or greater in a greater proportion of luspatercept vs placebo recipients [77% vs none], while serious adverse events were less frequent [11% vs 25%]; common adverse events of luspatercept include bone pain [37% vs 6%], headache [30% vs 20%] and arthralgia [29% vs 14%], while changes in ALT levels and hepatotoxicity were not mentioned ).</italic></p></annotation><pub-id pub-id-type="pmid">36007538</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.sekeres.2022.872">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>J</given-names></string-name>. <article-title>Diagnosis and treatment of myelodysplastic syndromes: a review.</article-title>
+<source>JAMA</source>. <year>2022</year>;<volume>328</volume>:<fpage>872</fpage>-<lpage>880</lpage>.<annotation><p><italic toggle="yes">(Concise review of clinical features, natural history, diagnosis, and management of MDS; adverse events are listed in tables but without mention or discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36066514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.platzbecker.2022.3800">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>G&#x000f6;tze</surname>
+<given-names>KS</given-names></string-name>, <string-name name-style="western"><surname>Kiewe</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Germing</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Mayer</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Radsak</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wolff</surname>
+<given-names>T</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term efficacy and safety of luspatercept for anemia treatment in patients with lower-risk myelodysplastic syndromes: the phase II PACE-MDS Study.</article-title>
+<source>J Clin Oncol.</source>
+<year>2022</year>;<volume>40</volume>:<fpage>3800</fpage>-<lpage>3807</lpage>.<annotation><p><italic toggle="yes">(Among 108 patients with lower-risk MDS treated with luspatercept for up to 5 years [median=1 year], 54% had a hematologic improvement while adverse events arose in 45% including fatigue, hypertension, diarrhea, headache and bone pain; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35998303</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.platzbecker.2023.373">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Della Porta</surname>
+<given-names>MG</given-names></string-name>, <string-name name-style="western"><surname>Santini</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Zeidan</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Komrokji</surname>
+<given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Shortt</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Valcarcel</surname>
+<given-names>D</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of luspatercept versus epoetin alfa in erythropoiesis-stimulating agent-naive, transfusion-dependent, lower-risk myelodysplastic syndromes (COMMANDS): interim analysis of a phase 3, open-label, randomised controlled trial.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>:<fpage>373</fpage>-<lpage>385</lpage>.<annotation><p><italic toggle="yes">(Among 356 adults with low or intermediate risk MDS with transfusion dependence treated with either luspatercept [1-1.75 mg/kg] sc every 3 weeks or epoetin [450-1050 IU/kg] sc every week for at least 24 weeks, transfusion independence was achieved in 59% vs 31% and adverse events were frequent [92% vs 85%], often serious [38% vs 35%] and for luspatercept included fatigue, weakness, nausea, dyspnea, hypertension and headache; liver toxicity arose in 2% vs 3% but only one [on epoetin] was serious).</italic></p></annotation><pub-id pub-id-type="pmid">37311468</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.lanino.2023.e204">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lanino</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Restuccia</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Perego</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ubezio</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Fattizzo</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Riva</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Consagra</surname>
+<given-names>A</given-names></string-name>, <etal>et al</etal>; <collab>Fondazione Italiana Sindromi Mielodisplastiche</collab>
+<article-title>(FISiM) Clinical network. Real-world efficacy and safety of luspatercept and predictive factors of response in patients with lower risk myelodysplastic syndromes with ring sideroblasts.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>E204</fpage>-<lpage>E208</lpage>.<annotation><p><italic toggle="yes">(Among 201 adults with low or intermediate risk MDS with ring sideroblasts and transfusion dependence treated in an Italian observational, compassionate use protocol of luspatercept [1.0-1.75 mg/kg] for up to one year, transfusion independence was achieved in 39% of patients, while serious adverse events arose in 17% which were largely cardiac, infectious, and accidents; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37222267</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.garciamanero.2023.1307">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G.</given-names></string-name>
+<article-title>Myelodysplastic syndromes: 2023 update on diagnosis, risk-stratification, and management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1307</fpage>-<lpage>1325</lpage>.<annotation><p><italic toggle="yes">(Review of the classification of MDS and risk categorization with an update on management including discussion of hypomethylation agents and luspatercept; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37288607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Luspatercept.REF.randall.2023.152">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Randall</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>. <article-title>The management of low-risk myelodysplastic syndromes-current standards and recent advances.</article-title>
+<source>Cancer J.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>152</fpage>-<lpage>159</lpage>.<annotation><p><italic toggle="yes">(Review of treatment of low-risk MDS including erythropoietin, iron chelation, lenalidomide, luspatercept and low dose hypomethylating agents; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37195771</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Luspatercept.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Luspatercept+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Luspatercept: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Luspatercept">Trials on Luspatercept: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Buchu" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Buchu</book-part-id>
+      <title-group>
+        <title>Buchu</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="BrompheniramineChlor" document-type="chapter">Brompheniramine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Budesonide" document-type="chapter">Budesonide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Buchu.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Buchu.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Buchu is an herbal product made from a group of aromatic herbs native to South Africa, the leaves of which were used in traditional Khio-San medicine to treat a variety of conditions and are currently used as buchu tea and as dried extracts. Buchu preparations have not been linked to instances of serum enzyme elevations or clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Buchu.Background">
+          <title>Background</title>
+          <p>Buchu (boe&#x02019; shoe) is a group of aromatic small shrubs native to South Africa that were used in traditional medicine of the San and Khoikhoi people to treat wounds, stomach complaints, arthritis, and bladder and bowel ailments. Buchu refers specifically to two species in the genus <italic toggle="yes">Agathosma</italic> (meaning &#x0201c;good fragrance&#x0201d;) that were used in San-Khoi traditional medicine: <italic toggle="yes">Agathosma betulina</italic> (round or short leaf buchu) and <italic toggle="yes">Agathosma crenulata</italic> (oval or long leaf buchu). Currently, the aromatic oils of these herbs are used in food preparation as flavoring and in manufacture of perfumes. Dried buchu leaves have been used for medicinal purposes in tonics and as tablets or powders to treat musculoskeletal pain, chronic arthritis, dyspepsia, edema, fever, the common cold, ulcers, irritable bowel syndrome, gout, prostatitis, prostatic hypertrophy, gout and sexually transmitted diseases. However, the efficacy of buchu has not been proven in prospective clinical trials for any of these conditions. More than 120 compounds have been identified in buchu including volatile oils, diospheol, mentone, isomethone, limonine, and pulegone, which is a suspected hepatotoxin. The active ingredients responsible for the purported medicinal effects of buchu are unknown. Laboratory studies of buchu and isolated constituents in cell culture and animal models suggest that it has antimicrobial, antioxidant, antiinflammatory and diuretic properties. However, these properties have not been convincingly shown in human trials. Buchu is most frequently used in teas, the recommended regimen being one cup three times daily. Buchu is generally well tolerated without adverse events; minor side effects may include gastrointestinal upset and urinary tract irritation.</p>
+        </sec>
+        <sec id="Buchu.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Buchu has not been subjected to prospective controlled trials of safety and efficacy but is widely described as being well tolerated and without significant side effects. A single case report of acute hepatitis in a patient taking both buchu and rooibos herbal tea has been published. The patient was also taking an unknown statin, and the contribution of buchu tea to the hepatic injury can only be said to be possible (Case 1). Thus, there is little evidence that buchu in low oral doses or as herbal tea causes clinically apparent liver injury in humans.</p>
+          <p>Likelihood score: D (possible, rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Buchu.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Buchu contains many compounds including pulegone which causes liver injury in rodent models and induces cytotoxicity in cell culture systems. The concentration of pulegone is higher in leaves from Agathosma crenulata than in those of Agathosma betulina. Large oral doses have been found to deplete glutathione, which may the mechanism of its toxic effects.</p>
+        </sec>
+        <sec id="Buchu.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Hepatotoxicity from buchu must be quite rare if it occurs at all. In the presence of liver injury, stopping use of buchu promptly, even when used as an herbal tea, is warranted.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="HerbalDietarySuppl" document-type="chapter">Herbal and Dietary Supplements</related-object></p>
+          <p>Other names: Boegoe, Bucco, Bookoo, Diosma.</p>
+        </sec>
+      </sec>
+      <sec id="Buchu.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Buchu.Case_1_Acute_hepatocellular_jaundi">
+          <title>Case 1. Acute hepatocellular jaundice attributed to herbal teas .(<xref ref-type="bibr" rid="Buchu.REF.1">1</xref>)</title>
+          <p>A 52 year old man developed jaundice one month after starting buchu and rooibos herbal tea. He had no history of liver disease or alcohol abuse and no risk factors for viral hepatitis. He had a history of hyperlipidemia and chronic kidney disease due to IgA nephropathy. His medications included oral steroids and long term statin use. On presentation he was jaundiced, but physical examination was otherwise unremarkable. Laboratory testing showed a total bilirubin of 12.1 mg/dL, 8.3 mg/dL direct, with ALT of 2589 U/L, AST1438 U/L and alkaline phosphatase 359 U/L. The INR and platelet count were normal. Testing for hepatitis A, B, C and E as well as for EBV, CMV, HIV and VZV infection were negative, and ANA, SMA and AMA were not detected. An abdominal ultrasound showed a normal appearing liver and no ascites. A liver biopsy revealed mild portal inflammation, spotty necrosis and centrolobular cholestasis without evidence of biliary obstruction. The herbal teas were discontinued and he recovered promptly.</p>
+          <sec id="Buchu.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Buchu.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Buchu.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Buchu.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Buchu and Rooibos tea consumption</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Buchu.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Buchu.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular [R ~ 22]</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Buchu.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Buchu.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Buchu.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Buchu.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Buchu.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Buchu.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Improved 2 weeks after discharge</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Buchu.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Buchu.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">&#x0201c;Statin&#x0201d;, &#x0201c;Steroids&#x0201d;</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Buchu.Comment">
+            <title>Comment</title>
+            <p>This was the first and the only published report of clinically apparent liver injury attributed to buchu tea. The onset and course were typical of herbal-induced liver injury, but contaminants in the herbal teas or other unacknowledged herbal products are other possible explanations for the hepatitis. In addition, the history was compatible with statin-induced liver injury which on rare occasions arises years after initiation of treatment. It was not clear what statin was used and whether it was discontinued. Ten years after this report, it remained the only published case of clinically apparent liver injury possibly related to buchu.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Buchu.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Buchu &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Herbal and Dietary Supplements</p>
+      </sec>
+      <sec id="Buchu.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Buchu.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Buchu.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Buchu.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Buchu.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Buchu.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Buchu.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Buchu</td>
+                <td headers="hd_h_Buchu.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/135330363">92346-82-2</ext-link>
+</td>
+                <td headers="hd_h_Buchu.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Herbal</td>
+                <td headers="hd_h_Buchu.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Buchu.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Buchu.CITED_REFERENCE.reflist0">
+          <ref id="Buchu.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Engels</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Matoso</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Maidan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Wands</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>Tea not tincture: hepatotoxicity associated with rooibos herbal tea.</article-title>
+              <source>ACG Case Rep J.</source>
+              <year>2013</year>
+              <volume>1</volume>
+              <fpage>58</fpage>
+              <lpage>60</lpage>
+              <pub-id pub-id-type="pmid">26157822</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Buchu.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 March 2023</p>
+        <p>Abbreviations: HDS, herbal and dietary supplements.</p>
+        <ref-list id="Buchu.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Buchu.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not buchu).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Buchu.REF.liu.2007">
+            <mixed-citation publication-type="book">Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; no mention of buchu).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Buchu.REF.simpson.1998.189">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Simpson</surname><given-names>D.</given-names></name>
+</person-group>
+              <article-title>Buchu--South Africa's amazing herbal remedy.</article-title>
+              <source>Scott Med J.</source>
+              <year>1998</year>
+              <volume>43</volume>
+              <issue>6</issue>
+              <fpage>189</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of buchu as an herb native to the Cape Province of South Africa which was a traditional medicine used by the San [Bushmen] and Khoikhoi [Hottentot] people who introduced the herb to early Dutch settlers, it being subsequently introduced into Europe and used to treat wounds, stomach ailments, arthritis and diseases of the bladder, the active ingredient being a volatile oil with a peppermint-like odor which has also been used as a flavoring and in perfumes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9924759</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.moolla.2008.413">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moolla</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Viljoen</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>'Buchu' -Agathosma betulina and Agathosma crenulata (Rutaceae): a review.</article-title>
+              <source>J Ethnopharmacol.</source>
+              <year>2008</year>
+              <volume>119</volume>
+              <fpage>413</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the history of development, chemical constituents, pharmacological activities, and data on clinical efficacy and safety of buchu in humans).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18725278</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.jacobsson.2009.1039">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobsson</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>J&#x000f6;nsson</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Gerd&#x000e9;n</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>H&#x000e4;gg</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2009</year>
+              <volume>18</volume>
+              <fpage>1039</fpage>
+              <lpage>47</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(778 spontaneous reports of adverse reactions to herbals to Swedish Registry, no cases were attributed to buchu).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19650152</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.stickel.2011.595">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stickel</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kessebohm</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Weimann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Seitz</surname><given-names>HK</given-names></name>
+</person-group>
+              <article-title>Review of liver injury associated with dietary supplements.</article-title>
+              <source>Liver Int</source>
+              <year>2011</year>
+              <volume>31</volume>
+              <fpage>595</fpage>
+              <lpage>605</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of current understanding of liver injury from herbals and dietary supplements focusing upon Herbalife and Hydroxycut products, green tea, usnic acid, noni juice, Chinese herbs, vitamin A and anabolic steroids; buchu is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21457433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.teschke.2012.1543">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teschke</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wolff</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Frenzel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schulze</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Eickhoff</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Herbal hepatotoxicity: a tabular compilation of reported cases.</article-title>
+              <source>Liver Int</source>
+              <year>2012</year>
+              <volume>32</volume>
+              <fpage>1543</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements, but does not list or mention buchu).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22928722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.engels.2013.58">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Engels</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Matoso</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Maidan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Wands</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>Tea not tincture: hepatotoxicity associated with rooibos herbal tea.</article-title>
+              <source>ACG Case Rep J.</source>
+              <year>2013</year>
+              <volume>1</volume>
+              <fpage>58</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old American man developed acute icteric hepatitis one month after starting a buchu and rooibos herbal tea [bilirubin 12.1 mg/dL, ALT 2589 U/L, Alk P 359 U/L, INR normal], resolving rapidly after stopping the teas on no therapy: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26157822</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.bunchorntavakul.2013.3">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bunchorntavakul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Review article: herbal and dietary supplement hepatotoxicity.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2013</year>
+              <volume>37</volume>
+              <fpage>3</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on HDS associated liver injury does not mention buchu).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23121117</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.navarro.2013.715">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Seeff</surname><given-names>LB</given-names></name>
+</person-group>
+              <article-title>Liver injury induced by herbal complementary and alternative medicine.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2013</year>
+              <volume>17</volume>
+              <fpage>715</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the epidemiology, regulatory status, diagnosis, pathogenesis and causes of liver injury from herbal products with specific discussion of conjugated linoleic acid, ephedra, germander, green tea, usnic acid, flavocoxid, aloe vera, chaparral, greater celandine, black cohosh, comfrey, kava, skullcap, valerian, noni juice, pennyroyal and traditional herbal remedies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24099027</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.navarro.2014.1399">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Grant</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network.</article-title>
+              <source>Hepatology</source>
+              <year>2014</year>
+              <volume>60</volume>
+              <fpage>1399</fpage>
+              <lpage>408</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 839 cases of liver injury from drugs collected in the US between 2004 and 2013, 130 were due to HDS products, including 45 from body building agents [probably anabolic steroids] and 85 from diverse HDS products but no case was attributed specifically to buchu).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25043597</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.seeff.2015.517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Seeff</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Herbal products and the liver: a review of adverse effects and mechanisms.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>517</fpage>
+              <lpage>532.e3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of herbal product associated liver injury does not discuss buchu specifically).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25500423</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.brown.2017.472">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brown</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series.</article-title>
+              <source>Food Chem Toxicol</source>
+              <year>2017</year>
+              <volume>107</volume>
+              <fpage>472</fpage>
+              <lpage>501</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products, does not list or discuss buchu).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27402097</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.medinacaliz.2018.1495">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Medina-Caliz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Garcia-Cortes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gonzalez-Jimenez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cabello</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Robles-Diaz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sanabria-Cabrera</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sanjuan-Jimenez</surname><given-names>R</given-names></name>
+<etal/>
+<collab>Spanish DILI Registry</collab>
+</person-group>
+              <article-title>Herbal and dietary supplement-induced liver injuries in the Spanish DILI Registry.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2018</year>
+              <volume>16</volume>
+              <fpage>1495</fpage>
+              <lpage>1502</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 856 cases of hepatotoxicity enrolled in the Spanish DILI Registry between 1994 and 2016, 32 were attributed to herbal products, the most frequent cause being green tea [n=8] and Herbalife products [n=6], no mention of buchu).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29307848</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.cohen.2020.110870">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cohen</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Eisenbrand</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Fukushima</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gooderham</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Guengerich</surname><given-names>FP</given-names></name>
+<name name-style="western"><surname>Hecht</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Rietjens</surname><given-names>IMCM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>FEMA GRAS assessment of natural flavor complexes: Mint, buchu, dill and caraway derived flavoring ingredients.</article-title>
+              <source>Food Chem Toxicol.</source>
+              <year>2020</year>
+              <volume>135</volume>
+              <elocation-id>110870</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Formal analysis of the safety of buchu leaves extract used as a flavoring agent in food concluded that it should be generally regarded as safe [GRAS]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31604112</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.ballotin.2021.5490">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ballotin</surname><given-names>VR</given-names></name>
+<name name-style="western"><surname>Bigarella</surname><given-names>LG</given-names></name>
+<name name-style="western"><surname>Brand&#x000e3;o</surname><given-names>ABM</given-names></name>
+<name name-style="western"><surname>Balbinot</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Balbinot</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Soldera</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Herb-induced liver injury: Systematic review and meta-analysis.</article-title>
+              <source>World J Clin Cases.</source>
+              <year>2021</year>
+              <volume>9</volume>
+              <fpage>5490</fpage>
+              <lpage>5513</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of the literature on HDS induced liver injury identified 446 references describing 936 cases due to 79 different herbal products, the most common being He Shou Wu [91], green tea [90] Herbalife products [64], kava kava [62] and greater celandine [48]; buchu is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34307603</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.bessone.2022.e548">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Medina-Caliz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hernandez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Parana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mendizabal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schinoni</surname><given-names>MI</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Herbal and dietary supplements-induced liver injury in Latin America: experience from the LATINDILI Network.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>e548</fpage>
+              <lpage>e563</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 367 cases of hepatotoxicity enrolled in the Latin American Drug-Induced Liver Injury Network between 2011 and 2019, 29 [8%] were attributed to herbal products, the most frequent being green tea [n=7], Herbalife products [n=5] and garcinia [n=3]; buchu is not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33434654</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Buchu.REF.brendler.2022.813142">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brendler</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Abdel-Tawab</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>Buchu (Agathosma betulina and A. crenulata): rightfully forgotten or underutilized?</article-title>
+              <source>Front Pharmacol.</source>
+              <year>2022</year>
+              <volume>13</volume>
+              <elocation-id>813142</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the traditional use of buchu, its taxonomy , biology, introduction into Europe, scientific investigation, phytochemical composition, pharmacological activity, current uses, toxicity and marketing, concluding that recent studies have failed to confirm its purported beneficial effects; mentions that the toxicity found with studies of pulegone used concentrations well above those found in commercially available extracts).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35197854</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Buchu.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Buchu+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Buchu: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Buchu">Trials on Buchu: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

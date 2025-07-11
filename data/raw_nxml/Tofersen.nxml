@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tofersen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tofersen</book-part-id>
+      <title-group>
+        <title>Tofersen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tofacitinib" document-type="chapter">Tofacitinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tolcapone" document-type="chapter">Tolcapone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tofersen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tofersen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tofersen is an antisense oligonucleoside directed against mutated forms of SOD1 used in the treatment of adults with amyotrophic lateral sclerosis with mutations in the SOD1 gene. Tofersen has been associated with minor liver test abnormalities during therapy but has not been linked instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Tofersen.Background">
+          <title>Background</title>
+          <p>Tofersen (toe fer&#x02019; sin) is an antisense oligonucleoside that is directed against the mRNA of the mutated superoxide dismutase 1 (SOD1) gene and is used in the treatment of adults with amyotrophic lateral sclerosis with mutated SOD1. Amyotrophic lateral sclerosis (ALS) is a rare, but invariably fatal neuromuscular disease characterized by progressive loss of motor neurons resulting in muscle weakness, atrophy, and eventual paralysis, leading to death from respiratory failure within 2 to 10 years of onset. Several genes have been associated with an increased risk of ALS including mutated SOD1 which is found in approximately 10% of patients. The mutated SOD1 protein appears to be toxic to motor neurons. Tofersen is an antisense oligonucleoside that is directed to mutated SOD1 and results in degradation of the mRNA and a decrease in mutated SOD1 protein production. In animal models, treatment with tofersen resulted in decreases in SOD1 levels in serum and cerebral spinal fluid (CSF) and slowed the progression of the neuromuscular disease. In the initial preregistration controlled trials, tofersen led to only modest improvements in progressive symptoms and signs of disease but did decrease serum and CSF SOD1 levels and improve surrogate markers of neurodegeneration (serum levels of neurofilament light chain: NfL). In longer term studies, tofersen was found to stabilize symptoms and body weight and to slow disease progression. Tofersen was approved for use in the United States in 2023 for adults with ALS and mutated SOD1 gene. It is available in solution as 100 mg in 15 mL in single use vials under the brand name Qalsody. The usual treatment regimen is 3 loading doses of 100 mg given intrathecally every 14 days, followed by maintenance doses of 100 mg given every 28 days. Side effects are common, mostly attributable to the lumbar puncture required for its administration. Common adverse events include pain, fatigue, arthralgia, myalgia, and an increase in white blood cells in the CSF. Severe adverse events occur in up to 10% of patients including myelitis, radiculitis, papilledema, increased intracranial pressure, and aseptic meningitis.</p>
+        </sec>
+        <sec id="Tofersen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the initial registration trial of tofersen in ALS, serum aminotransferase elevations above 3 times the upper limit of normal (ULN) occurred in 4% of treated patients, but the elevations were generally transient, mild, and no more frequent than in a placebo-treated patients (3%). With longer term, open label studies, ALT elevations above 3 times ULN arose in 11% of tofersen-treated subjects and were above 5 times ULN in 4%. However, the elevations were not accompanied by symptoms or jaundice, and there were no instances of clinically apparent liver injury or discontinuations because of liver test abnormalities. Since its approval, clinical experience with tofersen has been limited, but there have been no published case reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tofersen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which tofersen might cause liver injury is not clear. Tofersen is a short (20 mer) oligonucleotide and is metabolized to short sequences or individual nucleotides by tissue and plasma exonucleases. Tofersen is administered intrathecally, but low levels are found in serum. It is not metabolized by P450 enzymes, has no effect on their level of activity, and has not been linked to significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Tofersen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on tofersen therapy are unlikely to be due to the drug therapy and rarely require dose modification or discontinuation. Persistent ALT or AST elevations arising during therapy should lead to evaluation of their possible causes. There is no information on cross sensitivity to liver injury among the various other therapies for ALS.</p>
+          <p>Drug Class: Neurological Disease Agents, Antisense Oligonucleosides</p>
+          <p>Drugs for Amyotrophic Lateral Sclerosis: <related-object link-type="booklink" source-id="livertox" document-id="Edaravone" document-type="book-part">Edaravone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Riluzole" document-type="book-part">Riluzole</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tofersen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tofersen &#x02013; Qalsody&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Neurological Disease Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tofersen">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tofersen.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tofersen.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tofersen.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tofersen.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tofersen.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tofersen.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tofersen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tofersen</td>
+                <td headers="hd_h_Tofersen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381128259">2088232-70-4</ext-link>
+</td>
+                <td headers="hd_h_Tofersen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C230-H317-N72-O123-P19-S15</td>
+                <td headers="hd_h_Tofersen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tofersen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 March 2025</p>
+        <p>Abbreviations: ALS, amyotrophic lateral sclerosis; CSF, cerebral spinal fluid; SOD1, superoxide dismutase 1.</p>
+        <ref-list id="Tofersen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tofersen.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of antisense therapies such as tofersen).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215887Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215887Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with the product labels and integrated review of the data on efficacy and safety provided by the sponsor in support of approval of tofersen as therapy of amyotrophic lateral sclerosis [ALS] with mutations in the SOD1 gene, mentions that mild-to-moderate elevations in serum ALT elevations arose in 4% of tofersen-treated vs 3% of placebo recipients; and while in long term studies up to 11% of participants had ALT elevations, none were associated with jaundice or symptoms or required drug discontinuation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.miller.2020.109">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Miller</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Cudkowicz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Shaw</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Andersen</surname>
+<given-names>PM</given-names></string-name>, <string-name name-style="western"><surname>Atassi</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bucelli</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Genge</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase 1-2 trial of antisense oligonucleotide tofersen for <italic toggle="yes">SOD1</italic> ALS.</article-title>
+<source>N Engl J Med.</source>
+<year>2020</year>;<volume>383</volume>:<fpage>109</fpage>-<lpage>119</lpage>.<annotation><p><italic toggle="yes">(Among 50 adults with ALS and SOD1 mutations treated with ascending doses of tofersen [20-100 mg] vs placebo for 12 weeks, CSF SOD1 concentrations decreased in a dose-responsive manner and adverse events were largely procedural, pain or post lumbar puncture syndrome; no mention of AL T elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32640130</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.miller.2022.1099">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Miller</surname>
+<given-names>TM</given-names></string-name>, <string-name name-style="western"><surname>Cudkowicz</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Genge</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Shaw</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Sobue</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Bucelli</surname>
+<given-names>RC</given-names></string-name>, <string-name name-style="western"><surname>Chi&#x000f2;</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <collab>VALOR and OLE Working Group</collab>. <article-title>Trial of antisense oligonucleotide tofersen for <italic toggle="yes">SOD1</italic> ALS.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>387</volume>:<fpage>1099</fpage>-<lpage>1110</lpage>.<annotation><p><italic toggle="yes">(Among 108 adults with ALS and SOC1 mutations treated with 8 doses of intrathecal tofersen [100 mg] or placebo over 24 weeks, there were similar changes in functional rating scales in the various groups and procedural adverse events were common, serious neurologic side effects occurring in 7%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36129998</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.blair.2023.1039">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Blair</surname>
+<given-names>HA</given-names></string-name>. <article-title>Tofersen: first approval.</article-title>
+<source>Drugs.</source>
+<year>2023</year>;<volume>83</volume>:<fpage>1039</fpage>-<lpage>1043</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of tofersen shortly after its approval for use in ALS in the US, discusses the neurological side effects of therapy but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37316681</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.tofersen_qalsody_for_als.2023.113">
+            <mixed-citation publication-type="journal"><collab>Tofersen (Qalsody) for ALS</collab>. <source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>113</fpage>-<lpage>114</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of tofersen, discusses neurological side effects but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37460141</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.wiesenfarth.2024.102495">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wiesenfarth</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dorst</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Brenner</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Elmas</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Parlak</surname>
+<given-names>&#x000d6;</given-names></string-name>, <string-name name-style="western"><surname>Uzelac</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Kandler</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Effects of tofersen treatment in patients with <italic toggle="yes">SOD1</italic>-ALS in a "real-world" setting &#x02013; a 12-month multicenter cohort study from the German early access program.</article-title>
+<source>EClinicalMedicine.</source>
+<year>2024</year>;<volume>69</volume>:<elocation-id>102495</elocation-id>.<annotation><p><italic toggle="yes">(Among 24 patients with ALS and SOD1 mutations treated with tofersen for an average of 6 months, progression scales improved slightly and neurofilament heavy chain serum levels declined, while 2 patients had serious adverse events [autoimmune myeloradiculitis and leg weakness], both of whom discontinued therapy as did a third &#x0201c;for no objective medical reason&#x0201d;; no mention of ALT elevations of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38384337</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.weiss.2024.2024.06.20.599943">
+            <mixed-citation publication-type="preprint"><string-name name-style="western"><surname>Weiss</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gilbert</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Flores</surname>
+<given-names>IVR</given-names></string-name>, <string-name name-style="western"><surname>Belgrad</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ferguson</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Dogan</surname>
+<given-names>EO</given-names></string-name>, <string-name name-style="western"><surname>Wightman</surname>
+<given-names>N</given-names></string-name>, <etal>et al.</etal>
+<article-title>RNAi-mediated silencing of SOD1 profoundly extends survival and functional outcomes in ALS mice.</article-title>
+<source>bioRxiv</source> [Preprint]. <year>2024</year>:<elocation-id>2024.06.20.599943</elocation-id>.<annotation><p><italic toggle="yes">(In transgenic SOD1 mutant ALS mice, knockdown of SOD1 delayed disease onset and preserved neuromuscular integrity, and treatment with a divalent siRNA against SOD1 intraventricularly led to similar SOD1 silencing and extended survival in the mouse model of the disease).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.sabatelli.2024.5177">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sabatelli</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Cerri</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Zuccarino</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Patanella</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Bernardo</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Bisogni</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Tanel</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term treatment of SOD1 ALS with tofersen: a multicentre experience in 17 patients.</article-title>
+<source>J Neurol.</source>
+<year>2024</year>;<volume>271</volume>:<fpage>5177</fpage>-<lpage>5186</lpage>.<annotation><p><italic toggle="yes">(Among 17 patients with ALS with SOD1 mutations treated with tofersen for 1 to 2 years, clinical progression scales were stable or improved as compared to periods before starting therapy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38829431</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tofersen.REF.ludolph.2025.17562864251313915">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ludolph</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Wiesenfarth</surname>
+<given-names>M</given-names></string-name>. <article-title>Tofersen and other antisense oligonucleotides in ALS.</article-title>
+<source>Ther Adv Neurol Disord.</source>
+<year>2025</year>;<volume>18</volume>:<elocation-id>17562864251313915</elocation-id>.<annotation><p><italic toggle="yes">(Review of the use of antisense therapies for ALS such as tofersen and major questions remaining about its use, efficacy and safety, such as use in prevention of ALS by newborn screening for SOD1 mutations, early initiation of therapy, how to measure efficacy, long term safety and autoimmune complications; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39845577</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tofersen.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tofersen/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tofersen: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tofersen">Trials on Tofersen: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

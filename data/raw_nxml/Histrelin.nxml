@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Histrelin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Histrelin</book-part-id>
+      <title-group>
+        <title>Histrelin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="H2ReceptorBlockers" document-type="chapter">Histamine Type-2 Receptor Antagonists (H2 Blockers)</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Hoodia" document-type="chapter">Hoodia</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Histrelin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Histrelin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Histrelin is a gonadotropin releasing hormone (GnRH) agonist that is a potent inhibitor of production of testosterone (in men) and estrogen (in women) and is used predominantly to treat advanced prostate cancer. Histrelin is associated with a low rate of transient serum enzyme elevations during therapy, but has not been linked convincingly to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Histrelin.Background">
+          <title>Background</title>
+          <p>Histrelin (his trel' in) is a nonapeptide analogue of gonadotropin releasing hormone that acts on the pituitary to cause the synthesis and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH), two gonadotropins that act on the male testes to stimulate the production of testosterone and on the female ovaries to induce synthesis of estrogen. Histrelin and other GnRH agonists cause an initial surge of gonadotropin release, but then lead to down-regulation of their synthesis and secretion which results in a decline in testosterone and estrogen production. Histrelin, alone or in combination with other antiandrogens, has been found to be palliative in advanced prostate cancer and as effective as surgical castration. Histrelin was approved for use in the United States in 1991 and as a once-yearly implant formulation in 2004. The major indications for histrelin are advanced prostate cancer and precocious puberty. The GnRH agonists have also been used off label for precocious puberty, infertility, and as a part of gender affirming therapy. Histrelin is available under the brand names Supprelin (for precocious puberty) and Vantas (for prostate cancer; discontinued September 2021) in solution as implants of 50 mg, which are inserted subcutaneously in the inner aspect of the upper arm at 12 month intervals. Histrelin and the other GnRH analogues cause a profound hypogonadism ("chemical castration") and its common side effects are typical of androgen deprivation, including hot flashes, loss of libido, erectile dysfunction, depression, nausea, diarrhea, weight gain and fluid retention. Rare, but potentially severe adverse events include hypersensitivity reactions and transient tumor flare with the first injection.</p>
+        </sec>
+        <sec id="Histrelin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Histrelin has been associated with serum enzyme elevations during therapy in rates similar to those of other GnRH analogues. The serum enzyme elevations are generally mild, asymptomatic and resolve even without dose adjustment or drug discontinuation. ALT elevations above 3 times the upper limit of normal occur in less than 1% of recipients. Histrelin has been linked to a single case of acute liver injury, but it was unclear from the report whether the episode was associated with jaundice or symptoms and other diagnoses remained possible. Thus, clinically apparent liver injury from histrelin may occur, but it is extremely rare and usually self-limited in course. There have been no episodes of acute liver failure, chronic hepatitis or vanishing bile duct syndrome associated with histrelin or other GnRH analogue therapy.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Histrelin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the minor serum enzyme elevations that can occur during histrelin therapy is unknown. Histrelin is a short peptide similar to GnRH and is metabolized locally in tissue and not by the hepatic cytochrome P450 system. Some serum enzyme elevations may be caused by nonalcoholic fatty liver arising because of weight gain or metabolic changes caused by the androgen deprivation state induced by the GnRH agonist.</p>
+        </sec>
+        <sec id="Histrelin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations during histrelin therapy rarely require dose modification or drug discontinuation and should instead lead to investigation of other possible causes of liver injury. There is no evidence for cross sensitivity to liver injury among the various GnRH analogues, despite their similarity in chemical structure.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GnRHAnalogues" document-type="chapter">GnRH Analogues</related-object></p>
+          <p>Other Drugs in the Subclass, GnRH Analogues: <related-object link-type="booklink" source-id="livertox" document-id="Degarelix" document-type="chapter">Degarelix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Goserelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Leuprolide" document-type="chapter">Leuprolide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Relugolix" document-type="chapter">Relugolix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Triptorelin" document-type="chapter">Triptorelin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Histrelin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Histrelin &#x02013; Supprelin&#x000ae;</p>
+        <p>Histrelin &#x02013; Vantas&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Histrelin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Histrelin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Histrelin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Histrelin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Histrelin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Histrelin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Histrelin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Histrelin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Histrelin</td>
+                <td headers="hd_h_Histrelin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135079749">76712-82-8</ext-link>
+</td>
+                <td headers="hd_h_Histrelin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C66-H86-N18-O12</td>
+                <td headers="hd_h_Histrelin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135079749" document-id-type="sid" document-type="summary" object-id="135079749" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Histrelin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 May 2023</p>
+        <p>Abbreviations: FSH, follicle stimulating hormone; GnRH, gonadotropin releasing hormone; LH, luteinizing hormone; PSA, prostate specific antigen.</p>
+        <ref-list id="Histrelin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Histrelin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; GnRH analogues such as histrelin are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Histrelin.REF.chitturi.2013">
+            <mixed-citation publication-type="book">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hormonal products; does not discuss the GnRH agonists such as histrelin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Histrelin.REF.levin.2018">
+            <mixed-citation publication-type="book">Levin ER, Vitek WS, Hammes SR. Estrogens, progestins, and the female reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 803-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Histrelin.REF.snyder.2018">
+            <mixed-citation publication-type="book">Snyder PJ. Androgens and the male reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 833-43.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Histrelin.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-47.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Histrelin.REF.chertin.2000.838">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chertin</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Spitz</surname><given-names>IM</given-names></name>
+<name name-style="western"><surname>Lindenberg</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Algur</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zer</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kuzma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Young</surname><given-names>AJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>An implant releasing the gonadotropin hormone-releasing hormone agonist histrelin maintains medical castration for up to 30 months in metastatic prostate cancer.</article-title>
+              <source>J Urol</source>
+              <year>2000</year>
+              <volume>163</volume>
+              <fpage>838</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 21 men with advanced prostate cancer who were treated with a long acting implant of histrelin, LH and testosterone levels were suppressed long term, while adverse events included loss of libido; ALT elevations were not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10687989</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.schlegel.2001.578">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schlegel</surname><given-names>PN</given-names></name>
+<name name-style="western"><surname>Kuzma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Frick</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Farkas</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gomahr</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Spitz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Chertin</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effective long-term androgen suppression in men with prostate cancer using a hydrogel implant with the GnRH agonist histrelin.</article-title>
+              <source>Urology</source>
+              <year>2001</year>
+              <volume>58</volume>
+              <fpage>578</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 42 men with advanced prostate cancer who were treated with 1 to 4 hydrogel implants of histrelin, testosterone suppression lasted for at least 12 months and adverse events included implant site pain or irritation and 50% had hot flashes; there were no serious adverse events attributable to the histrelin and no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11597543</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.eugster.2007.1697">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eugster</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Kletter</surname><given-names>GB</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Neely</surname><given-names>EK</given-names></name>
+<name name-style="western"><surname>Reiter</surname><given-names>EO</given-names></name>
+<name name-style="western"><surname>Saenger</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of histrelin subdermal implant in children with central precocious puberty: a multicenter trial.</article-title>
+              <source>J Clin Endocrinol Metab.</source>
+              <year>2007</year>
+              <volume>92</volume>
+              <fpage>1697</fpage>
+              <lpage>704</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 36 children [ages 2 to 11 years] with precocious puberty treated with a 50 mg histrelin implant, peak LH and sex steroid levels were suppressed in all children to prepubertal levels for 12 months in all children and there were no serious adverse events and &#x0201c;no clinically significant findings&#x0201d; in clinical laboratory test results).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17327379</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.lewis.2009.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lewis</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Eugster</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Experience with the once-yearly histrelin (GnRHa) subcutaneous implant in the treatment of central precocious puberty.</article-title>
+              <source>Drug Des Devel Ther</source>
+              <year>2009</year>
+              <volume>3</volume>
+              <fpage>1</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the use of histrelin implants in management of precocious puberty including results from 3 studies in a total of 78 children mentions that the most common adverse reactions are complications at the implant site, and that there have been "no reported significant abnormalities in...clinical laboratory evaluations").</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.deeks.2010.623">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Deeks</surname><given-names>ED</given-names></name>
+</person-group>
+              <article-title>Histrelin: in advanced prostate cancer.</article-title>
+              <source>Drugs</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>623</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacology, clinical efficacy and safety of histrelin implants which can result in testosterone suppression to castrate levels for up to a year; major side effects are those of androgen deprivation; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20329807</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.ricker.2010.84">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ricker</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Foody</surname><given-names>WF</given-names></name>
+<name name-style="western"><surname>Shumway</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>Shaw</surname><given-names>JC</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury caused by the histrelin (Vantus) subcutaneous implant.</article-title>
+              <source>South Med J</source>
+              <year>2010</year>
+              <volume>103</volume>
+              <fpage>84</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old man with prostate cancer developed liver test abnormalities while on ketoconazole and marked worsening one month after placement of a histrelin implant [bilirubin not given, ALT ~1000 U/L, Alk P ~300 U/L], resolving within a month of removal of the implant).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19996852</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.shore.2012.226">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shore</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Cookson</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Gittelman</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Long-term efficacy and tolerability of once-yearly histrelin acetate subcutaneous implant in patients with advanced prostate cancer.</article-title>
+              <source>BJU Int</source>
+              <year>2012</year>
+              <volume>109</volume>
+              <fpage>226</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of efficacy and safety of histrelin implant therapy of advanced prostate cancer; mentions side effects of hot flashes, fatigue, testicular atrophy, gynecomastia, decrease in libido and erectile dysfunction, but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21851539</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.van_poppel.2012.594">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Van Poppel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Klotz</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone: an update review of the antagonists versus agonists.</article-title>
+              <source>Int J Urol</source>
+              <year>2012</year>
+              <volume>19</volume>
+              <fpage>594</fpage>
+              <lpage>601</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of androgen deprivation therapy for prostate cancer using GnRH agonists and antagonists stressing the more rapid onset of action and similar if not better safety profile of GnRH antagonists).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22416801</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.walker.2013.375">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Walker</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Robinson</surname><given-names>JW</given-names></name>
+</person-group>
+              <article-title>Luteinizing hormone--releasing hormone agonists: a quick reference for prevalence rates of potential adverse effects.</article-title>
+              <source>Clin Genitourin Cancer</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <fpage>375</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of adverse event profile of long term use of GnRH agonists which mostly relate to the hormonal changes that occur: hot flashes, gynecomastia, genital shrinkage, hair loss, osteoporosis, mild anemia, hyperglycemia, increased weight, loss of skeletal muscle mass, emotional lability, depression, loss of sexual desire and erectile dysfunction; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23891497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to histrelin or any of the GnRH analogues).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.chalasani.2015">
+            <mixed-citation publication-type="other">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e.7.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to histrelin or any of the GnRH analogues).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Histrelin.REF.silverman.2015.2354">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Silverman</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Neely</surname><given-names>EK</given-names></name>
+<name name-style="western"><surname>Kletter</surname><given-names>GB</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Chitra</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Terleckyj</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Eugster</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Long-term continuous suppression with once-yearly histrelin subcutaneous implants for the treatment of central precocious puberty: a final report of a phase 3 multicenter trial.</article-title>
+              <source>J Clin Endocrinol Metab.</source>
+              <year>2015</year>
+              <volume>100</volume>
+              <issue>6</issue>
+              <fpage>2354</fpage>
+              <lpage>63</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Six year follow up on the 36 children treated with every-12-month histrelin [Eugster 2007], most of whom continued therapy for up to 6 years stated that 53% of children had local pain or discomfort from the implants but they provided prolonged suppression of LH levels and there were no treatment related serious adverse events; no mention of liver injury or ALT levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25803268</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.bolton.2018.371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bolton</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Lynch</surname><given-names>TH</given-names></name>
+</person-group>
+              <article-title>Are all gonadotropin-releasing hormone agonists equivalent for the treatment of prostate cancer? A systematic review.</article-title>
+              <source>BJU Int</source>
+              <year>2018</year>
+              <volume>122</volume>
+              <issue>3</issue>
+              <fpage>371</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on relative efficacy and safety of different GnRH agonists, indicates that there is little evidence of superiority of any of the four, largely because of lack of adequately powered, controlled studies comparing them).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29438592</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.cornford.2018.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cornford</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jefferson</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cole</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Gilbody</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Effects of initiating or switching to a six-monthly triptorelin formulation on prostate cancer patient-healthcare interactions and hospital resource use: a real-world, retrospective, non-interventional study.</article-title>
+              <source>Oncol Ther.</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>173</fpage>
+              <lpage>187</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 adults with advanced prostate cancer who were switched from every 1 or 3 monthly GnRH regimen to 6 monthly triptorelin, healthcare visits, injections and PSA testing were less as were adverse side effects including fatigue [12% vs 26%], urinary frequency [9% vs 32%], and bone pain [7% vs 14%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32700031</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.swendiman.2019.1457">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Swendiman</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Vogiatzi</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Alter</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Nance</surname><given-names>ML</given-names></name>
+</person-group>
+              <article-title>Histrelin implantation in the pediatric population: A 10-year institutional experience.</article-title>
+              <source>J Pediatr Surg.</source>
+              <year>2019</year>
+              <volume>54</volume>
+              <fpage>1457</fpage>
+              <lpage>1461</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 377 children [mean age 9.4 years] undergoing 866 histrelin implant insertions or removals to treat precocious puberty [n=343] or gender affirming therapy [n=34], complications of the procedure were rare [1%] and were largely local wound complications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30262200</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.lambertini.2022.400">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lambertini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Boni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Michelotti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Magnolfi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cogoni</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Mosconi</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Giordano</surname><given-names>M</given-names></name>
+<etal/>
+<collab>GIM study group</collab>
+</person-group>
+              <article-title>Long-term outcomes with pharmacological ovarian suppression during chemotherapy in premenopausal early breast cancer patients.</article-title>
+              <source>J Natl Cancer Inst.</source>
+              <year>2022</year>
+              <volume>114</volume>
+              <fpage>400</fpage>
+              <lpage>408</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 women with early onset breast cancer treated with chemotherapy with or without a GnRH analogue to preserve ovarian function, disease-free and overall survival were similar in the two groups and those given the GnRH analogue were slightly more likely to have a successful pregnancy during follow up [6.5% vs 3.2%]; no mention of other adverse events, ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34850043</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Histrelin.REF.popovic.2022.968485">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Popovic</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Geffner</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Rogol</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Silverman</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kaplowitz</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Mauras</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zeitler</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone analogue therapies for children with central precocious puberty in the United States.</article-title>
+              <source>Front Pediatr.</source>
+              <year>2022</year>
+              <volume>10</volume>
+              <elocation-id>968485</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the 3 GnRH analogues used to treat children with precocious puberty including leuprolide, triptorelin, and histrelin, which have different regimens of administration [intramuscular and subcutaneous] and durations of action [1-12 months]; no mention of liver adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36268040</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Histrelin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Histrelin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Histrelin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Histrelin">Trials on Histrelin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

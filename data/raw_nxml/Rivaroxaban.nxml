@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rivaroxaban" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rivaroxaban</book-part-id>
+      <title-group>
+        <title>Rivaroxaban</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rituximab" document-type="chapter">Rituximab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rivastigmine" document-type="chapter">Rivastigmine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rivaroxaban.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rivaroxaban.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rivaroxaban is an oral anticoagulant and direct factor Xa inhibitor which is used in the prevention of stroke and venous embolism in patients with chronic atrial fibrillation, as well as treatment and prevention of deep venous thromboses and pulmonary embolism. Rivaroxaban has been associated with a low rate of serum enzyme elevations during treatment and with rare instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Rivaroxaban.Background">
+          <title>Background</title>
+          <p>Rivaroxaban (riv" a rox' a ban) is a selective inhibitor of factor Xa, the rate controlling last step in the generation of thrombin, the final intermediate in blood coagulation. Inhibiting thrombin prevents the conversion of fibrinogen to fibrin and subsequent cross linking of fibrin monomers, platelet activation and amplification of coagulation. Rivaroxaban has been shown to be as effective as warfarin in preventing stroke and systemic embolization in patients with atrial fibrillation, and to decrease the risk of deep vein thrombosis and pulmonary embolism in patients undergoing surgery. Rivaroxaban is orally available and provides a reliable anticoagulant effect for which monitoring of INR is not needed. Rivaroxaban was approved for use in the United States in 2011, the first oral factor Xa inhibitor to become available. Current indications are for prevention of stroke and embolism in patients with chronic atrial fibrillation not related to valvular heart disease, as well as prevention and treatment of deep vein thrombosis and pulmonary embolism in patients at high risk. Long term therapy in low doses given twice daily in combination with aspirin has been shown to decrease major cardiovascular events and death in patients with coronary or peripheral artery disease. Rivaroxaban is available in tablets of 2.5, 10, 15 and 20 mg generically and under the brand name Xarelto. The recommended dose in adults is 10 to 20 mg daily or 2.5 mg twice daily depending upon indication and renal function. Rivaroxaban, like other anticoagulants, is associated with an increased risk of adverse bleeding events (5% to 6%) which are considered &#x0201c;major&#x0201d; in ~1%. These bleeding adverse events, however, are no more frequent than with low molecular weight heparins or warfarin. Side effects not directly attributable to the anticoagulant activity of rivaroxaban are not common, but can include nausea, abdominal discomfort, back pain, anorexia, fever, and skin rash. Severe adverse events include major bleeding episodes, epidural or spinal hematoma, and increase in risk of thrombotic events with premature discontinuation.</p>
+        </sec>
+        <sec id="Rivaroxaban.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Chronic therapy with rivaroxaban is associated with moderate ALT elevations (greater than 3 times the upper limit of normal) in 1.5% to 3% of patients, an overall rate which is slightly lower than with low molecular weight heparins and similar to the rates with warfarin. During the large, prelicensure clinical trials of rivaroxaban, several instances of ALT elevations with jaundice occurred, but few details were provided and it was not clear whether the liver injury was clinically apparent. The cases were evidently mild and self-limited, resolving completely once therapy was stopped. Since its licensure and more wide scale use, rivaroxaban has been linked to many instances of acute liver injury with jaundice. The clinical features of these cases varied widely. Most cases had an onset within 1 to 8 weeks of starting rivaroxaban and presented with jaundice, fatigue and a hepatocellular pattern of serum enzyme elevations. In some individuals, a cholestatic or mixed pattern was found. Immunoallergic features and autoimmune markers were atypical but at least one case occurred with skin rash and fever suggestive of DRESS syndrome. One case of acute hepatic necrosis and death attributed to rivaroxaban has been reported, but ischemic hepatitis due to severe heart failure was a more likely cause of the acute liver failure. All other reported cases of rivaroxaban induced liver injury recovered upon stopping rivaroxaban, usually quite promptly, within 2 to 4 weeks. In large health care databases, hospitalization for acute liver injury arises in approximately 1 in 2,200 cases, but whether all cases in these databases represent liver injury from rivaroxaban is uncertain.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rivaroxaban.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury during rivaroxaban therapy is unknown, but is likely to be idiosyncratic and perhaps immunologic. Rivaroxaban is metabolized in the liver largely by CYP 3A4 and is susceptible to drug-drug interactions; inhibitors of CYP 3A4 (such as clarithromycin and itraconazole) can lead to increased levels, while inducers of CYP 3A4 (such as rifampin and phenytoin) can cause decreased and potential subtherapeutic drug levels.</p>
+        </sec>
+        <sec id="Rivaroxaban.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury attributed to rivaroxaban varies from mild serum ALT elevations to liver injury with jaundice, but is usually mild to moderate in severity and self-limited, resolving within a few weeks of stopping. Convincing examples of acute liver failure, chronic hepatitis or vanishing bile duct syndrome due to rivaroxaban have not been reported in the published literature. Recurrence of liver injury with rechallenge has not been described, but should be expected to occur. There is no evidence or reason to suspect that there is cross sensitivity to hepatic injury among the different anticoagulants even with the other direct factor X inhibitors such as apixaban and edoxaban which appear to have a lower rate of hepatotoxicity.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anticoagulants" document-type="chapter">Antithrombotic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Anticoagulants" document-type="chapter">Anticoagulants</related-object></p>
+          <p>Other Drugs in the Subclass, Anticoagulants, Factor Xa Antagonists: <related-object link-type="booklink" source-id="livertox" document-id="Apixaban" document-type="chapter">Apixaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Betrixaban" document-type="chapter">Betrixaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Edoxaban" document-type="chapter">Edoxaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fondaparinux" document-type="chapter">Fondaparinux</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rivaroxaban.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Rivaroxaban &#x02013; Xarelto&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antithrombotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Rivaroxaban">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Rivaroxaban.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rivaroxaban.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Rivaroxaban.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rivaroxaban.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Rivaroxaban.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rivaroxaban.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rivaroxaban.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Rivaroxaban</td>
+                <td headers="hd_h_Rivaroxaban.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135213418">366789-02-8</ext-link>
+</td>
+                <td headers="hd_h_Rivaroxaban.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H18-Cl-N3-O5-S</td>
+                <td headers="hd_h_Rivaroxaban.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135213418" document-id-type="sid" document-type="summary" object-id="135213418" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rivaroxaban.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 16 February 2023</p>
+        <ref-list id="Rivaroxaban.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Rivaroxaban.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-41.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 does not mention rivaroxaban).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Antiplatelet agents. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 527-8.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular drugs does not discuss the anticoagulants).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.weitz.2011">
+            <mixed-citation publication-type="book">Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.eriksson.2008.2765">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eriksson</surname><given-names>BI</given-names></name>
+<name name-style="western"><surname>Borris</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Friedman</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Haas</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Huisman</surname><given-names>MV</given-names></name>
+<name name-style="western"><surname>Kakkar</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Bandel</surname><given-names>TJ</given-names></name>
+<etal/>
+<collab>RECORD1 Study Group</collab>
+</person-group>
+              <article-title>Rivaroxaban versus enoxaparin for thromboprophylaxis after hip arthroplasty.</article-title>
+              <source>N Engl J Med</source>
+              <year>2008</year>
+              <volume>358</volume>
+              <fpage>2765</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4541 patients undergoing hip replacement surgery who were treated with oral rivaroxaban or enoxaparin for at least 1 month, combined endpoints of death or thromboembolism were less with rivaroxaban [1.1% vs 3.7%], but rates of bleeding were similar; ALT elevations occurred in 2.0% vs 2.7% of patients and one patient on rivaroxaban had elevations in both ALT and bilirubin, which resolved even with continued administration).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18579811</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.lassen.2008.2776">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lassen</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Ageno</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Borris</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Lieberman</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Rosencher</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bandel</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Misselwitz</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>RECORD3 Investigators. Rivaroxaban versus enoxaparin for thromboprophylaxis after total knee arthroplasty.</article-title>
+              <source>N Engl J Med</source>
+              <year>2008</year>
+              <volume>358</volume>
+              <fpage>2776</fpage>
+              <lpage>86</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2531 patients undergoing hip replacement surgery who were treated with rivaroxaban or enoxaparin, thromboembolic events and death were less common with rivaroxaban [1.0% vs 2.4%], while rates of major bleeding were similar [0.6% vs 0.5%]; ALT elevations above 3 times ULN occurred in 1.7% of both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18579812</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.borris.2008.855">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Borris</surname><given-names>LC</given-names></name>
+</person-group>
+              <article-title>New compounds in the management of venous thromboembolism after orthopedic surgery: focus on rivaroxaban.</article-title>
+              <source>Vasc Health Risk Manag</source>
+              <year>2008</year>
+              <volume>4</volume>
+              <fpage>855</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Short review of pharmacology, efficacy and safety of rivaroxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19066002</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.gulseth.2008.1520">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gulseth</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Michaud</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Nutescu</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Rivaroxaban: an oral direct inhibitor of factor Xa.</article-title>
+              <source>Am J Health Syst Pharm</source>
+              <year>2008</year>
+              <volume>65</volume>
+              <fpage>1520</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanism of action, pharmacology, efficacy and safety of rivaroxaban; in large clinical trials, ALT elevations occurred in 1.9-6% of rivaroxaban vs 7.7-21.6% of enoxaparin treated subjects, and no patient developed clinically apparent liver injury clearly attributable to rivaroxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18693206</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to anticoagulants).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.turpie.2009.1673">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Turpie</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Lassen</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Davidson</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Bauer</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Gent</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kwong</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Cushner</surname><given-names>FD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>RECORD4 Investigators. Rivaroxaban versus enoxaparin for thromboprophylaxis after total knee arthroplasty (RECORD4): a randomised trial.</article-title>
+              <source>Lancet</source>
+              <year>2009</year>
+              <volume>373</volume>
+              <issue>9676</issue>
+              <fpage>1673</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3148 patients undergoing knee replacement surgery who were treated with rivaroxaban or enoxaparin, thromboembolic events were less with rivaroxaban, with no increase in rates of bleeding; ALT levels above 3 times ULN occurred in 1.3% vs 2.6% of patients, and only one patient on rivaroxaban but 3 on enoxaparin developed concurrent elevations in ALT and bilirubin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19411100</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were due to anticoagulants).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Rivaroxaban (Xarelto)--a new oral anticoagulant.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <fpage>65</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of efficacy and safety of rivaroxaban shortly after its approval for use to prevent deep vein thrombosis after hip replacement surgery discusses bleeding as an adverse event, but not ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.watkins.2011.243">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Desai</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Berkowitz</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Peters</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Horsmans</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Maddrey</surname><given-names>W</given-names></name>
+</person-group>
+              <article-title>Evaluation of drug-induced serious hepatotoxicity (eDISH): application of this data organization approach to phase III clinical trials of rivaroxaban after total hip or knee replacement surgery.</article-title>
+              <source>Drug Saf</source>
+              <year>2011</year>
+              <volume>34</volume>
+              <fpage>243</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 4 controlled trials of rivaroxaban vs enoxaparin found ALT elevations above 3 times ULN in 2.3% vs 3.6% of patients, but combined ALT and bilirubin elevations [above 2.5 mg/dL] occurred equally in both groups [10 patients each: 0.16%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21332248</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.turpie.2011.444">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Turpie</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Lassen</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Eriksson</surname><given-names>BI</given-names></name>
+<name name-style="western"><surname>Gent</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Berkowitz</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Misselwitz</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Bandel</surname><given-names>TJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Rivaroxaban for the prevention of venous thromboembolism after hip or knee arthroplasty. Pooled analysis of four studies.</article-title>
+              <source>Thromb Haemost</source>
+              <year>2011</year>
+              <volume>105</volume>
+              <fpage>444</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a pooled analysis of 12,729 patients undergoing knee or hip replacement surgery who were treated with rivaroxaban or enoxaparin in 4 controlled trials, venous thromboembolism or death occurred in 0.5% vs 1.0% of patients by day 12; ALT elevations above 3 times ULN occurred in 2.5% vs 3.7%, and combined ALT and bilirubin elevations in 0.1% in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21136019</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.einstein_pe_investigators.2012.1287">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>EINSTEIN&#x02013;PE Investigators</collab>
+</person-group>
+              <comment>B&#x000fc;ller HR, Prins MH, Lensin AW, Decousus H, Jacobson BF, Minar E, Chlumsky J, et al</comment>
+              <article-title>Oral rivaroxaban for the treatment of symptomatic pulmonary embolism.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>366</volume>
+              <fpage>1287</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4832 patients with symptomatic pulmonary embolism treated with rivaroxaban or enoxaparin/warfarin, rates of recurrence of venous thromboses and bleeding episodes were similar in the two groups, while ALT elevations above 3 times ULN occurred in 1.1% vs 2.2%, and combined ALT and bilirubin elevations occurred in 0.2% of both groups [5 and 4 patients]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22449293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.caldeira.2014.550">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Caldeira</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Barra</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Santos</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>de Abreu</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Pinto</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Ferreira</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Costa</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Risk of drug-induced liver injury with the new oral anticoagulants: systematic review and meta-analysis.</article-title>
+              <source>Heart</source>
+              <year>2014</year>
+              <volume>100</volume>
+              <fpage>550</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 29 controlled trials of oral anticoagulants in 152,116 patients focusing on risk of drug induced liver injury [including 8 trials with 19,364 patients on rivaroxaban] found no increase in rate of serum ALT or AST elevations above 3 times ULN [1-2%], or combined enzyme and bilirubin elevations above 2 times ULN [~0.2%] with rivaroxaban vs standard therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24476812</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.russmann.2014.293">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russmann</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Niedrig</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Budmiger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Stieger</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>H&#x000fc;rlimann</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kullak-Ublick</surname><given-names>GA</given-names></name>
+</person-group>
+              <article-title>Rivaroxaban postmarketing risk of liver injury.</article-title>
+              <source>J Hepatol</source>
+              <year>2014</year>
+              <volume>61</volume>
+              <fpage>293</fpage>
+              <lpage>300</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 14 cases of liver injury attributed to rivaroxaban reported to a Swiss pharmacovigilance registry; 5 men and 9 women, ages 41 to 91 years, onset after 3-62 days, given for atrial fibrillation [n=4] or orthopedic surgery [n=10], 11 with jaundice, ALT 2.5-53.7 times ULN, Alk P &#x0003c;1 to 7.8 times ULN, half of cases hepatocellular, none fatal; two cases presented in detail both developed cholestatic hepatitis within 2-3 weeks of surgery during which they also received cefazolin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24681117</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.moore.2014.198">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moore</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Blin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gulmez</surname><given-names>SE</given-names></name>
+</person-group>
+              <article-title>New oral anticoagulants (NOAC) and liver injury.</article-title>
+              <source>J Hepatol.</source>
+              <year>2014</year>
+              <volume>61</volume>
+              <fpage>198</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Russmann [2014] stressing the rarity of liver injury due to rivaroxaban and its generally benign outcome).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24837361</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF18">
+            <element-citation publication-type="journal">
+              <article-title>New oral anticoagulants for acute venous thromboembolism.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2014</year>
+              <volume>56</volume>
+              <issue>1433</issue>
+              <fpage>3</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief comparison of warfarin, rivaroxaban, apixaban and dabigatran as anticoagulants for treatment of venous thromboembolism, all of which have similar efficacy, warfarin requiring regular monitoring of INR whereas the others not).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24419296</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.liakoni.2014.1683">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liakoni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>R&#x000e4;tz Bravo</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Terracciano</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Heim</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kr&#x000e4;henb&#x000fc;hl</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Symptomatic hepatocellular liver injury with hyperbilirubinemia in two patients treated with rivaroxaban.</article-title>
+              <source>JAMA Intern Med</source>
+              <year>2014</year>
+              <volume>174</volume>
+              <fpage>1683</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed jaundice 2 months after starting rivaroxaban [bilirubin 18.7 mg/dL, ALT 1740 U/L, Alk P 136 U/L], recovering within 2 weeks of stopping; 73 year old woman developed jaundice and pruritus 1 month after starting rivaroxaban [bilirubin 7.5 mg/dL, ALT 334 U/L, Alk P 363 U/L], resolving within 2 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25155865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.lambert.2015.265">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lambert</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cordeanu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gaertner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nouri</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Alt</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Stephan</surname><given-names>D.</given-names></name>
+</person-group>
+              <article-title>Rivaroxaban-induced liver injury: Results from a venous thromboembolism registry.</article-title>
+              <source>Int J Cardiol</source>
+              <year>2015</year>
+              <volume>191</volume>
+              <fpage>265</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 120 patients wtih venous thromboembolism treated with rivaroxaban at a single French referral center, 5 developed evidence of liver injury arising within 2 to 3 days of starting; all were anicteric, 4 had serum ALT elevations [2.4-12.3 times ULN] alone, 1 with Alk P increases [4.3 times ULN], 1 mildly symptomatic, and all recovered promptly upon stopping rivaroxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25981364</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.raschi.2015.285">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raschi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Poluzzi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Koci</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Salvo</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pariente</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Biselli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moretti</surname><given-names>U</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Liver injury with novel oral anticoagulants: assessing post-marketing reports in the US Food and Drug Administration adverse event reporting system.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2015</year>
+              <volume>80</volume>
+              <issue>2</issue>
+              <fpage>285</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 17,097 reports to FDA on adverse events associated with newer oral anticoagulants identified 146 liver related events attributed to rivaroxaban [3.7% of total reports] with 25 resulting in acute liver failure, and 222 to dabigatran [1.7% of total] with 41 resulting in acute liver failure; case-by-case analysis was difficult "it should be acknowledged that this clinical event may not be necessarily related to the drug").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25689417</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.barrett.2015.1856">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Barrett</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Vuppalanchi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Masuoka</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Severe drug-induced skin and liver injury from rivaroxaban.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2015</year>
+              <volume>60</volume>
+              <fpage>1856</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(77 year old man with retinal thrombosis developed fever, fatigue and arthralgias 6 weeks after starting rivaroxaban with subsequent skin rash, mild eosinophilia, and jaundice [peak bilirubin ~4.1 mg/dL, ALT ~400 U/L, Alk P ~650 U/L], resolving within 4 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25559757</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients With drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 patients with clinically apparent drug induced liver injury enrolled in a US prospective study over an 8 year period, 2 were attributed to anticoagulants including 1 to prasugrel [platelet inhibitor] and one to dalteparin [low molecular weight heparin], but none to rivaroxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.anastasia.2015.699">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Anastasia</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Rosenstein</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Bergsman</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Parra</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Use of apixaban after development of suspected rivaroxaban-induced hepatic steatosis; a case report.</article-title>
+              <source>Blood Coagul Fibrinolysis</source>
+              <year>2015</year>
+              <volume>26</volume>
+              <fpage>699</fpage>
+              <lpage>702</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old man developed ALT elevations 6 months after starting rivaroxaban [peak ALT 391 U/L, Alk P 120 U/L, bilirubin 1.3 mg/dL], which fell into the normal range within 2 months of switching to apixaban; ultrasound suggested fatty liver which also resolved with stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26154612</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.baig.2015.407">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baig</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wool</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Halanych</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Sarmad</surname><given-names>RA</given-names></name>
+</person-group>
+              <article-title>Acute liver failure after initiation of rivaroxaban: a case report and review of the literature.</article-title>
+              <source>N Am J Med Sci</source>
+              <year>2015</year>
+              <volume>7</volume>
+              <fpage>407</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(89 year old woman with severe heart failure developed acute hepatic necrosis and rapidly fatal liver failure 1 week after starting rivaroxaban [initial bilirubin 2.5 mg/dL, ALT 3011 U/L, AST 5318 U/L, Alk P 250 U/L, INR 8.5]; perhaps more likely due to ischemic hepatitis than rivaroxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26605205</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.liakoni.2015.711">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liakoni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>R&#x000e4;tz Bravo</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Kr&#x000e4;henb&#x000fc;hl</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of new oral anticoagulants (NOACs).</article-title>
+              <source>Drug Saf</source>
+              <year>2015</year>
+              <volume>38</volume>
+              <fpage>711</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of evidence of hepatotoxicity of new oral anticoagulants including rivaroxaban, apixaban, edoxaban and dabigatran found 22 cases of liver injury due to rivaroxaban, 2 dabigatran, 2 apixaban, but none to edoxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26138527</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.aslan.2016.226">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Aslan</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Sari</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ba&#x0015f;tu&#x0011f;</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sari</surname><given-names>S&#x000d6;</given-names></name>
+<name name-style="western"><surname>Ak&#x000e7;ay</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Durmaz</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Bozkurt</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Severe jaundice due to intrahepatic cholestasis after initiating anticoagulation with rivaroxaban.</article-title>
+              <source>Blood Coagul Fibrinolysis</source>
+              <year>2016</year>
+              <volume>27</volume>
+              <fpage>226</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old man developed jaundice one month after starting rivaroxaban [bilirubin 3.5 rising to 13.2 mg/dL, ALT 141 U/L, Alk P 257 U/L], improving once rivaroxaban was stopped with normal values one month later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26569514</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.alonso.2017.834">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alonso</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>MacLehose</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Bengtson</surname><given-names>LG</given-names></name>
+<name name-style="western"><surname>Chamberlain</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Norby</surname><given-names>FL</given-names></name>
+<name name-style="western"><surname>Lutsey</surname><given-names>PL</given-names></name>
+</person-group>
+              <article-title>Prospective study of oral anticoagulants and risk of liver injury in patients with atrial fibrillation.</article-title>
+              <source>Heart</source>
+              <year>2017</year>
+              <volume>103</volume>
+              <fpage>834</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of a database on more than 1 million patients with nonvalvular atrial fibrillation on oral anticoagulants identified 960 hospitalizations with liver injury, rates being highest for warfarin, intermediate for rivaroxaban, and lowest for apixaban and dabigatran).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28057799</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.glenn.2017.5678187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Glenn</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Musleh</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pallivi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Grilliot</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>A rare case of rivaroxaban causing delayed symptomatic hepatocellular iInjury and hyperbilirubinemia.</article-title>
+              <source>Case Rep Gastrointest Med</source>
+              <year>2017</year>
+              <volume>2017</volume>
+              <elocation-id>5678187</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(74 year old woman developed jaundice 1 month after knee arthroplasty and 14 day course of rivaroxaban [bilirubin 7.5 mg/dL, ALT 506 U/L, Alk P 332 U/L] with complete resolution in follow up one year later; no mention of antibiotic administration during surgery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28250999</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.christopoulou.2017.e108">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Christopoulou</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Filippatos</surname><given-names>TD</given-names></name>
+<name name-style="western"><surname>Elisaf</surname><given-names>MS</given-names></name>
+</person-group>
+              <article-title>Non-hemorrhage-related adverse effects of rivaroxaban.</article-title>
+              <source>Arch Med Sci Atheroscler Dis</source>
+              <year>2017</year>
+              <volume>2</volume>
+              <fpage>e108</fpage>
+              <lpage>e112</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of non-hematologic adverse events from rivaroxaban including hepatobiliary effects with summaries of 28 cases in the literature).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29379891</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.licata.2018.226">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Licata</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Puccia</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Lombardo</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Serruto</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Minissale</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Morreale</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Giannitrapani</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Soresi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Montalto</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Almasio</surname><given-names>PL</given-names></name>
+</person-group>
+              <article-title>Rivaroxaban-induced hepatotoxicity: review of the literature and report of new cases.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>2018</year>
+              <volume>30</volume>
+              <fpage>226</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 26 cases of suspected rivaroxaban induced liver injury from the literature and description of 2 new cases of elderly patients developing hepatocellular injury 7-8 weeks after starting rivaroxaban [bilirubin 21.8 mg/dL and not given, ALT 35 and 9 times ULN, Alk P 2 times and within ULN], both resolving rapidly within a month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29120909</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.verheyen.2019.e538">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Verheyen</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Kileci</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Mathew</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Single-dose rivaroxaban-induced acute liver injury.</article-title>
+              <source>Am J Ther.</source>
+              <year>2019</year>
+              <volume>26</volume>
+              <fpage>e538</fpage>
+              <lpage>e540</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(87 year old man with sepsis, atrial fibrillation, and respiratory failure developed marked elevations in serum aminotransferase levels within hours of receiving a single dose of rivaroxaban [peak values on day 2: bilirubin 2.1 mg/dL, ALT 3963 U/L, AST 9549 U/L, Alk P 122 U/L, creatinine 2.8 mg/dL], with rapid recovery; the injury most likely due to ischemic hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29889676</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.bj_rnsson.2020.1895">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Gudmundsson</surname><given-names>DO</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Liver injury caused by oral anticoagulants: A population-based retrospective cohort study.</article-title>
+              <source>Liver Int.</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>1895</fpage>
+              <lpage>1900</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Search of Icelandic National Prescription Databases and Health Records identified 3 cases of clinically apparent, acute liver injury in 3 of 3446 [0.1%] patients taking rivaroxaban, but in none of 9101 taking warfarin, 1903 apixaban, 1335 dabigatran or 34 taking edoxaban).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32511827</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.zhao.2020.1513">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Blais</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Chui</surname><given-names>CSL</given-names></name>
+<name name-style="western"><surname>Suh</surname><given-names>IH</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>EYH</given-names></name>
+<name name-style="western"><surname>Seto</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Mok</surname><given-names>MT</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Association between nonvitamin K antagonist oral anticoagulants or warfarin and liver injury: a cohort study.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>1513</fpage>
+              <lpage>1524</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 13,698 patients with atrial fibrillation started on anticoagulant therapy and followed in the Hong Kong Clinical Database and Reporting system between 2010 and 2016, 513 [2.8%] developed evidence of liver injury and propensity matching indicated that liver injury was less frequent [2.1% vs 3.4%], although more severe with oral anticoagulants than with warfarin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32467502</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.maura.2020.11624">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Maura</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bardou</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Billionnet</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Weill</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Drouin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Neumann</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Oral anticoagulants and risk of acute liver injury in patients with nonvalvular atrial fibrillation: a propensity-weighted nationwide cohort study.</article-title>
+              <source>Sci Rep.</source>
+              <year>2020</year>
+              <volume>10</volume>
+              <fpage>11624</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 434,015 patients with atrial fibrillation started on anticoagulant therapy and followed in the French National Healthcare Database, 218 [0.6%] were subsequently hospitalized for acute liver injury, the rates being similar for those on dabigatran [26 of 51,737 patients], apixaban [29 of 62,503 patients] and rivaroxaban [46 of 99,408 patients]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32669591</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.zhou.2021.886">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhou</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Leung</surname><given-names>KSK</given-names></name>
+<name name-style="western"><surname>Kong</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wai</surname><given-names>AKC</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Low rates of liver injury in edoxaban users: Evidence from a territory-wide observational cohort study.</article-title>
+              <source>Clin Cardiol.</source>
+              <year>2021</year>
+              <volume>44</volume>
+              <fpage>886</fpage>
+              <lpage>889</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1213 patients with atrial fibrillation started on edoxaban between 2016 and 2020 and followed in the Hong Kong Clinical Database and Reporting System, 19 [1.5%] developed evidence of liver injury, a rate below that previously reported for warfarin [3.7%], apixaban [2.5%], and rivaroxaban [2.1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33590891</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.rao.2021.e240719">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rao</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Munasinghe</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Acute liver failure after changing oral anticoagulant from apixaban to rivaroxaban.</article-title>
+              <source>BMJ Case Rep.</source>
+              <year>2021</year>
+              <volume>14</volume>
+              <elocation-id>e240719</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(88 year old man with atrial fibrillation was switched from apixaban to rivaroxaban [15 mg daily] after experiencing a transient ischemic attack and developed jaundice 2 weeks later [bilirubin 11.2 mg/dL, ALT 1940 U/L, Alk P 360 U/L] but no hepatic encephalopathy, recovering rapidly upon switching to warfarin).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.marrinan.2021.1073">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marrinan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Shackleton</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Kelly</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lavin</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Glavey</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Murphy</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Quinn</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Liver injury during rivaroxaban treatment in a patient with AL amyloidosis.</article-title>
+              <source>Eur J Clin Pharmacol.</source>
+              <year>2021</year>
+              <volume>77</volume>
+              <fpage>1073</fpage>
+              <lpage>1076</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(57 year old man with amyloidosis developed asymptomatic elevations in serum enzymes 5 months after starting rivaroxaban for a pulmonary embolus [bilirubin 0.6 mg/dL, ALT 544 rising to 806 U/L while continuing rivaroxaban, Alk P 142 U/L], resolving within 2 months of switching to tinzaparin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33427957</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Rivaroxaban.REF.ma.2023.52">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ma</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>NP</given-names></name>
+<name name-style="western"><surname>Schwantes-An</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Review article: the safety of anticoagulants and antiplatelet agents in patients with cirrhosis.</article-title>
+              <source>Aliment Pharmacol Ther.</source>
+              <year>2023</year>
+              <volume>57</volume>
+              <fpage>52</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the safety of anticoagulant use in patients with cirrhosis mentions that drug induced liver injury is uncommon in patients with preexisting cirrhosis, at least in those with compensated [Child&#x02019;s Class A] or mildly compensated [Child&#x02019;s Class B] cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36373544</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Rivaroxaban.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Rivaroxaban/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Rivaroxaban: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Rivaroxaban">Trials on Rivaroxaban: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

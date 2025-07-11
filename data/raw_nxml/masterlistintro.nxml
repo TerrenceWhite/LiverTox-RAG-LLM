@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="masterlistintro" content-type="appendix" from-where="back" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-app book-part-type="appendix">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">masterlistintro</book-part-id>
+      <title-group>
+        <title>Master List of LiverTox Drugs</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>2</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MinElements" document-type="appendix">Elements Needed In Reporting Cases Of Drug-Induced Liver Injury</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="drugliverinjury" document-type="appendix">Agents Included in LiverTox by Drug Class</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="masterlistintro.Description">
+        <title>Description</title>
+        <p>The <bold>Master List of LiverTox Drugs</bold> is a Microsoft Excel spreadsheet that lists all drugs or agents that are in LiverTox [or are meant to be added in the future] with supporting metadata. Excel provides the ability to manipulate the data such as sorting by type of agent, year of approval or classification, and making counts and calculations that are automatic. For example, the user can sort all drugs by likelihood score or list all antineoplastic (anticancer) drugs. This file and its content are not copyrighted and can be used in data analyses, publications or presentations. Attribution of its use is not required but is always appreciated. The Master List is updated yearly. Approximately 50 new agents are added each year and between 50 and 150 are updated.</p>
+        <p><bold>The Master List of LiverTox Drugs can be accessed</bold>
+<inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="media" xlink:href="masterlist01-25.xlsx" content-type="local-data"><bold>here</bold></inline-supplementary-material>.</p>
+        <p>The Master List is arranged alphabetically and provides the following data.</p>
+        <p>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="masterlistintro-Image001.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Ingredient: The generic name of the drug/agent.</p>
+          </list-item>
+          <list-item>
+            <p>Brand Name: A common or representative brand name of the drug.</p>
+          </list-item>
+          <list-item>
+            <p>Likelihood Score: The likelihood that the drug is associated with liver injury.</p>
+          </list-item>
+          <list-item>
+            <p>Chapter Title: The title of the chapter that describes the drug; this may be specificfor the drug or the drug class chapter that includes descriptions of multiple drugs.</p>
+          </list-item>
+          <list-item>
+            <p>Last Update: The date when the chapter and/or references were last revised.</p>
+          </list-item>
+          <list-item>
+            <p>Number of References: The total number of all references within the chapter.</p>
+          </list-item>
+          <list-item>
+            <p>Year Approved: The year in which the drug was first approved in the United States.</p>
+          </list-item>
+          <list-item>
+            <p>Type of Agent: P, prescription or conventional drug; PP, prescription drug in combination, or, in an overview or drug class chapter; H, herbal product; I, Illicit agent; M, mineral; MIDS, multi-ingredient dietary supplement; N, nutritional supplement.</p>
+          </list-item>
+          <list-item>
+            <p>In LiverTox: Whether the drug or agent is described in LiverTox: 1=yes; 0=no.</p>
+          </list-item>
+          <list-item>
+            <p>Primary Classification: Principal organ system involved with use of the drug.</p>
+          </list-item>
+          <list-item>
+            <p>Secondary Classification: Major indication or disease treated with the drug.</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-app>
+</book-part-wrapper>

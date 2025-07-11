@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fostemsavir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fostemsavir</book-part-id>
+      <title-group>
+        <title>Fostemsavir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fostamatinib" document-type="chapter">Fostamatinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fremanezumab" document-type="chapter">Fremanezumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fostemsavir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fostemsavir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fostemsavir is a unique antiretroviral agent that binds to an envelope antigen of the human immunodeficiency virus (HIV) inhibiting its attachment to cell surface receptors of CD4+ lymphocytes. It is used to treat patients with multidrug resistant infection and inadequate viral suppression despite optimized background therapy. Fostemsavir has been linked to a low rate of serum aminotransferase elevations during therapy but has not been linked convincingly to episodes of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Fostemsavir.Background">
+          <title>Background</title>
+          <p>Fostemsavir (fos tem&#x02019; sa vir) is a unique antiretroviral drug that binds the gp120 subunit of the HIV envelope protein that mediates viral attachment to cell surface receptors on CD4+ lymphocytes, an initial and necessary step in HIV replication. Fostemsavir has both in vitro and in vivo activity against HIV and was developed as an adjunctive therapy for heavily treatment-experienced patients with multidrug antiviral resistance who had failed to achieve adequate viral suppression on a potent antiretroviral regimen. In large, long term, open label studies, the addition of fostemsavir to an optimized background regimen of antiretroviral agents resulted in full viral suppression (less than 50 HIV RNA copies per mL) in 38% to 54% of patients, with accompanying improvements in peripheral CD4 counts. Fostemsavir was approved as therapy of adults with multidrug-resistant HIV infection in the United States in 2020, but only in combination with other antiretroviral agents. Fostemsavir is available in tablets of 600 mg under the brand name Rukobia. The recommended dose is 600 mg twice daily. Common side effects include nausea, diarrhea, headache, abdominal pain, dyspnea, fatigue, itching, rash, sleep disturbance, and somnolence. Less common but potentially severe adverse events include immune reconstitution syndrome, QTc prolongation, peripheral neuropathy and worsening of chronic coinfection with hepatitis B or C virus.</p>
+        </sec>
+        <sec id="Fostemsavir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In registration clinical trials, fostemsavir was associated with alanine aminotransferase (ALT) elevations in up to 25% of patients, but levels above 5 times the upper limit of normal (ULN) arose in only 4% of subjects. Most ALT elevations were transient, asymptomatic, and did not require dose modification or discontinuation. The more marked ALT elevations were usually attributable to other conditions or complications of HIV infection. No convincing cases of fostemsavir induced liver injury were observed in preregistration trials. Since approval of fostemsavir for use as a part of a multidrug therapy of HIV, there have been no published case reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Interestingly, in the large preregistration trial of fostemsavir, elevations in serum aminotransferase levels were particularly noted in patients with coinfection with either hepatitis B virus (HBV) or hepatitis C virus (HCV). The deaths from liver disease in this trial appeared to be due to worsening of the coinfection during therapy. Clearly, patients with HBV or HCV coinfection should be treated for those viral infections before or concurrent with antiretroviral therapy with fostemsavir.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fostemsavir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Fostemsavir is metabolized predominantly by esterase mediated hydrolysis and to a lesser extent by hepatic microsomal enzymes, predominantly CYP 3A4. Strong inducers of CYP 3A4 have the potential of lowering levels of fostemsavir and should be avoided if possible.</p>
+        </sec>
+        <sec id="Fostemsavir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations during fostemsavir therapy are generally transient, mild-to-moderate in severity, and often attributable to other causes. Because of the complexity of therapy for multidrug resistant HIV infection, caution should be used in altering the dose or discontinuation of fostemsavir unless the adverse events is clearly due to the gp120 attachment inhibitor.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fostemsavir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Fostemsavir &#x02013; Rukobia&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiviral Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fostemsavir">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Fostemsavir.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fostemsavir.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Fostemsavir.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fostemsavir.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fostemsavir.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fostemsavir.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fostemsavir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Fostemsavir</td>
+                <td headers="hd_h_Fostemsavir.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642762">864953-29-7</ext-link>
+</td>
+                <td headers="hd_h_Fostemsavir.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C25-H26-N7-O8-P</td>
+                <td headers="hd_h_Fostemsavir.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163642762" document-id-type="sid" document-type="summary" object-id="163642762" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fostemsavir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 June 2023</p>
+        <p>Abbreviations: HBV, hepatitis B virus; HCV, hepatitis C virus; HIV, human immunodeficiency virus.</p>
+        <ref-list id="Fostemsavir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fostemsavir.REF.n__ez.2013">
+            <mixed-citation publication-type="book">N&#x000fa;&#x000f1;ez M. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 505-18.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents does not include fostemsavir or gp120 attachment inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.flexner.2018">
+            <mixed-citation publication-type="book">Flexner C. Antiretroviral agents and treatment of HIV infection. In, Brunton LL, Hillal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1137-57.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fostemsavir.REF3">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://hivinfo.nih.gov/hiv-source/medical-practice-guidelines/hiv-treatment-guidelines">https://hivinfo.nih.gov/hiv-source/medical-practice-guidelines/hiv-treatment-guidelines</ext-link>
+<annotation><p>
+<italic toggle="yes">(Clinical guidelines on the use of antiretroviral agents in HIV-1 infected adults, adolescents and children).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212950Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212950Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and the integrated review of the data submitted in support of the approval of fostemsavir, mentions among 371 adults with multidrug resistant HIV infection treated with fostemsavir, ALT elevations arose in 91 patients [25%] that rose above 5 times ULN in 15 [4%] and were associated with jaundice in 6, but most events could be attributed to other diagnoses and &#x0201c;There is no clear evidence of fostemsavir induced liver injury&#x0201d;, several cases of liver injury being flares of hepatitis B due to withdrawal of antiretroviral drugs with HBV activity and some being due to progression of concurrent chronic hepatitis C).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 were due to antiretroviral agents, but none were attributed to fostemsavir).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.thompson.2017.215">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thompson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lalezari</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Kaplan</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Pinedo</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Pena</surname><given-names>OAS</given-names></name>
+<name name-style="western"><surname>Cahn</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Stock</surname><given-names>DA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>AI438011 study team. Safety and efficacy of the HIV-1 attachment inhibitor prodrug fostemsavir in antiretroviral-experienced subjects: week 48 analysis of AI438011, a Phase IIb, randomized controlled trial.</article-title>
+              <source>Antivir Ther.</source>
+              <year>2017</year>
+              <volume>22</volume>
+              <issue>3</issue>
+              <fpage>215</fpage>
+              <lpage>223</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 251 adults with treatment-experienced HIV infection receiving tenofovir and raltegravir who had persistence of HIV RNA levels above 1000 copies/mL and were treated with fostemsavir [in 4 different dose regimens] vs atazanavir/ritonavir, suppression of HIV RNA to less than 50 copies/mL was achieved in 69-91% of those on fostemsavir vs 88% on atazanavir, and adverse event rates were similar, ALT elevations above 5 times ULN arising only with the once daily 1200 mg dose of fostemsavir [4%] and with no cases of liver injury with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27922453</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.markham.2020.1485">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Fostemsavir: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2020</year>
+              <volume>80</volume>
+              <fpage>1485</fpage>
+              <lpage>1490</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the chemical structure, mechanism of action, history of development, clinical efficacy and safety of fostemsavir, a prodrug of temsavir which binds to the gp120 subunit of the HIV envelope protein, blocking its attachment to CD4+ lymphocyte cell surface receptors, mentions that ALT elevations above 5 times ULN arose in 5% and bilirubin levels above 2.5 mg/dL in 7% of treated patients, but does not mention occurrence or rates of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32852743</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.kozal.2020.1232">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kozal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pialoux</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cahn</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Molina</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Grinsztejn</surname><given-names>B</given-names></name>
+<etal/>
+<collab>BRIGHTE Trial Team</collab>
+</person-group>
+              <article-title>Fostemsavir in adults with multidrug-resistant HIV-1 infection.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1232</fpage>
+              <lpage>1243</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 371 adults with multidrug resistant HIV infection treated with optimized background therapy and addition of fostemsavir [600 mg twice daily] for 48 weeks, suppression of HIV RNA to less than 40 copies/mL was achieved in 38-54% of patients, while the total adverse event rate was 90%, serious adverse event rate 35%, and mortality rate 7%: 2 of the 25 deaths were from hepatic failure &#x02013; one due to flare of hepatitis B and one to progression of chronic hepatic C; ALT elevations above 5 times ULN occurred in 11 patients [3%] and led to drug discontinuation in 3 patients including the 2 who died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32212519</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.lataillade.2020.e740">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lataillade</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lalezari</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Kozal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aberg</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Pialoux</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cahn</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of the HIV-1 attachment inhibitor prodrug fostemsavir in heavily treatment-experienced individuals: week 96 results of the phase 3 BRIGHTE study.</article-title>
+              <source>Lancet HIV.</source>
+              <year>2020</year>
+              <volume>7</volume>
+              <fpage>e740</fpage>
+              <lpage>e751</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a further follow up of the phase 3 trial of fostemsavir in 371 adults with multidrug resistant HIV infection [Kozal 2020], the rate of successful viral suppression was sustained from week 48 to 96 and CD4 lymphocyte counts continued to increase, while no new adverse events were observed; no mention of ALT elevations or further hepatic events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33128903</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.rivera.2021.279">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rivera</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Otto</surname><given-names>AO</given-names></name>
+<name name-style="western"><surname>Zeuli</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Temesgen</surname><given-names>Z</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of contemporary antiretroviral drugs.</article-title>
+              <source>Curr Opin HIV AIDS.</source>
+              <year>2021</year>
+              <volume>16</volume>
+              <fpage>279</fpage>
+              <lpage>285</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of drugs approved for treatment of HIV infection in the US, mentions that fostemsavir had no episodes of discontinuation for drug induced liver injury, but that ALT elevations above 5 times ULN arose in 4% of treated patients and resulted in discontinuation in 4 subjects, the liver injury in each case was attributed to other causes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34545037</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Fostemsavir.REF.ackerman.2021.1061">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ackerman</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Molina</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Aberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cassetti</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Kozal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Castagna</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term efficacy and safety of fostemsavir among subgroups of heavily treatment-experienced adults with HIV-1.</article-title>
+              <source>AIDS</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <fpage>1061</fpage>
+              <lpage>1072</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Further analysis of the phase 3 trial of fostemsavir in 371 patients with multidrug resistant HIV infection [Koval 020] demonstrated virologic responses observed at 24 weeks were maintained long term (to week 96] with gradual increase in CD4 lymphocyte counts overall, and that higher response rates and fewer adverse events occurred among patients with higher baseline CD4 counts and lower baseline HIV RNA levels; no mention of hepatic adverse events or ALT levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33946085</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Fostemsavir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Fostemsavir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Fostemsavir: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fostemsavir">Trials on Fostemsavir: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

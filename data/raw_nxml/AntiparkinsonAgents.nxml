@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AntiparkinsonAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AntiparkinsonAgents</book-part-id>
+      <title-group>
+        <title>Parkinson Disease Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>10</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pantoprazole" document-type="chapter">Pantoprazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Paroxetine" document-type="chapter">Paroxetine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AntiparkinsonAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Parkinson disease is a progressive neurological condition characterized by slowness and paucity of movement (bradykinesia), muscle rigidity, resting tremors, and disordered posture. The onset is typically in the 6th or 7th decade of life with slow progression to akinesia, severe tremors, physical disability and death within 10 to 25 years of initial symptoms. Parkinson disease is common and affects approximately 1% of Americans above the age of 60 years. The cause of Parkinson disease is unknown, but is marked by loss of dopamine-containing neurons in the substantia nigra pars compacta of the brainstem and loss of normal dopaminergic neurotransmission. Therapy of Parkinson disease continues to evolve and has resulted in improved quality of life and survival.</p>
+        <p content-type="pubmed-excerpt">The initial agents used for Parkinson disease were anticholinergic agents including trihexyphenidyl (Artane, Trihexy: 1949), benztropine (Cogentin: 1954), and biperiden (Akineton: 1959); their mechanism of action in Parkinsonism is not completely clear. With the increased understanding of the role of dopamine in the pathophysiology of Parkinsonism, agents that directly or indirectly affect dopaminergic transmission have been developed that have resulted in marked improvements in the management of symptoms of Parkinson disease. Levodopa (L-DOPA: 1970) is a metabolic precursor of dopamine and is the single most effective agent for Parkinson disease. It is usually combined with carbidopa (Sinemet: 1975), which increases the drug levels and half life of levodopa by inhibiting the amino acid decarboxylase that metabolizes levodopa peripherally. Dopaminergic receptor agonists are also beneficial in Parkinson disease and are often combined with levodopa/carbidopa. Dopamine receptor agonists currently available include bromocriptine (1978: Parlodel), pergolide (Permax: 1988), apomorphine (Apokyn: 2004) and more selective agonists for the D2 class of dopamine receptors &#x02013; ropinirole (Requip: 1997), pramipexole (Mirapex: 1997) and rotigotine (Neupro which is formulated in a transdermal patch: 2007). More recently, inhibitors of catechol-O-methyltransferase (COMT) have been developed that block the major enzyme responsible for the metabolism of dopamine; these agents include tolcapone (Tasmar: 1998), entacapone (Comtan: 2003), and opicapone (Ongentys: 2020). Dopamine is also metabolized by the monoamine oxidases and selegiline (Atapryl: 2006) and rasagiline (Azilect: 2007), which are specific inhibitors of monoamine oxidase (MAO) type B and are used as adjunctive therapy with levodopa in the management of Parkinson disease. Amantadine (Symmetrel: 1987) also has activity in Parkinson disease, perhaps through stimulation of release of dopamine in the substantial nigra. It is discussed separately as an anti-influenza agent. Istradefylline (Nourianz: 2019) is a new class of anti-Parkinson agents that is an antagonist of the adenosine 2A (A<sub>2A</sub>) receptor, which is important in non-dopamine central nervous system pathways involved in movement disorders. Other agents used in the management of Parkinson disease are used to treat specific complications such as psychosis (pimavanserin: Nuplazid, 2016) and postural hypotension (droxidopa: Vectibix, 2014).</p>
+        <p content-type="pubmed-excerpt">Most of the drugs used to treat Parkinson disease have little potential for hepatotoxicity and are rare causes of clinically apparent acute liver injury, the exception being tolcapone. The full references on hepatotoxicity and safety of the drugs for Parkinson disease are given in the discussion of the individual agents listed below.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Anticholinergics" document-type="chapter">Anticholinergic Agents</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Benztropine" document-type="chapter">Benztropine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Biperiden" document-type="chapter">Biperiden</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trihexyphenidyl" document-type="chapter">Trihexyphenidyl</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>COMT Inhibitors</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Entacapone" document-type="chapter">Entacapone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Opicapone" document-type="chapter">Opicapone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tolcapone" document-type="chapter">Tolcapone</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Dopamine Precursors</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="LevodopaCarbodopa" document-type="chapter">Levodopa and Carbidopa</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Dopamine Receptor Agonists</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Apomorphine" document-type="chapter">Apomorphine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bromocriptine" document-type="chapter">Bromocriptine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pergolide" document-type="chapter">Pergolide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pramipexole" document-type="chapter">Pramipexole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ropinirole" document-type="chapter">Ropinirole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rotigotine" document-type="chapter">Rotigotine</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Selective MAO Inhibitors</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Rasagiline" document-type="chapter">Rasagiline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Safinamide" document-type="chapter">Safinamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Selegiline" document-type="chapter">Selegiline</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Others</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Amantadine" document-type="chapter">Amantadine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Diphenhydramine" document-type="chapter">Diphenhydramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Droxidopa" document-type="chapter">Droxidopa</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Istradefylline" document-type="chapter">Istradefylline </related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pimavanserin" document-type="chapter">Pimavanserin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rivastigmine" document-type="chapter">Rivastigmine</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="AntiparkinsonAgents.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 October 2021</p>
+        <p>Abbreviations used: COMT, catechol O-methyltransferase; MAO, monoamine oxidase.</p>
+        <ref-list id="AntiparkinsonAgents.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="AntiparkinsonAgents.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.roberson.2018">
+            <mixed-citation publication-type="book">Roberson ED. Parkinson Disease. Treatment of central nervous system degenerative disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 328-333.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to agents used for Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.drugs_for_parkinsons_disease.2013.101">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for Parkinson's disease</collab>
+</person-group>
+              <source>Treat Guidel Med Lett</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <issue>135</issue>
+              <fpage>101</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24165688</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.drugs_for_parkinsons_disease.2017.187">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for Parkinson's disease</collab>
+</person-group>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1534</issue>
+              <fpage>187</fpage>
+              <lpage>194</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications approved for use in Parkinson disease including levodopa/carbidopa, dopamine agonists, MAO-B inhibitors, anticholinergics, and COMT inhibitors, mentions hepatotoxicity of tolcapone but not of levodopa or any of the other adjunctive therapies: &#x0201c;Use of tolcapone requires written informed consent and monitoring of liver function every 2-4 weeks for the first 6 months of treatment and periodically thereafter. Serious hepatoxicity has not been reported with entacapone&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29136401</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.margolesky.2017.1756285617737728">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Margolesky</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Singer</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Extended-release oral capsule of carbidopa-levodopa in Parkinson disease.</article-title>
+              <source>Ther Adv Neurol Disord.</source>
+              <year>2017</year>
+              <volume>11</volume>
+              <elocation-id>1756285617737728</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacology, efficacy and safety of extended release carbidopa/levodopa in listing of reported adverse reactions there is no mention of serious hepatic events or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29399046</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.drugs_for_parkinsons_disease.2021.25">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for Parkinson's disease</collab>
+</person-group>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1618</issue>
+              <fpage>25</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of current medications approved for use in Parkinson disease including levodopa/carbidopa, dopamine agonists, COMT inhibitors, MAO-B inhibitors, anticholinergics, and istradefylline, mentions hepatotoxicity of tolcapone but not of levodopa or any of the adjunctive therapies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33647001</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntiparkinsonAgents.REF.hauser.2021.1663">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hauser</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Hattori</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fernandez</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Isaacson</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Mochizuki</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rascol</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Stocchi</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy of istradefylline, an adenosine A2A receptor antagonist, as adjunctive therapy to levodopa in Parkinson's disease: a pooled analysis of 8 phase 2b/3 trials.</article-title>
+              <source>J Parkinsons Dis.</source>
+              <year>2021</year>
+              <volume>11</volume>
+              <fpage>1663</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a pooled analysis of 8 randomized placebo-controlled trials of istradefylline in 2719 patients with Parkinson disease and motor complications, while adverse event rates were similar in the 3 groups [71% and 70% vs 65%] except for dyskinesia [16% and 18% vs 10%], and &#x0201c;no clinically meaningful changes in laboratory parameters&#x02026;were observed&#x0201d; in any group including those on levodopa/carbidopa alone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34486986</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

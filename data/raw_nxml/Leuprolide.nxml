@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Leuprolide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Leuprolide</book-part-id>
+      <title-group>
+        <title>Leuprolide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="LeukotrieneRcptAntag" document-type="chapter">Leukotriene Receptor Antagonists</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Levetiracetam" document-type="chapter">Levetiracetam</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Leuprolide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Leuprolide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Leuprolide is a parenterally administered, gonadotropin releasing hormone (GnRH) agonist which causes an inhibition of estrogen and androgen production and is used predominantly to treat advanced prostate cancer. Leuprolide has been associated with a modest rate of serum enzyme elevations during therapy, but has not been convincingly linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Leuprolide.Background">
+          <title>Background</title>
+          <p>Leuprolide (loo' proe lide), also called leuprorelin (loo" proe rel' in), is a nonapeptide analogue of gonadotropin releasing hormone (GnRH) that acts as a partial agonist of the gonadotropin receptors in the pituitary that induce secretion of luteinizing hormone (LH) and follicle stimulating hormone (FSH). These gonadotropins cause production and secretion of testosterone by the male testes and estrogen by the female ovaries. The continued receptor occupancy by leuprolide, however, ultimately causes a down-regulation of production of LH and FSH and a resultant decrease in testosterone and estrogen levels. Leuprolide, alone or in combination with other antiandrogens, has been found to be palliative in advanced prostate cancer. Leuprolide was approved for use in the United States in 1989 and is still widely used, being considered a first line therapy in management of prostate cancer, the GnRH agonists having largely replaced surgical castration in the medical management of prostate cancer. Leuprolide is also used off label for hormonally sensitive benign conditions such as endometriosis, uterine fibroids, precocious puberty, infertility, and gender affirming therapy. Leuprolide is available generically and under the brand name Lupron in solution for daily subcutaneous injections (1 mg) or in long acting depot forms which are administered intramuscularly every 1 (7.5 mg), 3 (22.5 mg), 4 (30 mg) or 6 (45 mg) months. Leuprolide and the other GnRH analogues cause a profound hypogonadism ("chemical castration") and its common side effects are typical of androgen deprivation, including hot flashes, loss of libido, erectile dysfunction, depression, nausea, diarrhea, weight gain and fluid retention. Rare, but potentially severe adverse events include immediate hypersensitivity reactions, pituitary apoplexy and, with long term use, weight gain, metabolic changes, diabetes and osteoporosis.</p>
+        </sec>
+        <sec id="Leuprolide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Leuprolide has been associated with mild serum enzyme elevations during therapy in 3% to 5% of patients, but values above 3 times the upper limit of normal are rare, being reported in less than 1% of recipients. The serum enzyme elevations during leuprolide therapy have generally been transient and asymptomatic, resolving even with drug continuation and rarely requiring dose modification or discontinuation. Despite use for several decades, leuprolide has not been linked to convincing cases of clinically apparent liver injury. Routine monitoring of patients for liver test abnormalities is not recommended.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Leuprolide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver test abnormalities during leuprolide therapy is not known. Leuprolide is a short polypeptide and is metabolized locally in many tissues. It is not metabolized by the hepatic cytochrome P450 system and has not been associated with significant drug-drug interactions. Some serum enzyme elevations may be caused by nonalcoholic fatty liver, arising because of weight gain or metabolic changes caused by the androgen deprivation state induced by the GnRH agonist.</p>
+        </sec>
+        <sec id="Leuprolide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations that occur on leuprolide therapy usually do not require dose adjustment or drug discontinuation, but should lead to a search for other causes of liver disease. There is no evidence to indicate that there is cross sensitivity to liver injury among the various GnRH analogues.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GnRHAnalogues" document-type="chapter">GnRH Analogues</related-object></p>
+          <p>Other Drugs in the Subclass, GnRH Analogues: <related-object link-type="booklink" source-id="livertox" document-id="Degarelix" document-type="chapter">Degarelix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Goserelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Relugolix" document-type="chapter">Relugolix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Triptorelin" document-type="chapter">Triptorelin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Leuprolide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Leuprolide &#x02013; Generic, Lupron&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Leuprolide">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Leuprolide.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Leuprolide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Leuprolide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Leuprolide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Leuprolide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Leuprolide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Leuprolide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Leuprolide</td>
+                <td headers="hd_h_Leuprolide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135004318">53714-56-0</ext-link>
+</td>
+                <td headers="hd_h_Leuprolide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C59-H84-N16-O12</td>
+                <td headers="hd_h_Leuprolide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135004318" document-id-type="sid" document-type="summary" object-id="135004318" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Leuprolide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 May 2023</p>
+        <p>Abbreviations: FSH, follicle stimulating hormone; GnRH, gonadotropin releasing hormone; LH, luteinizing hormone; PSA, prostate specific antigen.</p>
+        <ref-list id="Leuprolide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Leuprolide.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; leuprolide is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Leuprolide.REF.chitturi.2013">
+            <mixed-citation publication-type="book">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hormonal products; does not discuss the GnRH agonists such as leuprolide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Leuprolide.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-48.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Leuprolide.REF.levin.2018">
+            <mixed-citation publication-type="book">Levin ER, Vitek WS, Hammes SR. Estrogens, progestins, and the female reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 803-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Leuprolide.REF.snyder.2018">
+            <mixed-citation publication-type="book">Snyder PJ. Androgens and the male reproductive tract. In, Brunton LL, Halal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 833-43.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Leuprolide.REF.leuprolide_study_group.1984.1281">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Leuprolide Study Group</collab>
+</person-group>
+              <article-title>Leuprolide versus diethylstilbestrol for metastatic prostate cancer.</article-title>
+              <source>N Engl J Med</source>
+              <year>1984</year>
+              <volume>311</volume>
+              <fpage>1281</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 177 patients with advanced prostate cancer treated with leuprolide or DES, objective response rates were similar with both agents, but side effects were less with leuprolide; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6436700</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.dlugi.1990.419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dlugi</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Knittle</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Lupron depot (leuprolide acetate for depot suspension) in the treatment of endometriosis: a randomized, placebo-controlled, double-blind study. Lupron Study Group.</article-title>
+              <source>Fertil Steril</source>
+              <year>1990</year>
+              <volume>54</volume>
+              <fpage>419</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 52 women with endometriosis treated with monthly injections of leuprolide or placebo for 6 months, there were minor changes in mean AST [18 to 22 U/L] and Alk P [62 to 79 U/L] levels in leuprolide treated patients, but these were not considered clinically important).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2118858</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.eri.1994.448">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eri</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Tveter</surname><given-names>KJ</given-names></name>
+</person-group>
+              <article-title>Safety, side effects and patient acceptance of the luteinizing hormone releasing hormone agonist leuprolide in treatment of benign prostatic hyperplasia.</article-title>
+              <source>J Urol</source>
+              <year>1994</year>
+              <volume>152</volume>
+              <issue>2 Pt 1</issue>
+              <fpage>448</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 50 men with benign prostatic hyperplasia treated with leuprolide or placebo injections monthly for 6 months, side effects were frequent, and tolerance was poor with leuprolide including hot flashes, erectile dysfunction, weight gain and fatigue; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7516978</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.maillefert.1994.1199">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Maillefert</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Sibilia</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kuntz</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Tavernier</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Gonadotrophin-releasing hormone agonists induce osteoporosis.</article-title>
+              <source>Br J Rheumatol</source>
+              <year>1994</year>
+              <volume>33</volume>
+              <fpage>1199</fpage>
+              <lpage>200</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two men with prostate cancer, ages 58 and 69 years, were treated with leuprolide for 3 years and triptorelin for 9 months when they presented with back pain and vertebral fractures, which were not present on pretreatment imaging).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8000764</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.kienle.1996.23">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kienle</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>L&#x000fc;bben</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of leuprorelin acetate depot for prostate cancer. The German Leuprorelin Study Group.</article-title>
+              <source>Urol Int</source>
+              <year>1996</year>
+              <volume>56</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>23</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 205 men with prostate cancer treated with monthly subcutaneous depot leuprolide, the major side effect was hot flashes: no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.fowler.2000.730">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fowler</surname><given-names>JE</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Gottesman</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Reid</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Andriole</surname><given-names>GL</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Soloway</surname><given-names>MS</given-names></name>
+</person-group>
+              <article-title>Safety and efficacy of an implantable leuprolide delivery system in patients with advanced prostate cancer.</article-title>
+              <source>J Urol</source>
+              <year>2000</year>
+              <month>Sep</month>
+              <volume>164</volume>
+              <issue>3 Pt 1</issue>
+              <fpage>730</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 27 patients who received one and 24 who receive two leuprolide implants with controlled drug delivery, testosterone suppression was maintained for a year and adverse events included hot flashes [75%], depression [10%], impotence [6%] and fatigue [8%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10953135</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.hands.2007.642">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hands</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Alvarez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bruder</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone agonist-induced pituitary apoplexy in treatment of prostate cancer: case report and review of literature.</article-title>
+              <source>Endocr Pract</source>
+              <year>2007</year>
+              <volume>13</volume>
+              <fpage>642</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 7 cases of pituitary apoplexy occurring after initiation of GnRH agonist therapy for prostate cancer).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17954421</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.klotz.2008.1531">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Klotz</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Boccon-Gibod</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Andreou</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+<name name-style="western"><surname>Cantor</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jensen</surname><given-names>JK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The efficacy and safety of degarelix: a 12-month, comparative, randomized, open-label, parallel-group phase III study in patients with prostate cancer.</article-title>
+              <source>BJU Int</source>
+              <year>2008</year>
+              <volume>102</volume>
+              <issue>11</issue>
+              <fpage>1531</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 610 patients with advanced prostate cancer treated with degarelix or leuprolide, common adverse events included injection site reactions [40% vs &#x0003c;1%], hot flashes [26% vs 21%], weight gain [10% vs 12%] and ALT elevations [9% vs 5%]; one patient on degarelix stopped therapy because of liver test abnormalities, but there were no instances of clinically apparent liver injury or liver injury with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19035858</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.guerra.2010.54">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guerra</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lacuesta</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Marquez</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Raksin</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Utset</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fogelfeld</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Apoplexy in nonfunctioning pituitary adenoma after one dose of leuprolide as treatment for prostate cancer.</article-title>
+              <source>Pituitary</source>
+              <year>2010</year>
+              <volume>13</volume>
+              <fpage>54</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old man with prostate cancer developed headaches and neurologic symptoms within 24 hours of a first injection of leuprolide, and subsequent evaluation revealed a previously unsuspected nonfunctioning pituitary adenoma).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19842040</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.marberger.2010.744">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marberger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kaisary</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Shore</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Karlin</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>Savulsky</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Mis</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Leuratti</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Germa</surname><given-names>JR</given-names></name>
+</person-group>
+              <article-title>Effectiveness, pharmacokinetics, and safety of a new sustained-release leuprolide acetate 3.75-mg depot formulation for testosterone suppression in patients with prostate cancer: a Phase III, open-label, international multicenter study.</article-title>
+              <source>Clin Ther</source>
+              <year>2010</year>
+              <volume>32</volume>
+              <fpage>744</fpage>
+              <lpage>57</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 160 men with advanced prostate cancer treated with leuprolide [3.75 mg by subcutaneous depot injection] monthly for 6 months, the major side effects were hot flashes [45%] and injection site reactions [18%]; "All changes from baseline or shifts in routine laboratory values...were judged not clinically significant").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20435244</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.crawford.2011.201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Crawford</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Phillips</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Six-month gonadotropin releasing hormone (GnRH) agonist depots provide efficacy, safety, convenience, and comfort.</article-title>
+              <source>Cancer Manag Res.</source>
+              <year>2011</year>
+              <volume>3</volume>
+              <fpage>201</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of results on two GnRH agonist depot formulations for advanced prostate cancer that allow for every 6-month administration [leuprolide and triptorelin], both provide sustained testosterone suppression and have adverse side effects similar to other GnRH agonist formulations; mentions a single episode of ALT and AST elevation in a patient receiving triptorelin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21847353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.lee.2012.1572">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lee</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mauras</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Neely</surname><given-names>EK</given-names></name>
+<name name-style="western"><surname>Bloch</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Larsen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mattia-Goldberg</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chwalisz</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of leuprolide acetate 3-month depot 11.25 milligrams or 30 milligrams for the treatment of central precocious puberty.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2012</year>
+              <volume>97</volume>
+              <fpage>1572</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 84 children with precocious puberty treated with leuprolide 3-month depot injections [11.25 versus 30 mg], hormonal suppression was better with the higher dose and adverse events were similar, including injection site pain [23%], headache [20%] and weight gain [8%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22344198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.van_poppel.2012.594">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Van Poppel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Klotz</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone: an update review of the antagonists versus agonists.</article-title>
+              <source>Int J Urol</source>
+              <year>2012</year>
+              <volume>19</volume>
+              <fpage>594</fpage>
+              <lpage>601</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of androgen deprivation therapy for prostate cancer using GnRH agonists and antagonists stressing the more rapid onset of action and similar if not better safety profile of GnRH antagonists).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22416801</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.walker.2013.375">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Walker</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Robinson</surname><given-names>JW</given-names></name>
+</person-group>
+              <article-title>Luteinizing hormone--releasing hormone agonists: a quick reference for prevalence rates of potential adverse effects.</article-title>
+              <source>Clin Genitourin Cancer</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <fpage>375</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of adverse event profile of long term use of GnRH agonists which mostly relate to the hormonal changes that occur such as hot flashes, gynecomastia, genital shrinkage, hair loss, osteoporosis, mild anemia, hyperglycemia, increased weight, loss of skeletal muscle mass, emotional lability, depression, loss of sexual desire and erectile dysfunction; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23891497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to leuprolide or any of the GnRH analogues).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.braeckman.2014.477">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Braeckman</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Michielsen</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Efficacy and tolerability of 1- and 3-month leuprorelin acetate depot formulations (Eligard(&#x000ae;)/Depo-Eligard(&#x000ae;)) for advanced prostate cancer in daily practice: a Belgian prospective non-interventional study.</article-title>
+              <source>Arch Med Sci</source>
+              <year>2014</year>
+              <volume>10</volume>
+              <fpage>477</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 243 Belgian men with prostate cancer treated with either 1- or 3-month depot formulations of leuprolide, the most common adverse events were injection site pain [19%], hot flashes [9%] and transient tumor flares [5%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25097577</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.lee.2014.3153">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lee</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mauras</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Lev-Vaisler</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Bacher</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>36-month treatment experience of two doses of leuprolide acetate 3-month depot for children with central precocious puberty.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2014</year>
+              <volume>99</volume>
+              <fpage>3153</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 72 children followed in 20 pediatric centers for precocious puberty who were treated with the 3-month depot formulations of leuprolide [11.25 or 30 mg] for up to 3 years, hormonal suppression was similar with the two doses as were adverse events, and "no new or unexpected safety concerns were identified based on laboratory testing").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24926950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.miller.2015.105">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miller</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Simson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Goble</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>BE</given-names></name>
+</person-group>
+              <article-title>Efficacy of degarelix in prostate cancer patients following failure on luteinizing hormone-releasing hormone agonist treatment: results from an open-label, multicentre, uncontrolled, phase II trial(CS27).</article-title>
+              <source>Ther Adv Urol</source>
+              <year>2015</year>
+              <volume>7</volume>
+              <fpage>105</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 37 patients with advanced prostate cancer who had failed therapy with a GnRH agonist [including leuprolide], switching to degarelix for up to 1 year yielded a low rate of response [8%], with poor tolerance and a high dropout rate; changes in clinical chemistry results were "small, with no consistent trends").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26161141</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.chalasani.2015">
+            <mixed-citation publication-type="other">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e.7.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to leuprolide or any of the GnRH analogues).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Leuprolide.REF.gava.2016.239">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gava</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cerpolini</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Martelli</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Battista</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Seracchioli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Meriggiola</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Cyproterone acetate vs leuprolide acetate in combination with transdermal oestradiol in transwomen: a comparison of safety and effectiveness.</article-title>
+              <source>Clin Endocrinol (Oxf)</source>
+              <year>2016</year>
+              <volume>85</volume>
+              <fpage>239</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 40 trans-women treated with cyproterone or leuprolide combined with transdermal estrogens for 12 months, suppression of gonadotrophins was achieved in both groups and no major adverse events occurred; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26932202</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.shiba.2016.499">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shiba</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Yamashita</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kurebayashi</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Noguchi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Iwase</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ohashi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Sasai</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized controlled study evaluating safety and efficacy of leuprorelin acetate every-3-months depot for 2 versus 3 or more years with tamoxifen for 5 years as adjuvant treatment in premenopausal patients with endocrine-responsive breast cancer.</article-title>
+              <source>Breast Cancer</source>
+              <year>2016</year>
+              <volume>23</volume>
+              <fpage>499</fpage>
+              <lpage>509</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 222 premenopausal Japanese women with breast cancer treated with tamoxifen and adjuvant leuprorelin for 2 vs 3 or more years, estrogen levels remained suppressed with continued therapy and disease-free survival remained high, while adverse events were similar; 1 subject developed ALT elevations above 5 times ULN and rates of hepatic steatosis were 10% [2 years only] vs 14% [3 years or more]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25655898</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.kurebayashi.2017.161">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kurebayashi</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Toyama</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Sumino</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Miyajima</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Fujimoto</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of leuprorelin acetate 6-month depot, TAP-144-SR (6M), in combination with tamoxifen in postoperative, premenopausal patients with hormone receptor-positive breast cancer: a phase III, randomized, open-label, parallel-group comparative study.</article-title>
+              <source>Breast Cancer</source>
+              <year>2017</year>
+              <volume>24</volume>
+              <fpage>161</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 167 premenopausal women with breast cancer treated with tamoxifen and leuprorelin [depot injections every 3 or 6 months], adverse events included hot flush [55%], injection site pain [30%], headache [24%] and back pain [12%] and one patient in each group discontinued therapy because of liver enzyme elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27017207</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.bolton.2018.371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bolton</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Lynch</surname><given-names>TH</given-names></name>
+</person-group>
+              <article-title>Are all gonadotropin-releasing hormone agonists equivalent for the treatment of prostate cancer? A systematic review.</article-title>
+              <source>BJU Int</source>
+              <year>2018</year>
+              <volume>122</volume>
+              <issue>3</issue>
+              <fpage>371</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on relative efficacy and safety of different GnRH agonists, indicates that there is little evidence of superiority of any of the four, largely because of lack of adequately powered, controlled studies comparing them).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29438592</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.cornford.2018.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cornford</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jefferson</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cole</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Gilbody</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Effects of initiating or switching to a six-monthly triptorelin formulation on prostate cancer patient-healthcare interactions and hospital resource use: a real-world, retrospective, non-interventional study.</article-title>
+              <source>Oncol Ther.</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>173</fpage>
+              <lpage>187</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 41 adults with advanced prostate cancer who were switched from every 1 or 3 monthly GnRH regimen to 6 monthly triptorelin, healthcare visits, injections and PSA testing were less as were adverse side effects including fatigue [12% vs 26%], urinary frequency [9% vs 32%], and bone pain [7% vs 14%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32700031</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.shore.2020.2187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shore</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Saad</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Cookson</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>George</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Saltzstein</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Tutrone</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Akaza</surname><given-names>H</given-names></name>
+<etal/>
+<collab>HERO Study Investigators</collab>
+</person-group>
+              <article-title>Oral relugolix for androgen-deprivation therapy in advanced prostate cancer.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>2187</fpage>
+              <lpage>2196</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 930 men with advanced prostate cancer treated with relugolix [120 mg daily by mouth] or leuprolide [by injection every 3 months] for 48 weeks, sustained suppression of testosterone to castration levels was achieved by 97% on relugolix vs 89% on leuprolide while common adverse event rates were similar with ALT elevations above 3 times ULN in 1.4% vs 1.3%, although major adverse cardiovascular events arose in 2.8% vs 5.6%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32469183</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.sawazaki.2020.425">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sawazaki</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kitamura</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yagi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Arai</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Impact of androgen deprivation therapy on non-alcoholic fatty liver disease in patients with prostate cancer: a CT evaluation.</article-title>
+              <source>Urol Int.</source>
+              <year>2020</year>
+              <volume>104</volume>
+              <fpage>425</fpage>
+              <lpage>430</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 77 patients with prostate cancer treated with androgen deprivation therapy [32 with leuprolide and 45 degarelix] for 6 months, computerized tomography demonstrated development of fatty liver in 7 patients but little change in body weight).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32396918</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.wallach.2021.e2130587">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wallach</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McCoy</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Dhruva</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Herrin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Berkowitz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Polley</surname><given-names>EC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real-world cardiovascular outcomes associated with degarelix vs leuprolide for prostate cancer treatment.</article-title>
+              <source>JAMA Netw Open.</source>
+              <year>2021</year>
+              <volume>4</volume>
+              <elocation-id>e2130587</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2226 men with advanced prostate cancer who initiated degarelix or leuprolide therapy between 2007 and 2019 who were propensity-matched for risk factors, major adverse cardiovascular event [MACE] rates were similar in the two groups [10.2 vs 8.6 per 100-patient years], although degarelix was associated with a high rate of death from any cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34677594</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.lopes.2021.1295">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lopes</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Higano</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Slovin</surname><given-names>SF</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Bigelow</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>S&#x000f8;rensen</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Melloni</surname><given-names>C</given-names></name>
+<etal/>
+<collab>PRONOUNCE Study Investigators</collab>
+</person-group>
+              <article-title>Cardiovascular safety of degarelix versus leuprolide in patients with prostate cancer: the primary results of the PRONOUNCE randomized trial.</article-title>
+              <source>Circulation.</source>
+              <year>2021</year>
+              <volume>144</volume>
+              <fpage>1295</fpage>
+              <lpage>1307</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 545 men with prostate cancer and concurrent atherosclerosis cardiovascular disease treated with degarelix or leuprolide for at least one year, major cardiovascular adverse events [MACE} arose in 5.5% vs 4.1% and rates of testosterone suppression, disease progression, discontinuations for adverse events and serious adverse event rates were similar in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34459214</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.lambertini.2022.400">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lambertini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Boni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Michelotti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Magnolfi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cogoni</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Mosconi</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Giordano</surname><given-names>M</given-names></name>
+<etal/>
+<collab>GIM study group</collab>
+</person-group>
+              <article-title>Long-term outcomes with pharmacological ovarian suppression during chemotherapy in premenopausal early breast cancer patients.</article-title>
+              <source>J Natl Cancer Inst.</source>
+              <year>2022</year>
+              <volume>114</volume>
+              <fpage>400</fpage>
+              <lpage>408</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 women with early onset breast cancer treated with chemotherapy with or without a GnRH analogue to preserve ovarian function, disease-free and overall survival were similar in the two groups and those given the GnRH analogue were slightly more likely to have a successful pregnancy during follow up [6.5% vs 3.2%]; no mention of other adverse events, ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34850043</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.popovic.2022.968485">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Popovic</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Geffner</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Rogol</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Silverman</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kaplowitz</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Mauras</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Zeitler</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Gonadotropin-releasing hormone analog therapies for children with central precocious puberty in the United States.</article-title>
+              <source>Front Pediatr.</source>
+              <year>2022</year>
+              <volume>10</volume>
+              <elocation-id>968485</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the 3 GnRH analogues used to treat children with precocious puberty including leuprolide, triptorelin, and histrelin which have different regimens of administration [intramuscular and subcutaneous] and durations of action [1-12 months]; no mention of liver adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36268040</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Leuprolide.REF.bahl.2022.s160">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bahl</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rajappa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rawal</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bakshi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Murthy</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Patil</surname><given-names>K.</given-names></name>
+</person-group>
+              <article-title>A review of clinical evidence to assess differences in efficacy and safety of luteinizing hormone-releasing hormone (LHRH) agonist (goserelin) and LHRH antagonist (degarelix).</article-title>
+              <source>Indian J Cancer.</source>
+              <year>2022</year>
+              <volume>59</volume>
+              <supplement>Supplement</supplement>
+              <fpage>S160</fpage>
+              <lpage>S174</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of studies comparing the efficacy and safety of the 3 GnRH analogues used in therapy of prostate cancer identified 12 studies which showed overall no differences in efficacy in reducing serum testosterone levels and, in 4 studies reporting data on safety, similar degrees of tolerance and rates of adverse events: no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35343199</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Leuprolide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Leuprolide+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Leuprolide: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Leuprolide">Trials on Leuprolide: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Entrectinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Entrectinib</book-part-id>
+      <title-group>
+        <title>Entrectinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Entecavir" document-type="chapter">Entecavir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Enzalutamide" document-type="chapter">Enzalutamide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Entrectinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Entrectinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Entrectinib is an oral selective inhibitor of the neurotrophic T receptor kinase (NTRK) and ROS1 that is used to treat solid tumors with NTRK gene fusion and non-small cell lung cancer with ROS1 mutations. Serum aminotransferase elevations are common during therapy but clinically apparent liver injury is rare, although it has been reported.</p>
+        </sec>
+        <sec id="Entrectinib.Background">
+          <title>Background</title>
+          <p>Entrectinib (en trek&#x02019; ti nib) is an orally available, small molecule inhibitor of the tropomyosin receptor kinase (TRK) which encodes the neurotrophic T receptor kinase (NTRK) 1, 2 and 3. Entrectinib also inhibits c-ros oncogene 1 (ROS1), a receptor tyrosine kinase and proto-oncogene expressed in several tumors, and the anaplastic lymphoma kinase (ALK) and has central nervous system activity. NTRK mutations are common in some very rare forms of cancer (infantile fibrosarcoma, congenital mesoblastic nephroma) and are infrequent in some common cancers (urothelial, pancreatic, lung and breast cancer). Entrectinib was found to be a potent inhibitor of cell growth and proliferation in tumor cell lines and experimental tumor models with NTRK fusion genes and has shown activity based upon the molecular target and gene protein profile rather than the organ involved or histologic form of cancer. Entrectinib has been approved in the United States and elsewhere for solid tumors with documented NTRK fusion genes and for non-small cell lung cancer with ROS-1 mutations. Entrectinib was approved for use in 2019 in the United States as therapy for adults with NSCLC and ROS1 gene mutations and for adults and children (aged 12 years or older) with advanced, unresectable or metastatic solid tumors harboring NTRK mutations. Entrectinib is available in capsules of 100 and 200 mg under the brand name Rozlytek. The recommended dose is 600 mg once daily in adults and 400 mg to 600 mg in children based upon body surface area. Side effects are common and arise in almost all patients treated with entrectinib and can include dysgeusia, diarrhea, weight gain, paresthesias, myalgias, arthralgias, edema, anemia, elevations in serum creatinine, uric acid, and aminotransferase levels. Uncommon but potentially severe adverse events include congestive heart failure, skeletal fractures, cognitive dysfunction, mood disorders, prolongation of the QT interval, visual disorders and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Entrectinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of entrectinib in patients with NTRK fusion gene positive solid tumors and ROS1 fusion gene positive non-small cell lung cancer, liver test abnormalities were frequent although usually mild. Some degree of ALT elevation arose in 38% of entrectinib treated patients, but were above 5 times the upper limit of normal (ULN) in only 2% to 3% (although the incidence may have been underestimated as 4.5% of patients had no post-treatment liver function tests). In these trials that enrolled approximately 355 patients, entrectinib was discontinued early due to increased AST or ALT in 0.8% of patients. Thus, in preregistration trials of entrectinib there were no instances of clinically apparent liver injury with jaundice, but therapy was associated with a high rate of serum ALT elevations and the total clinical experience with its use has been limited. The product label for entrectinib recommends monitoring for routine liver tests before, at 2 week intervals during the first month of therapy, and monthly thereafter as clinically indicated.</p>
+          <p>Likelihood score: E* (unproven but suspect rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Entrectinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury from entrectinib is unknown, but the pattern of abnormalities suggests some degree of low level, direct hepatotoxicity. Entrectinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+        </sec>
+        <sec id="Entrectinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation of entrectinib therapy. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors but there is no information or shared adverse event sensitivity of entrectinib with other antineoplastic protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Tyrosine Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Entrectinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Entrectinib &#x02013; Rozlytrek&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Kinase Inhibitors</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Entrectinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Entrectinib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Entrectinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Entrectinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Entrectinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Entrectinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Entrectinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Entrectinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Entrectinib</td>
+                <td headers="hd_h_Entrectinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://249748717">1108743-60-7</ext-link>
+</td>
+                <td headers="hd_h_Entrectinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C31-H34-F2-N6-O2</td>
+                <td headers="hd_h_Entrectinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="249748717" document-id-type="sid" document-type="summary" object-id="249748717" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Entrectinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 September 2021</p>
+        <p>Abbreviations: ALK, anaplastic lymphoma kinase; NSCLC, non-small cell lung cancer; NTRK, neurotrophic T receptor kinase; ROS1, c-ros oncogene 1.</p>
+        <ref-list id="Entrectinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Entrectinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p>(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entrectinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p>(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss entrectinib).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entrectinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p>(Textbook of pharmacology and therapeutics).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entrectinib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212725Orig1s000,%20212726Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212725Orig1s000,%20212726Orig1s000MultidisciplineR.pdf</ext-link><annotation><p>(FDA website with product labels and initial clinical review of the safety and efficacy of entrectinib; states that virtually all patients treated with entrectinib [n=355] had at least one adverse event, 39% had a serious adverse event, 38% of patients had an ALT elevation but only 2.9% were above 5 times ULN and there were no severe hepatic adverse events or instances of clinically apparent liver injury).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entrectinib.REF.ardini.2016.628">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ardini</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Menichincheri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Banfi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bosotti</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>De Ponti</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pulci</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ballinari</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Entrectinib, a pan-TRK, ROS1, and ALK inhibitor with activity in multiple molecularly defined cancer indications.</article-title>
+              <source>Mol Cancer Ther.</source>
+              <year>2016</year>
+              <volume>15</volume>
+              <fpage>628</fpage>
+              <lpage>39</lpage>
+              <annotation>
+                <p>(Review of the molecular targets of the multi-kinase inhibitor entrectinib with has activity against tumors with fusion genes involving all NTRK-1, -2 and -3 and demonstrated inhibitory activity in cell culture and animal models and is undergoing early phase studies in patients with solid tumors with NTRK gene fusions).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26939704</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.drilon.2017.400">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Drilon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Siena</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ou</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ahn</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bauer</surname><given-names>TM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and antitumor activity of the multitargeted pan-TRK, ROS1, and ALK inhibitor entrectinib: combined results from two phase I trials (ALKA-372-001 and STARTRK-1).</article-title>
+              <source>Cancer Discov.</source>
+              <year>2017</year>
+              <volume>7</volume>
+              <fpage>400</fpage>
+              <lpage>409</lpage>
+              <annotation>
+                <p>(Open label study of entrectinib in 119 patents with solid tumors using different dosing schedules found objective responses only in patients with a fusion gene involving NTRK1/2/3, ROS1 or ALK and side effects included fatigue in 46%, dysgeusia 42%, paresthesias 29%, nausea 28%, myalgias 23%, and diarrhea 19%, with dose reductions in 15% and two dose-limiting reactions [800 mg daily]: impaired cognition and eosinophilic myocarditis; no mention of hepatotoxicity or ALT elevations).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28183697</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.alsalama.2019.1477">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Al-Salama</surname><given-names>ZT</given-names></name>
+<name name-style="western"><surname>Keam</surname><given-names>SJ</given-names></name>
+</person-group>
+              <article-title>Entrectinib: first global approval.</article-title>
+              <source>Drugs.</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1477</fpage>
+              <lpage>1483</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of entrectinib shortly after its initial approval [in Japan], mentions that ALT elevations arose in only 1% of patients).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31372957</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.doebele.2020.271">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Doebele</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Drilon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Paz-Ares</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Siena</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shaw</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Farago</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Blakely</surname><given-names>CM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>trial investigators. Entrectinib in patients with advanced or metastatic NTRK fusion-positive solid tumours: integrated analysis of three phase 1-2 trials.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2020</year>
+              <volume>21</volume>
+              <fpage>271</fpage>
+              <lpage>282</lpage>
+              <annotation>
+                <p>(Analysis of an integrated database from 3 open label trials of entrectinib for NTRK gene fusion positive solid tumors reported an objective response rate of 57% [among 59 adults] and serious adverse event rate of 9% [among 68 patients] , rate of ALT elevation of 9%, and ALT elevation above 2000 U/L in one patient).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31838007</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.drilon.2020.261">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Drilon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Siena</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dziadziuszko</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Barlesi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Krebs</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Shaw</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>de Braud</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>trial investigators. Entrectinib in ROS1 fusion-positive non-small-cell lung cancer: integrated analysis of three phase 1-2 trials.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2020</year>
+              <volume>21</volume>
+              <issue>2</issue>
+              <fpage>261</fpage>
+              <lpage>270</lpage>
+              <annotation>
+                <p>(Among 53 patients with ROS1 fusion positive NSCLC treated with entrectinib [600 mg daily], the objective response rate was 77% [6% complete] including intracranial tumors, while most patients had at least one adverse event and including 10% with ALT elevations [5 times ULN in 2%], but there were no hepatic severe adverse events, or discontinuations or deaths attributable to liver injury).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31838015</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.sartorebianchi.2020.333">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sartore-Bianchi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Pizzutilo</surname><given-names>EG</given-names></name>
+<name name-style="western"><surname>Marrapese</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Tosi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Cerea</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Siena</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Entrectinib for the treatment of metastatic NSCLC: safety and efficacy.</article-title>
+              <source>Expert Rev Anticancer Ther.</source>
+              <year>2020</year>
+              <volume>20</volume>
+              <fpage>333</fpage>
+              <lpage>341</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action, clinical efficacy and safety of entrectinib in patients with non-small cell lung cancer [NSCLC] with ROS1 fusion gene, which in open-label studies had an objective response rate of 77% [6% complete] and adverse reactions included AST elevations in 10% that were greater than 5 times ULN in only 1%).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32223357</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.marcus.2021.928">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marcus</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Donoghue</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aungst</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Myers</surname><given-names>CE</given-names></name>
+<name name-style="western"><surname>Helms</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>FDA approval summary: entrectinib for the treatment of <italic toggle="yes">NTRK</italic> gene fusion solid tumors.</article-title>
+              <source>Clin Cancer Res.</source>
+              <year>2021</year>
+              <volume>27</volume>
+              <fpage>928</fpage>
+              <lpage>932</lpage>
+              <annotation>
+                <p>(Summary of data on efficacy and safety of entrectinib as therapy of NTRK gene fusion positive solid tumors based on 54 patients with various tumors [including sarcoma, NSCLC, breast, colorectal, thyroid and pancreatic cancers] with an objective response rate of 57% [7% complete] and duration of response of 3-26 months, and adverse events in almost all patients, including 39% with serious adverse events; no discussion of hepatotoxicity or ALT elevations).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32967940</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Entrectinib.REF.delgado.2021.100087">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Delgado</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pean</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Melchiorri</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Migali</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Josephson</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Enzmann</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Pignatti</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>The European Medicines Agency review of entrectinib for the treatment of adult or paediatric patients with solid tumours who have a neurotrophic tyrosine receptor kinase gene fusions and adult patients with non-small-cell lung cancer harbouring ROS1 rearrangements.</article-title>
+              <source>ESMO Open.</source>
+              <year>2021</year>
+              <volume>6</volume>
+              <elocation-id>100087</elocation-id>
+              <annotation>
+                <p>(Summary of the data on efficacy and safety of entrectinib therapy that supported its marketing approval by the European Medicines Agency based upon results from 3 open-label studies demonstrating an objective response rate of 64% [complete in 7%] with an overall survival of 23.9 months, but a high rate of adverse events [99.4%], including serious adverse events [40%], requiring discontinuation in 9%, liver abnormalities in 22.6% but no liver related deaths).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33735800</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Entrectinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Entrectinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Entrectinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Entrectinib">Trials on Entrectinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

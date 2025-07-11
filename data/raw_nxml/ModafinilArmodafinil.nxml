@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ModafinilArmodafinil" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ModafinilArmodafinil</book-part-id>
+      <title-group>
+        <title>Modafinil</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Mobocertinib" document-type="chapter">Mobocertinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Moexipril" document-type="chapter">Moexipril</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ModafinilArmodafinil.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="ModafinilArmodafinil.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Modafinil and its R-enantiomer armodafinil are central nervous system stimulants used to improve wakefulness in patients with excessive sleepiness. Both modafinil and armodafinil are associated with a low rate of serum aminotransferase elevations during therapy, but they have not been implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="ModafinilArmodafinil.Background">
+          <title>Background</title>
+          <p>Modafinil (moe daf' i nil) is a non-amphetamine central nervous system (CNS) stimulant whose mechanism of action is not entirely clear. Modafinil is structurally unrelated to the amphetamines, and it does not appear to affect release of CNS norepinephrine or dopamine. Modafinil is a racemic mixture of S and R enantiomers, whereas armodafinil (ar" moe daf' i nil) is the R enantiomer only. Both enantiomers have CNS activating actions, but they differ in pharmacokinetics and half-life. Modafinil and armodafinil increase wakefulness and both have been shown to be helpful in conditions with excessive sleepiness including narcolepsy, obstructive sleep apnea and shift-work sleep disorder. They have also been studied off label to treat fatigue associated with chronic illness such as cancer, Parkinson&#x02019;s disease, HIV/AIDs and multiple sclerosis. Modafinil was approved for use in the United States in 1998 and armodafinil in 2007. Their indications are for improvement in wakefulness in adults with excessive sleepiness due to narcolepsy, obstructive sleep apnea, and shift-work disorder. Modafinil is available in tablets of 100 and 200 mg in generic forms and under the brand name Provigil, the usual dose in adults being 200 mg once daily in the morning or an hour before a work shift. Armodafinil is available in tablets of 50, 150, 200 and 250 mg generically and under the brand name Nuvigil, the usual dose in adults being 150 to 250 mg once daily. Armodafinil is also approved for treatment of sleepiness due to jet lag, a lower dose of 50 to 150 mg being recommended. The most common side effects of both agents include headache, anxiety nervousness, nausea, decreased appetite, palpitations and disturbed sleep. Modafinil and armodafinil are now classified as category IV controlled substances, indicating that they have a potential for abuse and can lead to physical or psychological dependence. Rare but potentially severe adverse reactions include rash and severe hypersensitivity reactions such as drug-reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome, and toxic epidermal necrolysis. Also reported are cardiac adverse events and acute psychiatric syndromes such as mania, delusions, hallucinations, and suicidal ideation.</p>
+        </sec>
+        <sec id="ModafinilArmodafinil.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, modafinil and armodafinil were associated with a low rate of serum aminotransferase and alkaline phosphatase elevations (&#x0003c;1%). Furthermore, despite widescale use, there have not been reports of clinically apparent liver injury due to modafinil or armodafinil. Rare instances of hypersensitivity reactions and even Stevens Johnson syndrome have been reported after modafinil use and these reactions may be accompanied by evidence of hepatic involvement or injury.</p>
+          <p>Likelihood score: E (unlikely causes of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="ModafinilArmodafinil.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which modafinil and armodafinil might cause liver injury is unknown. Modafinil and armodafinil are extensively metabolized in the liver largely by CYP 3A4 and 2C91 and are susceptible to drug-drug interactions with agents that are substrates for these microsomal enzymes.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="CNSStimulants" document-type="chapter">CNS Stimulants</related-object>, Narcolepsy Agents</p>
+          <p>Other Drugs in the Subclass, Narcolepsy Agents: <related-object link-type="booklink" source-id="livertox" document-id="Amphetamines" document-type="chapter">Amphetamines</related-object>, Dextroamphetamine, <related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Oxybate" document-type="chapter">Oxybate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Pitolisant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Solriamfetol</related-object></p>
+        </sec>
+      </sec>
+      <sec id="ModafinilArmodafinil.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Armodafinil &#x02013; Generic, Nuvigil&#x000ae;</p>
+        <p>Modafinil &#x02013; Generic, Provigil&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Central Nervous System Stimulants</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Armodafinil">COMPLETE LABELING</ext-link> (Armodafinil)</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Modafinil">COMPLETE LABELING</ext-link> (Modafinil)</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="ModafinilArmodafinil.CHEMICAL_FORMULAS_A">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="ModafinilArmodafinil.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_ModafinilArmodafinil.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_ModafinilArmodafinil.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_ModafinilArmodafinil.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_ModafinilArmodafinil.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Armodafinil</td>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135200656">112111-43-0</ext-link>
+</td>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H15-N-O2-S</td>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135200656" document-id-type="sid" document-type="summary" object-id="135200656" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Modafinil</td>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135010588">68693-11-8</ext-link>
+</td>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H15-N-O2-S</td>
+                <td headers="hd_h_ModafinilArmodafinil.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135010588" document-id-type="sid" document-type="summary" object-id="135010588" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="ModafinilArmodafinil.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 August 2021</p>
+        <ref-list id="ModafinilArmodafinil.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="ModafinilArmodafinil.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Methylphenidate. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 712.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; modafinil and armodafinil are not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychotropic agents does not discuss modafinil and armodafinil).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.westfall.2018">
+            <mixed-citation publication-type="book">Westfall TC, Macarthur H, Westfall DP. Narcolepsy and sleep/wake imbalance. Adrenergic agonists and antagonists. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 207.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF4">
+            <element-citation publication-type="journal">
+              <article-title>Randomized trial of modafinil for the treatment of pathological somnolence in narcolepsy. US Modafinil in Narcolepsy Multicenter Study Group.</article-title>
+              <source>Ann Neurol</source>
+              <year>1998</year>
+              <volume>43</volume>
+              <fpage>88</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of modafinil [200 or 400 mg] vs placebo for 9 weeks; modafinil demonstrated an excellent safety profile for up to 40 weeks of open label treatment; &#x0201c;there were few clinically meaningful changes in laboratory values&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9450772</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF5">
+            <element-citation publication-type="journal">
+              <article-title>Randomized trial of modafinil as a treatment for the excessive daytime somnolence of narcolepsy. US Modafinil in Narcolepsy Multicenter Study Group.</article-title>
+              <source>Neurology</source>
+              <year>2000</year>
+              <volume>54</volume>
+              <fpage>1166</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled 9 week trial of two doses of modafinil [200 and 400 mg] vs placebo in 271 patients with narcolepsy: &#x0201c;There were no meaningful differences among treatment groups at week 9 in clinical laboratory test results&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10720292</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.mitler.2000.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mitler</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Harsh</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hirshkowitz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Guilleminault</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Long-term efficacy and safety of modafinil (PROVIGIL((R))) for the treatment of excessive daytime sleepiness associated with narcolepsy.</article-title>
+              <source>Sleep Med</source>
+              <year>2000</year>
+              <volume>1</volume>
+              <fpage>231</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(478 adults with narcolepsy were enrolled in two 40-week, open label extension studies using 200-400 mg of modafinil daily; common side effects were headache, nervousness, and nausea; clinically significant elevations in ALT occurred in 6 [1.5%] and total bilirubin in 1 patient, but no other details given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10828434</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.moldofsky.2000.109">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moldofsky</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Broughton</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Hill</surname><given-names>JD</given-names></name>
+</person-group>
+              <article-title>A randomized trial of the long-term, continued efficacy and safety of modafinil in narcolepsy.</article-title>
+              <source>Sleep Med</source>
+              <year>2000</year>
+              <volume>1</volume>
+              <fpage>109</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 patients with narcolepsy were treated for 16 weeks in an open label extension study; mean ALT levels did not change, only 2 patients had concurrent increase in ALT and AST, but none developed jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10767651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.hooverstevens.2000.175">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hoover-Stevens</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kovacevic-Ristanovic</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Management of narcolepsy in pregnancy.</article-title>
+              <source>Clin Neuropharmacol</source>
+              <year>2000</year>
+              <volume>23</volume>
+              <fpage>175</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the efficacy of medications for narcolepsy and their safety during pregnancy and breast feeding; modafinil is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11020119</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF9">
+            <element-citation publication-type="journal">
+              <article-title>New indications for modafinil (Provigil).</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2004</year>
+              <volume>46</volume>
+              <fpage>34</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief review of modafinil and its expanded indications for sleepiness due to work-shift sleep disorder and sleep apnea syndrome; &#x0201c;Increases in aminotransferase activity have been reported&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15114253</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.stankoff.2005.1139">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stankoff</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Waubant</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Confavreux</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Edan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Debouverie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rumbach</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Moreau</surname><given-names>T</given-names></name>
+<etal/>
+<collab>French Modafinil Study Group</collab>
+</person-group>
+              <article-title>Modafinil for fatigue in MS: a randomized placebo-controlled double-blind study.</article-title>
+              <source>Neurology</source>
+              <year>2005</year>
+              <volume>64</volume>
+              <fpage>1139</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of escalating doses of modafinil vs placebo for 5 weeks in 115 patients with multiple sclerosis; &#x0201c;There was no major safety concern&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15824337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.wigal.2006.352">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wigal</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Biederman</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Swanson</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Greenhill</surname><given-names>LL</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of modafinil film-coated tablets in children and adolescents with or without prior stimulant treatment for attention-deficit/hyperactivity disorder: pooled analysis of 3 randomized, double-blind, placebo-controlled studies.</article-title>
+              <source>Prim Care Companion J Clin Psychiatry</source>
+              <year>2006</year>
+              <volume>8</volume>
+              <fpage>352</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Of 638 children or adolescents treated with modafinil or placebo, side effects were insomnia, headache and decreased appetite; no mention of liver related side effects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17245457</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.roth.2007.595">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roth</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Schwartz</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Hirshkowitz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Erman</surname><given-names>MK</given-names></name>
+<name name-style="western"><surname>Dayno</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Arora</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Evaluation of the safety of modafinil for treatment of excessive sleepiness.</article-title>
+              <source>J Clin Sleep Med</source>
+              <year>2007</year>
+              <volume>3</volume>
+              <fpage>595</fpage>
+              <lpage>602</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of results from 6 randomized controlled trials of modafinil for excessive sleepiness in 1529 patients treated for up to 12 weeks; elevations of ALT above 3 times the ULN occurred in &#x0003c;1% of patients; one serious adverse event was listed as abnormal liver enzymes and probably due to modafinil).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17993041</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.janeiro.2007.198">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Janeiro</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Camblor</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>N&#x000fa;&#x000f1;ez</surname><given-names>D.</given-names></name>
+</person-group>
+              <comment>[Narcolepsy and anesthesia]</comment>
+              <source>Rev Esp Anestesiol Reanim</source>
+              <year>2007</year>
+              <volume>54</volume>
+              <fpage>198</fpage>
+              <lpage>9</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(24 year old man with narcolepsy receiving modafinil and clomipramine requiring surgery was found to have serum enzyme elevations; tolerated reintroduction of modafinil without recurrence; no details given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17436663</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.kumar.2008.1803">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kumar</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Approved and investigational uses of modafinil : an evidence-based review.</article-title>
+              <source>Drugs</source>
+              <year>2008</year>
+              <volume>68</volume>
+              <fpage>1803</fpage>
+              <lpage>39</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of pharmacology, clinical efficacy and safety of modafinil; a single case of fatal, multiorgan [including liver] hypersensitivity has been reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18729534</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.lankford.2008.565">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lankford</surname><given-names>DA</given-names></name>
+</person-group>
+              <article-title>Armodafinil: a new treatment for excessive sleepiness.</article-title>
+              <source>Expert Opin Investig Drugs</source>
+              <year>2008</year>
+              <volume>17</volume>
+              <fpage>565</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of armodafinil for excessive sleepiness; no discussion of liver related adverse events; 1 case of Stevens Johnson syndrome and 1 of severe hypersensitivity response reported with modafinil).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.rabkin.2010.707">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rabkin</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>McElhiney</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Rabkin</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>McGrath</surname><given-names>PJ</given-names></name>
+</person-group>
+              <article-title>Modafinil treatment for fatigue in HIV/AIDS: a randomized placebo-controlled study.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2010</year>
+              <volume>71</volume>
+              <fpage>707</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(115 patients with HIV/AIDs were treated with modafinil or placebo for 4 weeks; no mention of liver adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20492840</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.rosenberg.2010.630">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rosenberg</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Bogan</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Tiller</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Youakim</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Earl</surname><given-names>CQ</given-names></name>
+<name name-style="western"><surname>Roth</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>A phase 3, double-blind, randomized, placebo-controlled study of armodafinil for excessive sleepiness associated with jet lag disorder.</article-title>
+              <source>Mayo Clin Proc</source>
+              <year>2010</year>
+              <volume>85</volume>
+              <fpage>630</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(427 adults were treated with armodafinil [50 or 150 mg] or placebo for 3 days after flight from US to France; side effects were headache, nausea and diarrhea; no mention of serum enzyme results).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20530317</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.davies.2013.237">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Davies</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wilton</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Shakir</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Safety profile of modafinil across a range of prescribing indications, including off-label use, in a primary care setting in England: results of a modified prescription-event monitoring study.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>237</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1096 patients prescribed modafinil by UK primary care physicians who filled out a questionnaire regarding its effects, indications were narcolepsy in 24%, "lassitude" in 24% and sleep apnea in 10%, while adverse reactions were uncommon [27 in 17 patients: 1.7%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23483377</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.spathis.2014.1882">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spathis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fife</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Blackhall</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Dutton</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bahadori</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wharton</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>O'Brien</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Modafinil for the treatment of fatigue in lung cancer: results of a placebo-controlled, double-blind, randomized trial.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2014</year>
+              <volume>32</volume>
+              <fpage>1882</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 160 patients with lung cancer treated with modafinil or placebo for 28 days, fatigue scores improved to the same degree in both groups and adverse event rates were similar as well; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24778393</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to modafinil or armodafinil).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.silveira.2017.e167">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Silveira</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Gossard</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Stahler</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Jorgensen</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Petz</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Ali</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Lindor</surname><given-names>KD</given-names></name>
+</person-group>
+              <article-title>A randomized, placebo-controlled clinical trial of efficacy and safety: modafinil in the treatment of fatigue in patients with primary biliary cirrhosis.</article-title>
+              <source>Am J Ther</source>
+              <year>2017</year>
+              <volume>24</volume>
+              <fpage>e167</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 40 patients with primary biliary cirrhosis and fatigue who were treated with modafinil or placebo for 12 weeks, fatigue scores improved in a similar percentage of both groups [18% and 13%] and adverse events included headache, rash and diarrhea, while liver test results did not change in either group).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27148676</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.thorpy.2020.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thorpy</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Recently approved and upcoming treatments for narcolepsy.</article-title>
+              <source>CNS Drugs</source>
+              <year>2020</year>
+              <volume>34</volume>
+              <fpage>9</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, pharmacology, drug-drug interactions, clinical efficacy and safety of newly approved medications for narcolepsy including pitolisant and solriamfetol: no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31953791</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.nourbakhsh.2021.38">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nourbakhsh</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Revirajan</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Cordano</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Creasman</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Manguinao</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Krysko</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of amantadine, modafinil, and methylphenidate for fatigue in multiple sclerosis: a randomised, placebo-controlled, crossover, double-blind trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2021</year>
+              <volume>20</volume>
+              <fpage>38</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a placebo controlled, 4-period, crossover trial of amantadine, modafinil and methylphenidate for up to 6 weeks, none of the drugs were superior to placebo in improving fatigue, but all three were associated with more side effects than placebo; ALT elevations and hepatotoxicity were not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33242419</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="ModafinilArmodafinil.REF.inoue.2021.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Inoue</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Tabata</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Tsukimori</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of modafinil in patients with idiopathic hypersomnia without long sleep time: a multicenter, randomized, double-blind, placebo-controlled, parallel-group comparison study.</article-title>
+              <source>Sleep Med</source>
+              <year>2021</year>
+              <volume>80</volume>
+              <fpage>315</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 71 Japanese patients with hypersomnia treated with modafinil or placebo, sleep time increased by 5 minutes with modafinil while adverse events included headache, dry mouth, and nausea, but there were no &#x0201c;significant&#x0201d; serious adverse events and &#x0201c;no notable clinical changes were reported in either group with regard to clinical laboratory tests&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33631500</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="ModafinilArmodafinil.OTHER_REFERENCE_LIN">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Modafinil+Armodafinil+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Modafinil, Armodafinil: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Modafinil+Armodafinil">Trials on Modafinil, Armodafinil: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Axatilimab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Axatilimab</book-part-id>
+      <title-group>
+        <title>Axatilimab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>11</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Avelumab" document-type="chapter">Avelumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Axitinib" document-type="chapter">Axitinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Axatilimab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Axatilimab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Axatilimab is a humanized monoclonal antibody to the colony stimulating factor-1 receptor that is used to treat patients with chronic graft-versus-host disease who have active disease despite having received at least two previous systemic therapies. Axatilimab therapy is often accompanied by transient serum enzyme elevations, but it has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Axatilimab.Background">
+          <title>Background</title>
+          <p>Axatilimab (axe&#x0201d; a til&#x02019; i mab) is a humanized monoclonal IgG4 antibody directed against the colony stimulating factor-1 receptor (CSF-1R) which is used to treat adults with active, refractory chronic graft-vs-host disease (GvHD). Axatilimab binds to CSF-1R on monocytes and macrophages, blocking their activation and induction of proinflammatory cytokines and fibrogenic genes. This monoclonal antibody was shown to decrease disease activity in an animal model of GvHD. In human trials, axatilimab induced clinical responses in over 70% of patients with chronic GvHD who had received at least 2 previous systemic lines of therapy. Axatilimab was approved for use in the United States in 2024, the fourth agent approved for treatment of chronic GvHD, others being ibrutinib, belumosudil, and rituximab. Current indications for axatilimab are treatment of chronic GvHD despite at least previous systemic therapies in adults and pediatric patients weighing 40 kg or more. Axatilimab is available under the brand name Niktimvo in single dose vials of 50 mg in 1 mL. The recommended dose is 0.3 mg/kg body weight (maximal 35 mg) given as an intravenous infusion over 30 minutes every 2 weeks. Adverse effects can include infusion reactions for which premedication with an antihistamine and antipyretics is recommended in patients who experienced a previous infusion reaction to axatilimab. Other common adverse events include fatigue, musculoskeletal pain, headache, dizziness, nausea, diarrhea, cough, fever, dyspnea, and increased risk of bacterial, fungal and viral infections. Laboratory abnormalities can include elevations in liver enzymes, creatine kinase, amylase, lipase, and calcium, and decreases in hemoglobin and serum phosphate. Uncommon but potentially serious side effects include severe hypersensitivity reactions (angioedema or anaphylaxis), severe infections, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Axatilimab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration controlled trials, elevations in serum aminotransferase levels arose in 12.7% of patients treated with 0.3 mg/kg and in higher rates with higher doses, 21.5% at 1 mg/kg and 40% at 3 mg/kg. Elevations in aminotransferase levels above 5 times the ULN occurred in only 1.3% of patients and all of the elevations were transient and none required drug discontinuation or was accompanied by jaundice. Since its approval, there have been no case reports of liver injury with jaundice linked to axatilimab therapy but clinical experience with the drug has been limited. Furthermore, patients with chronic GvHD frequently have elevations in serum enzymes because of graft-vs-host injury to the liver. Reactivation of hepatitis B as well as immune-mediated hepatitis can occur with use of immunosuppressive monoclonal antibodies such as infliximab and adalimumab, but instances have not been reported with axatilimab.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Axatilimab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Serum ALT elevations may be a direct result of inhibition of CSF-1R because elevations occur in many enzyme levels including alkaline phosphatase, GGT, creatine phosphatase, amylase and lipase, but rarely result in organ injury. These transient laboratory abnormalities may be explained by Kupffer cells depletion and reduced clearance function following CSF-1R blockade. Graft-vs-host disease commonly affects the liver, and liver test abnormalities during axatilimab therapy may be due to the underlying disease rather than the drug therapy. For this reason, patients should be assessed for the presence of liver involvement before starting therapy for chronic GvHD.</p>
+        </sec>
+        <sec id="Axatilimab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>It is appropriate to monitor patients with chronic GvHD for liver test abnormalities before starting and at intervals during therapy. The serum aminotransferase elevations that were reported during axatilimab therapy were generally transient, mild and asymptomatic and did not require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal should lead to clinical assessment of the possible causes and more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels or until the underlying cause is identified. There is no evidence of cross sensitivity to hepatic reactions among the various monoclonal antibodies or small molecule therapies for GvHD.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object></p>
+          <p>Other Drugs for GvHD: <related-object link-type="booklink" source-id="livertox" document-id="Belumosudil" document-type="book-part">Belumosudil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ibrutinib" document-type="book-part">Ibrutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="book-part">Ruxolitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Axatilimab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Axatilimab &#x02013; Niktimvo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Immunosuppressive Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Axatilimab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Axatilimab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Axatilimab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Axatilimab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Axatilimab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Axatilimab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Axatilimab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Axatilimab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Axatilimab</td>
+                <td headers="hd_h_Axatilimab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2155851-88-8</td>
+                <td headers="hd_h_Axatilimab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Axatilimab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Axatilimab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 November 2024</p>
+        <p>Abbreviations: CSF-1R, colony stimulating factor-1 receptor; GvHD, graft-vs-host disease.</p>
+        <ref-list id="Axatilimab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Axatilimab.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents before the availability of axatilimab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.krensky.2018">
+            <mixed-citation publication-type="book">Krensky AM, Azzi JR, Hafler DA. Immunosuppressants and tolerogens. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 637-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.multidiscipline_review">
+            <mixed-citation publication-type="web"><string-name name-style="western"><given-names>FDA.</given-names>
+<surname>Multi-Discipline Review</surname></string-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761411Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761411Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline clinical review of the safety and efficacy of axatilimab based on results from registration trials in support of its approval as therapy of chronic graft-vs-host disease [GvHD] mentions that in the safety cohort of 279 patients treated with axatilimab, ALT elevations arose in 12.7% of patients on 0.3 mg/kg, 21.5% on 1 mg/kg, and 40% on 3 mg/kg and values rose above 5 times ULN in 1.3%, 1.9% and 2.5%, but there were no ALT elevations with jaundice or serious hepatic adverse events).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.kitko.2023.1864">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kitko</surname>
+<given-names>CL</given-names></string-name>, <string-name name-style="western"><surname>Arora</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>DeFilipp</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Zaid</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Di Stasi</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Radojcic</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Betts</surname>
+<given-names>CB</given-names></string-name>, <etal>et al.</etal>
+<article-title>Axatilimab for chronic graft-versus-host disease after failure of at least two prior systemic therapies: results of a phase I/II study.</article-title>
+<source>J Clin Oncol.</source>
+<year>2023</year>;<volume>41</volume>:<fpage>1864</fpage>-<lpage>1875</lpage>.<annotation><p><italic toggle="yes">(Among 40 patients 6 years of age or older with active, chronic GvHD after at least 2 systemic lines of therapy treated with varying doses of axatilimab intravenously every 4 weeks, the overall response rate was 80% and dose limiting toxicities included myopathy and pancreatitis; and while ALT, AST, Alk P, lipase, and amylase elevations were frequent they were without end-organ damage).</italic></p></annotation><pub-id pub-id-type="pmid">36459673</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.wolff.2024.1002">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wolff</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Cutler</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Pusic</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Bittencourt</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>White</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hamadani</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <article-title>AGAVE-201 Investigators. Axatilimab in recurrent or refractory chronic graft-versus-host disease.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>;<volume>391</volume>:<fpage>1002</fpage>-<lpage>1014</lpage>.<annotation><p><italic toggle="yes">(Among 241 adults with active, chronic GvHD after at least 2 systemic lines of therapy who were treated with 0.3, 1 or 3 mg/kg intravenously every 2 weeks, the overall response rate was 74%, 67%, and 50% and adverse events were more frequent and severe with higher doses, and ALT elevations arose in 13%, 22%, and 39%, and drug discontinuation for adverse events occurred in 6%, 22%, and 18% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">39292927</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.sarantopoulos.2024.1053">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sarantopoulos</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Targeting CSF1R in chronic GVHD &#x02013; lessons in translation.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>;<volume>391</volume>:<fpage>1053</fpage>-<lpage>1055</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Wolff [2024] providing the background to the development of therapies targeting CSF1, which acts on its receptor on monocytes and macrophages leading to secretion of proinflammatory cytokines and profibrotic effects that account for some of the chronic tissue damage in GvHD and the inhibition of which led to improvements in disease in a mouse model).</italic></p></annotation><pub-id pub-id-type="pmid">39292932</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Axatilimab.REF.mohty.2024.1055">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mohty</surname>
+<given-names>M.</given-names></string-name>
+<article-title>CSF1R blockade for refractory chronic graft-versus-host disease.</article-title>
+<source>N Engl J Med.</source>
+<year>2024</year>;<volume>391</volume>:<fpage>1055</fpage>-<lpage>1059</lpage>.<annotation><p><italic toggle="yes">(Brief review of the clinical features and pathophysiology of GvHD and the role of CSF1R in its chronic complications).</italic></p></annotation><pub-id pub-id-type="pmid">39292933</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Axatilimab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Axatilimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Axatilimab: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Axatilimab">Trials on Axatilimab: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

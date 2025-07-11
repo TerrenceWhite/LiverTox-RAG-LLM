@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AntipsychoticAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AntipsychoticAgents</book-part-id>
+      <title-group>
+        <title>Antipsychotic Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntirheumaticAgents" document-type="chapter">Antirheumatic Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AntipsychoticAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Psychotic disorders include schizophrenia, the manic phase of manic-depressive illness (bipolar illness), acute psychosis and other conditions marked by acute, severe agitation. The antipsychotic medications are invaluable adjuncts to the treatment of psychosis and bipolar illness and have revolutionized management of these conditions.</p>
+        <p content-type="pubmed-excerpt">The antipsychotic agents in clinical use include the phenothiazines and structurally similar compounds such as thioxanthenes, benazepines, butyrophenones, diphenylbutylpiperidines and miscellaneous similar heterocyclic compounds. The antipsychotic medications are usually classified into conventional and atypical agents, based upon relative risks for extrapyramidal side effects that are greater with the older, conventional agents. They are also referred to as first and second generation antipsychotic agents.</p>
+        <p content-type="pubmed-excerpt">The initial antipsychotic medications introduced into clinical practice were the phenothiazines, but they have been largely replaced in recent years by the atypical agents. Phenothiazines in current use (with initial brand names and date of first approval) include chlorpromazine (Thorazine: 1957, the initial prototype antipsychotic agent), fluphenazine (Prolixin: 1972), perphenazine (Trilafon: 1957), prochlorperazine (Compazine: 1956, used mostly as therapy of nausea rather than psychosis), thioridazine (Mellaril: 1978), and trifluoperazine (Stelazine: 1959). Miscellaneous conventional antipsychotic medications include haloperidol (Haldol: 1967), loxapine (Loxitane: 1976), molindone (Moban: 1974) and pimozide (Orap: 1984, used largely for Tourette syndrome). Lithium is also frequently discussed in the context of antipsychotic therapies, although its major use is for stabilization of bipolar illness.</p>
+        <p>The atypical antipsychotic agents are more recently introduced drugs that generally have greater potency and fewer extrapyramidal side effects. Currently, these are the most commonly used antipsychotic agents. They include aripiprazole (Abilify: 2002), asenapine (Saphris: 2007), brexpiprazole (Rexulti: 2015), cariprazine (Vraylar: 2016), clozapine (Clozaril: 1975-79, 1989), iloperidone (Fanapt: 2010), lurasidone (Latuda: 2010), olanzapine (Zyprexa: 1996), paliperidone (Invega: 2006), pimavanserin (Nuplazid: 2016), quetiapine (Seroquel: 1997), risperidone (Risperdal: 1993), and ziprasidone (Geodon: 2001). Some of these agents are also used to treat bipolar illness and major depression.</p>
+        <p>The phenothiazines are well established causes of drug induced liver disease and typically cause a cholestatic injury arising within 1 to 4 weeks of starting treatment. Indeed, during the 1960s and early 1970s, chlorpromazine was one of the most common causes of drug induced liver disease ("Thorazine jaundice"). The other phenothiazines were found to cause a similar cholestatic hepatitis, although much less frequently than chlorpromazine. The other conventional antipsychotic medications have been linked to liver injury only rarely, if at all, and do not exhibit a characteristic signature pattern of injury. Many but not all of the atypical antipsychotic medications have been linked to serum enzyme elevations during therapy, but clinically apparent liver injury with jaundice from these agents is rare except with olanzapine and clozapine, both of which have been implicated in more than 50 cases of clinically apparent liver injury. Both of these agents have many other difficult and potentially fatal side effects and are not commonly used. Among the remaining, relatively well tolerated antipsychotic agents, risperidone and quetiapine have been linked to a modest number of cases of clinically apparent liver injury, while aripiprazole and ziprasidone have been linked to a small number of cases not all of which are very convincing.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>First Generation</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Chlorpromazine" document-type="chapter">Phenothiazines</related-object>
+</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p><related-object link-type="booklink" source-id="livertox" document-id="Chlorpromazine" document-type="chapter">Chlorpromazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluphenazine" document-type="chapter">Fluphenazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Perphenazine" document-type="chapter">Perphenazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Prochlorperazine" document-type="chapter">Prochlorperazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thioridazine" document-type="chapter">Thioridazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trifluoperazine" document-type="chapter">Trifluoperazine</related-object></p>
+                  </list-item>
+                </list>
+              </list-item>
+              <list-item>
+                <p>Other</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p><related-object link-type="booklink" source-id="livertox" document-id="Haloperidol" document-type="chapter">Haloperidol</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lithium" document-type="chapter">Lithium</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Loxapine" document-type="chapter">Loxapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Molindone" document-type="chapter">Molindone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pimozide" document-type="chapter">Pimozide</related-object></p>
+                  </list-item>
+                </list>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Second Generation (Atypicals)</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Aripiprazole" document-type="chapter">Aripiprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Asenapine" document-type="chapter">Asenapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Brexpiprazole" document-type="chapter">Brexpiprazole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cariprazine" document-type="chapter">Cariprazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clozapine" document-type="chapter">Clozapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Iloperidone" document-type="chapter">Iloperidone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lumateperone" document-type="chapter">Lumateperone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lurasidone" document-type="chapter">Lurasidone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Olanzapine" document-type="chapter">Olanzapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Paliperidone" document-type="chapter">Paliperidone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pimavanserin" document-type="chapter">Pimavanserin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Quetiapine" document-type="chapter">Quetiapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Risperidone" document-type="chapter">Risperidone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ziprasidone" document-type="chapter">Ziprasidone</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="AntipsychoticAgents.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 June 2023</p>
+        <ref-list id="AntipsychoticAgents.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="AntipsychoticAgents.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Neuroleptic drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 483-91.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of neuroleptic drugs including chlorpromazine and the phenothiazines, haloperidol, sulpiride, loxapine, molindone, pimozide, clozapine and risperidone published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntipsychoticAgents.REF.larry.2013">
+            <mixed-citation publication-type="book">Larry D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychiatric agents).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntipsychoticAgents.REF.meyer.2018">
+            <mixed-citation publication-type="book">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 279-302.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntipsychoticAgents.REF4">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for psychotic disorders.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1510</issue>
+              <fpage>160</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications available in the US for therapy of psychotic disorders; mentions that olanzapine can cause aminotransferase elevations, and that olanzapine and ziprasidone can cause DRESS syndrome but does not mention ALT elevations or hepatotoxicity for any of other agents discussed, including aripiprazole, brexpiprazole, cariprazine, clozapine, quetiapine, risperidone, asenapine, iloperidone, paliperidone, and lurasidone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27960194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntipsychoticAgents.REF.druschky.2021.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Druschky</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Toto</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bleich</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Baumg&#x000e4;rtner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maier</surname><given-names>HB</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Severe drug-induced liver injury in patients under treatment with antipsychotic drugs: data from the AMSP study.</article-title>
+              <source>World J Biol Psychiatry.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>373</fpage>
+              <lpage>386</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 246 cases of severe liver injury due to antipsychotic medications identified in a prospective registry of German psychiatric hospitals between 1993 and 2016, 46 arose in 38,349 patients [0.12%] who received clozapine [34 as a single antipsychotic agent]; other commonly implicated agents being olanzapine [n=90 of 54,822: 0.16%], quetiapine [34 of 66,209: 0.05%], and risperidone [27 of 51,683: 0.05%]; two fatal cases occurred in olanzapine treated patients; low rates of severe liver injury were found for ziprasidone [no cases among 3568 patients treated] and aripiprazole [6 cases of 15,988 patients treated: 0.01%], iloperidone not listed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32892689</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntipsychoticAgents.REF.zeiss.2022.440">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hafner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Drug-associated liver injury related to antipsychotics: exploratory analysis of pharmacovigilance data.</article-title>
+              <source>J Clin Psychopharmacol.</source>
+              <year>2022</year>
+              <volume>42</volume>
+              <fpage>440</fpage>
+              <lpage>444</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the VigiBase data base of individual case safety reports on antipsychotics and liver injury found positive hepatic safety signals for olanzapine and clozapine but none for risperidone, quetiapine, ziprasidone, asenapine, aripiprazole, brexpiprazole, and cariprazine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35730552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AntipsychoticAgents.REF.gunther.2023.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gunther</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dopheide</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Antipsychotic safety in liver disease: a narrative review and practical guide for the clinician.</article-title>
+              <source>J Acad Consult Liaison Psychiatry.</source>
+              <year>2023</year>
+              <volume>64</volume>
+              <fpage>73</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the literature on hepatotoxicity of antipsychotic medications and guidance on their use in patients with liver disease characterizes chlorpromazine, clozapine, and olanzapine as having the greatest risk for causing liver injury, quetiapine and risperidone as having moderate risk, haloperidol as having low risk, and paliperidone, aripiprazole, lurasidone, and loxapine as having lowest risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36180017</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

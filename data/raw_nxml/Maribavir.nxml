@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Maribavir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Maribavir</book-part-id>
+      <title-group>
+        <title>Maribavir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MargosaOil" document-type="chapter">Margosa Oil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Marijuana" document-type="chapter">Marijuana</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Maribavir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Maribavir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Maribavir is an orally available, antiviral agent which inhibits the pUL97 kinase of cytomegalovirus (CMV) and is used to treat refractory forms of post-transplant CMV infection. Maribavir has been associated with low rates of mild-to-moderate serum aminotransferase elevations during therapy but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Maribavir.Background">
+          <title>Background</title>
+          <p>Maribavir (ma rye&#x02019; ba vir) is a small molecule inhibitor of the cytomegalovirus (CMV) pUL97 kinase which is needed for the processing of proteins necessary for CMV replication. Maribavir has potent activity against CMV in vitro and in vivo and has been shown to decrease CMV DNA levels in patients with otherwise refractory CMV infection after hematopoietic stem cell transplantation. In contrast, maribavir had little or no efficacy in prevention of CMV infection when given as prophylaxis after transplantation. Maribavir was approved as therapy of adults and children (12 years of age or older and weighing at least 35 kilograms) with refractory CMV infection after hematopoietic cell transplantation in the United States in 2019. Maribavir is available as tablets of 200 mg under the brand name Livtencity. The recommended dose is 400 mg (2 tablets) by mouth twice daily. Maribavir has several drug-drug interactions and is not recommended to be used in combination with ganciclovir or valganciclovir. Side effects include dysgeusia, nausea, vomiting, diarrhea, abdominal pain, and fatigue.</p>
+        </sec>
+        <sec id="Maribavir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large preregistration clinical trials, ALT elevations occurred in 3.5% of maribavir vs less than 1% of standard therapy in recipients with refractory CMV infection after hematopoietic cell transplantation. The ALT elevations were transient, mild and asymptomatic. In prelicensure studies, there were no instances of clinically apparent liver injury with jaundice. Since the approval of maribavir and its general availability, there have been no reported cases of clinically apparent liver injury with jaundice associated with its use; however, the total clinical experience with maribavir therapy is limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Maribavir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible mechanism of hepatotoxicity from maribavir is unknown but may relate to its hepatic metabolism or the drug-drug interactions.</p>
+        </sec>
+        <sec id="Maribavir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The aminotransferase elevations associated with maribavir therapy were not well characterized in the prelicensure studies as far as timing, duration and severity, but appeared to be self-limited and did not require dose modification or drug discontinuation. In patients who develop ALT or AST elevations above 5 times ULN during therapy, maribavir should be at least temporarily discontinued and restarted only once levels fall to normal or near normal levels. Patients who develop ALT or AST elevations with symptoms or jaundice should discontinue maribavir and restart therapy only if another cause is identified. There is no reason to suggest any cross sensitivity to liver injury between maribavir and the conventional antiviral agents with activity against CMV.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object></p>
+          <p>Other Antiviral Agents for Herpes Virus Infections: <related-object link-type="booklink" source-id="livertox" document-id="Acyclovir" document-type="chapter">Acyclovir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cidofovir" document-type="chapter">Cidofovir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Famciclovir" document-type="chapter">Famciclovir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Foscarnet" document-type="chapter">Foscarnet</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GanciclovirValganc" document-type="chapter">Ganciclovir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Letermovir" document-type="chapter">Letermovir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Valacyclovir" document-type="chapter">Valacyclovir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GanciclovirValganc" document-type="chapter">Valganciclovir</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Maribavir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Maribavir &#x02013; Livtencity&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiviral Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Maribavir">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Maribavir.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Maribavir.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Maribavir.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Maribavir.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Maribavir.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Maribavir.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Maribavir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Maribavir</td>
+                <td headers="hd_h_Maribavir.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135078600">176161-24-3</ext-link>
+</td>
+                <td headers="hd_h_Maribavir.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H19-Cl2-N3-O4</td>
+                <td headers="hd_h_Maribavir.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135078600" document-id-type="sid" document-type="summary" object-id="135078600" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Maribavir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 14 November 2022</p>
+        <p>Abbreviations: CMV, cytomegalovirus; HSCT, hematopoietic stem cell transplantation.</p>
+        <ref-list id="Maribavir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Maribavir.REF.n__ez.2013">
+            <mixed-citation publication-type="book">N&#x000fa;&#x000f1;ez M. Herpesviridae treatment. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 512-3.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents published in 2013, before the availability of maribavir).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Maribavir.REF.acosta.2018">
+            <mixed-citation publication-type="book">Acosta EP. Antiviral agents (nonretroviral). In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1105-35.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Maribavir.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215596Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215596Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approval website that has product labels [package inserts], letters of approval and full FDA scientific reviews of the new drug applications for safety and efficacy; mentions that one of 234 patients with post-transplant CMV infection treated with maribavir developed hepatic failure, but specific details were not provided and overall rate of ALT elevations above 5 times ULN was 3% versus 0% in patients treated with comparator agents).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Maribavir.REF.marty.2011.284">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marty</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Ljungman</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Papanicolaou</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Winston</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Chemaly</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Strasfeld</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Young</surname><given-names>JA</given-names></name>
+<etal/>
+<collab>Maribavir 1263-300 Clinical Study Group</collab>
+</person-group>
+              <article-title>Maribavir prophylaxis for prevention of cytomegalovirus disease in recipients of allogeneic stem-cell transplants: a phase 3, double-blind, placebo-controlled, randomised trial.</article-title>
+              <source>Lancet Infect Dis.</source>
+              <year>2011</year>
+              <volume>11</volume>
+              <fpage>284</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 681 adults undergoing allogenic hematopoietic stem cell transplantation [HSCT] given prophylaxis for CMV infection with either maribavir or placebo for up to 12 weeks, CMV disease developed in similar proportions of patients [4% vs 5%] and adverse event rates were similar except for dysgeusia [15% vs 6%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21414843</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Maribavir.REF.papanicolaou.2019.1255">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Papanicolaou</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Silveira</surname><given-names>FP</given-names></name>
+<name name-style="western"><surname>Langston</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Pereira</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Avery</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Uknis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wijatyk</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Maribavir for refractory or resistant cytomegalovirus infections in hematopoietic-cell or solid-organ transplant recipients: a randomized, dose-ranging, double-blind, phase 2 study.</article-title>
+              <source>Clin Infect Dis.</source>
+              <year>2019</year>
+              <volume>68</volume>
+              <fpage>1255</fpage>
+              <lpage>1264</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 120 patients with refractory or resistant CMV infection after hematopoietic or solid organ transplantation treated with maribavir [400, 800 or 1200 mg] twice daily for up to 24 weeks, the overall response rate at 6 weeks was 67% and was similar in all dose groups while adverse events led to dose discontinuation in 34% of patients, but there was no mention of liver related adverse events or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30329038</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Maribavir.REF.maertens.2019.1136">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Maertens</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cordonnier</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jaksch</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Poir&#x000e9;</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Uknis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wijatyk</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Maribavir for preemptive treatment of cytomegalovirus reactivation.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2019</year>
+              <volume>381</volume>
+              <fpage>1136</fpage>
+              <lpage>1147</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 156 patients with CMV reactivation after hematopoietic or solid organ transplantation treated with maribavir [400, 800 or 1200 mg] or valganciclovir [900 mg] twice daily for up to 12 weeks, response rates were similar with both drugs [62% vs 56%] but serious adverse events were more common with maribavir [44% vs 32%] as was dysgeusia [40% vs 2%], while neutropenia was less [4% vs 15%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31532960</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Maribavir.REF.kang.2022.335">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kang</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Maribavir: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2022</year>
+              <volume>82</volume>
+              <fpage>335</fpage>
+              <lpage>340</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of maribavir shortly after its approval in the US; mentions common adverse events of dysgeusia, nausea, diarrhea, vomiting, fatigue and abdominal pain, but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35147913</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Maribavir.REF.avery.2022.690">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Avery</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Alain</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Alexander</surname><given-names>BD</given-names></name>
+<name name-style="western"><surname>Blumberg</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Chemaly</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Cordonnier</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Duarte</surname><given-names>RF</given-names></name>
+<etal/>
+<collab>SOLSTICE Trial Investigators</collab>
+</person-group>
+              <article-title>Maribavir for refractory cytomegalovirus infections with or without resistance post-transplant: Results from a phase 3 randomized clinical trial.</article-title>
+              <source>Clin Infect Dis.</source>
+              <year>2022</year>
+              <volume>75</volume>
+              <fpage>690</fpage>
+              <lpage>701</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 320 patients with refractory CMV infection after HCST treated with maribavir [400, 800 or 1200 mg twice daily] or valganciclovir for up to 12 weeks, response rates were higher with maribavir [79% vs 67%] and adverse events were mostly mild-to-moderate gastrointestinal symptoms; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34864943</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Maribavir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Maribavir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Maribavir: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Maribavir">Trials on Maribavir: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,9 @@
+lxml
+sentence-transformers==2.2.2
+transformers==4.33.3
+faiss-cpu
+llama-cpp-python==0.3.9
+huggingface_hub==0.16.4
+accelerate==0.21.0
+tqdm
+streamlit

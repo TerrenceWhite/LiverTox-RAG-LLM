@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pitolisant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pitolisant</book-part-id>
+      <title-group>
+        <title>Pitolisant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>8</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pitavastatin" document-type="chapter">Pitavastatin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="PlatinumCoordination" document-type="chapter">Platinum Coordination Complexes</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pitolisant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pitolisant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pitolisant is a histamine type 3 receptor (H<sub>3</sub>) antagonist and inverse agonist that is used in the therapy of excessive daytime sleepiness and cataplexy in patients with narcolepsy. Pitolisant has not been associated with serum enzyme elevations during therapy or to instances of idiosyncratic acute liver injury.</p>
+        </sec>
+        <sec id="Pitolisant.Background">
+          <title>Background</title>
+          <p>Pitolisant (pi tol&#x02019; i sant) is an orally available, small molecule histamine 3 (H<sub>3</sub>) receptor antagonist and inverse agonist that is used to treat excessive daytime sleepiness in adults with narcolepsy and for cataplexy associated with narcolepsy. Narcolepsy is associated with a deficiency of hypothalamic cells producing orexin, a neuropeptide that acts as an excitatory neurotransmitter on neurons that produce wakefulness. H<sub>3</sub> receptors are found in the central nervous system where histamine acts as excitatory neurotransmitter promoting wakefulness. Pitolisant was found to increase wakefulness in animal models of narcolepsy and clinical trials demonstrated that it decreased excessive daytime sleepiness in patients with narcolepsy. It also decreased the frequency of episodes of cataplexy, a frequent complication of narcolepsy. Pitolisant was approved in the United States in 2019 as therapy for excessive daytime sleepiness in adults with narcolepsy and was subsequently also approved for treatment of cataplexy due to narcolepsy. Pitolisant is available in tablets of 4.45 and 17.8 mg under the brand name Wakix. The recommended maintenance dose in adults is 17.8 mg once daily after an initial titration period of one week of 8.9 mg daily. Side effects can include headache, insomnia, anxiety, dizziness, increase in appetite, weight gain, abdominal discomfort and nausea. Uncommon, but potentially serious side effects include prolongation of the QTc interval, and it is contraindicated in patients with bradycardia and should be used cautiously in patients receiving other medications that can prolong the QTc interval.</p>
+        </sec>
+        <sec id="Pitolisant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In placebo-controlled trials of pitolisant in patients with narcolepsy, minor serum aminotransferase elevations occurred in a small proportion of patients during therapy, but rates of enzyme elevations were similar to those in placebo recipients. In preregistration trials, there were no instances of clinically apparent liver injury or serum aminotransferase elevations with jaundice attributable to pitolisant. Since its approval in Europe in 2017 and the United States in 2020, there have been no publications describing clinically apparent liver injury due to pitolisant.</p>
+          <p>Likelihood score: E (unlikely cause of acute liver injury with jaundice).</p>
+        </sec>
+        <sec id="Pitolisant.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which pitolisant might cause liver injury is not known but may be due to a toxic or immunogenic intermediate product of its metabolism. Pitolisant is metabolized in the liver largely by CYP 2D6 and 3A4 and is susceptible to drug-drug interactions with inhibitors or inducers of these enzymes.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="CNSStimulants" document-type="chapter">CNS Stimulants</related-object></p>
+          <p>Other Drugs for Narcolepsy: <related-object link-type="booklink" source-id="livertox" document-id="Amphetamines" document-type="chapter">Amphetamines</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Modafinil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Armodafinil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Oxybate" document-type="chapter">Oxybate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Solriamfetol" document-type="chapter">Solriamfetol</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pitolisant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Pitolisant &#x02013; Wakix&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>CNS Drugs</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Pitolisant">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pitolisant.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pitolisant.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pitolisant.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pitolisant.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Pitolisant.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pitolisant.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pitolisant.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pitolisant</td>
+                <td headers="hd_h_Pitolisant.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135267132">362665-56-3</ext-link>
+</td>
+                <td headers="hd_h_Pitolisant.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H26-Cl-N-O</td>
+                <td headers="hd_h_Pitolisant.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135267132" document-id-type="sid" document-type="summary" object-id="135267132" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pitolisant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 August 2021</p>
+        <p>Abbreviations: CPAP, continuous positive airway pressure; H<sup>3</sup>, Histamine-3.</p>
+        <ref-list id="Pitolisant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pitolisant.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of H<sub>3</sub> receptor antagonists/inverse agonists).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pitolisant.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211150Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211150Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA multidisciplinary scientific review of the pitolisant application for safety and efficacy which mentions that rates of ALT elevations during pitolisant therapy were similar to those with placebo and that there was &#x0201c;no pattern of change suggestive of a drug treatment effect&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pitolisant.REF.dauvilliers.2013.1068">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dauvilliers</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Bassetti</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lammers</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Arnulf</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Rodenbeck</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lehert</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>HARMONY I study group. Pitolisant versus placebo or modafinil in patients with narcolepsy: a double-blind, randomised trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2013</year>
+              <volume>12</volume>
+              <fpage>1068</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 95 adults with narcolepsy and excessive daytime sleepiness in an 8 week controlled trial, decreases in excessive sleepiness scores [Epworth Sleepiness Scale] were greater in patients receiving pitolisant [-5.8] than placebo [-3.4] but similar and not greater than with modafinil [-6.8], while adverse events attributed to pitolisant included headache and abdominal discomfort; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24107292</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.syed.2016.1313">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Syed</surname><given-names>YY</given-names></name>
+</person-group>
+              <article-title>Pitolisant: first global approval.</article-title>
+              <source>Drugs</source>
+              <year>2016</year>
+              <volume>76</volume>
+              <fpage>1313</fpage>
+              <lpage>1318</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, development, pharmacology, clinical efficacy and safety of pitolisant shortly after its approval as therapy of narcolepsy by the European Union, mentions adverse events of headache, abdominal pain, increase in appetite, weight gain, insomnia and anxiety; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27438291</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.szakacs.2017.200">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Szakacs</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Dauvilliers</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Mikhaylov</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Poverennova</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Krylov</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jankovic</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sonka</surname><given-names>K</given-names></name>
+<etal/>
+<collab>HARMONY-CTP study group</collab>
+</person-group>
+              <article-title>Safety and efficacy of pitolisant on cataplexy in patients with narcolepsy: a randomised, double-blind, placebo-controlled trial.</article-title>
+              <source>Lancet Neurol</source>
+              <year>2017</year>
+              <volume>16</volume>
+              <fpage>200</fpage>
+              <lpage>207</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 106 patients with narcolepsy with cataplexy and excessive daytime sleepiness enrolled in a placebo controlled trial, pitolisant [5 to 20 mg daily] led to a greater decrease in cataplexy episodes per week [9.2 to 2.3: -75%] than did placebo [7.3 to 4.5: -38%] and the adverse event rate was the same in both groups; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28129985</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.kollbsielecka.2017.125">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kollb-Sielecka</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Demolis</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Emmerich</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Markey</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Salmonson</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Haas</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>The European Medicines Agency review of pitolisant for treatment of narcolepsy: summary of the scientific assessment by the Committee for Medicinal Products for Human Use.</article-title>
+              <source>Sleep Med</source>
+              <year>2017</year>
+              <volume>33</volume>
+              <fpage>125</fpage>
+              <lpage>129</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of clinical efficacy and safety of pitolisant in narcolepsy by the European Medicines Agency mentions that adverse events are largely neuropsychiatric such as headache, insomnia, anxiety, irritability, dizziness and depression; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28449891</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.dauvilliers.2019.zsz174">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dauvilliers</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Arnulf</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Szakacs</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Leu-Semenescu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lecomte</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Scart-Gres</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lecomte</surname><given-names>JM</given-names></name>
+<etal/>
+<collab>HARMONY III study group</collab>
+</person-group>
+              <article-title>Long-term use of pitolisant to treat patients with narcolepsy: Harmony III Study.</article-title>
+              <source>Sleep</source>
+              <year>2019</year>
+              <volume>42</volume>
+              <elocation-id>zsz174</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 102 adults with narcolepsy and excessive daytime sleepiness treated with pitolisant [titrated up to as high as 40 mg daily] for one year, sleepiness and episodes of catalepsy decreased and adverse events were mostly mild-to-moderate with headaches [12%], insomnia [9%], weight gain [8%], anxiety [7%], depression [5%], nausea [5%] while &#x0201c;no safety issues were identified regarding&#x02026;.blood chemistry&#x02026;&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31529094</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.dauvilliers.2020.1135">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dauvilliers</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Verbraecken</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Partinen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hedner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Saaresranta</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Georgiev</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Tiholov</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>HAROSA II Study Group collaborators. Pitolisant for daytime sleepiness in patients with obstructive sleep apnea who refuse continuous positive airway pressure treatment. A Randomized Trial.</article-title>
+              <source>Am J Respir Crit Care Med</source>
+              <year>2020</year>
+              <volume>201</volume>
+              <fpage>1135</fpage>
+              <lpage>1145</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 267 patients with obstructive sleep apnea not on CPAP therapy who had excessive daytime sleepiness and were treated with pitolisant or placebo for 12 weeks, improvement in Epworth Sleepiness Scale scores were greater with pitolisant [-6.3 vs -3.6 points], while adverse event rates were similar and there were no changes in &#x0201c;blood chemistry&#x0201d; results).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31917607</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.thorpy.2020.9">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thorpy</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Recently approved and upcoming treatments for narcolepsy.</article-title>
+              <source>CNS Drugs</source>
+              <year>2020</year>
+              <volume>34</volume>
+              <fpage>9</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, pharmacology, drug-drug interactions, clinical efficacy and safety of newly approved medications for narcolepsy including pitolisant and solriamfetol: no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31953791</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF.p_pin.2021.1598">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>P&#x000e9;pin</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Georgiev</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Tiholov</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Attali</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Verbraecken</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Buyse</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Partinen</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Fet al.; HAROSA I Study Group. Pitolisant for residual excessive daytime sleepiness in OSA patients adhering to CPAP: a randomized trial.</article-title>
+              <source>Chest</source>
+              <year>2021</year>
+              <volume>159</volume>
+              <fpage>1598</fpage>
+              <lpage>1609</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 244 patients with obstructive sleep apnea receiving CPAP therapy who had excessive daytime sleepiness and were treated with pitolisant or placebo for 12 weeks, improvements in Epworth Sleepiness Scale were greater with pitolisant than placebo [-6.0 vs -2.6] as were adverse events of headache [15% vs 1.5%] and insomnia [9.3% vs 3.3%]; but &#x0201c;no major changes were found in &#x02026;laboratory test results during the study&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33121980</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pitolisant.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Pitolisant (Wakix) for narcolepsy.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1617</issue>
+              <fpage>19</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, and relative efficacy, safety and costs of pitolisant in relation to other medications for narcolepsy shortly after its approval for use in the US, mentions side effects of headache, insomnia, nausea and prolongation of the QTc interval).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33647004</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pitolisant.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pitolisant+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pitolisant: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pitolisant">Trials on Pitolisant: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

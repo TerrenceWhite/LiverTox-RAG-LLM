@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Imetelstat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Imetelstat</book-part-id>
+      <title-group>
+        <title>Imetelstat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>9</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Imatinib" document-type="chapter">Imatinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Imipenemcilastatin" document-type="chapter">Imipenem-Cilastatin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Imetelstat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Imetelstat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Imetelstat is an oligonucleotide inhibitor of telomerase used to treat patients with myelodysplastic syndromes with transfusion dependent anemia. Imetelstat is associated with frequent serum aminotransferase elevations during therapy but has not been implicated in cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Imetelstat.Background">
+          <title>Background</title>
+          <p>Imetelstat (im&#x0201d; e tel&#x02019; stat) is a 13 mer synthetic oligonucleotide that binds to the template region of the RNA of human telomerase blocking the enzyme from binding to chromosomal telomers which results in reduction in telomerase length and inhibition of malignant cell proliferation. Patients with myelodysplastic syndromes (MDS) often have elevations in telomerase enzyme levels, and inhibition of telomerase enzyme activity results in a decrease in malignant stem and progenitor cell proliferation and promotes their apoptotic cell death. In a large, randomized placebo-controlled trial in 178 patients with MDS and transfusion dependence, 38% of imetelstat- vs 15% of placebo-treated subjects achieved transfusion independence for at least 8 weeks. In 2024, imetelstat was given approval for therapy of adults with refractory low- to intermediate-risk MDS with transfusion dependence despite erythropoiesis stimulating agents. Therapy may decrease transfusion dependence but has not been shown to induce remissions or prolong survival. Imetelstat is available as a lyophilized powder for suspension in single use vials of 47 mg and 188 mg under the brand name Rytelo. The recommended dose regimen is 7.1 mg per kilogram body weight intravenously (administered over 2 hours) every 4 weeks. Adverse events include infusion reactions, fatigue, arthralgia, myalgia, and headache. Imetelstat is myelosuppressive and decreases in white blood cells and platelets are common and need to be monitored. Less common but potentially severe adverse events include febrile neutropenia, bleeding, anemia, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Imetelstat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure controlled trials, serum ALT elevations occurred in 43% of imetelstat-treated subjects but also in 37% of placebo recipients, and levels rose above 5 times the upper limit of normal (ULN) in 3.4% with Imetelstat vs 5% with placebo. Elevations in alkaline phosphatase and bilirubin levels also occurred during therapy but rates were similar among those who received placebo. Dose interruptions and discontinuations due to liver test abnormalities were uncommon and occurred at similar rates with therapy as with placebo therapy. Most liver test abnormalities resolved with continued therapy, and no patient developed clinically apparent liver injury with jaundice.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Imetelstat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Imetelstat is a synthetic, substituted oligonucleotide that is metabolized to individual nucleotides in cells which would not be likely to be toxic. Metabolism does not depend upon hepatic CYP enzymes. It is not clear whether imetelstat causes shortening of telomers in normal hepatocytes and whether that might be harmful with long term therapy.</p>
+        </sec>
+        <sec id="Imetelstat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Imetelstat has been linked to mild-to-moderate serum enzyme elevations during therapy, but the abnormalities were rarely severe and usually asymptomatic and transient. Discontinuation for serum enzyme elevations is rarely necessary but should be done if the elevations are accompanied by symptoms or jaundice or if ALT elevations are persistently more than 5 times the upper limit of normal (ULN). There is no information on cross sensitivity to liver injury between imetelstat and other growth factors or therapies for MDS.</p>
+          <p>Drug Class: Hematologic Agents, Myelodysplastic Syndrome Agents</p>
+          <p>Other Drugs in this Class: <related-object link-type="booklink" source-id="livertox" document-id="Azacitidine" document-type="book-part">Azacitidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Decitabine" document-type="book-part">Decitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Luspatercept" document-type="book-part">Luspatercept</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Imetelstat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Imetelstat &#x02013; Rytelo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Hematologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Imetelstat">COMPLETE LABELING</ext-link>
+</p>
+      </sec>
+      <sec id="Imetelstat.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Imetelstat.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Imetelstat.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Imetelstat.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Imetelstat.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Imetelstat.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Imetelstat.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Imetelstat</td>
+                <td headers="hd_h_Imetelstat.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135295955">868169-64-6</ext-link>
+</td>
+                <td headers="hd_h_Imetelstat.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Oligonucleotide</td>
+                <td headers="hd_h_Imetelstat.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135295955" document-id-type="sid" document-type="summary" object-id="135295955" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Imetelstat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 September 2024</p>
+        <p>Abbreviations used: iv, intravenously; MDS, myelodysplastic syndrome.</p>
+        <ref-list id="Imetelstat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Imetelstat.REF1">
+            <mixed-citation publication-type="web">FDA. Multi-disciplinary Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217779Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217779Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website including product label and multidiscipline review of data submitted in support of imetelstat approval includes discussion of hepatotoxicity, therapy being associated with increase in ALT elevations [43% vs 37% with placebo] and bilirubin [39% vs 39%], with several patients having concurrent elevations in both, but most abnormalities resolved spontaneously suggesting that most elevations were due to the underlying condition; in preregistration studies, there were no instances of clinically apparent liver injury attributed to therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.tefferi.2015.908">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Tefferi</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lasho</surname>
+<given-names>TL</given-names></string-name>, <string-name name-style="western"><surname>Begna</surname>
+<given-names>KH</given-names></string-name>, <string-name name-style="western"><surname>Patnaik</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Zblewski</surname>
+<given-names>DL</given-names></string-name>, <string-name name-style="western"><surname>Finke</surname>
+<given-names>CM</given-names></string-name>, <string-name name-style="western"><surname>Laborde</surname>
+<given-names>RR</given-names></string-name>, <etal>et al.</etal>
+<article-title>A pilot study of the telomerase inhibitor imetelstat for myelofibrosis.</article-title>
+<source>N Engl J Med.</source>
+<year>2015</year>;<volume>373</volume>:<fpage>908</fpage>-<lpage>19</lpage>.<annotation><p><italic toggle="yes">(Among 33 patients with high or intermediate risk myelofibrosis treated with imetelstat [9.4 mg/kg iv] every 1 to 3 weeks, remission was induced in 7 [21%] and adverse events were frequent, especially thrombocytopenia and anemia; ALT elevations arose in 27%, AST in 55%, alkaline phosphatase in 36% and bilirubin in 49% of subjects, but most abnormalities were mild and self-limited and there were no instances of clinically apparent liver injury attributable to imetelstat).</italic></p></annotation><pub-id pub-id-type="pmid">26332545</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.baerlocher.2015.920">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Baerlocher</surname>
+<given-names>GM</given-names></string-name>, <string-name name-style="western"><surname>Oppliger Leibundgut</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Ottmann</surname>
+<given-names>OG</given-names></string-name>, <string-name name-style="western"><surname>Spitzer</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Odenike</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>McDevitt</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>R&#x000f6;th</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Telomerase inhibitor imetelstat in patients with essential thrombocythemia.</article-title>
+<source>N Engl J Med.</source>
+<year>2015</year>;<volume>373</volume>: <fpage>920</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 18 patients with essential thrombocytosis treated with imetelstat iv once weekly to lower platelet counts to less than 300,000/&#x003bc;L, a hematologic response occurred in all 18, common adverse events were neutropenia, anemia, headache, and syncope; while ALT elevations arose in 72%, they were above 5 times ULN in only 2 [11%]).</italic></p></annotation><pub-id pub-id-type="pmid">26332546</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.mascarenhas.2021.2881">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mascarenhas</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Komrokji</surname>
+<given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Palandri</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Martino</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Niederwieser</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Reiter</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Scott</surname>
+<given-names>BL</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized, single-blind, multicenter phase II study of two doses of imetelstat in relapsed or refractory myelofibrosis.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>2881</fpage>-<lpage>2892</lpage>.<annotation><p><italic toggle="yes">(Among 107 patients with relapsed or refractory myelofibrosis treated with 2 doses of imetelstat, symptom responses were achieved in 32%, and one year objective responses occurred in 79% and 84%; liver test adverse events occurred in 13%, but there were no instances of clinically apparent drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">34138638</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.santini.2021.681">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Santini</surname>
+<given-names>V.</given-names></string-name>
+<article-title>Advances in myelodysplastic syndrome.</article-title>
+<source>Curr Opin Oncol.</source>
+<year>2021</year>;<volume>33</volume>:<fpage>681</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis, clinical features, complications, diagnosis, cytogenetics, and therapy of MDS mentions the use of luspatercept as well as telomerase inhibitors and hypomethylating agents).</italic></p></annotation><pub-id pub-id-type="pmid">34474438</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.sekeres.2022.872">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>J</given-names></string-name>. <article-title>Diagnosis and treatment of myelodysplastic syndromes: a review.</article-title>
+<source>JAMA</source>. <year>2022</year>;<volume>328</volume>:<fpage>872</fpage>-<lpage>880</lpage>.<annotation><p><italic toggle="yes">(Concise review of clinical features, natural history, diagnosis, and management of MDS; adverse events are listed in tables but without mention or discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36066514</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.garciamanero.2023.1307">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G.</given-names></string-name>
+<article-title>Myelodysplastic syndromes: 2023 update on diagnosis, risk-stratification, and management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1307</fpage>-<lpage>1325</lpage>.<annotation><p><italic toggle="yes">(Review of the classification of MDS and risk categorization with an update on management including discussion of therapies; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37288607</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.randall.2023.152">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Randall</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>. <article-title>The management of low-risk myelodysplastic syndromes-current standards and recent advances.</article-title>
+<source>Cancer J.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>152</fpage>-<lpage>159</lpage>.<annotation><p><italic toggle="yes">(Review of treatment of low-risk MDS including use of erythropoietin, iron chelation, lenalidomide, luspatercept, imetelstat, and low dose hypomethylating agents; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37195771</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Imetelstat.REF.platzbecker.2024.249">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Santini</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Fenaux</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Savona</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Madanat</surname>
+<given-names>YF</given-names></string-name>, <string-name name-style="western"><surname>D&#x000ed;ez-Campelo</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Imetelstat in patients with lower-risk myelodysplastic syndromes who have relapsed or are refractory to erythropoiesis-stimulating agents (IMerge): a multinational, randomised, double-blind, placebo-controlled, phase 3 trial.</article-title>
+<source>Lancet.</source>
+<year>2024</year>;<volume>403</volume>:<fpage>249</fpage>-<lpage>260</lpage>.<annotation><p><italic toggle="yes">(Among 178 patients with lower-risk, relapsed or refractory MDS treated with imetelstat vs placebo once weekly, transfusion independence for at least 8 weeks was achieved in 40% vs 15%, while adverse events more common with imetelstat were neutropenia, anemia and thrombocytopenia as well as headache: ALT elevations occurred in 12% vs 7% but were above 5 times ULN in 3% in both groups and there were no clinically apparent episodes of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">38048786</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Imetelstat.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Imetelstat+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Imetelstat: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Imetelstat">Trials on Imetelstat: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Deuruxolitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Deuruxolitinib</book-part-id>
+      <title-group>
+        <title>Deuruxolitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>11</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Deucravacitinib" document-type="chapter">Deucravacitinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="DiazepamIV" document-type="chapter">Diazepam (Intravenous)</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Deuruxolitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Deuruxolitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Deuruxolitinib is an orally available small molecule inhibitor of Janus kinases that is used to treat severe alopecia areata. Deuruxolitinib is associated with a low rate of transient and usually mild elevations in serum aminotransferase levels during therapy but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Deuruxolitinib.Background">
+          <title>Background</title>
+          <p>Deuruxolitinib (dew rux&#x0201d; oh li&#x02019; ti nib) is an orally available, specific inhibitor of Janus-associated kinases (greater inhibition of JAK1, JAK2, and TYK2 relative to JAK3) that is used to treat moderate-to-severe alopecia areata. Alopecia areata is an autoimmune disorder that is characterized by hair loss resulting in patches and even complete baldness of the scalp, along with thinning or loss of eyebrows and eyelashes. It is believed to be an autoimmune condition. The Janus kinases are critical steps in immune activation that transmit signals for different cytokine receptors and promote expression of genes involved in production of proinflammatory cytokines. Inhibitors of JAK kinases have been used to treat several autoimmune diseases including alopecia areata. In two large randomized controlled trials, deuruxolitinib was found to decrease or reverse hair loss in adults with alopecia areata. Deuruxolitinib was approved for this use in the United States in 2024, the third small molecule JAK inhibitor approved as therapy for alopecia areata, after baricitinib (in 2022) and ritlecitinib (in 2023). Deuruxolitinib is available in tablets of 8 mg under the brand name Leqselvi. The recommended dose is 8 mg twice daily. Current indications are severe alopecia areata (as defined by 50% hair loss or greater) in adults. Common side effects are headache, acne, rash, nasopharyngitis, fatigue, weight gain, skin and soft tissue infections, and herpes virus reactivation. Deuruxolitinib can also cause anemia, lymphopenia, neutropenia, thrombocytopenia, hyperlipidemia, and creatine kinase elevations. Potential severe adverse events may include reactivation of fungal, viral, and opportunistic infections such as tuberculosis, hepatitis B, herpes simplex, and herpes zoster. Other JAK inhibitors have been linked to a higher rate of all-cause mortality and rarely to venous and arterial thromboses and to malignancies and major atherosclerotic cardiovascular and cerebrovascular events (myocardial infarction, stroke, and cardiovascular death).</p>
+        </sec>
+        <sec id="Deuruxolitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials in alopecia areata, serum aminotransferase elevations occurred in less than 1% of deuruxolitinib-treated subjects and there were no instances of ALT or AST elevations accompanied by symptoms or jaundice. The elevations were typically mild and transient and did not lead to dose adjustments or discontinuations. In prelicensure studies in alopecia areata, there were no instances of liver related severe adverse events or drug induced liver injury. Since approval of deuruxolitinib, there have been no published reports of hepatotoxicity associated with its use, but clinical experience with it has been limited.</p>
+          <p>Finally, deuruxolitinib is an immune modulatory agent and has the potential of causing reactivation of viral infections including hepatitis B. Other JAK inhibitors have been implicated in rare instances of reactivation of hepatitis B, although the episodes were usually asymptomatic and self-limited in course. The risk of reactivation of hepatitis B in patients with HBsAg or with anti-HBc without HBsAg who are treated with deuruxolitinib has not been defined as patients with these viral markers were excluded from the preregistration trials.</p>
+          <p>Likelihood score: E* (unlikely cause of idiosyncratic clinically apparent liver injury but is a potential cause of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Deuruxolitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which deuruxolitinib might cause liver injury is not known. It is metabolized in the liver, largely via CYP 2C9 and to a lesser extent by 3A4. High levels can arise in patients who are slow metabolizers by CYP 2C9 and the product label recommends testing patients for CYP 2C9 metabolized status before its use. Furthermore, coadministration of deuruxolitinib with moderate or strong inhibitors of CYP 2C9 can lead to marked elevations in plasma levels and such agents should not be used. Finally, concurrent use of inducers of CPY 2C9 or 3A4 can lead to lower plasma levels and possible loss of effect and should not be avoided. The pharmacokinetics of deuruxolitinib are not affected by mild-to-moderate liver impairment (Child-Pugh A or B), but its use is not recommended in patients with severe impairment (Child-Pugh C).</p>
+        </sec>
+        <sec id="Deuruxolitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations are uncommon during deuruxolitinib therapy, and routine monitoring of liver tests is not recommended in the product label. If aminotransferase elevations above 5 times the upper limit of normal (ULN) arise, deuruxolitinib therapy should be interrupted, at least temporarily, until levels fall into the normal or near normal range. Elevations above 20 times the ULN or any elevations accompanied by symptoms or jaundice should lead to permanent discontinuation.</p>
+          <p>Because of its potential to cause reactivation of hepatitis B, routine blood screening for HBsAg and anti-HBc before starting therapy with deuruxolitinib is appropriate. Patients with HBsAg in serum should be treated prophylactically during therapy using an oral antiviral agent with activity against HBV such as entecavir or tenofovir. An alternative approach, which is also appropriate for patients with anti-HBc without HBsAg, is to monitor patients carefully for HBV DNA and initiate antiviral therapy if HBV DNA becomes detectable in serum.</p>
+          <p>Drug Class: Dermatologic Agents, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs for Alopecia areata: <related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="book-part">Baricitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ritlecitinib" document-type="book-part">Ritlecitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Deuruxolitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Deuruxolitinib &#x02013; Leqselvi&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Dermatologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Deuruxolitinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Deuruxolitinib.CHEMICAL_FORMULA_AND_STRU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Deuruxolitinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Deuruxolitinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Deuruxolitinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Deuruxolitinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Deuruxolitinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Deuruxolitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Deuruxolitinib</td>
+                <td headers="hd_h_Deuruxolitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://433770460">1513883-39-0</ext-link>
+</p>
+</td>
+                <td headers="hd_h_Deuruxolitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H18-N6</td>
+                <td headers="hd_h_Deuruxolitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="433770460" document-id-type="sid" document-type="summary" object-id="433770460" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Deuruxolitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 November 2024</p>
+        <ref-list id="Deuruxolitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Deuruxolitinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as baricitinib and deuruxolitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not the JAK inhibitors such as deuruxolitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; deuruxolitinib is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.multidiscipline_review">
+            <mixed-citation publication-type="web"><string-name name-style="western"><given-names>FDA.</given-names>
+<surname>Multi-Discipline Review</surname></string-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217900Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217900Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy mentions that the rate of liver enzyme elevations during deuruxolitinib therapy was low [less than 1%] and among more than 1000 patients exposed to deuruxolitinib there were no serious hepatic adverse events and no instances of drug-induced liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.hoisnard.2022.7140">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoisnard</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Lebrun-Vignes</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Maury</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Mahevas</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>El Karoui</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Roy</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Zarour</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Adverse events associated with JAK inhibitors in 126,815 reports from the WHO pharmacovigilance database.</article-title>
+<source>Sci Rep.</source>
+<year>2022</year>;<volume>12</volume>:<fpage>7140</fpage>.<annotation><p><italic toggle="yes">(Among 126,815 individual case safety reports on ruxolitinib, tofacitinib and baricitinib made to the WHO pharmacovigilance registry, infections were most frequent including viral, fungal, bacterial, and mycobacterial complications while there was no increase in hepatobiliary reports).</italic></p></annotation><pub-id pub-id-type="pmid">35504889</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.king.2022.1687">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Ohyama</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kwon</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Zlotogorski</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ko</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Mesinkovska</surname>
+<given-names>NA</given-names></string-name>, <string-name name-style="western"><surname>Hordinsky</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <article-title>BRAVE-AA Investigators. Two phase 3 trials of baricitinib for alopecia areata.</article-title>
+<source>N Engl J Med.</source>
+<year>2022</year>;<volume>386</volume>:<fpage>1687</fpage>-<lpage>1699</lpage>.<annotation><p><italic toggle="yes">(Among 1200 patients with alopecia areata treated with baricitinib or placebo once daily for 36 weeks in two controlled trials, clinical responses were higher with 4 mg [39% and 36%] than with 2 mg [23% and 19%] or placebo [6.2% and 3.3%], while adverse event rates were similar in all 3 groups, and ALT elevations above 3 times ULN were less frequent with baricitinib than placebo [1.5% vs 2.7%]).</italic></p></annotation><pub-id pub-id-type="pmid">35334197</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.shawky.2022.1001">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shawky</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Almalki</surname>
+<given-names>FA</given-names></string-name>, <string-name name-style="western"><surname>Abdalla</surname>
+<given-names>AN</given-names></string-name>, <string-name name-style="western"><surname>Abdelazeem</surname>
+<given-names>AH</given-names></string-name>, <string-name name-style="western"><surname>Gouda</surname>
+<given-names>AM</given-names></string-name>. <article-title>A comprehensive overview of globally approved JAK inhibitors.</article-title>
+<source>Pharmaceutics.</source>
+<year>2022</year>;<volume>14</volume>:<fpage>1001</fpage>.<annotation><p><italic toggle="yes">(Review of the JAK-STAT pathways and currently approved JAK inhibitors; JAK proteins are cytoplasmic, non-receptor tyrosine kinases involved in transduction of cytokine signals that pair when binding to transmembrane cytokine receptors and, once activated, phosphorylate STAT causing its dimerization and transfer to the nucleus where it activates cytokine induced genes).</italic></p></annotation><pub-id pub-id-type="pmid">35631587</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.king.2021.379">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Guttman-Yassky</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Peeva</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Banerjee</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Sinclair</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Pavel</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Zhu</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase 2a randomized, placebo-controlled study to evaluate the efficacy and safety of the oral Janus kinase inhibitors deuruxolitinib and brepocitinib in alopecia areata: 24-week results.</article-title>
+<source>J Am Acad Dermatol.</source>
+<year>2021</year>;<volume>85</volume>:<fpage>379</fpage>-<lpage>387</lpage>.<annotation><p><italic toggle="yes">(Among 142 patients with alopecia areata treated with ritlecitinib or brepocitinib or placebo for 24 weeks, the alopecia severity scores improved more with the JAK inhibitors [31% and 49% vs 2%], while adverse event rates were similar in all three groups [67% and 77% vs 74%] and there were no elevations in serum ALT or AST above 2.5 times ULN in patients receiving ritlecitinib).</italic></p></annotation><pub-id pub-id-type="pmid">33757798</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.papierzewska.2023.325">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Papierzewska</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Wa&#x0015b;kiel-Burnat</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Rudnicka</surname>
+<given-names>L.</given-names></string-name>
+<article-title>Safety of Janus kinase inhibitors in patients with alopecia areata: a systematic review.</article-title>
+<source>Clin Drug Investig.</source>
+<year>2023</year>;<volume>43</volume>:<fpage>325</fpage>-<lpage>334</lpage>.<annotation><p><italic toggle="yes">(Review of the safety and adverse events associated with the small molecule JAK inhibitors used to treat alopecia areata mentions that &#x0201c;elevated liver enzymes&#x0201d; arose in 5.2% of patients on ruxolitinib, 2.7% on tofacitinib, but does not provide information on deuruxolitinib).</italic></p></annotation><pub-id pub-id-type="pmid">37138134</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.king.2023.s29">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Craiglow</surname>
+<given-names>BG</given-names></string-name>. <article-title>Janus kinase inhibitors for alopecia areata.</article-title>
+<source>J Am Acad Dermatol.</source>
+<year>2023</year>;<volume>89</volume>:<fpage>S29</fpage>-<lpage>S32</lpage>.<annotation><p><italic toggle="yes">(Brief review of the mechanism of action, clinical efficacy, and safety of the three JAK inhibitors approved for use for alopecia areata &#x02013; baricitinib, ritlecitinib, and deuruxolitinib &#x02013; concludes that their efficacy is not very different and failure of one does not preclude failure of another JAK inhibitor; no mention of ALT elevations during therapy or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37591562</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Deuruxolitinib.REF.king.2024.880">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>King</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Senna</surname>
+<given-names>MM</given-names></string-name>, <string-name name-style="western"><surname>Mesinkovska</surname>
+<given-names>NA</given-names></string-name>, <string-name name-style="western"><surname>Lynde</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Zirwas</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Maari</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Prajapati</surname>
+<given-names>VH</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of deuruxolitinib, an oral selective Janus kinase inhibitor, in adults with alopecia areata: Results from the Phase 3 randomized, controlled trial (THRIVE-AA1).</article-title>
+<source>J Am Acad Dermatol.</source>
+<year>2024</year>;<volume>91</volume>:<fpage>880</fpage>-<lpage>888</lpage>.<annotation><p><italic toggle="yes">(Among 706 adults with severe alopecia areata treated with deuruxolitinib [8 or 12 mg] or placebo twice daily for 24 weeks, clinical response rates were 30% and 41.5% with deuruxolitinib vs 0.8% with placebo, while adverse event rates were 65% and 64% vs 56% which were serious in 1.1% and 0.5% vs 2.9%, and there were no serious hepatic adverse events; no mention of ALT elevations or hepatoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39053611</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Deuruxolitinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Deuruxolitinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Deuruxolitinib: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Deuruxolitinib">Trials on Deuruxolitinib: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

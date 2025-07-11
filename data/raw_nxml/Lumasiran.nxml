@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lumasiran" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lumasiran</book-part-id>
+      <title-group>
+        <title>Lumasiran</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>3</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lubiprostone" document-type="chapter">Lubiprostone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Lumateperone" document-type="chapter">Lumateperone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lumasiran.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lumasiran.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lumasiran is a synthetic small interfering RNA molecule directed against the mRNA of hydroxyacid oxidase 1 that is used to treat the rare genetic disease primary hyperoxaluria type 1. Lumasiran has not been linked to serum aminotransferase elevations during therapy or to instances of clinically apparent liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Lumasiran.Background">
+          <title>Background</title>
+          <p>Lumasiran (loo&#x0201d; ma sir&#x02019; an) is a synthetic, double-stranded, small interfering RNA (siRNA) directed against the mRNA of hydroxyacid oxidase 1 (HAO1), an enzyme made in the liver that decreases the production of oxalate, a relatively insoluble molecule that is not metabolized further and is excreted in the kidneys. Lumasiran was developed to treat primary hyperoxaluria type 1, a rare autosomal recessive disease marked by excessive production of oxalate due to a deficiency in the peroxisomal enzyme alanine-glyoxylate aminotransferase, which converts glyoxylate (the precursor of oxalate) to glycine. As a result, children with primary hyperoxaluria type 1 produce excessive oxalate in the liver which overwhelms the capacity of the kidney for excretion and results in formation of insoluble calcium oxalate crystals leading to nephrocalcinosis, recurrent kidney stones and progressive renal damage. With renal dysfunction, oxalate begins to accumulate in other organs causing damage to bone, skin, vascular endothelium, heart, eye and brain. The clinical manifestations of primary hyperoxaluria type 1 are variable, but progressive renal failure is prominent and can lead to death in childhood or young adulthood. To facilitate its hepatic uptake, lumasiran is covalently linked to three N-acetylgalactosamine residues which bind to and are taken up by the hepatocyte-specific asialoglycoprotein receptor. Once taken up by cells, the siRNA is cleaved into smaller fragments and separated into single strands that bind and silence the mRNA of HAO1. In animal models, lumasiran reduced HAO1 mRNA levels in liver and oxalate accumulation in liver and kidneys. In small placebo controlled trials of lumasiran in patients with hyperoxaluria, subcutaneous injections resulted in dose related reductions in serum and urinary oxalate levels. With 3 to 6 monthly injections of higher doses, oxalate levels fell by more than 50%. Lumasiran was approved for use in the United States in 2020 for children (12 years of age or older) and adults with primary hyperoxaluria type 1. Indications were subsequently expanded to children of all ages. Lumasiran is available in solution in single dose prefilled syringes of 94.5 mg in 0.5 mL under the brand name Oxlumo. The recommended dose regimen varies by body weight. For patients weighing 20 kg or above, the dose is 3 mg/kg subcutaneously once monthly for 3 months followed by once every 3 months. Administration by a health care provider is recommended. Lumasiran is generally well tolerated but side effects can include injection site reactions, fatigue, arthralgias, diarrhea, abdominal pain, headache, and musculoskeletal pains. In preregistration studies, 5% to 13% of lumasiran treated patients developed anti-drug antibodies, but their presence was not associated with decreased efficacy or safety.</p>
+        </sec>
+        <sec id="Lumasiran.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration pivotal trials, lumasiran therapy was well tolerated and minor serum ALT elevations arose in 16% of treated patients and a similar proportion of controls (15%). The elevations were invariably transient, mild-to-moderate in severity, and without accompanying symptoms or jaundice. None of the elevations were above 3 times the upper limit of normal, and none led to drug discontinuation. Since its approval, there have been no published reports of liver injury attributed to lumasiran therapy. Thus, lumasiran is an unlikely cause of clinically apparent liver injury, although it still has had limited widescale clinical use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Lumasiran.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of hepatic injury from lumasiran or other siRNA therapeutics is not known. Lumasiran, like other siRNA therapeutic agents, is metabolized intracellularly by nucleases and is not a substrate of cytochrome P450 enzymes or hepatic transporters.</p>
+        </sec>
+        <sec id="Lumasiran.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Lumasiran has not been linked to significant liver test abnormalities or to clinically apparent liver injury and regular monitoring of routine liver tests is not recommended.</p>
+          <p>Drug Class: Genetic Disorder Agents, siRNA and Antisense Agents</p>
+          <p>Other Therapeutic siRNA-based Agent for Hyperoxaluria: <related-object link-type="booklink" source-id="livertox" document-id="Nedosiran" document-type="book-part">Nedosiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lumasiran.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Lumasiran &#x02013; Oxlumo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Lumasiran">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Lumasiran.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lumasiran.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Lumasiran.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lumasiran.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Lumasiran.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lumasiran.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lumasiran.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lumasiran</td>
+                <td headers="hd_h_Lumasiran.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381128099">1834610-13-7</ext-link>
+</td>
+                <td headers="hd_h_Lumasiran.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C530-H669-F10-N173-O320-P43-S6-Na43</td>
+                <td headers="hd_h_Lumasiran.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lumasiran.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 March 2025</p>
+        <p>Abbreviations: mRNA, messenger RNA; siRNA, small interfering RNA.</p>
+        <ref-list id="Lumasiran.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lumasiran.REF.lumasiran.2020">
+            <mixed-citation publication-type="web">FDA. Lumasiran. Integrated Review. 2020. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214103Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214103Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(The FDA clinical review of lumasiran for efficacy and safety reported from 57 patients, among whom there were no deaths or drug related serious adverse events, injection site reactions arising in 23% [vs none on placebo], ALT elevations arising in 16% [4/44] on lumasiran vs 15% [3/18] on placebo, all ALT elevations were less than 3 times ULN, transient, and not associated with symptoms or jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.setten.2019.421">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Setten</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>SP</given-names></string-name>. <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+<source>Nat Rev Drug Discov</source>
+<year>2019</year>; <volume>18</volume>: <fpage seq="a">421</fpage>-<lpage>46</lpage>.<annotation><p><italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of RNAi therapeutics which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic></p></annotation><pub-id pub-id-type="pmid">30846871</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.scott.2021.277">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Scott</surname>
+<given-names>LJ</given-names></string-name>, <string-name name-style="western"><surname>Keam</surname>
+<given-names>SJ</given-names></string-name>. <article-title>Lumasiran: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>(<issue>2</issue>):<fpage>277</fpage>-<lpage>282</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of lumasiran shortly after its approval in the US mentions that adverse events of therapy were generally mild and transient, and there were no serious adverse events attributed to lumasiran and no discontinuations or deaths from adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">33405070</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.garrelfs.2021.1216">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garrelfs</surname>
+<given-names>SF</given-names></string-name>, <string-name name-style="western"><surname>Frishberg</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Hulton</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Koren</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>O'Riordan</surname>
+<given-names>WD</given-names></string-name>, <string-name name-style="western"><surname>Cochat</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Desch&#x000ea;nes</surname>
+<given-names>G</given-names></string-name>, <etal>et al.</etal>; <article-title>ILLUMINATE-A Collaborators. Lumasiran, an RNAi therapeutic for primary hyperoxaluria type 1.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>1216</fpage>-<lpage>1226</lpage>.<annotation><p><italic toggle="yes">(Among 39 patients with primary hyperoxaluria type 1 treated with lumasiran or placebo for 6 months, urine and serum oxalate levels decreased with lumasiran therapy and there were no serious adverse events and no clinically relevant changes in liver function tests).</italic></p></annotation><pub-id pub-id-type="pmid">33789010</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.frishberg.2021.1025">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Frishberg</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Desch&#x000ea;nes</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Groothoff</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Hulton</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Magen</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Harambat</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Van't Hoff</surname>
+<given-names>WG</given-names></string-name>, <etal>et al.</etal>; <article-title>study collaborators. Phase 1/2 study of lumasiran for treatment of primary hyperoxaluria type 1: a placebo-controlled randomized clinical trial.</article-title>
+<source>Clin J Am Soc Nephrol.</source>
+<year>2021</year>;<volume>16</volume>:<fpage>1025</fpage>-<lpage>1036</lpage>.<annotation><p><italic toggle="yes">(In early phase studies in 32 healthy controls and 20 adult and pediatric patients with primary hyperoxaluria type 1 treated with ascending doses of lumasiran or placebo, adverse events included injection site reactions [38% vs 0%], abdominal pain and headaches which were transient and mild, and there were no drug related serious adverse events or deaths, and no &#x0201c;clinically significant changes in laboratory measures&#x0201d; including liver function tests).</italic></p></annotation><pub-id pub-id-type="pmid">33985991</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.hulton.2021.494">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hulton</surname>
+<given-names>SA</given-names></string-name>, <string-name name-style="western"><surname>Groothoff</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Frishberg</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Koren</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Overcash</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Sellier-Leclerc</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Shasha-Lavsky</surname>
+<given-names>H</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized clinical trial on the long-term efficacy and safety of lumasiran in patients with primary hyperoxaluria type 1.</article-title>
+<source>Kidney Int Rep.</source>
+<year>2021</year>;<volume>7</volume>:<fpage>494</fpage>-<lpage>506</lpage>.<annotation><p><italic toggle="yes">(Among 24 patients with primary hyperoxaluria type 1 maintained on lumasiran in an extension study of up to 24 months, improvements in oxalate plasma levels were maintained and nephrocalcinosis scores improved, while adverse events were generally mild [injection stie reactions in 41%, abdominal pain 18%, headaches in 10%] and there were &#x0201c;no clinically relevant changes in laboratory measures&#x0201d; [including liver function tests]).</italic></p></annotation><pub-id pub-id-type="pmid">35257062</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.sas.2022.654">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sas</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Magen</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Hayes</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Shasha-Lavsky</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Michael</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schulte</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Sellier-Leclerc</surname>
+<given-names>AL</given-names></string-name>, <etal>et al.</etal>; <article-title>ILLUMINATE-B Workgroup. Phase 3 trial of lumasiran for primary hyperoxaluria type 1: A new RNAi therapeutic in infants and young children.</article-title>
+<source>Genet Med.</source>
+<year>2022</year>;<volume>24</volume>:<fpage>654</fpage>-<lpage>662</lpage>.<annotation><p><italic toggle="yes">(Among 18 children less than 6 years of age with primary hyperoxaluria treated with lumasiran for at least 6 months, plasma oxalate decreased by 32% and there were no serious adverse events and only mild injection site reactions [n=2], and &#x0201c;no clinically relevant changes in laboratory measures&#x0201d; including liver tests).</italic></p></annotation><pub-id pub-id-type="pmid">34906487</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.michael.2023.145">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Michael</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Groothoff</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Shasha-Lavsky</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lieske</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Frishberg</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Simkova</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Sellier-Leclerc</surname>
+<given-names>AL</given-names></string-name>, <etal>et al.</etal>
+<article-title>Lumasiran for advanced primary hyperoxaluria type 1: phase 3 ILLUMINATE-C trial.</article-title>
+<source>Am J Kidney Dis.</source>
+<year>2023</year>;<volume>81</volume>:<fpage>145</fpage>-<lpage>155.e1</lpage>.<annotation><p><italic toggle="yes">(Among 21 patients with primary hyperoxaluria type 1 treated with lumasiran for at least 6 months, plasma oxalate levels fell by 33-42%, while adverse events were largely mild and transient and included injection site reactions [24%], and there were no &#x0201c;clinically relevant trends&#x0201d; in laboratory measures including liver function tests).</italic></p></annotation><pub-id pub-id-type="pmid">35843439</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.hayes.2023.1075">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hayes</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Sas</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Magen</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Shasha-Lavsky</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Michael</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sellier-Leclerc</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Hogan</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of lumasiran for infants and young children with primary hyperoxaluria type 1: 12-month analysis of the phase 3 ILLUMINATE-B trial.</article-title>
+<source>Pediatr Nephrol.</source>
+<year>2023</year>; <volume>38</volume>:<fpage>1075</fpage>-<lpage>1086</lpage>.<annotation><p><italic toggle="yes">(Further follow up of children with primary hyperoxaluria treated with lumasiran [Sas 2022] for 12 months, found further decreases in plasma oxalate levels [from -32% at 6 months to -47% at 12] and no new adverse events, injection site reactions reported in 3 children [17%] and &#x0201c;no clinically relevant changes in laboratory measures&#x0201d; including liver function tests).</italic></p></annotation><pub-id pub-id-type="pmid">35913563</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.ranasinghe.2023.2697">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ranasinghe</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Addison</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Dear</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Webb</surname>
+<given-names>DJ</given-names></string-name>. <article-title>Small interfering RNA: Discovery, pharmacology and clinical development&#x02013;An introductory review.</article-title>
+<source>Br J Pharmacol.</source>
+<year>2023</year>; <volume>180</volume>: <fpage>2697</fpage>-<lpage>2720</lpage>.<annotation><p><italic toggle="yes">(Review of the history of development, mechanism of action, methods of delivery, clinical efficacy and safety of RNA silencing drugs including lumasiran, givosiran, inclisiran, patisiran and vutrisiran, discusses adverse events from lumasiran of injection site reactions, but does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36250252</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.sellierleclerc.2023.517">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sellier-Leclerc</surname>
+<given-names>AL</given-names></string-name>, <string-name name-style="western"><surname>Metry</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Clave</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Perrin</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Acquaviva-Bourdain</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Levi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Crop</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Isolated kidney transplantation under lumasiran therapy in primary hyperoxaluria type 1: a report of 5 cases.</article-title>
+<source>Nephrol Dial Transplant.</source>
+<year>2023</year>;<volume>38</volume>:<fpage>517</fpage>-<lpage>521</lpage>.<annotation><p><italic toggle="yes">(Among 5 patients with primary hyperoxaluria type 1 and renal failure on hemodialysis who were treated with lumasiran for 5-17 months and the underwent renal transplantation, all survived and had no evidence of recurrence of oxalate renal injury; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36307929</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Lumasiran.REF.saland.2024.2037">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Saland</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Lieske</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Groothoff</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Frishberg</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shasha-Lavsky</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Magen</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Moochhala</surname>
+<given-names>SH</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of lumasiran in patients with primary hyperoxaluria type 1: Results&#x000a0;from a phase III clinical trial.</article-title>
+<source>Kidney Int Rep.</source>
+<year>2024</year>;<volume>9</volume>:<fpage>2037</fpage>-<lpage>2046</lpage>.<annotation><p><italic toggle="yes">(Among 39 patients with primary hyperoxaluria type 1 treated in a 6 month placebo controlled trial who were then enrolled in an open label long term study, urinary oxalate excretion remained decreased and reached normal levels in 76-92% and kidney stone events declined, while adverse event rates remained low and were mostly injection site reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39081738</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Lumasiran.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Lumasiran/AE)%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Lumasiran: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/results?term=Lumasiran">Trials on Lumasiran: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Abrocitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Abrocitinib</book-part-id>
+      <title-group>
+        <title>Abrocitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Abiraterone" document-type="chapter">Abiraterone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Acalabrutinib" document-type="chapter">Acalabrutinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Abrocitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Abrocitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Abrocitinib is an orally available, small molecule inhibitor of Janus kinase 1 (JAK1) that is used to treat moderate-to-severe atopic dermatitis. Abrocitinib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy, but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Abrocitinib.Background">
+          <title>Background</title>
+          <p>Abrocitinib (ab&#x0201d; roe sye' ti nib) is an orally available, small molecule, specific inhibitor of Janus-associated kinase 1 (JAK1) that is used to treat refractory, moderate-to-severe atopic dermatitis. The JAK proteins are intracellular tyrosine kinases that provide critical steps in pathways of immune activation as well as in hematopoiesis. There are four mammalian JAK proteins (JAK1-3 and TY2K), all of which are involved in cell signaling in response to inflammatory cytokines such as interleukins and interferons. JAK1 is specifically involved in modulating the effects of IL-4, IL-23, IL-22 and IL-31, which play roles in the pathogenesis of several inflammatory conditions including atopic dermatitis. In several large, placebo controlled trials, abrocitinib was found to improve symptoms in adults with atopic dermatitis who had failed to respond to topical and other systemic therapies. Abrocitinib was approved in the United States in 2022 as therapy for adults with refractory, moderate-to-severe atopic dermatitis. It is currently being evaluated for efficacy and safety in adolescents. Abrocitinib is available in tablets of 50, 100 and 200 mg under the brand name Cibinqo. The recommended starting dose is 100 mg once daily which can be increased or decreased based upon efficacy and tolerance. Common side effects of abrocitinib are nausea, headache, dizziness, thrombocytopenia and herpes simplex infections. Rare but potentially severe adverse events may include severe bacterial, fungal, viral or opportunistic infections, reactivation of latent tuberculosis or herpes zoster, and severe thrombocytopenia. Recently, all of the product labels of small molecule JAK inhibitors including abrocitinib have been given a boxed warning because of increased rates of all-cause mortality including cardiovascular deaths, and increased risk for malignancies including lymphomas and lung cancer, venous and arterial thromboses, and major cardiovascular events (MACE).</p>
+        </sec>
+        <sec id="Abrocitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the large registration clinical trials, serum aminotransferase elevations occurred rarely and were not attributed to abrocitinib. These elevations were typically mild and transient, and values above 3 times the upper limit of normal (ULN) occurred in less than 1% of patients on abrocitinib. In prelicensure studies, there were no instances of clinically apparent liver injury attributed to abrocitinib. Since approval of abrocitinib, there have been no published reports of hepatotoxicity associated with its use, but clinical experience with its use has been limited.</p>
+          <p>While other Janus kinase inhibitors such as ruxolitinib have been associated with episodes of reactivation of hepatitis B, spontaneous reports of clinically apparent reactivation of hepatitis during abrocitinib therapy have not been reported.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Abrocitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of serum enzyme elevations during abrocitinib therapy are not known. Abrocitinib is metabolized in the liver largely by CYP 2C9 and 3A4 pathways and may be susceptible to drug-drug interactions with agents that inhibit or induce these specific hepatic microsomal enzymes.</p>
+        </sec>
+        <sec id="Abrocitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>There is no recommendation for monitoring of routine liver tests during abrocitinib therapy. Because abrocitinib may cause reactivation of hepatitis B, patients starting long term therapy should be screened for HBsAg and anti-HBc. Patients with preexisting HBsAg in serum should undergo evaluation and prophylaxis against reactivation of HBV using potent oral antiviral agents, such as tenofovir or entecavir. Those with anti-HBc without HBsAg or HBV DNA should be monitored for evidence of infection and treated if there is de novo appearance of HBsAg or HBV DNA.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs in the Subclass, Janus Kinase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="chapter">Baricitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fedratinib" document-type="chapter">Fedratinib</related-object><underline>,</underline>
+<related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="chapter">Ruxolitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tofacitinib" document-type="chapter">Tofacitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Upadacitinib" document-type="chapter">Upadacitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Abrocitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Abrocitinib &#x02013; Cibinqo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Dermatologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Abrocitinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Abrocitinib.CHEMICAL_FORMULAS_AND_STRUCT">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Abrocitinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Abrocitinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Abrocitinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Abrocitinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Abrocitinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Abrocitinib</td>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://348351307">1622902-68-4</ext-link>
+</td>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H21-N5-O2-S</td>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="348351307" document-id-type="sid" document-type="summary" object-id="348351307" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tofacitinib</td>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135253188">477600-75-2</ext-link>
+</td>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C16-H20-N6-O</td>
+                <td headers="hd_h_Abrocitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135253188" document-id-type="sid" document-type="summary" object-id="135253188" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Abrocitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 13 June 2022</p>
+        <ref-list id="Abrocitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Abrocitinib.REF1">
+            <mixed-citation publication-type="other">Abbreviations: JAK, Janus kinase.</mixed-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as abrocitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not abrocitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; abrocitinib is not discussed specifically).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/213871Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/213871Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website with product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy of abrocitinib mentions that there were no meaningful change over time in measures of central tendency for ALT or AST or increased frequency of ALT or AST values above 3 or 5 times ULN).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.ghoreschi.2009.273">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ghoreschi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Laurence</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>O'Shea</surname><given-names>JJ</given-names></name>
+</person-group>
+              <article-title>Janus kinases in immune cell signaling.</article-title>
+              <source>Immunol Rev.</source>
+              <year>2009</year>
+              <volume>228</volume>
+              <fpage>273</fpage>
+              <lpage>87</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the Janus kinases structure and role in immune reactions and hematopoiesis as well as the promise of JAK inhibitors in treating autoimmune diseases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19290934</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.shah.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shah</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Morganroth</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>DR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>491</fpage>
+              <lpage>503</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; abrocitinib is not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23620168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.spraggs.2013.541">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spraggs</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Hunt</surname><given-names>CM</given-names></name>
+</person-group>
+              <article-title>Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors.</article-title>
+              <source>Pharmacogenomics</source>
+              <year>2013</year>
+              <volume>14</volume>
+              <fpage>541</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib; abrocitinib is not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23556451</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 cases were attributed to drugs for rheumatoid arthritis: all 5 due to leflunomide and none to abrocitinib).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.gooderham.2019.1371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gooderham</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Forman</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Bissonnette</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Beebe</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Banfield</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of oral Janus Kinase 1 inhibitor abrocitinib for patients with atopic dermatitis: a phase 2 randomized clinical trial.</article-title>
+              <source>JAMA Dermatol.</source>
+              <year>2019</year>
+              <volume>155</volume>
+              <fpage>1371</fpage>
+              <lpage>1379</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 267 adults with atopic dermatitis treated with abrocitinib [10, 30, 100 or 200 mg] or placebo once daily for 12 weeks, global assessment improvements occurred in 11%, 10%, 30% and 44% vs 6% with placebo, while adverse events were most common with higher doses and included headache, nausea, diarrhea and transient thrombocytopenia; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31577341</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.simpson.2020.255">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Simpson</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Sinclair</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Forman</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wollenberg</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Aschoff</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cork</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bieber</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of abrocitinib in adults and adolescents with moderate-to-severe atopic dermatitis (JADE MONO-1): a multicentre, double-blind, randomised, placebo-controlled, phase 3 trial.</article-title>
+              <source>Lancet.</source>
+              <year>2020</year>
+              <volume>396</volume>
+              <issue>10246</issue>
+              <fpage>255</fpage>
+              <lpage>266</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 387 patients with moderate-to-severe atopic dermatitis treated with abrocitinib [100 or 200 mg] or placebo once daily for 12 weeks, global assessment response rates were higher with abrocitinib [24% and 44% vs 8%] as were adverse events rates [69% and 78% vs 57%], but not severe adverse events [3% and 3% vs 4%]; symptoms more frequent with abrocitinib were nausea and headache, while herpes simplex and zoster and ALT elevations arose in 1% or less and there were no severe liver related events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32711801</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.silverberg.2020.863">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Silverberg</surname><given-names>JI</given-names></name>
+<name name-style="western"><surname>Simpson</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Thyssen</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Gooderham</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Feeney</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Biswas</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of abrocitinib in patients with moderate-to-severe atopic dermatitis: a randomized clinical trial.</article-title>
+              <source>JAMA Dermatol.</source>
+              <year>2020</year>
+              <volume>156</volume>
+              <fpage>863</fpage>
+              <lpage>873</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 391 adults and adolescents with moderate-to-severe atopic dermatitis treated with abrocitinib [100 or 200 mg] or placebo once daily for 12 weeks, global symptom assessment scores were improved in 28% and 38% vs 9%, while adverse event rates were 66% vs 66% vs 54%, and serious event rates were 1.3%, 3.2% and 1.3%; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32492087</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF13">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for atopic dermatitis.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <fpage>89</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the approved drugs for therapy of atopic dermatitis, including their mechanism of action, clinical efficacy, safety and relative costs: mentions that JAK inhibitors such as abrocitinib have used off label and experimentally for atopic dermatitis; no mention of adverse events or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32555122</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.satarker.2021.489">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Satarker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tom</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Shaji</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Alosious</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Luvis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nampoothiri</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>JAK-STAT pathway inhibition and their implications in COVID-19 therapy.</article-title>
+              <source>Postgrad Med</source>
+              <year>2021</year>
+              <volume>133</volume>
+              <fpage>489</fpage>
+              <lpage>507</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action and pleomorphic activities of Janus kinase inhibitors and their possible role in treating severe COVID-19 infection, which is often accompanied by high levels of proinflammatory cytokines [cytokine storm] with listing of ongoing trials including several of tofacitinib).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33245005</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.wong.2021.564">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>GH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Okada</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>WC</given-names></name>
+</person-group>
+              <article-title>Transcriptome network analyses in human coronavirus infections suggest a rational use of immunomodulatory drugs for COVID-19 therapy.</article-title>
+              <source>Genomics</source>
+              <year>2021</year>
+              <volume>113</volume>
+              <fpage>564</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the temporal pattern of upregulation of genes in cells infected with SARS-CoV-2 suggest that medications most likely to affect these changes include among others dexamethasone, baricitinib, tofacitinib, sarilumab, ritonavir, naproxen, avelumab, durvalumab and atezolizumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33482326</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.bieber.2021.1101">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bieber</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Simpson</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Silverberg</surname><given-names>JI</given-names></name>
+<name name-style="western"><surname>Tha&#x000e7;i</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Paul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pink</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Kataoka</surname><given-names>Y</given-names></name>
+<etal/>
+<collab>JADE COMPARE Investigators</collab>
+</person-group>
+              <article-title>Abrocitinib versus placebo or dupilumab for atopic dermatitis.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>1101</fpage>
+              <lpage>1112</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 838 patients with atopic dermatitis with inadequate response to topical agents, treated with abrocitinib [100 or 200 mg daily], dupilumab [300 mg every 2 weeks] or placebo, the global assessment response was 37% and 48% vs 37% and 14%, while symptoms of nausea and acne were more frequent with abrocitinib and there were 6 cases of herpes zoster; there were no elevations in serum ALT or AST).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33761207</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.deeks.2021.2149">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Deeks</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Duggan</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Abrocitinib: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2021</year>
+              <volume>81</volume>
+              <fpage>2149</fpage>
+              <lpage>2157</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the chemical structure, mechanism of action, history of development, clinical efficacy and tolerance of abrocitinib, a small molecule inhibitor of JAK1 which impacts many downstream antiinflammatory cytokines and has been shown to improve symptoms in patients with refractory atopic dermatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34807428</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.raghuvanshi.2022.893">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raghuvanshi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bharate</surname><given-names>SB</given-names></name>
+</person-group>
+              <article-title>Recent developments in the use of kinase inhibitors for management of viral infections.</article-title>
+              <source>J Med Chem</source>
+              <year>2022</year>
+              <volume>65</volume>
+              <fpage>893</fpage>
+              <lpage>921</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the kinase inhibitors approved for use in the US, their mechanisms of action and possible role in inhibiting viral replication).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33539089</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.blauvelt.2022.104">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blauvelt</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Silverberg</surname><given-names>JI</given-names></name>
+<name name-style="western"><surname>Lynde</surname><given-names>CW</given-names></name>
+<name name-style="western"><surname>Bieber</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Eisman</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zdybski</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gubelin</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Abrocitinib induction, randomized withdrawal, and retreatment in patients with moderate-to-severe atopic dermatitis: Results from the JAK1 Atopic Dermatitis Efficacy and Safety (JADE) REGIMEN phase 3 trial.</article-title>
+              <source>J Am Acad Dermatol.</source>
+              <year>2022</year>
+              <volume>86</volume>
+              <fpage>104</fpage>
+              <lpage>112</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 798 patients with moderate-to-severe atopic dermatitis who responded to a 12 week course of abrocitinib [200 mg daily] and were then randomized to continue on 100 or 200 mg vs switching to placebo [withdrawal] for 40 weeks, relapse occurred in 43% and 19% vs 81%, and adverse events were greatest with the high doses of abrocitinib; no mention of ALT elevations or hepatoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34416294</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.shawky.2022.1001">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shawky</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Almalki</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Abdalla</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Abdelazeem</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Gouda</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>A comprehensive overview of globally approved JAK inhibitors.</article-title>
+              <source>Pharmaceutics.</source>
+              <year>2022</year>
+              <volume>14</volume>
+              <fpage>1001</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the JAK-STAT pathways and currently approved JAK inhibitors; JAK proteins are cytoplasmic, non-receptor tyrosine kinases involved in transduction of cytokine signals that pair when binding to transmembrane cytokine receptors and, once activated, phosphorylate STAT causing their dimerization and transfer to the nucleus where they activate cytokine induced genes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35631587</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Abrocitinib.REF.wood.2022.746">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wood</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chandler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nezamololama</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Papp</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Gooderham</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Safety of Janus kinase (JAK) inhibitors in the short-term treatment of atopic dermatitis.</article-title>
+              <source>Int J Dermatol.</source>
+              <year>2022</year>
+              <volume>61</volume>
+              <fpage>746</fpage>
+              <lpage>754</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the safety of JAK inhibitors including abrocitinib, baricitinib, upadacitinib, and ruxolitinib mentions that common adverse events are headache [5-10%], nausea [2-20%], transient thrombocytopenia, herpes simplex [0-7%] and herpes zoster [0-2%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34423443</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Abrocitinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Abrocitinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Abrocitinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Abrocitinib">Trials on Abrocitinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

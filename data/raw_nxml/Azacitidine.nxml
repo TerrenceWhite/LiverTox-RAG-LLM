@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Azacitidine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Azacitidine</book-part-id>
+      <title-group>
+        <title>Azacitidine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Axitinib" document-type="chapter">Axitinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Azathioprine" document-type="chapter">Azathioprine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Azacitidine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Azacitidine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Azacitidine is a cytosine analogue and antineoplastic agent used in the therapy of myelodysplastic syndromes. Azacitidine is associated with a low rate of transient serum enzyme elevations during therapy and has not been convincingly implicated in cases of clinically apparent acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Azacitidine.Background">
+          <title>Background</title>
+          <p>Azacitidine (ay" za sye' ti deen: also spelled azacytidine) is a pyrimidine analogue (5-azacytidine) which is converted intracellularly to a triphosphate which becomes incorporated into RNA and DNA. While azacitidine has anticancer effects, it proved to have limited usefulness in solid tumors and lymphomas. In low doses, azacitidine inhibits methylation of DNA and results in the expression of silenced genes, including tumor suppressor genes. Studies done in vitro and in vivo have shown that azacitidine induces differentiation of bone marrow cells and results in normalization of bone marrow in a proportion of patients with myelodysplasia. Azacitidine was approved for use in the United States in 2004 and the current single indication is for therapy of myelodysplastic syndromes. It is also under evaluation as therapy of acute myelogenous leukemia. Azacitidine is available as a powder for injection in 100 mg vials under the trade name of Vidaza. The usual initial dosage regimen in adults is 75 mg/m<sup>2</sup> body surface area subcutaneously or intravenously each day for 7 days, with repeat courses after 28 days. A minimum of 4 courses is recommended and the dose can be increased to 100 mg/m<sup>2</sup> based upon tolerance and response. An oral form of azacitidine was approved in 2021 as maintenance therapy in patients with acute myelogenous leukemia after a first remission. Oral azacitidine is available in tablets of 200 and 300 mg under the brand name Onureg, the recommended dose being 300 mg on days 1 to 14 in 28-day cycles. Common side effects include bone marrow suppression, nausea, vomiting, diarrhea, stomatitis, bruising, abdominal pain, myalgias, headache, dizziness, fatigue, fever, rash and pruritus. Uncommon but potentially severe adverse events include severe myelosuppression, febrile neutropenia, pneumonitis, sepsis, tumor-lysis syndrome, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Azacitidine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, serum enzyme elevations occurred in up to 16% of patients on azacitidine therapy for cancer or myelodysplasia who had concurrent, underlying liver disease or liver metastases, but rarely in persons without a preexisting hepatic illness. In subsequent studies, liver adverse reactions attributed to azacitidine have rarely been reported, at least when it is given in conventional doses. Nevertheless, monitoring of serum enzyme levels is recommended in treating patients who have concurrent liver disease. Cases of clinically apparent liver injury attributed to azacitidine in patients without underlying liver disease have not been reported in the literature.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury, particularly in persons with pre-existing liver disease).</p>
+        </sec>
+        <sec id="Azacitidine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Hepatotoxicity from azacitidine appears to be rare and confined mostly to patients with underlying liver disease. For these reasons, the liver injury is likely due to direct toxicity.</p>
+        </sec>
+        <sec id="Azacitidine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury linked to azacitidine therapy is usually mild-to-moderate in severity occurring in patients with preexisting liver disease. Azacitidine has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between azacitidine and other nucleoside or cytidine analogues.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object></p>
+          <p>Other drugs for myelodysplastic syndromes: <related-object link-type="booklink" source-id="livertox" document-id="Decitabine" document-type="chapter">Decitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cedazuridine" document-type="chapter">Decitabine/Cedazuridine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Luspatercept" document-type="chapter">Luspatercept</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Azacitidine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Azacitidine (powder for solution) &#x02013; Vidaza&#x000ae;</p>
+        <p>Azacitidine (oral tablet) &#x02013; Onureg&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Azacitidine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Azacitidine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Azacitidine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Azacitidine.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Azacitidine.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Azacitidine.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Azacitidine.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Azacitidine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Azacitidine</td>
+                <td headers="hd_h_Azacitidine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134975625">320-67-2</ext-link>
+</td>
+                <td headers="hd_h_Azacitidine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C8-H12-N4-O5</td>
+                <td headers="hd_h_Azacitidine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134975625" document-id-type="sid" document-type="summary" object-id="134975625" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Azacitidine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 July 2023</p>
+        <p>Abbreviations: AML, acute myelogenous leukemia; CMML, chronic myelomonocytic leukemia; iv, intravenous; MDS, myelodysplastic syndrome; sc, subcutaneously.</p>
+        <ref-list id="Azacitidine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Azacitidine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999; mentions that azacitidine can cause serum aminotransferase elevations, but has been considered not very hepatotoxic).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3nd ed. Amsterdam: Elsevier, 2013, p. 541-67.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; azacitidine is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Inhibitors of histone deacetylase. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, p. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics states that azacitidine like decitabine induce differentiations of cells by inhibition of DNA cytosine methyltransferase activity and both are used to treat myelodysplasia).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.weiss.1972.413">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Weiss</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Stambaugh</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Mastrangelo</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Laucius</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Bellet</surname>
+<given-names>RE</given-names></string-name>. <article-title>Phase I study of 5-azacytidine (NSC-102816).</article-title>
+<source>Cancer Chemother Rep</source>
+<year>1972</year>; <volume>56</volume>: <fpage>413</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 30 patient with advanced malignancies treated with azacitidine [0.5 to 1.4 mg/kg/day] for 10-15 days, reversible rises in AST but no other liver abnormalities occurred in several patients).</italic></p></annotation><pub-id pub-id-type="pmid">19051503</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.bellet.1973.303">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bellet</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Mastrangelo</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Engstrom</surname>
+<given-names>PF</given-names></string-name>, <string-name name-style="western"><surname>Custer</surname>
+<given-names>RP</given-names></string-name>. <article-title>Hepatotoxicity of 5-azacytidine (NSC-102816) (a clinical and pathologic study).</article-title>
+<source>Neoplasma</source>
+<year>1973</year>; <volume>20</volume>: <fpage>303</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 20 patients with various malignancies treated with azacitidine [0.8-2.2 mg/kg/day] for 10 days, liver adverse events occurred in 7 patients, 4 of whom developed jaundice and died of rapidly progressive hepatic coma, all 4 having hepatic metastatic disease and low serum albumin levels before azacitidine therapy).</italic></p></annotation><pub-id pub-id-type="pmid">4125219</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.weiss.1977.55">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Weiss</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Metter</surname>
+<given-names>GE</given-names></string-name>, <string-name name-style="western"><surname>Nealon</surname>
+<given-names>TF</given-names></string-name>, <string-name name-style="western"><surname>Keanan</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Ramirez</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Swaiminathan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Fletcher</surname>
+<given-names>WS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase II study of 5-azacytidine in solid tumors.</article-title>
+<source>Cancer Treat Rep</source>
+<year>1977</year>; <volume>61</volume>: <fpage>55</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(177 patients with advanced cancer or lymphoma were treated with azacitidine [1.6 mg/kg/day] for 10 days, followed by a rest period and then infusions every 2 weeks for 8 weeks; "hepatic failure" occurred in 7% of 150 who received it by rapid intravenous infusion, but in none of 27 in whom it was given by slow infusion).</italic></p></annotation><pub-id pub-id-type="pmid">67894</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.armitage.1977.1721">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Armitage</surname>
+<given-names>JO</given-names></string-name>, <string-name name-style="western"><surname>Burns</surname>
+<given-names>CP</given-names></string-name>. <article-title>Treatment of refractory adult acute nonlymphoblastic leukemia with subcutaneous 5-azacytidine.</article-title>
+<source>Cancer Treat Rep</source>
+<year>1977</year>; <volume>61</volume>: <fpage>1721</fpage>-<lpage>3</lpage>.<annotation><p><italic toggle="yes">(Among 10 patients with refractory leukemia in a pilot study of subcutaneous azacitidine, 3 had mild elevations in bilirubin and AST which resolved promptly after each course).</italic></p></annotation><pub-id pub-id-type="pmid">74285</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.v_lezgarcia.1977.1675">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>V&#x000e9;lez-Garcia</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Vogler</surname>
+<given-names>WR</given-names></string-name>, <string-name name-style="western"><surname>Bartolucci</surname>
+<given-names>AA</given-names></string-name>, <string-name name-style="western"><surname>Arkun</surname>
+<given-names>SN</given-names></string-name>. <article-title>Twice weekly 5-azacytidine infusion in dissmeinated metastatic cancer: a phase II study.</article-title>
+<source>Cancer Treat Rep.</source>
+<year>1977</year>;<volume>61</volume>:<fpage>1675</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Among 91 patients with metastatic cancer or refractory lymphoma treated with intravenous infusions of azacitidine, one patient had minor degrees of "hepatic dysfunction").</italic></p></annotation><pub-id pub-id-type="pmid">74283</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.bellet.1978.11">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bellet</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Catalano</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Mastrangelo</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Berd</surname>
+<given-names>D</given-names></string-name>. <article-title>Phase II study of subcutaneously administered 5-azacytidine (NSC-102816) in patients with metastatic malignant melanoma.</article-title>
+<source>Med Pediatr Oncol</source>
+<year>1978</year>; <volume>4</volume>: <fpage>11</fpage>-<lpage>5</lpage>.<annotation><p><italic toggle="yes">(Among 30 patients with metastatic melanoma treated with azacitidine [100 mg/m2/day] for 10 days, with repeated courses at 35 day intervals; side effects included nausea, vomiting, alopecia, diarrhea rash and pruritus: "there was no evidence of hepatic ... toxicity").</italic></p></annotation><pub-id pub-id-type="pmid">75498</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.peterson.1982.563">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Peterson</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Bloomfield</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Gottlieb</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Coleman</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Greenberg</surname>
+<given-names>MS</given-names></string-name>. <article-title>5-azacitidine and zorubicin for patients with previously treated acute nonlymphocytic leukemia: a Cancer and Leukemia Group B pilot study.</article-title>
+<source>Cancer Treat Rep</source>
+<year>1982</year>; <volume>66</volume>: <fpage>563</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Among 29 patients with refractory leukemia treated with azacitidine and zorubicin [an anthracycline similar to doxorubicin], toxicity was severe, 15 patients developed liver test abnormalities, 5 became jaundiced, and one died of suspected hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">6174230</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.sznol.1987.237">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sznol</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Ohnuma</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Holland</surname>
+<given-names>JF</given-names></string-name>. <article-title>Hepatic toxicity of drugs used for hematologic neoplasia.</article-title>
+<source>Semin Liver Dis</source>
+<year>1987</year>; <volume>7</volume>: <fpage>237</fpage>-<lpage>56</lpage>.<annotation><p><italic toggle="yes">(Review describes azacitidine as a pyrimidine analogue with activity in acute leukemia; "there is scant evidence of azacitidine hepatotoxicity").</italic></p></annotation><pub-id pub-id-type="pmid">3317861</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.silverman.2002.2429">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Silverman</surname>
+<given-names>LR</given-names></string-name>, <string-name name-style="western"><surname>Demakos</surname>
+<given-names>EP</given-names></string-name>, <string-name name-style="western"><surname>Peterson</surname>
+<given-names>BL</given-names></string-name>, <string-name name-style="western"><surname>Kornblith</surname>
+<given-names>AB</given-names></string-name>, <string-name name-style="western"><surname>Holland</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Odchimar-Reissig</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Stone</surname>
+<given-names>RM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized controlled trial of azacitidine in patients with the myelodysplastic syndrome: a study of the cancer and leukemia group B.</article-title>
+<source>J Clin Oncol</source>
+<year>2002</year>; <volume>20</volume>: <fpage>2429</fpage>-<lpage>40</lpage>.<annotation><p><italic toggle="yes">(Among 191 patients with myelodysplasia treated with azacitidine or supportive care, response rates and survival were greater with azacitidine and the major toxicity was hematologic; no mention of ALT elevations or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">12011120</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.kaminskas.2005.176">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kaminskas</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Farrell</surname>
+<given-names>AT</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>YC</given-names></string-name>, <string-name name-style="western"><surname>Sridhara</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Pazdur</surname>
+<given-names>R</given-names></string-name>. <article-title>FDA drug approval summary: azacitidine (5-azacytidine, Vidaza) for injectable suspension.</article-title>
+<source>Oncologist</source>
+<year>2005</year>; <volume>10</volume>: <fpage>176</fpage>-<lpage>82</lpage>.<annotation><p><italic toggle="yes">(Summary of the efficacy and safety results that led to the approval of azacitidine as therapy for myelodysplastic syndromes of all types; "liver function abnormalities occurred, for the most part, in patients with intercurrent illnesses, including hepatobiliary disorders. More severe abnormalities occurred in patients with previously diagnosed liver cirrhosis").</italic></p></annotation><pub-id pub-id-type="pmid">15793220</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.vigil.2010.221">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Vigil</surname>
+<given-names>CE</given-names></string-name>, <string-name name-style="western"><surname>Martin-Santos</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>. <article-title>Safety and efficacy of azacitidine in myelodysplastic syndromes.</article-title>
+<source>Drug Des Devel Ther</source>
+<year>2010</year>; <volume>4</volume>: <fpage>221</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, efficacy and safety of azacitidine; mentions that caution should be used in treating patients who have hepatic dysfunction, because early studies reported liver injury and hepatic coma in patients with liver metastases).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.santini.2010.130">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Santini</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Fenaux</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Mufti</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Hellstr&#x000f6;indberg</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Silverman</surname>
+<given-names>LR</given-names></string-name>, <string-name name-style="western"><surname>List</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Gore</surname>
+<given-names>SD</given-names></string-name>, <etal>et al.</etal>
+<article-title>Management and supportive care measures for adverse events in patients with myelodysplastic syndromes treated with azacitidine*.</article-title>
+<source>Eur J Haematol</source>
+<year>2010</year>; <volume>85</volume>: <fpage>130</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Review of side effects of azacitidine and their management; the most common adverse events are bone marrow suppression, gastrointestinal complaints and injection site reactions; no mention of ALT elevations or liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20394651</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.garciamanero.2011.2521">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gore</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Cogle</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Ward</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Macbeth</surname>
+<given-names>KJ</given-names></string-name>, <string-name name-style="western"><surname>Laille</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase I study of oral azacitidine in myelodysplastic syndromes, chronic myelomonocytic leukemia, and acute myeloid leukemia.</article-title>
+<source>J Clin Oncol</source>
+<year>2011</year>; <volume>29</volume>: <fpage>2521</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(Phase 1 study of oral doses of azacitidine after an initial subcutaneous course in 41 patients with CML; oral doses were escalated to tolerance; dose limiting side effects included nausea and diarrhea; no mention of ALT abnormalities or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21576646</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.breccia.2012.1558">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Breccia</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Loglisci</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Salaroli</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Serrao</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Petrucci</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Mancini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Alimena</surname>
+<given-names>G.</given-names></string-name>
+<article-title>5-azacitidine efficacy and safety in patients aged &#x0003e;65 years with myelodysplastic syndromes outside clinical trials.</article-title>
+<source>Leuk Lymphoma</source>
+<year>2012</year>; <volume>53</volume>: <fpage>1558</fpage>-<lpage>60</lpage>.<annotation><p><italic toggle="yes">(Open label study of azacitidine in 38 elderly patients with myelodysplasia; common side effects were cytopenia, gastrointestinal upset and rash; no mention of ALT elevations or liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22280532</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.pollyea.2012.893">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pollyea</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Kohrt</surname>
+<given-names>HE</given-names></string-name>, <string-name name-style="western"><surname>Gallegos</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Figueroa</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Abdel-Wahab</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Bhattacharya</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety, efficacy and biological predictors of response to sequential azacitidine and lenalidomide for elderly patients with acute myeloid leukemia.</article-title>
+<source>Leukemia</source>
+<year>2012</year>; <volume>26</volume>: <fpage>893</fpage>-<lpage>901</lpage>.<annotation><p><italic toggle="yes">(Open label study of azacitidine followed by lenalidomide in 18 elderly patients with acute myeloid leukemia; side effects included bone marrow suppression, neutropenic fever, fatigue, nausea and vomiting; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22033493</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.lee.2013.339">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>YG</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Yoon</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cheong</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Min</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JO</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comparative analysis between azacitidine and decitabine for the treatment of myelodysplastic syndromes.</article-title>
+<source>Br J Haematol</source>
+<year>2013</year>; <volume>161</volume>: <fpage>339</fpage>-<lpage>47</lpage>.<annotation><p><italic toggle="yes">(Observational study comparing safety and efficacy of azacitidine vs decitabine in 300 Korean patients with myelodysplasia, found similar rates of efficacy and side effects; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23432512</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.pleyer.2014.1825">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pleyer</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Burgstaller</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Girschikofsky</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Linkesch</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stauder</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Pfeilstocker</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Schreder</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Azacitidine in 302 patients with WHO-defined acute myeloid leukemia: results from the Austrian Azacitidine Registry of the AGMT-Study Group.</article-title>
+<source>Ann Hematol</source>
+<year>2014</year>; <volume>93</volume>: <fpage>1825</fpage>-<lpage>38</lpage>.<annotation><p><italic toggle="yes">(Among 302 Austrian patients with acute myeloid leukemia treated with azacitidine the overall response rate was 48% and serious adverse events were common, but mostly hematologic; serum enzyme elevations were recorded in 4 patients, but there were no deaths from liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">24951123</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.dombret.2015.291">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dombret</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Seymour</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Butrym</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Wierzbowska</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Selleslag</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Jang</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Kumar</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>International phase 3 study of azacitidine vs conventional care regimens in older patients with newly diagnosed AML with &#x0003e;30% blasts.</article-title>
+<source>Blood</source>
+<year>2015</year>; <volume>126</volume>: <fpage>291</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 488 patients with acute myeloid leukemia treated with azacitidine or conventional care regimens, median overall survival was longer with azacitidine [10.4 vs 6.5 months] and adverse events were frequent in both groups; no mention of ALT elevations, hepatotoxicity or liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">25987659</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.grinblatt.2015.887">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Grinblatt</surname>
+<given-names>DL</given-names></string-name>, <string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Komrokji</surname>
+<given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Swern</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Sullivan</surname>
+<given-names>KA</given-names></string-name>, <string-name name-style="western"><surname>Narang</surname>
+<given-names>M</given-names></string-name>. <article-title>Patients with myelodysplastic syndromes treated with azacitidine in clinical practice: the AVIDA registry.</article-title>
+<source>Leuk Lymphoma</source>
+<year>2015</year>; <volume>56</volume>: <fpage>887</fpage>-<lpage>95</lpage>.<annotation><p><italic toggle="yes">(Among 421 patients with myelodysplastic syndromes treated with azacitidine enrolled in a US registry and followed for an average of 8 months, adverse events were mostly cytopenias; no mention of ALT elevations or hepatotoxicity and no discontinuations for liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24956145</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [5.5%] were attributed to antineoplastic agents, but none to azacitidine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.scott.2016.889">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Scott</surname>
+<given-names>LJ</given-names></string-name>. <article-title>Azacitidine: A review in myelodysplastic syndromes and acute myeloid leukaemia.</article-title>
+<source>Drugs</source>
+<year>2016</year>; <volume>76</volume>: <fpage>889</fpage>-<lpage>900</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, clinical efficacy and safety of azacitidine; mentions that non-hematologic adverse events include diarrhea, constipation, nausea, skin rash and injection reactions; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27193945</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.salim.2016.82">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Salim</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Toptas</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Avsar</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Yucel</surname>
+<given-names>OK</given-names></string-name>, <string-name name-style="western"><surname>Ozturk</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Ferhanoglu</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Geduk</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Azacitidine versus decitabine in patients with refractory anemia with excess blast-Results of multicenter study.</article-title>
+<source>Leuk Res</source>
+<year>2016</year>; <volume>45</volume>: <fpage>82</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 88 Turkish patients with refractory anemia treated with azacitidine or decitabine, response rates were similar as were overall survival and adverse event rates; no mention of ALT elevations, hepatotoxicity or non-hematologic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27107658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.pappa.2017.184">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Pappa</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Anagnostopoulos</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Bouronikou</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Briasoulis</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Kotsianidis</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Pagoni</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Zikos</surname>
+<given-names>P</given-names></string-name>, <etal>et al.</etal>
+<article-title>A retrospective study of azacitidine treatment in patients with intermediate-2 or high risk myelodysplastic syndromes in a real-world clinical setting in Greece.</article-title>
+<source>Int J Hematol</source>
+<year>2017</year>; <volume>105</volume>: <fpage>184</fpage>-<lpage>95</lpage>.<annotation><p><italic toggle="yes">(Among 88 Greek patients with myelodysplastic syndromes treated with azacitidine and followed in 17 hospitals, 42% had at least one serious adverse event, but most were cytopenias and none were liver related).</italic></p></annotation><pub-id pub-id-type="pmid">27815858</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.savona.2018.1199">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Savona</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Kolibaba</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Conkling</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Kingsley</surname>
+<given-names>EC</given-names></string-name>, <string-name name-style="western"><surname>Becerra</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Morris</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Rifkin</surname>
+<given-names>RM</given-names></string-name>
+<etal>et al.</etal>
+<article-title>Extended dosing with CC-486 (oral azacitidine) in patients with myeloid malignancies.</article-title>
+<source>Am J Hematol.</source>
+<year>2018</year>;<volume>93</volume>:<fpage>1199</fpage>-<lpage>1206</lpage>.<annotation><p><italic toggle="yes">(Among 31 patients enrolled in an extension study of oral azacitidine [300 mg for 21 days in each 28-day cycle], the overall response rate was 29% and adverse events were mostly gastrointestinal and hematologic; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30016552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.morita.2018.3209">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Morita</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Maeda</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Yamaguchi</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Urase</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Kawata</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Hanamoto</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Tsubaki</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Five-day regimen of azacytidine for lower-risk myelodysplastic syndromes (refractory anemia or refractory anemia with ringed sideroblasts): A prospective single-arm phase 2 trial.</article-title>
+<source>Cancer Sci.</source>
+<year>2018</year>;<volume>109</volume>(<issue>10</issue>):<fpage>3209</fpage>-<lpage>3215</lpage>.<annotation><p><italic toggle="yes">(Among 51 adults with lower-risk MDS treated with 5-day regimens of azacytidine, hematologic improvement occurred in 47%, transfusion independence in 29% and complete response in 22%; most severe adverse events were hematologic or infection related, one patient had ALT elevations [2%] but none were above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">30007103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.helbig.2019.1175">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Helbig</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Chromik</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Wo&#x0017a;niczka</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Kopi&#x00144;ska</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Boral</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Dworaczek</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kocl&#x00119;ga</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Real life data on efficacy and safety of azacitidine therapy for myelodysplastic syndrome, chronic myelomonocytic leukemia and acute myeloid leukemia.</article-title>
+<source>Pathol Oncol Res.</source>
+<year>2019</year>;<volume>25</volume>:<fpage>1175</fpage>-<lpage>1180</lpage>.<annotation><p><italic toggle="yes">(Among 83 patients with higher-risk MDS, myelomonocytic leukemia or acute myelogenous leukemia treated with azacytidine, overall response rates ranged from 20-27% and adverse events arose in 46% including 2 patients with ALT, both below 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">30613922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.ades.2019.e131">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ades</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Guerci-Bresler</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Cony-Makhoul</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Legros</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Sebert</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Braun</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Delaunay</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase II study of the efficacy and safety of an intensified schedule of azacytidine in intermediate-2 and high-risk patients with myelodysplastic syndromes: a study by the Groupe Francophone des Myelodysplasies (GFM).</article-title>
+<source>Haematologica.</source>
+<year>2019</year>;<volume>104</volume>:<fpage>e131</fpage>-<lpage>e133</lpage>.<annotation><p><italic toggle="yes">(Among 26 patients with intermediate and high-risk MDS treated with a more intensive schedule of azacitidine [5 day course every 14 days], after 8 cycles, the response rate was 22% and the adverse event profile was similar to that with conventional doses; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30381302</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.lee.2020.39">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>BH</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>
+<given-names>KW</given-names></string-name>, <string-name name-style="western"><surname>Jeon</surname>
+<given-names>MJ</given-names></string-name>, <string-name name-style="western"><surname>Yu</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>DS</given-names></string-name>, <string-name name-style="western"><surname>Choi</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comparison between 5-day decitabine and 7-day azacitidine for lower-risk myelodysplastic syndromes with poor prognostic features: a retrospective multicentre cohort study.</article-title>
+<source>Sci Rep.</source>
+<year>2020</year>;<volume>10</volume>:<fpage>39</fpage>.<annotation><p><italic toggle="yes">(Among 111 adults with low- or intermediate-risk MDS treated with iv decitabine [20 mg/m<sup>2</sup> for 5 days] or azacitidine [75 mg/m<sup>2</sup> for 7 days], overall response rates were higher with decitabine [67% vs 44%] while adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31913293</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.garciamanero.2021.1426">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Santini</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Almeida</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Platzbecker</surname>
+<given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Jonasova</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Silverman</surname>
+<given-names>LR</given-names></string-name>, <string-name name-style="western"><surname>Falantes</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase III, randomized, placebo-controlled trial of CC-486 (oral azacitidine) in patients with lower-risk myelodysplastic syndromes.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>1426</fpage>-<lpage>1436</lpage>.<annotation><p><italic toggle="yes">(Among 216 adults with lower-risk MDS treated with oral azacitidine [in 12 cycles of 300 mg daily for 21 of 28 days] or placebo, red cell transfusion independence was achieved in 31% vs 11% and adverse events included neutropenia [47% vs 12%], thrombocytopenia [29% vs 16%], febrile neutropenia [28% vs 10%], and pneumonia [12% vs 9%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33764805</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.wang.2022.1845">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wang</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Montesinos</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Minden</surname>
+<given-names>MD</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Heuser</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Naoe</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Chou</surname>
+<given-names>WC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase 3 trial of gilteritinib plus azacitidine vs azacitidine for newly diagnosed FLT3mut+ AML ineligible for intensive chemotherapy.</article-title>
+<source>Blood.</source>
+<year>2022</year>;<volume>140</volume>:<fpage>1845</fpage>-<lpage>1857</lpage>.<annotation><p><italic toggle="yes">(Among 120 adults with AML and FLT3 mutation treated with azacytidine with or without gilteritinib, overall survival was similar [8.9 vs 9.8 months] as was complete response rates [16.2% vs 14.3%], and adverse event rates were similar although AST elevations were more frequent with the combination [25% vs 6.4%], all of which were less than 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">35917453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.xu.2022.1117">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Xu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Guo</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Miao</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Lan</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Jin</surname>
+<given-names>J</given-names></string-name>. <article-title>Real-world data on efficacy and safety of azacitidine therapy in chronic myelomonocytic leukemia in China: results from a multicenter, retrospective study.</article-title>
+<source>Invest New Drugs.</source>
+<year>2022</year>;<volume>40</volume>:<fpage>1117</fpage>-<lpage>1124</lpage>.<annotation><p><italic toggle="yes">(Among 24 patients with chronic myelomonocytic leukemia treated with 1 to 8 cycles of azacytidine, the overall response rate was 38% and complete response rate 8%, while adverse events included thrombocytopenia [29%], pneumonitis [17%], and fever [13%]; no mention of ALT elevations or severe hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">35834039</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.ad_s.2022.5132">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ad&#x000e8;s</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Girshova</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Doronin</surname>
+<given-names>VA</given-names></string-name>, <string-name name-style="western"><surname>D&#x000ed;ez-Campelo</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Valc&#x000e1;rcel</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Kambhampati</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Viniou</surname>
+<given-names>NA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pevonedistat plus azacitidine vs azacitidine alone in higher-risk MDS/chronic myelomonocytic leukemia or low-blast-percentage AML.</article-title>
+<source>Blood Adv.</source>
+<year>2022</year>;<volume>6</volume>:<fpage>5132</fpage>-<lpage>5145</lpage>.<annotation><p><italic toggle="yes">(Among 452 patients with AML or CMML treated with azacytidine with or without pevonedistat event-free survival and serious adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35728048</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.leisch.2022.2459">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Leisch</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Pfeilst&#x000f6;cker</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stauder</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Heibl</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Sill</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Girschikofsky</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stampfl-Mattersberger</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Adverse events in 1406 patients receiving 13,780 cycles of azacitidine within the Austrian Registry of Hypomethylating Agents-a prospective cohort study of the AGMT Study-Group.</article-title>
+<source>Cancers (Basel)</source>. <year>2022</year>;<volume>14</volume>:<fpage>2459</fpage>.<annotation><p><italic toggle="yes">(Among 1519 patients treated with azacytidine enrolled in an Austrian registry of hypomethylating agents, the most common severe adverse events were febrile neutropenia [33%], pneumonia [57%], fatigue [3.4%], and pyrexia [3.1%], while ALT elevations arose in 39% and were above 5 times ULN in 16%; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">35626063</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.sekeres.2022.872">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sekeres</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>J</given-names></string-name>. <article-title>Diagnosis and treatment of myelodysplastic syndromes: a review.</article-title>
+<source>JAMA</source>. <year>2022</year>;<volume>328</volume>:<fpage>872</fpage>-<lpage>880</lpage>.<annotation><p><italic toggle="yes">(Concise review of clinical features, natural history, diagnosis, and management of MDS; adverse events are listed in tables but without mention or discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36066514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.garciamanero.2023.1307">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Garcia-Manero</surname>
+<given-names>G.</given-names></string-name>
+<article-title>Myelodysplastic syndromes: 2023 update on diagnosis, risk-stratification, and management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1307</fpage>-<lpage>1325</lpage>.<annotation><p><italic toggle="yes">(Review of the classification of MDS and risk categorization with an update on management including discussion of hypomethylation agents and luspatercept; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37288607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azacitidine.REF.randall.2023.152">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Randall</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>DeZern</surname>
+<given-names>AE</given-names></string-name>. <article-title>The management of low-risk myelodysplastic syndromes-current standards and recent advances.</article-title>
+<source>Cancer J.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>152</fpage>-<lpage>159</lpage>.<annotation><p><italic toggle="yes">(Review of treatment of low-risk MDS including erythropoietin, iron chelation, lenalidomide, luspatercept and low dose hypomethylating agents; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37195771</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Azacitidine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Azacitidine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Azacitidine: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Azacitidine">Trials on Azacitidine: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Baricitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Baricitinib</book-part-id>
+      <title-group>
+        <title>Baricitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>8</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Barbiturates" document-type="chapter">Barbiturates</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Basiliximab" document-type="chapter">Basiliximab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Baricitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Baricitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Baricitinib is an orally available small molecule inhibitor of Janus kinases that is used to treat moderate-to-severe rheumatoid arthritis, severe alopecia areata, and, in combination with remdesivir, severe COVID-19 in hospitalized patients requiring supplementary oxygen. Baricitinib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Baricitinib.Background">
+          <title>Background</title>
+          <p>Baricitinib (bar" i sye' ti nib) is an orally available, specific inhibitor Janus-associated kinases (mainly JAK1 and JAK2) that is used to treat moderate-to-severe rheumatoid arthritis and alopecia areata. The Janus kinases are critical steps in immune activation as well as in hematopoiesis. JAK1 is a critical kinase in the cellular responses of interferon alpha while JAK2 is involved in pathways activated by interferon gamma. The immunomodulatory effects of baricitinib have led to its evaluation in several autoimmune conditions including rheumatoid arthritis, psoriasis and alopecia areata. In multiple randomized controlled trials, baricitinib was found to improve symptoms and signs of severe rheumatoid arthritis when used alone or in combination with other disease modifying anti-rheumatologic drugs (DMARDs). Baricitinib was approved for use in rheumatoid arthritis in the United States in 2018, the third small molecule JAK inhibitor to receive approval (after tofacitinib in 2012 and ruxolitinib in 2011). Indications for baricitinib were extended to moderate-to-severe alopecia areata in 2022. Baricitinib is also under evaluation as therapy for other autoimmune conditions including psoriasis and atopic dermatitis. Baricitinib is available in tablets of 1, 2 and 4 mg under the brand name Olumiant. The recommended dose in rheumatoid arthritis is 2 mg once daily. Common side effects are nausea, diarrhea, fatigue, neutropenia, elevations in serum levels of cholesterol and creatinine, herpes simplex and zoster infections, and symptoms of upper respiratory tract infection. Rare but potentially severe adverse events may include severe infections, reactivation of latent tuberculosis, increased risk of malignancy, gastrointestinal perforation, major adverse cardiovascular events (myocardial infarction, cardiac death or stroke) and vascular thromboses.</p>
+          <p>In November 2020, baricitinib was given emergency use authorization in combination with remdesivir as therapy of adults and children above the age of 2 who are hospitalized with confirmed COVID-19 infection and require supplementary oxygen, mechanical ventilation or extracorporeal membrane oxygenation. Preliminary trials of baricitinib in patients with severe COVID-19 pneumonia given in combination with remdesivir suggested that it shortened the time to recovery and reduced morbidity. Further trials have subsequently supported these results. This indication was given full FDA approval in adults in 2022. The recommended dose regimen in adults is 4 mg orally once daily for 14 days or until hospital discharge.</p>
+        </sec>
+        <sec id="Baricitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the large prelicensure clinical trials in rheumatoid arthritis, serum aminotransferase elevations occurred in up to 17% of baricitinib treated subjects compared to 11% in placebo recipients. The elevations were typically mild and transient and values above 3 times the upper limit of normal (ULN) occurred in 1% to 2% of patients. The elevations occasionally led to early discontinuations, but more often resolved even without dose adjustment. In prelicensure studies in rheumatoid arthritis, alopecia areata and other rheumatic and immune-mediated disorders, there were no instances of clinically apparent liver injury attributed to baricitinib. Since approval and more wide scale availability of baricitinib, there have been no published reports of hepatotoxicity associated with its use.</p>
+          <p>Use of baricitinib in combination with remdesivir for severe COVID-19 pneumonia has been reported but with little information on its potential for causing liver injury. Patients with severe SARS-CoV-2 infection frequently have elevated serum aminotransferase levels and occasionally are jaundiced. Furthermore, remdesivir has been linked to serum aminotransferase elevations during therapy that are generally mild-to-moderate in severity and resolve rapidly once the drug is stopped. Whether baricitinib increases the risk of liver injury during COVID-19 has yet to be shown, but hepatotoxicity was not a prominent feature in these early studies of its use in patients with severe COVID-19.</p>
+          <p>Finally, baricitinib is an immune modulatory agent and has the potential of causing reactivation of viral infections including hepatitis B. In clinical trials, patients with HBsAg in serum were excluded from enrollment but patients with anti-HBc without HBsAg were allowed. While routine monitoring for reactivation was not performed on all patients, at least 15% of anti-HBc positive persons with rheumatoid arthritis treated with baricitinib developed virologic evidence of reactivation marked by de novo appearance of low levels of HBV DNA in serum. In all cases, the period of viremia was brief and not associated with serum aminotransferase elevations or jaundice. Thus, baricitinib appears to be capable of causing HBV reactivation but it is generally subclinical. Furthermore, the short courses of baricitinib used in the treatment of severe COVID-19 have not been linked to episodes of HBV reactivation.</p>
+          <p>Likelihood score: E* (unlikely to be a cause of idiosyncratic clinically apparent liver injury but has the potential to cause reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Baricitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of mild serum enzyme elevations during baricitinib therapy is not known. Baricitinib is largely excreted unchanged in urine and stool and less than 10% undergoes hepatic metabolism, largely via CYP 3A4. The metabolism of baricitinib is not affected by CYP inhibitors or inducers, but its renal excretion can be affected by probenecid.</p>
+        </sec>
+        <sec id="Baricitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Monitoring of serum aminotransferase levels is recommended for patients starting baricitinib. De novo elevations in serum aminotransferases levels above 5 times the upper limit of normal should lead to temporary cessation. If serum enzyme elevations do not resolve or improve within a few weeks of stopping, or if symptoms of liver injury or jaundice arise, baricitinib should be permanently discontinued. There does not appear to be cross reactivity in risk for hepatic injury between baricitinib and tofacitinib or other biologic or non-biologic DMARDs. Because of its potential to cause reactivation of hepatitis B, routine screening for HBsAg and anti-HBc is appropriate before starting therapy with baricitinib. Patients with HBsAg in serum should be treated prophylactically with an oral antiviral agent with activity against HBV such as entecavir or tenofovir. An alternative is to monitor patients carefully for HBV DNA levels to detect evidence of reactivation early and initiate appropriate therapy for HBV infection.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntirheumaticAgents" document-type="chapter">Antirheumatic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="CovidDrugs" document-type="chapter">COVID-19 Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Baricitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Baricitinib &#x02013; Olumiant&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antirheumatic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Baricitinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Baricitinib.CHEMICAL_FORMULAS_AND_STRUCT">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Baricitinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Baricitinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Baricitinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Baricitinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Baricitinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Baricitinib</td>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://162108950">1187594-09-7</ext-link>
+</td>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C16-H17-N7-O2-S</td>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="162108950" document-id-type="sid" document-type="summary" object-id="162108950" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tofacitinib</td>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135253188">477600-75-2</ext-link>
+</td>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C16-H20-N6-O</td>
+                <td headers="hd_h_Baricitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135253188" document-id-type="sid" document-type="summary" object-id="135253188" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Baricitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 August 2022</p>
+        <ref-list id="Baricitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Baricitinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as tofacitinib and baricitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baricitinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not baricitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baricitinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; baricitinib is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baricitinib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/207924Orig1s000SumR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/207924Orig1s000SumR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baricitinib.REF.van_vollenhoven.2012.508">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Vollenhoven</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Fleischmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a Meijide</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Wagner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Forejtova</surname><given-names>S</given-names></name>
+<etal/>
+<collab>ORAL Standard Investigators</collab>
+</person-group>
+              <article-title>Tofacitinib or adalimumab versus placebo in rheumatoid arthritis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>367</volume>
+              <fpage>508</fpage>
+              <lpage>19</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 717 patients with rheumatoid arthritis on methotrexate treated with tofacitinib [5 or 10 mg] or adalimumab or placebo for 52 weeks, clinical response rates were higher for tofacitinib [52-53%] than placebo [28%] and adverse events were more common [with two cases of pulmonary tuberculosis]; ALT elevations during the first 3 months occurred in 26% on tofacitinib vs 17% on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22873531</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.fleischmann.2012.495">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fleischmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremer</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cush</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Schulze-Koops</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Connell</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Bradley</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Gruben</surname><given-names>D</given-names></name>
+<etal/>
+<collab>ORAL Solo Investigators</collab>
+</person-group>
+              <article-title>Placebo-controlled trial of tofacitinib monotherapy in rheumatoid arthritis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>367</volume>
+              <fpage>495</fpage>
+              <lpage>507</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 611 patients with rheumatoid arthritis treated with tofacitinib [5 or 10 mg] or placebo twice daily for 3 months, clinical response rates were higher with tofacitinib, and adverse events included headache, infections, neutropenia and increases in serum cholesterol; ALT elevations above 3 times ULN occurred during the first 3 months in &#x0003c;1% of both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22873530</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.shah.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shah</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Morganroth</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>DR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>491</fpage>
+              <lpage>503</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; baricitinib and tofacitinib are not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23620168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.spraggs.2013.541">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spraggs</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Hunt</surname><given-names>CM</given-names></name>
+</person-group>
+              <article-title>Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors.</article-title>
+              <source>Pharmacogenomics</source>
+              <year>2013</year>
+              <volume>14</volume>
+              <fpage>541</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib; baricitinib and tofacitinib is not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23556451</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.keystone.2015.333">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keystone</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Drescher</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Schlichting</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Beattie</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Berclaz</surname><given-names>PY</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>CH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of baricitinib at 24 weeks in patients with rheumatoid arthritis who have had an inadequate response to methotrexate.</article-title>
+              <source>Ann Rheum Dis</source>
+              <year>2015</year>
+              <volume>74</volume>
+              <fpage>333</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 301 patients with rheumatoid arthritis and an inadequate response to methotrexate treated with baricitinib [1, 2, 4 or 8 mg] or placebo daily for 12 weeks, clinical response rates were higher with the higher doses of baricitinib, while rates of ALT elevations were similar in all groups and no patient suffered a liver related serious adverse event).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25431052</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.papp.2015.949">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Papp</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Menter</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Abe</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Elewski</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Feldman</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Gottlieb</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Langley</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>OPT Pivotal 1 and OPT Pivotal 2 investigators. Tofacitinib, an oral Janus kinase inhibitor, for the treatment of chronic plaque psoriasis: results from two randomized, placebo-controlled, phase III trials.</article-title>
+              <source>Br J Dermatol</source>
+              <year>2015</year>
+              <volume>173</volume>
+              <fpage>949</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1861 patients with plaque psoriasis treated with tofacitinib [5 or 10 mg] or placebo twice daily for 16 weeks, higher rates of improvement occurred with tofacitinib [42% to 59%] than placebo [9% to 11%], while adverse event rates were similar overall; ALT elevations above 3 times ULN occurred in 0.6% vs 0.2% of patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26149717</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.genovese.2016.1243">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Genovese</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Kremer</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zamani</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Ludivico</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Krogulec</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Xie</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Beattie</surname><given-names>SD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib in patients with refractory rheumatoid arthritis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2016</year>
+              <volume>374</volume>
+              <fpage>1243</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 527 patients with rheumatoid arthritis refractory to tumor necrosis factor inhibitors who were treated with baricitinib [2 or 4 mg] or placebo daily for 24 weeks, clinical response rates were higher with baricitinib as were adverse events [61% and 67% vs 55%], including mild and transient ALT elevations [14% and 17% vs 10%], but no patient developed ALT elevations over 5 times ULN or suffered a liver related serious adverse event).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27028914</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.papp.2016.1266">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Papp</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Menter</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Raman</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Disch</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schlichting</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Gaich</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Macias</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized phase 2b trial of baricitinib, an oral Janus kinase (JAK) 1/JAK2 inhibitor, in patients with moderate-to-severe psoriasis.</article-title>
+              <source>Br J Dermatol</source>
+              <year>2016</year>
+              <volume>174</volume>
+              <fpage>1266</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 271 patients with plaque psoriasis treated with baricitinib [2, 4, 8 or 10 mg] or placebo daily for 12 weeks, clinical responses were more frequent with baricitinib, particularly with higher doses while adverse event rates [including ALT elevations] were similar in all groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26800231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.markham.2017.697">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Baricitinib: first global approval.</article-title>
+              <source>Drugs</source>
+              <year>2017</year>
+              <volume>77</volume>
+              <fpage>697</fpage>
+              <lpage>704</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the development of baricitinib, its clinical efficacy and safety mentions that of 3464 patients treated in prelicensure clinical trials 6% developed adverse events leading to drug discontinuation, 3.4% developed herpes zoster, 3.2% serious infections, 0.7% malignancies and 0.3% died; aminotransferase elevations arose in 1.4% of patients but &#x0201c;most cases were transient&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28290136</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.taylor.2017.652">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Taylor</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Keystone</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>van der Heijde</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Weinblatt</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Del Carmen Morales</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Reyes Gonzaga</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib versus placebo or adalimumab in rheumatoid arthritis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2017</year>
+              <volume>376</volume>
+              <fpage>652</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1307 patients with rheumatoid arthritis receiving methotrexate, addition of baricitinib led to higher clinical response rates than did adalimumab or placebo, while adverse event rates were higher with active therapies and ALT elevations arose in 27% on baricitinib, 24% on adalimumab vs 17% on placebo, but were above 5 times ULN in 1% or less in all three groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28199814</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.dougados.2017.88">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dougados</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>van der Heijde</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Greenwald</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Drescher</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Beattie</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib in patients with inadequate response or intolerance to conventional synthetic DMARDs: results from the RA-BUILD study.</article-title>
+              <source>Ann Rheum Dis</source>
+              <year>2017</year>
+              <volume>76</volume>
+              <fpage>88</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 684 patients with rheumatoid arthritis refractory to DMARDs treated with baricitinib [2 or 4 mg] or placebo daily for 24 weeks, clinical response rates were higher with baricitinib while serious adverse event rates were similar, although mean changes in ALT levels were greater with baricitinib [+6 U/L] and adalimumab [+5 U/L] than with placebo [+1 U/L]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27689735</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.fleischmann.2017.506">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fleischmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Schiff</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>van der Heijde</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ramos-Remus</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Spindler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Stanislav</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zerbini</surname><given-names>CA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib, methotrexate, or combination in patients with rheumatoid arthritis and no or limited prior disease-modifying antirheumatic drug treatment.</article-title>
+              <source>Arthritis Rheumatol</source>
+              <year>2017</year>
+              <volume>69</volume>
+              <fpage>506</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 588 patients with rheumatoid arthritis treated with baricitinib or methotrexate or the combination, clinical response rates were highest in patients receiving baricitinib while ALT elevations arose in 33% on methotrexate alone, 16% on baricitinib alone and 34% on both, but ALT values above 5 times ULN were rare occurring in 1% or less and there were no severe hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27723271</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.sanchez.2018.3041">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sanchez</surname><given-names>GAM</given-names></name>
+<name name-style="western"><surname>Reinhardt</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ramsey</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wittkowski</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hashkes</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Berkun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Schalm</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>JAK1/2 inhibition with baricitinib in the treatment of autoinflammatory interferonopathies.</article-title>
+              <source>J Clin Invest</source>
+              <year>2018</year>
+              <volume>128</volume>
+              <fpage>3041</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 18 patients with various interferon mediated autoinflammatory conditions treated with baricitinib for an average of 3 years, all except 5 had marked improvements in clinical symptoms and signs; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29649002</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.keystone.2018.14">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keystone</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Genovese</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Schlichting</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>de la Torre</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Beattie</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Rooney</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>PC</given-names></name>
+</person-group>
+              <article-title>Safety and efficacy of baricitinib through 128 weeks in an open-label, longterm extension study in patients with rheumatoid arthritis.</article-title>
+              <source>J Rheumatol</source>
+              <year>2018</year>
+              <volume>45</volume>
+              <fpage>14</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 301 patients enrolled in a controlled trial of baricitinib [2, 4, or 8 mg daily] for 24 weeks [Keystone 2015], 171 entered an open label extension study [4 or 8 mg daily], and 133 completed 128 weeks of treatment, among whom ALT elevations occurred in approximately 25% but were above 5 times ULN in 1% or less; one patient developed a self-limited acute hepatitis B that was thought to be nosocomially acquired and unrelated to therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28811354</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.guttmanyassky.2019.913">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guttman-Yassky</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Silverberg</surname><given-names>JI</given-names></name>
+<name name-style="western"><surname>Nemoto</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Forman</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Wilke</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Prescilla</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib in adult patients with moderate-to-severe atopic dermatitis: a phase 2 parallel, double-blinded, randomized placebo-controlled multiple-dose study.</article-title>
+              <source>J Am Acad Dermatol</source>
+              <year>2019</year>
+              <volume>80</volume>
+              <issue>4</issue>
+              <fpage>913</fpage>
+              <lpage>921.e9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 124 adults with atopic dermatitis treated with baricitinib [2 or 4 mg] or placebo daily for 16 weeks, clinical response rates were higher with baricitinib [57% and 61% vs 37%] as were adverse event rates [46% and 71% vs 49%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29410014</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF20">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for rheumatoid arthritis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2018</year>
+              <volume>60</volume>
+              <issue>1552</issue>
+              <fpage>123</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drugs for rheumatoid arthritis mentions that baricitinib is an orally available, small molecule inhibitor of JAK kinases and that its potential adverse side effects include serum ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30044766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF21">
+            <element-citation publication-type="journal">
+              <article-title>Baricitinib (olumiant) for rheumatoid arthritis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2018</year>
+              <volume>60</volume>
+              <issue>1551</issue>
+              <fpage>120</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy and safety of baricitinib shortly after its approval for use in rheumatoid arthritis in the US, mentions that elevations in liver enzymes have been reported to occur).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30036348</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.wallace.2018.222">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wallace</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Furie</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Tanaka</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kalunian</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Mosca</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Petri</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>D&#x000f6;rner</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib for systemic lupus erythematosus: a double-blind, randomised, placebo-controlled, phase 2 trial.</article-title>
+              <source>Lancet</source>
+              <year>2018</year>
+              <volume>392</volume>
+              <fpage>222</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 314 adults with systemic lupus erythematosus treated with baricitinib [2 or 4 mg] or placebo once daily for 24 weeks, clinical improvements arose in 53% on placebo versus 58% and 67% on baricitinib while adverse events were more frequent with study drug; while there were no &#x0201c;clinically meaningful differences in laboratory abnormalities&#x0201d;, ALT levels above 3 times ULN arose in 1.9% on placebo versus 4.8% on 4 mg but none on 2 mg of baricitinib daily, and there were no severe hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30043749</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.smolen.2019.7">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Smolen</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Genovese</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Takeuchi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hyslop</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Macias</surname><given-names>WL</given-names></name>
+<name name-style="western"><surname>Rooney</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety profile of baricitinib in patients with active rheumatoid arthritis with over 2 years median time in treatment.</article-title>
+              <source>J Rheumatol</source>
+              <year>2019</year>
+              <volume>46</volume>
+              <fpage>7</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of adverse effects of baricitinib in 8 controlled trials and one long term extension study of rheumatoid arthritis included data on 3492 patients followed for a median of 2.1 years found an increased rate of infections with baricitinib 2 mg and 4 mg daily vs placebo [84 and 88.4 vs 75.9 per 100 patient-yrs], 10 cases of tuberculosis [all with 4 mg daily] and increased rate of herpes zoster [3.1 and 4.3 vs 1.0 per 100 patient-years]; no mention of ALT elevations or hepatotoxicity: see Winthrop 2020).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30219772</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.richardson.2020.e30">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Richardson</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Griffin</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Tucker</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Oechsle</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Phelan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rawling</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib as potential treatment for 2019-nCoV acute respiratory disease.</article-title>
+              <source>Lancet</source>
+              <year>2020</year>
+              <volume>395</volume>
+              <issue>10223</issue>
+              <fpage>e30</fpage>
+              <lpage>e31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using artificial intelligence, pathways of SARS-CoV-2 were defined and agents known to inhibit those enzymes were sought, an impressive candidate being baricitinib which inhibits AAK1 which mediates the transfer of SARS-CoV19 ).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32032529</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.harigai.2020.e001095">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Harigai</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Winthrop</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Takeuchi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>TY</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>YM</given-names></name>
+<name name-style="western"><surname>Smolen</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Burmester</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Evaluation of hepatitis B virus in clinical trials of baricitinib in rheumatoid arthritis.</article-title>
+              <source>RMD Open</source>
+              <year>2020</year>
+              <volume>6</volume>
+              <issue>1</issue>
+              <elocation-id>e001095</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 215 patients with anti-HBc without HBsAg treated with baricitinib [2 or 4 mg daily] in preregistration trials, 32 developed detectable HBV DNA during treatment, but levels were low (usually less than 100 IU/mL, transient and not associated with ALT elevations, symptoms or jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32098857</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.winthrop.2020.1290">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Winthrop</surname><given-names>KL</given-names></name>
+<name name-style="western"><surname>Harigai</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Genovese</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Lindsey</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Takeuchi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fleischmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bradley</surname><given-names>JD</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Infections in baricitinib clinical trials for patients with active rheumatoid arthritis.</article-title>
+              <source>Ann Rheum Dis</source>
+              <year>2020</year>
+              <volume>79</volume>
+              <fpage>1290</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of adverse effects of baricitinib in 8 controlled trials and one long term extension study in rheumatoid arthritis included data on 3492 patients followed for a median of 2.6 years and found an increased rate of infections with baricitinib 2 mg and 4 mg daily vs placebo [84 and 88.4 vs 75.9 per 100 patient-yrs], 11 cases of tuberculosis [all with 4 mg daily] and increased rate of herpes zoster [3.1 and 4.3 vs 1.0 per 100 patient-years]; no mention of ALT elevations or hepatotoxicity: see Smolen 2019 ).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32788396</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.peng.2020.1505">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Peng</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ottaviani</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Stebbing</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>YJ</given-names></name>
+</person-group>
+              <article-title>A real-world disproportionality analysis of FDA Adverse Event Reporting System (FAERS) events for baricitinib.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2020</year>
+              <volume>19</volume>
+              <fpage>1505</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the FDA Adverse Event Reporting System from 2018 to 2020 identified 1598 reports on baricitinib, the topic area reporting odds ratio [ROR] being highest and statistically significant for infections [n=464, ROR=3.0] and hepatobiliary disorders [n=84, ROR=2.0] which included specific terms of hepatocellular injury in 17, cholestasis 7, hepatitis 7, liver injury 5 and steatosis 5).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32693646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.raschi.2020.1367">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raschi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Caraceni</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Poluzzi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>De Ponti</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Baricitinib, JAK inhibitors and liver injury: a cause for concern in COVID-19?</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2020</year>
+              <volume>19</volume>
+              <issue>10</issue>
+              <fpage>1367</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter in response to Peng et al [2020] stressing the need to assess the potential hepatotoxicity of baricitinib in human trials).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32840116</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.jorgensen.2020.843">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jorgensen</surname><given-names>SCJ</given-names></name>
+<name name-style="western"><surname>Tse</surname><given-names>CLY</given-names></name>
+<name name-style="western"><surname>Burry</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Dresser</surname><given-names>LD</given-names></name>
+</person-group>
+              <article-title>Baricitinib: a review of pharmacology, safety, and emerging clinical experience in COVID-19.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>843</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanisms of action and potential antiviral and anticytokine actions of baricitinib that make it a candidate therapy for COVID-19 infection including its inhibition of pathways in interferon alpha signaling and cytokine induction; mentions that serum aminotransferase elevations have been reported in humans receiving baricitinib for SARS-CoV-2 infection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32542785</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.titanji.2021.1247">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Titanji</surname><given-names>BK</given-names></name>
+<name name-style="western"><surname>Farley</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Connor-Schuler</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Moanna</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cribbs</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>O'Shea</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Use of baricitinib in patients with moderate to severe Coronavirus Disease 2019.</article-title>
+              <source>Clin Infect Dis</source>
+              <year>2021</year>
+              <volume>72</volume>
+              <issue>7</issue>
+              <fpage>1247</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 15 patients hospitalized with severe COVID-19 treated with hydroxychloroquine and baricitinib [2 or 4 mg daily] for an average of 5 days [range 1 to 7], 12 improved and 3 died; no mention of hepatic complications; ALT levels averaged 52 U/L before [range 16-126] vs 68 U/L after [range 13-180] therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32597466</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.sodani.2020.101115">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sodani</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mucci</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Girolimetti</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Tedesco</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Monaco</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Campanozzi</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Brunori</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Successful recovery from COVID-19 pneumonia after receiving baricitinib, tocilizumab, and remdesivir. A case report: Review of treatments and clinical role of computed tomography analysis.</article-title>
+              <source>Respir Med Case Rep</source>
+              <year>2020</year>
+              <volume>31</volume>
+              <elocation-id>101115</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old man with severe COVID-19 pneumonia was treated initially with hydroxychloroquine and azithromycin followed by baricitinib and then tocilizumab and corticosteroids, and finally remdesivir, after which there was slow but steady recovery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32670785</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.reich.2020.1333">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reich</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kabashima</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Peris</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Silverberg</surname><given-names>JI</given-names></name>
+<name name-style="western"><surname>Eichenfield</surname><given-names>LF</given-names></name>
+<name name-style="western"><surname>Bieber</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kaszuba</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of baricitinib combined with topical corticosteroids for treatment of moderate to severe atopic dermatitis: a randomized clinical trial.</article-title>
+              <source>JAMA Dermatol</source>
+              <year>2020</year>
+              <volume>156</volume>
+              <issue>12</issue>
+              <fpage>1333</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 329 adults with atopic dermatitis treated with baricitinib [2 or 4 mg daily] vs placebo for 16 weeks, itching decreased with baricitinib therapy, and no patient had ALT elevations greater than 3 times ULN during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33001140</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.bieber.2021.476">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bieber</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Thyssen</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Reich</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Simpson</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Katoh</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Torrelo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>De Bruin-Weller</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Pooled safety analysis of baricitinib in adult patients with atopic dermatitis from 8 randomized clinical trials.</article-title>
+              <source>J Eur Acad Dermatol Venereol</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <fpage>476</fpage>
+              <lpage>85</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of safety data from 6 controlled trials and 3 extension studies of baricitinib in 2531 patients with atopic dermatitis found no greater rates of severe infections or opportunistic infections but slight increase in rates of herpes zoster with baricitinib compared to placebo therapy; ALT elevations of 3 times ULN or above occurred in 1.0% of placebo vs 1.6% of baricitinib treated subjects and was above 5 times ULN in 0.1% vs 0.2%, one treated subject having ALT levels above 10 times ULN, but none with clinically apparent liver injury with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32926462</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.reich.2022.1521">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reich</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>DeLozier</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Nunes</surname><given-names>FP</given-names></name>
+<name name-style="western"><surname>Thyssen</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Eichenfield</surname><given-names>LF</given-names></name>
+<name name-style="western"><surname>Wollenberg</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ross Terres</surname><given-names>JA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib improves symptoms in patients with moderate-to-severe atopic dermatitis and inadequate response to topical corticosteroids: patient-reported outcomes from two randomized monotherapy phase III trials.</article-title>
+              <source>J Dermatolog Treat.</source>
+              <year>2022</year>
+              <volume>33</volume>
+              <issue>3</issue>
+              <fpage>1521</fpage>
+              <lpage>1530</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Combined analysis of 2 randomized controlled trials of baricitinib [2 or 4 mg] versus placebo is 1239 adults with atopic dermatitis reported decreases in severity of itch and skin pain and improvements in sleep and quality of life with baricitinib compared to placebo in both trials; no discussion of adverse events or ALT levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33222559</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.stebbing.2021.eabe4724">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stebbing</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez Nievas</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Falcone</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Youhanna</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Richardson</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ottaviani</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>JX</given-names></name>
+<etal/>
+</person-group>
+              <article-title>JAK inhibition reduces SARS-CoV-2 liver infectivity and modulates inflammatory responses to reduce morbidity and mortality.</article-title>
+              <source>Sci Adv</source>
+              <year>2021</year>
+              <volume>7</volume>
+              <issue>1</issue>
+              <elocation-id>eabe4724</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 83 patients hospitalized with COVID-19 and treated with baricitinib in 2 European centers who were propensity matched with 83 controls from the same centers and time period, death or need for mechanical ventilation occurred in 17% of baricitinib vs 35% of control subjects, the effect being seen within 5 days and persisting after treatment; ALT elevations above 2 times ULN arose in 15 [18%] but were self-limited and not associated with symptoms or jaundice; in vitro studies demonstrated that baricitinib prevented interferon alfa-induced increased gene expression and increase in SARS-CoV-2 receptor, suggesting an antiviral as well as anti-cytokine effect).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33187978</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.valorm_ndez.2021.e122">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Valor-M&#x000e9;ndez</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Voskens</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Rech</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kleyer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Schett</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Herpes simplex infection in a patient with rheumatoid arthritis treated with baricitinib: a case report.</article-title>
+              <source>Rheumatology (Oxford)</source>
+              <year>2021</year>
+              <volume>60</volume>
+              <issue>4</issue>
+              <fpage>e122</fpage>
+              <lpage>e123</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old woman with rheumatoid arthritis in remission on methotrexate and baricitinib for 1 year stopped therapy for 1 week for elective surgery and then developed severe herpes simplex shortly after restarting and was switched to abatacept and methotrexate after acyclovir therapy and recovery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33141876</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.rodriguezgarcia.2021.399">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rodriguez-Garcia</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Sanchez-Nievas</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Arevalo-Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Garcia-Gomez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jimenez-Vizuete</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Martinez-Alfaro</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Baricitinib improves respiratory function in patients treated with corticosteroids for SARS-CoV-2 pneumonia: an observational cohort study.</article-title>
+              <source>Rheumatology (Oxford)</source>
+              <year>2021</year>
+              <volume>60</volume>
+              <issue>1</issue>
+              <fpage>399</fpage>
+              <lpage>407</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 387 patients with moderate-to-severe COVID-19 pneumonia treated with methylprednisolone with [n=117] or without baricitinib [n=270], of which 62 receiving baricitinib had more rapid improvements in pulse oximetry-measured oxygen saturation than did a matched group of 50 receiving corticosteroids alone but without differences in rates of ICU admission or death; no mention of hepatotoxicity or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33020836</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.cantini.2020.318">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cantini</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Niccoli</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Matarrese</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Nicastri</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Stobbione</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Goletti</surname><given-names>D.</given-names></name>
+</person-group>
+              <article-title>Baricitinib therapy in COVID-19: A pilot study on safety and clinical impact.</article-title>
+              <source>J Infect</source>
+              <year>2020</year>
+              <volume>81</volume>
+              <fpage>318</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 12 adults with COVID-19 pneumonia not requiring intubation treated with baricitinib and lopinavir/ritonavir for two weeks, mean levels of symptoms, CRP and Sp02 improved, unlike 12 historic controls among whom they changed little; one treated patient developed ALT elevations peaking at 298 U/L and had therapy discontinued early [10 days]).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.cantini.2020.647">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cantini</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Niccoli</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Nannini</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Matarrese</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Natale</surname><given-names>MED</given-names></name>
+<name name-style="western"><surname>Lotti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Aquilini</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Beneficial impact of Baricitinib in COVID-19 moderate pneumonia; multicentre study.</article-title>
+              <source>J Infect</source>
+              <year>2020</year>
+              <volume>81</volume>
+              <fpage>647</fpage>
+              <lpage>79</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A retrospective analysis identified 113 patients with moderate COVID-19 pneumonia admitted to 4 Italian medical centers who were treated with baricitinib and lopinavir/ritonavir for 2 weeks; baricitinib treated patients had more rapid improvement in symptoms, SpO2 and CRP levels than 78 historical controls, and adverse events were mild but included 4 patients with serum ALT elevations on therapy; no details given).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.bronte.2020.6409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bronte</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Ugel</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tinazzi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vella</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>De Sanctis</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Can&#x000e8;</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Batani</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Baricitinib restrains the immune dysregulation in patients with severe COVID-19.</article-title>
+              <source>J Clin Invest</source>
+              <year>2020</year>
+              <volume>130</volume>
+              <fpage>6409</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 78 patients with COVID-19 pneumonia, the 20 who received baricitinib had greater degrees of clinical improvements and greater decreases in serum IL-6, ILI&#x003b2; and TNF&#x003b1; levels during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32809969</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.fda_1">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.fda.gov/media/143823/download">https://www.fda.gov/media/143823/download</ext-link><annotation><p><italic toggle="yes">(FDA fact sheet on use of baricitinib in combination with remdesivir for severe COVID-19 based upon an Emergency Use Authorization of November 19, 2020, with information on indications, drug dosage, adverse events, recommendations for monitoring and management of complications).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baricitinib.REF42">
+            <element-citation publication-type="journal">
+              <article-title>An EUA for baricitinib (Olumiant) for COVID-19.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1614</issue>
+              <fpage>202</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of baricitinib shortly after its emergency use authorization as therapy of hospitalized patients with moderate-to-severe COVID-19 pneumonia mentions that side effects of baricitinib can include serious infections, thromboembolic effects, hypersensitivity reactions and serum aminotransferase elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33451175</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.rodriguezgarcia.2021.399_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rodriguez-Garcia</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Sanchez-Nievas</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Arevalo-Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Garcia-Gomez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jimenez-Vizuete</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Martinez-Alfaro</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Baricitinib improves respiratory function in patients treated with corticosteroids for SARS-CoV-2 pneumonia: an observational cohort study.</article-title>
+              <source>Rheumatology (Oxford)</source>
+              <year>2021</year>
+              <volume>60</volume>
+              <issue>1</issue>
+              <fpage>399</fpage>
+              <lpage>407</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 112 hospitalized patients with COVID 19 and respiratory failure, improvement in SpO2 was greater and need for supplementary oxygen was less at the time of discharge in 62 patients who received baricitinib and methylprednisolone versus 50 who received methylprednisolone alone and adverse events were similar; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33020836</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.peterson.2020.e223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Peterson</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Damsky</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>King</surname><given-names>B.</given-names></name>
+</person-group>
+              <article-title>The use of Janus kinase inhibitors in the time of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).</article-title>
+              <source>J Am Acad Dermatol</source>
+              <year>2020</year>
+              <volume>82</volume>
+              <fpage>e223</fpage>
+              <lpage>e226</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter expressing caution about use of Janus kinase inhibitors during COVID-19 infection based upon their mechanism of action in blocking intracellular signaling pathways mediated by Janus kinases, but also mentioning 3 patients with alopecia areata who developed COVID-19 infection while on an inhibitor and had a relative mild, normal course of infection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32278797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.satarker.2021.489">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Satarker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tom</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Shaji</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Alosious</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Luvis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nampoothiri</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>JAK-STAT pathway inhibition and their implications in COVID-19 therapy.</article-title>
+              <source>Postgrad Med.</source>
+              <year>2021</year>
+              <volume>133</volume>
+              <issue>5</issue>
+              <fpage>489</fpage>
+              <lpage>507</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action and pleomorphic activities of Janus kinase inhibitors and their possible role in treating severe COVID-19 infection which is often accompanied by high levels of proinflammatory cytokines [cytokine storm], with listing of ongoing trials including several of ruxolitinib).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33245005</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.wong.2021.564">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>GH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Okada</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>WC</given-names></name>
+</person-group>
+              <article-title>Transcriptome network analyses in human coronavirus infections suggest a rational use of immunomodulatory drugs for COVID-19 therapy.</article-title>
+              <source>Genomics</source>
+              <year>2021</year>
+              <volume>113</volume>
+              <fpage>564</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the temporal pattern of upregulation of genes in cells infected with SARS-CoV-2 suggest that medications most likely to affect these changes include among others dexamethasone, baricitinib, tofacitinib, sarilumab, ritonavir, naproxen, avelumab, durvalumab and atezolizumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33482326</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.banerjee.2021.2512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Banerjee</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Goswami</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Chatterjee</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Network theoretic analysis of JAK/STAT pathway and extrapolation to drugs and viruses including COVID-19.</article-title>
+              <source>Sci Rep</source>
+              <year>2021</year>
+              <volume>11</volume>
+              <fpage>2512</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A theoretic analysis of the pathways affected by various rheumatologic medications and pathways affected by viral infections suggests that baricitinib would have the highest likelihood of efficacy in SARS-CoV-2 infection with lower efficacy of the other Janus kinase inhibitors, tofacitinib and ruxolitinib).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33510353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.kalil.2021.795">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kalil</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Patterson</surname><given-names>TF</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Tomashek</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Wolfe</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Ghazaryan</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Marconi</surname><given-names>VC</given-names></name>
+<etal/>
+<collab>ACTT-2 Study Group Members</collab>
+</person-group>
+              <article-title>Baricitinib plus remdesivir for hospitalized adults with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>795</fpage>
+              <lpage>807</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1033 patients hospitalized with COVID-19 pneumonia treated with remdesivir and either baricitinib or placebo for up to 14 days, the median time to recovery was faster with baricitinib than placebo [6 vs 7 days] and adverse event rates were lower; serum aminotransferase elevations arising in 1.8% vs 3.1% and to above 5 times ULN in only one baricitinib treated patient).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33306283</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.calabrese.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Calabrese</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Calabrese</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Baricitinib and dexamethasone for hospitalized patients with COVID-19.</article-title>
+              <source>Cleve Clin J Med.</source>
+              <year>2021</year>
+              <pub-id pub-id-type="doi">10.3949/ccjm.88a.ccc073</pub-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary on the controlled trials of remdesivir, dexamethasone and baricitinib for moderate-to-severe COVID-19 pneumonia mentions that the observed effects of baricitinib when combined with remdesivir have been modest [a one day shortening of recovery time] and there have been no trials comparing baricitinib and dexamethasone which appears to have a major effect on outcome of severe COVID-19 pneumonia).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.rodr_gueztajes.2021.89">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rodr&#x000ed;guez-Tajes</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Miralpeix</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Costa</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>L&#x000f3;pez-Su&#x000f1;&#x000e9;</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Laguno</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pocurull</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lens</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Low risk of hepatitis B reactivation in patients with severe COVID-19 who receive immunosuppressive therapy.</article-title>
+              <source>J Viral Hepat.</source>
+              <year>2021</year>
+              <volume>28</volume>
+              <fpage>89</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 61 patients with severe COVID-19 who received immunomodulatory therapy [corticosteroids in 100%, tocilizumab in 72%, baricitinib in 3%] and were HBsAg negative but anti-HBc positive, 38 were given antiviral prophylaxis with entecavir and 23 were not, but none developed HBV reactivation, although 2 [no prophylaxis, anti-HBs negative] developed transient low levels of HBV DNA [&#x0003c;10 IU/mL] without aminotransferase elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32969557</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.wong.2021.564_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>GH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Okada</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>WC</given-names></name>
+</person-group>
+              <article-title>Transcriptome network analyses in human coronavirus infections suggest a rational use of immunomodulatory drugs for COVID-19 therapy.</article-title>
+              <source>Genomics</source>
+              <year>2021</year>
+              <volume>113</volume>
+              <fpage>564</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the temporal pattern of upregulation of genes in cells infected with SARS-CoV-2 suggest that medications most likely to affect these changes include among others dexamethasone, baricitinib, tofacitinib, sarilumab, ritonavir, naproxen, avelumab, durvalumab and atezolizumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33482326</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.king.2021.395">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>King</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Maari</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lain</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Silverberg</surname><given-names>JI</given-names></name>
+<name name-style="western"><surname>Issa</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Holzwarth</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Brinker</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Extended safety analysis of baricitinib 2 mg in adult patients with atopic dermatitis: an integrated analysis from eight randomized clinical trials.</article-title>
+              <source>Am J Clin Dermatol.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>395</fpage>
+              <lpage>405</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled analysis of 6 controlled trials and 2 extension studies of baricitinib in 1598 patients with atopic dermatitis found adverse events more frequent with drug than placebo [58% vs 52%], but severe adverse event rates were less frequent [1.6% vs 2.7%] with infections in 34% vs 28%, herpes simplex in 3.8% vs 2.8%, ALT elevations above 3 times ULN in 0.7% vs 1.0% and above 5 times ULN in 0.1% vs 0.1% with no hepatic severe adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33826132</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.gatti.2021.738">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gatti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Turrini</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Raschi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Sestili</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Fimognari</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Janus kinase inhibitors and coronavirus disease (COVID)-19: rationale, clinical evidence and safety issues.</article-title>
+              <source>Pharmaceuticals (Basel)</source>
+              <year>2021</year>
+              <volume>14</volume>
+              <fpage>738</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the theoretic basis for use of JAK inhibitors in COVID-19 disease, clinical efficacy and safety of baricitinib and ruxolitinib mentions rare instances of ALT elevations and one case of drug induced liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34451835</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF54">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for rheumatoid arthritis.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1637</issue>
+              <fpage>177</fpage>
+              <lpage>184</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, toxicity and costs of drugs used to treat rheumatoid arthritis including baricitinib, tofacitinib and upadacitinib, common adverse events of which are gastrointestinal symptoms, nasopharyngitis and headache while aminotransferase elevations can occur as well as dyslipidemia and cytopenias; rare adverse events may include major adverse cardiovascular events, thrombosis, malignancy and increase risk of death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35085210</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.valorm_ndez.2021.980">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Valor-M&#x000e9;ndez</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Manger</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Schett</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Kleyer</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Hepatitis-E-virus-infektion bei einem patienten mit rheumatoider arthritis unter baricitinib-therapie</article-title>
+              <comment>[Severe hepatitis&#x000a0;E virus infection in a patient with rheumatoid arthritis treated with baricitinib]</comment>
+              <source>Z Rheumatol.</source>
+              <year>2021</year>
+              <volume>80</volume>
+              <issue>10</issue>
+              <fpage>980</fpage>
+              <lpage>983</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old man with rheumatoid arthritis was found to have abnormal liver tests having been on baricitinib for several months, which was promptly stopped [ALT 2112 U/L, Alk P and bilirubin not given], but subsequent testing revealed presence of HEV RNA and IgM anti-HEV indicative of acute hepatitis E and baricitinib was restarted without recurrence of liver abnormalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34097102</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.raghuvanshi.2022.893">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raghuvanshi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bharate</surname><given-names>SB</given-names></name>
+</person-group>
+              <article-title>Recent developments in the use of kinase inhibitors for management of viral infections.</article-title>
+              <source>J Med Chem</source>
+              <year>2022</year>
+              <volume>65</volume>
+              <fpage>893</fpage>
+              <lpage>921</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the kinase inhibitors approved for use in the US, their mechanisms of action and possible role in inhibiting viral replication).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33539089</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.taylor.2022.335">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Taylor</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Takeuchi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Burmester</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Durez</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Smolen</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Deberdt</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Issa</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of baricitinib for the treatment of rheumatoid arthritis over a median of 4.6 and up to 9.3 years of treatment: final results from long-term extension study and integrated database.</article-title>
+              <source>Ann Rheum Dis.</source>
+              <year>2022</year>
+              <volume>81</volume>
+              <fpage>335</fpage>
+              <lpage>343</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3770 patients with rheumatoid arthritis treated with baricitinib in registration trials and followed for up to 9 years [median 4.6 years], adverse events arose in 23%, serious adverse events 7.4%, herpes zoster 3.0%, major infections 2.6%, major adverse cardiovascular events [0.5%], and malignancy [0.9]; no mention of liver related adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34706874</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.yip.2022.257">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yip</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Gill</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Management of hepatitis B virus reactivation due to treatment of COVID-19.</article-title>
+              <source>Hepatol Int.</source>
+              <year>2022</year>
+              <volume>16</volume>
+              <fpage>257</fpage>
+              <lpage>268</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of reactivation of HBV from drugs used to treated COVID-19 including corticosteroids, tocilizumab, sarilumab, and baricitinib, which despite the risk has not been documented to occur, perhaps due to the competing viral infection and short duration of therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35235148</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.bieber.2022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bieber</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Reich</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Paul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Tsunemi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Augustin</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lacour</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Ghislain</surname><given-names>PD</given-names></name>
+<etal/>
+<collab>BREEZE-AD4 study group</collab>
+</person-group>
+              <article-title>Efficacy and safety of baricitinib in combination with topical corticosteroids in patients with moderate-to-severe atopic dermatitis with inadequate response, intolerance or contraindication to ciclosporin: results from a randomized, placebo-controlled, phase III clinical trial (BREEZE-AD4).</article-title>
+              <source>Br J Dermatol.</source>
+              <year>2022</year>
+              <month>Apr</month>
+              <day>28</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 463 patients with moderate-to-severe, refractory atopic dermatitis treated with baricitinib [1, 2 or 4 mg] or placebo daily for 52 weeks, at week 16 responses were highest with the higher doses [37%, 29% and 27% vs 19% with placebo], and adverse events were also greatest with higher doses including serious adverse events [11%], infections [73%], herpes zoster [3.3%], although there &#x0201c;no meaningful differences in liver enzymes between treatment groups&#x0201d;).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.hoisnard.2022.7140">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hoisnard</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Lebrun-Vignes</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Maury</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mahevas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>El Karoui</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Roy</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zarour</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Adverse events associated with JAK inhibitors in 126,815 reports from the WHO pharmacovigilance database.</article-title>
+              <source>Sci Rep.</source>
+              <year>2022</year>
+              <volume>12</volume>
+              <fpage>7140</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 126,815 individual case safety reports on ruxolitinib, tofacitinib and baricitinib made to the WHO pharmacovigilance registry, infections were most frequent including viral, fungal, bacterial and mycobacterial complications while there was no increase in hepatobiliary reports).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35504889</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.king.2022.1687">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>King</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ohyama</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kwon</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Zlotogorski</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ko</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mesinkovska</surname><given-names>NA</given-names></name>
+<name name-style="western"><surname>Hordinsky</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>BRAVE-AA Investigators. Two phase 3 trials of baricitinib for alopecia areata.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2022</year>
+              <volume>386</volume>
+              <fpage>1687</fpage>
+              <lpage>1699</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1200 patients with alopecia areata treated with baricitinib or placebo once daily for 36 weeks in two controlled trials, clinical responses were higher with 4 mg [39% and 36%], than with 2 mg [23% and 19%], or placebo [6.2% and 3.3%] while adverse event rates were similar in all 3 groups, and ALT elevations above 3 times ULN were less frequent with baricitinib [1.5% vs 2.7%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35334197</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.wolfe.2022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wolfe</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Tomashek</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Patterson</surname><given-names>TF</given-names></name>
+<name name-style="western"><surname>Gomez</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Marconi</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Jain</surname><given-names>MK</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>OO</given-names></name>
+<etal/>
+<collab>ACTT-4 Study Group</collab>
+</person-group>
+              <article-title>Baricitinib versus dexamethasone for adults hospitalised with COVID-19 (ACTT-4): a randomised, double-blind, double placebo-controlled trial.</article-title>
+              <source>Lancet Respir Med.</source>
+              <year>2022</year>
+              <month>May</month>
+              <day>23</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1010 patients hospitalized with COVID-19 on supplemental oxygen who were treated with remdesivir and either baricitinib [4 mg daily] or dexamethasone, survival to day 29 without need of mechanical ventilation was similar in the two groups [87.0% vs 87.5%] as was mortality rates [5.5% vs 6.4%], but adverse events were less frequent with baricitinib [30% vs 37%], while serious adverse event rates were similar [19% vs 20%] and ALT elevations arose in less than 1% of both groups).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.recovery_collaborative_group.2022.359">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+              <article-title>Baricitinib in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial and updated meta-analysis.</article-title>
+              <source>Lancet.</source>
+              <year>2022</year>
+              <volume>400</volume>
+              <issue>10349</issue>
+              <fpage>359</fpage>
+              <lpage>368</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 8156 patients enrolled in an open label platform trial in patients hospitalized with COVID-19, mortality was 12% baricitinib vs 14% with usual care and there were &#x0201c;no safety concerns&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35908569</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.shawky.2022.1001">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shawky</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Almalki</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Abdalla</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Abdelazeem</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Gouda</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>A comprehensive overview of globally approved JAK inhibitors.</article-title>
+              <source>Pharmaceutics.</source>
+              <year>2022</year>
+              <volume>14</volume>
+              <fpage>1001</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the JAK-STAT pathways and currently approved JAK inhibitors; JAK proteins are cytoplasmic, non-receptor tyrosine kinases involved in transduction of cytokine signals that pair when binding to transmembrane cytokine receptors and, once activated, phosphorylate STAT causing its dimerization and transfer to the nucleus where it activates cytokine induced genes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35631587</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.wood.2022.746">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wood</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chandler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nezamololama</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Papp</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Gooderham</surname><given-names>MJ</given-names></name>
+</person-group>
+              <article-title>Safety of Janus kinase (JAK) inhibitors in the short-term treatment of atopic dermatitis.</article-title>
+              <source>Int J Dermatol.</source>
+              <year>2022</year>
+              <volume>61</volume>
+              <fpage>746</fpage>
+              <lpage>754</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the safety of JAK inhibitors including abrocitinib, baricitinib, upadacitinib, and ruxolitinib mentions that common adverse events are headache [5-10%], nausea [2-20%], transient thrombocytopenia, herpes simplex [0-7%] and herpes zoster [0-2%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34423443</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baricitinib.REF.yip.2022.257_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yip</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Gill</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Management of hepatitis B virus reactivation due to treatment of COVID-19.</article-title>
+              <source>Hepatol Int.</source>
+              <year>2022</year>
+              <volume>16</volume>
+              <fpage>257</fpage>
+              <lpage>268</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of published data on reactivation of hepatitis B caused by treatment of COVID focusing upon corticosteroids, baricitinib, tofacitinib, sarilumab and tocilizumab, which are capable of inducing reactivation when used in rheumatic disease, but have not been reported with their use for COVID-19 perhaps due to duration of therapy or the heightened immune activity of the viral infection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35235148</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Baricitinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Baricitinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Baricitinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Baricitinib">Trials on Baricitinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

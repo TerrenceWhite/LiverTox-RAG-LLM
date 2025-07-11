@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fosnetupitant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fosnetupitant</book-part-id>
+      <title-group>
+        <title>Fosnetupitant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>2</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fosinopril" document-type="chapter">Fosinopril</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fosphenytoin" document-type="chapter">Fosphenytoin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fosnetupitant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fosnetupitant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fosnetupitant is an antiemetic agent that is given in combination with palonosetron and dexamethasone to prevent nausea and vomiting from cancer chemotherapy. When given in combination, fosnetupitant and palonosetron have not been associated with liver related serum enzyme elevations during therapy or to cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Fosnetupitant.Background">
+          <title>Background</title>
+          <p>Fosnetupitant (fos&#x0201d; ne tu&#x02019; pi tant) is a prodrug of netupitant, a substance P antagonist that blocks the neurokinin 1 (NK1) receptor, which is found in the central nervous system and induces the vomiting reflex when activated by its ligand, substance P. Fosnetupitant has been shown to inhibit both acute and delayed nausea and vomiting associated with cancer chemotherapy. It appears to act synergistically with serotonin type 3 (5-HT3) receptor blockers such as palonosetron which predominantly inhibits early nausea and vomiting after cancer chemotherapy. Fosnetupitant in fixed combination with palonosetron was shown to reduce both early and late nausea and vomiting from highly emetogenic cancer chemotherapy regimens. The fixed combination was approved for use in the United States in both oral and parenteral forms in 2018. Current indications are for prevention of chemotherapy associated nausea and vomiting only and concurrent therapy with dexamethasone is recommended for highly emetogenic regimens. The fixed combination is available as capsules of 300 mg of netupitant and 0.5 mg of palonosetron for oral use, and as lyophilized powder for reconstitution in single use vials of 235 mg of fosnetupitant and 0.25 mg of palonosetron for parenteral use, under the brand name Akynzeo. The recommended dose regimen calls for one capsule of the oral combination to be given one hour before chemotherapy and the full vial of reconstituted intravenous combination starting 30 minutes before chemotherapy. Oral dexamethasone is given orally on days 1 (12 mg) and days 2 to 4 (8 mg) in those receiving highly emetogenic regimens of chemotherapy, but is not recommended for less emetogenic regimens. Common side effects of both oral and intravenous fosnetupitant and palonosetron include fatigue, drowsiness, dizziness, headache, diarrhea and abdominal discomfort. Rare but potentially severe adverse events include hypersensitivity reactions including anaphylaxis and serotonin syndrome, particularly when given with other serotonergic drugs. Fosnetupitant with palonosetron should be administered only by health care providers with training and experience in managing cancer chemotherapy and its side effects.</p>
+        </sec>
+        <sec id="Fosnetupitant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration clinical trials of the fixed combination of fosnetupitant and palonosetron, serum aminotransferase elevations occurred in a similar proportion of treated patients as controls receiving cancer chemotherapy. The aminotransferase elevations were transient, mild-to-moderate in severity, and not associated with symptoms or jaundice. The elevations were more likely due to the cancer chemotherapy than the antiemetic prophylaxis. There have been no convincing cases of clinically apparent liver injury attributable to fosnetupitant with palonosetron published in the literature and thus, significant liver injury must be exceedingly rare if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fosnetupitant.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Fosnetupitant is metabolized by and inhibits hepatic CYP 3A4 and has the potential to cause significant drug-drug interactions. It also has significant interactions with warfarin and with hormonal contraceptives. The lack of reported cases of liver injury due to fosnetupitant with palonosetron may be due to the low doses and short duration of typical therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="GastrointestinalAgen" document-type="book-part">Gastrointestinal Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="AntiemeticAgents" document-type="book-part">Antiemetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Substance P/Neurokinin-1 Receptor Antagonists: <related-object link-type="booklink" source-id="livertox" document-id="Aprepitant" document-type="book-part">Aprepitant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Aprepitant" document-type="book-part">Fosaprepitant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rolapitant" document-type="book-part">Rolapitant</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fosnetupitant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Fosnetupitant &#x02013; Akynzeo&#x000ae;</p>
+        <p>
+<bold> DRUG CLASS</bold>
+</p>
+        <p>Gastrointestinal Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fosnetupitant">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Fosnetupitant.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fosnetupitant.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Fosnetupitant.Tc_1_1_1_1" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fosnetupitant.Tc_1_1_1_2" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Fosnetupitant.Tc_1_1_1_3" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fosnetupitant.Tc_1_1_1_4" valign="top" align="left" scope="col" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fosnetupitant.Tc_1_1_1_1" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" scope="row" rowspan="1" colspan="1">Fosnetupitant</td>
+                <td headers="hd_h_Fosnetupitant.Tc_1_1_1_2" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252300265">1703748-89-3</ext-link>
+</td>
+                <td headers="hd_h_Fosnetupitant.Tc_1_1_1_3" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">C31-H35-F6-N4-O5-P</td>
+                <td headers="hd_h_Fosnetupitant.Tc_1_1_1_4" valign="top" align="left" style="border-left: solid 0.50pt; border-top: solid 0.50pt; border-right: solid 0.50pt; border-bottom: solid 0.50pt" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="252300265" document-id-type="sid" document-type="summary" object-id="252300265" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fosnetupitant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 February 2024</p>
+        <p>Abbreviations used: 5-HT3, 5-hydroxytryptamine type 3 [serotonin]; iv, intravenous; NEPA, fixed combination of netupitant [or fosnetupitant] and palonosetron; NK-1, neurokinin-1.</p>
+        <ref-list id="Fosnetupitant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fosnetupitant.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antiemetic and prokinetic compounds. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 721.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of aprepitant, netupitant, and fosnetupitant).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.sharkey.2018">
+            <mixed-citation publication-type="book">Sharkey KA, McNaughton WK. Gastrointestinal motility and water flux, emesis, and biliary and pancreatic disease. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 921-44.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.reuben.2010.2065">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study</article-title>. <source>Hepatology</source>. <year>2010</year>;<volume>52</volume>:<fpage>2065</fpage>&#x02013;<lpage>2076</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to an antiemetic agent).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.bj_rnsson.2013.1419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Bergmann</surname>
+<given-names>OM</given-names></string-name>, <string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>HK</given-names></string-name>, <string-name name-style="western"><surname>Kvaran</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Olafsson</surname>
+<given-names>S</given-names></string-name>. <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland</article-title>. <source>Gastroenterology</source>. <year>2013</year>;<volume>144</volume>:<fpage>1419</fpage>&#x02013;<lpage>1425</lpage>.<annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to antiemetics).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.hern_ndez.2014.231">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hern&#x000e1;ndez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>S&#x000e1;nchez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>di Pace</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Brahm</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zapata</surname>
+<given-names>RA</given-names></string-name>, <string-name name-style="western"><surname>Chirino</surname>
+<given-names>R</given-names></string-name>, <etal>et al</etal>. <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports</article-title>. <source>Ann Hepatol</source>. <year>2014</year>;<volume>13</volume>:<fpage>231</fpage>&#x02013;<lpage>239</lpage>.<annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17], antituberculosis drugs [n=13], and flutamide [n=12: 7%]; no antiemetic was listed).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study</article-title>. <source>Gastroenterology</source>. <year>2015</year>;<volume>148</volume>:<fpage>1340</fpage>&#x02013;<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to aprepitant or other antiemetic agents).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF7">
+            <mixed-citation publication-type="journal"><article-title>IV aprepitant (Cinvanti) for chemotherapy-induced nausea and vomiting</article-title>. <source>Med Lett Drugs Ther</source>. <year>2018</year>;<volume>60</volume>(<issue>1561</issue>):<fpage>e200</fpage>&#x02013;<lpage>e201</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of aprepitant, the first substance P inhibitor approved for prevention of nausea and vomiting after highly emetogenic chemotherapy, in discussing adverse events does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30653479</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.schwartzberg.2018.1535">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schwartzberg</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Roeland</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Andric</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Kowalski</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Radic</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Voisin</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Rizzi</surname>
+<given-names>G</given-names></string-name>, <etal>et al</etal>. <article-title>Phase III safety study of intravenous NEPA: a novel fixed antiemetic combination of fosnetupitant and palonosetron in patients receiving highly emetogenic chemotherapy</article-title>. <source>Ann Oncol</source>. <year>2018</year>;<volume>29</volume>:<fpage>1535</fpage>&#x02013;<lpage>1540</lpage>.<annotation><p><italic toggle="yes">(Among 404 patients who received fixed doses of netupitant and palonosetron as oral capsules [300 mg, 0.50 mg] vs intravenous [iv] formulations [235 mg/0.25 mg] before 1312 cycles of highly emetogenic chemotherapy regimens, treatment related adverse event rates were similar in the two groups [9.5% vs 8.9%], although ALT elevations were more frequent after oral administration [any elevations 11.9% vs 7.4%; elevations above 5 times ULN 7% vs 1%]).</italic></p></annotation><pub-id pub-id-type="pmid">29722791</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.sugawara.2019.4076">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sugawara</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Inui</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Kanehara</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Morise</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Yoshimori</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Kumagai</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Fukui</surname>
+<given-names>T</given-names></string-name>, <etal>et al</etal>. <article-title>Multicenter, placebo-controlled, double-blind, randomized study of fosnetupitant in combination with palonosetron for the prevention of chemotherapy-induced nausea and vomiting in patients receiving highly emetogenic chemotherapy</article-title>. <source>Cancer</source>. <year>2019</year>;<volume>125</volume>:<fpage>4076</fpage>&#x02013;<lpage>4083</lpage>.<annotation><p><italic toggle="yes">(Among 594 Japanese patients treated with fosnetupitant [81 or 235 mg] or placebo combined with palonosetron [0.75 mg] intravenously before highly emetogenic chemotherapy with dexamethasone for 4 days, prevention of nausea and vomiting was 55% for placebo, vs 64% and 77% with fosnetupitant while adverse event rates were similar including ALT elevations in 4.1% vs 5.6% and 5.6%).</italic></p></annotation><pub-id pub-id-type="pmid">31381152</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.karthaus.2020.568">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Karthaus</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Voisin</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Rizzi</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Ciuleanu</surname>
+<given-names>T</given-names></string-name>. <article-title>Phase 3 study of palonosetron IV infusion vs. iv bolus for&#x000a0;chemotherapy-induced nausea and vomiting prophylaxis after highly emetogenic chemotherapy</article-title>. <source>J Pain Symptom Manage</source>. <year>2020</year>;<volume>60</volume>:<fpage>568</fpage>&#x02013;<lpage>576</lpage>.<annotation><p><italic toggle="yes">(Among 440 patients who received a single iv infusion or iv bolus of palonosetron [0.25 mg] immediately before highly emetogenic chemotherapy, a similar proportion of each group had no emesis in the next 5 days [76% vs 77%], with similar rates of adverse events [38% vs 36%]; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32276098</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.schwartzberg.2020.e589">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Schwartzberg</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Navari</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Clark-Snow</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Arkania</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Radyukova</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Patel</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Voisin</surname>
+<given-names>D</given-names></string-name>, <etal>et al</etal>. <article-title>Phase IIIb safety and efficacy of intravenous NEPA for prevention of chemotherapy-induced nausea and vomiting (CINV) in patients with breast cancer receiving initial and repeat cycles of anthracycline and cyclophosphamide (AC) chemotherapy</article-title>. <source>Oncologist</source>. <year>2020</year>;<volume>25</volume>:<fpage>e589</fpage>&#x02013;<lpage>e597</lpage>.<annotation><p><italic toggle="yes">(Among 402 patients treated with either oral or intravenous fosnetupitant and palonosetron [NEPA] just before a moderately or highly emetogenic cancer chemotherapy regimen, rates of no emesis over the next 5 days were similar in the two groups [oral 77% vs iv 73%], while treatment related adverse event rates were low and similar [11% vs 8%], there being only one treatment related serious adverse event, and no episodes of hypersensitivity or anaphylaxis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32162813</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.aapro.2021.103143">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aapro</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Navari</surname>
+<given-names>RM</given-names></string-name>, <string-name name-style="western"><surname>Roeland</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Schwartzberg</surname>
+<given-names>L</given-names></string-name>. <article-title>Efficacy of intravenous NEPA, a fixed NK/5-HT receptor antagonist combination, for the prevention of chemotherapy-induced nausea and vomiting (CINV) during cisplatin- and anthracycline cyclophosphamide (AC)-based chemotherapy: a review of phase 3 studies</article-title>. <source>Crit Rev Oncol Hematol</source>. <year>2021</year>;<volume>157</volume>:<elocation-id>103143</elocation-id>.<annotation><p><italic toggle="yes">(Analysis of 15 studies of NK-1 receptor inhibitors compared to 5-HT3 receptor inhibitors, including 2077 patients treated with both netupitant and palonosetron [NEPA], 403 orally and 1674 intravenously [iv], the overall complete response with cisplatin regimens was 77% for iv NEPA, which was similar for oral [75-90%], and was higher than that with other NK-1/5-HT3 combinations [66-78%], mentions that NK-1 inhibitors were &#x0201c;safe and well tolerated&#x0201d;; no discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33260048</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.hata.2022.180">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hata</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Okamoto</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Inui</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Okada</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Morise</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Akiyoshi</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Takeda</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal>. <article-title>Randomized, double-blind, phase III study of fosnetupitant versus fosaprepitant for prevention of highly emetogenic chemotherapy-induced nausea and vomiting: CONSOLE</article-title>. <source>J Clin Oncol</source>. <year>2022</year>;<volume>40</volume>:<fpage>180</fpage>&#x02013;<lpage>188</lpage>.<annotation><p><italic toggle="yes">(Among 795 patients treated with iv fosnetupitant or fosaprepitant combined with iv palonosetron and 4 days of oral dexamethasone, the complete response rates were 75% vs 71% and treatment related adverse event rates 22% vs 25%, while injection site reactions were less with NEPA [11% vs 21%]).</italic></p></annotation><pub-id pub-id-type="pmid">34793245</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.matsuura.2022.1692">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Matsuura</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Tsurutani</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Inoue</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Tanabe</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Taira</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kubota</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Tamura</surname>
+<given-names>T</given-names></string-name>, <etal>et al</etal>. <article-title>A phase 3 safety study of fosnetupitant as an antiemetic in patients receiving anthracycline and cyclophosphamide: CONSOLE-BC</article-title>. <source>Cancer</source>. <year>2022</year>;<volume>128</volume>:<fpage>1692</fpage>&#x02013;<lpage>1698</lpage>.<annotation><p><italic toggle="yes">(Among 102 patients treated with iv fosnetupitant or fosaprepitant in combination with palonosetron before receiving cancer chemotherapy, the complete response rate was 46% vs 51% and treatment related adverse event rates were similar [21% vs 22%], although injection site reactions were less frequent with fosnetupitant [6% vs 26%).</italic></p></annotation><pub-id pub-id-type="pmid">35045185</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fosnetupitant.REF.dranitsaris.2022.6649">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dranitsaris</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Moezi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dobson</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Phelan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Blau</surname>
+<given-names>S</given-names></string-name>. <article-title>A real-world study to evaluate the safety and efficacy of three injectable neurokinin-1 receptor antagonist formulations for the prevention of chemotherapy-induced nausea and vomiting in cancer patients</article-title>. <source>Support Care Cancer</source>. <year>2022</year>;<volume>30</volume>:<fpage>6649</fpage>&#x02013;<lpage>6658</lpage>.<annotation><p><italic toggle="yes">(Among 294 adults receiving prophylaxis for nausea and vomiting for cancer chemotherapy in 17 community hospitals, those receiving fosaprepitant had slightly lower rates of control of nausea and vomiting and higher rates of infusion reactions compared to those receiving fosnetupitant, while most other adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35499619</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Fosnetupitant.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Fosnetupitant+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Fosnetupitant: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fosnetupitant">Trials on Fosnetupitant: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

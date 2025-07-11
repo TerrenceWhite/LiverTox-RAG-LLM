@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="VitaminE" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">VitaminE</book-part-id>
+      <title-group>
+        <title>Vitamin E</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>4</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="VitaminD" document-type="chapter">Vitamin D</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="VitaminK" document-type="chapter">Vitamin K</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="VitaminE.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="VitaminE.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Vitamin E (alpha tocopherol) is a fat soluble vitamin and potent antioxidant that is believed to be important in protecting cells from oxidative stress, regulating immune function, maintaining endothelial cell integrity, and balancing normal coagulation. There is no evidence that vitamin E, in physiologic or even super-physiologic high doses, causes liver injury or jaundice.</p>
+        </sec>
+        <sec id="VitaminE.Background">
+          <title>Background</title>
+          <p>Vitamin E is a fat soluble vitamin known chemically as alpha-tocopherol (toe kof' er ol). Vitamin E is a potent antioxidant and is believed to be important is protecting cells from oxidative stress. Alpha tocopherol exists in 8 isomeric forms, but only one (R-R-R alpha tocopherol, &#x0201c;natural&#x0201d; vitamin E) has full antioxidant activity and is the predominant form found in nature in foods rich in vitamin E. Vitamin E is taken up my multiple cells and becomes embedded in the endoplasmic reticulum where it carries out antioxidant activity, maintaining the integrity of intracellular pathways and molecules than can be altered or inactivated by reactive oxygen radicals. Deficiency of vitamin E is rare, found largely in patients with severe fat malabsorption, with advanced liver disease or on total parenteral nutrition. Vitamin E is available in multiple forms, including tablets, capsules, oral solutions and syrups and solutions for intravenous administration (for parenteral nutrition). Most formulations are available over the counter, but many are mixed isomers of alpha tocopherol and the biologic activity of these products is unclear. The recommended daily allowance (RDA) for vitamin E is 15 mg (22 IU; 35 &#x000b5;mol) daily in adults and varies in children from 4 mg in neonates ages 0 to 6 months, 5 mg in infants ages 7 to 12 months, 6 mg for ages 1 to 3 years, 7 mg for ages 4 to 8 years, 11 mg for ages 9 to 13 years, to 15 mg for adolescents ages 14 years and above. Recent surveys suggest that the average American diet provides less than the RDA levels for vitamin E. An adequate blood level of vitamin E is considered 4 mg/mL. Vitamin E has been evaluated as therapy or means of prevention of many diseases including coronary artery disease, stroke, cognitive decline, macular degeneration and multiple forms of cancer, but has not been shown to have a significant effect on the incidence, morbidity or mortality of these diseases. Recently, small trials have suggested that vitamin E supplements can decrease steatosis, inflammation and cell injury in patients with nonalcoholic fatty liver disease. In doses below 1000 mg (1,500 IU; 2325 &#x000b5;mol) daily, vitamin E has been found to be safe and without adverse events. Patients on anticoagulant therapy may have an increase in bleeding episodes because of vitamin E&#x02019;s effect on platelet aggregation.</p>
+        </sec>
+        <sec id="VitaminE.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Neither normal nor excessively high intakes of vitamin E are associated with liver injury or liver test abnormalities. In long term clinical trials, serum enzyme and bilirubin elevations were no more frequent with vitamin E therapy than with placebo. Indeed, in many animal models, vitamin E is protective against hepatotoxic substances and provides antioxidant and cytoprotective activity to hepatocytes. In several randomized controlled trials, vitamin E has been found to improve serum aminotransferase elevations and liver biopsy histologic findings of steatosis, inflammation and cell injury in patients with nonalcoholic steatohepatitis (NASH). Therapy was well tolerated and no patients had significant rises in serum aminotransferase levels during treatment or worsening of the underlying liver injury. While liver histology improved including steatosis, cell injury and inflammation, therapy was associated with only slight improvements in liver fibrosis, and the role of vitamin E in the long term management of nonalcoholic fatty liver disease is not clear. However, in multiple controlled trials of vitamin E therapy there have been no reports of significant liver injury or jaundice with treatment.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="VitaminE.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>It is not clear how vitamin E might cause liver injury. Vitamin E is taken up by multiple tissues and metabolized in the liver by the cytochrome P450 system, largely by CYP 4F2 to water soluble products that are excreted in the urine.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Vitamins" document-type="book-part">Vitamins</related-object></p>
+          <p>Other Drugs in the Class: <related-object link-type="booklink" source-id="livertox" document-id="VitaminA" document-type="book-part">Vitamin A</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminB" document-type="book-part">Vitamin B</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminC" document-type="book-part">Vitamin C</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminD" document-type="book-part">Vitamin D</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VitaminK" document-type="book-part">Vitamin K</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="FolicAcid" document-type="book-part">Folate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Niacin" document-type="book-part">Niacin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="VitaminE.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Vitamin E &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Vitamins</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Vitamin+E">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="VitaminE.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="VitaminE.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_VitaminE.Tc_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_VitaminE.Tc_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_VitaminE.Tc_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_VitaminE.Tc_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_VitaminE.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">alpha-Tocopherol</td>
+                <td headers="hd_h_VitaminE.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972125">59-02-9</ext-link>
+</td>
+                <td headers="hd_h_VitaminE.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H50-O2</td>
+                <td headers="hd_h_VitaminE.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134972125" document-id-type="sid" document-type="summary" object-id="134972125" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="VitaminE.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 April 2025</p>
+        <ref-list id="VitaminE.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="VitaminE.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; does not discuss vitamin E).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.seeff.2013">
+            <mixed-citation publication-type="book">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp, 631-57.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of dietary supplements; does not discuss vitamins and minerals).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.traber.1998">
+            <mixed-citation publication-type="book">Traber MG. Vitamin E. In, Shils ME, Olson JA, Shike M, Ross AC, eds. Modern nutrition in health and disease. 9th ed. Baltimore: Williams &#x00026; Wilkins, 1998; pp 347-62.<annotation><p><italic toggle="yes">(Textbook of nutrition).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF4">
+            <mixed-citation publication-type="book">Food and Nutrition Board, Institute of Medicine. DRI dietary reference intakes: for vitamin C, vitamin E, selenium and carotenoids. Washington DC: National Academy Press, 1998.<annotation><p><italic toggle="yes">(Reports from the Food and Nutrition Board of the Institute of Medicine on dietary reference values for vitamin E intake, replacing the previously published Recommended Dietary Allowances).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.office_of_dietary_supplements">
+            <mixed-citation publication-type="web"><collab>Office of Dietary Supplements</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/">https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/</ext-link><annotation><p><italic toggle="yes">(Fact sheet on vitamin E maintained and regularly updated by the Office of Dietary Supplements, National Institutes of Health).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.diplock.1995.1510s">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Diplock</surname>
+<given-names>AT</given-names></string-name>. <article-title>Safety of antioxidant vitamins and beta-carotene.</article-title>
+<source>Am J Clin Nutr</source>
+<year>1995</year>; <volume>62</volume> (<issue>6</issue>
+<supplement>Suppl</supplement>): <fpage>1510S</fpage>-<lpage>1516S</lpage>.<annotation><p><italic toggle="yes">(Review of animal and human studies of safety of vitamin E uncovered no apparent toxicity; &#x0201c;A dosage of &#x02264;1000 mg/d is considered to be entirely safe and without side effects&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">7495252</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.meyers.1996.925">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Meyers</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Maloley</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Weeks</surname>
+<given-names>D</given-names></string-name>. <article-title>Safety of antioxidant vitamins.</article-title>
+<source>Arch Intern Med</source>
+<year>1996</year>; <volume>156</volume>: <fpage>925</fpage>-<lpage>35</lpage>.<annotation><p><italic toggle="yes">(Review of adverse effects of vitamin E mentions that several studies have shown the safety of vitamin E, but individual reports have mentioned a variety of side effects such as thrombophlebitis, headache, dizziness, urticarial and hypertension; liver toxicity in neonates was noted with an intravenous preparation that has subsequently been withdrawn and the complication has not been seen since).</italic></p></annotation><pub-id pub-id-type="pmid">8624173</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.hathcock.2005.736">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hathcock</surname>
+<given-names>JN</given-names></string-name>, <string-name name-style="western"><surname>Azzi</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Blumberg</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Bray</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Dickinson</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Frei</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Jialal</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Vitamins E and C are safe across a broad range of intakes.</article-title>
+<source>Am J Clin Nutr</source>
+<year>2005</year>; <volume>81</volume>: <fpage>736</fpage>-<lpage>45</lpage>.<annotation><p><italic toggle="yes">(Review of the safety of vitamin E: &#x0201c;More than 20 published clinical trials involving &#x02265;80,000 subjects have documented the safety of vitamin E supplements&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">15817846</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.lee.2005.56">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>IM</given-names></string-name>, <string-name name-style="western"><surname>Cook</surname>
+<given-names>NR</given-names></string-name>, <string-name name-style="western"><surname>Gaziano</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Gordon</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Ridker</surname>
+<given-names>PM</given-names></string-name>, <string-name name-style="western"><surname>Manson</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Hennekens</surname>
+<given-names>CH</given-names></string-name>, <etal>et al.</etal>
+<article-title>Vitamin E in the primary prevention of cardiovascular disease and cancer: the Women's Health Study: a randomized controlled trial.</article-title>
+<source>JAMA</source>
+<year>2005</year>; <volume>294</volume>: <fpage>56</fpage>-<lpage>65</lpage>.<annotation><p><italic toggle="yes">(Results of the Women&#x02019;s Health Study of vitamin E [600 IU] vs placebo every other day for ten years in 39,876 healthy women [ages &#x02265;45 years] found no decrease in overall mortality, stroke, cardiovascular events or cancer with vitamin E therapy, and no differences in rates of side effects except for slight increase in risk for nose bleeds).</italic></p></annotation><pub-id pub-id-type="pmid">15998891</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.sesso.2008.2123">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sesso</surname>
+<given-names>HD</given-names></string-name>, <string-name name-style="western"><surname>Buring</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Christen</surname>
+<given-names>WG</given-names></string-name>, <string-name name-style="western"><surname>Kurth</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Belanger</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>MacFadyen</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Bubes</surname>
+<given-names>V</given-names></string-name>, <etal>et al.</etal>
+<article-title>Vitamins E and C in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial.</article-title>
+<source>JAMA</source>
+<year>2008</year>; <volume>300</volume>: <fpage>2123</fpage>-<lpage>33</lpage>.<annotation><p><italic toggle="yes">(Results of the Physician&#x02019;s Health Study comparing therapy with vitamin E [400 IU every other day] with vitamin C [500 mg daily] versus placebo for an average of 8 years, found no effect of vitamin E on cardiovascular events or mortality, although vitamin E was associated with increase in hemorrhage stroke).</italic></p></annotation><pub-id pub-id-type="pmid">18997197</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.reuben.2010.2065">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+<source>Hepatology</source>
+<year>2010</year>; <volume>52</volume>: <fpage>2065</fpage>-<lpage>76</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to vitamin E).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.sanyal.2010.1675">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sanyal</surname>
+<given-names>AJ</given-names></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Kowdley</surname>
+<given-names>KV</given-names></string-name>, <string-name name-style="western"><surname>McCullough</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Diehl</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Bass</surname>
+<given-names>NM</given-names></string-name>, <string-name name-style="western"><surname>Neuschwander-Tetri</surname>
+<given-names>BA</given-names></string-name>, <etal>et al.</etal>; <article-title>NASH CRN. Pioglitazone, vitamin E, or placebo for nonalcoholic steatohepatitis.</article-title>
+<source>N Engl J Med</source>
+<year>2010</year>; <volume>362</volume>: <fpage>1675</fpage>-<lpage>85</lpage>.<annotation><p><italic toggle="yes">(Among 247 adults with NASH treated with pioglitazone, vitamin E [800 IU daily] or placebo for 2 years, vitamin E therapy was associated with higher rates of biochemical and histological improvements than placebo, and side effects were similar).</italic></p></annotation><pub-id pub-id-type="pmid">20427778</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.lavine.2011.1659">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lavine</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Schwimmer</surname>
+<given-names>JB</given-names></string-name>, <string-name name-style="western"><surname>Van Natta</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Molleston</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Murray</surname>
+<given-names>KF</given-names></string-name>, <string-name name-style="western"><surname>Rosenthal</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Abrams</surname>
+<given-names>SH</given-names></string-name>, <etal>et al.</etal>; <collab>Nonalcoholic Steatohepatitis Clinical Research Network</collab>. <article-title>Effect of vitamin E or metformin for treatment of nonalcoholic fatty liver disease in children and adolescents: the TONIC randomized controlled trial.</article-title>
+<source>JAMA</source>
+<year>2011</year>; <volume>305</volume>: <fpage>1659</fpage>-<lpage>68</lpage>.<annotation><p><italic toggle="yes">(Among 173 children with NASH treated with vitamin E, metformin or placebo for 2 years, vitamin E was associated with a higher rate of histological resolution of NASH and marginal higher rates of improvements in ALT levels compared to placebo; side effects were similar).</italic></p></annotation><pub-id pub-id-type="pmid">21521847</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.chalasani.2012.811">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Younossi</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Lavine</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Diehl</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Brunt</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Cusi</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Charlton</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>; <collab>American Association for the Study of Liver Diseases</collab>; <article-title>American College of Gastroenterology; American Gastroenterological Association. The diagnosis and management of non-alcoholic fatty liver disease: Practice guideline by the American Association for the Study of Liver Diseases, American College of Gastroenterology, and the American Gastroenterological Association.</article-title>
+<source>Am J Gastroenterol</source>
+<year>2012</year>; <volume>107</volume>: <fpage>811</fpage>-<lpage>26</lpage>.<annotation><p><italic toggle="yes">(Guidelines from management of nonalcoholic fatty liver disease based upon expert opinion from 3 academic societies, recommends use of vitamin E [800 IU daily] for non-diabetic adult patients with biopsy proven NASH without cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">22641309</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.fortmann.2013">
+            <mixed-citation publication-type="web">Fortmann SP, Burda BU, Senger CA, Lin JS, Beil TL, O'Connor E, Whitlock EP. Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: a systematic evidence review for the U.S. Preventive Services Task Force [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2013 Nov. Available from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/books/NBK173987/">https://www.ncbi.nlm.nih.gov/books/NBK173987/</ext-link>.<annotation><p><italic toggle="yes">(Systematic review of efficacy and safety of vitamin E in prevention of cardiovascular disease and cancer in 6 large, controlled trials involving 120,355 patients found associations in several studies, but none that were consistently reported).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.hoofnagle.2013.134">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoofnagle</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Van Natta</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Kleiner</surname>
+<given-names>DE</given-names></string-name>, <string-name name-style="western"><surname>Clark</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Kowdley</surname>
+<given-names>KV</given-names></string-name>, <string-name name-style="western"><surname>Loomba</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Neuschwander-Tetri</surname>
+<given-names>BA</given-names></string-name>, <etal>et al.</etal>; <collab>Non-alcoholic Steatohepatitis Clinical Research Network</collab>
+<article-title>(NASH CRN). Vitamin E and changes in serum alanine aminotransferase levels in patients with non-alcoholic steatohepatitis.</article-title>
+<source>Aliment Pharmacol Ther</source>
+<year>2013</year>; <volume>38</volume>: <fpage>134</fpage>-<lpage>43</lpage>.<annotation><p><italic toggle="yes">(In a randomized controlled trial therapy with vitamin E (800 IU daily) was more effective than placebo in improving serum ALT levels [48% vs 12%] and improving liver steatosis, necrosis and inflammation, but not fibrosis and these effects were independent of weight loss).</italic></p></annotation><pub-id pub-id-type="pmid">23718573</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 7 were attributed to niacin, but none were attributed to any other vitamin including vitamin E).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.rotman.2017.180">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rotman</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Sanyal</surname>
+<given-names>AJ</given-names></string-name>. <article-title>Current and upcoming pharmacotherapy for non-alcoholic fatty liver disease.</article-title>
+<source>Gut</source>
+<year>2017</year>; <volume>66</volume>: <fpage>180</fpage>-<lpage>90</lpage>.<annotation><p><italic toggle="yes">(Review of the many agents being evaluated as therapy for nonalcoholic steatohepatitis, their evidence for efficacy, safety and mechanisms of action; vitamin E is considered an antioxidant and has few adverse effects, but long term, higher dose therapy has been variably implicated in increased risk of cardiovascular disease, stroke and cancer; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27646933</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.miyashima.2017.3293">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Miyashima</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shibata</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Honma</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Matsuoka</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Hiura</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Abe</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Harada</surname>
+<given-names>M</given-names></string-name>. <article-title>Severe alcoholic hepatitis effectively treated with vitamin E as an add-on to corticosteroids.</article-title>
+<source>Intern Med</source>
+<year>2017</year>; <volume>56</volume>: <fpage>3293</fpage>-<lpage>7</lpage>.<annotation><p><italic toggle="yes">(49 year old woman with severe acute alcoholic hepatitis failed to improve rapidly with high dose corticosteroid therapy but improved promptly upon addition of oral vitamin E [150-300 mg daily]).</italic></p></annotation><pub-id pub-id-type="pmid">29021453</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.bordbar.2018.203">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bordbar</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Shakibazad</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Fattahi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Haghpanah</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Honar</surname>
+<given-names>N</given-names></string-name>. <article-title>Effect of ursodeoxycholic acid and vitamin E in the prevention of liver injury from methotrexate in pediatric leukemia.</article-title>
+<source>Turk J Gastroenterol</source>
+<year>2018</year>; <volume>29</volume>: <fpage>203</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 80 children with acute myelogenous leukemia being treated with methotrexate, mercaptopurine and corticosteroids who were given supplemental vitamin E, ursodiol, or both or neither, rates of liver injury were similar in all groups which led them to conclude that they &#x0201c;failed to prove the true benefits of supplements&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">29749328</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.podszun.2020.101710">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Podszun</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Alawad</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Lingala</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Morris</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>WA</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Schoenfeld</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Vitamin E treatment in NAFLD patients demonstrates that oxidative stress drives steatosis through upregulation of de-novo lipogenesis.</article-title>
+<source>Redox Biol</source>
+<year>2020</year>; <volume>37</volume>: <elocation-id>101710</elocation-id>.<annotation><p><italic toggle="yes">(Analysis of liver histology, magnetic resonance spectroscopy and serum markers in 20 patients with nonalcoholic steatohepatitis treated with variable doses of vitamin E found evidence of decrease in hepatic triglyceride accumulation and de novo lipogenesis with vitamin E therapy, which was associated with improvements in histologic features of steatosis, inflammation and ballooning degeneration).</italic></p></annotation><pub-id pub-id-type="pmid">32920226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.traber.2021.212">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Traber</surname>
+<given-names>MG</given-names></string-name>, <string-name name-style="western"><surname>Head</surname>
+<given-names>B</given-names></string-name>. <string-name name-style="western"><surname>Vitamin</surname>
+<given-names>E</given-names></string-name>: <article-title>How much is enough, too much and why!</article-title>
+<source>Free Radic Biol Med.</source>
+<year>2021</year>;<volume>177</volume>:<fpage>212</fpage>-<lpage>225</lpage>.<annotation><p><italic toggle="yes">(Review of the structure, function, biological activity, absorption, metabolism, and beneficial as well as potentially harmful effects of vitamin E supplementation, mentions that vitamin E has a hydroxyl group at the 6<sup>th</sup> position of the chromanol ring that donates its hydrogen atom, thus enabling its antioxidant activity).</italic></p></annotation><pub-id pub-id-type="pmid">34699937</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.efsa_panel_on_nutrition.2024.e8953">
+            <mixed-citation publication-type="journal"><collab>EFSA Panel on Nutrition</collab>, Novel Foods and Food Allergens (NDA); Turck D, Bohn T, Castenmiller J, de Henauw S, Hirsch-Ernst KI, Knutsen HK, Maciuk A, et al. <article-title>Scientific opinion on the tolerable upper intake level for vitamin E.</article-title>
+<source>EFSA J.</source>
+<year>2024</year>;<volume>22</volume>:<elocation-id>e8953</elocation-id>.<annotation><p><italic toggle="yes">(Expert panel report on the tolerable upper intake level of vitamin E concluded that 300 mg [approximately 450 IU] daily can be considered safe in adults, except for persons taking anticoagulants or antiplatelet medications, or with vitamin K malabsorption, the major concern with higher doses being platelet function and bleeding).</italic></p></annotation><pub-id pub-id-type="pmid">39099617</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.alkhouri.2024.552">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Alkhouri</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>McCarthy</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Bayne</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>Blonquist</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Yurko-Mauro</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Vuppalanchi</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lawitz</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>. <article-title>The effect of vitamin E and docosahexaenoic acid ethyl ester on metabolic dysfunction-associated steatotic liver disease (MASLD)-a randomised, double-blind, placebo-controlled, parallel-group clinical trial (PUVENAFLD).</article-title>
+<source>Aliment Pharmacol Ther.</source>
+<year>2024</year>;<volume>60</volume>:<fpage>552</fpage>-<lpage>562</lpage>.<annotation><p><italic toggle="yes">(Among 203 adults with nonalcoholic fatty liver disease treated with docosahexaenoic acid [1.89 g], vitamin E [1000 mg, racemic], or both, or placebo for 6 months, there were no differences in changes from baseline of hepatic fat, serum ALT or AST, or body weight, while 3 subjects had elevations in serum ALT and AST, but none were considered due to vitamin E).</italic></p></annotation><pub-id pub-id-type="pmid">39001559</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.podszun.2025.284">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Podszun</surname>
+<given-names>MC</given-names></string-name>, <string-name name-style="western"><surname>Alawad</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Lingala</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Morris</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>WCA</given-names></string-name>, <string-name name-style="western"><surname>Rotman</surname>
+<given-names>Y</given-names></string-name>. <article-title>Development of subtle iron deficiency during vitamin E treatment for metabolic dysfunction-associated steatotic liver disease.</article-title>
+<source>J Diet Suppl.</source>
+<year>2025</year>;<volume>22</volume>:<fpage>284</fpage>-<lpage>299</lpage>.<annotation><p><italic toggle="yes">(Among 20 patients with nonalcoholic fatty liver disease treated with vitamin E [200, 400, or 800 IU] once daily with liver biopsy immediately before and after 4 weeks of treatment, 11 patients developed evidence of iron deficiency and 6 mild anemia during treatment, several of whom had evidence of occult gastrointestinal bleeding).</italic></p></annotation><pub-id pub-id-type="pmid">39960325</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="VitaminE.REF.song.2025.101939">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Song</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Ni</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Zheng</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sheng</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Xie</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>Y</given-names></string-name>, <etal>et al.</etal>; <collab>Chinese NAFLD Clinical Research Network</collab>
+<article-title>(CNAFLD CRN). Vitamin E (300&#x000a0;mg) in the treatment of MASH: A multi-center, randomized, double-blind, placebo-controlled study.</article-title>
+<source>Cell Rep Med.</source>
+<year>2025</year>;<volume>6</volume>:<elocation-id>101939</elocation-id>.<annotation><p><italic toggle="yes">(Among 124 Chinese patients with nonalcoholic steatohepatitis treated with vitamin E [300 mg: 450 IU] or placebo once daily for 96 weeks, vitamin E therapy was associated with improvements in serum aminotransferase levels, liver histology, and liver stiffness in comparison to placebo, and there were no serious adverse events attributed to vitamin E).</italic></p></annotation><pub-id pub-id-type="pmid">39970876</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="VitaminE.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Vitamin%20E/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Vitamin E: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Vitamin%20E">Trials on Vitamin E: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

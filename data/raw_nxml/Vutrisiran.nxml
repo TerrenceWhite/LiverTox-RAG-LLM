@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Vutrisiran" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Vutrisiran</book-part-id>
+      <title-group>
+        <title>Vutrisiran</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>2</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Voxelotor" document-type="chapter">Voxelotor</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Warfarin" document-type="chapter">Warfarin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Vutrisiran.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Vutrisiran.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Vutrisiran is a synthetic small interfering RNA (siRNA) molecule directed against the mRNA of transthyretin that is used to treat adults with the polyneuropathy of hereditary transthyretin-mediated amyloidosis. Vutrisiran has not been linked to serum aminotransferase elevations during therapy or to instances of clinically apparent liver injury with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Vutrisiran.Background">
+          <title>Background</title>
+          <p>Vutrisiran (vue&#x0201d; tri sir&#x02019; an) is a synthetic, double-stranded, small interfering RNA (siRNA) directed against the mRNA of transthyretin, a serum protein made in the liver whose major function is transport of vitamin A and thyroxine. Rare mutations in the transthyretin gene result in accumulation of large amyloid deposits of misfolded transthyretin molecules most prominently in peripheral nerves and the heart. Patients with inherited transthyretin amyloidosis typically present with polyneuropathy or autonomic dysfunction followed by cardiomyopathy which, if untreated, is usually fatal within 5 to 12 years. Vutrisiran was developed to reduce production of transthyretin (both the wild type and mutant forms) and prevent further amyloid deposits. Vutrisiran is administered subcutaneously, and uptake by the liver is facilitated by three covalently linked N-acetylgalactosamine residues which bind to the liver specific cell surface, asialoglycoprotein receptor. Once taken up by hepatocytes, the siRNA is cleaved into smaller fragments and separated into single strands that bind and silence the mRNA of transthyretin. In animal models, vutrisiran reduced transthyretin mRNA levels in liver and lowered serum levels of transthyretin by more than 50%. In trials of vutrisiran in patients with hereditary transthyretin amyloidosis with polyneuropathy, subcutaneous injections given every three months resulted in rapid and sustained reductions in serum transthyretin levels (averaging ~80%) and significant improvements in neuropathy and quality of life scales compared to historical placebo groups. Vutrisiran was approved for use in the United States in 2022 for adults with transthyretin amyloidosis and polyneuropathy. It is under evaluation for efficacy and safety in patients with cardiomyopathy due to transthyretin amyloidosis. Vutrisiran is available in solution in single dose prefilled syringes of 25 mg in 0.5 mL under the brand name Amvuttra. The recommended dose regimen is 25 mg administered subcutaneously every 3 months. Administration by a health care provider is recommended. Vutrisiran is generally well tolerated but side effects can include injection site reactions, fatigue, arthralgias, diarrhea and musculoskeletal pains. In preregistration studies, 3% of vutrisiran treated patients developed anti-drug antibodies, but their presence was not associated with decreased efficacy or safety. Because vutrisiran reduces serum transthyretin levels, it also reduces serum vitamin A levels and vitamin A supplementation is recommended, but only in doses within the recommended daily allowance.</p>
+        </sec>
+        <sec id="Vutrisiran.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration trials, vutrisiran therapy was well tolerated and serum aminotransferase levels were uncommon and no more frequent that with placebo treatment. The elevations arose in less than 1% of patients that were invariably transient, mild-to-moderate in severity, and without accompanying symptoms or jaundice. Since its approval, there have been no published reports of liver injury attributed to vutrisiran therapy. Thus, vutrisiran is an unlikely cause of clinically apparent liver injury, although it still has had limited widescale clinical use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Vutrisiran.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of hepatic injury from vutrisiran or other siRNA therapeutics is not known. One possibility is that suppression of transthyretin levels might cause or predispose to liver injury. Vutrisiran, like other siRNA therapeutic agents, is metabolized intracellularly by nucleases and is not a substrate of cytochrome P450 enzymes or hepatic transporters.</p>
+        </sec>
+        <sec id="Vutrisiran.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Vutrisiran has not been linked to liver test abnormalities or to clinically apparent liver injury and regular monitoring of routine liver tests is not recommended.</p>
+          <p>Drug Class: Genetic Disorder Agents, siRNA and Antisense Agents</p>
+          <p>Other Therapeutic siRNA-based Agents: <related-object link-type="booklink" source-id="livertox" document-id="Givosiran" document-type="book-part">Givosiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Inclisiran" document-type="book-part">Inclisiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lumasiran" document-type="book-part">Lumasiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Patisiran" document-type="book-part">Patisiran</related-object></p>
+          <p>Other Drugs for Transthyretin-Mediated Amyloidosis: <related-object link-type="booklink" source-id="livertox" document-id="Acoramidis" document-type="book-part">Acoramidis</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Eplontersen" document-type="book-part">Eplontersen</related-object>, Inotersen, <related-object link-type="booklink" source-id="livertox" document-id="Patisiran" document-type="book-part">Patisiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tafamidis" document-type="book-part">Tafamidis</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Vutrisiran.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Vutrisiran &#x02013; Amvuttra&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Genetic Disorder Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8db0facb-81b6-4006-9239-27dc6409c5d3">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Vutrisiran.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Vutrisiran.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Vutrisiran.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Vutrisiran.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Vutrisiran.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Vutrisiran.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Vutrisiran.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Vutrisiran</td>
+                <td headers="hd_h_Vutrisiran.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381128126">1867157-35-4</ext-link>
+</td>
+                <td headers="hd_h_Vutrisiran.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C530-H672-F9-N171-Na43-O323-P43-S6</td>
+                <td headers="hd_h_Vutrisiran.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Vutrisiran.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 February 2025</p>
+        <p>Abbreviations: mRNA, messenger RNA; siRNA, small interfering RNA.</p>
+        <ref-list id="Vutrisiran.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Vutrisiran.REF.vutrisiran.2022">
+            <mixed-citation publication-type="web">FDA. Vutrisiran. Clinical Review. 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215515Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215515Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(The FDA website with analysis of data submitted in support of approval of vutrisiran, includes product labels and clinical review for its efficacy and safety reported that there were no serious hepatic adverse events or ALT elevations above 3 times ULN among the 122 patients who received vutrisiran in preregistration trials).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.setten.2019.421">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Setten</surname>
+<given-names>RL</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Han</surname>
+<given-names>SP</given-names></string-name>. <article-title>The current state and future directions of RNAi-based therapeutics.</article-title>
+<source>Nat Rev Drug Discov</source>
+<year>2019</year>; <volume>18</volume>: <fpage>421</fpage>-<lpage>46</lpage>.<annotation><p><italic toggle="yes">(Extensive review of gene silencing using RNA interference pathways and the potential of RNAi therapeutics which have promise in many genetic and acquired diseases including transthyretin amyloidosis [transthyretin], HIV infection [CCR5], HBV [HBV mRNA], alpha-1-antitrypsin deficiency [zz A1AT], hypercholesterolemia [PCSK9]).</italic></p></annotation><pub-id pub-id-type="pmid">30846871</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.yadav.2021.1502">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yadav</surname>
+<given-names>JD</given-names></string-name>, <string-name name-style="western"><surname>Othee</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Chan</surname>
+<given-names>KA</given-names></string-name>, <string-name name-style="western"><surname>Man</surname>
+<given-names>DC</given-names></string-name>, <string-name name-style="western"><surname>Belliveau</surname>
+<given-names>PP</given-names></string-name>, <string-name name-style="western"><surname>Towle</surname>
+<given-names>J</given-names></string-name>. <article-title>Transthyretin amyloid cardiomyopathy-current and future therapies.</article-title>
+<source>Ann Pharmacother.</source>
+<year>2021</year>;<volume>55</volume>:<fpage>1502</fpage>-<lpage>1514</lpage>.<annotation><p><italic toggle="yes">(Review of the clinical syndrome of transthyretin amyloid cardiomyopathy and newer agents being evaluated for its treatment including patisiran and vutrisiran, which are under evaluation for evidence of clinical benefit for the cardiomyopathy of transthyretin amyloidosis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33685242</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.adams.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Adams</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Tournev</surname>
+<given-names>IL</given-names></string-name>, <string-name name-style="western"><surname>Taylor</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Coelho</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Plant&#x000e9;-Bordeneuve</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Berk</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Gonz&#x000e1;lez-Duarte</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>; <article-title>HELIOS-A Collaborators. Efficacy and safety of vutrisiran for patients with hereditary transthyretin-mediated amyloidosis with polyneuropathy: a randomized clinical trial.</article-title>
+<source>Amyloid.</source>
+<year>2023</year>;<volume>30</volume>:<fpage>1</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Among 164 patients with hereditary transthyretin-mediated amyloidosis with polyneuropathy treated with vutrisiran [25 mg every 3 months] or patisiran [0.3 mg/kg every 3 weeks] subcutaneously for up to 18 months, neuropathy and quality of life scales improved with both agents as compared to external, historical placebo treated controls [n=77] and adverse events were generally mild and similar to those in placebo and &#x0201c;there were no safety signals regarding liver function tests&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">35875890</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.keam.2022.1419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Keam</surname>
+<given-names>SJ</given-names></string-name>. <article-title>Vutrisiran: first approval.</article-title>
+<source>Drugs.</source>
+<year>2022</year>;<volume>82</volume>:<fpage>1419</fpage>-<lpage>1425</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of vutrisiran shortly after its approval in the US, mentions that it is generally well tolerated and there were no safety signals related to vutrisiran in relation to liver function tests&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">35997942</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.ranasinghe.2023.2697">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ranasinghe</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Addison</surname>
+<given-names>ML</given-names></string-name>, <string-name name-style="western"><surname>Dear</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Webb</surname>
+<given-names>DJ</given-names></string-name>. <article-title>Small interfering RNA: Discovery, pharmacology and clinical development&#x02013;An introductory review.</article-title>
+<source>Br J Pharmacol.</source>
+<year>2023</year>;<volume>180</volume>:<fpage>2697</fpage>-<lpage>2720</lpage>.<annotation><p><italic toggle="yes">(Review of the history of development, mechanism of action, methods of delivery, clinical efficacy and safety of RNA silencing drugs including lumasiran, givosiran, inclisiran, patisiran and vutrisiran, discusses adverse events from vutrisiran of injection site reactions, but does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36250252</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.aimo.2022.655">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aimo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Castiglione</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Rapezzi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Franzini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Panichella</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Vergaro</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>RNA-targeting and gene editing therapies for transthyretin amyloidosis.</article-title>
+<source>Nat Rev Cardiol.</source>
+<year>2022</year>;<volume>19</volume>:<fpage>655</fpage>-<lpage>667</lpage>.<annotation><p><italic toggle="yes">(Review of the molecular approaches to therapy of transthyretin-related amyloidosis including small interfering RNA [siRNA, patisiran, vutrisiran], antisense RNA [inotersen, eplontersen], CRISPR-Cas9 therapy, and molecular stabilization agents [acoramidis, tafamidis], some of which been linked to minor serum aminotransferase elevations during therapy [vutrisiran, eplontersen], but not to clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">35322226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.liu.2024.1368244">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Liu</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Hu</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Tan</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Yin</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Zhou</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Su</surname>
+<given-names>L.</given-names></string-name>
+<article-title>A real-world pharmacovigilance analysis for transthyretin inhibitors: findings from the FDA adverse event reporting database.</article-title>
+<source>Front Pharmacol.</source>
+<year>2024</year>;<volume>15</volume>:<elocation-id>1368244</elocation-id>.<annotation><p><italic toggle="yes">(Analysis of the FDA Adverse Event Reporting System [FAES] reports on transthyretin inhibitors made over a 5-year period, found the top 50 events for vutrisiran the most frequent were falls, pains in extremities, malaise and asthenia, and there were 5 reports of hepatic enzyme increased, but no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">38873427</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Vutrisiran.REF.ruberg.2024.778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ruberg</surname>
+<given-names>FL</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Cardiac amyloidosis due to transthyretin protein: a review.</article-title>
+<source>JAMA</source>. <year>2024</year>;<volume>331</volume>:<fpage>778</fpage>-<lpage>791</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis, genetics, clinical features, diagnosis, and treatment of transthyretin-mediated amyloidosis cardiomyopathy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38441582</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Vutrisiran.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Vutrisiran/AE)%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Vutrisiran: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/results?term=Vutrisiran">Trials on Vutrisiran: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

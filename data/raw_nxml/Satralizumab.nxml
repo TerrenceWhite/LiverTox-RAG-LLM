@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Satralizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Satralizumab</book-part-id>
+      <title-group>
+        <title>Satralizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>5</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Sarilumab" document-type="chapter">Sarilumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="SawPalmetto" document-type="chapter">Saw Palmetto</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Satralizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Satralizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Satralizumab is a cytolytic monoclonal antibody to the interleukin 6 receptor that is used to treat adolescents and adults with neuromyelitis optica spectrum disorder accompanied by an autoantibody to aquaporin-4. Satralizumab therapy has been associated with serum aminotransferase elevations during therapy but has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Satralizumab.Background">
+          <title>Background</title>
+          <p>Satralizumab (sa&#x02019; tra liz&#x02019; ue mab) is a humanized, cytolytic monoclonal antibody to the interleukin 6 receptor (IL-6r) that is used to treat adolescents and adults with neuromyelitis optica spectrum disorder (NMOSD), a rare and severe neurologic disease marked by bilateral optic neuritis and transverse myelitis and accompanied by a distinctive autoantibody to aquaporin-4 (antiAQP4), a water channel protein found on the surface of astrocytes. NMOSD resembles multiple sclerosis (MS) in many clinical features including spontaneous relapses and remissions. NMOSD differs from MS in the absence of typical brain findings on magnetic resonance imaging and by the presence of a distinctive autoantibody against aquaporin-4 (antiAQP4), a water channel protein found on the surface of astrocytes. Satralizumab dramatically lowers production of the proinflammatory cytokine IL-6 which plays an important role in the inflammatory reactions in NMOSD. In several randomized controlled trials, satralizumab therapy was associated with a significant decrease in relapse rates in patients with NMOSD. Satralizumab was approved in the United States for treatment of adolescents and adults with neuromyelitis optica spectrum disorder positive for anti-AQP4 in 2020. Satralizumab is available in solution in single dose prefilled syringes of 120 mg/mL under the brand name Enspryng. The recommended dosage is 120 mg by subcutaneous injection at weeks 0, 2, and 4, followed by maintenance doses of 120 mg every 4 weeks. Patients should be screened for hepatitis B and tuberculous and for routine liver tests before starting therapy and be given any needed live viral vaccines beforehand. In prelicensure trials, common adverse events included symptoms of upper respiratory tract infection, headache, gastrointestinal upset, rash, arthralgia, extremity pain, fatigue, nausea, pruritus, depression, neutropenia and liver test abnormalities. Potentially serious adverse events include severe bacterial or opportunistic infections, hypersensitivity reactions, and anaphylaxis. Because it lowers IL-6 levels, satralizumab may cause reactivation of tuberculosis, hepatitis B, and herpes virus infections, and possibly lead to progressive multifocal leukoencephalitis.</p>
+        </sec>
+        <sec id="Satralizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In registration, controlled trials, serum ALT elevations occurred in 20% to 37% of satralizumab vs 13% to 15% of placebo recipients but were rarely above 3 times the upper limit of normal (ULN). In these trials, satralizumab was discontinued in only two patients due to elevated liver enzymes, and one case was confounded by use of amoxicillin-clavulanate. No liver enzyme elevations were associated with bilirubin elevations. Although the product label carries a warning of liver enzyme elevation, there have been no case reports of clinically apparent liver injury attributed to its use. The monoclonal antibodies directed against IL-6 actions have generally been free of hepatotoxicity but have been considered possible causes of reactivation of hepatitis B for which reason prescreening for hepatitis B status is recommended.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury attributable to reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Satralizumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of the mild liver test abnormalities during satralizumab therapy are not clearly known but appear to be related to the underlying condition or comorbidities. Satralizumab can cause hypersensitivity reactions including urticaria and rash, and liver injury might be a part of the immunoallergic reaction. Cases of reactivation of hepatitis B were not observed during prelicensure studies and should not occur with adequate prescreening and prophylaxis against reactivation.</p>
+        </sec>
+        <sec id="Satralizumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for satralizumab recommends monitoring of routine liver tests during therapy every 4 weeks for 3 months, followed by every 3 months for one year and thereafter as clinically indicated. Despite this, marked elevations of serum ALT levels during therapy are rare, and long term studies have reported no instances of drug induced liver injury. The product label also recommends screening for hepatitis B before starting therapy and, if positive results are obtained, obtaining advice from a hepatologist regarding prophylaxis. While reactivation of hepatitis B has not been reported with satralizumab, most patients are screened for evidence of infection before starting therapy and given appropriate prophylaxis. If de novo elevations of serum aminotransferase levels above 5 times the ULN or baseline values arise during therapy, temporary discontinuation and evaluation for other possible causes of liver injury is appropriate, restarting therapy only when values return to normal or near normal and with careful subsequent monitoring.</p>
+          <p>Drug Class: Immunomodulatory Agents; Neurologic Disease Agents; Monoclonal Antibodies</p>
+        </sec>
+      </sec>
+      <sec id="Satralizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Satralizumab &#x02013; Enspryng&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Immunomodulatory Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Satralizumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Satralizumab.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Satralizumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Satralizumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Satralizumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Satralizumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Satralizumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Satralizumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Satralizumab</td>
+                <td headers="hd_h_Satralizumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381127598">1535963-91-7</ext-link>
+</td>
+                <td headers="hd_h_Satralizumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Satralizumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Satralizumab.SELECTED_ANNOTATED_BIBLIOGR">
+        <title>SELECTED ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 14 May 2024</p>
+        <p>Abbreviations: AntiAQP4, antibody to aquaporin-4NMOSD; neuromyelitis optica spectrum disorder (NMOSD); ULN, upper limit of the normal range.</p>
+        <ref-list id="Satralizumab.SELECTED_ANNOTATED_BIBLIOGR.reflist0">
+          <ref id="Satralizumab.REF1">
+            <mixed-citation publication-type="other">FDA. Clinical Review. 2020.</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF2">
+            <mixed-citation publication-type="web">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761149Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761149Orig1s000MedR.pdf</ext-link>
+<annotation><p>
+<italic toggle="yes">(FDA Summary of the data the safety and efficacy of satralizumab, submitted in support of the application for approval as therapy of neuromyelitis optica spectrum disorder, mentions ALT elevations in 19.5% to 36.5% [none above 5 times ULN] of satralizumab-treated versus 12.5% to 14.5% on placebo and bilirubin elevations in 8% to 12% vs none with placebo, but there were no ALT elevations accompanied by jaundice).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF.yamamura.2019.2114">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yamamura</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Kleiter</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Fujihara</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Palace</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Greenberg</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Zakrzewska-Pniewska</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Patti</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>
+<article-title>Trial of satralizumab in neuromyelitis optica spectrum disorder.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>381</volume>:<fpage>2114</fpage>-<lpage>2124</lpage>.<annotation><p><italic toggle="yes">(Among 83 patients with NMOSD treated with satralizumab or placebo for an average of 2 years, relapses occurred I 20% vs 43% while adverse event rates were similar [95% vs 90%] including severe adverse events [17% vs 21%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">31774956</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF.traboulsee.2020.402">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Traboulsee</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Greenberg</surname>
+<given-names>BM</given-names></string-name>, <string-name name-style="western"><surname>Bennett</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Szczechowski</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Fox</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Shkrobot</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Yamamura</surname>
+<given-names>T</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and efficacy of satralizumab monotherapy in neuromyelitis optica spectrum disorder: a randomised, double-blind, multicentre, placebo-controlled phase 3 trial.</article-title>
+<source>Lancet Neurol.</source>
+<year>2020</year>;<volume>19</volume>:<fpage>402</fpage>-<lpage>412</lpage>.<annotation><p><italic toggle="yes">(Among 95 patients with NMOSD treated with satralizumab or placebo, relapse rates were 30% vs 50% while adverse event rates were higher with monoclonal therapy [92% vs 75%] and serious adverse events [27% vs 6%] but there were no differences in rates of serious infections or injection reactions, and no anaphylactic reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32333898</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF.heo.2020.1477">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heo</surname>
+<given-names>YA</given-names></string-name>. <article-title>Satralizumab: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1477</fpage>-<lpage>1482</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, clinical efficacy and toxicity of satralizumab shortly after its approval for therapy of NMOSD; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">32797372</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF.levy.2021.60">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Levy</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Fujihara</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Palace</surname>
+<given-names>J</given-names></string-name>. <article-title>New therapies for neuromyelitis optica spectrum disorder.</article-title>
+<source>Lancet Neurol.</source>
+<year>2021</year>;<volume>20</volume>:<fpage>60</fpage>-<lpage>67</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanisms of action, clinical efficacy, and safety of 3 new therapies for NMOSD including eculizumab [targeting complement activation], satralizumab [targeting IL6], and inebilizumab [targeting B cells]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33186537</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF.giglhuber.2022.4154">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Giglhuber</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Berthele</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Adverse events in NMOSD therapy.</article-title>
+<source>Int J Mol Sci.</source>
+<year>2022</year>;<volume>23</volume>:<fpage>4154</fpage>.<annotation><p><italic toggle="yes">(Review of side effects and toxicities of drugs used to treat NMOSD, mentions hepatotoxicity of azathioprine and mild, transient serum aminotransferase elevations with mycophenolate, tocilizumab, satralizumab, and inebilizumab without evidence for clinically significant drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">35456972</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Satralizumab.REF.yamamura.2022.104025">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yamamura</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Weinshenker</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Yeaman</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>De Seze</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Patti</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Lobo</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>von B&#x000fc;dingen</surname>
+<given-names>HC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Long-term safety of satralizumab in neuromyelitis optica spectrum disorder (NMOSD) from SAkuraSky and SAkuraStar.</article-title>
+<source>Mult Scler Relat Disord.</source>
+<year>2022</year>;<volume>66</volume>:<elocation-id>104025</elocation-id>.<annotation><p><italic toggle="yes">(Among 161 patients with NMSOD treated with satralizumab in two open label extension studies for a median of 4.4 years, adverse events did not increase with time, there were no treatment related deaths, and ALT elevations arose in 37% of patients but were above 5 times ULN in only 1%, and there were no cases of drug induced liver injury or ALT elevations with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">36007339</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Satralizumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Satralizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Satralizumab: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Satralizumab">Trials on Satralizumab: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

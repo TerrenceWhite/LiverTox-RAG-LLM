@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Belumosudil" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Belumosudil</book-part-id>
+      <title-group>
+        <title>Belumosudil</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Belinostat" document-type="chapter">Belinostat</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Belzutifan" document-type="chapter">Belzutifan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Belumosudil.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Belumosudil.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Belumosudil is an orally available small molecule inhibitor of the rho-associated, coiled-coil containing protein kinase that is used to treat refractory chronic graft-versus-host disease. Belumosudil is associated with transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Belumosudil.Background">
+          <title>Background</title>
+          <p>Belumosudil (bel" ue moe' soo dil) is an orally available, specific inhibitor the rho-associated, coiled-coil containing protein kinase (ROCK) that is used to treat refractory chronic graft-versus-host disease (GvHD). The inhibition of ROCK1 and ROCK2 downregulates proinflammatory responses and shifts the balance between T17 and Tregs decreasing self antigen-induced immune responses and inhibiting aberrant pro-fibrotic signaling. Belumosudil was shown to have activity in animal models of GvHD. In open label studies in patients with chronic GvHD not responding to standard therapies, belumosudil was shown to induce clinical improvements in 75% of patients. Most of the responses were partial, but often were able to alleviate symptoms and signs adequately to improve quality of life and need for further therapy. Belumosudil was granted accelerated approval in 2021 for adults and children 12 years of age or older with chronic GvHD after failure of at least two systemic therapies. Belumosudil is available in tablets of 200 mg under the brand name Rezurock. The recommended dose is 200 mg orally once daily. Common adverse events include weakness, nausea and vomiting, diarrhea, cough, shortness of breath, edema, bleeding, abdominal pain, musculoskeletal pain, headache, infections, and hypertension. Laboratory abnormalities include decreases in serum phosphate and lymphocytes and increases in gamma glutamyl transferase levels. Potential severe adverse events include embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Belumosudil.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the open label prelicensure clinical trials of belumosudil in patients with refractory chronic GvHD, serum aminotransferase elevations occurred in up to 7% of treated subjects. The elevations were typically mild and transient and values above 5 times the upper limit of normal (ULN) occurred in only 1% to 2% of patients. The elevations occasionally led to early discontinuations, but more often resolved even without dose adjustment. In prelicensure studies, there were no instances of clinically apparent liver injury attributed to belumosudil. Since approval and more widescale availability of belumosudil, there have been no published reports of hepatotoxicity associated with its use.</p>
+          <p>Likelihood score: E (unlikely to be a cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Belumosudil.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of mild serum enzyme elevations during belumosudil therapy is not known. Serum enzyme elevations are frequent in patients with GvHD, as the immune reactivity often affects the liver. Belumosudil is metabolized in the liver primarily by CYP 3A4 and by a lesser extent by CYP 2C8 and 2D6. Coadministration of belumosudil with strong CYP3A4 inducers or proton pump inhibitors may decrease exposure and require dose increase.</p>
+        </sec>
+        <sec id="Belumosudil.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Monitoring of serum aminotransferase levels is recommended for patients starting belumosudil. De novo confirmed elevations in serum aminotransferases levels above 5 times the upper limit of normal should lead to dose modification or temporary cessation. If no other cause of the serum enzyme elevations is identified, or if abnormalities persist or symptoms of liver injury or jaundice arise, belumosudil should be discontinued. There does not appear to be cross reactivity in risk for hepatic injury between belumosudil and other drugs used for chronic GvHD such as tacrolimus, mycophenolate, ibrutinib, or ruxolitinib.</p>
+          <p>Drug Class: Hematologic Agents; <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="book-part">Protein Kinase Inhibitors</related-object></p>
+          <p>Other <related-object link-type="booklink" source-id="livertox" document-id="CovidDrugs" document-type="book-part">Drugs</related-object> for GvHD: <related-object link-type="booklink" source-id="livertox" document-id="Ibrutinib" document-type="book-part">Ibrutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="book-part">Ruxolitinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Belumosudil.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Belumosudil &#x02013; Rezurock&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Protein Kinase Inhibitors</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Belumosudil">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Belumosudil.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Belumosudil.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Belumosudil.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Belumosudil.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Belumosudil.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Belumosudil.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Belumosudil.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Belumosudil</td>
+                <td headers="hd_h_Belumosudil.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642880">911417-87-3</ext-link>
+</td>
+                <td headers="hd_h_Belumosudil.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C26-H24-N6-O2</td>
+                <td headers="hd_h_Belumosudil.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163642880" document-id-type="sid" document-type="summary" object-id="163642880" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Belumosudil.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 July 2024</p>
+        <p>Abbreviations used: GvHD, graft-vs-host disease; ROCK, rho-associated, coiled-coil containing protein kinase; ULN, upper limit of normal.</p>
+        <ref-list id="Belumosudil.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Belumosudil.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as belumosudil).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not belumosudil).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; belumosudil is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.multidisciplinary_review">
+            <mixed-citation publication-type="web"><string-name name-style="western"><given-names>FDA.</given-names>
+<surname>Multidisciplinary Review</surname></string-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214783Orig1s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214783Orig1s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA drug approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy mentions that ALT or AST elevations arose in 33% of patients in the safety cohort of 186 patients and were above 5 times ULN in 7% with drug withdrawal because of liver enzyme elevations in only 3 subjects [1.6%], and there were no episodes of clinically apparent liver injury or liver related deaths attributed to therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.blair.2021.1677">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Blair</surname>
+<given-names>HA</given-names></string-name>. <article-title>Belumosudil: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>1677</fpage>-<lpage>1682</lpage>.<annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of belumosudil shortly after its approval in the US as therapy of chronic GvHD, mentions adverse events of infection, asthenia nausea, dyspnea, cough, edema, bleeding, muscle ache, headache, abdominal pain, and hypertension; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34463931</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.jagasia.2021.1888">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Jagasia</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Lazaryan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Bachier</surname>
+<given-names>CR</given-names></string-name>, <string-name name-style="western"><surname>Salhotra</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Weisdorf</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Zoghi</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Essel</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>ROCK2 inhibition with belumosudil (KD025) for the treatment of chronic graft-versus-host disease.</article-title>&#x000a0;<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>1888</fpage>-<lpage>1898</lpage>.<annotation><p><italic toggle="yes">(Among 54 patients with GvHD treated with belumosudil [200 mg daily, 200 mg twice daily, or 400 mg daily] the overall response rates were similar in all groups [62% to 69%] and associated with improved quality of life and corticosteroid sparing, while adverse events arose in 98% of patients and were severe in 43%, ALT or AST elevations occurred in 33% that were above 5 times ULN in 7%, but none were associated with jaundice or symptoms or required discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">33877856</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.cutler.2021.2278">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Cutler</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Arai</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Rotta</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Zoghi</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Lazaryan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Ramakrishnan</surname>
+<given-names>A</given-names></string-name>, <etal>et al.</etal>
+<article-title>Belumosudil for chronic graft-versus-host disease after 2 or more prior lines of therapy: the ROCKstar Study.</article-title>
+<source>Blood.</source>
+<year>2021</year>;<volume>138</volume>:<fpage>2278</fpage>-<lpage>2289</lpage>.<annotation><p><italic toggle="yes">(Among 132 patients with refractory GvHD treated with belumosudil [200 mg once vs twice daily], the best overall response rates were 74% vs 77% with symptom reduction in 59% vs 62%, while treatment emergent adverse events occurred in 99% which were severe in 38%, but there were no severe hepatic adverse events and ALT elevations arose in 8%, AST 10%, and GGT 12%, and bilirubin in 1%, but there were no instances of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">34265047</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.przepiorka.2022.2488">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Przepiorka</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Le</surname>
+<given-names>RQ</given-names></string-name>, <string-name name-style="western"><surname>Ionan</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>YH</given-names></string-name>, <string-name name-style="western"><surname>Gudi</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Mitra</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: belumosudil for adult and pediatric patients 12 years and older with chronic GvHD after two or more prior lines of systemic therapy.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2022</year>;<volume>28</volume>:<fpage>2488</fpage>-<lpage>2492</lpage>.<annotation><p><italic toggle="yes">(Summary and discussion of the FDA analysis of the clinical efficacy and safety of belumosudil as therapy of refractory GvHD that led to its approval, lists side effects that were reported in open label trials which included ALT elevations in 7% of patients and were above 5 times ULN in 2%).</italic></p></annotation><pub-id pub-id-type="pmid">35135839</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.lee.2023.188">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>GH</given-names></string-name>, <string-name name-style="western"><surname>Guzman</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Divito</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Soiffer</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Silk</surname>
+<given-names>AW</given-names></string-name>, <string-name name-style="western"><surname>Schmults</surname>
+<given-names>CD</given-names></string-name>. <article-title>Cutaneous squamous-cell carcinoma after treatment with ruxolitinib or belumosudil.</article-title>
+<source>N Engl J Med.</source>
+<year>2023</year>;<volume>389</volume>:<fpage>188</fpage>-<lpage>190</lpage>.<annotation><p><italic toggle="yes">(Two patients with long term chronic refractory GvHD who were treated with ruxolitinib or belumosudil developed rapidly progressive, invasive squamous cell carcinomas).</italic></p></annotation><pub-id pub-id-type="pmid">37437151</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.malard.2023.1637">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Malard</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Mohty</surname>
+<given-names>M</given-names></string-name>. <article-title>Updates in chronic graft-versus-host disease management.</article-title>
+<source>Am J Hematol.</source>
+<year>2023</year>;<volume>98</volume>:<fpage>1637</fpage>-<lpage>1644</lpage>.<annotation><p><italic toggle="yes">(Review of the clinical features, pathogenesis, diagnosis, and therapy of chronic GvHD, first line treatment being corticosteroids which are typically required long term and require second line therapy in approximately half of patients, most agents being used off label [such as calcineurin and mTOR inhibitors], while more recently 3 unique kinase inhibitors with immunomodulatory actions have been approved specifically for refractory GvHD: ibrutinib [2017], ruxolitinib [2021), and belumosudil [2021]; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37483142</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Belumosudil.REF.inamoto.2024">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Inamoto</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Kato</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Kawakita</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Onishi</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Matsuoka</surname>
+<given-names>KI</given-names></string-name>, <string-name name-style="western"><surname>Shiratori</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ikegame</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal> Hiramoto N, et al. <article-title>An open-label study of belumosudil, a selective ROCK2 inhibitor, as second or subsequent line of therapy for steroid-dependent/steroid-resistant chronic GVHD.</article-title>
+<source>Am J Hematol.</source>
+<year>2024</year>
+<month>Jun</month>
+<day>27</day>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Among 21 Japanese patients with refractory GvHD treated with belumosudil for an average of 9.2 months, 87% had a treatment emergent adverse event, most frequently diarrhea, but none resulted in drug discontinuation or death, 2 patients developed herpes zoster; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38934629</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Belumosudil.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Belumosudil+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Belumosudil: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Belumosudil">Trials on Belumosudil: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

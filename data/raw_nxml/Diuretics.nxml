@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Diuretics" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Diuretics</book-part-id>
+      <title-group>
+        <title>Diuretics</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>10</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Disulfiram" document-type="chapter">Disulfiram</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Docetaxel" document-type="chapter">Docetaxel</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Diuretics.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Diuretics constitute a large family of medications that increase urine flow and induce urinary sodium loss and are widely used for therapy of hypertension, congestive heart failure, and edematous states. Diuretics in current use (and the year of their approval for use in the United States) include chlorothiazide (1958), hydrochlorothiazide (1959), bendroflumethiazide (1959), spironolactone (1960), chlorthalidone (1960), methyclothiazide (1961), polythiazide (1961), triamterene (1964), furosemide (1966), ethacrynic acid (1967), metolazone (1973), bumetanide (1983), indapamide (1983), amiloride (1986), acetazolamide (1986), torsemide (1993), and eplerenone (2002). Diuretics are typically classified as thiazide diuretics (bendroflumethiazide, chlorothiazide, chlorthalidone, hydrochlorothiazide, indapamide, metolazone and polythiazide), loop diuretics (bumetanide, ethacrynic acid, furosemide, and torsemide), and potassium-sparing agents (amiloride, eplerenone, spironolactone, and triamterene). The carbonic anhydrase blockers acetazolamide (1986) and methazolamide (1959) are also diuretics, but are more commonly used for the therapy of glaucoma.</p>
+        <p content-type="pubmed-excerpt">Diuretics are some of the most frequently used medications in medicine and are usually well tolerated. Common side effects are those that are caused by the diuresis and mineral loss such as weakness, dizziness, electrolyte imbalance, low sodium and potassium. Diuretics have not been associated with an appreciable increased rate of serum aminotransferase elevations and have rarely been associated with clinically apparent liver injury. Isolated case reports of idiosyncratic hepatotoxicity due to diuretics have been published, but there have been virtually no case series on individual diuretics or even whole class of drugs. The case reports that have been published provide only a very general pattern of injury that has not provided a clear clinical signature or suggestion that hepatotoxicity is a class effect among the thiazides and the loop diuretics. Switching from one diuretic to another has not been reported in any systematic fashion. Most information on hepatotoxicity is available on the commonly used diuretics which include (and the number of prescriptions filled in 2007 for each): hydrochlorothiazide (45 million), furosemide (37 million), triamterene (21 million), spironolactone (8 million), and metolazone, bumetanide, indapamide and torsemide (1 to 2 million each). Diuretics implicated in rare cases of drug induced liver injury include hydrochlorothiazide, acetazolamide, amiloride, spironolactone and triamterene.</p>
+        <p content-type="pubmed-excerpt">The thiazide and loop diuretics are discussed as a class; the other diuretics as individual agents. Selected references are given together at the end of this introductory section.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="CarbonicAnhydraseInh" document-type="chapter">Carbonic Anhydrase Inhibitors</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="CarbonicAnhydraseInh" document-type="chapter">Acetazolamide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="CarbonicAnhydraseInh" document-type="chapter">Methazolamide</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="LoopDiuretics" document-type="chapter">Loop Diuretics</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="LoopDiuretics" document-type="chapter">Bumetanide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="LoopDiuretics" document-type="chapter">Ethacrynic Acid</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="LoopDiuretics" document-type="chapter">Furosemide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="LoopDiuretics" document-type="chapter">Torsemide</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Potassium-Sparing Diuretics</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Amiloride" document-type="chapter">Amiloride</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Eplerenone" document-type="chapter">Eplerenone</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Spironolactone" document-type="chapter">Spironolactone</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Triamterene" document-type="chapter">Triamterene</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Thiazide Diuretics</related-object>
+</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Bendroflumethiazide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Chlorothiazide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Chlorthalidone</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Hydrochlorothiazide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Indapamide</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Metolazone</related-object>
+</p>
+              </list-item>
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Polythiazide</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Vasopressin Antagonists</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+<related-object link-type="booklink" source-id="livertox" document-id="Tolvaptan" document-type="chapter">Tolvaptan</related-object>
+</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="Diuretics.SELECTED_ANNOTATED_BIBLIOGRAPH">
+        <title>SELECTED ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 13 October 2021</p>
+        <ref-list id="Diuretics.SELECTED_ANNOTATED_BIBLIOGRAPH.reflist0">
+          <ref id="Diuretics.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Diuretic drugs. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 662-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of diuretics published in 1999 mentions that clinically apparent liver injury due to diuretics is rare; cholestatic jaundice with features of hypersensitivity have been reported with some thiazide diuretics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 519-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular agents, mentions that thiazide diuretics can rarely cause cholestatic hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.REF.jackson.2018">
+            <mixed-citation publication-type="book">Jackson EK. Drugs affecting renal excretory function. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 445-70.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 137 [0.5%] were done for idiosyncratic drug induced acute liver failure, none were attributed to a diuretic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Diuretics.REF.bj_rnsson.2006.33">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Suspected drug-induced liver fatalities reported to the WHO database.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>33</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports [89% from the US]; no diuretic found in the 20 most commonly implicated agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16054882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Diuretics.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 313 cases of drug induced liver injury seen over a 12 year period at a large hospital in Bangalore, India, none were attributed to a diuretic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Diuretics.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which none were attributed to a diuretic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Diuretics.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to a diuretic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Diuretics.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to a diuretic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Diuretics.REF10">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for hypertension.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1598</issue>
+              <fpage>73</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of efficacy, safety and costs of drugs used to treat hypertension including the diuretics, focusing upon relative usefulness; no mention of hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32555118</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Diuretics.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(diuretics/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Diuretics: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=diuretics">Trials on Diuretics: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

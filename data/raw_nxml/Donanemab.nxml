@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Donanemab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Donanemab</book-part-id>
+      <title-group>
+        <title>Donanemab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>10</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dolutegravir" document-type="chapter">Dolutegravir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Donepezil" document-type="chapter">Donepezil</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Donanemab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Donanemab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Donanemab is a humanized monoclonal antibody to aggregated amyloid &#x003b2; which has been approved for use in Alzheimer disease with mild cognitive impairment or mild dementia. Donanemab is associated with a minimal rate of serum aminotransferase elevations during therapy and has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Donanemab.Background">
+          <title>Background</title>
+          <p>Donanemab (doe nan&#x02019; e mab) is a humanized monoclonal IgG1 antibody directed against insoluble N-truncated pyroglutamate amyloid &#x003b2; which was developed as therapy for Alzheimer disease, based upon the theory that the dementia and neurological decline in Alzheimer disease is caused by accumulation of amyloid &#x003b2; oligomers and fibrils in the frontal lobes of the brain. Studies in animal models and in humans demonstrated that the monoclonal antibody causes a decrease in amyloid &#x003b2; plaque accumulation as shown by advanced imaging techniques. Donanemab was evaluated in large, randomized double-blind controlled trials in more than 1700 patients with symptomatic, early stages of Alzheimer disease and evidence of amyloid &#x003b2; plaques accumulation. Therapy was associated with a statistically significant but modest decrease in the rate of decline in dementia rating scales, but did not stop the decline or reverse the cognitive impairment. Analysis of subgroups indicated that donanemab was most effective in slowing decline in patients with lesser amounts of amyloid plaques at baseline. In 2024, donanemab was approved as therapy of patients with Alzheimer disease with mild cognitive impairment or mild dementia and documented amyloid plaque pathology by imaging. Donanemab is available in single dose vials of 350 mg in 20 mL (17.5 mg/mL) under the brand name Kisunla. The recommended dose is 700 mg administered intravenously (over 30 minutes) every 4 weeks for 3 doses, followed by 1400 mg every 4 weeks with regularly scheduled evaluations for efficacy and safety. Therapy can be discontinued if imagining indicates minimal or no amyloid plaques remaining. Common side effects include infusion reactions, headache, falls, and amyloid related imaging abnormalities such as edema, hemorrhage, and hemosiderin deposition. Uncommon, potentially severe adverse reactions include hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Donanemab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations were infrequent in the controlled trials of donanemab in Alzheimer disease and no more frequent than with placebo treatment. The elevations were transient, asymptomatic, and mild-to-moderate in severity (1 to 3 times upper limit of normal). In the preregistration trials there were no instances of clinically apparent liver injury or severe hepatic adverse events attributed to donanemab. Clinical use outside of randomized controlled trials has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Donanemab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible mechanisms by which donanemab might cause liver injury are unclear. Monoclonal antibodies and immunoglobulins are generally taken up and metabolized intracellularly to short peptides and amino acids. There is no evidence to suggest that inhibition of amyloid &#x003b2; accumulation or increase in its clearance would trigger liver injury or autoimmune liver conditions.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="AlzheimersDrugs" document-type="book-part">Alzheimer Disease Agents</related-object></p>
+          <p>Other Alzheimer Monoclonal Antibodies: <related-object link-type="booklink" source-id="livertox" document-id="Aducanumab" document-type="book-part">Aducanumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lecanemab" document-type="book-part">Lecanemab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Donanemab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Donanemab &#x02013; Kisunla&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Alzheimer Disease Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Donanemab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Donanemab.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Donanemab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Donanemab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Donanemab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Donanemab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Donanemab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Donanemab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Donanemab</td>
+                <td headers="hd_h_Donanemab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1931944-80-7</td>
+                <td headers="hd_h_Donanemab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Donanemab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Donanemab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 October 2024</p>
+        <p>Abbreviations used: iv, intravenously.</p>
+        <ref-list id="Donanemab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Donanemab.REF.roberson.2018">
+            <mixed-citation publication-type="book">Roberson ED. Alzheimer Disease. Treatment of central nervous system degenerative disorders. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 333-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF2">
+            <mixed-citation publication-type="web">FDA. Clinical Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761248Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(Multidisciplinary FDA review of data on the safety and efficacy of donanemab in support of its approval for use in Alzheimer disease in the US, mentions that in prelicensure studies there were no &#x0201c;clinically meaningful changes in laboratory values,&#x0201d; no differences in rates of ALT elevation between donanemab- vs placebo-treated patients [0.4% vs 0.3%], and no instances of clinically apparent liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.selkoe.2016.595">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Selkoe</surname>
+<given-names>DJ</given-names></string-name>, <string-name name-style="western"><surname>Hardy</surname>
+<given-names>J</given-names></string-name>. <article-title>The amyloid hypothesis of Alzheimer's disease at 25&#x000a0;years.</article-title>
+<source>EMBO Mol Med</source>
+<year>2016</year>; <volume>8</volume>: <fpage>595</fpage>-<lpage>608</lpage>.<annotation><p><italic toggle="yes">(Analysis of the role of amyloid-&#x003b2; in the etiology of Alzheimer disease supported by findings that the dominant mutations in amyloid precursor protein [APP] or the protease that metabolizes presenilin and generates amyloid-&#x003b2; are associated with early onset dementia, suggesting that imbalance of generation and clearance of amyloid-&#x003b2; is the early and perhaps initiating factor in Alzheimer disease, and that monoclonal antibody therapy by increasing clearance might help correct the dyshomeostasis).</italic></p></annotation><pub-id pub-id-type="pmid">27025652</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.sevigny.2016.50">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sevigny</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Chiao</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Bussi&#x000e8;re</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Weinreb</surname>
+<given-names>PH</given-names></string-name>, <string-name name-style="western"><surname>Williams</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Maier</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Dunstan</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>The antibody aducanumab reduces A&#x003b2; plaques in Alzheimer's disease.</article-title>
+<source>Nature</source>
+<year>2016</year>; <volume>537</volume>: <fpage>50</fpage>-<lpage>6</lpage>.<annotation><p><italic toggle="yes">(Among 165 patients with early Alzheimer disease treated with 1 of 4 doses of aducanumab [1, 3, 6, or 10 mg/kg] or placebo monthly for one year, those treated with the higher doses showed evidence of decrease in brain amyloid-&#x003b2; accumulation and a trend for clinical improvement, but also higher rates of vasogenic edema [37% to 40%] compared with placebo [5%]; ALT elevations arose in 4 of 125 [3.2%] on aducanumab vs none of 40 on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">27582220</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.alexander.2021.1717">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Alexander</surname>
+<given-names>GC</given-names></string-name>, <string-name name-style="western"><surname>Emerson</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Kesselheim</surname>
+<given-names>AS</given-names></string-name>. <article-title>Evaluation of aducanumab for Alzheimer disease: scientific evidence and regulatory review involving efficacy, safety, and futility.</article-title>
+<source>JAMA</source>
+<year>2021</year>; <volume>325</volume>: <fpage>1717</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Summary of the conclusions of the FDA advisory committee on aducanumab which were based upon results of two phase III randomized controlled trials in early Alzheimer disease patients, both of which were terminated early after interim analyses indicated futility; but on post-hoc reanalysis, statistically significant benefit was found with the higher dose in one of the 2 trials; because of discrepancies in outcomes in the two trials and only slight clinical benefit achieved in one arm of the 2 studies, the committee recommended that aducanumab not be approved until another trial confirms the efficacy and safety of the high dose regimen).</italic></p></annotation><pub-id pub-id-type="pmid">33783469</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.lowe.2021.414">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lowe</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Duggan Evans</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Shcherbinin</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cheng</surname>
+<given-names>YJ</given-names></string-name>, <string-name name-style="western"><surname>Willis</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Gueorguieva</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Lo</surname>
+<given-names>AC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Donanemab (LY3002813) phase 1b study in Alzheimer's disease: rapid and sustained reduction of brain amyloid measured by florbetapir F18 imaging.</article-title>
+<source>J Prev Alzheimers Dis.</source>
+<year>2021</year>;<volume>8</volume>:<fpage>414</fpage>-<lpage>424</lpage>.<annotation><p><italic toggle="yes">(Among 61 patients with Alzheimer disease enrolled in a placebo controlled phase 1 study of single and multiple doses of 10 to 40 mg/kg of intravenous donanemab in single or multiple doses, there was rapid decrease in brain amyloid as detected by PET scanning, and adverse events included infusion reactions, vasogenic cerebral edema, cerebral microhemorrhages, and headaches, but &#x0201c;there were no clinically significant changes in &#x02026;safety laboratories&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">34585215</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.lowe.2021.e12112">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lowe</surname>
+<given-names>SL</given-names></string-name>, <string-name name-style="western"><surname>Willis</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Hawdon</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Natanegara</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Chua</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Foster</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Shcherbinin</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Donanemab (LY3002813) dose-escalation study in Alzheimer's disease.</article-title>
+<source>Alzheimers Dement (N Y)</source>. <year>2021</year>;<volume>7</volume>:<elocation-id>e12112</elocation-id>.<annotation><p><italic toggle="yes">(In a dose escalation study of single followed by multiple doses of donanemab, infusion reactions occurred in 16% of patients with Alzheimer disease but &#x0201c;there were no significant findings on clinical labs&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">33614890</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.mintun.2021.1691">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mintun</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Lo</surname>
+<given-names>AC</given-names></string-name>, <string-name name-style="western"><surname>Duggan Evans</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Wessels</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Ardayfio</surname>
+<given-names>PA</given-names></string-name>, <string-name name-style="western"><surname>Andersen</surname>
+<given-names>SW</given-names></string-name>, <string-name name-style="western"><surname>Shcherbinin</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Donanemab in early Alzheimer's disease.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>1691</fpage>-<lpage>1704</lpage>.<annotation><p><italic toggle="yes">(Among 257 patients with early symptomatic Alzheimer disease treated with iv donanemab or placebo every 4 weeks for 72 weeks, the decrease in amyloid plaque levels was greater and decline in disease rating scales less with the monoclonal antibody, while adverse event rates were similar in the two groups except for infusion reactions and amyloid-related imaging abnormalities of edema and microhemorrhage; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33720637</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.sims.2023.512">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sims</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Zimmer</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Evans</surname>
+<given-names>CD</given-names></string-name>, <string-name name-style="western"><surname>Lu</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Ardayfio</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Sparks</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Wessels</surname>
+<given-names>AM</given-names></string-name>, <etal>et al.</etal>; <article-title>TRAILBLAZER-ALZ 2 Investigators. Donanemab in early symptomatic Alzheimer disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial.</article-title>
+<source>JAMA</source>. <year>2023</year>;<volume>330</volume>:<fpage>512</fpage>-<lpage>527</lpage>.<annotation><p><italic toggle="yes">(Among 1736 patients with early symptomatic Alzheimer disease treated with donanemab or placebo iv every 4 weeks for up to 72 weeks, therapy was associated with a slowing but not reversal or prevention of decline in clinical dementia rating scores, and with complications of infusion reactions and brain edema and microhemorrhages; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">37459141</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.donanemab_kisunla_for_alzheimers_disease.2024.129">
+            <mixed-citation publication-type="journal"><collab>Donanemab (Kisunla) for Alzheimer's disease</collab>. <source>Med Lett Drugs Ther.</source>
+<year>2024</year>;<volume>66</volume>:<fpage>129</fpage>-<lpage>131</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of donanemab shortly after its approval in the US as therapy of Alzheimer disease with mild cognitive impairment or mild dementia, mentions side effects of symptomatic brain amyloid related edema and microhemorrhages, infusion reactions and headache; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39137173</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Donanemab.REF.kang.2024">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kang</surname>
+<given-names>C.</given-names></string-name>
+<article-title>Donanemab: first approval.</article-title>
+<source>Drugs.</source>
+<year>2024</year>
+<month>Sep</month>
+<day>6</day>. . <comment>In Press</comment>.<pub-id pub-id-type="doi">10.1007/s40265-024-02103-7</pub-id><annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of donanemab shortly after its approval for use in mildly symptomatic Alzheimer disease in the US, does not mention or discuss ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">39404937</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Donanemab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Donanemab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Donanemab: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Donanemab">Trials on Donanemab: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

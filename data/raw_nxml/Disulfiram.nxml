@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Disulfiram" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Disulfiram</book-part-id>
+      <title-group>
+        <title>Disulfiram</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Disopyramide" document-type="chapter">Disopyramide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Diuretics" document-type="chapter">Diuretics</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Disulfiram.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Disulfiram.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Disulfiram is an alcohol deterrent used as an adjunct to treatment of chronic alcoholism, based upon its ability to cause an aversive reaction when taken with alcohol. Disulfiram has been associated with a low rate of with serum aminotransferase elevations during chronic therapy and has been linked to clinically apparent acute liver injury which can be severe and result in fatality.</p>
+        </sec>
+        <sec id="Disulfiram.Background">
+          <title>Background</title>
+          <p>Disulfiram (dye sul' fi ram) is tetraethylthiuram disulfide and is a potent inhibitor of aldehyde dehydrogenase activity, which interferes with the oxidative metabolism of alcohol resulting in accumulation of acetaldehyde. The elevations in serum acetaldehyde levels cause the aversive symptoms of disulfiram which include flushing, headache, nausea, vomiting and sweating and can result in dizziness, blurred vision, dyspnea, palpitations, hypotension, chest pain and syncope. Disulfiram was developed as an anthelmintic, but was then pursued as a possible alcohol deterrent when its aversive effects upon alcohol intake were found. Disulfiram was approved for use in the United States in 1948 and has been widely used in management of alcoholism, but in recent years has fallen out of favor because of its difficult side effects. Disulfiram is available in tablets of 250 and 500 mg in generic forms and under the brand name Antabuse. The recommended starting dose is 500 mg once daily for 1 to 2 weeks, followed by a maintenance dose of 125 to 500 mg daily. Treatment can continue for months or years. By itself (without alcohol use), disulfiram has few side effects, but can cause skin rash, gastrointestinal upset, drowsiness, headache, tremor and metallic taste.</p>
+        </sec>
+        <sec id="Disulfiram.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Chronic therapy with disulfiram is associated with mild serum aminotransferase elevations in up to 25% of patients, but elevations above 3 times the upper limit of normal (ULN) occur in 4% of patients or less. Importantly, disulfiram is a well established cause of clinically apparent liver injury, which can be severe and even fatal. The estimated incidence of acute liver injury is 1 per 10,000 to 30,000 patient-years of disulfiram treatment. The injury usually arises within 2 to 12 weeks of starting disulfiram, but the latency can be shorter in cases of reexposure and may arise only after 3 to 6 months, particularly with intermittent therapy. The clinical presentation resembles acute viral hepatitis and the pattern of injury is typically hepatocellular (Cases 1 and 2). Rash, fever and eosinophilia are not uncommon, but are rarely severe. The injury can be severe (Case 3) and the fatality rate is at least 10% in cases with jaundice. Rechallenge or reexposure is usually associated with rapid recurrence of liver injury and should be avoided. The clinical presentation and histology differ greatly from alcoholic hepatitis, in that disulfiram liver injury is marked by viral hepatitis-like changes of focal hepatocellular necrosis, lobular disarray and chronic inflammatory cell infiltrates with eosinophils, but without significant fat, neutrophils or Mallory bodies. In the 1980s and 1990s, disulfiram was often listed among the most common causes of acute liver injury and liver failure due to medications. More recently, disulfiram use has decreased and cases of clinically apparent liver injury from disulfiram are now rare. The majority of cases of disulfiram hepatotoxicity have been reported from Scandinavian countries.</p>
+          <p>Chronic therapy with disulfiram can cause widespread homogenous eosinophilic inclusions in hepatocytes, similar to the &#x0201c;ground glass&#x0201d; changes that can occur in chronic HBsAg carriers.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Disulfiram.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of disulfiram hepatotoxicity is probably idiosyncratic hypersensitivity as suggested by the frequency of immunoallergic features (rash, fever, eosinophilia), the frequency of eosinophilic infiltrates seen on liver biopsy, and the prompt recurrence of enzyme elevation after rechallenge. Disulfiram is metabolized in the liver and is a moderate inhibitor of CYP 2C9, for which reason it can cause significant drug-drug interactions with other agents metabolized by this P450 enzyme.</p>
+        </sec>
+        <sec id="Disulfiram.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury associated with disulfiram can range from asymptomatic elevations in serum aminotransferase levels, to symptomatic liver injury with jaundice, to acute liver failure and death. Disulfiram hepatotoxicity with jaundice is associated with high mortality and appearance of symptoms or signs of liver injury should lead to its immediate discontinuation. If stopped early, complete recovery is expected within 4 to 6 weeks. Rechallenge leads to rapid recurrence and should be avoided. There is no known cross sensitivity to liver injury between disulfiram and other agents used to treated alcohol dependence.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="SubstanceAbuseTreatm" document-type="chapter">Substance Abuse Treatment Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Disulfiram.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Disulfiram.Case_1_Acute_hepatitis_and_ja">
+          <title>Case 1. Acute hepatitis and jaundice arising 30 days after starting disulfiram in an alcoholic patient with chronic hepatitis C.(<xref ref-type="bibr" rid="Disulfiram.REF.1">1</xref>)</title>
+          <p>A 42 year old male with chronic hepatitis C was started on disulfiram for chronic alcohol abuse and lisinopril for hypertension. A few days later, he developed diarrhea and stopped lisinopril. One to two weeks later, he developed fatigue, nausea, vomiting and poor appetite, but he continued taking disulfiram until he developed jaundice 30 days after starting. He sought medical attention 2 days later and was hospitalized for evaluation. He had a history of type 2 diabetes for which he had been taking metformin for several years. He claimed to have had no alcohol intake since starting disulfiram, and an admission serum alcohol level was negative. His chronic hepatitis C (genotype 1, HCV RNA 32, 300 IU/mL) was considered mild and had never been treated. Physical examination showed no fever, rash or signs of chronic liver disease. He was mildly jaundiced. Laboratory tests revealed a total serum bilirubin of 5.9 mg/dL with marked elevations in ALT (1715 U/L) and AST (919 U/L), but normal alkaline phosphatase levels (95 U/L). Tests for hepatitis A and B were negative as were autoantibodies. An abdominal ultrasound showed a normal liver texture and no evidence of biliary obstruction, which was confirmed by magnetic resonance cholangiography. Over the next few days, he began to improve and serum bilirubin was normal one week later. In follow up his symptoms resolved, and serum ALT levels fell to baseline values. Importantly, HCV RNA was undetectable during the acute injury, but reappeared once it had resolved. One year after this episode, he again had detectable serum HCV RNA and ALT levels were mildly elevated. He was subsequently treated with a course of peginterferon and ribavirin and achieved a sustained virological response. In recent follow up, he has had normal serum aminotransferase levels and no detectable HCV RNA.</p>
+          <sec id="Disulfiram.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Disulfiram.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Disulfiram.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Disulfiram (500 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Disulfiram.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=41)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Disulfiram.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Disulfiram.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">32 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Disulfiram.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Uncertain timing</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Disulfiram.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Metformin (3 years), lisinopril (for 1 week, 3 weeks before presentation)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Disulfiram.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Disulfiram.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">49</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">52</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">HCV RNA 32,300 IU/mL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3 hd_h_Disulfiram.Td_1_1_1_4 hd_h_Disulfiram.Td_1_1_1_5 hd_h_Disulfiram.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Fatigue, nausea, anorexia</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">30 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3 hd_h_Disulfiram.Td_1_1_1_4 hd_h_Disulfiram.Td_1_1_1_5 hd_h_Disulfiram.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Jaundice, disulfiram stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">32 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1715</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">95</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.9</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">33 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1305</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">93</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.1</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">HCV RNA negative</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">35 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1238</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">137</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.6</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">40 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">562</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">109</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">41 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">406</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">98</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">59</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">83</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">HCV RNA 385,000 IU/mL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1 hd_h_Disulfiram.Td_1_1_1_2 hd_h_Disulfiram.Td_1_1_1_3 hd_h_Disulfiram.Td_1_1_1_4 hd_h_Disulfiram.Td_1_1_1_5 hd_h_Disulfiram.Td_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Treated with peginterferon and ribavirin with sustained virological response</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 years</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 years</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">HCV RNA negative</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_1 hd_h_Disulfiram.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Disulfiram.Comment">
+            <title>Comment</title>
+            <p>Despite having chronic hepatitis C and alcoholism, the acute injury that began within a month of starting disulfiram was clearly due to this medication rather than HCV or alcoholic hepatic injury. Disulfiram typically causes an acute hepatitis like syndrome 2 to 12 weeks after starting the medication that can be severe and lead to acute liver failure or need for liver transplantation. Alcoholic liver injury can cause jaundice and symptoms, but rarely causes serum aminotransferase elevations above 5 to 8 times the upper limit of normal and AST values are usually higher than ALT values. Chronic hepatitis C can be associated with flares of disease activity, but these are rarely associated with symptoms or jaundice unless cirrhosis is present. Importantly, HCV RNA levels usually increase or are stable during flares of hepatitis C, but fall markedly (and may be below the level of detection as in this example) during acute superimposed forms of liver injury. Note also that the minimal pretreatment and residual, chronic ALT elevations (49 and 59 U/L) resolved once HCV was eradicated [falling to 26 U/L).</p>
+          </sec>
+        </sec>
+        <sec id="Disulfiram.Case_2_Acute_liver_injury_fro">
+          <title>Case 2. Acute liver injury from disulfiram therapy with positive rechallenge.(<xref ref-type="bibr" rid="Disulfiram.REF.2">2</xref>)</title>
+          <p>A 53 year old man with chronic alcoholism was treated with disulfiram as a part of alcohol rehabilitation in a dose of 500 mg daily for 5 days followed by 250 mg daily. After 3 weeks he developed jaundice and disulfiram was stopped. He denied use of alcohol since starting disulfiram. Physical examination revealed jaundice and a mildly enlarged and tender liver without signs of chronic liver disease, fever or rash. Serum total bilirubin was 8.8 mg/dL, AST 950 U/L and alkaline phosphatase 330 U/L. The total white count was normal (8,200/&#x003bc;L) with 4% eosinophils. Liver tests had been normal before starting disulfiram (Table). Tests for hepatitis B were negative. A liver biopsy showed portal inflammation and focal hepatocyte necrosis without fat or Mallory bodies. Over the next month, liver tests returned to normal. Because of the continued desired to use disulfiram to aid alcohol avoidance, the patient was readmitted to the hospital and underwent rechallenge with disulfiram (500 mg daily). Four days later, serum enzymes rose and disulfiram was stopped. Liver test abnormalities fell to normal within 2 weeks.</p>
+          <sec id="Disulfiram.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Disulfiram.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Disulfiram.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Disulfiram (250 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Disulfiram.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=5.9)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Disulfiram.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Disulfiram.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">21 days initially, 4 days upon rechallenge</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Disulfiram.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">30 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Disulfiram.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Disulfiram.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Disulfiram.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admission for rehabilitation</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">950</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">330</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">8.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Disulfiram stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1400</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">440</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">9.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1050</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">410</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">8.0</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">17 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">350</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Hospital discharge</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1 hd_h_Disulfiram.Tf_1_1_1_2 hd_h_Disulfiram.Tf_1_1_1_3 hd_h_Disulfiram.Tf_1_1_1_4 hd_h_Disulfiram.Tf_1_1_1_5 hd_h_Disulfiram.Tf_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Readmitted for rechallenge</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Disulfiram 500 mg daily</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">11</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">12</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">58</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">201</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Disulfiram stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">260</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">280</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">440</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">340</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">360</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">350</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_1 hd_h_Disulfiram.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;85</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Disulfiram.TF.f.1">
+                  <label>* </label>
+                  <p>Some values estimated from Figure 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Disulfiram.Comment_1">
+            <title>Comment</title>
+            <p>The onset of acute liver injury within 3 weeks of starting disulfiram, the prompt improvement upon withdrawal (starting in 3 to 5 days) and the reappearance of hepatic injury within a few days of restarting make this a fairly definite case of disulfiram-hepatotoxicity. The order of improvement of liver tests was ALT, followed by bilirubin and then alkaline phosphatase, which is typical of drug induced liver injury.</p>
+          </sec>
+        </sec>
+        <sec id="Disulfiram.Case_3_Severe_acute_liver_inj">
+          <title>Case 3. Severe acute liver injury after disulfiram therapy.(<xref ref-type="bibr" rid="Disulfiram.REF.3">3</xref>)</title>
+          <p>A 28 year old man with chronic alcoholism was started on disulfiram in a dose of 400 mg three times weekly. Seven weeks later, he developed fatigue, nausea, vomiting and abdominal pain followed by jaundice. After several days of symptoms, he sought medical advice and was hospitalized. He denied use of alcohol since starting disulfiram and took no other medications. Physical examination showed jaundice and an enlarged liver, but no signs of chronic liver disease, fever or rash. Serum bilirubin was 9.7 mg/dL, ALT 2632 U/L and alkaline phosphatase 775 U/L. The prothrombin time was prolonged. Tests for hepatitis A, B and C were negative and autoantibodies were not detected. Disulfiram was stopped promptly, but he became increasingly jaundiced and was transferred to a liver transplant center. Although bilirubin had risen to 27.5 mg/dL and the prothrombin index was only 28%, he had no signs or symptoms of hepatic encephalopathy. He was treated with lactulose and vitamin K and began to recover. In follow up, serum liver tests improved although alkaline phosphatase levels remained mildly abnormal. Specialized testing demonstrated presence of antibodies to human CYP 1A2 and rat CYP 3A1, without reactivity to human CYP 2E1, 2C9, 2D6, and 3A4.</p>
+          <sec id="Disulfiram.Key_Points_2">
+            <title>Key Points</title>
+            <table-wrap id="Disulfiram.Tg" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Disulfiram.Tg_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Disulfiram (400 mg three times weekly)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tg_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Disulfiram.Tg_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=9.5)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tg_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Disulfiram.Tg_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">4 (jaundice, prothrombin time prolonged)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tg_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Disulfiram.Tg_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tg_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Disulfiram.Tg_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">2 months for complete resolution</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Disulfiram.Tg_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Disulfiram.Tg_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Disulfiram.Laboratory_Values_2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Disulfiram.Th" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3 hd_h_Disulfiram.Th_1_1_1_4 hd_h_Disulfiram.Th_1_1_1_5 hd_h_Disulfiram.Th_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Disulfiram started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">16</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Nausea</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3 hd_h_Disulfiram.Th_1_1_1_4 hd_h_Disulfiram.Th_1_1_1_5 hd_h_Disulfiram.Th_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Worsening symptoms &#x00026; jaundice, disulfiram stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2632</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">775</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">9.8</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2420</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">27.5</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Prothrombin index 28%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1866</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">508</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">35.3</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Albumin 3.1</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1186</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">608</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">13.4</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">375</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.3</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">342</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">17 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">27</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">258</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">233</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_1 hd_h_Disulfiram.Th_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;345</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Disulfiram.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Disulfiram.Comment_2">
+            <title>Comment</title>
+            <p>The presence of antibodies to CYP 1A2 is highly suggestive of drug induced liver disease, as these have also been described in patients with dihydralazine induced hepatitis. The latency of seven weeks and the rapid resolution after stopping are consistent with disulfiram hepatotoxicity. The clinical picture of jaundice with extremely elevated levels of serum ALT and AST is also characteristic for this type of injury, and is associated with a mortality of almost 30%. In this instance, the severity may have been due, at least in part, to the delay in stopping disulfiram which may also have accounted for the delay in improvement.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Disulfiram.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Disulfiram &#x02013; Generic, Antabuse&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Substance Abuse Treatment Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Disulfiram">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Disulfiram.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Disulfiram.Ti" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Disulfiram.Ti_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Disulfiram.Ti_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Disulfiram.Ti_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Disulfiram.Ti_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Disulfiram.Ti_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Disulfiram</td>
+                <td headers="hd_h_Disulfiram.Ti_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134970646">97-77-8</ext-link>
+</td>
+                <td headers="hd_h_Disulfiram.Ti_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H20-N2-S4</td>
+                <td headers="hd_h_Disulfiram.Ti_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134970646" document-id-type="sid" document-type="summary" object-id="134970646" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Disulfiram.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Disulfiram.CITED_REFERENCES.reflist0">
+          <ref id="Disulfiram.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Morris</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Kanner</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Chiprut</surname><given-names>RO</given-names></name>
+<name name-style="western"><surname>Schiff</surname><given-names>ER</given-names></name>
+</person-group>
+              <article-title>Disulfiram hepatitis.</article-title>
+              <source>Gastroenterology</source>
+              <year>1978</year>
+              <volume>75</volume>
+              <fpage>100</fpage>
+              <lpage>2</lpage>
+              <pub-id pub-id-type="pmid">401083</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.3">
+            <label>3</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eliasson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>St&#x000e5;l</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Oksanen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lytton</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Expression of autoantibodies to specific cytochromes P450 in a case of disulfiram hepatitis.</article-title>
+              <source>J Hepatol</source>
+              <year>1998</year>
+              <volume>29</volume>
+              <fpage>819</fpage>
+              <lpage>25</lpage>
+              <pub-id pub-id-type="pmid">9833921</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Disulfiram.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 September 2021</p>
+        <ref-list id="Disulfiram.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Disulfiram.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 724-5.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 summarizes 80 cases of disulfiram hepatic injury, 28% of which were fatal; cases were invariably hepatocellular).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Disulfiram.REF.mihic.2018">
+            <mixed-citation publication-type="book">Mihic SJ, Koob GF, Mayfield J, Harris RA. Ethanol. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 421-31.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Disulfiram.REF.hald.1948.1001">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hald</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jacobsen</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>A drug sensitizing the organism to ethyl alcohol.</article-title>
+              <source>Lancet</source>
+              <year>1948</year>
+              <volume>2</volume>
+              <fpage>1001</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the effects of disulfiram after ingestion of alcohol; facial vasodilation, tachycardia, dyspnea, nausea and headache starting 7-12 minutes after ingestion, maximal at 30 minutes and resolving in 3-6 hours, correlating with acetaldehyde levels with no change in rate of alcohol metabolism).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18103475</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.martensenlarsen.1948.1004">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Martensen-Larsen</surname><given-names>O.</given-names></name>
+</person-group>
+              <article-title>Treatment of alcoholism with a sensitizing drug.</article-title>
+              <source>Lancet</source>
+              <year>1948</year>
+              <volume>2</volume>
+              <fpage>1004</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Initial clinical study of Antabuse in 83 subjects with alcoholism with promising results in 74; no idiosyncratic side effects mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18122024</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.knutsen.1949.436">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Knutsen</surname><given-names>B.</given-names></name>
+</person-group>
+              <comment>[Complications of Antabuse therapy]</comment>
+              <source>Tidsskr Nor Laegeforen</source>
+              <year>1949</year>
+              <volume>69</volume>
+              <fpage>436</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Patient developed rash and jaundice 4 weeks after starting disulfiram therapy progressing to hepatic failure and death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18142106</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.keeffe.1974.435">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keeffe</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>FW</given-names></name>
+</person-group>
+              <article-title>Disulfiram hypersensitivity hepatitis.</article-title>
+              <source>JAMA</source>
+              <year>1974</year>
+              <volume>230</volume>
+              <fpage>435</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(44 year old developed fatigue and jaundice 10 days after starting disulfiram [bilirubin 6.9 mg/dL, AST 2040 U/L, minimal Alk P elevation, no eosinophilia], with rapid resolution but recurrence of symptoms, mild jaundice, AST elevations and urticaria within 10 days of restarting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4479092</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.fisher.1975.464">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fisher</surname><given-names>AA</given-names></name>
+</person-group>
+              <article-title>Disulfiram hypersensitivity hepatitis.</article-title>
+              <source>JAMA</source>
+              <year>1975</year>
+              <volume>231</volume>
+              <fpage>464</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter in response to Keeffe [1974] suggesting that a patch test might help validate hypersensitivity as the cause of the hepatitis due to disulfiram).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1172826</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.eisen.1975.673">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eisen</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Ginsberg</surname><given-names>AL</given-names></name>
+</person-group>
+              <article-title>Letter: Disulfiram hepatotoxicity.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1975</year>
+              <volume>83</volume>
+              <fpage>673</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old developed jaundice 4 weeks after starting a second course of disulfiram [bilirubin 43 mg/dL, ALT 801 U/L, AST 1650 U/L, Alk P 220 U/L], with rapid resolution and recurrence within 4 days of restarting [bilirubin 25 mg/dL, AST 1245 U/L, Alk P 211 U/L, 1% eosinophils]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1200504</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.ranek.1977.94">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ranek</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Buch Andreasen</surname><given-names>P.</given-names></name>
+</person-group>
+              <article-title>Disulfiram hepatotoxicity.</article-title>
+              <source>Br Med J</source>
+              <year>1977</year>
+              <volume>2</volume>
+              <fpage>94</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Six patients, 4 women and 2 men, ages 38 to 69 years, developed severe hepatitis 3-25 weeks after starting disulfiram [bilirubin 17-83 mg/L, ALT 97-940 U/L, Alk P 62-114 U/L], all developed hepatic failure and 5 died, 4 had delay in stopping drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">871808</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.morris.1978.100">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Morris</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Kanner</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Chiprut</surname><given-names>RO</given-names></name>
+<name name-style="western"><surname>Schiff</surname><given-names>ER</given-names></name>
+</person-group>
+              <article-title>Disulfiram hepatitis.</article-title>
+              <source>Gastroenterology</source>
+              <year>1978</year>
+              <volume>75</volume>
+              <fpage>100</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old man developed jaundice 21 days after starting disulfiram [bilirubin 8.8 mg/dL, AST 950 U/L, Alk P 80 U/L, 4% eosinophils], resolving in 1 month, recurring on rechallenge after 4 days: Case 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">401083</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.goyer.1979.133">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goyer</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>Major</surname><given-names>LF</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity in disulfiram-treated patients.</article-title>
+              <source>J Stud Alcohol</source>
+              <year>1979</year>
+              <volume>40</volume>
+              <fpage>133</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 35 alcoholic patients given disulfiram and 15 alcoholic controls, there were no difference in AST or Alk P elevations at 3 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">449328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.skomedal.1979.1476">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Skomedal</surname><given-names>T.</given-names></name>
+</person-group>
+              <comment>[Disulfiram induced liver damage]</comment>
+              <source>Tidsskr Nor Laegeforen</source>
+              <year>1979</year>
+              <volume>99</volume>
+              <fpage>1476</fpage>
+              <comment>Norwegian.</comment>
+              <pub-id pub-id-type="pmid">516026</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.v_zquez.1979.377">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>V&#x000e1;zquez</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Pardo-Mindan</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Liver cell injury (bodies similar to Lafora's) in alcoholics treated with disulfiram (Antabuse).</article-title>
+              <source>Histopathology</source>
+              <year>1979</year>
+              <volume>3</volume>
+              <fpage>377</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three men, ages 35, 55 and 60 years, on long term disulfiram therapy with normal liver tests underwent liver biopsies and were found to have homogenous to granular inclusion bodies in hepatocytes that resembled ground-glass cells or Lafora bodies; changes reflective of proliferation of smooth endoplasmic reticulum).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">226467</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kristensen.1981.335">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kristensen</surname><given-names>ME</given-names></name>
+</person-group>
+              <article-title>Toxic hepatitis induced by disulfiram in a non-alcoholic.</article-title>
+              <source>Acta Med Scand</source>
+              <year>1981</year>
+              <volume>209</volume>
+              <fpage>335</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman with nickel hypersensitivity developed mild symptoms and ALT elevations 8 weeks after starting disulfiram as chelating agent [bilirubin &#x0003c;1.0 mg/dL, ALT 412 U/L, Alk P 444 U/L], with recurrence within 3 days of restarting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6453500</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kobborg.1981.624">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kobborg</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>S&#x000f8;gaard</surname><given-names>PE</given-names></name>
+</person-group>
+              <comment>[Disulfiram hepatitis]</comment>
+              <source>Ugeskr Laeger</source>
+              <year>1981</year>
+              <volume>143</volume>
+              <fpage>624</fpage>
+              <comment>Danish.</comment>
+              <pub-id pub-id-type="pmid">7281269</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.holmbentzen.1981.1213">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Holm-Bentzen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Almbjerg</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ranek</surname><given-names>L.</given-names></name>
+</person-group>
+              <comment>[Drug-induced liver damage]</comment>
+              <source>Ugeskr Laeger</source>
+              <year>1981</year>
+              <volume>143</volume>
+              <fpage>1213</fpage>
+              <lpage>6</lpage>
+              <comment>Danish.</comment>
+              <pub-id pub-id-type="pmid">7303182</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.wise.1981.87">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wise</surname><given-names>JD</given-names></name>
+</person-group>
+              <article-title>Disulfiram toxicity--a review of the literature.</article-title>
+              <source>J Ark Med Soc</source>
+              <year>1981</year>
+              <volume>78</volume>
+              <fpage>87</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the literature on adverse effects of disulfiram, including hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6455409</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.schade.1983.1271">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schade</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Gray</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Dekker</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Varma</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Shaffer</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Van Thiel</surname><given-names>DH</given-names></name>
+</person-group>
+              <article-title>Fulminant hepatitis associated with disulfiram. Report of a case.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1983</year>
+              <volume>143</volume>
+              <fpage>1271</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(31 year old man developed nausea and abdominal pain 6 weeks after starting disulfiram [bilirubin 8 rising to 32 mg/dL, AST 2548 U/L, Alk P 129 U/L], with subsequent worsening, hepatic failure and death; massive hepatic necrosis was present on autopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6860059</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.v_zquez.1983.29">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>V&#x000e1;zquez</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Diaz de Otazu</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Guillen</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Zozaya</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pardo</surname><given-names>FJ</given-names></name>
+</person-group>
+              <article-title>Hepatitis induced by drugs used as alcohol aversion therapy.</article-title>
+              <source>Diagn Histopathol</source>
+              <year>1983</year>
+              <volume>6</volume>
+              <fpage>29</fpage>
+              <lpage>37</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 20 liver biopsies from 17 patients on cyanamide or disulfiram as alcohol aversion therapy showed presence of inclusion bodies in cytoplasm of hepatocytes, typically in periportal areas and with scant accompanying inflammation and no clearly associated with symptoms or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6307616</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kaaber.1983.297">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaaber</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Menn&#x000e9;</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Veien</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Hougaard</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Treatment of nickel dermatitis with Antabuse; a double blind study.</article-title>
+              <source>Contact Dermatitis</source>
+              <year>1983</year>
+              <volume>9</volume>
+              <fpage>297</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 11 women with nickel dermatitis treated with disulfiram, 2 developed liver injury, one being symptomatic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6352169</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.n_ssberger.1984.639">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>N&#x000e4;ssberger</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced hepatitis--report of a case and review of the literature.</article-title>
+              <source>Postgrad Med J</source>
+              <year>1984</year>
+              <volume>60</volume>
+              <fpage>639</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(32 year old woman developed rash after 2 months and had abnormal liver tests after 6 months of disulfiram therapy [bilirubin normal, ALT 229 U/L, Alk P 1488 U/L, eosinophils 12%], resolving slowly upon withdrawal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6483711</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.n_ssberger.1984.403">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>N&#x000e4;ssberger</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity due to disulfiram.</article-title>
+              <source>J Toxicol Clin Toxicol</source>
+              <year>1984</year>
+              <volume>22</volume>
+              <fpage>403</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity from disulfiram indicating that there have been 24 cases reported in the literature with 9 deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6527401</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.sundkvist.1984.4837">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sundkvist</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Johansson</surname><given-names>B.</given-names></name>
+</person-group>
+              <comment>[Disulfiram-induced hepatitis]</comment>
+              <source>Lakartidningen</source>
+              <year>1984</year>
+              <volume>81</volume>
+              <fpage>4837</fpage>
+              <comment>Swedish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old man developed jaundice 6 weeks after starting disulfiram [bilirubin 13.1 mg/dL, ALT 1695 U/L, Alk P 492 U/L], resolving within 4-8 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6521575</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.bartle.1985.834">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bartle</surname><given-names>WR</given-names></name>
+<name name-style="western"><surname>Fisher</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Kerenyi</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced hepatitis. Report of two cases and review of the literature.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1985</year>
+              <volume>30</volume>
+              <fpage>834</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(2 patients, 30 year old man and 43 year old woman, developed jaundice one month after starting disulfiram [bilirubin 7.3 and 9.8 mg/dL, ALT 2,200 and 2,150 U/L, Alk P 202 and 148 U/L], resolving within 2-4 weeks of stopping and recurring within 1-3 days of restarting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2992895</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.n_ssberger.1985.4520">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>N&#x000e4;ssberger</surname><given-names>L.</given-names></name>
+</person-group>
+              <comment>[Liver injury due to disulfiram]</comment>
+              <source>Lakartidningen.</source>
+              <year>1985</year>
+              <volume>82</volume>
+              <fpage>4520</fpage>
+              <lpage>1</lpage>
+              <comment>Swedish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, pathogenesis and diagnosis of disulfiram induced liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4087982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.black.1985.67">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Black</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Richardson</surname><given-names>JW</given-names></name>
+</person-group>
+              <article-title>Disulfiram hepatotoxicity: case report.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1985</year>
+              <volume>46</volume>
+              <fpage>67</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old woman developed fatigue and jaundice 2-3 weeks after starting disulfiram [bilirubin 4.0 mg/dL, AST 942 U/L, Alk P 379 U/L, 6% eosinophils], resolving within 4 weeks of stopping, but followed by relapse to alcohol use).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3968049</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.nathan.1985.87">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nathan</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Hill</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Disulfiram and hepatotoxicity.</article-title>
+              <source>Psychiatr J Univ Ott</source>
+              <year>1985</year>
+              <volume>10</volume>
+              <fpage>87</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old woman developed fatigue followed by jaundice 2 weeks after starting disulfiram [bilirubin 2.9 mg/dL, ALT 1474 U/L, Alk P 275 U/L, eosinophilia], resolving in 6 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3895272</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kolupaev.1986.81">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kolupaev</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Chibisov</surname><given-names>VA</given-names></name>
+<name name-style="western"><surname>Iakovlev</surname><given-names>VA</given-names></name>
+<name name-style="western"><surname>Lukomski&#x0012d;</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Petrovich</surname><given-names>AA</given-names></name>
+</person-group>
+              <comment>[Effect of disulfiram on liver function]</comment>
+              <source>Sov Med</source>
+              <year>1986</year>
+              <issue>5</issue>
+              <fpage>81</fpage>
+              <lpage>2</lpage>
+              <comment>Russian.</comment>
+              <pub-id pub-id-type="pmid">3726630</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.iber.1987.301">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Iber</surname><given-names>FL</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Lacoursiere</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fuller</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Liver toxicity encountered in the Veterans Administration trial of disulfiram in alcoholics.</article-title>
+              <source>Alcohol Clin Exp Res</source>
+              <year>1987</year>
+              <volume>11</volume>
+              <fpage>301</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Randomized controlled trial of 12 month course of disulfiram [250 or 1 mg or placebo daily] in 453 alcoholic patients found similar rates of AST, Alk P and bilirubin elevations in the 3 groups, correlating best with alcohol use; 19% having at least 2 elevated AST values).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3307498</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.barth.1987.1059">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Barth</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Resnick</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>Smoller</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Disulfiram and fulminant hepatitis.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1987</year>
+              <volume>32</volume>
+              <fpage>1059</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old woman developed jaundice 8 weeks after starting disulfiram, with subsequent progressive liver failure and death [bilirubin 31 mg/dL, AST 1095 U/L, Alk P 333 U/L], autopsy showing massive hepatic necrosis without fibrosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3622187</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kaaber.1987.209">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaaber</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Menne</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Veien</surname><given-names>NK</given-names></name>
+<name name-style="western"><surname>Baadsgaard</surname><given-names>O</given-names></name>
+</person-group>
+              <article-title>Some adverse effects of disulfiram in the treatment of nickel-allergic patients.</article-title>
+              <source>Derm Beruf Umwelt</source>
+              <year>1987</year>
+              <volume>35</volume>
+              <fpage>209</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 61 patients with nickel allergy and eczema treated with disulfiram [50-400 mg daily for 4 to 56 days], 11 developed liver test abnormalities of whom 5 had clinically apparent injury, more frequently in elderly, but not dose related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3440439</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.friis.1992.133">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Friis</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Andreasen</surname><given-names>PB</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987.</article-title>
+              <source>J Intern Med</source>
+              <year>1992</year>
+              <volume>232</volume>
+              <fpage>133</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among liver adverse drug reaction reports in Denmark between 1979 and 1987, disulfiram ranked 4th [n=35] in frequency, behind halothane [280], carbamazepine [48], and SMZ-TMP [40], and ahead of valproate [34] and chlorpromazine [24]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1506809</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.mach.1988.435">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mach</surname><given-names>T.</given-names></name>
+</person-group>
+              <comment>[Adverse reactions to disulfiram with special reference to hepatotoxicity]</comment>
+              <source>Pol Tyg Lek</source>
+              <year>1988</year>
+              <volume>43</volume>
+              <fpage>435</fpage>
+              <lpage>7</lpage>
+              <comment>Polish.</comment>
+              <pub-id pub-id-type="pmid">3412978</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.wright.1988.430">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wright</surname><given-names>C</given-names><suffix>4th</suffix></name>
+<name name-style="western"><surname>Vafier</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Lake</surname><given-names>CR</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced fulminating hepatitis: guidelines for liver-panel monitoring.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1988</year>
+              <volume>49</volume>
+              <fpage>430</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed fatigue and pruritus 34 days after starting disulfiram [bilirubin 8.9 rising to 33.4 mg/dL, ALT 2880 U/L, Alk P 222 U/L], with severe course but ultimate recovery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3053669</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.berlin.1989.241">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Berlin</surname><given-names>RG</given-names></name>
+</person-group>
+              <article-title>Disulfiram hepatotoxicity: a consideration of its mechanism and clinical spectrum.</article-title>
+              <source>Alcohol Alcohol</source>
+              <year>1989</year>
+              <volume>24</volume>
+              <fpage>241</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of disulfiram; summarizing 17 reports in the English literature [7 fatal] and suggesting that production of toxic metabolite as the cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2667530</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.cereda.1989.98">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cereda</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Bernuau</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Degott</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Rueff</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Benhamou</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Fatal liver failure due to disulfiram.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>1989</year>
+              <volume>11</volume>
+              <fpage>98</fpage>
+              <lpage>100</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old man developed jaundice 2 months after starting disulfiram [bilirubin 9.4 mg/dL, ALT 600 U/L], progressing to hepatic failure over the next 3 weeks and death; autopsy showed marked necrosis without cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2646364</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.mason.1989.872">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mason</surname><given-names>NA</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced hepatitis: case report and review of the literature.</article-title>
+              <source>DICP</source>
+              <year>1989</year>
+              <volume>23</volume>
+              <fpage>872</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(38 year old woman developed jaundice 4 weeks after starting disulfiram [bilirubin 9.3 mg/dL, ALT 2860 U/L, Alk P not given, 18% eosinophils], disease worsening for 6 days after stopping and then resolving rapidly).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2688328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.vanjak.1989.1075">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vanjak</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Samuel</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Gosset</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Derrida</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moreau</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Soupison</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Soulier</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <comment>[Fulminant hepatitis induced by disulfiram in a patient with alcoholic cirrhosis. Survival after liver transplantation]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1989</year>
+              <volume>13</volume>
+              <fpage>1075</fpage>
+              <lpage>8</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(44 year old man with cirrhosis developed jaundice 38 days after starting disulfiram with progression to hepatic failure [bilirubin 34.4 mg/dL, ALT 2330 U/L, Alk P 305 U/L, prothrombin index 18%], undergoing successful liver transplant).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2625187</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.yapa.1989.13">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yapa</surname><given-names>RS</given-names></name>
+</person-group>
+              <article-title>Danger of Antabuse therapy.</article-title>
+              <source>Practitioner</source>
+              <year>1989</year>
+              <volume>233</volume>
+              <fpage>13</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old with cirrhosis developed nausea 2 weeks after starting disulfiram followed by jaundice one week later [bilirubin 11.6 mg/dL, ALT 1998 U/L, Alk P 297 U/L], resolving within 6 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2798281</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kahn.1990.833">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kahn</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Farnum</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced hepatitis.</article-title>
+              <source>South Med J</source>
+              <year>1990</year>
+              <volume>83</volume>
+              <fpage>833</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(62 year old woman developed rash, fever, anorexia and pruritus 23 days after starting disulfiram [bilirubin 0.6 mg/dL, ALT 374 U/L, Alk P 197 U/L, 14% eosinophils], resolving within 30 days of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2196696</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.knudsen.1990.1457">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Knudsen</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Nielsen-Kudsk</surname><given-names>JE</given-names></name>
+</person-group>
+              <comment>[Fatal hepatitis caused by disulfiram]</comment>
+              <source>Ugeskr Laeger</source>
+              <year>1990</year>
+              <volume>152</volume>
+              <fpage>1457</fpage>
+              <lpage>8</lpage>
+              <comment>Danish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(34 year old man developed jaundice 2 months after starting disulfiram [bilirubin 9.1 mg/dL, AST 905 U/L, Alk P 441 U/L], with progression to hepatic failure, coma and death within 3 weeks of presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2343506</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.phillips.1990.168">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Phillips</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced fulminating hepatitis and monitoring guidelines.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1990</year>
+              <volume>51</volume>
+              <fpage>168</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter in response to Wright [1988] questioning efficacy of monitoring liver tests in preventing severe outcomes of disulfiram hepatotoxicity and recommending prompt discontinuation at onset of any symptom of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2324081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.bell.1991.322">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bell</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Raknerud</surname><given-names>N.</given-names></name>
+</person-group>
+              <comment>[Fulminating hepatitis after treatment with naproxen and/or disulfiram?]</comment>
+              <source>Tidsskr Nor Laegeforen</source>
+              <year>1991</year>
+              <volume>111</volume>
+              <fpage>322</fpage>
+              <lpage>3</lpage>
+              <comment>Norwegian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed jaundice 6 weeks after starting disulfiram and 5 days after starting naproxen [bilirubin 26.4 mg/dL, ALT 2815 U/L, prothrombin index 27%], progressing to hepatic failure and death 4 weeks later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2000613</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.brewer.1992.51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brewer</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Controlled trials of Antabuse in alcoholism: the importance of supervision and adequate dosage.</article-title>
+              <source>Acta Psychiatr Scand Suppl</source>
+              <year>1992</year>
+              <volume>369</volume>
+              <fpage>51</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of efficacy of disulfiram stressing the need for careful surveillance, adequate dosages and compliance monitoring).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1471553</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.enghusen_poulsen.1992.59">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Enghusen Poulsen</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Loft</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Andersen</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Andersen</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Disulfiram therapy--adverse drug reactions and interactions.</article-title>
+              <source>Acta Psychiatr Scand Suppl</source>
+              <year>1992</year>
+              <volume>369</volume>
+              <fpage>59</fpage>
+              <lpage>65</lpage>
+              <lpage>discussion 65-6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of Danish adverse effects reports between 1968-81; 53 disulfiram hepatic injury cases found, onset after 16-120 days, 11 fatal; death rate estimated as 1: 25,000 treatment-years).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1471554</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.wright.1993.184">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wright</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Moore</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Grodin</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Spyker</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Gill</surname><given-names>EV</given-names></name>
+</person-group>
+              <article-title>Screening for disulfiram-induced liver test dysfunction in an inpatient alcoholism program.</article-title>
+              <source>Alcohol Clin Exp Res</source>
+              <year>1993</year>
+              <volume>17</volume>
+              <fpage>184</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 108 patients receiving disulfiram for 4 weeks and 27 controls, any ALT elevations occurred in 25% and were above twice ULN in 4% of patients, compared to 4% and 0% of controls).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8383924</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.zala.1993.1355">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zala</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Schmid</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>B&#x000fc;hler</surname><given-names>H.</given-names></name>
+</person-group>
+              <comment>[Fulminant hepatitis caused by disulfiram]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>1993</year>
+              <volume>118</volume>
+              <fpage>1355</fpage>
+              <lpage>60</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed jaundice 13 days after starting disulfiram [bilirubin 27 mg/dL, ALT 4142 U/L, Alk P 98 U/L], progressing to hepatic failure and death by day 25, autopsy showing massive necrosis without cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8404476</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.forns.1994.853">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Forns</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Caballer&#x000ed;a</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bruguera</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Salmer&#x000f3;n</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Vilella</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mas</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Par&#x000e9;s</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Disulfiram-induced hepatitis. Report of four cases and review of the literature.</article-title>
+              <source>J Hepatol</source>
+              <year>1994</year>
+              <volume>21</volume>
+              <fpage>853</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(4 cases of disulfiram hepatotoxicity; 3 women and 1 man, ages 25 to 53 years, onset in 5 days to 3 months [bilirubin 9.0-13.2 mg/dL, ALT 825-2500 U/L, Alk P 367-997 U/L], 3 with signs of hepatic failure, delay in stopping in 2 patients, all survived but 2 had evidence of residual injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7890903</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.dupuy.1995.67">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dupuy</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Flocard</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Vial</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Rode</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Charles</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Boisson</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Flechaire</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Disulfiram (Esperal) toxicity. Apropos of 3 original cases]</comment>
+              <source>Rev Med Interne</source>
+              <year>1995</year>
+              <volume>16</volume>
+              <fpage>67</fpage>
+              <lpage>72</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 cases of polyneuritis developing in patients on disulfiram without accompanying liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7871273</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.kerkhof.1995.2378">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kerkhof</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>de Doelder</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>Harinck</surname><given-names>HI</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+</person-group>
+              <comment>[Liver damage attributed to the use of disulfiram]</comment>
+              <source>Ned Tijdschr Geneeskd</source>
+              <year>1995</year>
+              <volume>139</volume>
+              <fpage>2378</fpage>
+              <lpage>81</lpage>
+              <comment>Dutch.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 patients, 2 men and 1 woman, ages 30 to 52 years, developed jaundice 2-5 weeks after starting disulfiram therapy [bilirubin 18.2, 31.6 and 18.8 mg/dL, ALT 1940, 2331, and 3108 U/L, Alk P 131-201 U/L], one dying and others resolving promptly upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7501079</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.saxon.1998.313">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Saxon</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Sloan</surname><given-names>KL</given-names></name>
+<name name-style="western"><surname>Reoux</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Haver</surname><given-names>VM</given-names></name>
+</person-group>
+              <article-title>Disulfiram use in patients with abnormal liver function test results.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1998</year>
+              <volume>59</volume>
+              <fpage>313</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 57 alcoholic patients starting disulfiram; 32% had ALT elevations at baseline and 27% developed ALT elevations during therapy, but only one developed marked elevations prompting discontinuation [ALT 1200 U/L]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9671344</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.carniato.1998.102">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carniato</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fuser</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Vaglia</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Disulfiram-induced hepatitis]</comment>
+              <source>Infez Med</source>
+              <year>1998</year>
+              <volume>6</volume>
+              <fpage>102</fpage>
+              <lpage>103</lpage>
+              <comment>Italian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old woman developed jaundice 40 days after starting disulfiram [bilirubin 12.3 mg/dL, ALT 1641 U/L, GGT 260 U/L, prothrombin index 36%], with slow but ultimately full recovery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12750575</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.eliasson.1998.819">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eliasson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>St&#x000e5;l</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Oksanen</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lytton</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Expression of autoantibodies to specific cytochromes P450 in a case of disulfiram hepatitis.</article-title>
+              <source>J Hepatol</source>
+              <year>1998</year>
+              <volume>29</volume>
+              <fpage>819</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(28 year old man developed jaundice 7 weeks after starting disulfiram [bilirubin 9.8 mg/dL, ALT 2632 U/L, Alk P 775 U/L], with progression to liver failure but ultimate recovery; IgG reactivity found to human CPY 1A2 and rat CYP 3A1 by Western blotting and levels were unchanged 6 months after recovery: Case 3).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9833921</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.rabkin.1998.830">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rabkin</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Corless</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Orloff</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Benner</surname><given-names>KG</given-names></name>
+<name name-style="western"><surname>Flora</surname><given-names>KD</given-names></name>
+<name name-style="western"><surname>Rosen</surname><given-names>HR</given-names></name>
+<name name-style="western"><surname>Olyaei</surname><given-names>AJ</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for disulfiram-induced hepatic failure.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1998</year>
+              <volume>93</volume>
+              <fpage>830</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old man developed jaundice and confusion 8 weeks after starting and 2 weeks after stopping disulfiram [bilirubin 7.9 rising to 23.2 mg/dL, ALT 3270 U/L], with progressive hepatic failure ultimately undergoing successful liver transplantation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9625138</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.chick.1999.427">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chick</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>Safety issues concerning the use of disulfiram in treating alcohol dependence.</article-title>
+              <source>Drug Saf</source>
+              <year>1999</year>
+              <volume>20</volume>
+              <fpage>427</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the adverse effects of disulfiram).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10348093</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.masi_.2002.474">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Masi&#x000e1;</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Guti&#x000e9;rrez</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Jimeno</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Borr&#x000e1;s</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Matarredona</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;n-Hidalgo</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Fulminant hepatitis and fatal toxic epidermal necrolysis (Lyell disease) coincident with clarithromycin administration in an alcoholic patient receiving disulfiram therapy.</article-title>
+              <source>Arch Intern Med</source>
+              <year>2002</year>
+              <volume>162</volume>
+              <fpage>474</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old man developed fever, rash and jaundice 1 month after starting disulfiram [bilirubin 15.3 mg/dL, ALT 2603 U/L, Alk P 240 U/L, no eosinophilia, protime 21 seconds], with toxic epidermal necrolysis and subsequent liver failure and death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11863483</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.chick.2004.25">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chick</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>Disulfiram: cautions on liver function; how to supervise.</article-title>
+              <source>Addiction</source>
+              <year>2004</year>
+              <volume>99</volume>
+              <fpage>25</fpage>
+              <lpage>Author reply 27-8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comment on supervision of disulfiram use, fulminant hepatitis being &#x0201c;a rare but real risk&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14678056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.mohanty.2004.292">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mohanty</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>LaBrecque</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Mitros</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Layden</surname><given-names>TJ</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for disulfiram-induced fulminant hepatic failure.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>2004</year>
+              <volume>38</volume>
+              <fpage>292</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(16 year old woman developed jaundice 5 weeks after starting disulfiram [bilirubin 23.7 mg/dL, ALT 1852 U/L, Alk P 179 U/L, INR 3.8], undergoing liver transplant 5 days after admission).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15128079</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, 124 for acetaminophen and 137 for other toxins, the most common being isoniazid [24], propylthiouracil [13], phenytoin [10], valproate [10], amanita [9], nitrofurantoin [7], herbals [7], ketoconazole [6], disulfiram [6], troglitazone [4] and 28 others).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jerlstad</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bergqvist</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of all cases of fatal drug induced liver injury from Swedish Adverse Drug Reporting system from 1966-2002; 103 cases identified as highly probable, probable or possible, disulfiram accounting for 2 cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.de_valle.2006.1187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>De Valle</surname><given-names>MB</given-names></name>
+<name name-style="western"><surname>Av Klinteberg</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Alem</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury in a Swedish University hospital out-patient hepatology clinic.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2006</year>
+              <volume>24</volume>
+              <fpage>1187</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1164 patients with liver disease seen over a 10 year period, 77 [6.6%] were suspected cases of drug induced liver injury; disulfiram accounted for 2 cases [3%], ages 38 and 70 years, onset after 42- and 70 days, one jaundiced and both recovered).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17014577</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.bj_rnsson.2006.791">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Nordlinder</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Clinical characteristics and prognostic markers in disulfiram-induced liver injury.</article-title>
+              <source>J Hepatol</source>
+              <year>2006</year>
+              <volume>44</volume>
+              <fpage>791</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of all cases of disulfiram hepatotoxicity from the Swedish Adverse Drug Reactions Advisory Committee from 1979 to 2004; 82 cases, 8 died or had liver transplant, 66% hospitalized, 98% hepatocellular; estimated incidence 1.3 per million prescriptions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16487618</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.verge.2006.5078">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Verge</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>L&#x000f3;pez-Torres</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Puche-Garcia</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Fraga</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Romero-Gomez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+</person-group>
+              <article-title>Adverse hepatic reactions associated with calcium carbamide and disulfiram therapy: is there still a role for these drugs?</article-title>
+              <source>World J Gastroenterol</source>
+              <year>2006</year>
+              <volume>12</volume>
+              <fpage>5078</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(4 case reports of hepatotoxicity from alcohol deterrent agents, one due to disulfiram; 48 year old man developed jaundice 1 month after starting disulfiram [bilirubin 27.1 mg/dL, ALT 1288 U/L, Alk P 1.5 times ULN], biopsy showing chronic hepatitis and fibrosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16937512</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, only 1 case was attributed to disulfiram: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none to disulfiram or other agents used to treated substance abuse).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.mutschler.2011.195">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mutschler</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Dirican</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Gutzeit</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Grosshans</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Safety and efficacy of long-term disulfiram aftercare.</article-title>
+              <source>Clin Neuropharmacol</source>
+              <year>2011</year>
+              <volume>34</volume>
+              <fpage>195</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 10 patients treated with disulfiram for more than one year, none developed hepatotoxicity and liver enzymes decreased significantly [ALT 65 to 25 U/L, AST 74 to 24 U/L]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21881495</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were due to disulfiram).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury from Latin American countries published between 1996 and 2012 identified 176 cases, one case of which was attributed to disulfiram and was fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [0.5%] were attributed to disulfiram, but none to other medications for alcohol dependence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.thompson.2017.e0173272">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thompson</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ashcroft</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Owens</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>van Staa</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Pirmohamed</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Drug therapy for alcohol dependence in primary care in the UK: a clinical practice research datalink study.</article-title>
+              <source>PLoS One</source>
+              <year>2017</year>
+              <volume>12</volume>
+              <elocation-id>e0173272</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of a UK Clinical Practice Database from 1990 to 2013 found almost 40,000 patients with newly diagnosed alcohol dependence, only 4677 [11%] of which received pharmacotherapy within the next 12 months, which was predominantly disulfiram in the early 1990s [4.2% to 7.7%] and acamprosate since 2000 [8.3% to 12.3%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28319159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.baekdal.2017.450">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baekdal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ytting</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Skalsh&#x000f8;i Kj&#x000e6;r</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury: a cohort study on patients referred to the Danish transplant center over a five year period.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2017</year>
+              <volume>52</volume>
+              <fpage>450</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 43 patients with drug induced liver injury seen at a single Danish referral center between 2007 and 2012, the most frequent cause was disulfiram [13 cases, 30%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27973926</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.teschke.2018.1169">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teschke</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Top-ranking drugs out of 3312 drug-induced liver injury cases evaluated by the Roussel Uclaf Causality Assessment Method.</article-title>
+              <source>Expert Opin Drug Metab Toxicol.</source>
+              <year>2018</year>
+              <volume>14</volume>
+              <fpage>1169</fpage>
+              <lpage>1187</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(The five most commonly implicated agents in drug induced liver disease in an analysis of large published databases with a total of 3312 cases were amoxicillin-clavulanate, flucloxacillin, atorvastatin, disulfiram, and diclofenac).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30354694</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.ramer.2020.8835647">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ramer</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Tihy</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Goossens</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Frossard</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Spahr</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Disulfiram-induced acute liver injury.</article-title>
+              <source>Case Reports Hepatol.</source>
+              <year>2020</year>
+              <volume>2020</volume>
+              <elocation-id>8835647</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old non-abstinent woman with alcohol dependence developed nausea, fatigue and abdominal discomfort 11 days after starting disulfiram with subsequent rise of ALT to from 127 U/L when drug was stopped to 1526 U/L without jaundice 28 days later, and then rapidly improving with prednisone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32963852</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.goh.2017.865">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goh</surname><given-names>ET</given-names></name>
+<name name-style="western"><surname>Morgan</surname><given-names>MY</given-names></name>
+</person-group>
+              <article-title>Review article: pharmacotherapy for alcohol dependence &#x02013; the why, the what and the wherefore.</article-title>
+              <source>Aliment Pharmacol Ther.</source>
+              <year>2017</year>
+              <volume>45</volume>
+              <fpage>865</fpage>
+              <lpage>882</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of medical therapies for alcohol dependence mentions that disulfiram should be considered a second line drug after acamprosate or naltrexone but is usually well tolerated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28220511</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Disulfiram.REF.antonelli.2018.169">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Antonelli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ferrulli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sestito</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vassallo</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Tarli</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Mosoni</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Rando</surname><given-names>MM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Alcohol addiction &#x02013; the safety of available approved treatment options.</article-title>
+              <source>Expert Opin Drug Saf.</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>169</fpage>
+              <lpage>177</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of current pharmacologic treatments of alcohol addiction mentions that disulfiram should be avoided in patients with liver disease and is an adversive drug and should not be used in patients who are actively drinking).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29120249</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Disulfiram.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Disulfiram/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Disulfiram: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Disulfiram">Trials on Disulfiram: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pegcetacoplan" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pegcetacoplan</book-part-id>
+      <title-group>
+        <title>Pegcetacoplan</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pazopanib" document-type="chapter">Pazopanib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pegloticase" document-type="chapter">Pegloticase</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pegcetacoplan.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pegcetacoplan.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pegcetacoplan is a small peptide inhibitor of complement that is used to treat adults with paroxysmal nocturnal hemoglobinuria. Serum aminotransferase elevations occur in a proportion of patients treated pegcetacoplan, but episodes of clinically apparent liver injury with jaundice have not been reported with its use.</p>
+        </sec>
+        <sec id="Pegcetacoplan.Background">
+          <title>Background</title>
+          <p>Pegcetacoplan (peg set&#x02019; a koe&#x02019; plan) is a subcutaneously administered small peptide inhibitor of complement C3 and its activation fragment C3b that blocks the cleavage of C3 and the downsteam effectors of completement activation. Pegcetacoplan is used in conditions marked by excessive activation of complement including paroxysmal nocturnal hemoglobinuria (PNH), age-related macular degeneration, and some forms of glomerulonephritis. PNH is a rare, acquired disease caused by lack of the regulatory proteins CD55 and CD59 on the surface of red blood cells. Without these factors, the red cells are susceptible to complement activation, which causes episodes of hemolysis and thromboses. Previous therapies for PNH included two monoclonal inhibitors of complement C5 (eculizumab and ranukinumab) which were effective in decreasing intravascular hemolysis but not extravascular hemolysis, which is the result of complement activation upstream of C5. In a prospective controlled trial in patients with only partial response to eculizumab, the switch to pegcetacoplan resulted in better control of the hemolytic anemia, higher hemoglobin levels, and improvement in symptoms and quality of life. Pegcetacoplan was also found to be superior to eculizumab as first line therapy of PNH na&#x000ef;ve to complement inhibitors. Pegcetacoplan was approved in the United States in 2021 for adults with PNH, either as initial therapy or after switching from intravenous eculizumab or ranukinumab. Pegcetacoplan is available in solution in single use vials of 1080 mg in 20 mL (54 mg/mL). The recommended dosage is 1080 mg administered by subcutaneous infusion twice weekly. The most common adverse events include injection site reactions, infections, diarrhea, abdominal pain, respiratory tract infections, pain, fatigue, cough, arthralgia, dizziness, headache, and rash, many of which are more likely due to the underlying condition than the therapy. Laboratory abnormalities include hypokalemia. Potential severe adverse events include hypersensitivity reactions and serious infections caused by encapsulated bacteria including Streptococcus pneumoniae, Neisseria meningitidis and Haemophilus influenzae type B, for which reason pegcetacoplan has a boxed warning and recommendations for vaccination before starting therapy. An increase in risk of these infections has yet to be shown with use of pegcetacoplan in adult patients with PNH.</p>
+        </sec>
+        <sec id="Pegcetacoplan.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of pegcetacoplan in patients with PNH, ALT elevations were rarely described, and there were no reports of hepatic adverse events or discontinuations because of abnormal liver tests. Serum ALT and AST elevations are not uncommon in patients with untreated PNH, usually due to hemolysis, thromboses, or infections. In the open label and controlled trials supporting the approval of pegcetacoplan, there were instances of cholecystitis and portal vein thromboses, but no mention of drug induced liver injury. Since its approval in the United States and Europe, there have been no reported cases of clinically apparent liver injury associated with pegcetacoplan therapy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Pegcetacoplan.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from pegcetacoplan is unknown but suspected to be due to the underlying hemolysis or thromboses and unrelated to therapy. Pegcetacoplan is comprised of two identical 15-aminoacid peptides covalently joined by a molecule of polyethylene glycol (PEG). It is metabolized by cellular peptidases into small peptide fragments which are unlikely to be harmful, immunogenic, or toxic. Pegcetacoplan is not metabolized by the cytochrome P450 system and has no effect of CYP metabolizing enzymes.</p>
+        </sec>
+        <sec id="Pegcetacoplan.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for pegcetacoplan does not recommend routine monitoring of liver laboratory tests during therapy. Serum aminotransferase elevations above 5 times the upper limit of normal (if detected) should lead to dose reduction or temporary cessation of treatment with careful monitoring if restarted after resolution of the abnormalities. Elevations of aminotransferase levels accompanied by jaundice or symptoms of liver injury should trigger discontinuation of therapy. Cross sensitivity to liver injury has not been described with the other complement inhibitors used to treat PNH, eculizumab and ravulizumab.</p>
+          <p>Drug Class: Hematologic Agents</p>
+          <p>Other Complement Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Eculizumab" document-type="book-part">Eculizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ravulizumab" document-type="book-part">Ravulizumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pegcetacoplan.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Pegcetacoplan &#x02013; Empaveli&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Hematologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pegcetacoplan">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pegcetacoplan.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pegcetacoplan.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pegcetacoplan.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pegcetacoplan.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Pegcetacoplan.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pegcetacoplan.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pegcetacoplan.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pegcetacoplan</td>
+                <td headers="hd_h_Pegcetacoplan.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381128213">2019171-69-6</ext-link>
+</td>
+                <td headers="hd_h_Pegcetacoplan.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Peptide</td>
+                <td headers="hd_h_Pegcetacoplan.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pegcetacoplan.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 July 2024</p>
+        <p>Abbreviations: PNH, paroxysmal nocturnal hemoglobinuria; ULN, upper limit of normal.</p>
+        <ref-list id="Pegcetacoplan.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pegcetacoplan.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of complement inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF3">
+            <mixed-citation publication-type="web">FDA. Integrated Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215014Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215014Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of pegcetacoplan as therapy of PNH, describes the adverse events observed in a pooled safety population which were largely due to episodes of hemolysis, thromboses, and infections, and while elevations in liver enzymes were not infrequent in some studies, they were attributed to hemolysis, thromboses and infections rather than liver injury due to pegcetacoplan).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.hillmen.2021.1028">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hillmen</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Szer</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Weitz</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>R&#x000f6;th</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>H&#x000f6;chsmann</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Panse</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Usuki</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pegcetacoplan versus eculizumab in paroxysmal nocturnal hemoglobinuria.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>1028</fpage>-<lpage>1037</lpage>.<annotation><p><italic toggle="yes">(Among 80 adults with PNH and incomplete response to eculizumab [hemoglobin less than 10.5 g/dL] treated with pegcetacoplan vs eculizumab, mean hemoglobin levels improved only with pegcetacoplan [rising to 11.5 vs 8.6 g/dL], fewer required transfusions [15% vs 85%], and fatigue and quality of life improved, while adverse event rates included infusion site reactions [37% vs 3%], diarrhea [22% vs 3%], breakthrough hemolysis [10% vs 23%], headache [7% vs 23%], fatigue [5% vs 15%]; no mention of ALT elevations or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">33730455</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.hoy.2021.1423">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoy</surname>
+<given-names>SM</given-names></string-name>. <article-title>Pegcetacoplan: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>1423</fpage>-<lpage>1430</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of pegcetacoplan in PNH, age-related macular degeneration, C3 glomerulopathy, and autoimmune hemolytic anemia; no mention of ALT elevations or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">34342834</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.wong.2022.1971">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wong</surname>
+<given-names>RSM</given-names></string-name>, <string-name name-style="western"><surname>Pullon</surname>
+<given-names>HWH</given-names></string-name>, <string-name name-style="western"><surname>Amine</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Bogdanovic</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Deschatelets</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Francois</surname>
+<given-names>CG</given-names></string-name>, <string-name name-style="western"><surname>Ignatova</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Inhibition of C3 with pegcetacoplan results in normalization of hemolysis markers in paroxysmal nocturnal hemoglobinuria.</article-title>
+<source>Ann Hematol.</source>
+<year>2022</year>;<volume>101</volume>:<fpage>1971</fpage>-<lpage>1986</lpage>.<annotation><p><italic toggle="yes">(Among 23 previously untreated adults with PNH who were treated with pegcetacoplan for 1 year, mean hemoglobin levels rapidly rose into the normal range and therapy was generally well tolerated; there were no hepatic severe adverse events and no mention of serum ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">35869170</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.de_latour.2022.e648">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>de Latour</surname>
+<given-names>RP</given-names></string-name>, <string-name name-style="western"><surname>Szer</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Weitz</surname>
+<given-names>IC</given-names></string-name>, <string-name name-style="western"><surname>R&#x000f6;th</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>H&#x000f6;chsmann</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Panse</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Usuki</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pegcetacoplan versus eculizumab in patients with paroxysmal nocturnal haemoglobinuria (PEGASUS): 48-week follow-up of a randomised, open-label, phase 3, active-comparator, controlled trial.</article-title>
+<source>Lancet Haematol.</source>
+<year>2022</year>;<volume>9</volume>:<fpage>e648</fpage>-<lpage>e659</lpage>.<annotation><p><italic toggle="yes">(Among 80 adults with PNH and an incomplete response to eculizumab treated with pegcetacoplan or continued on eculizumab for 16 weeks [Hillmen 2021], 77 who were continued on open label pegcetacoplan for 32 weeks maintained a clinical response, while common treatment emergent adverse events included infusion site reactions [26%], hemolysis [19%], diarrhea [12%], fatigue [10%], headache [10%], and cough [10%], and there were no liver related serious adverse events and no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">36055332</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.heo.2022.1727">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heo</surname>
+<given-names>YA</given-names></string-name>. <article-title>Pegcetacoplan: A review in paroxysmal nocturnal haemoglobinuria.</article-title>
+<source>Drugs.</source>
+<year>2022</year>;<volume>82</volume>:<fpage>1727</fpage>-<lpage>1735</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, clinical efficacy, and safety of pegcetacoplan for PNH, describes its effects mediated by inhibition of C3, an upstream step in the complement cascade which may explain its superior efficacy compared to inhibitors of C5 [eculizumab and ravulizumab]; in short discussion of safety, no mention of ALT elevations or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36459381</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.wong.2023.2468">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Wong</surname>
+<given-names>RSM</given-names></string-name>, <string-name name-style="western"><surname>Navarro-Cabrera</surname>
+<given-names>JR</given-names></string-name>, <string-name name-style="western"><surname>Comia</surname>
+<given-names>NS</given-names></string-name>, <string-name name-style="western"><surname>Goh</surname>
+<given-names>YT</given-names></string-name>, <string-name name-style="western"><surname>Idrobo</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Kongkabpan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>G&#x000f3;mez-Almaguer</surname>
+<given-names>D</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pegcetacoplan controls hemolysis in complement inhibitor-naive patients with paroxysmal nocturnal hemoglobinuria.</article-title>
+<source>Blood Adv.</source>
+<year>2023</year>;<volume>7</volume>:<fpage>2468</fpage>-<lpage>2478</lpage>.<annotation><p><italic toggle="yes">(Among 26 adults with previously untreated PNH enrolled in two open label trials of pegcetacoplan, there was a rapid improvement in hemoglobin levels in all, but treatment emergent adverse events were frequent, and 3 participants discontinued therapy because of adverse events [hypersensitivity reaction, ovarian cancer, and aplastic anemia], but none were attribute to liver injury; no mention of ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">36848639</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF10">
+            <mixed-citation publication-type="journal"><article-title>Pegcetacoplan (Syfovre) for geographic atrophy in age-related macular degeneration.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>49</fpage>-<lpage>50</lpage>.<annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety, and costs of pegcetacoplan shortly after its approval as therapy of geographic atrophy in age-related macular degeneration given as intravitreal injections every one to two months, no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">37020339</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.heier.2023.1434">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Heier</surname>
+<given-names>JS</given-names></string-name>, <string-name name-style="western"><surname>Lad</surname>
+<given-names>EM</given-names></string-name>, <string-name name-style="western"><surname>Holz</surname>
+<given-names>FG</given-names></string-name>, <string-name name-style="western"><surname>Rosenfeld</surname>
+<given-names>PJ</given-names></string-name>, <string-name name-style="western"><surname>Guymer</surname>
+<given-names>RH</given-names></string-name>, <string-name name-style="western"><surname>Boyer</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Grossi</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>; <collab>OAKS and DERBY study investigators</collab>. <article-title>Pegcetacoplan for the treatment of geographic atrophy secondary to age-related macular degeneration (OAKS and DERBY): two multicentre, randomised, double-masked, sham-controlled, phase 3 trials.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>402</volume>(<issue>10411</issue>):<fpage>1434</fpage>-<lpage>1448</lpage>.<annotation><p><italic toggle="yes">(Among 1258 patients with age-related macular degeneration and geographic atrophy enrolled in two 24 month randomized, sham controlled trials of intravitreal injections of pegcetacoplan, there was a 16% to 22% slowing of growth of geographic atrophy lesions but no differences in visual function or acuity; no mention of ALT levels or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">37865470</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Pegcetacoplan.REF.patriquin.2024.2050">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Patriquin</surname>
+<given-names>CJ</given-names></string-name>, <string-name name-style="western"><surname>Bogdanovic</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Griffin</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kelly</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Maciejewski</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Mulherin</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Peffault de Latour</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety and efficacy of pegcetacoplan in adult patients with paroxysmal nocturnal hemoglobinuria over 48&#x000a0;weeks: 307 Open-Label Extension Study.</article-title>
+<source>Adv Ther.</source>
+<year>2024</year>;<volume>41</volume>:<fpage>2050</fpage>-<lpage>2069</lpage>.<annotation><p><italic toggle="yes">(Among 137 patients with PNH enrolled in a long term, open label, extension trial of pegcetacoplan, efficacy was maintained with hemoglobin levels rising from a mean of 8.9 to 11.6 g/dL, no transfusions were required in 83% of subjects, and no thrombotic events or meningococcal infections occurred; most severe adverse events were due to hemolysis breakthrough; no mention of ALT elevations or hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">38573482</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pegcetacoplan.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Pegcetacoplan/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pegcetacoplan: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pegcetacoplan">Trials on Pegcetacoplan: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

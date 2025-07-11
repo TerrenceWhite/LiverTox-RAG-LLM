@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Muromonab-CD3" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Muromonab-CD3</book-part-id>
+      <title-group>
+        <title>Muromonab-CD3</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MultipleSclerosisAge" document-type="chapter">Multiple Sclerosis Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="MuscleRelaxants" document-type="chapter">Muscle Relaxants</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Muromonab-CD3.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Muromonab-CD3.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Muromonab-CD3 is a mouse monoclonal antibody to CD3, often referred to as OKT3, which was withdrawn from use in 2010 but was previously used to treat acute cellular rejection after solid organ transplantation. Muromonab has been linked to mild and transient serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent liver injury. Muromonab is a potent immunosuppressive agent and might result in reactivation of hepatitis B in susceptible patients.</p>
+        </sec>
+        <sec id="Muromonab-CD3.Background">
+          <title>Background</title>
+          <p>Muromonab (mue&#x0201d; roe moe&#x02019; nab) is a mouse monoclonal immunoglobulin G2 antibody to CD3, a cell surface receptor found on T cells. Engagement of the receptor leads to T cell activation, but without secondary signals the binding results in blockage and T cell apoptosis. Infusions of muromonab lead to depletion of T cells and decrease in T cell activity which is the major cause of acute cellular rejection. Muromonab was approved for use in treating acute rejection after renal transplantation in 1985 and its indications were later broadened to include rejection after heart and liver transplantation. Muromonab was the first monoclonal antibody approved for use in humans and was widely used to treat acute rejection until safer biologics with similar activities that were humanized or fully human monoclonal antibodies. Because of the frequency of severe adverse reactions including cytokine storms syndrome, muromonab was withdrawn by its sponsor in 2010. Muromonab had also been used off label to prevent cellular rejection, given as induction therapy before and/or early after transplantation. The name &#x0201c;muromonab&#x0201d; represents a shortened form of &#x0201c;murine monoclonal antibody&#x0201d; and was assigned before the official WHO nomenclature for monoclonal antibodies was introduced. Muromonab-CD3 was previously available in liquid solution in 5 mL ampules of 5 mg under the brand name Orthoclone OKT3. The usual regimen in adults was 5 mg intravenously each day for 10 to 14 days. The pediatric dose (&#x0003c;30 kg) was 2.5 mg daily. Adverse events were common during muromonab therapy, but many were probably due to the underlying condition and other complications of organ transplantation. Muromonab is a mouse monoclonal antibody and hypersensitivity reactions and development of inactivating antibodies occurred not infrequently with its use. Furthermore, the initial engagement of CD3 receptors can result in a transient, acute release of proinflammatory cytokines (cytokine release syndrome) with symptoms of high fever, weakness, dyspnea, nausea, chest pain and diarrhea arising within the first two days of starting therapy. Less common, but potentially severe adverse reactions after muromonab therapy included bacterial and opportunistic infections, reactivation of viral infections (EBV, HSV, CMV, HBV, RSV, among others), acute thromboses, and malignancies, particularly EBV-associated lymphoproliferative disorders.</p>
+        </sec>
+        <sec id="Muromonab-CD3.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>When given as a part of induction therapy for solid organ transplantation, muromonab was linked to a low rate of transient serum enzyme elevations, which was similar to that which can occur with standard therapy. The serum enzyme elevations were generally mild-to-moderate and resolved spontaneously. Muromonab induction therapy was not been linked to instances of clinically apparent liver injury. Administration of muromonab as treatment of acute cellular rejection was commonly associated with acute infusion reactions, but was not convincingly linked to acute liver injury.</p>
+          <p>Muromonab is a potent immunosuppressive agent and may be capable of causing reactivation of chronic hepatitis B. However, when used in prevention of organ rejection, it was not linked to cases of reactivation, perhaps because patients at risk are routinely given prophylaxis and the role of muromonab versus other rejection medications (cyclosporine, tacrolimus, corticosteroids) was not clear.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Transplant_Drugs" document-type="chapter">Transplant Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object></p>
+          <p>Other Drugs in the Subclass, Monoclonal Antibodies: <related-object link-type="booklink" source-id="livertox" document-id="Alemtuzumab" document-type="chapter">Alemtuzumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Basiliximab" document-type="chapter">Basiliximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Daclizumab" document-type="chapter">Daclizumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Muromonab-CD3.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Muromonab-CD3 &#x02013; Orthoclone OKT3&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Transplant Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Muromonab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Muromonab-CD3.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Muromonab-CD3.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Muromonab-CD3.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Muromonab-CD3.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Muromonab-CD3.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Muromonab-CD3.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Muromonab-CD3.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Muromonab-CD3</td>
+                <td headers="hd_h_Muromonab-CD3.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135327398">140608-64-6</ext-link>
+</td>
+                <td headers="hd_h_Muromonab-CD3.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Muromonab-CD3.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Muromonab-CD3.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 December 2020</p>
+        <ref-list id="Muromonab-CD3.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Muromonab-CD3.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents mentions muromonab and problems of reactivation of hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.krensky.2018">
+            <mixed-citation publication-type="book">Krensky AM, Azzi JR, Hafler DA. Immunosuppressants and toleragens. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 637-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.ortho_multicenter_transplant_study_group.1985.337">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Ortho Multicenter Transplant Study Group</collab>
+</person-group>
+              <article-title>A randomized clinical trial of OKT3 monoclonal antibody for acute rejection of cadaveric renal transplants.</article-title>
+              <source>N Engl J Med</source>
+              <year>1985</year>
+              <volume>313</volume>
+              <fpage>337</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 123 patients with acute rejection after renal transplantation, 94% of muromonab [OKT3] vs 75% of high dose methylprednisolone recipients had reversal of the acute rejection; adverse events included acute infusion reactions [fever, chills, tremor, dyspnea, chest tightness, wheezing and nausea], no mention of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2861567</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.richards.1990.487">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Richards</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Vogelzang</surname><given-names>NJ</given-names></name>
+<name name-style="western"><surname>Bluestone</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Neurotoxicity after treatment with muromonab-CD3.</article-title>
+              <source>N Engl J Med</source>
+              <year>1990</year>
+              <volume>323</volume>
+              <fpage>487</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 13 patients treated with muromonab for refractory solid tumors, 11 developed signs of neurotoxicity, some with culture negative cerebral spinal fluid pleocytosis, all resolving rapidly with symptomatic therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2115619</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.swinnen.1990.1723">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Swinnen</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Costanzo-Nordin</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Fisher</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>O'Sullivan</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Heroux</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Dizikes</surname><given-names>GJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Increased incidence of lymphoproliferative disorder after immunosuppression with the monoclonal antibody OKT3 in cardiac-transplant recipients.</article-title>
+              <source>N Engl J Med</source>
+              <year>1990</year>
+              <volume>323</volume>
+              <fpage>1723</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis found that 9 of 79 [9%] heart transplant recipients treated with muromonab vs 1 of 75 who did not receive muromonab developed posttransplant lymphoproliferative disorder).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2100991</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.claesson.1992.314">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Claesson</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Tufveson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Wahlberg</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>Treatment with poly- and monoclonal antilymphocyte antibodies: assessment of efficacy and safety in transplantation.</article-title>
+              <source>Transplant Proc</source>
+              <year>1992</year>
+              <volume>24</volume>
+              <fpage>314</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 145 patients undergoing organ transplantation, graft survival and adverse events were similar in those who received antibody therapy of rejection and those who did not; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1539293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.norman.1993.44">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Norman</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Kahana</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Stuart</surname><given-names>FP</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Thistlethwaite</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Shield</surname><given-names>CF</given-names><suffix>3rd</suffix></name>
+<name name-style="western"><surname>Monaco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dehlinger</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized clinical trial of induction therapy with OKT3 in kidney transplantation.</article-title>
+              <source>Transplantation</source>
+              <year>1993</year>
+              <volume>55</volume>
+              <fpage>44</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 215 patients undergoing renal transplantation, use of muromonab as induction therapy was associated with fewer rejection episodes [51% vs 66%] and marginally improved graft-, but similar patient-survival; adverse events were more common with muromonab than conventional therapy, but were largely due to early infusion reactions [with fever, tachycardia, nausea and hypotension] and viral infections [herpes, CMV]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8420063</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.van_gelder.1996.51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Gelder</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Balk</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Jonkman</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Zietse</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zondervan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hesse</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Vaessen</surname><given-names>LM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized trial comparing safety and efficacy of OKT3 and a monoclonal anti-interleukin-2 receptor antibody (BT563) in the prevention of acute rejection after heart transplantation.</article-title>
+              <source>Transplantation</source>
+              <year>1996</year>
+              <volume>62</volume>
+              <fpage>51</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 60 patients undergoing heart transplantation randomized to receive either muromonab or a mouse monoclonal antibody to the IL2 receptor, infusion reactions were more common, and acute rejection episodes were delayed, but similar in frequency among the muromonab recipients; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8693545</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF9">
+            <element-citation publication-type="journal">
+              <article-title>New monoclonal antibodies to prevent transplant rejection.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>1998</year>
+              <volume>40</volume>
+              <issue>1036</issue>
+              <fpage>93</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the efficacy and safety of basiliximab and daclizumab, two monoclonal antibodies to the IL2 receptor, shortly after their approval for use in transplantation in the US; mentions that muromonab has been used for many years for treatment of transplant rejection and is used with some success to prevent rejection; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9774964</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.midtvedt.2003.69">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Midtvedt</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Fauchald</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lien</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hartmann</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Albrechtsen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bjerkely</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Leivestad</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Individualized T cell monitored administration of ATG versus OKT3 in steroid-resistant kidney graft rejection.</article-title>
+              <source>Clin Transplant</source>
+              <year>2003</year>
+              <volume>17</volume>
+              <fpage>69</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 55 patients undergoing renal transplantation treated with variable doses of either ATG or muromonab based upon T cell counts, rejection rates were similar as were adverse events; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12588325</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.sellers.2004.1212">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sellers</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>McGuire</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Haustein</surname><given-names>SV</given-names></name>
+<name name-style="western"><surname>Bynon</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Hunt</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Eckhoff</surname><given-names>DE</given-names></name>
+</person-group>
+              <article-title>Two-dose daclizumab induction therapy in 209 liver transplants: a single-center analysis.</article-title>
+              <source>Transplantation</source>
+              <year>2004</year>
+              <volume>78</volume>
+              <fpage>1212</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 352 liver transplant recipients, the 209 who received daclizumab induction therapy had lower rates of acute rejection [25% vs 39%] and hepatitis C recurrent rates were similar; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15502722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.morris.2005.340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Morris</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Hanson</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Steffen</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Chu</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Chi-Burris</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Gotz</surname><given-names>VP</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>RD</given-names></name>
+</person-group>
+              <article-title>Daclizumab is associated with decreased rejection and improved patient survival in renal transplant recipients.</article-title>
+              <source>Clin Transplant</source>
+              <year>2005</year>
+              <volume>19</volume>
+              <fpage>340</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of SRTR database on renal transplant recipients receiving daclizumab [n=8203] or no induction treatment [n=25368] in the US between 1998 and 2003 found lower reported rates of rejection [13% vs 17% after 3 years] and improved patient and graft survival, with no excess mortality from malignancy or opportunistic infections).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15877795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.chin.2005.477">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chin</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Pittson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Luikart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bernstein</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Robbins</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Reitz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Oyer</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Induction therapy for pediatric and adult heart transplantation: comparison between OKT3 and daclizumab.</article-title>
+              <source>Transplantation</source>
+              <year>2005</year>
+              <volume>80</volume>
+              <fpage>477</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comparison of daclizumab [n=40] to muromonab [n=40] as induction therapy to prevent rejection after heart transplantation found no difference in rates of rejection, but higher rates of adverse events with muromonab including infections [33%], anaphylaxis [10%], and single cases of rejection death and acute renal failure [2%]; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16123721</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.segovia.2006.1542">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Segovia</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Rodr&#x000ed;guez-Lambert</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Crespo-Leiro</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Almenar</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Roig</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>G&#x000f3;mez-S&#x000e1;nchez</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Lage</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A randomized multicenter comparison of basiliximab and muromonab (OKT3) in heart transplantation: SIMCOR study.</article-title>
+              <source>Transplantation</source>
+              <year>2006</year>
+              <volume>81</volume>
+              <fpage>1542</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 99 patients undergoing heart transplantation given therapy to prevent rejection with either basiliximab or muromonab, side effects were more common with muromonab and included fever [26%], pulmonary edema [10%], hypotension [8%], headache [4%], diarrhea, flushing, itching, confusion syndrome, nausea and vomiting; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16770243</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.cai.2010.1511">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cai</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Terasaki</surname><given-names>PI</given-names></name>
+</person-group>
+              <article-title>Induction immunosuppression improves long-term graft and patient outcome in organ transplantation: an analysis of United Network for Organ Sharing registry data.</article-title>
+              <source>Transplantation</source>
+              <year>2010</year>
+              <volume>90</volume>
+              <fpage>1511</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Since 2003, most solid organ transplant recipients have received induction therapy, and analyses of the UNOS registry for this period shows highest rates of patient and graft survival with alemtuzumab [89% 5 year patient survival] as compared to antithymocyte globulin [89%], basiliximab [84%], daclizumab [77%], steroids [75%] or no induction [71%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21057388</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Muromonab-CD3.REF.melis.2015.879">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Melis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Biagi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Sm&#x000e5;brekke</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Nonino</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Buccellato</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Donati</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Vaccheri</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Drug-induced progressive multifocal leukoencephalopathy: a comprehensive analysis of the WHO adverse drug reaction database.</article-title>
+              <source>CNS Drugs</source>
+              <year>2015</year>
+              <volume>29</volume>
+              <fpage>879</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2452 reports of progressive multifocal leukoencephalopathy submitted to the WHO Adverse Drug Database as of 2014, 343 different drugs were implicated, most commonly natalizumab [n=618], rituximab [519], methotrexate [244], cyclophosphamide [215], fludarabine [152], vincristine [125], prednisone [110] and mycophenolic acid [109], but also muromonab [12], basiliximab [4] and antithymocyte globulin [10]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26507833</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Muromonab-CD3.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Muromonab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Muromonab-CD3: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Muromonab">Trials on Muromonab-CD3: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

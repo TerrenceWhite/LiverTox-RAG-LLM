@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Umbralisib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Umbralisib</book-part-id>
+      <title-group>
+        <title>Umbralisib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ubrogepant" document-type="chapter">Ubrogepant</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Upadacitinib" document-type="chapter">Upadacitinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Umbralisib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Umbralisib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Umbralisib is an oral kinase inhibitor that is was given accelerated approved for use in adults with relapsed or refractory marginal zone and follicular lymphoma in 2021, but the approval was withdrawn a year later because of data from a trial showing excess mortality with its use. Umbralisib was associated with a modest rate of serum enzyme elevations during therapy but was not reported to cause clinically apparent acute liver with symptoms or jaundice.</p>
+        </sec>
+        <sec id="Umbralisib.Background">
+          <title>Background</title>
+          <p>Umbralisib (um" bra lis' ib) is an orally available, small molecule inhibitor of multiple kinases that play a role in B cell malignant cellular pathways and that was used in the therapy of refractory cases of marginal zone and follicular lymphoma. The kinases inhibited by umbralisib include phosphatidylinositol 3-kinase delta (PI3K&#x003b4;), which is an essential component in the B cell signaling pathways that drive migration of B cells to lymph nodes and bone marrow. This pathway is upregulated in many B cell malignancies and has been shown to be critical for proliferation and survival of leukemia and lymphomatous malignant B lymphocytes. Inhibition of this pathway inhibits B cell chemotaxis and adherence and reduces cell viability. Umbralisib also has activity against casein kinase epsilon which plays a role in protein synthesis and RNA translation and is altered in some malignancies. Other activities of umbralisib include inhibition of cell adhesion molecules and other kinases including BCR-ABL1. Studies in animal models and in early phase clinical trials showed that umbralisib had activity against several hematologic malignancies. Umbralisib was given tentative approval for use in the United States as therapy for refractory or relapsed marginal zone and follicular lymphoma after failure of one or more systemic therapies in February 2021. A little over a year later, FDA approval was withdrawn because of concerns about excess mortality in patients receiving Umbralisib in follow up clinical trials. The deaths on treatment were not liver related but the nature and relatedness of the mortality to umbralisib therapy was not well defined. Umbralisib was previously available in tablets of 200 mg under the brand name Ukoniq. The recommended dose was 800 mg once daily until disease progression or unacceptable toxicity. Side effects of umbralisib were common but usually mild-to-moderate in severity, and included fatigue, nausea, diarrhea, headache, musculoskeletal pain, stomatitis, fever, pain, rash, and infections. Common laboratory abnormalities included cytopenias, liver enzyme elevations, hyper- or hypo-glycemia, and hyponatremia. Severe potential adverse events included neutropenia, severe infections, severe diarrhea, allergic and hypersensitivity reactions, and embryo-fetal toxicity. Because of excess mortality among umbralisib- in comparison to placebo-treated patients, FDA approval was withdrawn in June 2022 and the product was withdrawn by the sponsor.</p>
+        </sec>
+        <sec id="Umbralisib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials of umbralisib in adults with lymphoma, the rates of serum enzyme elevations during therapy ranged from 15% to 35% and were above 5 times the ULN in 5% to 8% and occasionally above 20 times ULN (&#x0003c;1%). The aminotransferase elevations arose within 4 to 12 weeks of starting therapy in most instances and usually resolved without dose modification or temporary discontinuation. Nevertheless, there were no instances of serum enzyme elevations accompanied by jaundice and no liver related deaths.</p>
+          <p>Because umbralisib affects B cell function, it may also be capable of inducing reactivation of hepatitis B, although in published trials of the agent, instances of HBV reactivation were not reported.</p>
+          <p>Likelihood score: E* (unproven, but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Umbralisib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why umbralisib causes serum enzyme elevations is not known, but may be a direct toxicity to hepatocytes caused by inhibition of PI3K activity or the result of change in B cell activity and caused by induction of autoimmunity. Umbralisib is metabolized primarily by aldehyde oxidase which is present in many tissues, but highest concentrations are in the liver. The cytochrome P450 system plays a minor role in the metabolism (CYP 3A4) of umbralisib, but concentrations may be affected by drugs that induce or inhibit CYP 3A activity.</p>
+        </sec>
+        <sec id="Umbralisib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations were not uncommon during chemotherapy with umbralisib and were often dose limiting. The product label recommended that umbralisib not be used with other agents with hepatotoxic potential. Furthermore, regular monitoring of liver tests every 2 to 4 weeks was recommended during the first six months of umbralisib therapy and every 1 to 3 months thereafter, with more frequent monitoring if serum aminotransferase values rise. It was recommended that umbralisib be held if ALT or AST values rise above 5 times ULN, and treatment resumed only if and when values fall into the normal range and then with a reduced dose and careful monitoring. Elevations of aminotransferase values of more than 20 times the ULN, or appearance of jaundice or symptoms of liver injury were considered to require permanent discontinuation. There was no known cross sensitivity to hepatic injury between umbralisib and other protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other PI3 Kinase Inhibitor Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Alpelisib" document-type="chapter">Alpelisib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Copanlisib" document-type="chapter">Copanlisib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Duvelisib" document-type="chapter">Duvelisib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Idelalisib" document-type="chapter">Idelalisib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Umbralisib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Umbralisib &#x02013; Ukoniq&#x000ae; <italic toggle="yes">[On June 1, 2022, FDA approval was withdrawn due to safety concerns.]</italic></p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>COMPLETE LABELING <italic toggle="yes">[No Longer Available]</italic></p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Umbralisib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Umbralisib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Umbralisib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Umbralisib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Umbralisib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Umbralisib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Umbralisib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Umbralisib</td>
+                <td headers="hd_h_Umbralisib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://336270090">1532533-67-7</ext-link>
+</td>
+                <td headers="hd_h_Umbralisib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C31-H24-F3-N5-O</td>
+                <td headers="hd_h_Umbralisib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="336270090" document-id-type="sid" document-type="summary" object-id="336270090" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Umbralisib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 October 2023</p>
+        <p>Abbreviations: CLL, chronic lymphocytic leukemia; PI3K, phosphatidylinositol 3-kinase.</p>
+        <ref-list id="Umbralisib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Umbralisib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of small molecular weight kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Gefitinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; does not discuss umbralisib or other PI3K inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213176Orig1Orig2s000TOC.cfm">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213176Orig1Orig2s000TOC.cfm</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of umbralisib; states that the overall objective response rate was 49% in adults with refractory marginal zone lymphoma [n=69] and the serious adverse event rate [n=371 in a pooled safety cohort] was 26% resulting in discontinuation in 15%, while ALT elevations arose in 15-17%, which were above 5 times ULN in 7-8% and led to discontinuation in 3%, but there were instances of liver injury with jaundice or deaths from liver failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.furman.2014.997">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Furman</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Sharman</surname>
+<given-names>JP</given-names></string-name>, <string-name name-style="western"><surname>Coutre</surname>
+<given-names>SE</given-names></string-name>, <string-name name-style="western"><surname>Cheson</surname>
+<given-names>BD</given-names></string-name>, <string-name name-style="western"><surname>Pagel</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Hillmen</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Barrientos</surname>
+<given-names>JC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Idelalisib and rituximab in relapsed chronic lymphocytic leukemia.</article-title>
+<source>N Engl J Med</source>
+<year>2014</year>; <volume>370</volume>: <fpage>997</fpage>-<lpage>1007</lpage>.<annotation><p><italic toggle="yes">(Among 220 patients with relapsed CLL treated in a placebo controlled trial, progression free survival improved with idelalisib and rituximab compared to rituximab alone, but side effects were more common with the combination including ALT or AST elevations [35% vs 19%], which were above 5 times ULN in 5% vs 1% and led to drug discontinuations in some patients, but there were no clinically apparent cases of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24450857</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.curigliano.2019.247">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Curigliano</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Shah</surname>
+<given-names>RR</given-names></string-name>. <article-title>Safety and Tolerability of phosphatidylinositol-3-kinase (PI3K) inhibitors in oncology.</article-title>
+<source>Drug Saf.</source>
+<year>2019</year>;<volume>42</volume>:<fpage>247</fpage>-<lpage>262</lpage>.<annotation><p><italic toggle="yes">(Review of the safety of PI3K inhibitors which are associated with serious adverse events in up to 60% of patients, more commonly when given in combination with other antineoplastic agents, with both infectious and immune related events which can be severe and involve skin [Stevens Johnson syndrome], lung [pneumonitis], colon [colitis], and liver [usually aminotransferase elevations]).</italic></p></annotation><pub-id pub-id-type="pmid">30649751</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.burris.2018.486">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Burris</surname>
+<given-names>HA</given-names>
+<suffix>3rd</suffix></string-name>, <string-name name-style="western"><surname>Flinn</surname>
+<given-names>IW</given-names></string-name>, <string-name name-style="western"><surname>Patel</surname>
+<given-names>MR</given-names></string-name>, <string-name name-style="western"><surname>Fenske</surname>
+<given-names>TS</given-names></string-name>, <string-name name-style="western"><surname>Deng</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Brander</surname>
+<given-names>DM</given-names></string-name>, <string-name name-style="western"><surname>Gutierrez</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Umbralisib, a novel PI3K&#x003b4; and casein kinase-1&#x003b5; inhibitor, in relapsed or refractory chronic lymphocytic leukaemia and lymphoma: an open-label, phase 1, dose-escalation, first-in-human study.</article-title>
+<source>Lancet Oncol.</source>
+<year>2018</year>;<volume>19</volume>:<fpage>486</fpage>-<lpage>496</lpage>.<annotation><p><italic toggle="yes">(Among 90 patients with various forms of refractory or relapsed lymphoma or leukemia enrolled in a phase 1 dose escalating study of umbralisib [50 to 1800 mg daily] in 28 day cycles, the optimal dose identified was 800 mg daily and common adverse events included diarrhea, nausea, fatigue, myelosuppression and infections; 7 patients developed liver enzyme elevations which were above 5 times the ULN in 3 and led to drug discontinuation in 2 patients).</italic></p></annotation><pub-id pub-id-type="pmid">29475723</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.davids.2019.e38">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Davids</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>HT</given-names></string-name>, <string-name name-style="western"><surname>Nicotra</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Savell</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Francoeur</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Hellman</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Bazemore</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>; <collab>Blood Cancer Research Partnership of the Leukemia and Lymphoma Society</collab>. <article-title>Umbralisib in combination with ibrutinib in patients with relapsed or refractory chronic lymphocytic leukaemia or mantle cell lymphoma: a multicentre phase 1-1b study.</article-title>
+<source>Lancet Haematol.</source>
+<year>2019</year>;<volume>6</volume>:<fpage>e38</fpage>-<lpage>e47</lpage>.<annotation><p><italic toggle="yes">(Among 42 patients with refractory or relapsed chronic lymphocytic leukemia [CLL] or mantle cell lymphoma treated with umbralisib [400, 600 or 800 mg daily] and ibrutinib [420 or 560 mg daily] for a median of 22 months, the overall response rate was 90% for CLL and 67% for mantle cell lymphoma, while adverse events were common and included ALT or AST elevations in 24% which were above 5 times the ULN in only 1 patient [2% ]).</italic></p></annotation><pub-id pub-id-type="pmid">30558987</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.mato.2021.2817">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Mato</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Ghosh</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Schuster</surname>
+<given-names>SJ</given-names></string-name>, <string-name name-style="western"><surname>Lamanna</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Pagel</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Flinn</surname>
+<given-names>IW</given-names></string-name>, <string-name name-style="western"><surname>Barrientos</surname>
+<given-names>JC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Phase 2 study of the safety and efficacy of umbralisib in patients with CLL who are intolerant to BTK or PI3K&#x003b4; inhibitor therapy.</article-title>
+<source>Blood.</source>
+<year>2021</year>;<volume>137</volume>:<fpage>2817</fpage>-<lpage>2826</lpage>.<annotation><p><italic toggle="yes">(Among 51 adults with refractory chronic lymphocytic leukemia [CLL] who were switched to umbralisib, progression free survival was 24 months and adverse events included pneumonia, neutropenia, rash, and diarrhea, while ALT or AST elevations occurred in 14% which were above 5 times ULN in 6% and led to dose interruptions but no discontinuations, and no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">33259589</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.fowler.2021.1609">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fowler</surname>
+<given-names>NH</given-names></string-name>, <string-name name-style="western"><surname>Samaniego</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Ghosh</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Derenzini</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Reeves</surname>
+<given-names>JA</given-names></string-name>, <string-name name-style="western"><surname>Knopi&#x00144;ska-Pos&#x00142;uszny</surname>
+<given-names>W</given-names></string-name>, <etal>et al.</etal>
+<article-title>Umbralisib, a dual PI3K&#x003b4;/CK1&#x003b5; Inhibitor in patients with relapsed or refractory indolent lymphoma.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>1609</fpage>-<lpage>1618</lpage>.<annotation><p><italic toggle="yes">(Among 208 adults with refractory lymphomas treated with umbralisib [800 mg daily] for a median of 28 months, the overall response rate was 86%, while 99% had at least one adverse event, most commonly diarrhea [59%], nausea [39%], fatigue [31%], cough {20%], but also rash [2%] and ALT elevations [20%], which were above 5 times ULN in 7% and led to early discontinuation in 2.4%, but there were no liver enzyme elevations accompanied by jaundice or liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">33683917</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.smith.2021.1671">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Smith</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>Gopal</surname>
+<given-names>AK</given-names></string-name>. <article-title>Umbralisib: walking the tightrope of PI3K inhibition in indolent NHL.</article-title>
+<source>J Clin Oncol.</source>
+<year>2021</year>;<volume>39</volume>:<fpage>1671</fpage>-<lpage>1673</lpage>.<annotation><p><italic toggle="yes">(Editorial in response to Fowler et al [2021] mentions that umbralisib has specificity for the delta [&#x003b4;} isoform of PI3K kinase which is found in hematopoietic cells and plays a critical role in B cell development and function, suggesting that umbralisib may have higher potency and fewer adverse effects that more non-specific anti-PI3K inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">33861621</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.roskoski.2021.105579">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Roskoski</surname>
+<given-names>R</given-names>
+<suffix>Jr</suffix></string-name>. <article-title>Properties of FDA-approved small molecule phosphatidylinositol 3-kinase inhibitors prescribed for the treatment of malignancies.</article-title>
+<source>Pharmacol Res.</source>
+<year>2021</year>;<volume>168</volume>:<elocation-id>105579</elocation-id>.<annotation><p><italic toggle="yes">(Comprehensive review of the structure, function, clinical efficacy, indications, and status of the PI3K inhibitors currently approved and in use in the US, including idelalisib [2014], copanlisib [2017], duvelisib [2018], alpelisib [2019] and umbralisib [2021, withdrawn 2022]).</italic></p></annotation><pub-id pub-id-type="pmid">33774181</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.davids.2021.5332">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Davids</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>O'Connor</surname>
+<given-names>OA</given-names></string-name>, <string-name name-style="western"><surname>Jurczak</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Samaniego</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Fenske</surname>
+<given-names>TS</given-names></string-name>, <string-name name-style="western"><surname>Zinzani</surname>
+<given-names>PL</given-names></string-name>, <string-name name-style="western"><surname>Patel</surname>
+<given-names>MR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Integrated safety analysis of umbralisib, a dual PI3K&#x003b4;/CK1&#x003b5; inhibitor, in relapsed/refractory lymphoid malignancies.</article-title>
+<source>Blood Adv.</source>
+<year>2021</year>;<volume>5</volume>:<fpage>5332</fpage>-<lpage>5343</lpage>.<annotation><p><italic toggle="yes">(Analysis of pooled results from 4 open label trials of umbralisib in 371 adults with various forms of refractory or relapsed non-Hodgkin&#x02019;s lymphoma found adverse event rate of 99% overall with the most common being diarrhea [52%], nausea [42%], and fatigue [32%] and any ALT or AST elevation in 63 patients [17%] which were above 5 times ULN in 7%, but there were no treatment related deaths and no instances of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">34547767</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.dhillon.2021.857">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Keam</surname>
+<given-names>SJ</given-names></string-name>. <article-title>Umbralisib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>857</fpage>-<lpage>866</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacodynamics, clinical efficacy and safety of umbralisib shortly after its approval for use in the US, mentions that ALT elevations arise in up to 33% of patients and are above 5 times ULN in 8% leading to early discontinuation in 5%).</italic></p></annotation><pub-id pub-id-type="pmid">33797740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Umbralisib.REF.fda_1">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.fda.gov/drugs/drug-safety-and-availability/fda-approval-lymphoma-medicine-ukoniq-umbralisib-withdrawn-due-safety-concerns">https://www.fda.gov/drugs/drug-safety-and-availability/fda-approval-lymphoma-medicine-ukoniq-umbralisib-withdrawn-due-safety-concerns</ext-link><annotation><p><italic toggle="yes">(FDA letter announcing the withdrawal of approval of umbralisib due to the finding of excess mortality in a controlled trial of the combination of umbralisib with ublituximab [U2] compared to standard therapy for lymphoma; the sponsor also announced the voluntary withdrawal of umbralisib).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Umbralisib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Umbralisib/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Umbralisib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Umbralisib">Trials on Umbralisib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

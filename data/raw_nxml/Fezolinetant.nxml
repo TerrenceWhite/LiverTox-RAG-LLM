@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fezolinetant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fezolinetant</book-part-id>
+      <title-group>
+        <title>Fezolinetant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>10</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fexofenadine" document-type="chapter">Fexofenadine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fibrates" document-type="chapter">Fibrates</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fezolinetant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fezolinetant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fezolinetant is an orally available neurokinin 3 receptor antagonist that is used to treat women with vasomotor symptoms (such as hot flashes) due to menopause. Fezolinetant is associated with a low rate of serum aminotransferase elevations during therapy and has been linked to rare instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Fezolinetant.Background">
+          <title>Background</title>
+          <p>Fezolinetant (fez oh&#x02019; lin eh tant) is a neurokinin 3 (NK3) receptor antagonist that is used to treat moderate-to-severe vasomotor symptoms due to menopause. The neurokinin 3 receptor is found on neurons in the thermoregulatory center of the brain, is activated by binding to neurokinin B, and is inhibited by circulating estrogen levels. During menopause, estrogen levels fall, and neurokinin B binding is unopposed, which leads to altered thermoregulation manifested by hot flashes, episodes of sensations of heat in the upper body lasting 1 to 5 minutes arising multiple times per day and which can be accompanied by flushing, chills, perspiration, clamminess and anxiety, symptoms that can interfere with activities of daily living and quality of life. Conventional therapy of menopausal vasomotor symptoms is estrogen replacement, which is effective but can be associated with adverse events including an increased risk of hormone-sensitive cancers. Fezolinetant is a small molecule, nonhormonal inhibitor of neurokinin binding and has been shown to decrease both the frequency and the severity of the vasomotor symptoms. Fezolinetant was approved for use in the United States in 2019 and is available in tablets of 45 mg under the brand name Veozah. The recommended dose is 45 mg daily. Current indications are for moderate-to-severe vasomotor symptoms due to menopause. Contraindications include cirrhosis, end-stage renal disease, and concurrent therapy with inhibitors of CYP 1A2, the cytochrome P450 enzyme primarily responsible for its metabolism. Fezolinetant is generally well tolerated. Side effects can include serum aminotransferase elevations, abdominal pain, diarrhea, insomnia, and back pain.</p>
+        </sec>
+        <sec id="Fezolinetant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration clinical trials, serum ALT or AST elevations above 3 times the upper limit of normal (ULN) occurred in 2.3% of patients taking fezolinetant vs 0.9% of placebo recipients. The elevations were largely asymptomatic and transient, resolving promptly after stopping therapy and sometimes despite drug continuation. Nevertheless, the elevations appeared to be related to therapy and arose most frequently during the first few months of treatment. More striking elevations arose in early phase trials using higher doses of fezolinetant. Bilirubin elevations were rare and there were no instances of clinically apparent liver injury with jaundice in preregistration clinical studies even with high doses. However, within a year of its approval, a case of mixed-cholestatic hepatitis with symptoms and jaundice occurred in a patient taking fezolinetant. The episode arose within 54 days of starting fezolinetant and resolved once the drug was stopped. Because of this case, the warning about drug induced liver injury was strengthened, and more explicit recommendations were made regarding prescreening and monitoring patients in the product label of fezolinetant.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fezolinetant.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>The mechanism by which fezolinetant might cause liver injury is unclear, but it may be dose related and direct hepatotoxicity. Fezolinetant is metabolized in the liver primarily by CYP 1A2 and inhibitors of this isoenzyme (such as cimetidine and ciprofloxacin) can result in higher drug levels and possibly increased rate of adverse events.</p>
+        </sec>
+        <sec id="Fezolinetant.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for fezolinetant has a warning about drug induced liver injury and recommends assessing symptoms and laboratory features of liver disease before starting therapy and monitoring routine liver tests thereafter monthly for 3 months, again at 6 and 9 months, thereafter if signs of symptoms of liver injury arise. Fezolinetant should be discontinued if ALT or AST levels rise to above 5 times ULN or above 3 times ULN if symptoms or jaundice are present. Patients found to have serum aminotransferase elevations should be followed more carefully until they resolve. Fezolinetant is contraindicated in women with cirrhosis or renal failure and should be used with caution in those with liver test abnormalities at baseline.</p>
+          <p>Drug Class: Obstetrical and Gynecological Agents</p>
+          <p>Other Menopausal Symptom Agents: <related-object link-type="booklink" source-id="livertox" document-id="Estrogens" document-type="book-part">Estrogens</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fezolinetant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Fezolinetant &#x02013; Veozah&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Obstetrical and Gynecological Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fezolinetant">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Fezolinetant.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fezolinetant.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Fezolinetant.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fezolinetant.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fezolinetant.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fezolinetant.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fezolinetant.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Fezolinetant</td>
+                <td headers="hd_h_Fezolinetant.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://315496205">1629229-37-3</ext-link>
+</td>
+                <td headers="hd_h_Fezolinetant.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C16-H15-FN6-OS</td>
+                <td headers="hd_h_Fezolinetant.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="315496205" document-id-type="sid" document-type="summary" object-id="315496205" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fezolinetant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 October 2024</p>
+        <p>Abbreviations: NK3, neurokinin 3.</p>
+        <ref-list id="Fezolinetant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fezolinetant.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of NK3 receptor antagonists).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF2">
+            <mixed-citation publication-type="web">FDA. Clinical Review. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216578Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216578Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product label and integrated clinical review of data on fezolinetant provided by the sponsor in support of its approval as therapy of the vasomotor symptoms of menopause, mentions that in a pooled analysis of 3 randomized, placebo controlled trials, serum aminotransferase elevations above 3 times the upper limit of normal [ULN] occurred in 2.3% of fezolinetant- [n=1100] vs 0.9% of placebo-recipients [n=952], but that no patient developed liver injury with jaundice, and the abnormalities resolved with dose interruption or discontinuation. Nevertheless, the FDA recommended a warning about drug induced liver injury and monitoring of liver tests during therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.depypere.2019.5893">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Depypere</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Timmerman</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Donders</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Sieprath</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Ramael</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Combalbert</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Hoveyda</surname>
+<given-names>HR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Treatment of menopausal vasomotor symptoms with fezolinetant, a neurokinin 3 receptor antagonist: a phase 2a trial.</article-title>
+<source>J Clin Endocrinol Metab.</source>
+<year>2019</year>;<volume>104</volume>:<fpage>5893</fpage>-<lpage>5905</lpage>.<annotation><p><italic toggle="yes">(Among 87 women with vasomotor symptoms due to menopause treated with fezolinetant [90 mg] or placebo twice daily for 12 weeks, the frequency and severity of vasomotor symptoms decreased with fezolinetant treatment within 1-2 weeks and relapsed at a similar rate upon stopping, while adverse event rates were similar in the two groups except for gastrointestinal complaints [14% vs none] and ALT elevations [11% vs 2%], all of the latter being transient, less than 3 times ULN, and not requiring dose adjustment or discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">31415087</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.fraser.2020.382">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fraser</surname>
+<given-names>GL</given-names></string-name>, <string-name name-style="western"><surname>Lederman</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Waldbaum</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Kroll</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Santoro</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Skillern</surname>
+<given-names>L</given-names></string-name>, <etal>et al.</etal>
+<article-title>A phase 2b, randomized, placebo-controlled, double-blind, dose-ranging study of the neurokinin 3 receptor antagonist fezolinetant for vasomotor symptoms associated with menopause.</article-title>
+<source>Menopause.</source>
+<year>2020</year>;<volume>27</volume>:<fpage>382</fpage>-<lpage>392</lpage>.<annotation><p><italic toggle="yes">(Among 352 women with moderate-to-severe vasomotor symptoms due to menopause treated with varying doses of fezolinetant [15 to 90 mg twice daily or 30 to 120 mg once daily] or placebo for 12 weeks, vasomotor symptoms were reduced in frequency and severity with all regimens compared to placebo, and total adverse event rates were similar, but ALT or AST elevations arose in 9 [3%] patients on fezolinetant and were above 8 times ULN in 3 who were receiving 60 mg or more daily; all abnormalities resolved once drug was stopped and there were no ALT elevations accompanied by jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">32102086</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.fraser.2021.e3519">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fraser</surname>
+<given-names>GL</given-names></string-name>, <string-name name-style="western"><surname>Obermayer-Pietsch</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Laven</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Griesinger</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Pintiaux</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Timmerman</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Fauser</surname>
+<given-names>BCJM</given-names></string-name>, <etal>et al.</etal>
+<article-title>Randomized controlled trial of neurokinin 3 receptor antagonist fezolinetant for treatment of polycystic ovary syndrome.</article-title>
+<source>J Clin Endocrinol Metab.</source>
+<year>2021</year>;<volume>106</volume>:<fpage>e3519</fpage>-<lpage>e3532</lpage>.<annotation><p><italic toggle="yes">(Among 73 women with polycystic ovary syndrome treated with fezolinetant [60 or 180 mg] or placebo once daily for 12 weeks, FSH and LH levels were suppressed in a dose-dependent manner with fezolinetant and therapy was well tolerated, there were &#x0201c;no clinically relevant changes in clinical laboratory parameters&#x0201d; and &#x0201c;treatment-emergent ALT increases&#x02026;were equally distributed over the treatment groups&#x0201d;, only one fezolinetant treated patient had an ALT elevation above 3 times ULN and it resolved spontaneously without dose adjustment).</italic></p></annotation><pub-id pub-id-type="pmid">34000049</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.nealperry.2023.737">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Neal-Perry</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Cano</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lederman</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Nappi</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Santoro</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Wolfman</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>English</surname>
+<given-names>M</given-names></string-name>, <etal>et al.</etal>
+<article-title>Safety of fezolinetant for vasomotor symptoms associated with menopause: a randomized controlled trial.</article-title>
+<source>Obstet Gynecol.</source>
+<year>2023</year>;<volume>141</volume>:<fpage>737</fpage>-<lpage>747</lpage>.<annotation><p><italic toggle="yes">(Among 1830 women with vasomotor symptoms due to menopause treated with fezolinetant [30 or 45 mg] or placebo once daily for 52 weeks, total and severe adverse event rates were similar in the 3 groups as were discontinuations for adverse events; ALT and AST elevations of greater than 3 times ULN were uncommon [1.4% and 2.0% vs 1.0%], and no patient developed clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">36897180</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.lederman.2023.1091">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lederman</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ottery</surname>
+<given-names>FD</given-names></string-name>, <string-name name-style="western"><surname>Cano</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Santoro</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Shapiro</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stute</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Thurston</surname>
+<given-names>RC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Fezolinetant for treatment of moderate-to-severe vasomotor symptoms associated with menopause (SKYLIGHT 1): a phase 3 randomised controlled study.</article-title>
+<source>Lancet.</source>
+<year>2023</year>;<volume>401</volume>:<fpage>1091</fpage>-<lpage>1102</lpage>.<annotation><p><italic toggle="yes">(Among 527 women with moderate-to-severe vasomotor symptoms due to menopause treated with fezolinetant [30 or 45 mg] or placebo once daily for 12 weeks, followed by an extension study in which all received fezolinetant, improvements in frequency and severity of vasomotor symptoms were greater with fezolinetant, arising within 1 week of starting and maintained for 52 weeks, while adverse events were similar in the 3 groups, ALT elevations during the 12 week period arose in 4 [2.3%] patients on placebo and 4 [1.1%] on fezolinetant, which were above 3 times ULN in 0.6% of both groups).</italic></p></annotation><pub-id pub-id-type="pmid">36924778</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF8">
+            <mixed-citation publication-type="journal"><article-title>Fezolinetant (Veozah) for menopausal vasomotor symptoms.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>97</fpage>-<lpage>99</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of fezolinetant, mentions that therapy can cause serum aminotransferase elevations and patients should be monitored for liver function and injury tests at baseline and at regular times thereafter).</italic></p></annotation><pub-id pub-id-type="pmid">37339088</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.johnson.2023.1981">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Johnson</surname>
+<given-names>KA</given-names></string-name>, <string-name name-style="western"><surname>Martin</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Nappi</surname>
+<given-names>RE</given-names></string-name>, <string-name name-style="western"><surname>Neal-Perry</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Shapiro</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Stute</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Thurston</surname>
+<given-names>RC</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of fezolinetant in moderate to severe vasomotor symptoms associated with menopause: a phase 3 RCT.</article-title>
+<source>J Clin Endocrinol Metab.</source>
+<year>2023</year>;<volume>108</volume>:<fpage>1981</fpage>-<lpage>1997</lpage>.<annotation><p><italic toggle="yes">(Among 501 women with moderate-to-severe vasomotor symptoms due to menopause treated with fezolinetant [30 or 45 mg] or placebo once daily for 12 weeks and then continued on either 30 or 45 mg of fezolinetant, treatment led to a rapid decrease in frequency and severity of vasomotor symptoms which was maintained during extended therapy, and ALT elevations above 3 times ULN arose in 5 [1.5%] on fezolinetant and 1 [0.6%] on placebo, but all abnormalities resolved and there were no instances of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">36734148</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.lee.2023.1137">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lee</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Fezolinetant: first approval.</article-title>
+<source>Drugs.</source>
+<year>2023</year>;<volume>83</volume>:<fpage>1137</fpage>-<lpage>1141</lpage>.<annotation><p><italic toggle="yes">(Summary of the mechanism of action, history of development, pharmacology, clinical efficacy, and safety of fezolinetant shortly after its approval in the US, mentions that total and serious adverse event rates were similar in fezolinetant- and placebo-treated subjects and that adverse events more frequent with fezolinetant included abdominal pain [4.3% vs 2.1%], diarrhea [3.9% vs 2.6%], insomnia [3.9% vs 1.8%], back pain [3.0% vs 2.1%], hot flush [2.5% vs 1.6%], and serum aminotransferase elevations [2.3% vs 0.8%]).</italic></p></annotation><pub-id pub-id-type="pmid">37462862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF11">
+            <mixed-citation publication-type="journal"><article-title>Drugs for menopausal symptoms.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2024</year>;<volume>66</volume>:<fpage>33</fpage>-<lpage>38</lpage>.<annotation><p><italic toggle="yes">(Concise review of drugs that are approved for therapy of genitourinary and vasomotor symptoms related to menopause, briefly discusses fezolinetant, a nonhormonal therapy for vasomotor symptoms, which can cause adverse events such as abdominal pain, diarrhea, insomnia, back pain, and hepatic aminotransferase elevations).</italic></p></annotation><pub-id pub-id-type="pmid">38412276</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Fezolinetant.REF.rani.2024">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rani</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Zehra</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Mansoor</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Rani</surname>
+<given-names>P.</given-names></string-name>
+<article-title>FDA approved fezolinetant (Veozah): a critical evaluation of its efficacy and safety for menopausal vasomotor symptoms, calling for prospective research.</article-title>
+<source>Arch Womens Ment Health.</source>
+<year>2024</year>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Short review of the data on efficacy and safety of fezolinetant that supported the FDA decision for its approval as therapy of women with moderate-to-severe vasomotor symptoms due to menopause, mentions that serum aminotransferase elevations arose in a small proportion of treated patients [2.3%] but there were no cases of liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">38478035</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Fezolinetant.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Fezolinetant/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Fezolinetant: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fezolinetant">Trials on Fezolinetant: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Enfortumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Enfortumab</book-part-id>
+      <title-group>
+        <title>Enfortumab Vedotin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>11</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Enflurane" document-type="chapter">Enflurane</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Enfuvirtide" document-type="chapter">Enfuvirtide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Enfortumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Enfortumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Enfortumab vedotin is a human monoclonal antibody conjugate that is used in the therapy of refractory, locally advanced or metastatic urothelial cancer. Enfortumab vedotin has been linked to transient, mild-to-moderate serum enzyme elevations during therapy but has not been implicated in instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Enfortumab.Background">
+          <title>Background</title>
+          <p>Enfortumab (en for&#x02019; tue mab) vedotin (ve doe&#x02019; tin) is a human monoclonal antibody to Nectin-4, a cell adhesion molecule that is highly expressed on urothelial carcinoma cells and that appears to contribute to cancerous cell growth and proliferation. The monoclonal antibody is conjugated using a linker sequence to a cytotoxic molecule, vedotin monomethyl auristatin E (MMAE) that disturbs microtubule formation resulting in cell-cycle arrest and apoptosis. When enfortumab binds to Nectin-4, it is internalized and the vedotin is released by the action of lysosomal enzymes, which cleave the short linker molecule that joins the antibody and the cytotoxic molecule. Once released, the intracellular vedotin binds to microtubules preventing their participation in cell division resulting in apoptotic cell death of the rapidly dividing malignant urothelial cells. This monoclonal antibody conjugate has been shown to be effective in inducing remissions in patients with locally advanced or metastatic urothelial cancer who previously have been treated with platinum-containing regimens and check point inhibitors. Combined with pembrolizumab (a check point inhibitor monoclonal antibody to PD-1), enfortumab vedotin also demonstrated efficacy in patients with advanced or metastatic urothelial cancer who are not eligible to receive the cisplatin-containing regimens. Enfortumab vedotin was given accelerated approval for these indications in the United States in 2019. It is available as lyophilized powder for reconstitution in single dose vials of 20 and 30 mg under the brand name Padcev. The typical recommended dose regimen is 1.25 mg/kg (up to 125 mg) administered by intravenous infusion on days 1, 8 and 15 of 28-day cycles or (when given with pembrolizumab) on days 1 and 8 of 21-day cycles and continued until disease progression or unacceptable toxicity. Side effects are common and may include infusion reactions, nausea, abdominal pain, anorexia, weakness, fatigue, headache, dizziness, itching, alopecia, peripheral neuropathy, dry eyes, dry skin, and rash. Enfortumab vedotin can also cause myelosuppression and decreases in hemoglobin, white cells, and platelets, as well as increases in liver enzymes, creatinine, urate, and lipase. Less common, but potentially serious side effects include peripheral neuropathy, hypersensitivity reactions, severe myelosuppression, pneumonia, interstitial lung disease, and fetal-embryonal toxicity. Enfortumab vedotin should be administered only by physicians with training and expertise in cancer chemotherapy and management of its potential adverse effects.</p>
+        </sec>
+        <sec id="Enfortumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration trials of enfortumab vedotin, serum aminotransferase elevations occurred in 20% to 40% of patients with ALT levels above 5 times ULN in only 3%, leading to dose interruptions in 2% and permanent discontinuations in 1%. Nevertheless, there were no instances of clinically apparent liver injury with jaundice. The product label for enfortumab vedotin mentions ALT and AST elevations as occurring during therapy, which are probably more frequent in those who are also receiving pembrolizumab. After its approval and more widespread use, there have been no instances of clinically apparent liver injury reported in the literature, but several instances of suspected liver injury from enfortumab vedotin have been reported to the FDA.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically significant liver injury).</p>
+        </sec>
+        <sec id="Enfortumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations during enfortumab vedotin therapy is not known, but it is likely due to direct toxicity of the vedotin conjugate rather than the monoclonal antibody. Because enfortumab vedotin is sometimes given with pembrolizumab, instances of immune mediated liver injury are likely to occur with therapy, but probably are due to the checkpoint inhibitor rather than the monoclonal conjugate.</p>
+        </sec>
+        <sec id="Enfortumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for enfortumab vedotin does not recommend routine monitoring of liver tests, and aminotransferase elevations that occur with therapy are generally transient, mild and asymptomatic and rarely require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal, if detected, should lead to more careful monitoring and suspension of further infusions, at least until levels return to normal or near normal levels. Elevations above 20 times the ULN or any elevation accompanied by jaundice or symptoms should lead to prompt permanent discontinuation.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="book-part">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="book-part">Monoclonal Antibodies</related-object>,</p>
+          <p>Other Monoclonal Antibody Conjugates: Ado-Trastuzumab Emtansine, Benlantamab Mafodotin, Brentuximab Vedotin, Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Polatuzumab Vedotin, Sacituzumab Govitecan, Tisotumab Vedotin, Trastuzumab Deruxtecan</p>
+        </sec>
+      </sec>
+      <sec id="Enfortumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Enfortumab Vedotin &#x02013; Padcev&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Enfortumab%20Vedotin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Enfortumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Enfortumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Enfortumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Enfortumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Enfortumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Enfortumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Enfortumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Enfortumab Vedotin</td>
+                <td headers="hd_h_Enfortumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/Enfortumab-Vedotin">1346452-25-2</ext-link>
+</td>
+                <td headers="hd_h_Enfortumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Enfortumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Enfortumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 November 2023</p>
+        <ref-list id="Enfortumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Enfortumab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761137Orig1s000MultiDiscliplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761137Orig1s000MultiDiscliplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with product labels and initial multidiscipline review of enfortumab vedotin mentions that in the total safety cohort of 310 patients, ALT elevations occurred in 34% of patients and were above 5 times ULN in 3%, led to dose interruption in 2%, and discontinuation in 1% but there were no cases of clinically apparent liver injury with jaundice attributed to therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.rosenberg.2019.2592">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Rosenberg</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>O'Donnell</surname>
+<given-names>PH</given-names></string-name>, <string-name name-style="western"><surname>Balar</surname>
+<given-names>AV</given-names></string-name>, <string-name name-style="western"><surname>McGregor</surname>
+<given-names>BA</given-names></string-name>, <string-name name-style="western"><surname>Heath</surname>
+<given-names>EI</given-names></string-name>, <string-name name-style="western"><surname>Yu</surname>
+<given-names>EY</given-names></string-name>, <string-name name-style="western"><surname>Galsky</surname>
+<given-names>MD</given-names></string-name>, <etal>et al.</etal>
+<article-title>Pivotal trial of enfortumab vedotin in urothelial carcinoma after platinum and anti-programmed death 1/programmed death ligand 1 therapy.</article-title>
+<source>J Clin Oncol.</source>
+<year>2019</year>;<volume>37</volume>:<fpage>2592</fpage>-<lpage>2600</lpage>.<annotation><p><italic toggle="yes">(Among 125 patients with refractory or relapsed, locally advanced or metastatic urothelial cancer treated with enfortumab vedotin, the objective response rate was 44%, while adverse events occurred in most patients including fatigue in 50%, alopecia 49%, decreased appetite 44%, dysgeusia 40%, and peripheral neuropathy 40%, leading to dose reductions in 32% and discontinuation in 12%; ALT elevations arose in 20% that were above 5 times ULN in 2).</italic></p></annotation><pub-id pub-id-type="pmid">31356140</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.joubert.2020.245">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Joubert</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Beck</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Dumontet</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Denevault-Sabourin</surname>
+<given-names>C.</given-names></string-name>
+<article-title>Antibody-drug conjugates: the last decade.</article-title>
+<source>Pharmaceuticals (Basel)</source>. <year>2020</year>;<volume>13</volume>:<fpage>245</fpage>.<annotation><p><italic toggle="yes">(Review of the development, structure, efficacy, adverse event rates and approval of vector-based chemotherapy using selective delivery by a monoclonal antibody and cancer cell injury by a conjugated cellular toxin [payload] including nine that are FDA approved and six others in pivotal trials).</italic></p></annotation><pub-id pub-id-type="pmid">32937862</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.powles.2021.1125">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Powles</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Rosenberg</surname>
+<given-names>JE</given-names></string-name>, <string-name name-style="western"><surname>Sonpavde</surname>
+<given-names>GP</given-names></string-name>, <string-name name-style="western"><surname>Loriot</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Dur&#x000e1;n</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Matsubara</surname>
+<given-names>N</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enfortumab vedotin in previously treated advanced urothelial carcinoma.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>384</volume>:<fpage>1125</fpage>-<lpage>1135</lpage>.<annotation><p><italic toggle="yes">(Among 608 patients with refractory, locally advanced or metastatic urothelial carcinoma treated with enfortumab vedotin [1.25 mg/kg on days 1, 8 and 15 of 28-day cycles] or standard chemotherapy, median overall survival was 13 vs 9 months and overall response rates were 41% vs 18%, and while adverse event rates were similar, enfortumab treated subjects had a higher rate of serious adverse events [46% vs 44%], peripheral sensory neuropathy {46% vs 31%], hyperglycemia [6.4% vs 0.3%], and withdrawal of therapy for ALT elevations [2% vs 0.3% ]; one patient receiving enfortumab died of hepatic dysfunction [no details provided]).</italic></p></annotation><pub-id pub-id-type="pmid">33577729</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.yu.2021.872">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Yu</surname>
+<given-names>EY</given-names></string-name>, <string-name name-style="western"><surname>Petrylak</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>O'Donnell</surname>
+<given-names>PH</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>van der Heijden</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Loriot</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Stein</surname>
+<given-names>MN</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enfortumab vedotin after PD-1 or PD-L1 inhibitors in cisplatin-ineligible patients with advanced urothelial carcinoma (EV&#x02011;201): a multicentre, single-arm, phase 2 trial.</article-title>
+<source>Lancet Oncol.</source>
+<year>2021</year>;<volume>22</volume>:<fpage>872</fpage>-<lpage>882</lpage>.<annotation><p><italic toggle="yes">(Among 89 adults with advanced urothelial carcinoma refractory to therapy with PD-L1 or PD-1 and who were ineligible for cisplatin and were treated with enfortumab vedotin, the overall response rate was 52% and progression free survival 5.8 months, while adverse events were frequent including alopecia in 53%, sensory peripheral neuropathy 44%, ALT elevations 7%, and which were above 5 times ULN in 1%).</italic></p></annotation><pub-id pub-id-type="pmid">33991512</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.hoimes.2023.22">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hoimes</surname>
+<given-names>CJ</given-names></string-name>, <string-name name-style="western"><surname>Flaig</surname>
+<given-names>TW</given-names></string-name>, <string-name name-style="western"><surname>Milowsky</surname>
+<given-names>MI</given-names></string-name>, <string-name name-style="western"><surname>Friedlander</surname>
+<given-names>TW</given-names></string-name>, <string-name name-style="western"><surname>Bilen</surname>
+<given-names>MA</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Srinivas</surname>
+<given-names>S</given-names></string-name>, <etal>et al.</etal>
+<article-title>Enfortumab vedotin plus pembrolizumab in previously untreated advanced urothelial cancer.</article-title>
+<source>J Clin Oncol.</source>
+<year>2023</year>;<volume>41</volume>:<fpage>22</fpage>-<lpage>31</lpage>.<annotation><p><italic toggle="yes">(Among 45 adults with advanced or metastatic urothelial cancer ineligible to receive cisplatin who were treated with enfortumab vedotin and pembrolizumab, the objective response rate was 73% and adverse events were considered &#x0201c;manageable&#x0201d;, with sensory neuropathy developing in 56%, fatigue in 51%, alopecia in 49%, and ALT elevations in 20%, none of which were above 5 times ULN or associated with symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">36041086</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.fu.2023.107778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Fu</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Gao</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Wu</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>
+<given-names>C</given-names></string-name>. <article-title>Peripheral neuropathy associated with monomethyl auristatin E-based antibody-drug conjugates.</article-title>
+<source>iScience.</source>
+<year>2023</year>;<volume>26</volume>:<elocation-id>107778</elocation-id>.<annotation><p><italic toggle="yes">(Rates of peripheral neuropathy are higher with antineoplastic monoclonal antibody conjugates with microtubule inhibitors such as vedotin compared to other cytotoxins, overall rates ranging from 8% to 66%, severe rates from &#x0003c;1% to 12%, caused probably by release of the monomethyl auristatin E toxin from the targeted cells to the systemic circulation or by direct uptake of the monoclonal conjugate by peripheral nerve Schwann cells).</italic></p></annotation><pub-id pub-id-type="pmid">37727735</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Enfortumab.REF.sun.2023.1">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Sun</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>
+<given-names>J.</given-names></string-name>
+<article-title>A pharmacovigilance study on drug-induced liver injury associated with antibody-drug conjugates (ADCs) based on the Food and Drug Administration Adverse Event Reporting System.</article-title>
+<source>Expert Opin Drug Saf.</source>
+<year>2023</year>
+<month>Oct</month>
+<day>29</day>:<fpage>1</fpage>-<lpage>12</lpage>. <comment>Epub ahead of print</comment>.<annotation><p><italic toggle="yes">(Analysis of the FDA reporting system [FAERS] for cases of drug induced liver injury submitted between 2004 and 2022, found 17,784 reports, 504 [3%] attributed to antibody-drug conjugates, 202 from the US, the implicated agents being gemtuzumab ozogamicin [n=98], brentuximab vedotin [n=37], trastuzumab emtansine [n=25], enfortumab vedotin [n=16], inotuzumab ozogamicin [n=15], transtuzumab deruxtecan [n=8], and polatuzumab vedotin [3]).</italic></p></annotation><pub-id pub-id-type="pmid">37898875</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Enfortumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Enfortumab+AND+Verdotin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Enfortumab Verdotin: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Enfortumab%20Verdotin">Trials on Enfortumab Verdotin: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

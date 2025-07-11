@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tafamidis" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tafamidis</book-part-id>
+      <title-group>
+        <title>Tafamidis</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>2</month>
+          <year>2025</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tadalafil" document-type="chapter">Tadalafil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tafasitamab" document-type="chapter">Tafasitamab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tafamidis.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tafamidis.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tafamidis is transthyretin stabilizer used for the treatment of adults with the cardiomyopathy of wild-type and hereditary transthyretin-mediated amyloidosis to reduce cardiovascular morbidity and mortality. Tafamidis has been associated with minor liver test abnormalities during therapy but has not been linked instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Tafamidis.Background">
+          <title>Background</title>
+          <p>Tafamidis (ta fam&#x02019; id is&#x0201d;) is a stabilizer of transthyretin, a serum protein made in the liver whose major function is transport of vitamin A and thyroxine. Rare mutations in the transthyretin gene result in misfolding of the protein and accumulation of large amyloid deposits of transthyretin molecules, most prominently in peripheral nerves and the heart. Patients with hereditary transthyretin amyloidosis typically present with polyneuropathy or autonomic dysfunction followed by cardiomyopathy, which if untreated is usually fatal within 5 to 12 years. Rarely, wild-type transthyretin can also result in overproduction and deposition of misfolded transthyretin in amyloid clusters in peripheral nerves and heart. Tafamidis causes stabilization of the transthyretin molecule in its full tetrameric form which is less likely to misfold and create amyloid clusters. In preregistration placebo controlled trials, tafamidis increased transthyretin levels in its stable form, decreased all-cause mortality and cardiovascular hospitalizations, and improved overall quality of life. Tafamidis was approved for use in the United States as treatment of the cardiomyopathy of hereditary transthyretin mediated amyloidosis in adults in 2019. It is available in two forms, as capsules of 61 mg of tafamidis under the brand name Vyndamax and as capsules of 20 mg of tafamidis meglumine under the brand name Vyndaqel. The recommended dose is 61 mg (1 capsule) daily of tafamidis or 80 mg (4 capsules) daily of tafamidis meglumine. In clinical trials of tafamidis, side effects were uncommon and similar in overall frequency to those of placebo. Transthyretin functions as a carrier and transporter of vitamin A and thyroxine, and therapy with tafamidis can alter serum concentrations of these molecules, but does not appear to affect thyroid function or vitamin A status.</p>
+        </sec>
+        <sec id="Tafamidis.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the registration trials of tafamidis, ALT elevations arose in 5.7% and 4.6% of tafamidis meglumine recipients vs 2.3% on placebo and were above 3 times ULN in 0% and 2.3% vs 0.6%. However, no patient developed ALT elevations accompanied by jaundice or clinically apparent liver injury attributed to the medication. Since its approval, clinical experience with tafamidis has been limited, but there have been no published case reports of clinically apparent liver injury attributed to its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tafamidis.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which tafamidis might cause liver injury is not clear. Tafamidis is a small molecule that binds to transthyretin and is probably metabolized by glucuronidation. It does not appear to have significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Tafamidis.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on tafamidis therapy were generally mild and not accompanied by symptoms or jaundice. Persistent ALT or AST elevations arising during therapy should lead to evaluation of their possible causes. There is no information on cross sensitivity to liver injury among the various other therapies for transthyretin-associated amyloidosis.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+          <p>Drugs for Hereditary Transthyretin Amyloidosis: <related-object link-type="booklink" source-id="livertox" document-id="Acoramidis" document-type="book-part">Acoramidis</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Eplontersen" document-type="book-part">Eplontersen</related-object>, Inotersen, <related-object link-type="booklink" source-id="livertox" document-id="Patisiran" document-type="book-part">Patisiran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vutrisiran" document-type="book-part">Vutrisiran</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tafamidis.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tafamidis &#x02013; Vyndamax&#x000ae;, [Meglumine] Vyndaqel&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Agents for genetic diseases</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tafamidis">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tafamidis.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tafamidis.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tafamidis.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tafamidis.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tafamidis.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tafamidis.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tafamidis.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tafamidis</td>
+                <td headers="hd_h_Tafamidis.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">594839-88-0</td>
+                <td headers="hd_h_Tafamidis.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H7-Cl2-NO3</td>
+                <td headers="hd_h_Tafamidis.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135262853" document-id-type="sid" document-type="summary" object-id="135262853" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tafamidis.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 February 2025</p>
+        <p>Abbreviations: siRNA, small interfering RNA.</p>
+        <ref-list id="Tafamidis.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tafamidis.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of antisense therapies such as eplontersen).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217388Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217388Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with the product labels and integrated review of the data on efficacy and safety provided by the sponsor in support of approval of tafamidis as therapy of polyneuropathy due to transthyretin amyloidosis mentions that mild-to-moderate elevations in serum aminotransferase or alkaline phosphatase levels arose in 7.6% of tafamidis vs 6.7% of placebo recipients, but there were no ALT elevations above 3 times ULN and no cases of drug induced liver injury or aminotransferase elevations accompanied by jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.maurer.2015.519">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Grogan</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Judge</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Mundayat</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Packman</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lombardo</surname>
+<given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Quyyumi</surname>
+<given-names>AA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Tafamidis in transthyretin amyloid cardiomyopathy: effects on transthyretin stabilization and clinical outcomes.</article-title>
+<source>Circ Heart Fail.</source>
+<year>2015</year>;<volume>8</volume>:<fpage>519</fpage>-<lpage>26</lpage>.<annotation><p><italic toggle="yes">(Among 31 patients with wild-type transthyretin-mediated amyloidosis cardiomyopathy treated with tafamidis [20 mg daily] for 12 months, most patients had transthyretin stability and most adverse events were due to the underlying disease; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25872787</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.barroso.2017.194">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Barroso</surname>
+<given-names>FA</given-names></string-name>, <string-name name-style="western"><surname>Judge</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Ebede</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Stewart</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Amass</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Sultan</surname>
+<given-names>MB</given-names></string-name>. <article-title>Long-term safety and efficacy of tafamidis for the treatment of hereditary transthyretin amyloid polyneuropathy: results up to 6 years.</article-title>
+<source>Amyloid.</source>
+<year>2017</year>;<volume>24</volume>:<fpage>194</fpage>-<lpage>204</lpage>.<annotation><p><italic toggle="yes">(Among 93 patients with transthyretin-mediated amyloidosis with polyneuropathy enrolled in an 18 month controlled trial followed by an open label extension study for a total of up to 6 years, &#x0201c;therapy was generally well tolerated with no unexpected adverse events&#x0201d;, while ALT elevations occurred in only 3 patients [4%], none of which were accompanied with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">28758793</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.maurer.2018.1007">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Schwartz</surname>
+<given-names>JH</given-names></string-name>, <string-name name-style="western"><surname>Gundapaneni</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Elliott</surname>
+<given-names>PM</given-names></string-name>, <string-name name-style="western"><surname>Merlini</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Waddington-Cruz</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Kristen</surname>
+<given-names>AV</given-names></string-name>, <etal>et al.</etal>; <collab>ATTR-ACT Study Investigators</collab>. <article-title>Tafamidis treatment for patients with transthyretin amyloid cardiomyopathy.</article-title>
+<source>N Engl J Med.</source>
+<year>2018</year>;<volume>379</volume>:<fpage>1007</fpage>-<lpage>1016</lpage>.<annotation><p><italic toggle="yes">(Among 441 patients with transthyretin-amyloidosis cardiomyopathy treated with tafamidis [20 or 80 mg] or placebo once daily, all-cause mortality was less with tafamidis [30% vs 43%] as was the worsening of signs and symptoms of cardiomyopathy, while adverse event rates were similar, and &#x0201c;results of laboratory analyses related to safety did not differ between the tafamidis and placebo groups&#x0201d; and &#x0201c;hepatobiliary disorders&#x0201d; arose in 9.5% vs 8.5% of patients [no details provided]).</italic></p></annotation><pub-id pub-id-type="pmid">30145929</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF6">
+            <mixed-citation publication-type="journal"><article-title>In brief: Tafamidis (Vyndaqel; Vyndamax) for transthyretin amyloid cardiomyopathy.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2020</year>;<volume>62</volume>(<issue>1590</issue>):<fpage>16</fpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of tafamidis shortly after its approval in the US, mentions that the efficacy and adverse events of both doses of tafamidis [20 and 80 mg daily] were similar to those of placebo).</italic></p></annotation><pub-id pub-id-type="pmid">31999671</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.damy.2021.277">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Damy</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Garcia-Pavia</surname>
+<given-names>P</given-names></string-name>, <string-name name-style="western"><surname>Hanna</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Judge</surname>
+<given-names>DP</given-names></string-name>, <string-name name-style="western"><surname>Merlini</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gundapaneni</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Patterson</surname>
+<given-names>TA</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of tafamidis doses in the Tafamidis in Transthyretin Cardiomyopathy Clinical Trial (ATTR-ACT) and long-term extension study.</article-title>
+<source>Eur J Heart Fail.</source>
+<year>2021</year>;<volume>23</volume>:<fpage>277</fpage>-<lpage>285</lpage>.<annotation><p><italic toggle="yes">(Further follow up of patients enrolled in the registration trial of tafamidis vs placebo [Maurer 2018] showed a continued efficacy of the two doses of tafamidis and the &#x0201c;incidence of adverse events in both tafamidis doses were comparable to placebo&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">33070419</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.aimo.2022.655">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Aimo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Castiglione</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Rapezzi</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Franzini</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Panichella</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Vergaro</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gillmore</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>RNA-targeting and gene editing therapies for transthyretin amyloidosis.</article-title>
+<source>Nat Rev Cardiol.</source>
+<year>2022</year>;<volume>19</volume>:<fpage>655</fpage>-<lpage>667</lpage>.<annotation><p><italic toggle="yes">(Review of the molecular approaches to therapy of transthyretin related amyloidosis including small interfering RNA [siRNA, patisiran, vutrisiran], antisense RNA [inotersen, eplontersen], CRISPR-Cas9 therapy, and molecular stabilization agents [acoramidis, tafamidis], some of which have been linked to minor serum aminotransferase elevations during therapy [vutrisiran, eplontersen], but not to clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">35322226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.maurer.2022.s23">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Overview of current and emerging therapies for amyloid transthyretin cardiomyopathy.</article-title>
+<source>Am J Cardiol.</source>
+<year>2022</year>;<volume>185</volume>
+<supplement>Suppl 1</supplement>:<fpage>S23</fpage>-<lpage>S34</lpage>.<annotation><p><italic toggle="yes">(Review of approaches to therapy of amyloid transthyretin cardiomyopathy including the transthyretin stabilizers [tafamidis, acoramidis] and transthyretin gene silencing or knockdown agents [patisiran, vutrisiran, inotersen, eplontersen, CRISPR-Cas9]; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">36371281</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Tafamidis.REF.ruberg.2024.778">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ruberg</surname>
+<given-names>FL</given-names></string-name>, <string-name name-style="western"><surname>Maurer</surname>
+<given-names>MS</given-names></string-name>. <article-title>Cardiac amyloidosis due to transthyretin protein: a review.</article-title>
+<source>JAMA</source>. <year>2024</year>;<volume>331</volume>:<fpage>778</fpage>-<lpage>791</lpage>.<annotation><p><italic toggle="yes">(Review of the pathogenesis, genetics, clinical features, diagnosis, and treatment of transthyretin-mediated amyloidosis cardiomyopathy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38441582</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tafamidis.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tafamidis/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tafamidis: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tafamidis">Trials on Tafamidis: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

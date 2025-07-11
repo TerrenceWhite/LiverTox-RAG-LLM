@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Daprodustat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Daprodustat</book-part-id>
+      <title-group>
+        <title>Daprodustat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dantrolene" document-type="chapter">Dantrolene</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dapsone" document-type="chapter">Dapsone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Daprodustat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Daprodustat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Daprodustat is an orally available small molecule inhibitor of hypoxia-inducible factor prolyl hydroxylase that is used to treat the anemia of chronic renal disease in patients on dialysis. Daprodustat is associated with a low rate of transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Daprodustat.Background">
+          <title>Background</title>
+          <p>Daprodustat (dap&#x0201d; roe doo&#x02019; stat) is an orally available, specific inhibitor of hypoxia-inducible factor prolyl hydroxylase that is used to treat patients with anemia and chronic renal disease on dialysis. Hypoxia-inducible factor 1&#x003b1; and 1&#x003b2; are subunits of a heterodimeric small transcription factor HIF1, which are constitutively produced at low levels, and in response to hypoxia they are free to dimerize and induce the expression of genes that cause increase in erythropoietin and subsequent increase in hemoglobin. With normal oxygen tension, propyl hydrolase inactivates HIF1&#x003b1; and causes its degradation preventing it from dimerizing with HIF 1&#x003b2;, and as a result erythropoiesis is not increased. By inhibiting prolyl hydroxylase, daprodustat mimics hypoxic conditions and causes an increase in erythropoietin and increased erythropoiesis. In several animal models of chronic renal disease and anemia, daprodustat was found to increase erythropoietin and hemoglobin levels. In an open label trial in adult patients with chronic renal disease and anemia who were on dialysis, daily oral doses of daprodustat resulted in increases in hemoglobin levels similar to those induced by injections of recombinant forms of erythropoietin. A similar result was shown in renal disease patients with anemia who were not on dialysis, but in this group, there was a slight but significant increase in cancers, increased tumor progression, and cancer recurrences with daprodustat in comparison to recombinant erythropoietin. Based upon these results, daprodustat was given accelerated approval as therapy of adults with renal disease and anemia but only those who were on dialysis. Daprodustat is available in tablets of 1, 2, 4, 6 and 8 mg under the brand name Jesduvroq. The recommended starting dose is based upon hemoglobin levels, liver function, and concomitant medications. The dose is then adjusted based upon hemoglobin levels and tolerance (maximum 24 mg once daily). Adverse events are frequent in patients with renal failure on hemodialysis, but adverse events that appear more frequently on daprodustat therapy include hypertension, gastrointestinal erosions, hypersensitivity reactions, and rash. Uncommon and potentially severe adverse events include retinal hemorrhage, thromboembolic events (such as vascular access thrombosis and cerebral infarction), increase risk of death from myocardial infarction or stoke, worsening of heart failure, and possibly increased risk of malignancy. These uncommon but severe adverse events may also be increased with chronic therapy with erythropoietin.</p>
+        </sec>
+        <sec id="Daprodustat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the open label prelicensure clinical trials of daprodustat in patients with renal disease, serum aminotransferase elevations 3 times the upper limit of normal (ULN) or above occurred in 1.7% of subjects, and elevations of 5 times ULN or above in 1.1%. However, similar rates of ALT and AST elevations occurred in placebo and erythropoietin treated participants. The elevations were typically mild and transient and there were no instances of serum aminotransferase elevations with jaundice that were attributed to daprodustat therapy. Since approval and more widescale availability of daprodustat, there have been no published reports of clinically apparent liver injury associated with its use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Daprodustat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of mild serum enzyme elevations during daprodustat therapy is not known but is possibly due to the underlying chronic renal disease, its management, and complications. Daprodustat is metabolized in the liver by the cytochrome P450 system, predominantly CYP 2D8, and serum levels can be affected by agents that inhibit (such as gemfibrozil and clopidogrel) or induce (such as rifampin) this microsomal drug metabolizing enzyme.</p>
+        </sec>
+        <sec id="Daprodustat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Monitoring of serum aminotransferase levels and routine liver tests is recommended for patients starting daprodustat, and liver chemistries should be repeated during therapy if symptoms or signs of liver injury arise. De novo elevations in serum aminotransferase levels above 5 times the upper limit of normal should lead to at least temporary cessation of drug and search for other causes. If serum enzyme elevations do not resolve or if symptoms of liver injury or jaundice arise, daprodustat should be discontinued.</p>
+          <p>Drug Class: Hematologic Agents, <related-object link-type="booklink" source-id="livertox" document-id="HematologicGrowthFac" document-type="book-part">Hematologic Growth Factors</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ErythropoiesisStimul" document-type="book-part">Erythropoiesis Stimulating Agents</related-object></p>
+          <p>Other Erythropoiesis Stimulating Agents: Epoetin, Darbepoetin, Peginesatide</p>
+        </sec>
+      </sec>
+      <sec id="Daprodustat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Daprodustat &#x02013; Jesduvroq&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Hematologic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Daprodustat">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Daprodustat.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Daprodustat.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Daprodustat.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Daprodustat.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Daprodustat.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Daprodustat.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Daprodustat.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Daprodustat</td>
+                <td headers="hd_h_Daprodustat.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://249807670">960539-70-2</ext-link>
+</td>
+                <td headers="hd_h_Daprodustat.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H27-N3-O6</td>
+                <td headers="hd_h_Daprodustat.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="249807670" document-id-type="sid" document-type="summary" object-id="249807670" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Daprodustat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 July 2024</p>
+        <p>Abbreviations used: ULN, upper limit of normal.</p>
+        <ref-list id="Daprodustat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Daprodustat.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of daprodustat or erythropoietin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF2">
+            <mixed-citation publication-type="web">FDA. Integrated Review. 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216951Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216951Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA drug approvals website that has product labels [package inserts], letters of approval, and full FDA scientific review of the new drug application of daprodustat for safety and efficacy, mentions that de novo ALT and AST elevations arose in less than 2% of patients on daprodustat, and similar rates were found among subjects receiving placebo or erythropoietin, and specific review found no evidence of drug induced liver injury, but still recommended that patients have routine liver tests monitored before starting treatment and again during therapy if signs or symptoms of liver disease arise).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF.meadowcroft.2019.139">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Meadowcroft</surname>
+<given-names>AM</given-names></string-name>, <string-name name-style="western"><surname>Cizman</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Holdstock</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Biswas</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Johnson</surname>
+<given-names>BM</given-names></string-name>, <string-name name-style="western"><surname>Jones</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Nossuli</surname>
+<given-names>AK</given-names></string-name>, <etal>et al.</etal>
+<article-title>Daprodustat for anemia: a 24-week, open- label, randomized controlled trial in participants on hemodialysis.</article-title>
+<source>Clin Kidney J.</source>
+<year>2019</year>;<volume>12</volume>:<fpage>139</fpage>-<lpage>148</lpage>.<annotation><p><italic toggle="yes">(Among 216 patients with anemia and chronic renal disease on dialysis treated with one of five doses of daprodustat [4,6,8,10,12 mg] vs placebo daily for 4 weeks after withdrawal of erythropoietin therapy, there were dose related changes in hemoglobin levels [from -0.29 to +0.69 vs -0.11 g/dL in controls] but rates were similar for total adverse events [73% vs 79%] and serious adverse events [18% vs 26%], symptoms more frequent with daprodustat were diarrhea, nausea, and hypertension; and &#x0201c;no adverse trends were noted for clinical laboratory values&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">30746141</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF.dhillon.2020.1491">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dhillon</surname>
+<given-names>S.</given-names></string-name>
+<article-title>Daprodustat: first approval.</article-title>
+<source>Drugs.</source>
+<year>2020</year>;<volume>80</volume>:<fpage>1491</fpage>-<lpage>1497</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of daprodustat shortly after its approval as therapy of anemia in chronic renal disease in Japan, mentions that adverse events included retinal hemorrhage, hypersensitivity reactions, and hypertension; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">32880805</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF.singh.2021.2313">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Singh</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Carroll</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>McMurray</surname>
+<given-names>JJV</given-names></string-name>, <string-name name-style="western"><surname>Solomon</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Jha</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Johansen</surname>
+<given-names>KL</given-names></string-name>, <string-name name-style="western"><surname>Lopes</surname>
+<given-names>RD</given-names></string-name>, <etal>et al.</etal>; <collab>ASCEND-ND Study Group</collab>. <article-title>Daprodustat for the treatment of anemia in patients not undergoing dialysis.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>; <volume>385</volume>:<fpage>2313</fpage>-<lpage>2324</lpage>.<annotation><p><italic toggle="yes">(Among 3872 patients with chronic renal disease not on dialysis treated with oral daprodustat daily or darbopoetin injections every 1 to 2 weeks for 52 weeks, changes in hemoglobin levels were similar in both groups [+0.74 vs +0.66 g/dL], and adverse event rates were similar as well for major cardiovascular and thrombotic outcomes, but cancer related deaths and tumor progression and recurrence were more frequent with daprodustat; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34739196</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF.singh.2021.2325">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Singh</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Carroll</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Perkovic</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Solomon</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Jha</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Johansen</surname>
+<given-names>KL</given-names></string-name>, <string-name name-style="western"><surname>Lopes</surname>
+<given-names>RD</given-names></string-name>, <etal>et al.</etal>; <collab>ASCEND-D Study Group</collab>. <article-title>Daprodustat for the treatment of anemia in patients undergoing dialysis.</article-title>
+<source>N Engl J Med.</source>
+<year>2021</year>;<volume>385</volume>:<fpage>2325</fpage>-<lpage>2335</lpage>.<annotation><p><italic toggle="yes">(Among 2914 patients with anemia and chronic renal disease on dialysis treated with oral daprodustat daily or injectable erythropoietin for 52 weeks, changes in hemoglobin levels were similar in the two groups [+0.28 vs +0.10 g/dL] as well as rates of total adverse events [88% vs 85%], severe adverse events [52% vs 51%], major cardiovascular events and thrombotic events; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">34739194</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF.coyne.2022.1325">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Coyne</surname>
+<given-names>DW</given-names></string-name>, <string-name name-style="western"><surname>Singh</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Lopes</surname>
+<given-names>RD</given-names></string-name>, <string-name name-style="western"><surname>Bailey</surname>
+<given-names>CK</given-names></string-name>, <string-name name-style="western"><surname>DiMino</surname>
+<given-names>TL</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Connaire</surname>
+<given-names>J</given-names></string-name>, <etal>et al.</etal>
+<article-title>Three times weekly dosing of daprodustat versus conventional epoetin for treatment of anemia in hemodialysis patients: ASCEND-TD: a phase 3 randomized, double-blind, noninferiority trial.</article-title>
+<source>Clin J Am Soc Nephrol.</source>
+<year>2022</year>;<volume>17</volume>:<fpage>1325</fpage>-<lpage>1336</lpage>.<annotation><p><italic toggle="yes">(Among 407 patients with chronic renal disease and anemia treated with daprodustat orally 3 times weekly or erythropoietin 3 times weekly for 52 weeks, the two groups both had maintenance of baseline hemoglobin levels and similar adverse event rates [75% vs 79%] and &#x0201c;review of clinical laboratory values&#x02026;revealed no notable differences between groups&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">35918106</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF.singh.2022.592">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Singh</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Cizman</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Carroll</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>McMurray</surname>
+<given-names>JJV</given-names></string-name>, <string-name name-style="western"><surname>Perkovic</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Jha</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Johansen</surname>
+<given-names>KL</given-names></string-name>, <etal>et al.</etal>
+<article-title>Efficacy and safety of daprodustat for treatment of anemia of chronic kidney disease in incident dialysis patients: A randomized clinical Trial.</article-title>
+<source>JAMA Intern Med.</source>
+<year>2022</year>;<volume>182</volume>:<fpage>592</fpage>-<lpage>602</lpage>.<annotation><p><italic toggle="yes">(Among 312 patients with chronic renal disease and anemia starting or newly started on dialysis treated with daprodustat orally once daily or darbepoetin subcutaneously every 2 weeks for 52 weeks, changes in hemoglobin levels were similar in both groups [9.46 to 10.5 g/dL vs 9.49 to 10.6 g/dL] as were total adverse events [76% vs 72%] and serious adverse events [both 33%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">35377393</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Daprodustat.REF9">
+            <mixed-citation publication-type="journal"><article-title>Daprodustat (Jesduvroq) for anemia of chronic kidney disease.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<volume>2024</volume>;<issue>66</issue>(<year>1696</year>):<fpage>25</fpage>-<lpage>27</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of daprodustat shortly after its approval in the US for patients with anemia due to chronic renal disease who are on dialysis; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38412265</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Daprodustat.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Daprodustat+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Daprodustat: from PubMed.gov</ext-link></p>
+        <p>2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Daprodustat">Trials on Daprodustat: from ClinicalTrials.gov</ext-link></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

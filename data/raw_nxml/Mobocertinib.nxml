@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Mobocertinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Mobocertinib</book-part-id>
+      <title-group>
+        <title>Mobocertinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Mitoxantrone" document-type="chapter">Mitoxantrone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ModafinilArmodafinil" document-type="chapter">Modafinil</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Mobocertinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Mobocertinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Mobocertinib is an oral tyrosine kinase receptor inhibitor that targets the epidermal growth factor receptor (EGFR) and was given accelerated approved for use in refractory, advanced or metastatic non-small cell lung cancer with EGFR exon 20 insertion mutations in 2021, but was subsequently withdrawn from use in October 2023 because of lack of efficacy found in a subsequent phase 3 controlled trial. Serum aminotransferase elevations occurred in 20% of patients treated with mobocertinib, but no episodes of clinically apparent liver injury with jaundice have been reported with its use.</p>
+        </sec>
+        <sec id="Mobocertinib.Background">
+          <title>Background</title>
+          <p>Mobocertinib (moe&#x0201d; boe cer&#x02019; ti nib) is an orally available tyrosine kinase inhibitor that targets both wild type and mutant forms of the epidermal growth factor receptor (EGFR), which are found in patients with highly treated, resistant forms of advanced or metastatic cancer such as non-small cell lung cancer (NSCLC). Mobocertinib has potent specificity against exon 20 insertion mutations of EGFR and its use is generally limited to NSCLC with these highly resistant mutants after therapy with first- or second-line therapies for NSCLC such as platinum based regimens and other EGFR inhibitors. Mobocertinib was granted accelerated approval in the United States in 2021 for adults with refractory, advanced or metastatic NSCLC with documented EGFR exon 20 insertion mutations, the first oral drug to be approved for this indication. Mobocertinib became available in capsules of 40 mg under the brand name Exkivity. The recommended starting dose was 160 mg orally once daily to be continued until disease progression or unacceptable toxicity. Mobocertinib was voluntarily withdrawn from use by the sponsor after initial results from a phase 3 clinical trial failed to show a significant effect on progression-free survival. Side effects were common during mobocertinib therapy, requiring dose interruptions in half of treated patients, dose reductions in 25%, and permanent discontinuation in 17%. Common adverse events included diarrhea, nausea, vomiting, decreased appetite, fatigue, pruritis, rash, paronychia, musculoskeletal pains, and stomatitis. Uncommon but potentially severe adverse events included prolongation of the QTc interval, interstitial lung disease, cardiac toxicity, severe diarrhea, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Mobocertinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of mobocertinib in patients with NSCLC harboring the exon 20 insertion mutation in EGRF, ALT elevations arose in 22% of patients but were usually self-limited and mild. ALT elevations above 5 times the upper limit of normal (ULN) were uncommon, being found in 2% to 3% of treated patients. In the open label trials supporting the approval of mobocertinib, there were no instances of clinically apparent liver injury, hepatic failure, or deaths from liver injury. Since the accelerated approval of mobocertinib in 2021 there were no published case reports of clinically apparent liver injury with jaundice.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Mobocertinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum aminotransferase elevations from mobocertinib is unknown, but the pattern of abnormalities suggests some degree of direct toxicity. Mobocertinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+        </sec>
+        <sec id="Mobocertinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for mobocertinib does not recommend regular monitoring of liver tests, but if serum aminotransferase levels above 5 times the ULN are identified, therapy should be held until levels fall into the normal or near normal range, at which point therapy can be resumed at the same or a reduced dose as clinically indicated and with continued monitoring. Cross sensitivity to liver injury is uncommon among the antineoplastic small molecule enzyme and receptor inhibitors, but there is no information on shared adverse event sensitivity of mobocertinib with other antineoplastic tyrosine kinase receptor inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Small Molecule Inhibitors of EGFR: <related-object link-type="booklink" source-id="livertox" document-id="Afatinib" document-type="chapter">Afatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dacomitinib" document-type="chapter">Dacomitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Erlotinib" document-type="chapter">Erlotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Gefitinib" document-type="chapter">Gefitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Osimertinib" document-type="chapter">Osimertinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Mobocertinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Mobocertinib &#x02013; Exkivity&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Mobocertinib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Mobocertinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Mobocertinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Mobocertinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Mobocertinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Mobocertinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Mobocertinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Mobocertinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Mobocertinib</td>
+                <td headers="hd_h_Mobocertinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://405023316">1847461-43-1</ext-link>
+</td>
+                <td headers="hd_h_Mobocertinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C32-H39-N7-O4</td>
+                <td headers="hd_h_Mobocertinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="405023316" document-id-type="sid" document-type="summary" object-id="405023316" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Mobocertinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 October 2023</p>
+        <p>Abbreviations: EGFR, epidermal growth factor receptor; NSCLC, non-small cell lung cancer.</p>
+        <ref-list id="Mobocertinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Mobocertinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss mobocertinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.fda">
+            <mixed-citation publication-type="web"><collab>FDA</collab>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215310Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215310Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with initial multidiscipline clinical review of the safety and efficacy of mobocertinib; describes the adverse events observed in a pooled safety population of 114 patients that included ALT elevations 22% which were above 5 times ULN in only 2.7% [n=3], and included one temporary interruption because of a concurrent ALT and bilirubin elevation that resolved rapidly and the patient then tolerated treatment at a lower dose [120 mg daily]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.riely.2021.1688">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Riely</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Neal</surname>
+<given-names>JW</given-names></string-name>, <string-name name-style="western"><surname>Camidge</surname>
+<given-names>DR</given-names></string-name>, <string-name name-style="western"><surname>Spira</surname>
+<given-names>AI</given-names></string-name>, <string-name name-style="western"><surname>Piotrowska</surname>
+<given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Costa</surname>
+<given-names>DB</given-names></string-name>, <string-name name-style="western"><surname>Tsao</surname>
+<given-names>AS</given-names></string-name>, <etal>et al.</etal>
+<article-title>Activity and safety of mobocertinib (TAK-788) in previously treated non-small cell lung cancer with <italic toggle="yes">EGFR</italic> exon 20 insertion mutations from a phase I/II trial.</article-title>
+<source>Cancer Discov.</source>
+<year>2021</year>;<volume>11</volume>:<fpage>1688</fpage>-<lpage>1699</lpage>.<annotation><p><italic toggle="yes">(Among 136 patients with advanced refractory NSCLC with EGFR mutations treated with mobocertinib [160 mg daily] in early phase studies, adverse events included diarrhea [83%], nausea [43%], rash [33%], vomiting [26%), decreased appetite [21%], stomatitis [21%], and fatigue [21%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">33632775</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.markham.2021.2069">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Markham</surname>
+<given-names>A.</given-names></string-name>
+<article-title>Mobocertinib: first approval.</article-title>
+<source>Drugs.</source>
+<year>2021</year>;<volume>81</volume>:<fpage>2069</fpage>-<lpage>2074</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacokinetics, clinical efficacy, and safety of mobocertinib shortly after its accelerated approval in the US mentions that serious adverse reactions occurred in 46% of patients, permanent discontinuations in 17%, and ALT elevations in 22% which were above 5 times ULN in 2.7%).</italic></p></annotation><pub-id pub-id-type="pmid">34716908</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.zhou.2021.e214761">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhou</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Ramalingam</surname>
+<given-names>SS</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>TM</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>
+<given-names>SW</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>JC</given-names></string-name>, <string-name name-style="western"><surname>Riely</surname>
+<given-names>GJ</given-names></string-name>, <string-name name-style="western"><surname>Mekhail</surname>
+<given-names>T</given-names></string-name>, <etal>et al.</etal>
+<article-title>Treatment outcomes and safety of mobocertinib in platinum-pretreated patients with EGFR exon 20 insertion-positive metastatic non-small cell lung cancer: a phase 1/2 open-label nonrandomized clinical trial.</article-title>
+<source>JAMA Oncol.</source>
+<year>2021</year>;<volume>7</volume>:<elocation-id>e214761</elocation-id>.<annotation><p><italic toggle="yes">(Among 210 patients with advanced refractory NSCLC with EGFR exon 20 insertion mutations treated with mobocertinib in two studies, ALT elevations arose in 9% [n=19] and were above 5 times ULN in 1% [n=2], and there were no permanent discontinuations or deaths attributed to liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">34647988</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.roskoski.2022.106037">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Roskoski</surname>
+<given-names>R</given-names>
+<suffix>Jr</suffix></string-name>. <article-title>Properties of FDA-approved small molecule protein kinase inhibitors: a 2022 update.</article-title>
+<source>Pharmacol Res.</source>
+<year>2022</year>;<volume>175</volume>:<elocation-id>106037</elocation-id>.<annotation><p><italic toggle="yes">(Comprehensive review of human protein kinases and the 68 small molecular inhibitors that have been approved for use in neoplastic [n=58], autoimmune, cardiovascular, neurologic, and inflammatory diseases which can be categorized as serine/threonine [n=12], tyrosine [n=42], or dual [n=4] and as tyrosine receptor [n=39] or nonreceptor [n=13] inhibitors; mobocertinib is a tyrosine kinase receptor inhibitor that was designed to form a covalent bond with an amino acid [C797] in the EGFR exon 20 insertion and thus have increased specificity for the mutant form).</italic></p></annotation><pub-id pub-id-type="pmid">34921994</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF9">
+            <mixed-citation publication-type="journal"><article-title>Mobocertinib (Exkivity) for non-small cell lung cancer.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2022</year>;<volume>64</volume>:<fpage>e197</fpage>-<lpage>e198</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of mobocertinib shortly after its accelerated approval for use in patients with NSCLC with EGFR exon 20 insertion mutations, discusses common adverse reactions and rare instances of QTc interval prolongation but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36397196</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF.duke.2023.508">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Duke</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Stapleford</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Drezner</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Amatya</surname>
+<given-names>AK</given-names></string-name>, <string-name name-style="western"><surname>Mishra-Kalyani</surname>
+<given-names>PS</given-names></string-name>, <string-name name-style="western"><surname>Shen</surname>
+<given-names>YL</given-names></string-name>, <string-name name-style="western"><surname>Maxfield</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>FDA approval summary: mobocertinib for metastatic non-small cell lung cancer with EGFR exon 20 insertion mutations.</article-title>
+<source>Clin Cancer Res.</source>
+<year>2023</year>;<volume>29</volume>:<fpage>508</fpage>-<lpage>512</lpage>.<annotation><p><italic toggle="yes">(Summary of the data on safety and efficacy of mobocertinib that led to its accelerated approval by the FDA mentions that the common adverse effects included diarrhea, rash, nausea, stomatitis, vomiting, decreased appetite, paronychia, fatigue, dry skin, and musculoskeletal pain as well as common laboratory abnormalities of decreased lymphocytes, hemoglobin, potassium and magnesium, and increased amylase, lipase, and creatinine levels, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">36112541</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mobocertinib.REF11">
+            <mixed-citation publication-type="web">Takeda. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.takeda.com/newsroom/newsreleases/2023/Takeda-Provides-Update-on-EXKIVITY-mobocertinib/">https://www.takeda.com/newsroom/newsreleases/2023/Takeda-Provides-Update-on-EXKIVITY-mobocertinib/</ext-link><annotation><p><italic toggle="yes">(October 2, 2023 news report and announcement from Takeda mentions that the sponsor has voluntarily withdrawn mobocertinib as therapy of adults with NSCLC and EGFR exon 20 insertion mutations because a recently completed phase 3 trial failed to demonstrate prolongation of progression free survival: no details of the response rates or adverse events provided).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Mobocertinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Mobocertinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Mobocertinib: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Mobocertinib">Trials on Mobocertinib: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

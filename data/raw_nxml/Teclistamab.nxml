@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Teclistamab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Teclistamab</book-part-id>
+      <title-group>
+        <title>Teclistamab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tebentafusp" document-type="chapter">Tebentafusp</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tecovirimat" document-type="chapter">Tecovirimat</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Teclistamab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Teclistamab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Teclistamab is a bispecific human monoclonal antibody to the B cell maturation antigen (BCMA) and CD3, which targets the antibody to T cells (T cell engager) and is used in the treatment of refractory or relapsing multiple myeloma. Teclistamab has major side effects including cytokine release syndrome as well as immune related conditions, including liver injury, which can be serious and even fatal.</p>
+        </sec>
+        <sec id="Teclistamab.Background">
+          <title>Background</title>
+          <p>Teclistamab (tech&#x02019; lis ta mab) is a human bispecific monoclonal antibody to the B cell maturation antigen (BCMA) and the CD3 cell surface antigen, which is used in the treatment of refractory or relapsing multiple myeloma. Teclistamab binds to BCMA which is prominently expressed on the surface of B cells and myeloma cells. Teclistamab also binds to CD3 which is expressed on activated T cells and thus brings them into contact with the bound BCMA expressing myeloma cells. This two-fold engagement of myeloma cells results in their rapid destruction. As a result of its demonstrated efficacy in a proportion of treated patients with refractory multiple myeloma in early phase trials, teclistamab was given accelerated approval for use in advanced refractory or relapsed multiple myeloma after at least 4 prior lines of therapy in the United States in 2022. Teclistamab is available in liquid solution in vials containing 30 mg in 3 mL (10 mg/mL) and 153 mg in 1.7 mL (90 mg/mL) under the brand name Tecvayli. The recommended regimen includes a step-up phase over one week to a maintenance dose of 1.5 mg/kg subcutaneously which is then continued once weekly until disease progression or intolerance. Pretreatment with corticosteroids, antihistamines and antipyretics are recommended, particularly with initial doses. Side effects are frequent and often severe including cytokine release syndrome in 72% of treated patients. Severe infections, neutropenia, hypersensitivity reactions, and immune related injury including neurotoxicity, renal toxicity and hepatotoxicity has also been described and the overall fatality rate is 5%. As a consequence, teclistamab is available only as part of a Risk Evaluation and Mitigation Strategy (REMS) that requires specific training, informed consent and adverse event reporting. Other common adverse events include fever, musculoskeletal pain, injection site reactions, nausea, diarrhea, and fatigue. Early recognition and prompt management of the adverse effects of teclistamab is an integral component of its proper use.</p>
+        </sec>
+        <sec id="Teclistamab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure studies, serum ALT elevations arose in 28% of patients receiving teclistamab and were above 5 times the upper limit of normal (ULN) in 2%. Elevations in total bilirubin arose in 6% of patients. In addition, immune mediated liver injury arose in a proportion of patients and was fatal in one. Despite these findings, the clinical features, timing and duration of liver injury due to teclistamab have not been described. Monitoring of liver tests is recommended at baseline and as clinically indicated during therapy. The clinical experience with teclistamab has been limited and the frequency and clinical features of the injury are not known.</p>
+          <p>The effects of teclistamab on hepatitis B virus (HBV) have not been reported as enrollment criteria in the clinical trials have usually excluded patients with chronic viral hepatitis.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Teclistamab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to teclistamab is likely to be immunologically mediated.</p>
+        </sec>
+        <sec id="Teclistamab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving teclistamab recommend monitoring of liver tests, and temporarily withholding therapy if ALT or AST elevations above 5 times the ULN arise and stopping therapy if ALT elevations accompanied by symptoms of hepatitis or jaundice arise or for any ALT or AST elevations above 20 times the ULN. Patients with suspected immune mediated hepatitis that does not resolve promptly with stopping teclistamab should be treated with immunosuppression.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Teclistamab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Teclistamab &#x02013; Tecvayli&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Teclistamab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Teclistamab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Teclistamab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Teclistamab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Teclistamab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Teclistamab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Teclistamab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Teclistamab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Teclistamab</td>
+                <td headers="hd_h_Teclistamab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/381609131">2119595-80-9</ext-link>
+</td>
+                <td headers="hd_h_Teclistamab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Teclistamab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Teclistamab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2023</p>
+        <p>Abbreviations used: BCMA, B cell maturation antigen; CD3, Cluster of differentiation-3.</p>
+        <ref-list id="Teclistamab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Teclistamab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Teclistamab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific reviews of the new drug application of teclistamab for safety and efficacy, mentions that adverse events were frequent including neutropenia, lymphopenia, thrombocytopenia, cytokine release syndrome [72%], neurotoxicity [13%] and gastrointestinal side effects; ALT elevations arose in 28% of patients but were above 5 times ULN in only 2%, although one patient died of suspected acute liver failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Teclistamab.REF.pillarisetti.2020.4538">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pillarisetti</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Powers</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Luistro</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Babich</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Baldwin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Teclistamab is an active T cell-redirecting bispecific antibody against B-cell maturation antigen for multiple myeloma.</article-title>
+              <source>Blood Adv.</source>
+              <year>2020</year>
+              <volume>4</volume>
+              <fpage>4538</fpage>
+              <lpage>4549</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In vitro studies demonstrated that the bispecific monoclonal antibody teclistamab bound to and eliminated BCMA expressing myeloma cells resulting in release of cytokines).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32956453</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teclistamab.REF.usmani.2021.665">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Usmani</surname><given-names>SZ</given-names></name>
+<name name-style="western"><surname>Garfall</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>van de Donk</surname><given-names>NWCJ</given-names></name>
+<name name-style="western"><surname>Nahi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>San-Miguel</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Oriol</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rosinol</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Teclistamab, a B-cell maturation antigen&#x02008;&#x000d7;&#x02008;CD3 bispecific antibody, in patients with relapsed or refractory multiple myeloma (MajesTEC-1): a multicentre, open-label, single-arm, phase 1 study.</article-title>
+              <source>Lancet.</source>
+              <year>2021</year>
+              <volume>398</volume>
+              <issue>10301</issue>
+              <fpage>665</fpage>
+              <lpage>674</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a phase 1 safety and dose finding study of teclistamab in 157 patients with refractory multiple myeloma, the dose chosen for phase 2 studies was 1.5 mg subcutaneously once weekly after a step-up phase, which in 40 patients yielded a response rate of 65% and high rate of adverse events including cytokine release syndrome in 70%, neutropenia in 65% and ALT elevations in 9.6%, none of which were above 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34388396</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teclistamab.REF.moreau.2022.495">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moreau</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Garfall</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>van de Donk</surname><given-names>NWCJ</given-names></name>
+<name name-style="western"><surname>Nahi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>San-Miguel</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Oriol</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nooka</surname><given-names>AK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Teclistamab in relapsed or refractory multiple myeloma.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2022</year>
+              <volume>387</volume>
+              <fpage>495</fpage>
+              <lpage>505</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 165 patients with refractory or relapsed multiple myeloma treated with teclistamab [1.5 mg weekly after a step-up phase], a complete response or better was achieved in 63% of patients and adverse events included cytokine release syndrome in 72%, neutropenia 71%, infections 70%, anemia 52%, thrombocytopenia 40%, and neurotoxic effects 14.5%; no mention of ALT elevations but one of 5 deaths considered due to teclistamab therapy was attributed to hepatic failure without specific details).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35661166</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teclistamab.REF.kang.2022.1613">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kang</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Teclistamab: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2022</year>
+              <volume>82</volume>
+              <issue>16</issue>
+              <fpage>1613</fpage>
+              <lpage>1619</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of the chemistry, pharmacology, history of development, clinical efficacy and safety of teclistamab shortly after its approval for use in the US for refractory or relapsed multiple myeloma; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36352205</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Teclistamab.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Teclistamab-cqyv (Tecvayli) for multiple myeloma.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2022</year>
+              <volume>64</volume>
+              <fpage>e196</fpage>
+              <lpage>e197</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, clinical efficacy, safety and costs of teclistamab shortly after its approval for use in the US for refractory or relapsed multiple myeloma, mentions that hepatotoxicity can occur and liver tests should be monitored before and periodically during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36384770</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Teclistamab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Teclistamab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Teclistamab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Teclistamab">Trials on Teclistamab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

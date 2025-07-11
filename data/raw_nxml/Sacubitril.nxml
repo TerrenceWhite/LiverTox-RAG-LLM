@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Sacubitril" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Sacubitril</book-part-id>
+      <title-group>
+        <title>Sacubitril-Valsartan</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>9</day>
+          <month>7</month>
+          <year>2024</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="SacituzumabGovitecan" document-type="chapter">Sacituzumab Govitecan</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Safinamide" document-type="chapter">Safinamide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Sacubitril.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Sacubitril.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Sacubitril is an orally available neprilysin inhibitor used to treat hypertension and chronic heart failure usually in combination with valsartan. Sacubitril combined with valsartan has been linked to transient and mild-to-moderate serum aminotransferase elevations during therapy and possibly to rare instances of acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Sacubitril.Background">
+          <title>Background</title>
+          <p>Sacubitril (sak ue&#x02019; bi tril) is a small molecule inhibitor of neprilysin which is used in a fixed combination with valsartan to treat heart failure. Neprilysin is a naturally occurring neutral endopeptidase that breaks down vasoactive peptides such as natriuretic peptides. By inhibiting neprilysin, sacubitril raises levels of these peptides that cause vascular dilation and increased sodium excretion. By itself, however, sacubitril has little antihypertensive or diuretic effect, probably because neprilysin also increases angiotensin levels. For this reason, sacubitril is combined with valsartan, an angiotensin II receptor blocker. The fixed combination of sacubitril and valsartan was shown to have a greater antihypertensive effect than valsartan alone and to a decrease in hospitalizations for heart failure and death from cardiovascular disease. This combination under the brand name of Entresto was approved for use as therapy in adults with chronic heart failure in the United States in 2015. Indications were later extended to children 1 year of age or older and to patients with acute decompensated heart failure. Sacubitril-valsartan is available as a single tablet in 3 fixed concentrations: 24/26 mg, 49/51 mg, and 97/103 mg. The recommended dose is one tablet twice daily starting with 49/51 and titrating up based upon tolerance to 97/103 mg in adults. The dose in children is based upon age and body weight. The most common side effects include hyperkalemia, hypotension, dry cough, headache, nausea and vomiting, and reduced renal function. Uncommon but potentially severe adverse reactions include angioedema and hypersensitivity reactions. Most of the side effects including angioedema occur at a similar rate in patients treated with valsartan or other angiotensin blocking agents alone. Sacubitril-valsartan has a boxed warning on use in pregnancy because valsartan can cause injury and death to the developing fetus.</p>
+        </sec>
+        <sec id="Sacubitril.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>The large prospective, placebo-controlled trials of sacubitril-valsartan in patients with heart failure usually did not mention or list ALT elevations or severe hepatic adverse events or deaths. In the FDA clinical review of data from these trials, elevations in ALT or AST were said to arise in 1.3% of patients on sacubitril-valsartan but a similar portion of those on enalapril [1.0%], and all elevations were judged to be unrelated to therapy and likely due to congestive liver disease due to heart failure. A single case of jaundice with aminotransferase elevations occurred, but in a patient who had stopped combination therapy because of worsening renal dysfunction and who was experiencing acute decompensated heart failure. Since approval and more widespread use of sacubitril-valsartan there have been at least two reports of acute liver injury attributed to its use. Both cases were relatively mild and resolved rapidly once the drug was stopped. Whether the injury was due to sacubitril or valsartan (or an interaction of both) was not clear. Valsartan, like other commonly used angiotensin receptor blockers, is known to be a rare cause of acute liver injury. The contribution of the underlying heart failure and possible congestive hepatopathy is also an issue. The reported cases did not have a liver biopsy and were not rechallenged with the drug which might have clarified the causality.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury, which may be due to valsartan rather than sacubitril).</p>
+        </sec>
+        <sec id="Sacubitril.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The acute hepatotoxicity caused by the combination of sacubitril and valsartan appears to be idiosyncratic and is usually mild and self-limited in course if the drug is withdrawn promptly. Sacubitril-valsartan as well as other angiotensin receptor blockers can cause acute hypersensitivity reactions including angioedema suggesting that liver injury also may be immune mediated.</p>
+        </sec>
+        <sec id="Sacubitril.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Most cases of acute hepatic injury from the combination of sacubitril and valsartan resolve within 1 to 3 months of stopping the medication and without corticosteroid therapy. It is not clear whether valsartan alone might be tolerated after recovery from liver injury attributed to its combination with sacubitril, but it is probably prudent to use a different angiotensin receptor blocking agent in this situation.</p>
+          <p>Drug Class: Cardiovascular Agents; Antihypertensive Agents [Sacubitril-Valsartan, Heart Failure Agent]</p>
+        </sec>
+      </sec>
+      <sec id="Sacubitril.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Sacubitril-Valsartan &#x02013; Entresto&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Cardiovascular Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Sacubitril">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Sacubitril.CHEMICAL_FORMULAS_AND_STRUCTU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Sacubitril.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Sacubitril.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Sacubitril.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Sacubitril.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Sacubitril.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Sacubitril</td>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163641686">149709-62-6</ext-link>
+</td>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C24-H29-NO5</td>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163641686" document-id-type="sid" document-type="summary" object-id="163641686" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Valsartan</td>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017842">137862-53-4</ext-link>
+</td>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C24-H29-N5-O3</td>
+                <td headers="hd_h_Sacubitril.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135017842" document-id-type="sid" document-type="summary" object-id="135017842" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Sacubitril.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 09 July 2024</p>
+        <ref-list id="Sacubitril.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Sacubitril.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cardiovascular agents published in 1999 before the availability of sacubitril and valsartan).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.halegouademarzio.2013">
+            <mixed-citation publication-type="book">Halegoua-DeMarzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic medications. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 522-6.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular agents published before the availability of sacubitril, but mentions that cases of hepatotoxicity of candesartan, irbesartan, losartan, and valsartan, none of which were fatal and having in both latency to onset [1 week to 6 months] and clinical presentation [cholestatic and hepatocellular]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.hilaldandan.2018">
+            <mixed-citation publication-type="book">Hilal-Dandan R. Renin and angiotensin. In, Brunton LL, Halal R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 471-488.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF4">
+            <mixed-citation publication-type="web">FDA. Integrated Review. Entresto. 2015. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/207620Orig1s000MedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/207620Orig1s000MedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA review of the data submitted in support of the approval of sacubitril-valsartan for prevention of cardiovascular death and hospitalization in patients with heart failure mentions that ALT or AST elevations above 3 times ULN arose in 1.3% of those on sacubitril-valsartan vs 1.0% on enalapril which were above 5 times ULN in 0.5% vs 0.3%, and that one patient developed marked enzyme elevations with jaundice [ALT 730 U/L], but this occurred after the combination was stopped and during acute decompensation of heart failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.re__.2001.637">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Re&#x000f1;&#x000e9;</surname>
+<given-names>JM</given-names></string-name>, <string-name name-style="western"><surname>Buenestado</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Ses&#x000e9;</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Mi&#x000f1;ana</surname>
+<given-names>JM</given-names></string-name>. <article-title>Acute hepatitis induced by valsartan.</article-title>
+<source>Med Clin (Barc)</source>
+<year>2001</year>; <volume>117</volume>: <fpage>637</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(54 year old woman developed jaundice 18 weeks after starting valsartan for hypertension [bilirubin 23.6 mg/dL, ALT 1664 U/L, Alk P 385 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11714476</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.kiykim.2003.507">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Kiykim</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Altintas</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Sezgin</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Sezer</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Tiftik</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Akbay</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Seyrek</surname>
+<given-names>E</given-names></string-name>, <etal>et al.</etal>
+<article-title>Valsartan-induced hepatotoxicity in a HBsAg-positive patient.</article-title>
+<source>Am J Gastroenterol</source>
+<year>2003</year>; <volume>98</volume>: <fpage>507</fpage>.<annotation><p><italic toggle="yes">(52 year old woman with hypertension and HBsAg without chronic ALT elevations developed jaundice 4 weeks after starting valsartan [peak bilirubin 7.8 mg/dL, ALT 780 U/L, Alk P 1840 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12591083</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.mcmurray.2014.993">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>McMurray</surname>
+<given-names>JJ</given-names></string-name>, <string-name name-style="western"><surname>Packer</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Desai</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>Gong</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lefkowitz</surname>
+<given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>Rizkala</surname>
+<given-names>AR</given-names></string-name>, <string-name name-style="western"><surname>Rouleau</surname>
+<given-names>JL</given-names></string-name>, <etal>et al.</etal>; <collab>PARADIGM-HF Investigators and Committees</collab>. <article-title>Angiotensin-neprilysin inhibition versus enalapril in heart failure.</article-title>
+<source>N Engl J Med.</source>
+<year>2014</year>;<volume>371</volume>:<fpage>993</fpage>-<lpage>1004</lpage>.<annotation><p><italic toggle="yes">(Among 8442 patients with chronic heart failure and ejection fraction of 40% or less who were started on sacubitril-valsartan or enalapril twice daily and continued for a median of 27 months, cardiovascular deaths and hospitalizations for heart failure were less in those on the combination [21.8% vs 26.5%], and while symptomatic hypotension was more frequent with sacubitril-valsartan, cough and elevations in serum creatinine and potassium were more frequent with enalapril; no mention of ALT elevations, but no hepatic severe adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">25176015</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>52.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US multicenter prospective study between 2004 and 2013, none were attributed to sacubitril, but one case was attributed to valsartan).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.hern_ndez.2014.231">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hern&#x000e1;ndez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>S&#x000e1;nchez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>di Pace</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Brahm</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zapata</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Chirino</surname>
+<given-names>AR</given-names></string-name>, <etal>et al.</etal>
+<article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+<source>Ann Hepatol</source>
+<year>2014</year>; <volume>13</volume>: <fpage>231</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to sacubitril or valsartan).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.havakuk.2017.356">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Havakuk</surname>
+<given-names>O</given-names></string-name>, <string-name name-style="western"><surname>Elkayam</surname>
+<given-names>U.</given-names></string-name>
+<article-title>Angiotensin receptor-neprilysin inhibition.</article-title>
+<source>J Cardiovasc Pharmacol Ther.</source>
+<year>2017</year>;<volume>22</volume>:<fpage>356</fpage>-<lpage>364</lpage>.<annotation><p><italic toggle="yes">(Review of the mechanism of action and history of development of neprilysin inhibitors and the importance of angiotensin II receptor blockage during their use with an in-depth review of the PARADIGM trial [McMurray 2014] of sacubitril-valsartan for heart failure with reduced cardiac ejection fraction; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28587583</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.velazquez.2019.539">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Velazquez</surname>
+<given-names>EJ</given-names></string-name>, <string-name name-style="western"><surname>Morrow</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>DeVore</surname>
+<given-names>AD</given-names></string-name>, <string-name name-style="western"><surname>Duffy</surname>
+<given-names>CI</given-names></string-name>, <string-name name-style="western"><surname>Ambrosy</surname>
+<given-names>AP</given-names></string-name>, <string-name name-style="western"><surname>McCague</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Rocha</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Braunwald</surname>
+<given-names>E</given-names></string-name>; <article-title>PIONEER-HF Investigators. Angiotensin-neprilysin inhibition in acute decompensated heart failure.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>380</volume>:<fpage>539</fpage>-<lpage>548</lpage>.<annotation><p><italic toggle="yes">(Among 881 patients hospitalized for acute heart failure started on sacubitril-valsartan or enalapril twice daily for 8 weeks, serum levels of NT-proBNP decreased by 47% with the combination vs only 25% with enalapril, while the frequency and types of treatment emergent adverse events were similar in both groups; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30415601</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF12">
+            <mixed-citation publication-type="journal"><article-title>Drugs for chronic heart failure.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2019</year>;<volume>61</volume>(<issue>1569</issue>):<fpage>49</fpage>-<lpage>54</lpage>.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of medications approved for use in the US for treatment of heart failure, mentions that the combination of a neprilysin inhibitor and angiotensin receptor inhibitor is the preferred first line therapy for chronic heart failure and includes discussion of sacubitril-valsartan adverse events, but does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">31169796</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.solomon.2019.1609">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Solomon</surname>
+<given-names>SD</given-names></string-name>, <string-name name-style="western"><surname>McMurray</surname>
+<given-names>JJV</given-names></string-name>, <string-name name-style="western"><surname>Anand</surname>
+<given-names>IS</given-names></string-name>, <string-name name-style="western"><surname>Ge</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lam</surname>
+<given-names>CSP</given-names></string-name>, <string-name name-style="western"><surname>Maggioni</surname>
+<given-names>AP</given-names></string-name>, <string-name name-style="western"><surname>Martinez</surname>
+<given-names>F</given-names></string-name>, <etal>et al.</etal>; <collab>PARAGON-HF Investigators and Committees</collab>. <article-title>Angiotensin-neprilysin inhibition in heart failure with preserved ejection fraction.</article-title>
+<source>N Engl J Med.</source>
+<year>2019</year>;<volume>381</volume>:<fpage>1609</fpage>-<lpage>1620</lpage>.<annotation><p><italic toggle="yes">(Among 4822 patients with heart failure and preserved cardiac ejection fraction [45% or greater] but elevations in natriuretic peptide levels who were treated with sacubitril-valsartan or valsartan with a median follow up of 35 months, the primary outcome of cardiovascular death or hospitalizations for heart failure occurred less often with combination therapy but the differences were not statistically significant; combination therapy was associated with higher rates of hypotension and angioedema but lower rates of serum creatinine and potassium elevations; hepatic adverse events arose in similar proportions of both groups [6.3% vs 7.5%], but there were no severe hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">31475794</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.achuthanandan.2022.e27005">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Achuthanandan</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Dhaliwal</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Patti</surname>
+<given-names>R</given-names></string-name>. <article-title>Drug-induced liver injury from sacubitril-valsartan versus a single dose of acarbose.</article-title>
+<source>Cureus.</source>
+<year>2022</year>;<volume>14</volume>:<elocation-id>e27005</elocation-id>.<annotation><p><italic toggle="yes">(76 year old woman with heart failure developed fatigue and liver test abnormalities one month after starting sacubitril-valsartan and one day after taking a single dose of acarbose for diabetes [bilirubin 1.2 mg/dL, ALT 1652 U/L, Alk P 55 U/L, INR 2.8], with rapid improvement on stopping both drugs and normal liver tests 3 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">35989811</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.zhang.2023.e34732">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Zhang</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Cai</surname>
+<given-names>JL</given-names></string-name>, <string-name name-style="western"><surname>Yu</surname>
+<given-names>J</given-names></string-name>. <article-title>Sacubitril/valsartan-induced liver injury: A case report and literature review.</article-title>
+<source>Medicine (Baltimore)</source>. <year>2023</year>;<volume>102</volume>:<elocation-id>e34732</elocation-id>.<annotation><p><italic toggle="yes">(90 year old Chinese woman with heart failure and HBsAg without HBV DNA developed mild elevations in ALT within a week of starting sacubitril-valsartan, which worsened on continuation to a peak one month later [bilirubin 1.4 mg/dL, ALT 640 U/L, Alk P not provided], falling once sacubitril-valsartan was stopped and with normal values 6 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">37565914</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.lerman.2024.131613">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Lerman</surname>
+<given-names>TT</given-names></string-name>, <string-name name-style="western"><surname>Greenberg</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Fishman</surname>
+<given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Goldman</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talmor-Barkan</surname>
+<given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Bauer</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Goldberg</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>The real-world safety of sacubitril/valsartan among older adults (&#x02265;75): A pharmacovigilance study from the FDA data.</article-title>
+<source>Int J Cardiol.</source>
+<year>2024</year>;<volume>397</volume>:<elocation-id>131613</elocation-id>.<annotation><p><italic toggle="yes">(Review of the FDA&#x02019;s Adverse Event Reporting System [FAERS] for sacubitril-valsartan and angiotensin II receptor blockers [ARBs] from 2004 to 2022 identified 18,435 reports, 5802 in elderly subjects [75 years or above] and, compared to ARBs, sacubitril-valsartan had higher rates of hypotension and hyperkalemia but similar rates of angioedema; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38030039</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Sacubitril.REF.morrow.2024.1123">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Morrow</surname>
+<given-names>DA</given-names></string-name>, <string-name name-style="western"><surname>Velazquez</surname>
+<given-names>EJ</given-names></string-name>, <string-name name-style="western"><surname>Desai</surname>
+<given-names>AS</given-names></string-name>, <string-name name-style="western"><surname>DeVore</surname>
+<given-names>AD</given-names></string-name>, <string-name name-style="western"><surname>Lepage</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>
+<given-names>JG</given-names></string-name>, <string-name name-style="western"><surname>Sharma</surname>
+<given-names>K</given-names></string-name>, <etal>et al.</etal>
+<article-title>Sacubitril/valsartan in patients hospitalized with decompensated heart&#x000a0;failure.</article-title>
+<source>J Am Coll Cardiol.</source>
+<year>2024</year>;<volume>83</volume>:<fpage>1123</fpage>-<lpage>1132</lpage>.<annotation><p><italic toggle="yes">(Pooled analysis of controlled trials of sacubitril-valsartan versus an angiotensin receptor blocker [ARB] alone in 1347 patients with heart failure and the full spectrum of left ventricular ejection fraction [both &#x02264; 40% and &#x0003e;40%], found that cardiovascular deaths and hospitalizations were reduced by 30% regardless of ejection fraction and the combination had higher rates of hypotension and hyperkalemia but numerically lower rates to death, angioedema, and worsening of renal function; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">38508844</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Sacubitril.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Sacubitril+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Sacubitril: from PubMed.gov</ext-link>
+</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Sacubitril">Trials on Sacubitril: from ClinicalTrials.gov</ext-link>
+</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

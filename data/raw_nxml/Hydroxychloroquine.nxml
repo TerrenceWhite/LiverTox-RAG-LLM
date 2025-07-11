@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Hydroxychloroquine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Hydroxychloroquine</book-part-id>
+      <title-group>
+        <title>Hydroxychloroquine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>4</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="HydromorphoneOxymorp" document-type="chapter">Hydromorphone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Hydroxycut" document-type="chapter">Hydroxycut</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Hydroxychloroquine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Hydroxychloroquine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Hydroxychloroquine is a derivative of chloroquine that has both antimalarial and antiinflammatory activities and is now most often used as an antirheumatologic agent in systemic lupus erythematosis and rheumatoid arthritis. Hydroxychloroquine therapy has not been associated with liver function abnormalities and is an extremely rare cause of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Hydroxychloroquine.Background">
+          <title>Background</title>
+          <p>Hydroxychloroquine (hye drox" ee klor' oh kwin) is a hydroxylated derivative of chloroquine and has similar antimalarial activity but is less toxic, allowing for use in higher doses for longer periods. Originally used as an antimalarial agent, hydroxychloroquine was later found to have antiinflammatory activity. Its mechanism of action is not well known, but it is concentrated in lysosomes and appears to stabilize lysosomal membranes inhibiting phagocytosis and release of proinflammatory lysosomal enzymes and cytokines. Hydroxychloroquine was approved for use in the United States in 1994, and indications were later broadened and now include rheumatoid and psoriatic arthritis, discoid and systemic lupus erythematosus and prevention and treatment of malaria. Hydroxychloroquine has also been used as therapy of porphyria cutanea tarda where it seems to act by increasing excretion of porphyrins. Hydroxychloroquine is available in generic forms and under the brand names of Plaquenil in tablets of 200 mg. The usual dose is 400 mg daily in one or two divided doses. Common side effects include headaches, dizziness, gastrointestinal upset and rash. Retinopathy is a serious side effect of hydroxychloroquine and regular ophthalmologic monitoring is recommended for patients on long term therapy.</p>
+          <p>In cell culture systems, hydroxychloroquine and chloroquine have been shown to have a spectrum of antiviral activity that is believed to be due to interference with viral binding to glycoprotein cell receptors or inhibition of endosomal pH regulation. Indeed, both hydroxychloroquine and chloroquine were found to inhibit replication of several viruses including the novel coronavirus known as Severe Acute Respiratory Syndrome coronavirus-type 2 (SARS-CoV-2), the cause of the global pandemic of respiratory illness that was first recognized in late 2019 (COVID-19). In face of the growing burden of severe illness posed by COVID-19, chloroquine and hydroxychloroquine were proposed as possibly effective in preventing or ameliorating the course and prevent mortality. In several case reports, case series and open label trials of these agents yielded evidence of benefit, but in more carefully designed, larger trials neither hydroxychloroquine nor chloroquine given daily for 3 to 5 days had any effect in either preventing infection or ameliorating its outcome.</p>
+        </sec>
+        <sec id="Hydroxychloroquine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Hydroxychloroquine has not been associated with significant serum enzyme elevations during therapy of rheumatologic diseases. Furthermore, clinically apparent liver injury from hydroxychloroquine is rare. A single case series (two cases) of acute liver failure attributed to hydroxychloroquine was published twenty years ago, but case reports of clinically apparent liver injury have not appeared subsequently. Thus, acute liver injury with jaundice due to hydroxychloroquine must be very rare, if it occurs at all. In clinical trials of hydroxychloroquine for COVID-19 prevention and treatment, there were no reports of hepatotoxicity and rates of serum enzyme elevations during hydroxychloroquine treatment were low and similar to those in patients receiving placebo or comparator agents.</p>
+          <p>An exception to this is the use of hydroxychloroquine in patients with porphyria cutanea tarda. When used in relatively high doses, hydroxychloroquine can trigger an acute hepatic injury with sudden onset of fever and marked serum enzyme elevations with increased excretion of porphyrins. This reaction appears to be caused by the sudden mobilization of porphyrins and is often followed by an improvement in porphyric symptoms. The reaction is uncommon if therapy is started with lower doses of hydroxychloroquine and is less severe than similar reactions that occur with chloroquine. Indeed, chronic low doses of hydroxychloroquine (100 to 200 mg twice weekly) have been used to alleviate symptoms in patients with prophyria cutanea tarda who are resistant or intolerant of phlebotomy, the usual therapy of this condition.</p>
+          <p>Likelihood score: C (probable rare cause of idiosyncratic, clinically apparent liver injury, but capable of causing acute hepatoxicity with moderately high doses in patients with porphyria).</p>
+        </sec>
+        <sec id="Hydroxychloroquine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Hydroxychloroquine is metabolized in the liver and may alter metabolism of other medications. Therapy is unlikely to cause liver injury in normal individuals, but can trigger an acute worsening of porphyria cutanea tarda in susceptible individuals.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntirheumaticAgents" document-type="chapter">Antirheumatic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Hydroxychloroquine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Hydroxychloroquine &#x02013; Generic, Plaquenil&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antirheumatic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Hydroxychloroquine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Hydroxychloroquine.CHEMICAL_FORMULA_AND">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Hydroxychloroquine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Hydroxychloroquine.Tc_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Hydroxychloroquine.Tc_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY<break/>NUMBER</th>
+                <th id="hd_h_Hydroxychloroquine.Tc_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR<break/>FORMULA</th>
+                <th id="hd_h_Hydroxychloroquine.Tc_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Hydroxychloroquine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Hydroxychloroquine</td>
+                <td headers="hd_h_Hydroxychloroquine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134973873">118-42-3</ext-link>
+</td>
+                <td headers="hd_h_Hydroxychloroquine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C18-H26-Cl-N3-O</td>
+                <td headers="hd_h_Hydroxychloroquine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134973873" document-id-type="sid" document-type="summary" object-id="134973873" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Hydroxychloroquine.ANNOTATED_BIBLIOGRAPH">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 April 2021</p>
+        <p>Abbreviations: ANA, antinuclear antibody; HCQ, hydroxychloroquine; Pe, d-penicillamine; SLE, systemic lupus erythematosus.</p>
+        <ref-list id="Hydroxychloroquine.ANNOTATED_BIBLIOGRAPH.reflist0">
+          <ref id="Hydroxychloroquine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hydroxychloroquine. Drugs used in rheumatic and musculospastic diseases. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, p. 543.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 mentions that hydroxychloroquine has been widely used with scant evidence of hepatic injury, citing a single case report: Makin et al. 1994).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.vinetz.2011">
+            <mixed-citation publication-type="book">Vinetz JM, Clain J, Bounkeua V, Eastman RT, Fidock D. Quinolines and related compounds. Chemotherapy of malaria. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1402-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.linden.1954.235">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Linden</surname><given-names>IH</given-names></name>
+<name name-style="western"><surname>Steffen</surname><given-names>CG</given-names></name>
+<name name-style="western"><surname>Newcomer</surname><given-names>VD</given-names></name>
+<name name-style="western"><surname>Chapman</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Development of porphyria during chloroquine therapy for chronic discoid lupus erythematosus.</article-title>
+              <source>Calif Med</source>
+              <year>1954</year>
+              <volume>81</volume>
+              <fpage>235</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old with discoid lupus developed acute porphyria 3 days after starting chloroquine with fever and uroporphyrins in urine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13190438</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.cripps.1962.575">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cripps</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Curtis</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Toxic effect of chloroquine on porphyria hepatica.</article-title>
+              <source>Arch Dermatol</source>
+              <year>1962</year>
+              <volume>86</volume>
+              <fpage>575</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 patients with porphyria had exacerbation of disease 3-4 days after starting chloroquine with fever, tachycardia, elevation in Alk P levels and increase in porphyrin excretion, with rapid improvement on stopping).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.sweeney.1965.1281">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sweeney</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Saunders</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Dowdle</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Eales</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Effects of chloroquine on patients with cutaneous porphyria of the "symptomatic" type.</article-title>
+              <source>Br Med J</source>
+              <year>1965</year>
+              <volume>1</volume>
+              <fpage>1281</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Administration of chloroquine to 9 patients with porphyria led to fever and AST elevations [as high as 2000 U/L] and mild increases in serum bilirubin in association with increased porphyrin excretion).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14278818</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.felsher.1966.575">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Felsher</surname><given-names>BF</given-names></name>
+<name name-style="western"><surname>Redeker</surname><given-names>AG</given-names></name>
+</person-group>
+              <article-title>Effect of chloroquine on hepatic uroporphyrin metabolism in patients with porphyria cutanea tarda.</article-title>
+              <source>Medicine (Baltimore)</source>
+              <year>1966</year>
+              <volume>45</volume>
+              <fpage>575</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Chloroquine caused a 3.5 to 28 fold increase in uroporphyrin excretion, usually accompanied by fever and ALT elevations [48-69 U/L], with centrolobular necrosis on liver biopsy; thereafter, patients were refractory to the side effects and treatment often induced a clinical remission).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5925910</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.di_maio.1974.1031">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Di Maio</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Henry</surname><given-names>LD</given-names></name>
+</person-group>
+              <article-title>Chloroquine poisoning.</article-title>
+              <source>South Med J</source>
+              <year>1974</year>
+              <volume>67</volume>
+              <fpage>1031</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 27 cases of fatal overdose of chloroquine from the files of the Armed Forces Institute of Pathology, 13 suicidal, 9 accidental, 1 homicidal and 4 unknown; 6 in children ages 1 to 4 years, rapid onset of vomiting, respiratory difficulties and convulsions; largely cardiotoxic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4851012</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.thornsvard.1976.1719">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thornsvard</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>Guider</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Kimball</surname><given-names>DB</given-names></name>
+</person-group>
+              <article-title>An unusual reaction to chloroquine-primaquine.</article-title>
+              <source>JAMA</source>
+              <year>1976</year>
+              <volume>235</volume>
+              <fpage>1719</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old developed fever, abdominal pain, myalgias and red urine 2 days after starting chloroquine-primaquine prophylaxis for malaria, with AST &#x0003e;300 U/L, bilirubin 0.8 mg/dL, Alk P 60 U/L; porphyrin testing indicated an underlying porphyria cutanea tarda).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">946467</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.malkinson.1980.1147">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Malkinson</surname><given-names>FD</given-names></name>
+<name name-style="western"><surname>Levitt</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Hydroxychloroquine treatment of porphyria cutanea tarda.</article-title>
+              <source>Arch Dermatol</source>
+              <year>1980</year>
+              <volume>116</volume>
+              <fpage>1147</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(6 patients with porphyria cutanea tarda treated with hydroxychloroquine in low doses initially, then escalating found no symptomatic liver injury, jaundice or significant ALT elevations [not routinely monitored], all patients had remission but most relapsed on stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7425660</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.cainelli.1983.593">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cainelli</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Di Padova</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Marchesi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gori</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Rovagnati</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Podenzani</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cantoni</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Hydroxychloroquine versus phlebotomy in the treatment of porphyria cutanea tarda.</article-title>
+              <source>Br J Dermatol</source>
+              <year>1983</year>
+              <volume>108</volume>
+              <fpage>593</fpage>
+              <lpage>600</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of hydroxychloroquine [HCQ: 400 mg daily] vs twice monthly phlebotomy in 61 patients with porphyria cutanea tarda; ALT levels decreased with therapy; porphyrin excretion greater with HCQ, but worsening liver histology in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6849826</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.brewer.1986.1269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brewer</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Giannini</surname><given-names>EH</given-names></name>
+<name name-style="western"><surname>Kuzmina</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Alekseev</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Penicillamine and hydroxychloroquine in the treatment of severe juvenile rheumatoid arthritis. Results of the U.S.A.-U.S.S.R. double-blind placebo-controlled trial.</article-title>
+              <source>N Engl J Med.</source>
+              <year>1986</year>
+              <month>May</month>
+              <day>15</day>
+              <volume>314</volume>
+              <fpage>1269</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Randomized trial of penicillamine [Pe] vs hydroxychloroquine [HCQ] vs placebo in 122 children with juvenile rheumatoid arthritis found minimal efficacy of HCQ; "marked" elevations in ALT occurred in 10% on PE, 18% on HCQ and 7% on placebo, all resolving without dose modification and perhaps due to concurrent use of aspirin or nonsteroidal antiinflammatory agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3517643</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.rynes.1988.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rynes</surname><given-names>RI</given-names></name>
+</person-group>
+              <article-title>Hydroxychloroquine treatment of rheumatoid arthritis.</article-title>
+              <source>Am J Med</source>
+              <year>1988</year>
+              <volume>85</volume>
+              <fpage>18</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of trials of hydroxychloroquine in rheumatoid arthritis; complete or partial remissions in 30-50% of patients, delay in response is typical; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3052053</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.fox.1988.62">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fox</surname><given-names>RI</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Benton</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Fong</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Friedlaender</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Howell</surname><given-names>FV</given-names></name>
+</person-group>
+              <article-title>Treatment of primary Sjogren's syndrome with hydroxychloroquine.</article-title>
+              <source>Am J Med</source>
+              <year>1988</year>
+              <volume>85</volume>
+              <fpage>62</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Hydroxychloroquine lowers levels of IgG and IgA and decreases some autoantibody titers; no mention of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3177432</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.zvaifler.1988.68">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zvaifler</surname><given-names>NJ</given-names></name>
+</person-group>
+              <article-title>Summary. Update in rheumatology&#x02013;focus on hydroxychloroquine.</article-title>
+              <source>Am J Med</source>
+              <year>1988</year>
+              <volume>85</volume>
+              <issue>4</issue>
+              <fpage>68</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of meeting on evidence for efficacy of hydroxychloroquine in rheumatic diseases; no discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3044096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.kemmenoe.1990.186">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kemmenoe</surname><given-names>AV</given-names></name>
+</person-group>
+              <article-title>An infant fatality due to hydroxychloroquine poisoning.</article-title>
+              <source>J Anal Toxicol</source>
+              <year>1990</year>
+              <volume>14</volume>
+              <fpage>186</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(2 year old swallowed 60 tablets of hydroxychloroquine [12 grams] and had seizures and cardiorespiratory arrest; no hepatic injury mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2374409</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.singh.1991.188">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Singh</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Fries</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Zatarain</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Spitz</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bloch</surname><given-names>DA</given-names></name>
+</person-group>
+              <article-title>Toxicity profiles of disease modifying antirheumatic drugs in rheumatoid arthritis.</article-title>
+              <source>J Rheumatol</source>
+              <year>1991</year>
+              <volume>18</volume>
+              <fpage>188</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of side effects of 7 agents from the ARAMIS database, including 2,479 patients [554 on hydroxychloroquine] with rheumatoid arthritis reported 3 instances of liver abnormalities, but no jaundice during ~824 patient years of exposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1673721</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.petersen.1992.614">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Petersen</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Thomsen</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>High-dose hydroxychloroquine treatment of porphyria cutanea tarda.</article-title>
+              <source>J Am Acad Dermatol</source>
+              <year>1992</year>
+              <volume>26</volume>
+              <fpage>614</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 patients with porphyria cutanea tarda were treated with hydroxychloroquine 250 mg thrice daily for 3 days; AST elevations occurred during first few days, some rising above 1000 U/L, bilirubin rising above normal in ~30%, all resolving).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1597548</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.williams.1994.1457">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Williams</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Egger</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Singer</surname><given-names>JZ</given-names></name>
+<name name-style="western"><surname>Willkens</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Kalunian</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Clegg</surname><given-names>DO</given-names></name>
+<name name-style="western"><surname>Skosey</surname><given-names>JL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Comparison of hydroxychloroquine and placebo in the treatment of the arthropathy of mild systemic lupus erythematosus.</article-title>
+              <source>J Rheumatol</source>
+              <year>1994</year>
+              <volume>21</volume>
+              <fpage>1457</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 71 patients with systemic lupus erythematosus [SLE] randomized to hydroxychloroquine or placebo for 48 weeks, two on drug withdrew because of rash; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7983646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.makin.1994.569">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Makin</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Wendon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fitt</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Portmann</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant hepatic failure secondary to hydroxychloroquine.</article-title>
+              <source>Gut</source>
+              <year>1994</year>
+              <volume>35</volume>
+              <fpage>569</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases; 27 year old with SLE developed nausea after 2 weeks of hydroxychloroquine with bilirubin 9.4 mg/dL, ALT 2575 U/L, INR 3.3 progressive liver failure and death in 4 days; 16 year old with juvenile rheumatoid arthritis developed jaundice after 2 weeks of hydroxychloroquine with bilirubin 24.4 mg/dL, AST 544 U/L and renal failure, underwent liver transplant but died 6 days later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8175002</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.liu.1995.548">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liu</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>Hepatotoxic reaction to chloroquine phosphate in a patient with previously unrecognized porphyria cutanea tarda.</article-title>
+              <source>West J Med</source>
+              <year>1995</year>
+              <volume>162</volume>
+              <fpage>548</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old developed nausea and fever 1 day after single dose of chloroquine with red urine, ALT 2724 U/L, Alk P 115 U/L, bilirubin 1.1 mg/dL, later diagnosed as having porphyria cutanea tarda).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7618323</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.clegg.1997.1896">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Clegg</surname><given-names>DO</given-names></name>
+<name name-style="western"><surname>Dietz</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Duffy</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Willkens</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Hurd</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Germain</surname><given-names>BF</given-names></name>
+<name name-style="western"><surname>Wall</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of hydroxychloroquine as maintenance therapy for rheumatoid arthritis after combination therapy with methotrexate and hydroxychloroquine.</article-title>
+              <source>J Rheumatol</source>
+              <year>1997</year>
+              <volume>24</volume>
+              <fpage>1896</fpage>
+              <lpage>902</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(121 patients enrolled in trial of 24 weeks of combination of methotrexate and hydroxychloroquine followed by maintenance therapy with hydroxycloroquine alone or with methotrexate; no clinically apparent liver injury; ALT levels not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9330929</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.mok.2000.363">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mok</surname><given-names>MY</given-names></name>
+<name name-style="western"><surname>Ng</surname><given-names>WL</given-names></name>
+<name name-style="western"><surname>Yuen</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>RW</given-names></name>
+<name name-style="western"><surname>Lau</surname><given-names>CS</given-names></name>
+</person-group>
+              <article-title>Safety of disease modifying anti-rheumatic agents in rheumatoid arthritis patients with chronic viral hepatitis.</article-title>
+              <source>Clin Exp Rheumatol</source>
+              <year>2000</year>
+              <volume>18</volume>
+              <fpage>363</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 29 Chinese patients with rheumatoid arthritis and chronic hepatitis [23 HBV; 6 HCV], ALT elevations occurred in 41% on hydroxychloroquine, 30% on methotrexate and 14% on gold vs 14% of 94 controls without viral hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10895374</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.van_jaarsveld.2000.1374">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Jaarsveld</surname><given-names>CHM</given-names></name>
+<name name-style="western"><surname>Jahangier</surname><given-names>ZN</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>JWG</given-names></name>
+<name name-style="western"><surname>Blaauw</surname><given-names>AAM</given-names></name>
+<name name-style="western"><surname>van Albada-Kuipers</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>ter Borg</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Brus</surname><given-names>HLM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Toxicity of antirheumatic drugs in a randomized clinical trial of early rheumatoid arthritis.</article-title>
+              <source>Rheumatology</source>
+              <year>2000</year>
+              <volume>39</volume>
+              <fpage>1374</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of 4 treatment strategies in 419 patients with early rheumatoid arthritis; side effects were common with ALT elevations in 5 on nonsteroidal antiinflammatory agents only, 1 each on gold and hydroxychloroquine, and 20 on methotrexate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11136881</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.sarkany.2001.225">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sarkany</surname><given-names>RP</given-names></name>
+</person-group>
+              <article-title>The management of porphyria cutanea tarda.</article-title>
+              <source>Clin Exp Dermatol.</source>
+              <year>2001</year>
+              <volume>26</volume>
+              <fpage>225</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(History, clinical features, pathogenesis, risk factors, complications and management of porphyria cutanea tarda; due to acquired inhibition of hepatic uroprophyrinogen decarboxylase activity caused by iron, estrogens, or chemicals such as hexohexachlorobenzene; "Low dose twice weekly chloroquine [125-250 mg] is the mainstay of therapy").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11422163</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.petrov.2004.60">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Petrov</surname><given-names>AV</given-names></name>
+</person-group>
+              <comment>[Assessment of sulfasalazine and hydroxichloroqine hepatotoxicity in patients with rheumatic arthritis and isolated HBS-antigen positivity]</comment>
+              <source>Lik Sprava</source>
+              <year>2004</year>
+              <month>Jan-Feb</month>
+              <issue>1</issue>
+              <fpage>60</fpage>
+              <lpage>5</lpage>
+              <comment>Russian.</comment>
+              <pub-id pub-id-type="pmid">17051718</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.rossmannringdahl.2007.401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rossmann-Ringdahl</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Porphyria cutanea tarda: effects and risk factors for hepatotoxicity from high-dose chloroquine treatment.</article-title>
+              <source>Acta Derm Venereol</source>
+              <year>2007</year>
+              <volume>87</volume>
+              <fpage>401</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 57 patients with porphyria cutanea tarda treated with chloroquine [250 mg/day for 7 days]; ALT rose in all averaging 7 times ULN [range 1.1 to 55 times], with symptoms of fever and arthralgias and increase in porphyrin excretion, higher levels in women, followed by remission but relapse during long term follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17721646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.giner_galva_.2007.971">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Giner Galva&#x000f1;</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Oltra</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Rueda</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Esteban</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Red&#x000f3;n</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Severe acute hepatitis related to hydroxychloroquine in a woman with mixed connective tissue disease.</article-title>
+              <source>Clin Rheumatol</source>
+              <year>2007</year>
+              <volume>26</volume>
+              <fpage>971</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(26 year old with early rheumatoid arthritis developed fever and nausea within 10 hours of starting hydroxychloroquine, with ALT 285 U/L, LDH 1,478 U/L [no bilirubin or Alk P levels] with rapid resolution, and no recurrence on restarting at a lower dose).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16575495</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.das.2007.2227">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Das</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Pareek</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mathur</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Wanchu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Srivastava</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Agarwal</surname><given-names>GG</given-names></name>
+<name name-style="western"><surname>Chauhan</surname><given-names>RS</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of hydroxychloroquine sulphate in rheumatoid arthritis: a randomized, double-blind, placebo controlled clinical trial &#x02013; an Indian experience.</article-title>
+              <source>Curr Med Res Opin</source>
+              <year>2007</year>
+              <volume>23</volume>
+              <fpage>2227</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(122 patients with rheumatoid arthritis randomized to hydroxychloroquine or placebo for 8 weeks; 1 patient on placebo developed hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17692155</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.etogoasse.2008.36">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Etogo-Asse</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Boemer</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Sempoux</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Geubel</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Acute hepatitis with prolonged cholestasis and disappearance of interlobular bile ducts following tibolone and Hypericum perforatum (St. John's wort). Case of drug interaction?</article-title>
+              <source>Acta Gastroenterol Belg</source>
+              <year>2008</year>
+              <volume>71</volume>
+              <fpage>36</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(57 year old woman with rheumatoid arthritis on hydroxychloroquine for 7 years and tibolone [a synthetic estrogen] for 2 years developed jaundice 10 weeks after starting daily iv infusions of hypericum perforatum [St. John's wort], with bilirubin 6.3 rising to 36 mg/dL, ALT 424 U/L, Alk P 162 U/L and prolonged cholestatic course with paucity of bile ducts on biopsy, but ultimate resolution).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18396749</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF30">
+            <element-citation publication-type="journal">
+              <article-title>Advice for travelers.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2012</year>
+              <volume>10</volume>
+              <issue>118</issue>
+              <fpage>45</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise guidelines on advice to travelers indicates that chloroquine is the drug of choice for prevention of malaria while visiting chloroquine sensitive areas to start 1-2 weeks before travel and stop 4 weeks after leaving; with specific recommendations available at www.cdc.gov/malaria).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22777212</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.singal.2012.1402">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Singal</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Kormos-Hallberg</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Sadagoparamanujam</surname><given-names>VM</given-names></name>
+<name name-style="western"><surname>Grady</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Freeman</surname><given-names>DH</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Anderson</surname><given-names>KE</given-names></name>
+</person-group>
+              <article-title>Low-dose hydroxychloroquine is as effective as phlebotomy in treatment of patients with porphyria cutanea tarda.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2012</year>
+              <volume>10</volume>
+              <fpage>1402</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial comparing hydroxychloroquine [100 mg twice weekly] to phlebotomy in 48 patients with porphyria cutanea tarda [largely due to hepatitis C] found similar efficacy; transient, asymptomatic ALT elevations &#x0003e;twice baseline occurred in one patient in each treatment arm).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22985607</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to hydroxychloroquine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17], antituberculosis drugs [n=13] and flutamide [n=12: 7%], but none were attributed to a hydroxychloroquine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.khellaf.2014.194">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Khellaf</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chabrol</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mahevas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Roudot-Thoraval</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Limal</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Languille</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bierling</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hydroxychloroquine is a good second-line treatment for adults with immune thrombocytopenia and positive antinuclear antibodies.</article-title>
+              <source>Am J Hematol</source>
+              <year>2014</year>
+              <volume>89</volume>
+              <fpage>194</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 40 patients with idiopathic thrombocytopenic purpura and ANA positivity treated with hydroxychloroquine in addition to standard therapies, 60% had a clinical response and "the overall safety was good" and "no patient stopped treatment because of a side effect"; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24254965</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF35">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for rheumatoid arthritis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2014</year>
+              <volume>56</volume>
+              <issue>1458</issue>
+              <fpage>127</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary and recommendations for drug therapy of rheumatoid arthritis mentions hydroxychloroquine as a tolerated and moderately effective agent for mild rheumatoid arthritis, adverse events including nausea and vomiting and more rarely hemolysis [with G6PD deficiency] and retinal toxicity with long term use that calls for ophthalmologic screening and annual exams after 5 years; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25519024</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.abdel_galil.2015.638">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abdel Galil</surname><given-names>SM</given-names></name>
+</person-group>
+              <article-title>Hydroxychloroquine-induced toxic hepatitis in a patient with systemic lupus erythematosus: a case report.</article-title>
+              <source>Lupus</source>
+              <year>2015</year>
+              <volume>24</volume>
+              <fpage>638</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(28 year old woman with SLE developed abdominal pain as prednisone doses were decreased after a year of high dose treatment in combination with hydroxychloroquine [ALT 986 U/L, bilirubin and Alk P not provided], with rapid recovery on stopping both agents and switching to mycophenolate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25424894</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.pareek.2015.2105">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pareek</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chandurkar</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Thulaseedharan</surname><given-names>NK</given-names></name>
+<name name-style="western"><surname>Legha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Agarwal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mathur</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Salkar</surname><given-names>HR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of fixed dose combination of atorvastatin and hydroxychloroquine: a randomized, double-blind comparison with atorvastatin alone among Indian patients with dyslipidemia.</article-title>
+              <source>Curr Med Res Opin</source>
+              <year>2015</year>
+              <volume>31</volume>
+              <fpage>2105</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 328 patients with hypercholesterolemia treated with atorvastatin with or without hydroxychloroquine for 24 weeks, reductions in LDL cholesterol were greater with the combination [-40% vs -33%] while adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26371518</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 cases were attributed to drugs for rheumatoid arthritis [all 5 due to leflunomide], but none to hydroxychloroquine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.yokogawa.2017.791">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yokogawa</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Eto</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Tanikawa</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ikeda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yamamoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Takahashi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mizukami</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effects of hydroxychloroquine in patients with cutaneous lupus erythematosus: a multicenter, double-blind, randomized, parallel-group trial.</article-title>
+              <source>Arthritis Rheumatol</source>
+              <year>2017</year>
+              <volume>69</volume>
+              <fpage>791</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 101 patients with cutaneous lupus erythematosus treated with hydroxychloroquine or placebo for 16 weeks followed by single blind period of 55 weeks, changes in clinical activity scores were similar in the two groups and adverse events included skin rash, Stevens-Johnson syndrome and "hepatic dysfunction", although the authors report "no laboratory test values or vital signs showed any clinically significant change during this study in either group").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27992698</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.wei.2015.341">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wei</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Penunuri</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Karpouzas</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Fleishman</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Datta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>French</surname><given-names>SW</given-names></name>
+</person-group>
+              <article-title>Troxis necrosis, a novel mechanism for drug-induced hepatitis secondary to immunomodulatory therapy.</article-title>
+              <source>Exp Mol Pathol</source>
+              <year>2015</year>
+              <volume>99</volume>
+              <fpage>341</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(26 year old man with systemic lupus erythematosus treated with hydroxychloroquine, mycophenolate, prednisone and monoclonal anti-TWEAK developed fatigue and serum enzyme elevations [ALT 174 U/L, AStT 305 U/L, with Alk P, CPK and bilirubin not provided] that resolved on withdrawal all medications except prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26297838</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.sunkara.2018.1383">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sunkara</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Roofeh</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Silver</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pearson</surname><given-names>TL</given-names></name>
+<name name-style="western"><surname>Ettel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>McCune</surname><given-names>WJ</given-names></name>
+</person-group>
+              <article-title>The devil's in the dosing: severe drug-induced liver injury in a hydroxychloroquine-na&#x000ef;ve patient with subacute cutaneous lupus erythematosus and porphyria cutanea tarda.</article-title>
+              <source>Lupus</source>
+              <year>2018</year>
+              <volume>27</volume>
+              <fpage>1383</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(29 year old woman with blistering rash on the hands and malar rash with ANA positivity was diagnosed with lupus and started on hydroxychloroquine, developing nausea and dark urine 3 days later with ALT 6480 U/L, AST 4472 U/L [bilirubin and Alk P not given], with elevation in total porphyrins, resolving upon stopping hydroxychloroquine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29631513</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.wang.2020.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wang</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.</article-title>
+              <source>Cell Res</source>
+              <year>2020</year>
+              <volume>30</volume>
+              <fpage>269</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In cell culture, both remdesivir and chloroquine demonstrated potential antiviral activity against SARS-CoV-2 at levels achievable in plasma and with minimal cellular cytotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32020029</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.fantini.2020.105960">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fantini</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Di Scala</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chahinian</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yahi</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Structural and molecular modelling studies reveal a new mechanism of action of chloroquine and hydroxychloroquine against SARS-CoV-2 infection.</article-title>
+              <source>Int J Antimicrob Agents</source>
+              <year>2020</year>
+              <volume>55</volume>
+              <elocation-id>105960</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Molecular modeling of the structures of chloroquine and hydroxychloroquine suggest that they would prevent the binding of the SARS-CoV-2 spike protein to its receptor [angiotensin-converting enzyme receptor] on cell membranes and thus prevent viral attachment and infection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32251731</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.geleris.2020.2411">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Geleris</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Platt</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zucker</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Baldwin</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hripcsak</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Labella</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Observational study of hydroxychloroquine in hospitalized patients with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>2411</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In an observational study of 1376 hospitalized patients with COVID-19 pneumonia, hydroxychloroquine therapy [median of 5 days] was associated with higher rates of intubation or death than standard of care [32% vs 15%], but the hazard ratio of these outcomes was not elevated after adjustment for propensity scores at the time of initiation of therapy; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32379955</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.tang.2020.m1849">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial.</article-title>
+              <source>BMJ</source>
+              <year>2020</year>
+              <volume>369</volume>
+              <fpage>m1849</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 150 patients hospitalized with largely mild-to-moderate COVID-19 who were treated with hydroxychloroquine [median 14 days] vs standard of care, time to loss of SARS-CoV-2 RNA was the same in both groups but adverse events were more frequent with hydroxychloroquine [30% vs 9%], which was largely due to gastrointestinal symptoms; ALT elevations occurred in only one patient in both groups).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32409561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.boulware.2020.517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boulware</surname><given-names>DR</given-names></name>
+<name name-style="western"><surname>Pullen</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Bangdiwala</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Pastick</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Lofgren</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Okafor</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Skipper</surname><given-names>CP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A Randomized trial of hydroxychloroquine as postexposure prophylaxis for COVID-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>517</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 821 patients with exposure to COVID-19 treated with oral hydroxychloroquine or placebo for 5 days, rates of new illness compatible with COVID-19 were similar in the two groups [14% vs 12%] while adverse events were more frequent with hydroxychloroquine [40% vs 17%]; ALT elevations were not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32492293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.skipper.2020.623">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Skipper</surname><given-names>CP</given-names></name>
+<name name-style="western"><surname>Pastick</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Engen</surname><given-names>NW</given-names></name>
+<name name-style="western"><surname>Bangdiwala</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Abassi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lofgren</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>DA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hydroxychloroquine in nonhospitalized adults with early COVID-19 : a randomized trial.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2020</year>
+              <volume>173</volume>
+              <fpage>623</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 423 symptomatic outpatients with COVID-19 treated with a 5-day course of hydroxychloroquine or placebo, the rates of symptomatic improvement and hospitalization were not different in the two groups, but adverse events were more common with hydroxychloroquine [43% vs 27%], most frequently gastrointestinal upset, nausea, diarrhea and abdominal pain; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32673060</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.cavalcanti.2020.2041">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cavalcanti</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Zampieri</surname><given-names>FG</given-names></name>
+<name name-style="western"><surname>Rosa</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Azevedo</surname><given-names>LCP</given-names></name>
+<name name-style="western"><surname>Veiga</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Avezum</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Damiani</surname><given-names>LP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Coalition Covid-19 Brazil I Investigators. Hydroxychloroquine with or without azithromycin in mild-to-moderate Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>2041</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 667 adults hospitalized with COVID-19 [504 confirmed by virologic testing] treated with hydroxychloroquine alone, or combined with azithromycin, or standard of care, improvement in clinical condition using an ordinal scale was similar in all three groups with similar duration of hospitalization [9.6 vs 10.3 vs 9.5 days], mortality [3.1% vs 1.7% vs 2.9%] but high adverse event rates including higher ALT or AST elevations above 3 times ULN with hydroxychloroquine [8.5%] and its combination with azithromycin [10.9%] compared to controls [3.4%]; although there were no severe hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32706953</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.recovery_collaborative_group.2020.2030">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+              <comment>Horby P, Mafham M, Linsell L, Bell JL, Staplin N, Emberson JR, Wiselka M, et al</comment>
+              <article-title>Effect of hydroxychloroquine in hospitalized patients with Covid-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>2030</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1561 patients randomized to receive hydroxychloroquine vs 3155 randomized to standard care, the mortality rate was similar in the two groups [27% vs 25%] but the duration of hospitalization was longer with hydroxychloroquine [16 vs 13 days], while cardiovascular toxicity was not increased with the active drug, there was no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33031652</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.serviddio.2020.1756284820959183">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Serviddio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Villani</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Stallone</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Scioscia</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Foschino-Barbaro</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Lacedonia</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Tocilizumab and liver injury in patients with COVID-19.</article-title>
+              <source>Therap Adv Gastroenterol</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <elocation-id>1756284820959183</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Seven patients with severe COVID-19 pneumonia who worsened on usual therapy [hydroxychloroquine, lopinavir/ritonavir] for 5-7 days with serum ALT levels rising [to 49-199 U/L] and who were then treated with tocilizumab, all 7 had a clinical and biochemical response [ALT falling to 28-51 U/L] within 3 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33101458</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.melquist.2020.e22818">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Melquist</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Estepp</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Aleksandrovich</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Beiseker</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hamedani</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Bassett</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>COVID-19 presenting as fulminant hepatic failure: A case report.</article-title>
+              <source>Medicine (Baltimore)</source>
+              <year>2020</year>
+              <volume>99</volume>
+              <elocation-id>e22818</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old woman with SLE previously on hydroxychloroquine and mycophenolate but had stopped therapy because of pregnancy and breast feeding, developed COVID-19 infection with mild cough and acute liver failure [ALT 278 U/L Alk P 200 U/L, bilirubin 7.0 mg/dL, INR 1.5 rising to 4.9] accompanied by hepatic encephalopathy, but responded to restarting hydroxychloroquine and methylprednisolone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33120805</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.dauner.2003">
+            <mixed-citation publication-type="other">Dauner DG, Dauner KN. Summary of adverse drug events for hydroxychloroquine, azithromycin, and chloroquine during the COVID-19 pandemic. J Am Pharm Assoc (2003). 2021 Jan 11: S1544-3191(21)00008-X.<annotation><p><italic toggle="yes">(Review of the FDA adverse drug reports for January to July 2020 for azithromycin, chloroquine and hydrochloroquine, including rise in reports from 592 before to 2492 after their emergency use authorization for COVID-19 infection, mostly for hydroxychloroquine [596] and azithromycin [184], the second most frequent event being &#x0201c;hepatitis&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.melo.2021.e00245820">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Melo</surname><given-names>JRR</given-names></name>
+<name name-style="western"><surname>Duarte</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Moraes</surname><given-names>MV</given-names></name>
+<name name-style="western"><surname>Fleck</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Silva</surname><given-names>ASDNE</given-names></name>
+<name name-style="western"><surname>Arrais</surname><given-names>PSD</given-names></name>
+</person-group>
+              <article-title>Adverse drug reactions in patients with COVID-19 in Brazil: analysis of spontaneous notifications of the Brazilian pharmacovigilance system.</article-title>
+              <source>Cad Saude Publica</source>
+              <year>2021</year>
+              <volume>37</volume>
+              <elocation-id>e00245820</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(In Brazil between March and August 2020, a total of 631 adverse event reports in 402 patients with COVID-19 were received between March and August 2020, of which 56 cases [9%] were hepatic including 28 attributed to hydroxychloroquine [2 fatal], 4 azithromycin [1 fatal], and 2 chloroquine [2 fatal].</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33503163</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.solaymanidodaran.2021.107522">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Solaymani-Dodaran</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ghanei</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bagheri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Qazvini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vahedi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hassan Saadat</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Amin Setarehdan</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of favipiravir in moderate to severe SARS-CoV-2 pneumonia.</article-title>
+              <source>Int Immunopharmacol</source>
+              <year>2021</year>
+              <volume>95</volume>
+              <elocation-id>107522</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 373 adults hospitalized with COVID-19 pneumonia treated with favipiravir or lopinavir/ritonavir with standard care [hydroxychloroquine] for 7 days, the duration of hospitalization [7 vs 6 days], need for ICU care [16% vs 14%] and 28 day mortality [14% vs 12%] were the same in the two groups; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33735712</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.axfors.2021.2349">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Axfors</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schmitt</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Janiaud</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Van't Hooft</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Abd-Elsalam</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Abdo</surname><given-names>EF</given-names></name>
+<name name-style="western"><surname>Abella</surname><given-names>BS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19 from an international collaborative meta-analysis of randomized trials.</article-title>
+              <source>Nat Commun</source>
+              <year>2021</year>
+              <volume>12</volume>
+              <issue>1</issue>
+              <fpage>2349</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a metaanalysis of 14 published and 14 unpublished clinical trials including 26 of hydroxychloroquine [10,319 patients] and 4 of chloroquine [307 patients] as therapy of COVID-19, hydroxychloroquine was associated with an excess mortality and chloroquine with no benefit; no separate analysis of adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33859192</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Hydroxychloroquine.REF.who_solidarity_trial_consortium.2021.497">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>WHO Solidarity Trial Consortium</collab>
+</person-group>
+              <comment>Pan H, Peto R, Henao-Restrepo AM, Preziosi MP, Sathiyamoorthy V, Abdool Karim Q, Alejandria MM, et al</comment>
+              <article-title>Repurposed antiviral drugs for Covid-19 &#x02013; interim WHO Solidarity Trial results.</article-title>
+              <source>N Engl J Med</source>
+              <year>2021</year>
+              <volume>384</volume>
+              <fpage>497</fpage>
+              <lpage>511</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 11,300 hospitalized adults with COVID-19 enrolled in randomized controlled trials of four repurposed drugs vs standard of care, none of the 4 agents resulted in reduced mortality rates compared to controls: remdesivir 11% versus 11.2%; hydroxychloroquine 11% vs 9.3%; lopinavir/ritonavir 10.6% vs 10.6%; and interferon beta 11.9% vs 10.5%; and there were no deaths attributed to hepatic disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33264556</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Hydroxychloroquine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Hydroxychloroquine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Hydroxychloroquine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Hydroxychloroquine">Trials on Hydroxychloroquine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

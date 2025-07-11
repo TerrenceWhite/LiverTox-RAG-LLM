@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Boceprevir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Boceprevir</book-part-id>
+      <title-group>
+        <title>Boceprevir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Blinatumomab" document-type="chapter">Blinatumomab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Bortezomib" document-type="chapter">Bortezomib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Boceprevir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Boceprevir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Boceprevir is an oral, direct acting hepatitis C virus (HCV) protease inhibitor that was used in combination with peginterferon and ribavirin in the treatment of chronic hepatitis C, genotype 1. Initially approved for use in 2012, it was withdrawn in 2015 because of the availability of more effective and better tolerated all oral regimens of direct acting antiviral agents. Boceprevir was not linked to instances of acute liver injury during therapy but, when combined with peginterferon and ribavirin, was associated with cases of hepatic decompensation in patients with preexisting cirrhosis.</p>
+        </sec>
+        <sec id="Boceprevir.Background">
+          <title>Background</title>
+          <p>The hepatitis C virus is a small RNA virus that is a major cause of chronic hepatitis, cirrhosis and hepatocellular carcinoma in the United States as well as worldwide. Various approaches to antiviral therapy of chronic hepatitis C have been developed, starting in the 1980s with interferon alfa which was replaced in the 1990s by long acting forms of interferon (peginterferon) to which was added the oral nucleoside analogue, ribavirin. Between 2010 and 2015, several potent oral, direct acting anti-HCV agents were developed and combinations of these found to have marked activity against the virus, allowing for highly effective therapy without use of interferon with treatment courses of 8 to 24 weeks only. These direct acting agents included HCV protease (NS3/4) inhibitors, structural replication complex (NS5A) inhibitors and the HCV RNA polymerase (NS5B) inhibitors. The HCV protease inhibitors block the activity of the viral encoded protease that is essential in the posttranslational modification of the viral polypeptide, cleaving it into a series of structural and nonstructural (NS: enzyme) regions. The HCV proteases that have been developed are polypeptide-like molecules, modified amino acids that that resemble the specific amino acid sequence that the protease cleaves and act as competitive inhibitors of the protease enzyme. At least seven HCV protease inhibitors (all having the suffix: -previrs) have been approved for use in the United States: boceprevir [2012: Victrelis], telaprevir [2012, Incevek], simeprevir [2013, Olysio], paritaprevir [2014, Viekira Pak], grazoprevir [2016, Zepatier], glecaprevir [2017: Mavyret], and Voxilaprevir [2017: Vosevi].</p>
+          <p>Boceprevir (boe se' pre vir) was one of the first direct acting agents developed as therapy of hepatitis C. Like other HCV protease inhibitors, boceprevir blocks the activity of the viral encoded protease (HCV nonstructural [NS] region 3/4) that is essential in the posttranslational modification of the viral polypeptide, that is cleaved into a series of structural and nonstructural (enzyme) regions. When used by itself, it results in rapid inhibition of HCV RNA levels, but resistance develops rapidly in a high proportion of patients. When combined with peginterferon and ribavirin, it was shown to provide a sustained inhibition of HCV RNA with a low rate of antiviral resistance. Triple therapy with boceprevir, peginterferon and ribavirin, when given for 44 to 48 weeks, increased the sustained virological response (SVR) rate from 40% to 50% (peginterferon and ribavirin alone) to 65% to 75% in patients with genotype 1. Boceprevir was approved for use in the United States in 2012 under the brand name Victrelis for patients with chronic hepatitis C, genotype 1, in combination with peginterferon and ribavirin. The recommended dose was 800 mg three times daily. Because of the development and availability of more potent and better tolerated regimens of antiviral agents that could be given without peginterferon, boceprevir was voluntarily discontinued in 2015. The side effects of boceprevir were difficult to separate from those of the coadministered peginterferon and ribavirin, but the triple therapy was associated with a higher rate of many side effects, including anemia, fatigue, headache, nausea, itching, rash and neutropenia.</p>
+        </sec>
+        <sec id="Boceprevir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials, triple therapy with boceprevir, peginterferon and ribavirin was associated with a high rate of adverse events that often required dose adjustments and led to early discontinuation in 5% to 20% of patients. However, serum ALT elevations and clinically apparent liver injury were not generally mentioned as adverse events of therapy. The exception to this occurred in patients with preexisting cirrhosis in whom de novo, seemingly spontaneous hepatic decompensation occurred in a proportion of treated subjects. The cause of the decompensation was not clear and the separate role of boceprevir from peginterferon and ribavirin and from what might happen even without therapy could not be easily defined. Nevertheless, in postmarketing studies of triple therapy of chronic hepatitis C with cirrhosis, decompensation was reported in 3% to 8% of patients and deaths from hepatic failure in 1% to 3%.</p>
+          <p>Likelihood score for the combination of boceprevir, peginterferon and ribavirin: B (likely cause of liver injury and hepatic decompensation in patients with preexisting cirrhosis or advanced fibrosis).</p>
+        </sec>
+        <sec id="Boceprevir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which boceprevir might cause liver injury is not known. It is metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 3A4. It is also a substrate of P-glycoprotein (P-gp). It is susceptible to drug-drug interactions, but largely for those agents that have major effects or are highly dependent upon CYP 3A4 and P-gp for their metabolism. In addition, the other adverse effects of boceprevir, particularly when combined with peginterferon and ribavirin, may predispose to events that might lead to hepatic decompensation in a susceptible patient. Triple therapy is associated with a high rate of anemia, neutropenia, thrombocytopenia, infection, gastrointestinal upset, dehydration and rash, all of which might help precipitate hepatic decompensation in a patient with underlying cirrhosis or advanced fibrosis.</p>
+        </sec>
+        <sec id="Boceprevir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Triple therapy using boceprevir is no longer used, but it was considered inadvisable in patients with preexisting cirrhosis, particularly those with a prior history of hepatic decompensation. A similar high rate of decompensation of preexisting cirrhosis was reported with triple therapy using telaprevir and simeprevir, two other HCV protease inhibitors. In fact, hepatic decompensation was also a reported complication of all-oral antiviral therapy of hepatitis C, although the rates reported with non-interferon and non-ribavirin containing regimens were quite low (&#x0003c;1%).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="HepatitisCDrugs" document-type="chapter">Hepatitis C Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="HCVProteaseInhibitor" document-type="chapter">HCV Protease Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Boceprevir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Boceprevir &#x02013; Victrelis&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Hepatitis C Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Boceprevir">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Boceprevir.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Boceprevir.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Boceprevir.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Boceprevir.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Boceprevir.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Boceprevir.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Boceprevir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Boceprevir</td>
+                <td headers="hd_h_Boceprevir.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135216213">394730-60-0</ext-link>
+</td>
+                <td headers="hd_h_Boceprevir.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H45-N5-O5</td>
+                <td headers="hd_h_Boceprevir.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135216213" document-id-type="sid" document-type="summary" object-id="135216213" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Boceprevir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 26 January 2022</p>
+        <p>Abbreviations used: HCV, hepatitis C virus; HIV, human immunodeficiency virus; SVR, sustained virological response.</p>
+        <ref-list id="Boceprevir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Boceprevir.REF.kaplowitz.2013">
+            <mixed-citation publication-type="book">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013 does not discuss oral, direct acting antiviral agents used to treat hepatitis C).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Boceprevir.REF.kim.1996.343">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kim</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Morgenstern</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fox</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Dwyer</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Landro</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Chambers</surname><given-names>SP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Crystal structure of the hepatitis C virus NS3 protease domain complexed with a synthetic NS4A cofactor peptide.</article-title>
+              <source>Cell</source>
+              <year>1996</year>
+              <volume>87</volume>
+              <fpage>343</fpage>
+              <lpage>55</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Report of the crystal structure of the NS3/4 region of HCV with detailed description of the active serine protease catalytic site, the target for subsequent development of specific inhibitors of the HCV protease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8861917</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.poordad.2011.1195">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Poordad</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>McCone</surname><given-names>J</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Bacon</surname><given-names>BR</given-names></name>
+<name name-style="western"><surname>Bruno</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Manns</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Sulkowski</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Jacobson</surname><given-names>IM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>SPRINT-2 Investigators. Boceprevir for untreated chronic HCV genotype 1 infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2011</year>
+              <volume>364</volume>
+              <fpage>1195</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1097 patients with previously untreated chronic hepatitis C, genotype 1, who were treated with peginterferon and ribavirin with vs without boceprevir for up to 48 weeks, SVR rates were higher with boceprevir [63-66% vs 38%], while serious adverse event rates were similar [11%-12% vs 9%] and there were no liver related serious events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21449783</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.bacon.2011.1207">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bacon</surname><given-names>BR</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Lawitz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Marcellin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Vierling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Zeuzem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Poordad</surname><given-names>F</given-names></name>
+<etal/>
+<collab>HCV RESPOND-2 Investigators</collab>
+</person-group>
+              <article-title>Boceprevir for previously treated chronic HCV genotype 1 infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2011</year>
+              <volume>364</volume>
+              <fpage>1207</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 403 patients with previously treated chronic hepatitis C, genotype 1, who received peginterferon and ribavirin with vs without boceprevir for up to 48 weeks, SVR rates were higher with boceprevir [59% and 66% vs 21%], as were rates of serious adverse events [10% to 14% vs 5%], one patient on boceprevir developing hepatic encephalopathy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21449784</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF5">
+            <element-citation publication-type="journal">
+              <article-title>Telaprevir (Incivek) and boceprevir (Victrelis) for chronic hepatitis C.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <fpage>57</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the efficacy, safety and costs of boceprevir and telaprevir shortly after their approval for use as a part of triple therapy of chronic hepatitis C, genotype 1, in the US, mentions side effects of rash, anemia, fatigue, pruritus, nausea and anorectal pruritus and burning, but not ALT elevations or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21778964</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.bruno.2013.479">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bruno</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Vierling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Esteban</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Nyberg</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Tanno</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Goodman</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Poordad</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of boceprevir plus peginterferon-ribavirin in patients with HCV G1 infection and advanced fibrosis/cirrhosis.</article-title>
+              <source>J Hepatol</source>
+              <year>2013</year>
+              <volume>58</volume>
+              <fpage>479</fpage>
+              <lpage>87</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a post hoc analysis of 178 patients with chronic hepatitis C, genotype 1, and advanced fibrosis or cirrhosis who were treated with peginterferon and ribavirin with or without boceprevir for up to 48 weeks in previous trials, serious adverse events occurred in 11-16% of patients and most &#x0201c;were associated with advancing chronic hepatitis C&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23183529</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.h_zode.2013.434">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>H&#x000e9;zode</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fontaine</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dorival</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Zoulim</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Canva</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>de Ledinghen</surname><given-names>V</given-names></name>
+<etal/>
+<collab>CUPIC Study Group</collab>
+</person-group>
+              <article-title>Triple therapy in treatment-experienced patients with HCV-cirrhosis in a multicentre cohort of the French Early Access Programme(ANRS CO20-CUPIC) - NCT01514890.</article-title>
+              <source>J Hepatol</source>
+              <year>2013</year>
+              <volume>59</volume>
+              <fpage>434</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 497 patients with chronic hepatitis C, genotype 1, and cirrhosis treated in a French early access program with 48 weeks of peginterferon and ribavirin with either boceprevir or telaprevir, serious adverse events occurred in 197 patients [40%], hepatic decompensation in 12 [2.4%], severe infection in 24 [4.8%], and 6 patients died [1.5%], the serious complications typically arising in the first 12 weeks of therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23669289</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.sulkowski.2013.597">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sulkowski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pol</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mallolas</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fainboim</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Cooper</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Slim</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Rivero</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>P05411 study investigators. Boceprevir versus placebo with pegylated interferon alfa-2b and ribavirin for treatment of hepatitis C virus genotype 1 in patients with HIV: a randomised, double-blind, controlled phase 2 trial.</article-title>
+              <source>Lancet Infect Dis</source>
+              <year>2013</year>
+              <volume>13</volume>
+              <fpage>597</fpage>
+              <lpage>605</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 98 patients with chronic hepatitis C, genotype 1, and HIV coinfection treated with peginterferon and ribavirin with vs without boceprevir for up to 48 weeks, SVR rates were higher with boceprevir [63% vs 29%], but serious adverse events rates were similar; no mention of liver related events or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23768747</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.coilly.2014.78">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Coilly</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Roche</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Dumortier</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Leroy</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Botta-Fridlund</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Radenne</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pageaux</surname><given-names>GP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of protease inhibitors to treat hepatitis C after liver transplantation: a multicenter experience.</article-title>
+              <source>J Hepatol</source>
+              <year>2014</year>
+              <volume>60</volume>
+              <fpage>78</fpage>
+              <lpage>86</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 37 patients with severe recurrent chronic hepatitis C, genotype 1, after liver transplant who were treated with peginterferon, ribavirin and either boceprevir or telaprevir for up to 48 weeks, 6 [16%] had an SVR, 10 [27%] a severe infection and 3 [8%] died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23994384</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.manns.2014.707">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manns</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>McCone</surname><given-names>J</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Davis</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Rossaro</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Schiff</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Shiffman</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Bacon</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Overall safety profile of boceprevir plus peginterferon alfa-2b and ribavirin in patients with chronic hepatitis C genotype 1: a combined analysis of 3 phase 2/3 clinical trials.</article-title>
+              <source>Liver Int</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>707</fpage>
+              <lpage>19</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Combined analysis of 3 trials of peginterferon and ribavirin with vs without boceprevir in 2095 patients with chronic hepatitis C, genotype 1, found similar rates of adverse events, but more anemia and dysgeusia with boceprevir).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24118703</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.park.2014.14">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Park</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lawson</surname><given-names>KA</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of telaprevir and boceprevir in patients with hepatitis C genotype 1: a meta-analysis.</article-title>
+              <source>J Clin Pharm Ther</source>
+              <year>2014</year>
+              <volume>39</volume>
+              <fpage>14</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of efficacy and safety of telaprevir and boceprevir in triple therapy in 10 controlled trials of 4421 patients with chronic hepatitis C, genotype 1; serious adverse events were higher with triple therapy than with peginterferon and ribavirin alone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24237070</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.schinazi.2014.69">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schinazi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Halfon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Marcellin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Asselah</surname><given-names>T.</given-names></name>
+</person-group>
+              <article-title>HCV direct-acting antiviral agents: the best interferon-free combinations.</article-title>
+              <source>Liver Int</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>69</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of safety and efficacy of various all-oral regimens for therapy of hepatitis C does not discuss hepatic decompensation, hepatotoxicity or ALT elevations during therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24373081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.vierling.2014.200">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vierling</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Zeuzem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Poordad</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Bronowicki</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Manns</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Bacon</surname><given-names>BR</given-names></name>
+<name name-style="western"><surname>Esteban</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of boceprevir/peginterferon/ribavirin for HCV G1 compensated cirrhotics: meta-analysis of 5 trials.</article-title>
+              <source>J Hepatol</source>
+              <year>2014</year>
+              <volume>61</volume>
+              <fpage>200</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 212 patients with cirrhosis due to chronic hepatitis C, genotype 1, treated with peginterferon and ribavirin with vs without boceprevir in 5 clinical trials, SVR rates were higher with boceprevir [55% vs 17%], but hepatic decompensation and/or sepsis occurred in 5 [2.5%] patients among whom 1 died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24747798</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.h_zode.2014.132">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>H&#x000e9;zode</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fontaine</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dorival</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zoulim</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Canva</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>De Ledinghen</surname><given-names>V</given-names></name>
+<etal/>
+<collab>CUPIC Study Group</collab>
+</person-group>
+              <article-title>Effectiveness of telaprevir or boceprevir in treatment-experienced patients with HCV genotype 1 infection and cirrhosis.</article-title>
+              <source>Gastroenterology</source>
+              <year>2014</year>
+              <volume>147</volume>
+              <fpage>132</fpage>
+              <lpage>142.e4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 511 patients with cirrhosis and chronic hepatitis C, genotype 1, and cirrhosis treated with triple therapy using telaprevir or boceprevir for 48 weeks, 91 [18%] patients had an SVR, severe adverse events occurred in 50%, including liver decompensation in 43 [8%], severe infections in 28 [5.5%] and death in 11 [2.2%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24704719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.burton.2014.508">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Burton</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>O'Leary</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Verna</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Saxena</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Dodge</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Stravitz</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Levitsky</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A US multicenter study of hepatitis C treatment of liver transplant recipients with protease-inhibitor triple therapy.</article-title>
+              <source>J Hepatol</source>
+              <year>2014</year>
+              <volume>61</volume>
+              <fpage>508</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 81 patients with recurrent hepatitis C, genotype 1, after liver transplant who were treated with triple therapy using peginterferon, ribavirin and either boceprevir or telaprevir, the overall SVR rate was 63%, the serious adverse event rate was not reported, but 27% required hospitalization, 15% early drug discontinuation and 7 patients [9%] died of liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24801415</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.gordon.2015.286">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gordon</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Muir</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Pearlman</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Argo</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Ramani</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Maliakkal</surname><given-names>B</given-names></name>
+<etal/>
+<collab>HCV-TARGET study group</collab>
+</person-group>
+              <article-title>Safety profile of boceprevir and telaprevir in chronic hepatitis C: real world experience from HCV-TARGET.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>62</volume>
+              <fpage>286</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2084 patients with chronic hepatitis C, genotype 1, treated in clinical practice with peginterferon, ribavirin and either boceprevir or telaprevir for up to 48 weeks, the overall SVR rate was 52%, serious adverse event rate 12%, while hepatic decompensation occurred in 3% and 5 patients [0.25%] died all from hepatic failure; rash was a common side effect [63% with telaprevir and 34% with boceprevir] and was graded as serious in 8 patients [0.5%], 2 [0.1%] with DRESS).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25218788</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.verna.2015.1644">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Verna</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Saxena</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Burton</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>O'Leary</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Dodge</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Stravitz</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Levitsky</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>CRUSH-C Consortium. Telaprevir- and boceprevir-based triple therapy for hepatitis C in liver transplant recipients with advanced recurrent disease: a multicenter study.</article-title>
+              <source>Transplantation</source>
+              <year>2015</year>
+              <volume>99</volume>
+              <fpage>1644</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 54 patients with advanced, recurrent chronic hepatitis C, genotype 1, after liver transplantation, who were treated with peginterferon, ribavirin and either boceprevir or telaprevir for up to 48 weeks, the SVR rate was 50%, but hepatic decompensation arose in 24% and 6 patients [11%] died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25715116</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.neukam.2015.e0125080">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Neukam</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Munteanu</surname><given-names>DI</given-names></name>
+<name name-style="western"><surname>Rivero-Ju&#x000e1;rez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lutz</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fehr</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mandorfer</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bhagani</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Boceprevir or telaprevir based triple therapy against chronic hepatitis C in HIV coinfection: real-life safety and efficacy.</article-title>
+              <source>PLoS One</source>
+              <year>2015</year>
+              <volume>10</volume>
+              <elocation-id>e0125080</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 159 patients with chronic hepatitis C, genotype 1, treated in health care clinics in 5 European countries with peginterferon, ribavirin and either boceprevir or telaprevir for up to 48 weeks, the overall SVR rate was 63%, while 4 patients [2.5%] developed hepatic decompensation, one of whom died of hepatic failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25923540</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.manolakopoulos.2015.481">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manolakopoulos</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kranidioti</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Goulis</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Vlachogiannakos</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Elefsiniotis</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kouroumalis</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Koskinas</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Boceprevir for chronic HCV genotype 1 infection in treatment-experienced patients with severe fibrosis or cirrhosis: The Greek real-life experience.</article-title>
+              <source>Ann Gastroenterol</source>
+              <year>2015</year>
+              <volume>28</volume>
+              <fpage>481</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 25 Greek patients with chronic hepatitis C, genotype 1, and cirrhosis treated with peginterferon, ribavirin and boceprevir for up to 48 weeks, the SVR rate was 36%, but no patient developed hepatic decompensation or died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26423714</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.miailhes.2015.2090">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miailhes</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lacombe</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Arends</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Puoti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rockstroh</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Sogni</surname><given-names>P</given-names></name>
+<etal/>
+<collab>ESCMID European Study Group on Viral Hepatitis</collab>
+</person-group>
+              <article-title>Triple therapy with boceprevir or telaprevir in a European cohort of cirrhotic HIV/HCV genotype 1-coinfected patients.</article-title>
+              <source>Liver Int.</source>
+              <year>2015</year>
+              <volume>35</volume>
+              <fpage>2090</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 59 patients with chronic hepatitis C, cirrhosis and HIV-coinfection treated with peginterferon, ribavirin and either boceprevir [n=12] or telaprevir [n=47], the SVR rate was 36% vs 57%, and adverse events included rash [46% vs 8%] and hepatic decompensation [1 each]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25650873</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 were attributed to antiviral agents, but all were antiretroviral agents and no case was attributed to the oral direct acting agents used to treat hepatitis C).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.bailly.2015.613">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bailly</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pradat</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Virlogeux</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Zoulim</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Antiviral Therapy in Patients with Hepatitis C Virus-Induced Cirrhosis.</article-title>
+              <source>Dig Dis</source>
+              <year>2015</year>
+              <volume>33</volume>
+              <fpage>613</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the status of antiviral therapy of chronic hepatitis C with cirrhosis summarizing the high rate of adverse events, including hepatic decompensation and death with peginterferon based regimens combined with boceprevir or telaprevir and the more effective and better tolerated all oral regimens).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26159282</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.ferenci.2015.1015">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferenci</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kozbial</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mandorfer</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hofer</surname><given-names>H.</given-names></name>
+</person-group>
+              <article-title>HCV targeting of patients with cirrhosis.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>63</volume>
+              <fpage>1015</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the status of antiviral therapy of chronic hepatitis C with cirrhosis, suggests that genotype 1 infected patients should receive an all-oral regimen such as dual therapy using sofosbuvir with ledipasvir or daclatasvir or the triple combination of dasabuvir with ombitasvir and paritaprevir, the major issues being duration of therapy and the role of ribavirin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26100497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.european_association_for_study_of_liver.2015.199">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>European Association for Study of Liver</collab>
+</person-group>
+              <article-title>EASL Recommendations on Treatment of Hepatitis C 2015.</article-title>
+              <source>J Hepatol</source>
+              <year>2015</year>
+              <volume>63</volume>
+              <fpage>199</fpage>
+              <lpage>236</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver disease research and academic society).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25911336</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.aasldidsa_hcv_guidance_panel.2015.932">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>AASLD/IDSA HCV Guidance Panel</collab>
+</person-group>
+              <article-title>Hepatitis C guidance: AASLD-IDSA recommendations for testing, managing, and treating adults infected with hepatitis C virus.</article-title>
+              <source>Hepatology</source>
+              <year>2015</year>
+              <volume>62</volume>
+              <fpage>932</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the US liver and infectious diseases research and academic societies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26111063</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.sukeepaisarnjaroen.2015.8660">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sukeepaisarnjaroen</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Pham</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Tanwandee</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nazareth</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Galhenage</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mollison</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Totten</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Boceprevir early-access for advanced-fibrosis/cirrhosis in Asia-Pacific hepatitis C virus genotype 1 non-responders/relapsers.</article-title>
+              <source>World J Gastroenterol.</source>
+              <year>2015</year>
+              <volume>21</volume>
+              <fpage>8660</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 150 patients with chronic hepatitis C, genotype 1, previous treatment failure who were treated with peginterferon, ribavirin and boceprevir, the SVR rate was 61% and serious adverse event rate 19%, which included 4 cases of hepatic decompensation [2.6%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26229408</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.coilly.2015.e0138091">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Coilly</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dumortier</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Botta-Fridlund</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Latournerie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Leroy</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Pageaux</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Agostini</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Multicenter experience with boceprevir or telaprevir to treat hepatitis C recurrence after liver transplantation: when present becomes past, what lessons for future?</article-title>
+              <source>PLoS One</source>
+              <year>2015</year>
+              <volume>10</volume>
+              <elocation-id>e0138091</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 81 patients with recurrent hepatitis C after liver transplantation who were treated with peginterferon, ribavirin and either telaprevir or boceprevir, 38 [47%] had an SVR, 22 [27%] a serious adverse event, 10 [12%] acute rejection, and 4 [5%] died, largely of infectious complications; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26394142</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.salmer_n.2015.9163">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Salmer&#x000f3;n</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Vinaixa</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Berenguer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Pascasio</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez Ruano</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Serra</surname><given-names>M&#x000c1;</given-names></name>
+<name name-style="western"><surname>Gila</surname><given-names>A</given-names></name>
+<etal/>
+<collab>Alhambra Spanish Study Group</collab>
+</person-group>
+              <article-title>Effectiveness and safety of first-generation protease inhibitors in clinical practice: Hepatitis C virus patients with advanced fibrosis.</article-title>
+              <source>World J Gastroenterol</source>
+              <year>2015</year>
+              <volume>21</volume>
+              <fpage>9163</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1057 patients with chronic hepatitis C who were treated with peginterferon, ribavirin and either telaprevir or boceprevir at 38 Spanish hospitals, 635 [60%] had an SVR, and adverse events were largely hematologic; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26290644</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.manolakopoulos.2015.481_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manolakopoulos</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kranidioti</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Goulis</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Vlachogiannakos</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Elefsiniotis</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kouroumalis</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Koskinas</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Boceprevir for chronic HCV genotype 1 infection in treatment-experienced patients with severe fibrosis or cirrhosis: The Greek real-life experience.</article-title>
+              <source>Ann Gastroenterol</source>
+              <year>2015</year>
+              <volume>28</volume>
+              <fpage>481</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 26 patients with chronic hepatitis C, genotype 1, and severe fibrosis or cirrhosis who were treated with peginterferon, ribavirin and boceprevir for 48 weeks, 9 [36%] had an SVR and side effects included anemia, thrombocytopenia, neutropenia, fatigue and diarrhea; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26423714</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.hullegie.2016.807">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hullegie</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Claassen</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>van den Berk</surname><given-names>GE</given-names></name>
+<name name-style="western"><surname>van der Meer</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Posthouwer</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lauw</surname><given-names>FN</given-names></name>
+<name name-style="western"><surname>Leyten</surname><given-names>EM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Boceprevir, peginterferon and ribavirin for acute hepatitis C in HIV infected patients.</article-title>
+              <source>J Hepatol</source>
+              <year>2016</year>
+              <volume>64</volume>
+              <fpage>807</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 57 patients with acute hepatitis C, genotype 1, and HIV coinfection who were treated with a 12 week course of peginterferon, ribavirin and boceprevir, 49 [86%] had an SVR and no patient had a liver related serious adverse event or worsening of the acute hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26689767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.ueda.2016.1285">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ueda</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ikegami</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Soyama</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Akamatsu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Shinoda</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ishiyama</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Honda</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Simeprevir or telaprevir with peginterferon and ribavirin for recurrent hepatitis C after living donor liver transplantation: A Japanese multicenter experience.</article-title>
+              <source>Hepatol Res.</source>
+              <year>2016</year>
+              <volume>46</volume>
+              <fpage>1285</fpage>
+              <lpage>1293</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 79 patients with chronic hepatitis C, genotype 1, after liver transplantation who were treated with peginterferon, ribavirin and either simeprevir [n=79] or telaprevir [n=36], the SVR rates were 56% vs 69%, serious adverse event rates 11% vs 25%, and immune mediated graft dysfunction occurred in 8% vs 11%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26899352</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.ascione.2016.949">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ascione</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Adinolfi</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Amoroso</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Andriulli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Armignacco</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Ascione</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Babudieri</surname><given-names>S</given-names></name>
+<etal/>
+<collab>Cleo Study Group</collab>
+</person-group>
+              <article-title>Boceprevir or telaprevir in hepatitis C virus chronic infection: The Italian real life experience.</article-title>
+              <source>World J Hepatol.</source>
+              <year>2016</year>
+              <volume>8</volume>
+              <fpage>949</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 834 patients treated with telaprevir or boceprevir combined with peginterferon and ribavirin enrolled in a multicenter Italian database, the SVR rate was 63% but adverse events were frequent and led to early discontinuation in 15%, largely for rash [31%], anemia [23%], weakness [14%] and other reasons included ascites in 3 patients, but ALT elevations and hepatic dysfunction were not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27574549</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.fontaine.2017.56">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fontaine</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Maynard</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bouix</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Carrieri</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Botta-Fridlund</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>D'Alteroche</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Conti</surname><given-names>F</given-names></name>
+<etal/>
+<collab>BOCEPRETRANSPLANT study group</collab>
+</person-group>
+              <article-title>Efficacy and safety of boceprevir-based triple therapy in HCV cirrhotic patients awaiting liver transplantation (ANRS HC29 BOCEPRETRANSPLANT).</article-title>
+              <source>Clin Res Hepatol Gastroenterol.</source>
+              <year>2017</year>
+              <volume>41</volume>
+              <fpage>56</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 51 patients with chronic hepatitis C and cirrhosis awaiting liver transplantation who were treated with peginterferon, ribavirin and boceprevir, the SVR rate was only 16% [n=8] and 84% of patients discontinued therapy early due to adverse events or lack of response, 7 patients died, 3 attributed to therapy with major serious adverse event being infections).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27554134</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.laguno.2016.46">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Laguno</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Von Wichmann</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Van den Eynde</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cifuentes</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Murillas</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Veloso</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Boceprevir plus pegylated interferon/ribavirin to re-treat hepatitis C virus genotype 1 in HIV-HCV co-infected patients: final results of the Spanish BOC HIV-HCV Study.</article-title>
+              <source>Int J Infect Dis.</source>
+              <year>2016</year>
+              <volume>53</volume>
+              <fpage>46</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 98 patients with HIV/HCV coinfection treated with peginterferon, ribavirin and boceprevir, the overall SVR rate was 67% and serious adverse event rate 19% [33% in those with cirrhosis]; no mention of hepatic decompensation or deaths from liver disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27815225</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.mangia.2017.327">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mangia</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Foster</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Berg</surname><given-names>CP</given-names></name>
+<name name-style="western"><surname>Curescu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ledinghen</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Habersetzer</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Manolakopoulos</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PegBase Group Investigators. Efficacy and safety profile of boceprevir-or telaprevir-based triple therapy or dual peginterferon alfa-2a or alfa-2b plus ribavirin therapy in chronic hepatitis C: the real-world PegBase observational study.</article-title>
+              <source>Ann Gastroenterol.</source>
+              <year>2017</year>
+              <volume>30</volume>
+              <fpage>327</fpage>
+              <lpage>343</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4100 patients with chronic hepatitis C, genotype 1, enrolled in an international database and treated with triple therapy of peginterferon [alfa-2a or alfa-2b], ribavirin, and either boceprevir or telaprevir, SVR rates ranged from 57% to 65% and were lower in those with cirrhosis [41% vs 66%], while serious adverse events included hepatic failure [n=4: 0.1%, 1.1% of cirrhotics], serious infections [45: 1.1%] and death [11: 0.2%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28469364</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Boceprevir.REF.callefi.2017.378">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Callefi</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Villela-Nogueira</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>de Barros Tenore</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Carna&#x000fa;ba-J&#x000fa;nior</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Coelho</surname><given-names>HSM</given-names></name>
+<name name-style="western"><surname>Pinto</surname><given-names>PTA</given-names></name>
+<name name-style="western"><surname>Nabuco</surname><given-names>LC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Effectiveness and safety of first-generation protease inhibitors in real-world patients with hepatitis C virus genotype 1 infection in Brazil: a multicenter study.</article-title>
+              <source>Clinics (Sao Paulo)</source>
+              <year>2017</year>
+              <volume>72</volume>
+              <fpage>378</fpage>
+              <lpage>385</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 715 Brazilian patients with chronic hepatitis C treated at 15 medical centers with peginterferon, ribavirin and either boceprevir [n=158] or telaprevir [n=557], the SVR rate was 57%, those with cirrhosis having a lower SVR [47% vs 71%] and higher severe adverse event rate [51% vs 35%], which included hepatic decompensation in 18 patients [4% of total, 6.6% of cirrhotics]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28658438</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Boceprevir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Boceprevir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Boceprevir: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Boceprevir">Trials on Boceprevir: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ipilimumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ipilimumab</book-part-id>
+      <title-group>
+        <title>Ipilimumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="InterleukinRcptAntag" document-type="chapter">Interleukin Receptor Antagonists</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ipratropium" document-type="chapter">Ipratropium</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ipilimumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ipilimumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ipilimumab is a human monoclonal antibody to the cytotoxic T lymphocyte antigen-4, which acts as an immune checkpoint inhibitor and is used in immunotherapy of several forms of advanced or metastatic cancer. Ipilimumab like other checkpoint inhibitors has major side effects and particularly immune related conditions, including acute hepatocellular and cholestatic liver injury which can be serious and even life-threating.</p>
+        </sec>
+        <sec id="Ipilimumab.Background">
+          <title>Background</title>
+          <p>Ipilimumab (ip&#x0201d; i lim&#x02019; ue mab) is a human recombinant monoclonal immunoglobulin G1 antibody to the cytotoxic T lymphocyte antigen-4 (CTLA-4), which has distinctive immunomodulatory activity and is used as a checkpoint inhibitor in cancer immunotherapy. The CTLA-4 antigen is an important checkpoint molecule that modulates and down regulates T cell responses. Inhibition of CTLA on the surface of activated T cells prevents its binding to the costimulatory factor B7 which allows for a continued activation and proliferation of T cells. The subsequent enhancement of cytotoxic reactivity caused by the checkpoint inhibitor can play a beneficial role in cancer immunotherapy by breaking immunological tolerance to cancer neoantigens. In several large multicenter studies, ipilimumab therapy resulted in a prolongation of survival in patients with advanced, metastatic or unresectable malignant melanoma, and a proportion of patients had a long term remission. Ipilimumab was approved for use in advanced malignant melanoma in the United States in 2009, the first monoclonal checkpoint inhibitor approved for use in treating neoplastic diseases. Subsequently, its indications have been expanded to several other forms of advanced or metastatic cancer including renal cell carcinoma, colorectal cancer, esophageal cancer, hepatocellular carcinoma, non-small cell lung cancer (NSCLC) and mesothelioma, usually in combination with nivolumab, a monoclonal checkpoint inhibitor of the programmed cell death receptor-1 (anti-PD-1). Ipilimumab is available in liquid solution in 50 and 200 mg vials (5 mg/mL) under the brand name Yervoy. The dose and regime of ipilimumab varies by indication. The typical regimen is 1 or 3 mg/kg as an intravenous infusion every 3 weeks for a total of four doses. Ipililmumab is also approved for adjuvant therapy of melanoma where it is given in higher doses long term.</p>
+          <p>Side effects of ipilimumab are common and can include fatigue, headache, musculoskeletal pain, arthralgia, abdominal pain, diarrhea, nausea, vomiting, decreased appetite, weight loss, fever, cough, dyspnea, pruritus, and rash. Importantly, as a result of immune enhancement, between 15% and 25% of ipilimumab treated patients develop immune related side effects, including enterocolitis, dermatitis, endocrinopathy, pneumonitis, neuropathy, nephritis and hepatitis. Most of these reactions respond to stopping ipilimumab and administration of immunosuppressive therapy, but some have resulted in fatalities and some have required permanent discontinuation of checkpoint inhibitor therapy and long term immunosuppressive therapy. These immune related adverse events are more frequent with combination therapy with nivolumab. Baseline screening and regular monitoring for these adverse events during ipilimumab therapy is recommended. Early recognition and prompt management of side effects is an integral component of proper use of checkpoint inhibitors. Checkpoint inhibitors should be used only by health care professionals with training in immunotherapy and experience in management of the side effects of immunomodulatory agents. Other rare but potentially severe adverse effects of ipilimumab also include infusion reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Ipilimumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations are not uncommon (10% to 30%) during ipilimumab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 1% to 4% of patients and generally lead to temporary discontinuation. Importantly, in 1% to 2% of patients the serum enzyme elevations evolve into an immune mediated liver injury that can be clinically apparent and can be severe. Immune related liver injury is more frequent and severe in patients receiving the combination of ipilimumab and nivolumab. The onset is usually after 2 to 4 cycles, 3 to 9 weeks after initiation of treatment. The pattern of enzyme elevation is most frequently hepatocellular, but can be mixed or even cholestatic. Liver histology demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. Fibrin ring granulomas have been described in some cases and considered somewhat pathognomic of ipilimumab hepatic immune injury. Despite features of immune mediated injury, autoantibodies are generally not present and immunoglobulin levels are normal. Restarting ipilimumab can result in recurrence of injury, although corticosteroid treatment may block recurrence. Switching to another type of checkpoint inhibitor (anti-PD-1 or anti-PD-L1) may be better tolerated than restarting ipilimumab, but there is little evidence that restarting checkpoint inhibitor therapy after a severe immune related adverse event improves survival or the outcome of cancer chemotherapy.</p>
+          <p>Rarely the liver injury associated with checkpoint inhibitor therapy is characterized by a progressive cholestatic injury accompanied by prominent elevations in serum alkaline phosphatase with modest or only moderate aminotransferase elevations. Imaging studies may show irregular dilatation of the intra- and/or extra-hepatic bile ducts and thickening of the gall bladder and bile duct walls, but without evidence of frank obstruction. Liver biopsy shows portal inflammation and bile duct injury and endoscopic biopsy of the bile duct epithelium shows inflammation and scarring. The general features suggest a secondary form of sclerosing cholangitis referred to as checkpoint inhibitor cholangiopathy. Therapy with immunosuppression may improve alkaline phosphatase and bilirubin levels but rarely causes complete recovery, and long term cholestasis and hepatic failure can occur. Some patients with a cholestatic form of immune related hepatitis do not show the bile duct changes but demonstrate loss and paucity of portal bile ducts resulting in a vanishing bile duct syndrome similar to primary biliary cholangitis (PBC).</p>
+          <p>The effects of ipilimumab on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described with it as well as with other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with ipilimumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury and likely cause of reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Ipilimumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to ipilimumab is likely to be immunologically mediated, and most cases appear to respond at least in part to corticosteroid or immunosuppressive therapy. Liver biopsies in cases of hepatocellular injury and bile duct epithelial cell biopsies in cholangiopathic injury demonstrate necrosis and inflammatory cell infiltration with cytotoxic CD8+ T cells, suggesting that the checkpoint inhibition allowed for activation of T cells directed at hepatocyte or cholangiocyte cell surface antigens.</p>
+        </sec>
+        <sec id="Ipilimumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving ipilimumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the upper limit of normal (ULN) and discontinuing treatment for values above 5 times the ULN in patients without preexisting abnormalities or HCC involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days.</p>
+          <p>Most cases of liver injury due to ipilimumab resolve with discontinuation and prompt institution of immunosuppressive therapy which can be discontinued after 1 to 3 months. In some more protracted and resistant instances, corticosteroids have only a limited effect and adding a second agent is needed. Mycophenolate mofetil or azathioprine are most commonly recommended. Other immunosuppressive agents that have been reported to be beneficial include antithymocyte globulin, tacrolimus, infliximab and cycloserine. In refractory cases, immunosuppressive therapy may be needed long term. The few fatal cases due to checkpoint inhibitors have typically occurred in patients who have cholestatic forms of liver injury or have other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome). Restarting ipilimumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended. Switching to other checkpoint inhibitors is more likely to be tolerated. Interestingly, survival rates do not seem to be improved by re-introduction of checkpoint inhibitor therapy after severe immune related adverse events. Thus, restarting therapy should be undertaken only after careful evaluation of the residual cancer status.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Ipilimumab.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Ipilimumab.Case_1_Clinically_apparent_ac">
+          <title>Case 1. Clinically apparent, acute liver injury due to ipilimumab.(<xref ref-type="bibr" rid="Ipilimumab.REF.1">1</xref>)</title>
+          <p>A 43 year old man with metastatic melanoma developed erythema, rash and elevations in serum enzymes 3 days after a third infusion of ipilimumab. He had no history of liver disease, and all liver tests had been normal before starting ipilimumab therapy. Serum ALT was 173 U/L (4 times ULN) and Alk P 131 (1.1 times ULN), while bilirubin levels were normal. The absolute eosinophil count was raised (889/&#x000b5;L) and antinuclear antibody was reactive (2.4 by ELISA), but smooth muscle antibody was not present, and immunoglobulin levels were normal. Over the next few days, liver tests worsened with ALT rising to 2860 U/L, Alk P 410 U/L and total bilirubin 2.2 mg/dL. A liver biopsy showed an acute hepatitis superimposed upon fatty liver disease with steatosis, slight ballooning degeneration, occasional Mallory bodies and slight fibrosis. Initiation of oral prednisone therapy was followed by a slow improvement in enzymes, which fell into the normal range approximately 5 months after onset. Prednisone was later stopped without recurrence of liver injury. He died of progressive metastatic melanoma one year later.</p>
+          <sec id="Ipilimumab.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Ipilimumab.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Ipilimumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Ipilimumab.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Ipilimumab</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ipilimumab.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Ipilimumab.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Mixed initially (R=3.7), hepatocellular at peak (R=20.2)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ipilimumab.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Ipilimumab.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">1+ (symptoms and liver enzyme elevations without frank jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ipilimumab.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Ipilimumab.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ipilimumab.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Ipilimumab.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">5 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ipilimumab.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Ipilimumab.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ipilimumab.Comment">
+            <title>Comment</title>
+            <p>The clinical presentation 10 days after a third infusion of ipilimumab and approximately 90 days after starting therapy was typical of the immune related hepatic injury from this monoclonal antibody. Despite discontinuing further infusions, the liver injury worsened and was eventually treated with low doses of corticosteroids, with a slow but eventually complete response.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Ipilimumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Ipilimumab &#x02013; Yervoy&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Ipilimumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ipilimumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ipilimumab.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ipilimumab.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ipilimumab.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ipilimumab.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ipilimumab.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ipilimumab.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ipilimumab</td>
+                <td headers="hd_h_Ipilimumab.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135287563">477202-00-9</ext-link>
+</td>
+                <td headers="hd_h_Ipilimumab.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Ipilimumab.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ipilimumab.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Ipilimumab.CITED_REFERENCES.reflist0">
+          <ref id="Ipilimumab.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Berman</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>2233</fpage>
+              <lpage>40</lpage>
+              <comment>[Case 5.]</comment>
+              <pub-id pub-id-type="pmid">22434096</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ipilimumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 June 2022</p>
+        <p>Abbreviations used: CPI, checkpoint inhibitor; CTLA-4, cytotoxic T lymphocyte associated antigen 4; HCC, hepatocellular carcinoma; irAE, immune related adverse event; PD-1, programmed cell death receptor 1; PD-L1, programmed cell death receptor ligand-1; NSCLC, non-small cell lung cancer; SCLC, small cell lung cancer.</p>
+        <ref-list id="Ipilimumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ipilimumab.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.reuben.2013">
+            <mixed-citation publication-type="book">Reuben A. Biological immunosuppressives. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 580-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; mentions that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; ipilimumab is not specifically discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/125377Orig1s000SumR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/125377Orig1s000SumR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with current and previous product labels and the initial 2011 multidisciplinary review of the new drug application for ipilimumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.phan.2003.8372">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Phan</surname><given-names>GQ</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Sherry</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Hwu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Topalian</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Schwartzentruber</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Restifo</surname><given-names>NP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cancer regression and autoimmunity induced by cytotoxic T lymphocyte-associated antigen 4 blockade in patients with metastatic melanoma.</article-title>
+              <source>Proc Natl Acad Sci U S A</source>
+              <year>2003</year>
+              <volume>100</volume>
+              <fpage>8372</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Initial study of anti-CTLA-4 therapy in 14 patients with melanoma, 6 of whom developed clinically apparent immune adverse reactions, including one with hepatitis arising after the third infusion [ALT 6820 U/L], resolving over the ensuing 4 months with corticosteroid therapy: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12826605</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.oday.2010.1712">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>O'Day</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Maio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chiarion-Sileni</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Gajewski</surname><given-names>TF</given-names></name>
+<name name-style="western"><surname>Pehamberger</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bondarenko</surname><given-names>IN</given-names></name>
+<name name-style="western"><surname>Queirolo</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of ipilimumab monotherapy in patients with pretreated advanced melanoma: a multicenter single-arm phase II study.</article-title>
+              <source>Ann Oncol</source>
+              <year>2010</year>
+              <volume>21</volume>
+              <fpage>1712</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a clinical trial of ipilimumab in 155 patients with metastatic melanoma, 109 patients [70%] suffered an immune related adverse event, including 14 [9%] with a liver related event, 2 of which were severe and 1 fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20147741</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.hodi.2010.711">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>O'Day</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>McDermott</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>RW</given-names></name>
+<name name-style="western"><surname>Sosman</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Haanen</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Gonzalez</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Improved survival with ipilimumab in patients with metastatic melanoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2010</year>
+              <volume>363</volume>
+              <fpage>711</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of ipilimumab vs a glycoprotein-100 vaccine vs both in 676 patients with metastatic melanoma from 125 centers in 13 countries found ipilimumab therapy prolonged median survival from 6.4 to 10.0 months, but that adverse events were common and usually immune mediated; ALT elevations [&#x0003e;5 times ULN] occurred in 0.5-0.8% of ipilimumab treated patients, but in none of controls).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20525992</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.di_giacomo.2010.499">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Di Giacomo</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Biagioli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Maio</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>The emerging toxicity profiles of anti-CTLA-4 antibodies across clinical indications.</article-title>
+              <source>Semin Oncol</source>
+              <year>2010</year>
+              <volume>37</volume>
+              <fpage>499</fpage>
+              <lpage>507</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of immune related adverse events including hepatitis associated with ipilimumab therapy; recommends stopping therapy for grade 3 toxicity [ALT &#x0003e;5 times ULN] and initiating corticosteroids for at least 30 days).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21074065</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.robert.2011.2517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bondarenko</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>O'Day</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Garbe</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lebbe</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ipilimumab plus dacarbazine for previously untreated metastatic melanoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2011</year>
+              <volume>364</volume>
+              <fpage>2517</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial of ipilimumab and dacarbazine vs dacarbazine alone in 502 patients with metastatic melanoma found ALT elevations in 33% on the combination vs 6% on dacarbazine alone, and ALT values above 5 times ULN in 16% vs 0.7%, but no deaths due to liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21639810</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Ipilimumab (Yervoy) for metastatic melanoma.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <issue>1367</issue>
+              <fpage>51</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the pharmacology, efficacy and safety of ipilimumab as therapy of metastatic melanoma shortly after its approval in the US; common side effects are diarrhea, nausea, fatigue, pruritus, rash and colitis; immune related side effects can include hepatitis; cost of a single dose averages $30,000).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21701442</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.chmiel.2011.e237">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chmiel</surname><given-names>KD</given-names></name>
+<name name-style="western"><surname>Suan</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Liddle</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Nankivell</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ibrahim</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bautista</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fulcher</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Kefford</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Resolution of severe ipilimumab-induced hepatitis after antithymocyte globulin therapy.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2011</year>
+              <volume>29</volume>
+              <fpage>e237</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man with melanoma developed fever and rash 10 days after a second dose of ipilimumab [bilirubin 1.2 mg/dL, ALT 2521 U/L, Alk P 275 U/L, ANA negative], rapidly improving on high doses of methylprednisolone, but relapsing when dose was reduced [bilirubin peak 3.8, ALT 6362 U/L], ultimately responding to addition of antithymocyte globulin and mycophenylate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21220617</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.hanaizi.2012.237">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hanaizi</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>van Zwieten-Boot</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Calvo</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Lopez</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>van Dartel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Camarero</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Abadie</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Pignatti</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>The European Medicines Agency review of ipilimumab (Yervoy) for the treatment of advanced (unresectable or metastatic) melanoma in adults who have received prior therapy: summary of the scientific assessment of the Committee for Medicinal Products for Human Use.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2012</year>
+              <volume>48</volume>
+              <fpage>237</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of safety and efficacy results of ipilimumab forming the basis of approval in Europe; ALT elevations were reported to occur in only 1-2% of patients, with onset of hepatic injury [which can be fatal] after 3-9 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22030452</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.kleiner.2012.2233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Berman</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>2233</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical and histological features of 5 patients with liver injury due to ipilimumab; 3 men and 2 women, ages 43 to 76 years, arising after 2-4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22434096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.weber.2012.2691">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>K&#x000e4;hler</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Hauschild</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Management of immune-related adverse events and kinetics of response with ipilimumab.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>2691</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the immune related adverse events associated with ipilimumab therapy and their management mentions that hepatotoxicity occurs in 3-9% of patients, usually with asymptomatic increases in ALT and bilirubin, but some with symptoms; authors recommend use of high doses of corticosteroids for 2 days followed by tapering doses to at least 30 days, multiple courses may be necessary and ipilimumab should not be restarted).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22614989</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.prieto.2012.2039">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Prieto</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Sherry</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Hughes</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Kammula</surname><given-names>US</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>CL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>CTLA-4 blockade with ipilimumab: long-term follow-up of 177 patients with metastatic melanoma.</article-title>
+              <source>Clin Cancer Res</source>
+              <year>2012</year>
+              <volume>18</volume>
+              <fpage>2039</fpage>
+              <lpage>47</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 177 patients with metastatic melanoma treated with ipilimumab, 33 had a long term objective response and 15 a complete response).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22271879</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.voskens.2013.e53745">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Voskens</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Goldinger</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Loquai</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kaehler</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Berking</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The price of tumor control: an analysis of rare side effects of anti-CTLA-4 therapy in metastatic melanoma from the Ipilimumab Network.</article-title>
+              <source>PLoS One</source>
+              <year>2013</year>
+              <volume>8</volume>
+              <elocation-id>e53745</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective review of adverse reactions seen in 752 patients with metastatic melanoma treated with ipilimumab in 19 major cancer centers in Europe; 120 events were summarized including 11 involving the liver, which usually presented 3-6 weeks after starting therapy, with marked elevations in serum enzymes; one fatal case described in detail).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23341990</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.anderson.2013.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Anderson</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bhatia</surname><given-names>V</given-names></name>
+</person-group>
+              <article-title>Ipilimumab immune-related adverse reactions: a case report.</article-title>
+              <source>S D Med</source>
+              <year>2013</year>
+              <volume>66</volume>
+              <issue>8</issue>
+              <fpage>315</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract: a case of autoimmune hypophysitis during ipilimumab therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24175496</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.kim.2013.1071">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kim</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Ramaiya</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>Krajewski</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Jagannathan</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Tirumani</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Srivastava</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ibrahim</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Ipilimumab associated hepatitis: imaging and clinicopathologic findings.</article-title>
+              <source>Invest New Drugs</source>
+              <year>2013</year>
+              <volume>31</volume>
+              <fpage>1071</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Six patients with ipilimumab hepatitis, ages 44 to 82 years, five men and one woman, treated with 2-4 cycles presenting with fatigue, fever and nausea [bilirubin 0.5-19.6 mg/dL, ALT 168-975 U/L], resolving within 34-147 days of stopping, many were treated with corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23408334</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.ribas.2013.1365">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ribas</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Callahan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Konto</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wolchok</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity with combination of vemurafenib and ipilimumab.</article-title>
+              <source>N Engl J Med</source>
+              <year>2013</year>
+              <volume>368</volume>
+              <fpage>1365</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a pilot study of the combination of vemurafenib and ipilimumab in 10 patients with metastatic melanoma, serum ALT or AST elevations &#x02265;5 times ULN arose within 13-36 days of starting therapy in 6 patients, all of which were asymptomatic and reversible, which resolved within 4-12 days with corticosteroid therapy, recurring in one patient on restarting ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23550685</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.minter.2013.e307">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Minter</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Willner</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Shirai</surname><given-names>K.</given-names></name>
+</person-group>
+              <article-title>Ipilimumab-induced hepatitis C viral suppression.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2013</year>
+              <volume>31</volume>
+              <fpage>e307</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(42 year old man with melanoma and chronic hepatitis C was treated with four courses of ipilimumab and had improvements in serum ALT [192 U/L to normal] and HCV RNA levels [398,938 to &#x0003c;12 IU/mL] during therapy that was partially sustained thereafter [ALT 39 U/L, HCV RNA 1558 IU/mL]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23690418</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.bernardo.2013.47">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bernardo</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>Moskalenko</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sidhu</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Sicular</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Harcharik</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Elevated rates of transaminitis during ipilimumab therapy for metastatic melanoma.</article-title>
+              <source>Melanoma Res</source>
+              <year>2013</year>
+              <volume>23</volume>
+              <fpage>47</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 11 patients with malignant melanoma treated with ipilimumab, 6 [54%] developed some degree of ALT elevation after 1-4 courses, but only one had values above 5 times ULN and all resolved with temporary delay in therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23262440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.weber.2013.1675">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Dummer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>de Pril</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Lebb&#x000e9;</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+</person-group>
+              <article-title>MDX010-20 Investigators. Patterns of onset and resolution of immune-related adverse events of special interest with ipilimumab: detailed safety analysis from a phase 3 trial in patients with advanced melanoma.</article-title>
+              <source>Cancer</source>
+              <year>2013</year>
+              <volume>119</volume>
+              <fpage>1675</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In clinical trials of ipilimumab in 676 patients with melanoma, immune related adverse events occurred in ~60% of patients arising 3-9 weeks after starting and often mild, but severe in 12% and fatal in 1%, including one case of acute liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23400564</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.fecher.2013.733">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fecher</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Agarwala</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+</person-group>
+              <article-title>Ipilimumab and its toxicities: a multidisciplinary approach.</article-title>
+              <source>Oncologist</source>
+              <year>2013</year>
+              <volume>18</volume>
+              <fpage>733</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Thorough review of side effects of ipilimumab therapy of melanoma states that common adverse events include fatigue, nausea, vomiting, diarrhea, fever, headache, dizziness, rash and pruritus occurring in 70-88% of patients, and that hepatotoxicity occurs in 2-9% that can be self-limited, but also can be severe and require corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23774827</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.mcdermott.2013.2694">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McDermott</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Haanen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>TT</given-names></name>
+<name name-style="western"><surname>Lorigan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>O'Day</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>MDX010-20 Investigators. Efficacy and safety of ipilimumab in metastatic melanoma patients surviving more than 2 years following treatment in a phase III trial (MDX010-20).</article-title>
+              <source>Ann Oncol</source>
+              <year>2013</year>
+              <volume>24</volume>
+              <fpage>2694</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 676 patients with melanoma enrolled in the phase III trial of ipilimumab, 94 [20%] survived for 2 years and 42 [16%] for 3 years; late onset immune related adverse events occurred in 11 patients [14%], but were usually mild and none were hepatic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23942774</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.ascierto.2014.116">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ascierto</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Simeone</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Sileni</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Pigozzo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Maio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Altomonte</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Del Vecchio</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical experience with ipilimumab 3 mg/kg: real-world efficacy and safety data from an expanded access programme cohort.</article-title>
+              <source>J Transl Med</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <fpage>116</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 855 patients with melanoma treated with ipilimumab in an expanded access program, 19 [2%] developed "liver toxicity", which led to stopping therapy in 1 patient and death from hepatitis in another).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24885479</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.postow.2015.2006">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Postow</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Chesney</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pavlick</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Grossmann</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>McDermott</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Linette</surname><given-names>GP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Nivolumab and ipilimumab versus ipilimumab in untreated melanoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>372</volume>
+              <fpage>2006</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial of ipilimumab with or without nivolumab in 142 patients with melanoma found higher rates of response but also side effects with the antibody combination, ALT elevations occurring in 22.3% vs 4.3% and values above 5 times ULN in 10.5% vs 0%, but there were no deaths from liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25891304</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.zimmer.2015.e0118564">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zimmer</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vaubel</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mohr</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hauschild</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Utikal</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Garbe</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase II DeCOG-study of ipilimumab in pretreated and treatment-na&#x000ef;ve patients with metastatic uveal melanoma.</article-title>
+              <source>PLoS One</source>
+              <year>2015</year>
+              <volume>10</volume>
+              <issue>3</issue>
+              <elocation-id>e0118564</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 53 patients with metastatic uveal melanoma treated with ipilimumab, response rates were poor and side effects were common, ALT elevations occurred in 7% and were above 5 times ULN in 4%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25761109</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.hodi.2014.1744">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>McDermott</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Rao</surname><given-names>UN</given-names></name>
+<name name-style="western"><surname>Butterfield</surname><given-names>LH</given-names></name>
+<name name-style="western"><surname>Tarhini</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Leming</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ipilimumab plus sargramostim vs ipilimumab alone for treatment of metastatic melanoma: a randomized clinical trial.</article-title>
+              <source>JAMA</source>
+              <year>2014</year>
+              <volume>312</volume>
+              <fpage>1744</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 245 patients with metastatic melanoma treated with ipilimumab with or without sargramostim [GM-CSF] found improved objective responses with the combination and lower rates of severe adverse events, ALT elevations above 5 times ULN occurring in 5.1% vs 5.8% of patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25369488</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.ravi.2014.33">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ravi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Spencer</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ruisi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ibrahim</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Luke</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shirai</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ipilimumab administration for advanced melanoma in patients with pre-existing Hepatitis B or C infection: a multicenter, retrospective case series.</article-title>
+              <source>J Immunother Cancer</source>
+              <year>2014</year>
+              <volume>2</volume>
+              <fpage>33</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 9 patients with metastatic melanoma and either chronic hepatitis C [n=4] or B [n=5] treated with ipilimumab, viral levels and serum ALT levels did not change in a consistent manner; most with hepatitis B were on antiviral prophylaxis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25317333</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 cases were attributed to antineoplastic agents, one of which was due to ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.robert.2015.2521">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schachter</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Long</surname><given-names>GV</given-names></name>
+<name name-style="western"><surname>Arance</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Grob</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Mortier</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Daud</surname><given-names>A</given-names></name>
+<etal/>
+<collab>KEYNOTE-006 investigators</collab>
+</person-group>
+              <article-title>Pembrolizumab versus ipilimumab in advanced melanoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>372</volume>
+              <fpage>2521</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 834 patients with advance melanoma treated with pembrolizumab [Pem: 10mg/kg every 2 or 3 weeks] or ipilimumab [Ipil: 3 mg/kg every 3 weeks], 6 month progression free survival was higher with Pem [47% and 46%] than Ipil [26.5%] and adverse events were less; thyroiditis was more common with Pem, whereas colitis and hypophysitis were more common with Ipil; ALT elevations occurred in 3% [Pem] vs 3.5% [Ipil] and were above 5 times ULN in 0.2% vs 0.8%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25891173</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.ahmed.2015.bcr2014208102">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ahmed</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Pandey</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Black</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Resolution of ipilimumab induced severe hepatotoxicity with triple immunosuppressants therapy.</article-title>
+              <source>BMJ Case Rep.</source>
+              <year>2015</year>
+              <volume>2015</volume>
+              <elocation-id>bcr2014208102</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old woman with metastatic melanoma developed fever and liver test abnormalities after a first infusion of ipilimumab [bilirubin 0.9 rising to 1.8 mg/dL, ALT 640 to 4700 U/L, Alk P 366 to 604 U/L], treated with corticosteroids and then ATG and mycophenolate and resolving in 4 weeks, not restarted).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26174726</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.johncilla.2015.1075">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Johncilla</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Misdraji</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pratt</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Agoston</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Lauwers</surname><given-names>GY</given-names></name>
+<name name-style="western"><surname>Srivastava</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Doyle</surname><given-names>LA</given-names></name>
+</person-group>
+              <article-title>Ipilimumab-associated Hepatitis: Clinicopathologic characterization in a series of 11 cases.</article-title>
+              <source>Am J Surg Pathol</source>
+              <year>2015</year>
+              <volume>39</volume>
+              <fpage>1075</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 11 patients with metastatic melanoma treated with ipilimumab who developed liver injury and had liver biopsy, age range 33 to 71 years, 10 men, arising after 1-4 doses, all with ALT elevations and 3 with jaundice [bilirubin 0.7 to 15.6 mg/dL, ALT 185 to 3075, Alk P 48 to 453 U/L], 9 biopsies showed panlobular or central hepatitis, one showed NASH, one cholangitis; all resolved in 2-12 weeks with corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26034866</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.morales.2015.22">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Morales</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Shoushtari</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Walsh</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Grewal</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lipson</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Carvajal</surname><given-names>RD</given-names></name>
+</person-group>
+              <article-title>Safety and efficacy of ipilimumab to treat advanced melanoma in the setting of liver transplantation.</article-title>
+              <source>J Immunother Cancer</source>
+              <year>2015</year>
+              <volume>3</volume>
+              <fpage>22</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old man with liver transplant for hepatitis C developed metastatic melanoma treated with 4 doses of ipilimumab and 2 weeks later had ALT elevations without jaundice that resolved without corticosteroids or antirejection therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26082835</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.hofmann.2016.190">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hofmann</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Forschner</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Loquai</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Goldinger</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Zimmer</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ugurel</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Schmidgen</surname><given-names>MI</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Cutaneous, gastrointestinal, hepatic, endocrine, and renal side-effects of anti-PD-1 therapy.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2016</year>
+              <volume>60</volume>
+              <fpage>190</fpage>
+              <lpage>209</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the major immune mediated side effects of anti-PD-1 therapy, with characteristics of 11 cases of hepatitis due to pembrolizumab or nivolumab, arising 1-4 weeks after initial infusions, resolving mostly with corticosteroid therapy and stopping drugs).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27085692</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.weber.2016.1230">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Postow</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lao</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Schadendorf</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Management of adverse events following treatment with anti-programmed death-1 agents.</article-title>
+              <source>Oncologist</source>
+              <year>2016</year>
+              <volume>21</volume>
+              <fpage>1230</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of immune mediated adverse events from anti-PD-1 therapy and their management; ALT elevations are reported in 2-4% of patients with higher rates with combinations; recommend stopping therapy if ALT elevations are above 5 times ULN or bilirubin is raised and use of methylprednisolone, but merely delay in therapy and increased frequency of monitoring if ALT elevations are above 3 times but below 5 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27401894</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.koelzer.2016.13">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Koelzer</surname><given-names>VH</given-names></name>
+<name name-style="western"><surname>Rothschild</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Zihler</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wicki</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Willi</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Willi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Voegeli</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Systemic inflammation in a melanoma patient treated with immune checkpoint inhibitors-an autopsy study.</article-title>
+              <source>J Immunother Cancer</source>
+              <year>2016</year>
+              <volume>4</volume>
+              <fpage>13</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old woman with refractory metastatic melanoma received 4 infusions of ipilimumab and 4 cyclces of nivolumab with partial response only and death, autopsy showing necrotic melanoma metastases and CD8+ T cell infiltrates in many organs, including liver).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26981243</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.sp_nkuch.2017.203">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sp&#x000e4;nkuch</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Gassenmaier</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tampouri</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Noor</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Forschner</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Garbe</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Amaral</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Severe hepatitis under combined immunotherapy: resolution under corticosteroids plus anti-thymocyte immunoglobulins.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2017</year>
+              <volume>81</volume>
+              <fpage>203</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman with metastatic melanoma developed abdominal pain after 3 cycles of ipilimumab and nivolumab [bilirubin 5.5 mg/dL, ALT 722 U/L, Alk P 449 U/L], responding slowly to methylprednisolone and ATG, and then tolerating pembrolizumab therapy without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28641200</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.yildirim.2017.380">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yildirim</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Deniz</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Do&#x0011f;an</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ba&#x0015f;kol</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>G&#x000fc;rsoy</surname><given-names>&#x0015e;</given-names></name>
+<name name-style="western"><surname>&#x000d6;zkan</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>Ipilimumab-associated cholestatic hepatitis: a case report and literature review.</article-title>
+              <source>Melanoma Res</source>
+              <year>2017</year>
+              <volume>27</volume>
+              <fpage>380</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(45 year old man with refractory metastatic melanoma developed jaundice 7 days after a 4th dose of ipilimumab [bilirubin 8.5 mg/dL, ALT 96 U/L, Alk P 678 U/L, GGT 1320 U/L], resolving slowly with corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28489679</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.tanaka.2017.175">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tanaka</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fujisawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Sae</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Maruyama</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ito</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hasegawa</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sekine</surname><given-names>I</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Severe hepatitis arising from ipilimumab administration, following melanoma treatment with nivolumab.</article-title>
+              <source>Jpn J Clin Oncol</source>
+              <year>2017</year>
+              <volume>47</volume>
+              <fpage>175</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(59 year old man with refractory metasatic melanoma treated with 11 doses of nivolumab developed severe hepatitis after one dose of ipilimumab with fever, chills and fatigue [bilirubin 2.1 rising to 12.6 mg/dL, ALT 1623 U/L, Alk P 1306 U/L, INR 1.45], eventually improving with high doses of methylprednisolone and mycophenolate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28173241</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.mirza.2017.271">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mirza</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hill</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ludlow</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Nanjappa</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Checkpoint inhibitor-associated drug reaction with eosinophilia and systemic symptom syndrome.</article-title>
+              <source>Melanoma Res</source>
+              <year>2017</year>
+              <volume>27</volume>
+              <fpage>271</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old man with refractory metastatic melanoma developed fever, rash and liver test abnormalities while receiving ipilimumab and nivolumab, but also 1 week after a course of levofloxacin [bilirubin and Alk P not given, ALT 116 U/L, eosinophils 1400/uL], resolving with corticosteroid therapy and stopping monoclonal antibodies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28146044</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.bunchorntavakul.2017.115">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bunchorntavakul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Drug hepatotoxicity: newer agents.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2017</year>
+              <volume>21</volume>
+              <fpage>115</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of agents newly approved for use in the US including ipilimumab which is associated with ALT elevations in 3-9% of patients [above 5 times ULN in 0.5% to 1.5%], most of which are self-limited in course; however, clinically apparent, largely hepatocellular, injury can also occur, especially when combined with dacarbazine or vemurafenib, usually responding to corticosteroid therapy, but rare deaths from hepatic failure have been reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27842767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.everett.2017.134">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Everett</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Srivastava</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Misdraji</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Fibrin ring granulomas in checkpoint inhibitor-induced hepatitis.</article-title>
+              <source>Am J Surg Pathol</source>
+              <year>2017</year>
+              <volume>41</volume>
+              <fpage>134</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Fibrin ring granulomas were found in liver biopsies from 2 patients with metastatic melanoma treated with ipilimumab who developed fever, rash and elevated liver tests after 3 infusions [bilirubin 0.5 and 0.2 mg/dL, ALT 130 and 643 U/L, Alk P 264 and 70 U/L], resolving with corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27792061</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.weber.2017.1824">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mandala</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Del Vecchio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gogas</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Arance</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Cowey</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Dalle</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>CheckMate 238 Collaborators. Adjuvant nivolumab versus ipilimumab in resected stage III or IV melanoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2017</year>
+              <volume>377</volume>
+              <fpage>1824</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 905 patients with malignant melanoma after surgical resection given adjuvant therapy for at least 18 months, progression free survival was less with ipilimumab than nivolumab [60.8% vs 70.5% at 12 months] and side effects were greater [serious adverse events in 43% vs 18%] including ALT elevations [15% vs 6% which were above 5 times ULN in 5.7% vs 1.1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28891423</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.koksal.2017.3103">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Koksal</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Toka</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Eminler</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Hacibekiroglu</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Uslan</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Parlak</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>HBV-related acute hepatitis due to immune checkpoint inhibitors in a patient with malignant melanoma.</article-title>
+              <source>Ann Oncol.</source>
+              <year>2017</year>
+              <volume>28</volume>
+              <fpage>3103</fpage>
+              <lpage>3104</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old man with melanoma and HBsAg in serum developed liver injury 12 weeks after starting ipilimumab [bilirubin 0.7 rising to 1.9 mg/dL, ALT 246 rising to 888 U/L, HBV DNA 244,259 IU/mL], responding to tenofovir and was continued on nivolumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28945827</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.huffman.2018.760">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Huffman</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Kottschade</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kamath</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Markovic</surname><given-names>SN</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity after immune checkpoint inhibitor therapy in melanoma: natural progression and management.</article-title>
+              <source>Am J Clin Oncol</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <issue>8</issue>
+              <fpage>760</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 218 patients treated with various checkpoint inhibitors at the Mayo Clinic over a 5 year period, 17 developed hepatotoxicity [12 after ipilimumab alone], with onset after median of 52 days [16-151 days] and resolving mostly with corticosteroid therapy after 31 days [6-56 days]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28749795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.dueland.2017.2619">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dueland</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Guren</surname><given-names>TK</given-names></name>
+<name name-style="western"><surname>Boberg</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Reims</surname><given-names>HM</given-names></name>
+<name name-style="western"><surname>Grzyb</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Aamdal</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Julsrud</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Acute liver graft rejection after ipilimumab therapy.</article-title>
+              <source>Ann Oncol</source>
+              <year>2017</year>
+              <volume>28</volume>
+              <fpage>2619</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old woman with ocular melanoma underwent liver transplantation and later had metastases to graft, developed liver test abnormalities 3 weeks after stopping immunosuppression [sirolimus and mycophenolate] and receiving one infusion of ipilimumab [ALT 750 U/L], biopsy showing acute rejection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28961840</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.zen.2018.965">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yeh</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of immune checkpoint inhibitors: a histology study of seven cases in comparison with autoimmune hepatitis and idiosyncratic drug-induced liver injury.</article-title>
+              <source>Mod Pathol</source>
+              <year>2018</year>
+              <volume>31</volume>
+              <fpage>965</fpage>
+              <lpage>973</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Liver histology in 7 cases of hepatotoxicity from checkpoint inhibitors [2 ipilimumab, 7 nivolumab] showed lobular hepatitis with prominence of CD8+ lymphocytes in most, with less eosinophilic infiltration and bile plugs than typical drug induced hepatitis and less plasma cell infiltration and portal inflammation than autoimmune hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29403081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.huffman.2018.760_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Huffman</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Kottschade</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Kamath</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Markovic</surname><given-names>SN</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity after immune checkpoint inhibitor therapy in melanoma: natural progression and management.</article-title>
+              <source>Am J Clin Oncol.</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <fpage>760</fpage>
+              <lpage>765</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 281 patients with cancer treated with checkpoint inhibitors at the Mayo Clinic over a 5 year period, 17 [6%] developed liver injury within 16 to 151 [median=52] days of starting [ipilimumab alone in 12, with nivolumab in 2 and pembrolizumab alone in 3], all with ALT elevations [59 to 2355 U/L], often with Alk P elevations [up to 1728 U/L], 6 with jaundice [bilirubin 2.5 to 15.7 mg/dL], all but one treated with corticosteroids, responding in 6-56 [median 31] days, 2 requiring a second agent [azathioprine or cycloserine], none fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28749795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.postow.2018.158">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Postow</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Sidlow</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hellmann</surname><given-names>MD</given-names></name>
+</person-group>
+              <article-title>Immune-related adverse events associated with immune checkpoint blockade.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2018</year>
+              <volume>378</volume>
+              <fpage>158</fpage>
+              <lpage>168</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, outcomes, pathogenesis and therapy of immune related adverse events of checkpoint inhibitor therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29320654</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.wong.2021.1274">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Hui</surname><given-names>VW</given-names></name>
+<name name-style="western"><surname>Yip</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Tse</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Lui</surname><given-names>RN</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatitis flare during immunotherapy in patients with current or past hepatitis B virus infection.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2021</year>
+              <volume>116</volume>
+              <fpage>1274</fpage>
+              <lpage>1283</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 990 patients in Hong Kong with advanced malignancies treated with checkpoint inhibitors between 2014 and 2019 [397 HBsAg positive, 482 with anti-HBc or anti-HBs, 111 negative for both at baseline], 39% of HBsAg-positive vs 30% of HBsAg-negative patients developed ALT elevations during therapy, but only two cases [both HBsAg positive and on prophylaxis] were due to HBV reactivation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33560651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.mustafayev.2022">
+            <mixed-citation publication-type="other">Mustafayev K, Torres H. Hepatitis B virus and hepatitis C virus reactivation in cancer patients receiving novel anticancer therapies. Clin Microbiol Infect. 2022:S1198-743X(22)00119-7.<annotation><p><italic toggle="yes">(Review of the literature on reactivation of HBV and HCV in patients on &#x0201c;novel&#x0201d; anticancer therapy concludes that reactivation can occur with checkpoint inhibitor therapy, but largely among HBsAg positive patients and only rarely in patients with resolved hepatitis B).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.yoo.2022.898">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yoo</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Shim</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Yoo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of hepatitis B virus reactivation in patients treated with immunotherapy for anti-cancer treatment.</article-title>
+              <source>Clin Gastroenterol Hepatol.</source>
+              <year>2022</year>
+              <volume>20</volume>
+              <fpage>898</fpage>
+              <lpage>907</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3,465 patients with advanced malignancies treated with checkpoint inhibitors between 2015 and 2020 at a single referral center in Korean, 511 [15%] were HBsAg positive at baseline, reactivation of HBV occurred in 5 of 511 [1%] HBsAg positive vs none of 2,954 HBsAg negative patients, arising in 2 of 464 [0.4%] patients given prophylaxis [both having stopped antivirals] vs 3 of 47 not given prophylaxis [6.4%]; reactivation arising after 3-141 weeks [median 54 weeks] of nivolumab [n=2], pembrolizumab [n=2] or ipilimumab and nivolumab [n=1] treatment, ALT peak 53 to 1768 IU/mL, HBV DNA 6,100 to 3.9 million IU/mL, resolving with 2 to 6 weeks of starting antiviral therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34182151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.de_martin.2018.1181">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>De Martin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Michot</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Papouin</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Champiat</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mateus</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lambotte</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Roche</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Characterization of liver injury induced by cancer immunotherapy using immune checkpoint inhibitors.</article-title>
+              <source>J Hepatol.</source>
+              <year>2018</year>
+              <volume>68</volume>
+              <fpage>1181</fpage>
+              <lpage>1190</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 536 patients treated with checkpoint inhibitors, 19 [3.5%] were referred to a liver service for high grade hepatitis and 16 underwent liver biopsy; ages 33 to 84 years, 56% female, injury arising after 1-36 [median=5] weeks and 1-36 [median=2] doses, presenting with fever in 38%, rash in 31%, ALT 266 to 3137 [460] U/L, Alk P 54 to 768 [309] U/L, bilirubin 0.4 to 19 [1.1] mg/dL, enzyme pattern most commonly being mixed, 10 patients treated with corticosteroids and 6 resolving spontaneously and no deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29427729</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.pollack.2018.250">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pollack</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Betof</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Dearden</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rapazzo</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Valentine</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Brohl</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Ancell</surname><given-names>KK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of resuming anti-PD-1 in patients with immune-related adverse events (irAEs) during combined anti-CTLA-4 and anti-PD1 in metastatic melanoma.</article-title>
+              <source>Ann Oncol.</source>
+              <year>2018</year>
+              <volume>29</volume>
+              <fpage>250</fpage>
+              <lpage>255</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 80 patients treated with checkpoint inhibitors who developed immune related adverse events requiring discontinuation who were then restarted on therapy, 31 [39%] had recurrence or toxicities requiring discontinuation again, of the 29 who had hepatitis initially, 5 had recurrence on restarting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29045547</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.santini.2018.1093">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Santini</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Rizvi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Plodkowski</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Ni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lacouture</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Gambarin-Gelwan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wilkins</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and efficacy of re-treating with immunotherapy after immune-related adverse events in patients with NSCLC.</article-title>
+              <source>Cancer Immunol Res.</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>1093</fpage>
+              <lpage>1099</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 482 patients with metastatic or advanced NSCLC treated with checkpoint inhibitors at a single US referral center between 2011 and 2016, 68 [14%] developed a serious immune related adverse event [irAE] that required discontinuation of whom 38 were retreated, of whom 18 had no recurrence, 10 had recurrence of the same irAE, 10 had a new irAE [2 of which were fatal]; restarting therapy appeared to be beneficial only in those who had no tumor response before onset of the first event).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29991499</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.tian.2018.159">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tian</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Immune checkpoint inhibitors-induced hepatitis.</article-title>
+              <source>Adv Exp Med Biol.</source>
+              <year>2018</year>
+              <volume>995</volume>
+              <fpage>159</fpage>
+              <lpage>164</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical, pathological and immunological features of liver injury associated with immune checkpoint inhibitors such as ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30539511</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.karamchandani.2018.665">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Karamchandani</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Chetty</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Immune checkpoint inhibitor-induced gastrointestinal and hepatic injury: pathologists' perspective.</article-title>
+              <source>J Clin Pathol.</source>
+              <year>2018</year>
+              <volume>71</volume>
+              <fpage>665</fpage>
+              <lpage>671</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the gastrointestinal and hepatic adverse events of checkpoint inhibitors with focus on histopathologic features, describes three major histologic patterns: (</italic>
+<xref ref-type="bibr" rid="Ipilimumab.REF.1">
+<italic toggle="yes">1</italic>
+</xref>
+<italic toggle="yes">) panlobular hepatitis with mixed inflammatory cell infiltrates, sometimes with microgranulomas; (2) hepatitis with prominent centrilobular [zone 3] necrosis; (3) rarely with prominent biliary injury and cholestasis)</italic>
+
+
+<italic toggle="yes">.</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29703758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.johnson.2018.1702">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Johnson</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Chandra</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sosman</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Immune checkpoint inhibitor toxicity in 2018.</article-title>
+              <source>JAMA</source>
+              <year>2018</year>
+              <volume>320</volume>
+              <issue>16</issue>
+              <fpage>1702</fpage>
+              <lpage>1703</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief review of the immune mediated adverse effects of checkpoint inhibitors, mentions that hepatitis arises in ~1% of recipients of anti-PD-1 or anti-PD-L1 monoclonal antibodies but in as many as 10% of recipients of anti-CTLA-4 monoclonals such as ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30286224</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.namikawa.2018.114">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Namikawa</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kiyohara</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Takenouchi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Uhara</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Uchi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yoshikawa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Takatsuka</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of nivolumab in combination with ipilimumab in Japanese patients with advanced melanoma: An open-label, single-arm, multicentre phase II study.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2018</year>
+              <volume>105</volume>
+              <fpage>114</fpage>
+              <lpage>126</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30 Japanese subjects with advanced melanoma treated with nivolumab and ipilimumab, overall survival was 66% at 24 months and adverse events occurred in all patients including ALT elevations in 37% which were above 5 times ULN in 10%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30447539</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.zhang.2019.47">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhang</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Luo</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Acute liver injury in the context of immune checkpoint inhibitor-related colitis treated with infliximab.</article-title>
+              <source>J Immunother Cancer.</source>
+              <year>2019</year>
+              <volume>7</volume>
+              <fpage>47</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(79 year old man with metastatic prostate cancer treated 3 cycles of nivolumab and ipilimumab developed corticosteroid-refractory immune mediated enterocolitis and was treated with a single infusion of infliximab and one month later developed jaundice [bilirubin 7.5 mg/dL, ALT 291 U/L, Alk P 677 U/L, ANA negative], which was attributed to infliximab and eventually resolved without corticosteroid therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30777137</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.cheung.2019.364">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cheung</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Payne</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Middleton</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Collier</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Simmons</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Klenerman</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immunotherapy-related hepatitis: real-world experience from a tertiary centre.</article-title>
+              <source>Frontline Gastroenterol.</source>
+              <year>2019</year>
+              <volume>10</volume>
+              <issue>4</issue>
+              <fpage>364</fpage>
+              <lpage>371</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 453 patients treated with checkpoint inhibitors for cancer between 2022 and 2018, 20 [4%] developed immune related hepatitis, with highest rates with the combination of ipilimumab and nivolumab, 18 treated with immunosuppression using corticosteroids, 8 with addition of mycophenolate and 2 with infliximab, none fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31656561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.zen.2019.434">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yeh</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Checkpoint inhibitor-induced liver injury: A novel form of liver disease emerging in the era of cancer immunotherapy.</article-title>
+              <source>Semin Diagn Pathol.</source>
+              <year>2019</year>
+              <volume>36</volume>
+              <fpage>434</fpage>
+              <lpage>440</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Liver histology from 7 patients with checkpoint inhibitor [CPI] induced hepatitis [4 nivolumab, 2 ipilimumab, arising after 1-6 doses] and classical autoimmune hepatitis showed similar rates of lobular hepatitis, but less confluent necrosis with CPIs and absence of autoantibodies and IgG elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31358424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.vozy.2019.112">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vozy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>De Martin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Lebrun-Vignes</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Moslehi</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Salem</surname><given-names>JE</given-names></name>
+</person-group>
+              <article-title>Increased reporting of fatal hepatitis associated with immune checkpoint inhibitors.</article-title>
+              <source>Eur J Cancer.</source>
+              <year>2019</year>
+              <volume>123</volume>
+              <fpage>112</fpage>
+              <lpage>115</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the VigiBase registry of adverse drug reactions through September 2018 identified 531 cases of immune related hepatitis, 85% due to CPIs alone with an increase in fatality rate over time, being 14% between 2011 to 2016 and 34% in 2017-2018, time to onset median of 42 days, arising after 1-4 courses [median 2] and with concurrent other organ immune related injury in 31%, usually thyroid or skin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31678768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.zhang.2019.50">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Hart</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Feely</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Yassan</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Alpert</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Histologic patterns of liver injury induced by anti-PD-1 therapy.</article-title>
+              <source>Gastroenterol Rep (Oxf)</source>
+              <year>2019</year>
+              <volume>8</volume>
+              <fpage>50</fpage>
+              <lpage>55</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Liver histology in 8 cases of immune mediated liver injury after monoclonal anti-PD-1 therapy revealed a lobular hepatitis without features of autoimmune hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32467761</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.imoto.2019.6391712">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Imoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kohjima</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hioki</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kurashige</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kurokawa</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tashiro</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Suzuki</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical features of liver injury induced by immune checkpoint inhibitors in Japanese patients.</article-title>
+              <source>Can J Gastroenterol Hepatol.</source>
+              <year>2019</year>
+              <volume>2019</volume>
+              <elocation-id>6391712</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 343 Japanese patients with cancer treated with checkpoint inhibitors, 56 [16%] developed evidence of liver injury, arising after 21 to 94 [median=46] days, with initial ALT 39 to 136 [mean 60] U/L, Alk P 263 to 857 [471] U/L, bilirubin 0.4 to 1.0 [0.7] mg/dL, and thus a cholestatic pattern was found in most patients, and there was a low rate of high grade liver injury [3.2%] and no fatalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31929981</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.jennings.2019.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jennings</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Mandaliya</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Nakshabandi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity induced by immune checkpoint inhibitors: a comprehensive review including current and alternative management strategies.</article-title>
+              <source>Expert Opin Drug Metab Toxicol.</source>
+              <year>2019</year>
+              <volume>15</volume>
+              <fpage>231</fpage>
+              <lpage>244</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the incidence, clinical features, histopathology, diagnosis, grading, and management of the liver injury associated with checkpoint inhibitor therapy which occurs in up to half of patients, but ALT values above 5 times ULN in 1-20% being highest with ipilimumab and particularly when given in combination with nivolumab or other PD-1 or PD-L1 inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30677306</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.abusbeih.2019.118">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>CN</given-names></name>
+<name name-style="western"><surname>Ge</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Bhutani</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Alasadi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jazaeri</surname><given-names>AA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Case series of cancer patients who developed cholecystitis related to immune checkpoint inhibitor treatment.</article-title>
+              <source>J Immunother Cancer.</source>
+              <year>2019</year>
+              <volume>7</volume>
+              <fpage>118</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4253 patients treated with checkpoint inhibitors at the MD Anderson Cancer Center between 2010 and 2018, 25 [0.6%] developed acalculous cholecystitis attributed to the immunotherapy most frequently with anti-CTLA-4 agents alone [1.6%], than anti-PD-1/PD-L1 [0.4%] and combination [0.9%], mean age of patients was 60 years, 60% male, 64% white, median peak ALT 55 U/L, bilirubin 1.4 mg/dL, 20% underwent cholecystectomy, all recovered, 10 [40%] restarted therapy, all without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31053161</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.mizuno.2020.653">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mizuno</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ito</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ishigami</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ishizu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kuzuya</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Honda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kawashima</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Real world data of liver injury induced by immune checkpoint inhibitors in Japanese patients with advanced malignancies.</article-title>
+              <source>J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>55</volume>
+              <fpage>653</fpage>
+              <lpage>661</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 546 patients with advanced malignancies treated with checkpoint inhibitors at two Japanese referral centers between 2014 and 2019, high grade, immune mediated liver injury occurred in 29 [5%], mean age 69 years, 73% male, mean onset 52 [range 1-273] days, after 3 [1-15] doses of ipilimumab [6%], nivolumab [54%], pembrolizumab [30%], atezolizumab [6%], durvalumab [2.4%], combination [1.3%], presenting with hepatocellular [21%], cholestatic [59%] or mixed [21%] enzyme elevations, 4 with cholangitis and biliary dilatation without obstruction, only 1 case fatal; predictive factors for injury included ipilimumab [hazard ratio 4.2]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32124082</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.zen.2020.470">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>YY</given-names></name>
+<name name-style="western"><surname>Jeng</surname><given-names>YM</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>HW</given-names></name>
+<name name-style="western"><surname>Yeh</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Immune-related adverse reactions in the hepatobiliary system: second-generation check-point inhibitors highlight diverse histological changes.</article-title>
+              <source>Histopathology.</source>
+              <year>2020</year>
+              <volume>76</volume>
+              <fpage>470</fpage>
+              <lpage>480</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 10 cases of second generation checkpoint inhibitor induced immune liver injury mentions 3 patterns, hepatocellular, cholestatic and granulomatous injury, the cholestatic form often with a delayed latency and poor response to corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31550390</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.peeraphatdit.2020.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Peeraphatdit</surname><given-names>TB</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Odenwald</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hart</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Charlton</surname><given-names>MR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity from immune checkpoint inhibitors: a systematic review and management recommendation.</article-title>
+              <source>Hepatology.</source>
+              <year>2020</year>
+              <volume>72</volume>
+              <fpage>315</fpage>
+              <lpage>329</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, biochemical findings, histology, pathogenesis, diagnosis and management of immune related liver injury due to the checkpoint inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32167613</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.li.2020.5088">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Li</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sack</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Rahma</surname><given-names>OE</given-names></name>
+<name name-style="western"><surname>Hodi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Zucker</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Grover</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Outcomes after resumption of immune checkpoint inhibitor therapy after high-grade immune-mediated hepatitis.</article-title>
+              <source>Cancer.</source>
+              <year>2020</year>
+              <volume>126</volume>
+              <fpage>5088</fpage>
+              <lpage>5097</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 102 patients with advanced melanoma treated with checkpoint inhibitors at 3 Boston medical centers between 2010 and 2019 who developed high grade liver injury, 31 were rechallenged with a checkpoint inhibitor of whom 15 [48%] developed an immune related adverse event, but only 6 [20%] required drug discontinuation, 4 with recurrence of liver injury most commonly with ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32888341</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.miller.2020.251">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miller</surname><given-names>ED</given-names></name>
+<name name-style="western"><surname>Abu-Sbeih</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Styskel</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Nogueras Gonzalez</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Blechacz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical characteristics and adverse impact of hepatotoxicity due to immune checkpoint inhibitors.</article-title>
+              <source>Am J Gastroenterol.</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>251</fpage>
+              <lpage>261</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 5762 recipients of checkpoint inhibitor therapy of cancer at the MD Anderson Cancer Center between 2010 and 2018, 433 [8%] developed ALT levels and 100 had levels above 5 times ULN [2%), the rate being 8% with combination therapy, 1.7% with anti-CTLA agents and 1.1% with PD1 and PDL1 blockers, the abnormalities arising after a median of 59 days; all had the checkpoint inhibitor therapy held, 67 received corticosteroids [for a median of 43 days], 3 with mycophenolate, and 31 were rechallenged after resolution of the hepatitis, of whom 8 [26%] had a recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31789632</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.kitagataya.2020.1782">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kitagataya</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Suda</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Nagashima</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Katsurada</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yamamoto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kimura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Maehara</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Prevalence, clinical course, and predictive factors of immune checkpoint inhibitor monotherapy-associated hepatitis in Japan.</article-title>
+              <source>J Gastroenterol Hepatol.</source>
+              <year>2020</year>
+              <volume>35</volume>
+              <fpage>1782</fpage>
+              <lpage>1788</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 202 patients with cancer treated with checkpoint inhibitors at a single referral center in Japan, 17 [8.5%] developed immune related hepatitis which was severe in 8 [4.5%] often requiring corticosteroids, 2 receiving mycophenolate as well, but none died).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32187734</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.ruggiero.2020.830">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ruggiero</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fraenza</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Scavone</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>di Mauro</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Piscitelli</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mascolo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immune checkpoint inhibitors and immune-related adverse drug reactions: data from Italian Pharmacovigilance Database.</article-title>
+              <source>Front Pharmacol.</source>
+              <year>2020</year>
+              <volume>11</volume>
+              <fpage>830</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2088 safety reports of check point inhibitors enrolled in an Italian pharmacovigilance registry, 801 were immune related including gastrointestinal [33%], skin [17%] and liver [2.7%] due to nivolumab [70%], pembrolizumab [11%], ipilimumab [15%], atezolizumab [4%] and avelumab [&#x0003c;1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32581796</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.riveirobarciela.2020.1906">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Riveiro-Barciela</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Barreira-D&#x000ed;az</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vidal-Gonz&#x000e1;lez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mu&#x000f1;oz-Couselo</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;nez-Valle</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Viladomiu</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>M&#x000ed;nguez</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Immune-related hepatitis related to checkpoint inhibitors: clinical and prognostic factors.</article-title>
+              <source>Liver Int.</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>1906</fpage>
+              <lpage>1916</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 414 patients treated with checkpoint inhibitors, 28 [6.8%] developed high grade liver injury but 19 were considered mild, 7 moderate, 1 severe and only 1 fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32329119</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.gauci.2021.101491">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gauci</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Baroudjian</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>B&#x000e9;d&#x000e9;r&#x000e8;de</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Zeboulon</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Delyon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Allayous</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Madelaine</surname><given-names>I</given-names></name>
+<etal/>
+<collab>PATIO group</collab>
+</person-group>
+              <article-title>Severe immune-related hepatitis induced by immune checkpoint inhibitors: Clinical features and management proposal.</article-title>
+              <source>Clin Res Hepatol Gastroenterol.</source>
+              <year>2021</year>
+              <volume>45</volume>
+              <elocation-id>101491</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 339 patients treated at a single French referral center with checkpoint inhibitors, 21 [6.2%] developed high grade liver toxicity, including 8% [7/86] receiving ipilimumab, 3% [3/105] nivolumab, 1% [1/122] pembrolizumab and 38% [10/26] combination therapy; 13 patients received corticosteroids, all except one with severe biliary lesions recovered and 8 restarted therapy none of whom relapsed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32773362</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.cho.2021.16">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cho</surname><given-names>YA</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Youn</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Gwak</surname><given-names>HS</given-names></name>
+</person-group>
+              <article-title>Analysis of risk factors for hepatotoxicity induced by immune checkpoint Inhibitors.</article-title>
+              <source>J Immunother.</source>
+              <year>2021</year>
+              <volume>44</volume>
+              <fpage>16</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 194 patients with cancer treated with checkpoint inhibitors at two Korean referral centers, 125 [64%] developed liver test abnormalities, more frequently in younger patients vs older [30-50 years - 80% vs 50-70 years - 72%, and &#x0003e;70 years - 50%] and in men than women [68% vs 58%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33290362</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.au.2021.810">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Au</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Body</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mant</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nicoll</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Checkpoint inhibitor induced steroid refractory drug-induced liver injury.</article-title>
+              <source>Intern Med J.</source>
+              <year>2021</year>
+              <volume>51</volume>
+              <fpage>810</fpage>
+              <lpage>811</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(75 year old man with metastatic melanoma developed ALT elevations [peak 451 U/L] starting 4 weeks after starting ipilimumab and nivolumab treated with corticosteroids, with a prompt improvement but relapse once predniosone was tapered [ALT 647 U/L], which responded with addition of mycophenolate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34047030</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.ortland.2021.w20503">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ortland</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Mirjalili</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kullak-Ublick</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Peymani</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury in Switzerland: an analysis of drug-related hepatic disorders in the WHO pharmacovigilance database VigiBase<sup>TM</sup> from 2010 to 2020.</article-title>
+              <source>Swiss Med Wkly.</source>
+              <year>2021</year>
+              <volume>151</volume>
+              <elocation-id>w20503</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2042 cases of drug induced liver injury reported from Switzerland to VigiBase between 2010 and 2020, average age 57 years, males and females similar proportions, 10% were fatal and the most common causes included acetaminophen [5.8%], amoxicillin/clavulanate 3.1%, esomeprazole [2.0%], atorvastatin [1.9%], and nivolumab [1.3%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34000058</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.yamamoto.2021.1747">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yamamoto</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Yano</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ueda</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yasutomi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hatazawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Hayashi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical features of immune-mediated hepatotoxicity induced by immune checkpoint inhibitors in patients with cancers.</article-title>
+              <source>J Cancer Res Clin Oncol.</source>
+              <year>2021</year>
+              <volume>147</volume>
+              <fpage>1747</fpage>
+              <lpage>1756</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 250 patients with cancer treated with checkpoint inhibitors, 21 [9.5%] developed immune mediated liver injury, most frequently with ipilimumab [60%], ipilimumab and nivolumab [57%] compared to nivolumab alone [7%] or pembrolizumab [3%], and rates were higher in patients with melanoma [35%] compared to renal cell cancer [10%] and others).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33222015</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ipilimumab.REF.purde.2022.647">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Purde</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Niederer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wagner</surname><given-names>NB</given-names></name>
+<name name-style="western"><surname>Diem</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Berner</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Hasan Ali</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Hillmann</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Presence of autoantibodies in serum does not impact the occurrence of immune checkpoint inhibitor-induced hepatitis in a prospective cohort of cancer patients.</article-title>
+              <source>J Cancer Res Clin Oncol.</source>
+              <year>2022</year>
+              <volume>148</volume>
+              <fpage>647</fpage>
+              <lpage>656</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 131 patients with melanoma or NSCLC treated with checkpoint inhibitors between 2016 and 2019, 11 developed high grade hepatitis [8.4%] which did not correlate with existence or titer of autoantibodies in pretreatment serum samples).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34874490</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ipilimumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ipilimumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ipilimumab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ipilimumab">Trials on Ipilimumab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

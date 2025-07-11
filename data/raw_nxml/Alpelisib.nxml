@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Alpelisib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Alpelisib</book-part-id>
+      <title-group>
+        <title>Alpelisib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Alogliptin" document-type="chapter">Alogliptin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AlphaBlockers" document-type="chapter">Alpha 1 Adrenergic Receptor Antagonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Alpelisib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Alpelisib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Alpelisib is an oral selective inhibitor of the phosphoinositol-3-kinase (PIK3) which is mutated in several forms of solid tumors and is approved for use in specific forms of advanced or metastatic breast cancer. Serum aminotransferase elevations are common during alpelisib therapy but clinically apparent liver injury with jaundice has not been reported with its use and must be rare, if it occurs at all.</p>
+        </sec>
+        <sec id="Alpelisib.Background">
+          <title>Background</title>
+          <p>Alpelisib (al&#x0201d; pe lis&#x02019; ib) is an orally available, small molecule inhibitor of the alpha catalytic subunit of phosphoinositol-3 kinase (PIK3CA), an important mediator of cell growth and proliferation. Mutations in PIK3CA are found in several forms of cancer, including breast, ovarian and colorectal carcinoma. These mutations result in dysregulation of cell growth, differentiation, proliferation and apoptosis, pathways that are important in the development of cancer. Specific mutations in PIK3CA are found most frequently (~40%) in hormone receptor positive (HR+), human epidermal growth factor 2 negative (HER2-) breast cancer. Clinical trials of alpelisib combined with antiestrogens in postmenopausal women with breast cancer demonstrate prolongation of both overall and progression free survival. The increase in overall response rates were found only in patients with PIK3CA mutant forms of cancer, and not in unmutated, wild type forms of PIK3CA. Alpelisib was approved in the United States as therapy in combination with fulvestrant for postmenopausal women or men with advanced or metastatic HR+, HER2- breast cancer with mutated PIK3CA. Alpelisib is available in tablets of 50, 150 and 200 mg under the brand name Piqray. The recommended dose is 300 mg once daily. Dose reductions to 250 and 200 mg daily are often needed, but lower doses are not recommended. Alpelisib is given in combination with fulvestrant, an anti-estrogen, the recommended dosage being 500 mg given intramuscularly on days 1, 15 and 29 and monthly thereafter. Side effects of combination alpelisib-fulvestrant therapy are common and arise in almost all patients and can include hyperglycemia, diarrhea, nausea and vomiting, decreased appetite, fatigue, rash, stomatitis, weight loss, and elevations in serum creatinine, lipase and aminotransferase levels. Uncommon but potentially severe adverse events include hypersensitivity reactions, severe cutaneous reactions including DRESS and Stevens Johnson syndrome, pneumonitis and interstitial lung disease, severe diarrhea with dehydration, marked hyperglycemia, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Alpelisib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of alpelisib in patients with cancer, liver test abnormalities were frequent although usually transient, asymptomatic, and mild-to-moderate in severity. Some degree of ALT elevation arose in up to 44% of alpelisib- and fulvestrant-treated patients, but were above 5 times the upper limit of normal (ULN) in only 3% to 4%. The aminotransferase elevations rarely necessitated dose modifications or interruptions, and only slightly lower rates of enzyme elevations occurred in patients taking fulvestrant without alpelisib. In these trials that enrolled less than 1000 patients, there were several reports of marked serum aminotransferase elevations that led to early discontinuation. However, the nature and clinical features of the liver injury were not provided and there were no cases of clinically apparent liver injury. Skin rashes were also common with alpelisib therapy, and patients are often given prophylactic antihistamines which appear to result in fewer and milder rashes. However, moderate-to-severe rash can occur and some are accompanied by drug reaction with eosinophilia and systemic signs (DRESS) syndrome, some degree of liver injury (usually anicteric and asymptomatic) being a part of the manifestations.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Alpelisib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury from alpelisib is unknown, but with pattern of abnormalities suggests some degree of low level, direct hepatotoxicity. Alpelisib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and 2C9, and is susceptible to drug-drug interactions with agents that inhibit or induce the CYP enzyme reactivity.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Alpelisib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary interruption of alpelisib therapy. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution but with aminotransferase elevations without jaundice or symptoms, cautious reintroduction of therapy can be attempted. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors but there is no information or shared adverse event sensitivity of alpelisib with other antineoplastic protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Tyrosine Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Alpelisib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Alpelisib &#x02013; Piqray&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents, Kinase Inhibitors</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Alpelisib">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Alpelisib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Alpelisib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Alpelisib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Alpelisib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Alpelisib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Alpelisib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Alpelisib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Alpelisib</td>
+                <td headers="hd_h_Alpelisib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163643246">1217486-61-7</ext-link>
+</td>
+                <td headers="hd_h_Alpelisib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H22-F3-N5-O2-S</td>
+                <td headers="hd_h_Alpelisib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="163643246" document-id-type="sid" document-type="summary" object-id="163643246" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Alpelisib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 September 2021</p>
+        <p>Abbreviations: PIK3CA, phosphidylinositol-3 kinase alpha catalytic subunit; ER+, estrogen receptor positive; HER2-, human epidermal growth factor receptor 2 negative; HR+, hormone receptor positive; PR+, progesterone receptor positive.</p>
+        <ref-list id="Alpelisib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Alpelisib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p>(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alpelisib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p>(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss alpelisib).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alpelisib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p>(Textbook of pharmacology and therapeutics).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alpelisib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212526Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212526Orig1s000MultidisciplineR.pdf</ext-link><annotation><p>(FDA website with product labels and initial clinical review of the safety and efficacy of alpelisib; states that virtually all patients treated with alpelisib with fulvestrant developed at least one adverse event and dose modifications were frequent, but ALT and AST elevations were usually mild-to-moderate, transient and asymptomatic, rising to above normal in 44% [vs 34% of controls] and above 5 times ULN in only 3% [vs 2% of controls] and no patient developed clinically apparent liver injury with jaundice).</p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alpelisib.REF.rodon.2018.31709">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rodon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Curigliano</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Delord</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Harb</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Azaro</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wilke</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A Phase Ib, open-label, dose-finding study of alpelisib in combination with paclitaxel in patients with advanced solid tumors.</article-title>
+              <source>Oncotarget.</source>
+              <year>2018</year>
+              <volume>9</volume>
+              <fpage>31709</fpage>
+              <lpage>31718</lpage>
+              <annotation>
+                <p>(Among 19 adults with various advanced solid tumors treated with escalating doses of alpelisib [150, 250, and 300 mg daily] with fixed doses of paclitaxel, dose-limiting toxicities were common [hyperglycemia, renal dysfunction, leukopenia] even at the lower doses, and the study was terminated early; no mention of ALT elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30167089</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.jain.2018.371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jain</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Santa-Maria</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Siziopikou</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Rademaker</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Helenowski</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Cristofanilli</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phase I study of alpelisib (BYL-719) and trastuzumab emtansine (T-DM1) in HER2-positive metastatic breast cancer (MBC)after trastuzumab and taxane therapy.</article-title>
+              <source>Breast Cancer Res Treat.</source>
+              <year>2018</year>
+              <volume>171</volume>
+              <fpage>371</fpage>
+              <lpage>381</lpage>
+              <annotation>
+                <p>(Among 17 patients with HER2+ metastatic breast cancer progressing despite trastuzumab and taxane therapy who were then treated with alpelisib and trastuzumab-emtansine, the objective response rate was 43% but side effects were frequent including aminotransferase elevations [76%, but none above 5 times ULN], hyperglycemia [53%], fatigue [53%], rash [47%], nausea [41%]; but both beneficial and adverse effects may have been due to trastuzumab-emtansine).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29850984</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.juric.2019.e184475">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Juric</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Janku</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Rod&#x000f3;n</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Burris</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Schuler</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Seggewiss-Bernhardt</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Alpelisib plus fulvestrant in PIK3CA-altered and PIK3CA-wild-type estrogen receptor-positive advanced breast cancer: a phase 1b clinical trial.</article-title>
+              <source>JAMA Oncol.</source>
+              <year>2019</year>
+              <volume>5</volume>
+              <elocation-id>e184475</elocation-id>
+              <annotation>
+                <p>(Among 87 women with progressive ER+, HER2- breast cancer treated with escalating doses of alpelisib [300, 350 or 400 mg once daily], the objective response rate was 29% in the PIK3CA altered group but 0% in those with wild type alleles, while adverse events were common and led to dose modification in 69%, usually from hyperglycemia or rash; AST elevations arose in 15 patients [17%] but were above 5 times ULN in only 2, both in the highest dose cohort).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30543347</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.mayer.2019.2975">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mayer</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Prat</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Egle</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Blau</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fidalgo</surname><given-names>JAP</given-names></name>
+<name name-style="western"><surname>Gnant</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fasching</surname><given-names>PA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase II randomized study of neoadjuvant letrozole plus alpelisib for hormone receptor-positive, human epidermal growth factor receptor 2-negative breast cancer (NEO-ORB).</article-title>
+              <source>Clin Cancer Res.</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>2975</fpage>
+              <lpage>2987</lpage>
+              <annotation>
+                <p>(Among 257 women with HR+, HER2- early breast cancer who were treated with neoadjuvant letrozole plus either alpelisib [300 mg] or placebo daily for 24 weeks, objective response rates were similar in the two groups regardless of PIK3CA mutation status [without 41% vs 45% and with 63% vs 61%], while adverse events were more frequent with alpelisib, including serious adverse events [12% vs 1%], discontinuations for adverse events [9% vs none] and ALT elevations [11% vs 2%] which were above 5 times ULN in 3% vs 1%).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30723140</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.andr_.2019.1929">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andr&#x000e9;</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ciruelos</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rubovszky</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Campone</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Loibl</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rugo</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Iwata</surname><given-names>H</given-names></name>
+<etal/>
+<collab>SOLAR-1 Study Group</collab>
+</person-group>
+              <article-title>Alpelisib for <italic toggle="yes">PIK3CA</italic>-mutated, hormone receptor-positive advanced breast cancer.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2019</year>
+              <volume>380</volume>
+              <fpage>1929</fpage>
+              <lpage>1940</lpage>
+              <annotation>
+                <p>(Among 572 patients with advanced HR+, HER2- breast cancer treated with fulvestrant with either alpelisib or placebo, median progression free survival was 39.3 vs 31.4 months overall, but was 11.0 vs 5.7 months in those with PIK3-CA mutations; adverse events arose in 99.4% vs 68.6% and were considered severe in 63.8% vs 37.7%, with hyperglycemia in 64% vs 10% and rash in 36% vs 6%; no mention of rates of ALT elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31091374</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.markham.2019.1249">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Alpelisib: First Global Approval.</article-title>
+              <source>Drugs.</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1249</fpage>
+              <lpage>1253</lpage>
+              <annotation>
+                <p>(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of alpelisib shortly after its approval in the US as therapy in combination with fulvestrant for postmenopausal women or men with HR+, HER2-, PIK3CA-mutated advanced or metastatic breast cancer; adverse events were frequent including elevations in ALT levels in 44% vs 34% of controls treated with fulvestrant alone).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31256368</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.rugo.2020.1001">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rugo</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Andr&#x000e9;</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Yamashita</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Cerda</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Toledano</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Stemmer</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Jurado</surname><given-names>JC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Time course and management of key adverse events during the randomized phase III SOLAR-1 study of PI3K inhibitor alpelisib plus fulvestrant in patients with HR-positive advanced breast cancer.</article-title>
+              <source>Ann Oncol.</source>
+              <year>2020</year>
+              <volume>31</volume>
+              <fpage>1001</fpage>
+              <lpage>1010</lpage>
+              <annotation>
+                <p>(Among 571 patients with advanced breast cancer treated with fulvestrant combined with alpelisib or placebo, adverse events arose in 99% vs 92%, including hyperglycemia [64% vs 10% usually within 2 weeks], diarrhea [58% vs 16%], decreased appetite [36% vs 11%] rash [36% vs 11%, usually within 1-2 weeks and decreased in incidence and severity by pretreating with antihistamines]; no discussion of ALT elevations or hepatotoxicity).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32416251</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.wang.2020.227">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wang</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Barrios</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Blinder</surname><given-names>VS</given-names></name>
+<name name-style="western"><surname>Bromberg</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Drullinsky</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Funt</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Jhaveri</surname><given-names>KL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Dermatologic adverse events related to the PI3K&#x003b1; inhibitor alpelisib (BYL719) in patients with breast cancer.</article-title>
+              <source>Breast Cancer Res Treat.</source>
+              <year>2020</year>
+              <volume>183</volume>
+              <fpage>227</fpage>
+              <lpage>237</lpage>
+              <annotation>
+                <p>(Among 102 women receiving alpelisib for breast cancer, 41 [40%] develop rash, mean 13 days after starting chemotherapy and lasting an average of 7 days, biopsy showing perivascular and interface lymphocytic dermatitis, with minimal increase in eosinophil counts and in ALT levels usually responding to antihistamines and local corticosteroid therapy, among 16 who interrupted therapy, 12 restarted alpelisib, and none re-developed rash).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32613539</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.andr_.2021.208">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andr&#x000e9;</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ciruelos</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Juric</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Loibl</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Campone</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mayer</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Rubovszky</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Alpelisib plus fulvestrant for PIK3CA-mutated, hormone receptor-positive, human epidermal growth factor receptor-2-negative advanced breast cancer: final overall survival results from SOLAR-1.</article-title>
+              <source>Ann Oncol.</source>
+              <year>2021</year>
+              <volume>32</volume>
+              <fpage>208</fpage>
+              <lpage>217</lpage>
+              <annotation>
+                <p>(Among 572 patients with PIK3CA-mutated, HR+, HER2- breast cancer, treatment with alpelisib and fulvestrant resulted in a median overall survival of 39.2 months vs 31.4 months in those receiving fulvestrant alone).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33246021</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.narayan.2021.1842">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Narayan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Prowell</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Fernandes</surname><given-names>LL</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Qiu</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>FDA approval summary: alpelisib plus fulvestrant for patients with HR-positive, HER2-negative, PIK3CA-mutated, advanced or metastatic breast cancer.</article-title>
+              <source>Clin Cancer Res.</source>
+              <year>2021</year>
+              <volume>27</volume>
+              <fpage>1842</fpage>
+              <lpage>1849</lpage>
+              <annotation>
+                <p>(Review of the chemical, pharmacological, toxicologic, clinical and safety data that supported the FDA approval of alpelisib with fulvestrant as therapy of advanced or metastatic PIK3Ca mutant breast cancer; safety data was based on 571 trial participants, among whom dose discontinuations for adverse reactions were done in 25% on alpelisib and fulvestrant vs 4.5% on fulvestrant alone; mentions that ALT elevations arose in 44% of alpelisib treated subjects).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33168657</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.majeed.2021.726785">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Majeed</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Puiu</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Sluzevich</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reynolds</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Acampora</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moreno-Aspitia</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bodiford</surname><given-names>KJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Case report: alpelisib-induced drug reaction with eosinophilia and systemic symptoms: a rare manifestation of a common side effect.</article-title>
+              <source>Front Oncol.</source>
+              <year>2021</year>
+              <volume>11</volume>
+              <elocation-id>726785</elocation-id>
+              <annotation>
+                <p>(52 year old woman with metastatic breast cancer developed rash 12 days after starting alpelisib, fulvestrant and cetirizine with periorbital edema, elevated white count, increase in eosinophils [1,310], decrease in platelets [72,000], and mild increase in liver tests [ALT 46 U/L, AST 74 U/L, bilirubin 1.7 mg/dL] [RegiSCAR score=8], responding rapidly to prednisone and not relapsing but having normal blood counts and liver tests 12 weeks after withdrawal).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34504802</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alpelisib.REF.handy.2021.11782234211037421">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Handy</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wesolowski</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Gillespie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lause</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sardesai</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Grimm</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tumor lysis syndrome in a patient with metastatic breast cancer treated with alpelisib.</article-title>
+              <source>Breast Cancer (Auckl)</source>
+              <year>2021</year>
+              <volume>15</volume>
+              <elocation-id>11782234211037421</elocation-id>
+              <annotation>
+                <p>(66 year old woman with PIK3 mutated breast cancer developed altered mental state 12 days after starting alpelisib and fulvestrant with hallucinations, asterixis, creatine 15 mg/dL, uric acid 16.2 mg/dL, high potassium and high phosphate levels which responded to fluid and electrolyte replacement, allopurinol and rasburicase, laboratory values returning to normal in the next week; she later tolerated restarting alpelisib and fulvestrant).</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34483661</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Alpelisib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Alpelisib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Alpelisib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Alpelisib">Trials on Alpelisib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

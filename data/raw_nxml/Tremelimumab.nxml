@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tremelimumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tremelimumab</book-part-id>
+      <title-group>
+        <title>Tremelimumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trazodone" document-type="chapter">Trazodone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Triamterene" document-type="chapter">Triamterene</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tremelimumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tremelimumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tremelimumab is a monoclonal antibody check point inhibitor that is used in combination with durvalumab, a second check point inhibitor, in the therapy of unresectable hepatocellular carcinoma (HCC) and non-small cell lung cancer (NSCLC). The combination of tremelimumab and durvalumab is associated with a relatively high rate of serum aminotransferase elevations during therapy and an appreciable rate of clinically apparent immune mediated liver injury which can be severe and even fatal.</p>
+        </sec>
+        <sec id="Tremelimumab.Background">
+          <title>Background</title>
+          <p>Tremelimumab (tre&#x0201d; me lim&#x02019; ue mab) is an IgG2 monoclonal antibody to the cytotoxic T lymphocyte antigen-4 (CTLA-4) which is used in combination with durvalumab, a monoclonal antibody to the programmed cell death receptor ligand-1 (PD-L1), as immune therapy of HCC and NSCLC. Both tremelimumab and durvalumab are check point inhibitors that act by inhibition of cellular pathways that down-regulate immune reactions, thus helping to break tolerance and lead to immune clearance of cancer cells by promoting T cell activation and unleashing cytotoxic antitumor activity. Breaking tolerance, however, can also lead to unintended immune mediated injury to normal tissue. Like other combinations of monoclonal antibody inhibitors of the checkpoint proteins, CTLA-4 and anti-PD-1, tremelimumab combined with durvalumab has enhanced potency but also increased adverse events compared to either agent alone. The combination of tremelimumab with durvalumab has been shown to increase the clinical response rate to chemotherapy in patients with several forms of advanced or metastatic cancer. The combination was given accelerated approval as therapy of unresectable HCC and NSCLC in 2022 and continues to be under evaluation as therapy of other neoplastic diseases. Tremelimumab is available in single use vials of 25 mg in 1.25 mL and 300 mg in 15 mL (both at 20 mg/mL) under the brand name Imjudo. Both agents are administered intravenously and the recommended dose regimen varies by indication and body weight. For adults with body weight more than 30 kg, tremelimumab is recommended in doses of 300 mg and durvalumab in doses of 1500 mg. For HCC, a single priming dose of tremelimumab is given while durvalumab is administered every 4 weeks continuing until disease progression or intolerable toxicity arises. For NSCLC, the combination of tremelimumab 75 mg with durvalumab 1500 mg is given every 3 weeks for 4 cycles, then durvalumab every 4 weeks. Side effects of the combination are common and can include rash, diarrhea, abdominal pain, nausea, vomiting, pruritus, fatigue. More severe adverse events include immune mediated reactions of various organs including pneumonitis, dermatitis, colitis, nephritis, hepatitis and thyroiditis. Because tremelimumab is given in combination with durvalumab, side effects of therapy cannot be reliably attributed to one or the other agent, but durvalumab being given long term is probably responsible for most adverse events. Other severe adverse events with this combination include hypersensitivity reactions, tumor lysis syndrome and embryo-fetal injury.</p>
+        </sec>
+        <sec id="Tremelimumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum enzyme elevations occur in 41% to 56% of patients taking the combination of tremelimumab and durvalumab and rise to above 5 times the upper limit of normal (ULN) in 8% to 18% of patients. Immune mediated reactions are reported to occur in up to 36% of patients, which are liver related in 7.5% of patients with HCC but less frequently in those with other malignancies. The immune mediated liver injury can be severe, and fatal instances have been reported. Most instances of immune mediated hepatitis ultimately require corticosteroid therapy and result in high discontinuation rates. The immune mediated liver injury typically arises after 1 to 3 infusions and is usually hepatocellular in pattern and may be more related to durvalumab than tremelimumab. Rare instances of cholestatic immune mediated injury have been reported with checkpoint inhibitors, which is typically more severe and protracted and less likely to respond to immunosuppressive therapy. Monitoring of liver tests at the time of monthly infusions is recommended and stopping therapy early may play an important role in preventing severe and fatal outcomes.</p>
+          <p>The effects of combined CTLA-4 and PD-L1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described due to other checkpoint inhibitors. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having with anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with tremelimumab and durvalumab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis.</p>
+          <p>Likelihood score: C (probable cause of immune mediated clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tremelimumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of tremelimumab immune mediated organ damage is due to inhibition of checkpoint proteins that results in breaking tolerance to self-antigens and T cell activation. Off target T cell activation leads to immune-relayed adverse events such as hepatitis. Liver related immune reactions usually respond to immunosuppressive therapy.</p>
+        </sec>
+        <sec id="Tremelimumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of tremelimumab and durvalumab induced liver injury ranges from transient, asymptomatic elevations in serum enzymes to acute liver injury with jaundice to severe acute liver failure and death. Guidelines for management of patients receiving the combination of tremelimumab and durvalumab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN and discontinuing treatment for values above 8 times the ULN in patients without preexisting abnormalities or tumor involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with high or persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days.</p>
+          <p>Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy which can be discontinued in 1 to 3 months. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, infliximab or tacrolimus) and prolonged immunosuppression may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had an immune related cholangiopathy or severe acute hepatitis resistant to immunosuppressive therapy. Restarting tremelimumab or durvalumab after severe liver injury requiring corticosteroid therapy can be followed by recurrence of liver injury and is not recommended.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+          <p>Other Related Drugs: <related-object link-type="booklink" source-id="livertox" document-id="Atezolizumab" document-type="chapter">Atezolizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Avelumab" document-type="chapter">Avelumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cemiplimab" document-type="chapter">Cemiplimab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cetuximab" document-type="chapter">Cetuximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dostarlimab" document-type="chapter">Dostarlimab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Durvalumab" document-type="chapter">Durvalumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ipilimumab" document-type="chapter">Ipilimumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nivolumab" document-type="chapter">Nivolumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pembrolizumab" document-type="chapter">Pembrolizumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tremelimumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tremelimumab &#x02013; Imjudo&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tremelimumab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tremelimumab.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tremelimumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tremelimumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tremelimumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tremelimumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tremelimumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tremelimumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tremelimumab</td>
+                <td headers="hd_h_Tremelimumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubchem.ncbi.nlm.nih.gov/substance/135304002">745013-59-6</ext-link>
+</td>
+                <td headers="hd_h_Tremelimumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Tremelimumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tremelimumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2023</p>
+        <p>Abbreviations used: CTLA-4, cytotoxic T lymphocyte associated antigen 4; HCC, hepatocellular carcinoma; NSCLC, non-small cell lung cancer; PD-1, programmed cell death receptor 1; PD-L1, programmed cell death receptor ligand-1.</p>
+        <ref-list id="Tremelimumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tremelimumab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.tremelimumab.2022">
+            <mixed-citation publication-type="web">FDA. Tremelimumab: Multi-discipline review, 2022. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761289Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761289Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific reviews of the new drug application for safety and efficacy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.calabr_.2018.451">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Calabr&#x000f2;</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Morra</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Giannarelli</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Amato</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>D'Incecco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Covre</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tremelimumab combined with durvalumab in patients with mesothelioma (NIBIT-MESO-1): an open-label, non-randomised, phase 2 study.</article-title>
+              <source>Lancet Respir Med.</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>451</fpage>
+              <lpage>460</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 40 patients with unresectable mesothelioma treated with tremelimumab and durvalumab, disease control was achieved in 63% of patients, while adverse events arose in 75% and 3% had ALT elevations, one of which was severe [&#x0003e;20 times ULN] and required early discontinuation and corticosteroid therapy but ultimately resolved).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29773326</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.schoenfeld.2022.279">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schoenfeld</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Giobbie-Hurder</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ranasinghe</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kao</surname><given-names>KZ</given-names></name>
+<name name-style="western"><surname>Lako</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tsuji</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Durvalumab plus tremelimumab alone or in combination with low-dose or hypofractionated radiotherapy in metastatic non-small-cell lung cancer refractory to previous PD(L)-1 therapy: an open-label, multicentre, randomised, phase 2 trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2022</year>
+              <volume>23</volume>
+              <fpage>279</fpage>
+              <lpage>291</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 78 patients with refractory metastatic NSCLC treated with tremelimumab and durvalumab with or without radiotherapy, response rates [~11% overall] and adverse events rates [76%] were similar in all groups and ALT elevations above 5 times ULN arose in only one patient).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35033226</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.somaiah.2022.1156">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Somaiah</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Conley</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Parra</surname><given-names>ER</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Amini</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Solis Soto</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Salazar</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Durvalumab plus tremelimumab in advanced or metastatic soft tissue and bone sarcomas: a single-centre phase 2 trial.</article-title>
+              <source>Lancet Oncol.</source>
+              <year>2022</year>
+              <volume>23</volume>
+              <fpage>1156</fpage>
+              <lpage>1166</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 57 patients with advanced or metastatic sarcoma treated with tremelimumab and durvalumab, the clinical response rate was low and adverse events were frequent; but there was no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35934010</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.johnson.2022.jco2200975">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Johnson</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Luft</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Alatorre-Alexander</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Geater</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Laktionov</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>SW</given-names></name>
+<etal/>
+<collab>POSEIDON investigators</collab>
+</person-group>
+              <article-title>Durvalumab with or without tremelimumab in combination with chemotherapy as first-line therapy for metastatic non-small-cell lung cancer: the phase III POSEIDON Study.</article-title>
+              <source>J Clin Oncol.</source>
+              <year>2022</year>
+              <month>Nov</month>
+              <day>3</day>
+              <elocation-id>JCO2200975</elocation-id>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1014 patients with metastatic NSCLC treated with tremelimumab and durvalumab with [D+T] or durvalumab alone [D] or with standard chemotherapy alone [CT], overall survival and progression-free survival was greater in the two checkpoint inhibitor arms and all 3 had similar rates of adverse events [93%, 89% and 90%] and deaths from adverse events [3.3%, 2.1% and 2.4%], but rates of immune reactions were greater with D+T [33.6%] than D [19.2%] or CT [5.1%]; ALT elevations arose in 10.3% vs 12.0% and 12.3%, which were above 5 times ULN in 1.2% vs 2.1% vs 2.1%).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.aboualfa.2022">
+            <mixed-citation publication-type="other">Abou-Alfa GK, Lau G, Kudo M, Chan SL, Kelley RK, Furuse J, Sukeepaisarnjaroen W, et al.; HIMALAYA Investigators. Tremelimumab plus durvalumab in unresectable hepatocellular carcinoma. NEJM Evid 2022;1(8). [Not in PubMed]<annotation><p><italic toggle="yes">(Among 1171 patients with unresectable hepatocellular carcinoma treated with a single priming dose of tremelimumab with durvalumab every 4 weeks [T+D] vs durvalumab alone [D] vs sorafenib [S], overall survival at 36 months was greatest with T+D [31%], compared to D [25%] and S [20% ], and while overall adverse event rates were similar, severe adverse events were greatest with T+D [40% vs 30% vs 30%] as were any immune reactions [36% vs 17% vs 8%]; any ALT elevation arose in 9% vs 11% vs 5%, ALT elevations above 5 times ULN in 3% vs 3% vs 2%, and liver related immune reactions in 7.5% vs 6.4% vs 0.3%).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.psyrri.2022">
+            <mixed-citation publication-type="other">Psyrri A, Fayette J, Harrington K, Gillison M, Ahn MJ, Takahashi S, Weiss J, et al. Durvalumab with or without tremelimumab versus the EXTREME regimen as first-line treatment for recurrent or metastatic squamous cell carcinoma of the head and neck: KESTREL, a randomized, open-label, phase III study. Ann Oncol. 2022:S0923-7534(22)04778-0. Epub ahead of print.<annotation><p><italic toggle="yes">(Among 823 patients with recurrent or metastatic head and neck cancer treated with tremelimumab with durvalumab [T+D], durvalumab alone [D] or standard of care [SOC], overall survival was similar in the three arms while serious adverse events were more frequent with T+D than D alone [14.5% vs 7.4%]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.keam.2023.93">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keam</surname><given-names>SJ</given-names></name>
+</person-group>
+              <article-title>Tremelimumab: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2023</year>
+              <volume>83</volume>
+              <fpage>93</fpage>
+              <lpage>102</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of tremelimumab shortly after its combination with durvalumab was approval for use in unresectable hepatocellular carcinoma [HCC] and metastatic non-small cell lung cancer, mentions that ALT elevations above 5 times ULN arose in 18% and immune related hepatitis in 7.5% of patients receiving the combination of tremelimumab and durvalumab for HCC but less frequently in patients with NSCLC).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36571670</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tremelimumab.REF.de_castro.2023.106">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Castro</surname><given-names>G</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Rizvi</surname><given-names>NA</given-names></name>
+<name name-style="western"><surname>Schmid</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Syrigos</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Yamamoto</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>NEPTUNE Investigators. NEPTUNE: Phase 3 study of first-line durvalumab plus tremelimumab in patients with metastatic NSCLC.</article-title>
+              <source>J Thorac Oncol.</source>
+              <year>2023</year>
+              <volume>18</volume>
+              <fpage>106</fpage>
+              <lpage>119</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 823 patients with NSCLC treated with four 4-weekly doses of tremelimumab and long term 4-weekly doses of durvalumab [T+D] vs standard chemotherapy, median overall survival was not different in the two groups [11.7 vs 9.1 months], but adverse event rates were less with T+D [68% vs 82%], and although immune related reactions were more frequent with T+D [33% vs 2%], hepatic related immune reactions were uncommon [2% vs 0%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36240972</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tremelimumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tremelimumab/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tremelimumab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tremelimumab">Trials on Tremelimumab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

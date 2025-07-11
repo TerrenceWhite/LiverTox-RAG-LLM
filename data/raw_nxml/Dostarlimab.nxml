@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Dostarlimab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Dostarlimab</book-part-id>
+      <title-group>
+        <title>Dostarlimab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>6</month>
+          <year>2022</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Doripenem" document-type="chapter">Doripenem</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Doxazosin" document-type="chapter">Doxazosin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Dostarlimab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Dostarlimab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Dostarlimab is a human monoclonal antibody to the programmed cell death receptor 1 (PD-1) and a checkpoint inhibitor used in the immunotherapy of cancer. Dostarlimab therapy has many adverse effects and particularly immune related conditions including acute hepatitis, which can be serious and even life threatening.</p>
+        </sec>
+        <sec id="Dostarlimab.Background">
+          <title>Background</title>
+          <p>Dostarlimab (dos tar&#x02019; li mab) is a human recombinant monoclonal IgG4 antibody to the programmed cell death receptor 1 (PD-1) and is a checkpoint inhibitor used in cancer immunotherapy. PD-1 is an important checkpoint protein that is expressed on activated T and B cells and macrophages. Binding of the monoclonal antibody to the PD-1 receptor prevents ligand attachment and activation of the programmed cell death pathways, thereby allowing for a continued activation and proliferation of T cells. The subsequent enhancement of cytotoxic reactivity may play a beneficial role in cancer immunotherapy by breaking immunological tolerance to cancer cell neoantigens. In prelicensure clinical studies, dostarlimab therapy resulted in objective responses in 42% of patients with DNA mismatch repair deficient, advanced or recurrent endometrial carcinoma. Tumors with mismatch repair deficiency have high rates of chromosomal changes that are associated with increased expression of neoantigens, which makes these cancers an attractive target for checkpoint inhibition. Dostarlimab was given accelerated approval for use in endometrial carcinoma in the United States in 2021. It is under evaluation in many other cancers, including cervical, ovarian, breast, liver, pancreatic, lung and colorectal carcinoma. Dostarlimab is available in solution in single use vials of 500 mg in 10 mL (50 mg/mL) under the brand name Jemperli. The recommended dose regimen is 500 mg intravenously every 3 weeks for four doses, followed 3 weeks later by 1000 mg every 6 weeks, continuing until disease progression or unacceptable toxicity. Side effects are common and can include fatigue, nausea, vomiting, diarrhea, constipation, musculoskeletal pain, anemia, pruritus, rash and infusion reactions. Up to 30% of patients treated with dostarlimab develop immune related side effects as a result of immune enhancement. These reactions are high grade in 10% of patients and can include enterocolitis, dermatitis, endocrinopathy, pneumonitis, neuropathy, nephritis and hepatitis. Most of these reactions respond to dose interruption and/or immunosuppressive therapy, but some patients relapse and need long term immunosuppression, while some have resulted in fatalities. Early recognition and prompt management of these side effects is an integral component of proper use of checkpoint inhibitors such as dostarlimab.</p>
+        </sec>
+        <sec id="Dostarlimab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase and alkaline phosphatase elevations are common (15% to 25%) during dostarlimab therapy, but are usually self-limited and resolve even with continuing cyclic therapy. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 2% to 3% of patients. In addition, a proportion of dostarlimab treated individuals develop immune related liver injury, which usually arises after 2 to 6 cycles of therapy and is associated with enzyme elevations that are usually hepatocellular but may be mixed or even cholestatic. Most cases are hepatocellular or mixed and are anicteric and self-limited in course. Cholestatic forms of injury are more likely to be icteric and prolonged and can result in chronic injury. Monitoring of serum enzymes is recommended during dostarlimab therapy with dose interruption or discontinuation based upon the height of the elevations in relationship to baseline. When serum aminotransferase levels are extremely high or are associated with symptoms or jaundice, or remain elevated despite discontinuation of the checkpoint inhibitor, early intervention with immunosuppressive therapy is prudent and generally results in rapid resolution. Liver histology usually demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. Autoantibodies are usually not present and immunoglobulin levels may not be elevated. Restarting monoclonal antibody therapy can result in recurrence of injury, although corticosteroid treatment may block recurrence. Immune mediated hepatitis appears to be more frequent with anti-CTLA-4 than with anti-PD-1 or anti-PD-L1 checkpoint inhibitors. Among 444 patients treated with dostarlimab in prelicensure studies, 9 (2%) developed immune related hepatitis.</p>
+          <p>The checkpoint inhibitors can also cause cholestatic hepatitis and cholangiopathies with prominent elevations in alkaline phosphatase that can be severe and prolonged. Examples of vanishing bile duct syndrome and immune related sclerosing cholangitis have been reported with the more frequently used checkpoint inhibitors such as nivolumab, pembrolizumab and durvalumab.</p>
+          <p>The effects of PD-1 inhibition on chronic hepatitis B are not well defined but convincing examples of reactivation of hepatitis B have been described. Most cases have occurred in patients with preexisting HBsAg, but rare instances were reported in individuals suspected of having anti-HBc without HBsAg. Thus, screening patients for HBsAg, anti-HBc and anti-HBs is appropriate before initiating immunotherapy with checkpoint inhibitors. Patients with HBsAg should be considered for prophylaxis with an antiviral agent with potent activity against HBV such as entecavir or tenofovir. In patients with anti-HBc without HBsAg, monitoring and close attention to liver test abnormalities is probably adequate if antiviral therapy can be introduced rapidly for early evidence of reactivation. There has not been adequate experience with dostarlimab in regard to the risk of reactivation of hepatitis B to provide rates of reactivation with and without antiviral prophylaxis.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury, although experience with the therapy has been limited).</p>
+        </sec>
+        <sec id="Dostarlimab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The liver injury due to dostarlimab is likely to be immunologically mediated, and many cases of checkpoint inhibitor-related hepatitis appear to respond to corticosteroid or other immunosuppressive agents allowing continuation or restarting of therapy.</p>
+        </sec>
+        <sec id="Dostarlimab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving dostarlimab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN, and discontinuing treatment for values above 8 times the ULN in patients without preexisting abnormalities or tumor involvement of the liver (in whom elevations of 5 and 10 times the ULN are used). Corticosteroid therapy can be considered for patients with persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. In cases with unusual features, liver biopsy may help to exclude other causes (sepsis, opportunistic infections, cancer involvement). Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy. In some cases, adding a second agent (such as mycophenolate mofetil, azathioprine, antithymocyte globulin, or tacrolimus) and prolonged immunosuppression may be necessary. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had an immune related cholangiopathy resistant to immunosuppressive therapy. Patients with immune related adverse events due to dostarlimab can frequently restart therapy once the adverse event has resolved, although concurrent immunosuppressive agents may be necessary.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Dostarlimab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Dostarlimab &#x02013; Jemperli&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Dostarlimab">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Dostarlimab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Dostarlimab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Dostarlimab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Dostarlimab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Dostarlimab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Dostarlimab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Dostarlimab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Dostarlimab</td>
+                <td headers="hd_h_Dostarlimab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128218">2022215-59-2</ext-link>
+</td>
+                <td headers="hd_h_Dostarlimab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Dostarlimab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Dostarlimab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 June 2022</p>
+        <p>Abbreviations used: CTLA-4, cytotoxic T lymphocyte associated antigen 4; NSCLC, non-small cell lung cancer; PD-1, programmed cell death receptor 1; PD-L1, programmed cell death receptor ligand-1.</p>
+        <ref-list id="Dostarlimab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Dostarlimab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761174Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761174Orig1s000MultidisciplineR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA Clinical Review of safety and efficacy of dostarlimab; safety discussed on pages 126-133).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.kleiner.2012.2233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Berman</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>2233</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical and histological features of 5 patients with acute liver injury due to ipilimumab; 3 men and 2 women, ages 43 to 76 years, arising after 2-4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis, usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1 Ipilimumab).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22434096</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.teply.2014.30">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teply</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Lipson</surname><given-names>EJ</given-names></name>
+</person-group>
+              <article-title>Identification and management of toxicities from immune checkpoint-blocking drugs.</article-title>
+              <source>Oncology (Williston Park)</source>
+              <year>2014</year>
+              <volume>28</volume>
+              <supplement>Suppl 3</supplement>
+              <fpage>30</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical review of the toxicities of immune checkpoint blocking drugs such as ipilimumab, pembrolizumab and nivolumab; mentions that elevations of serum aminotransferase elevations should lead to careful exclusion of other causes of liver injury and increased monitoring; that elevations above 3 times ULN should lead to withholding the drug and starting corticosteroids; that elevations above 5 times ULN should lead to hospital admission and immediate administration of high doses of corticosteroids).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25384885</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.tumeh.2014.568">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tumeh</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Harview</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Yearley</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Shintaku</surname><given-names>IP</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Robert</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Chmielowski</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PD-1 blockade induces responses by inhibiting adaptive immune resistance.</article-title>
+              <source>Nature</source>
+              <year>2014</year>
+              <volume>515</volume>
+              <issue>7528</issue>
+              <fpage>568</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of expression of PD-1 and its ligand on CD8+ T cells at the margins of melanoma tumors before and after treatment with pembrolizumab showed that responders to therapy typically had high levels of expression of PD-1 and its ligand).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25428505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.sharma.2015.56">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sharma</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Allison</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>The future of immune checkpoint therapy.</article-title>
+              <source>Science</source>
+              <year>2015</year>
+              <volume>348</volume>
+              <issue>6230</issue>
+              <fpage>56</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary and review of the rationale, history, clinical efficacy and mechanism of action of immune checkpoint therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25838373</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.oaknin.2020.1766">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Oaknin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tinker</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Samou&#x000eb;lian</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Mathews</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Barretina-Ginesta</surname><given-names>MP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical activity and safety of the anti-programmed death 1 monoclonal antibody dostarlimab for patients with recurrent or advanced mismatch repair-deficient endometrial cancer: a nonrandomized phase 1 clinical trial.</article-title>
+              <source>JAMA Oncol.</source>
+              <year>2020</year>
+              <volume>6</volume>
+              <fpage>1766</fpage>
+              <lpage>1772</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 104 women with advanced or recurrent endometrial carcinoma with documented DNA mismatch repair deficiency treated with dostarlimab for up to 12 months, the objective response rate was 42%, and 13% of patients had a complete response, while adverse events arose in 93% of patients and were severe in 34%; immune related adverse events occurred in 23%, with 10% being high grade and 2% liver related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33001143</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.oaknin.2021.3781">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Oaknin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tinker</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Samou&#x000eb;lian</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Mathews</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Barretina-Ginesta</surname><given-names>MP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical activity and safety of the anti-PD-1 monoclonal antibody dostarlimab for patients with recurrent or advanced dMMR endometrial cancer.</article-title>
+              <source>Future Oncol.</source>
+              <year>2021</year>
+              <volume>17</volume>
+              <fpage>3781</fpage>
+              <lpage>3785</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(&#x0201c;Plain language&#x0201d; summary of results of the previously published open-label trial [Oaknin 2020]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34427115</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.markham.2021.1213">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markham</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Dostarlimab: first approval.</article-title>
+              <source>Drugs.</source>
+              <year>2021</year>
+              <volume>81</volume>
+              <fpage>1213</fpage>
+              <lpage>1219</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of dostarlimab shortly after its approval as therapy of endometrial carcinoma in the US).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34106455</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.patnaik.2022.93">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Patnaik</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Rasco</surname><given-names>DW</given-names></name>
+<name name-style="western"><surname>Blaydorn</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mirabella</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Beeram</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety, antitumor activity, and pharmacokinetics of dostarlimab, an anti-PD-1, in patients with advanced solid tumors: a dose-escalation phase 1 trial.</article-title>
+              <source>Cancer Chemother Pharmacol.</source>
+              <year>2022</year>
+              <volume>89</volume>
+              <fpage>93</fpage>
+              <lpage>103</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the pharmacokinetics of different dostarlimab doses in the phase 1 open label trial).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34750637</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.oaknin.2022.e003777">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Oaknin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Tinker</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mathews</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Press</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sabatier</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and antitumor activity of dostarlimab in patients with advanced or recurrent DNA mismatch repair deficient/ microsatellite instability-high (dMMR/MSI-H) or proficient/stable (MMRp/MSS) endometrial cancer: interim results from GARNET-a phase I, single-arm study.</article-title>
+              <source>J Immunother Cancer.</source>
+              <year>2022</year>
+              <volume>10</volume>
+              <elocation-id>e003777</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Further results from the open label study of dostarlimab in 264 women with advanced or recurrent endometrial cancer demonstrated higher objective response rates in those with DNA mismatch repair deficiency [43%] than proficiency [13%], with continued high rate of adverse events [98%], treatment related severe events [9%], ALT elevations [6%], and ALT elevations above 5 times ULN [1.4%] but no episodes of clinically apparent liver injury or liver related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35064011</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Dostarlimab.REF.cercek.2022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cercek</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lumish</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sinopoli</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shia</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lamendola-Essel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>El Dika</surname><given-names>IH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>PD-1 Blockade in mismatch repair-deficient, locally advanced rectal cancer.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2022</year>
+              <month>Jun</month>
+              <day>5</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 12 patients with locally advanced rectal cancer with evidence of DNA mismatch repair deficiency, dostarlimab therapy [500 mg intravenously every 3 weeks for 6 months] led to complete clinical responses in all 12, so that surgery and chemotherapy were not needed; adverse events occurred in 75% [no mention of liver abnormalities], but no patient had to discontinue therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35660797</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Dostarlimab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Dostarlimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Dostarlimab: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Dostarlimab">Trials on Dostarlimab: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>
